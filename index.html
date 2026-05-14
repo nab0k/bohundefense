@@ -1,0 +1,969 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bohun Defence Advisory</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #0d0d0b;
+    --bg2: #131310;
+    --bg3: #1a1a16;
+    --border: rgba(255,255,255,0.08);
+    --border-strong: rgba(255,255,255,0.15);
+    --text: #f0ede6;
+    --text-muted: #888880;
+    --text-dim: #555550;
+    --gold: #c9a84c;
+    --gold-dim: rgba(201,168,76,0.12);
+    --gold-border: rgba(201,168,76,0.3);
+    --serif: 'Cormorant Garamond', Georgia, serif;
+    --sans: 'DM Sans', system-ui, sans-serif;
+  }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    font-size: 16px;
+    line-height: 1.7;
+    font-weight: 300;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ── NAV ── */
+  nav {
+    position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 1.25rem 3rem;
+    background: rgba(13,13,11,0.85);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .nav-logo {
+    display: flex; align-items: center; gap: 0.75rem;
+    text-decoration: none; color: var(--text);
+  }
+  .nav-logo svg { width: 28px; height: 28px; }
+  .nav-logo-text {
+    font-family: var(--serif);
+    font-size: 1.1rem;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+  }
+
+  .nav-links {
+    display: flex; gap: 2.5rem; list-style: none;
+  }
+  .nav-links a {
+    color: var(--text-muted);
+    text-decoration: none;
+    font-size: 0.8rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    transition: color 0.2s;
+  }
+  .nav-links a:hover { color: var(--text); }
+
+  .nav-cta {
+    font-size: 0.78rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--gold);
+    text-decoration: none;
+    border: 1px solid var(--gold-border);
+    padding: 0.5rem 1.25rem;
+    transition: background 0.2s, color 0.2s;
+  }
+  .nav-cta:hover { background: var(--gold-dim); }
+
+  /* ── SECTIONS ── */
+  section { padding: 7rem 3rem; }
+
+  .container { max-width: 1100px; margin: 0 auto; }
+  .container-narrow { max-width: 780px; margin: 0 auto; }
+
+  /* ── HERO ── */
+  #hero {
+    min-height: 100vh;
+    display: flex; align-items: center;
+    padding: 0 3rem;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .hero-grid-bg {
+    position: absolute; inset: 0; z-index: 0;
+    background-image:
+      linear-gradient(rgba(201,168,76,0.04) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(201,168,76,0.04) 1px, transparent 1px);
+    background-size: 60px 60px;
+    mask-image: radial-gradient(ellipse 80% 60% at 50% 50%, black 0%, transparent 100%);
+  }
+
+  .hero-accent {
+    position: absolute; right: 5%; top: 50%; transform: translateY(-50%);
+    opacity: 0.04; z-index: 0;
+  }
+  .hero-accent svg { width: 420px; height: 420px; }
+
+  .hero-content { position: relative; z-index: 1; max-width: 820px; }
+
+  .hero-eyebrow {
+    font-size: 0.75rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 1.5rem;
+    display: flex; align-items: center; gap: 0.75rem;
+  }
+  .hero-eyebrow::before {
+    content: '';
+    display: block; width: 32px; height: 1px;
+    background: var(--gold);
+  }
+
+  h1 {
+    font-family: var(--serif);
+    font-size: clamp(3rem, 6vw, 5.5rem);
+    font-weight: 400;
+    line-height: 1.08;
+    letter-spacing: -0.01em;
+    color: var(--text);
+    margin-bottom: 1.75rem;
+  }
+  h1 em { font-style: italic; color: var(--gold); }
+
+  .hero-sub {
+    font-size: 1.1rem;
+    color: var(--text-muted);
+    max-width: 540px;
+    line-height: 1.8;
+    margin-bottom: 2.5rem;
+    font-weight: 300;
+  }
+
+  .hero-actions { display: flex; gap: 1rem; align-items: center; }
+
+  .btn-primary, button.btn-primary {
+    background: var(--gold);
+    color: #0d0d0b;
+    text-decoration: none;
+    font-family: var(--sans);
+    font-size: 0.8rem;
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    padding: 0.85rem 2rem;
+    transition: opacity 0.2s;
+    border: none;
+    cursor: pointer;
+  }
+  .btn-primary:hover, button.btn-primary:hover { opacity: 0.85; }
+
+  .btn-ghost {
+    color: var(--text-muted);
+    text-decoration: none;
+    font-size: 0.8rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    padding: 0.85rem 1.5rem;
+    border: 1px solid var(--border-strong);
+    transition: color 0.2s, border-color 0.2s;
+  }
+  .btn-ghost:hover { color: var(--text); border-color: rgba(255,255,255,0.3); }
+
+  .hero-stats {
+    margin-top: 5rem;
+    display: flex; gap: 3rem;
+    border-top: 1px solid var(--border);
+    padding-top: 2.5rem;
+  }
+  .stat-num {
+    font-family: var(--serif);
+    font-size: 2.2rem;
+    font-weight: 400;
+    color: var(--gold);
+    line-height: 1;
+  }
+  .stat-label {
+    font-size: 0.75rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    margin-top: 0.4rem;
+  }
+
+  /* ── ABOUT ── */
+  #about { background: var(--bg2); }
+
+  .about-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5rem;
+    align-items: start;
+  }
+
+  .section-label {
+    font-size: 0.7rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 1.25rem;
+    display: flex; align-items: center; gap: 0.6rem;
+  }
+  .section-label::before {
+    content: '';
+    width: 20px; height: 1px;
+    background: var(--gold);
+  }
+
+  h2 {
+    font-family: var(--serif);
+    font-size: clamp(2rem, 3.5vw, 3rem);
+    font-weight: 400;
+    line-height: 1.15;
+    color: var(--text);
+    margin-bottom: 1.5rem;
+  }
+  h2 em { font-style: italic; color: var(--gold); }
+
+  .body-text {
+    color: var(--text-muted);
+    line-height: 1.85;
+    font-weight: 300;
+  }
+
+  .pillars {
+    display: flex; flex-direction: column; gap: 1px;
+  }
+
+  .pillar {
+    padding: 1.5rem 0;
+    border-bottom: 1px solid var(--border);
+    display: grid;
+    grid-template-columns: 2rem 1fr;
+    gap: 1rem;
+    align-items: start;
+  }
+  .pillar-num {
+    font-family: var(--serif);
+    font-size: 1rem;
+    color: var(--gold);
+    padding-top: 0.1rem;
+  }
+  .pillar-title {
+    font-size: 0.9rem;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    color: var(--text);
+    margin-bottom: 0.35rem;
+  }
+  .pillar-desc {
+    font-size: 0.875rem;
+    color: var(--text-muted);
+    line-height: 1.7;
+  }
+
+  /* ── WHO WE WORK WITH ── */
+  .who-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+    margin-top: 3.5rem;
+  }
+  .who-card {
+    background: var(--bg);
+    padding: 2rem 1.75rem;
+  }
+  .who-card-icon {
+    width: 36px; height: 36px;
+    border: 1px solid var(--gold-border);
+    display: flex; align-items: center; justify-content: center;
+    margin-bottom: 1.25rem;
+  }
+  .who-card-icon svg { width: 18px; height: 18px; stroke: var(--gold); fill: none; stroke-width: 1.5; }
+  .who-card h3 {
+    font-family: var(--serif);
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: var(--text);
+    margin-bottom: 0.6rem;
+  }
+  .who-card p {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    line-height: 1.7;
+  }
+
+  /* ── SERVICES ── */
+  #services { background: var(--bg3); }
+
+  .services-intro {
+    max-width: 600px;
+    margin-bottom: 4rem;
+  }
+
+  .services-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+  }
+
+  .service-card {
+    background: var(--bg3);
+    padding: 2.25rem 2rem;
+    position: relative;
+    transition: background 0.2s;
+  }
+  .service-card:hover { background: var(--bg2); }
+
+  .service-num {
+    font-family: var(--serif);
+    font-size: 2.5rem;
+    font-weight: 400;
+    color: var(--gold);
+    opacity: 0.3;
+    line-height: 1;
+    margin-bottom: 1rem;
+  }
+  .service-card h3 {
+    font-family: var(--serif);
+    font-size: 1.15rem;
+    font-weight: 500;
+    color: var(--text);
+    margin-bottom: 1rem;
+    line-height: 1.3;
+  }
+  .service-items {
+    list-style: none;
+    display: flex; flex-direction: column; gap: 0.4rem;
+  }
+  .service-items li {
+    font-size: 0.8rem;
+    color: var(--text-dim);
+    padding-left: 1rem;
+    position: relative;
+    line-height: 1.5;
+  }
+  .service-items li::before {
+    content: '—';
+    position: absolute; left: 0;
+    color: var(--gold);
+    opacity: 0.5;
+  }
+
+  /* ── MISSION ── */
+  #mission {
+    background: var(--bg);
+    text-align: center;
+  }
+
+  .mission-content {
+    max-width: 720px;
+    margin: 0 auto;
+  }
+
+  .mission-quote {
+    font-family: var(--serif);
+    font-size: clamp(1.5rem, 3vw, 2.3rem);
+    font-weight: 400;
+    line-height: 1.4;
+    color: var(--text);
+    margin-bottom: 3rem;
+  }
+  .mission-quote em { color: var(--gold); font-style: italic; }
+
+  .mission-gaps {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2px;
+    margin-top: 4rem;
+    text-align: left;
+  }
+  .gap-item {
+    background: var(--bg2);
+    padding: 2rem 1.75rem;
+    border-top: 2px solid transparent;
+    transition: border-color 0.2s;
+  }
+  .gap-item:hover { border-top-color: var(--gold); }
+  .gap-num {
+    font-family: var(--serif);
+    font-size: 3rem;
+    font-weight: 400;
+    color: var(--gold);
+    opacity: 0.2;
+    line-height: 1;
+    margin-bottom: 0.75rem;
+  }
+  .gap-title {
+    font-size: 0.85rem;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text);
+    margin-bottom: 0.5rem;
+  }
+  .gap-desc { font-size: 0.85rem; color: var(--text-muted); line-height: 1.7; }
+
+  /* ── TEAM ── */
+  #team { background: var(--bg2); }
+
+  .team-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2px;
+    background: var(--border);
+    border: 1px solid var(--border);
+    margin-top: 3.5rem;
+  }
+
+  .team-card {
+    background: var(--bg2);
+    padding: 3rem 2.5rem;
+  }
+
+  .team-avatar {
+    width: 56px; height: 56px;
+    border: 1px solid var(--gold-border);
+    display: flex; align-items: center; justify-content: center;
+    font-family: var(--serif);
+    font-size: 1.3rem;
+    color: var(--gold);
+    margin-bottom: 1.75rem;
+    letter-spacing: 0.05em;
+  }
+
+  .team-name {
+    font-family: var(--serif);
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: var(--text);
+    margin-bottom: 0.25rem;
+  }
+  .team-title {
+    font-size: 0.78rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 1.5rem;
+  }
+  .team-bio {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+  }
+  .team-facts {
+    list-style: none;
+    display: flex; flex-direction: column; gap: 0.6rem;
+  }
+  .team-facts li {
+    font-size: 0.8rem;
+    color: var(--text-dim);
+    padding-left: 1.1rem;
+    position: relative;
+    line-height: 1.5;
+  }
+  .team-facts li::before {
+    content: '↗';
+    position: absolute; left: 0;
+    color: var(--gold);
+    opacity: 0.6;
+    font-size: 0.65rem;
+    top: 0.15rem;
+  }
+
+  /* ── CONTACT ── */
+  #contact {
+    background: var(--bg);
+    text-align: center;
+  }
+
+  .contact-inner {
+    max-width: 640px;
+    margin: 0 auto;
+  }
+
+  .contact-inner h2 { margin-bottom: 1rem; }
+  .contact-lead {
+    color: var(--text-muted);
+    margin-bottom: 2.5rem;
+    line-height: 1.8;
+  }
+
+  .contact-form {
+    display: flex; flex-direction: column; gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+    margin-bottom: 2rem;
+  }
+  .form-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1px;
+    background: var(--border);
+  }
+  .form-field {
+    background: var(--bg2);
+    padding: 0.1rem 0;
+    position: relative;
+  }
+  .form-field label {
+    display: block;
+    font-size: 0.68rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    padding: 0.85rem 1.25rem 0;
+  }
+  .form-field input, .form-field textarea, .form-field select {
+    width: 100%;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: var(--text);
+    font-family: var(--sans);
+    font-size: 0.9rem;
+    font-weight: 300;
+    padding: 0.35rem 1.25rem 0.85rem;
+    resize: none;
+  }
+  .form-field textarea { min-height: 90px; }
+  .form-field select option { background: var(--bg2); color: var(--text); }
+
+  .form-submit {
+    background: var(--bg2);
+    padding: 1.25rem;
+    display: flex; justify-content: center;
+  }
+
+  .contact-email {
+    font-size: 0.85rem;
+    color: var(--text-dim);
+  }
+  .contact-email a {
+    color: var(--gold);
+    text-decoration: none;
+  }
+
+  /* ── FOOTER ── */
+  footer {
+    background: var(--bg);
+    border-top: 1px solid var(--border);
+    padding: 2.5rem 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .footer-brand {
+    display: flex; align-items: center; gap: 0.6rem;
+    color: var(--text-dim);
+    font-size: 0.8rem;
+  }
+  .footer-brand svg { width: 20px; height: 20px; opacity: 0.4; }
+  .footer-copy {
+    font-size: 0.75rem;
+    color: var(--text-dim);
+  }
+  .footer-links {
+    display: flex; gap: 2rem; list-style: none;
+  }
+  .footer-links a {
+    font-size: 0.75rem;
+    color: var(--text-dim);
+    text-decoration: none;
+    letter-spacing: 0.08em;
+    transition: color 0.2s;
+  }
+  .footer-links a:hover { color: var(--text-muted); }
+
+  /* ── DIVIDER ── */
+  .divider {
+    width: 100%; height: 1px;
+    background: var(--border);
+    margin: 3.5rem 0;
+  }
+
+  @media (max-width: 900px) {
+    nav { padding: 1.25rem 1.5rem; }
+    .nav-links { display: none; }
+    section { padding: 5rem 1.5rem; }
+    #hero { padding: 0 1.5rem; }
+    .about-grid { grid-template-columns: 1fr; gap: 3rem; }
+    .who-grid { grid-template-columns: 1fr; }
+    .services-grid { grid-template-columns: 1fr; }
+    .mission-gaps { grid-template-columns: 1fr; }
+    .team-grid { grid-template-columns: 1fr; }
+    .form-row { grid-template-columns: 1fr; }
+    footer { flex-direction: column; gap: 1.5rem; text-align: center; }
+    .hero-stats { gap: 2rem; flex-wrap: wrap; }
+    .hero-accent { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav>
+  <a href="#hero" class="nav-logo">
+    <svg viewBox="0 0 100 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M50 5 L85 30 L85 80 L50 105 L15 80 L15 30 Z" stroke="#c9a84c" stroke-width="2" fill="none"/>
+      <circle cx="50" cy="50" r="6" fill="#c9a84c"/>
+      <line x1="50" y1="5" x2="50" y2="44" stroke="#c9a84c" stroke-width="1.5"/>
+      <line x1="50" y1="56" x2="50" y2="105" stroke="#c9a84c" stroke-width="1.5"/>
+      <path d="M20 35 Q50 20 80 35" stroke="#c9a84c" stroke-width="1.5" fill="none"/>
+      <line x1="20" y1="35" x2="15" y2="30" stroke="#c9a84c" stroke-width="1.5"/>
+      <line x1="80" y1="35" x2="85" y2="30" stroke="#c9a84c" stroke-width="1.5"/>
+    </svg>
+    <span class="nav-logo-text">Bohun Defence Advisory</span>
+  </a>
+  <ul class="nav-links">
+    <li><a href="#about">About</a></li>
+    <li><a href="#services">Services</a></li>
+    <li><a href="#team">Team</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+  <a href="#contact" class="nav-cta">Get in touch</a>
+</nav>
+
+<!-- HERO -->
+<section id="hero">
+  <div class="hero-grid-bg"></div>
+  <div class="hero-accent">
+    <svg viewBox="0 0 200 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M100 8 L172 54 L172 166 L100 212 L28 166 L28 54 Z" stroke="white" stroke-width="1.5" fill="none"/>
+      <circle cx="100" cy="110" r="12" fill="white"/>
+      <line x1="100" y1="8" x2="100" y2="98" stroke="white" stroke-width="2"/>
+      <line x1="100" y1="122" x2="100" y2="212" stroke="white" stroke-width="2"/>
+      <path d="M36 60 Q100 30 164 60" stroke="white" stroke-width="2" fill="none"/>
+      <line x1="36" y1="60" x2="28" y2="54" stroke="white" stroke-width="2"/>
+      <line x1="164" y1="60" x2="172" y2="54" stroke="white" stroke-width="2"/>
+    </svg>
+  </div>
+  <div class="hero-content">
+    <div class="hero-eyebrow">Defence & dual-use advisory</div>
+    <h1>Making your<br>innovation <em>fundable</em></h1>
+    <p class="hero-sub">We help founders in defence and dual-use turn complex technologies into clear strategies — and deliver investor-ready materials that open doors.</p>
+    <div class="hero-actions">
+      <a href="#contact" class="btn-primary">Start a conversation</a>
+      <a href="#services" class="btn-ghost">Our services</a>
+    </div>
+    <div class="hero-stats">
+      <div>
+        <div class="stat-num">UAV · EW · AI</div>
+        <div class="stat-label">Focus sectors</div>
+      </div>
+      <div>
+        <div class="stat-num">EU · US · NATO</div>
+        <div class="stat-label">Markets</div>
+      </div>
+      <div>
+        <div class="stat-num">DIANA · Brave1</div>
+        <div class="stat-label">Programme experience</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ABOUT -->
+<section id="about">
+  <div class="container">
+    <div class="about-grid">
+      <div>
+        <div class="section-label">Who we are</div>
+        <h2>Where disciplined thinking meets <em>practical execution</em></h2>
+        <p class="body-text" style="margin-bottom: 1.5rem;">Bohun Defence Advisory is a boutique firm helping defence and dual-use teams prepare for investment, international programmes, and strategic partnerships.</p>
+        <p class="body-text">We work at the intersection of venture logic, defence requirements, and export-control awareness — providing founders with clarity, structure, and access.</p>
+        <div class="divider"></div>
+        <p class="body-text" style="font-size: 0.875rem;">Defence innovation matters — but it becomes meaningful only when it is <em style="font-style: italic; color: var(--text);">structurable, understandable, and fundable.</em></p>
+      </div>
+      <div>
+        <div class="section-label">What we do</div>
+        <div class="pillars">
+          <div class="pillar">
+            <div class="pillar-num">01</div>
+            <div>
+              <div class="pillar-title">Investment readiness</div>
+              <div class="pillar-desc">We prepare or refine your investment materials, shape your positioning, and structure your data room for serious diligence.</div>
+            </div>
+          </div>
+          <div class="pillar">
+            <div class="pillar-num">02</div>
+            <div>
+              <div class="pillar-title">Go-to-market systems</div>
+              <div class="pillar-desc">Repeatable GTM that converts — from positioning and ICP to sales playbooks and RevOps infrastructure.</div>
+            </div>
+          </div>
+          <div class="pillar">
+            <div class="pillar-num">03</div>
+            <div>
+              <div class="pillar-title">Partnerships & access</div>
+              <div class="pillar-desc">We support outreach to relevant investors, NATO DIANA, Brave1, and strategic partners in the EU and US.</div>
+            </div>
+          </div>
+          <div class="pillar">
+            <div class="pillar-num">04</div>
+            <div>
+              <div class="pillar-title">Operating model</div>
+              <div class="pillar-desc">We don't produce advice decks. We design systems, implement them with your team, and leave behind a self-sustaining model.</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="who-grid">
+      <div class="who-card">
+        <div class="who-card-icon">
+          <svg viewBox="0 0 24 24"><polygon points="12,2 22,12 12,22 2,12"/></svg>
+        </div>
+        <h3>Early-stage founders</h3>
+        <p>Teams with strong product and early traction preparing for first institutional rounds, NATO programmes, or strategic partnerships.</p>
+      </div>
+      <div class="who-card">
+        <div class="who-card-icon">
+          <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><line x1="12" y1="3" x2="12" y2="21"/><line x1="3" y1="12" x2="21" y2="12"/></svg>
+        </div>
+        <h3>Growth-stage companies</h3>
+        <p>Operators scaling distribution, building partner ecosystems, or entering regulated European and US procurement markets.</p>
+      </div>
+      <div class="who-card">
+        <div class="who-card-icon">
+          <svg viewBox="0 0 24 24"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/><polyline points="9,22 9,12 15,12 15,22"/></svg>
+        </div>
+        <h3>UAV · EW · AI · Sensing</h3>
+        <p>We focus on dual-use technologies: unmanned systems, electronic warfare, AI-enabled platforms, software, sensing, and logistics.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- MISSION -->
+<section id="mission">
+  <div class="container">
+    <div class="section-label" style="justify-content: center;">Our mission</div>
+    <div class="mission-content">
+      <p class="mission-quote">We help founders turn strong products into <em>scalable, investable companies</em> — bridging the gaps that routinely kill good projects.</p>
+    </div>
+    <div class="mission-gaps">
+      <div class="gap-item">
+        <div class="gap-num">01</div>
+        <div class="gap-title">Execution</div>
+        <div class="gap-desc">Turning vision into measurable delivery. Not slideware — operating rhythms, KPIs, and cross-functional alignment that produce predictable results.</div>
+      </div>
+      <div class="gap-item">
+        <div class="gap-num">02</div>
+        <div class="gap-title">Commercialisation</div>
+        <div class="gap-desc">Building repeatable GTM systems that convert. From channel strategy and ICP definition to pipeline governance and conversion diagnostics.</div>
+      </div>
+      <div class="gap-item">
+        <div class="gap-num">03</div>
+        <div class="gap-title">Institutional readiness</div>
+        <div class="gap-desc">Aligning product, compliance, partnerships, and reporting to meet the expectations of serious buyers, grant programmes, and investors.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- SERVICES -->
+<section id="services">
+  <div class="container">
+    <div class="services-intro">
+      <div class="section-label">Services</div>
+      <h2>Systems that keep working <em>without heroics</em></h2>
+      <p class="body-text">We exist to make outcomes inevitable: clear priorities, disciplined execution, and operating infrastructure that scales with your team.</p>
+    </div>
+    <div class="services-grid">
+      <div class="service-card">
+        <div class="service-num">01</div>
+        <h3>Go-to-Market Design & Launch</h3>
+        <ul class="service-items">
+          <li>Positioning, ICP, value narrative</li>
+          <li>Packaging — offers, pricing, commercial terms</li>
+          <li>Funnel design: inbound / outbound / partners</li>
+          <li>Sales playbook + messaging library</li>
+          <li>30–90 day launch plan with KPIs</li>
+        </ul>
+      </div>
+      <div class="service-card">
+        <div class="service-num">02</div>
+        <h3>Partnerships & Distribution</h3>
+        <ul class="service-items">
+          <li>Partner strategy: channels, integrators, alliances</li>
+          <li>Target list + outreach sequences</li>
+          <li>Negotiation support and deal structuring</li>
+          <li>Partner onboarding and performance tracking</li>
+          <li>Joint pipeline and co-selling process</li>
+        </ul>
+      </div>
+      <div class="service-card">
+        <div class="service-num">03</div>
+        <h3>Sales & RevOps System Build</h3>
+        <ul class="service-items">
+          <li>KPI framework, dashboards, reporting cadence</li>
+          <li>CRM setup and lifecycle stage design</li>
+          <li>Lead routing, SLAs, qualification rules</li>
+          <li>Forecasting and pipeline hygiene</li>
+          <li>Compensation plans and performance management</li>
+        </ul>
+      </div>
+      <div class="service-card">
+        <div class="service-num">04</div>
+        <h3>Pilot-to-Contract Execution</h3>
+        <ul class="service-items">
+          <li>Pilot design: success criteria, timelines</li>
+          <li>Stakeholder mapping and decision-path planning</li>
+          <li>Procurement and contracting support</li>
+          <li>Post-pilot conversion plan</li>
+          <li>Reference building: case studies, proof pack</li>
+        </ul>
+      </div>
+      <div class="service-card">
+        <div class="service-num">05</div>
+        <h3>Institutional Readiness</h3>
+        <ul class="service-items">
+          <li>Diligence-ready data room structure</li>
+          <li>Metrics narrative: traction, unit economics, risks</li>
+          <li>Compliance alignment and operating controls</li>
+          <li>Pitch materials: one-pager, deck, investor memo</li>
+          <li>DIANA / accelerator application support</li>
+        </ul>
+      </div>
+      <div class="service-card">
+        <div class="service-num">06</div>
+        <h3>Operating Model & Leadership</h3>
+        <ul class="service-items">
+          <li>Org structure, roles, hiring plan</li>
+          <li>Weekly operating rhythm (WBR/QBR), OKRs</li>
+          <li>Cross-functional alignment: product–sales–ops</li>
+          <li>Interim leadership: fractional COO / CCO</li>
+          <li>Crisis triage and turnaround execution</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- TEAM -->
+<section id="team">
+  <div class="container">
+    <div class="section-label">The team</div>
+    <h2>Practitioners who have <em>done the work</em></h2>
+    <div class="team-grid">
+      <div class="team-card">
+        <div class="team-avatar">SN</div>
+        <div class="team-name">Serhii Nabok</div>
+        <div class="team-title">Strategic Communications & Defence Narrative</div>
+        <p class="team-bio">Strategic communications advisor with 15+ years of cross-sector experience — from NATO partnerships and government crisis response to MilTech narratives and defence-sector integration.</p>
+        <ul class="team-facts">
+          <li>Former advisor to the Ministry of Defence of Ukraine on wartime communications strategy</li>
+          <li>NATO liaison and expert in hybrid threat response, defence innovation, and information resilience</li>
+          <li>Curator and editor of the MilTech expert section at Novyny.live</li>
+        </ul>
+      </div>
+      <div class="team-card">
+        <div class="team-avatar">OO</div>
+        <div class="team-name">Oleksandr Ozeran</div>
+        <div class="team-title">Policy, Regulatory Affairs & Data</div>
+        <p class="team-bio">Policy analyst and data engineer with 15+ years across government, international organisations, and industry — specialising in defence, aerospace, critical minerals, energy, and institutional reform.</p>
+        <ul class="team-facts">
+          <li>Senior roles at Ministry of Infrastructure of Ukraine, State Space Agency, and State Agency for Investment and National Projects</li>
+          <li>Author of Ukraine's Critical Minerals policy research (2024), Titanium Industry Economic Program (2023), and Cabinet-approved Education Security Methodology (2024)</li>
+          <li>Contributed to Ukraine's new Subsoil Code; designed data models and dashboards for Ministry of Economy and EU4Digital</li>
+        </ul>
+      </div>
+      <div class="team-card">
+        <div class="team-avatar">SP</div>
+        <div class="team-name">Serhii Poplavskyi</div>
+        <div class="team-title">Commercial Systems & Operations</div>
+        <p class="team-bio">Commercial and operations leader with 15+ years scaling revenue systems and distributed teams across high-regulation, high-stakes markets — fintech, payments, and multi-GEO partner networks.</p>
+        <ul class="team-facts">
+          <li>Former Sales Director roles in global brokerage managing multi-region growth across CIS, MENA, LATAM, and Europe</li>
+          <li>Built partner ecosystems (IB/affiliate/channel) with performance frameworks driving measurable conversion</li>
+          <li>Specialist in compliance-aware commercialisation and institutional-ready reporting</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CONTACT -->
+<section id="contact">
+  <div class="contact-inner">
+    <div class="section-label" style="justify-content: center;">Contact</div>
+    <h2>Let's develop your<br>project <em>forward</em></h2>
+    <p class="contact-lead">We start with a short diagnostic — goals, stage, constraints, and risks. No pitch required. Just a conversation.</p>
+    <form class="contact-form" action="https://formspree.io/f/xbdwvgqp" method="POST">
+      <div class="form-row">
+        <div class="form-field">
+          <label for="name">Your name</label>
+          <input type="text" id="name" name="name" placeholder="Ivan Petrenko" required>
+        </div>
+        <div class="form-field">
+          <label for="company">Company</label>
+          <input type="text" id="company" name="company" placeholder="Acme Defence">
+        </div>
+      </div>
+      <div class="form-field">
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" placeholder="ivan@company.com" required>
+      </div>
+      <div class="form-field">
+        <label for="stage">Company stage</label>
+        <select id="stage" name="stage">
+          <option value="" disabled selected>Select stage</option>
+          <option>Pre-seed / concept</option>
+          <option>Seed — early traction</option>
+          <option>Series A / growth stage</option>
+          <option>Established, scaling</option>
+        </select>
+      </div>
+      <div class="form-field">
+        <label for="message">What are you working on?</label>
+        <textarea id="message" name="message" placeholder="Briefly describe your technology, where you are, and what you're trying to achieve."></textarea>
+      </div>
+      <div class="form-submit">
+        <button type="submit" class="btn-primary">Send message</button>
+      </div>
+    </form>
+
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-brand">
+    <svg viewBox="0 0 100 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M50 5 L85 30 L85 80 L50 105 L15 80 L15 30 Z" stroke="#c9a84c" stroke-width="2" fill="none"/>
+      <circle cx="50" cy="55" r="5" fill="#c9a84c"/>
+      <line x1="50" y1="5" x2="50" y2="50" stroke="#c9a84c" stroke-width="1.5"/>
+      <line x1="50" y1="60" x2="50" y2="105" stroke="#c9a84c" stroke-width="1.5"/>
+      <path d="M20 35 Q50 20 80 35" stroke="#c9a84c" stroke-width="1.5" fill="none"/>
+    </svg>
+    Bohun Defence Advisory
+  </div>
+  <div class="footer-copy">© 2025 Bohun Defence Advisory. All rights reserved.</div>
+  <ul class="footer-links">
+    <li><a href="#about">About</a></li>
+    <li><a href="#services">Services</a></li>
+    <li><a href="#team">Team</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</footer>
+
+</body>
+</html>
