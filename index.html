@@ -326,14 +326,10 @@
   .who-card {
     background: var(--bg);
     padding: 2rem 1.75rem;
+    border-top: 2px solid transparent;
+    transition: border-color 0.2s;
   }
-  .who-card-icon {
-    width: 36px; height: 36px;
-    border: 1px solid var(--gold-border);
-    display: flex; align-items: center; justify-content: center;
-    margin-bottom: 1.25rem;
-  }
-  .who-card-icon svg { width: 18px; height: 18px; stroke: var(--gold); fill: none; stroke-width: 1.5; }
+  .who-card:hover { border-top-color: var(--gold); }
   .who-card h3 {
     font-family: var(--serif);
     font-size: 1.1rem;
@@ -355,32 +351,33 @@
     margin-bottom: 4rem;
   }
 
-  .services-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1px;
-    background: var(--border);
-    border: 1px solid var(--border);
+  .services-list {
+    display: flex;
+    flex-direction: column;
   }
 
-  .service-card {
-    background: var(--bg3);
-    padding: 2.25rem 2rem;
-    position: relative;
+  .service-row {
+    display: grid;
+    grid-template-columns: 4rem 1fr;
+    gap: 2rem;
+    padding: 2.25rem 1.5rem;
+    margin: 0 -1.5rem;
+    border-bottom: 1px solid var(--border);
+    align-items: start;
     transition: background 0.2s;
   }
-  .service-card:hover { background: var(--bg2); }
+  .service-row:first-child { border-top: 1px solid var(--border); }
+  .service-row:hover { background: var(--bg2); }
 
-  .service-num {
+  .service-row-num {
     font-family: var(--serif);
-    font-size: 2.5rem;
+    font-size: 2.25rem;
     font-weight: 400;
     color: var(--gold);
-    opacity: 0.3;
+    opacity: 0.35;
     line-height: 1;
-    margin-bottom: 1rem;
   }
-  .service-card h3 {
+  .service-row-body h3 {
     font-family: var(--serif);
     font-size: 1.15rem;
     font-weight: 500;
@@ -411,25 +408,6 @@
     font-style: italic;
     margin-top: 0.9rem;
     line-height: 1.6;
-  }
-
-  /* 7 cards in a 3-col grid leaves an orphan — give the last one a full-width closing row */
-  .services-grid .service-card:last-child {
-    grid-column: 1 / -1;
-    display: flex;
-    align-items: center;
-    gap: 2.5rem;
-    flex-wrap: wrap;
-  }
-  .services-grid .service-card:last-child h3 {
-    margin-bottom: 0;
-    flex: 0 0 auto;
-    min-width: 220px;
-  }
-  .services-grid .service-card:last-child .service-items {
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 0.5rem 2rem;
   }
 
   /* ── MISSION ── */
@@ -714,15 +692,41 @@
     .nav-cta { display: none; }
     .about-grid { grid-template-columns: 1fr; gap: 3rem; }
     .who-grid { grid-template-columns: 1fr; }
-    .services-grid { grid-template-columns: 1fr; }
-    .services-grid .service-card:last-child { flex-direction: column; align-items: flex-start; }
-    .services-grid .service-card:last-child .service-items { flex-direction: column; }
+    .service-row { grid-template-columns: 2.5rem 1fr; gap: 1.25rem; padding: 1.75rem 1.5rem; margin: 0 -1.5rem; }
+    .service-row-num { font-size: 1.5rem; }
     .mission-gaps { grid-template-columns: 1fr; }
     .scope-grid { grid-template-columns: 1fr; gap: 2.5rem; }
     .form-row { grid-template-columns: 1fr; }
     footer { flex-direction: column; gap: 1.5rem; text-align: center; }
     .hero-stats { gap: 2rem; flex-wrap: wrap; }
     .hero-accent { display: none; }
+  }
+
+  /* ── THERMAL CURSOR ── */
+  #thermal-cursor {
+    position: fixed;
+    top: 0; left: 0;
+    width: 360px; height: 360px;
+    border-radius: 50%;
+    pointer-events: none;
+    z-index: 9999;
+    background: radial-gradient(circle,
+      rgba(255,246,224,0.55) 0%,
+      rgba(255,214,120,0.38) 16%,
+      rgba(242,150,60,0.26) 34%,
+      rgba(201,72,40,0.16) 52%,
+      rgba(120,20,30,0.07) 68%,
+      rgba(120,20,30,0) 78%);
+    filter: blur(14px);
+    mix-blend-mode: screen;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    will-change: transform;
+  }
+  #thermal-cursor.is-active { opacity: 1; }
+  @media (hover: none), (pointer: coarse) {
+    #thermal-cursor { display: none; }
   }
 </style>
 </head>
@@ -755,7 +759,7 @@
   <div class="hero-content">
     <div class="hero-eyebrow">Defence & dual-use advisory</div>
     <h1>Strategic advisory for defence companies,<br>from <em>Ukraine to Europe.</em></h1>
-    <p class="hero-sub">I help founders and executives turn strong technology into a company that investors, institutions and partners actually trust — working together on positioning, capital and stakeholder strategy.</p>
+    <p class="hero-sub">Bohun is a focused advisory practice for defence and dual-use companies moving between Ukraine and Europe — led directly by Serhii Nabok, with specialist partners brought in only when an engagement calls for it.</p>
     <div class="hero-actions">
       <a href="#contact" class="btn-primary">Start a conversation</a>
       <a href="#services" class="btn-ghost">My advisory</a>
@@ -784,11 +788,10 @@
     <div class="about-grid">
       <div>
         <div class="section-label">Who I am</div>
-        <h2>Where disciplined thinking meets <em>practical clarity</em></h2>
-        <p class="body-text" style="margin-bottom: 1.5rem;">I'm an independent strategic advisor for defence and dual-use companies operating between Ukraine and Europe.</p>
-        <p class="body-text">I work with founders and executives at critical stages of growth — when positioning, capital, government relationships, market strategy and communications have to work together.</p>
+        <h2>Where disciplined thinking meets practical clarity</h2>
+        <p class="body-text" style="margin-bottom: 1.5rem;">I work with founders and executives at the stages where positioning, capital, government relationships, market strategy and communications all have to move together — a fundraising round, a market entry, a high-stakes stakeholder conversation.</p>
         <div class="divider"></div>
-        <p class="body-text" style="font-size: 0.875rem;">A strong product does not automatically create a strong company. Technology becomes meaningful only when it is <em style="font-style: italic; color: var(--text);">understood by investors, trusted by institutions, and positioned for growth.</em></p>
+        <p class="body-text" style="font-size: 0.875rem;">Most of the teams I meet have technology that works. What stalls the round, the introduction, or the procurement conversation is usually somewhere else — the story hasn't been built for the institution on the other side of the table.</p>
       </div>
       <div>
         <div class="section-label">How I work</div>
@@ -803,27 +806,18 @@
 <section id="expertise" style="background: var(--bg3);">
   <div class="container">
     <div class="section-label">Who I work with</div>
-    <h2>Defence and <em>dual-use companies</em></h2>
+    <h2>Defence and dual-use companies</h2>
     <p class="body-text" style="max-width: 620px;">My primary clients are founders, CEOs and leadership teams building or scaling technologies relevant to defence, security and resilience. I also work selectively with investors, industry organisations and public-sector initiatives where my experience is relevant.</p>
     <div class="who-grid">
       <div class="who-card">
-        <div class="who-card-icon">
-          <svg viewBox="0 0 24 24"><polygon points="12,2 22,12 12,22 2,12"/></svg>
-        </div>
         <h3>Early-stage founders</h3>
         <p>Teams with strong product and early traction preparing for first institutional rounds or strategic partnerships.</p>
       </div>
       <div class="who-card">
-        <div class="who-card-icon">
-          <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><line x1="12" y1="3" x2="12" y2="21"/><line x1="3" y1="12" x2="21" y2="12"/></svg>
-        </div>
         <h3>Growth-stage leadership</h3>
         <p>Operators strengthening positioning, investor communications and stakeholder strategy as the company scales into Europe.</p>
       </div>
       <div class="who-card">
-        <div class="who-card-icon">
-          <svg viewBox="0 0 24 24"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/><polyline points="9,22 9,12 15,12 15,22"/></svg>
-        </div>
         <h3>Autonomous · AI · Sensing</h3>
         <p>Unmanned systems, counter-UAS, robotics, AI and software, cybersecurity, electronic warfare, sensors and communications, space and geospatial, advanced manufacturing, critical infrastructure.</p>
       </div>
@@ -836,76 +830,88 @@
   <div class="container">
     <div class="services-intro">
       <div class="section-label">Advisory</div>
-      <h2>Built around <em>critical business moments</em></h2>
+      <h2>Built around critical business moments</h2>
       <p class="body-text">Analysis, strategic recommendations, leadership sessions and communications development — delivered directly, no agency layers.</p>
     </div>
-    <div class="services-grid">
-      <div class="service-card">
-        <div class="service-num">01</div>
-        <h3>Strategic Positioning</h3>
-        <ul class="service-items">
-          <li>Positioning strategy & corporate narrative</li>
-          <li>Messaging architecture</li>
-          <li>Competitive differentiation</li>
-        </ul>
+    <div class="services-list">
+      <div class="service-row">
+        <div class="service-row-num">01</div>
+        <div class="service-row-body">
+          <h3>Strategic Positioning</h3>
+          <ul class="service-items">
+            <li>Positioning strategy & corporate narrative</li>
+            <li>Messaging architecture</li>
+            <li>Competitive differentiation</li>
+          </ul>
+        </div>
       </div>
-      <div class="service-card">
-        <div class="service-num">02</div>
-        <h3>Fundraising & Investor Communications</h3>
-        <ul class="service-items">
-          <li>Fundraising narrative & investor messaging</li>
-          <li>Pitch and deck advisory</li>
-          <li>Q&A and meeting preparation</li>
-        </ul>
-        <div class="service-note">I don't act as a placement agent or securities broker.</div>
+      <div class="service-row">
+        <div class="service-row-num">02</div>
+        <div class="service-row-body">
+          <h3>Fundraising & Investor Communications</h3>
+          <ul class="service-items">
+            <li>Fundraising narrative & investor messaging</li>
+            <li>Pitch and deck advisory</li>
+            <li>Q&A and meeting preparation</li>
+          </ul>
+        </div>
       </div>
-      <div class="service-card">
-        <div class="service-num">03</div>
-        <h3>Go-to-Market & Market Positioning</h3>
-        <ul class="service-items">
-          <li>Market-entry narrative</li>
-          <li>Audience & stakeholder prioritisation</li>
-          <li>Launch strategy</li>
-        </ul>
-        <div class="service-note">Particular focus: Ukraine–Europe market context.</div>
+      <div class="service-row">
+        <div class="service-row-num">03</div>
+        <div class="service-row-body">
+          <h3>Go-to-Market & Market Positioning</h3>
+          <ul class="service-items">
+            <li>Market-entry narrative</li>
+            <li>Audience & stakeholder prioritisation</li>
+            <li>Launch strategy</li>
+          </ul>
+          <div class="service-note">Particular focus: Ukraine–Europe market context.</div>
+        </div>
       </div>
-      <div class="service-card">
-        <div class="service-num">04</div>
-        <h3>Strategic Communications</h3>
-        <ul class="service-items">
-          <li>Corporate & executive communications</li>
-          <li>Narrative development</li>
-          <li>Announcements & issues management</li>
-        </ul>
-        <div class="service-note">I don't run an outsourced press office or social media desk.</div>
+      <div class="service-row">
+        <div class="service-row-num">04</div>
+        <div class="service-row-body">
+          <h3>Strategic Communications</h3>
+          <ul class="service-items">
+            <li>Corporate & executive communications</li>
+            <li>Narrative development</li>
+            <li>Announcements & issues management</li>
+          </ul>
+        </div>
       </div>
-      <div class="service-card">
-        <div class="service-num">05</div>
-        <h3>Stakeholder Engagement</h3>
-        <ul class="service-items">
-          <li>Government & defence institutions</li>
-          <li>International organisations & investors</li>
-          <li>Media and opinion leaders</li>
-        </ul>
-        <div class="service-note">Stakeholder strategy, preparation and communications — not lobbying.</div>
+      <div class="service-row">
+        <div class="service-row-num">05</div>
+        <div class="service-row-body">
+          <h3>Stakeholder Engagement</h3>
+          <ul class="service-items">
+            <li>Government & defence institutions</li>
+            <li>International organisations & investors</li>
+            <li>Media and opinion leaders</li>
+          </ul>
+          <div class="service-note">Stakeholder strategy, preparation and communications — not lobbying.</div>
+        </div>
       </div>
-      <div class="service-card">
-        <div class="service-num">06</div>
-        <h3>Executive Advisory</h3>
-        <ul class="service-items">
-          <li>Fundraising & market entry decisions</li>
-          <li>Board and investor communication</li>
-          <li>High-stakes meetings</li>
-        </ul>
+      <div class="service-row">
+        <div class="service-row-num">06</div>
+        <div class="service-row-body">
+          <h3>Executive Advisory</h3>
+          <ul class="service-items">
+            <li>Fundraising & market entry decisions</li>
+            <li>Board and investor communication</li>
+            <li>High-stakes meetings</li>
+          </ul>
+        </div>
       </div>
-      <div class="service-card">
-        <div class="service-num">07</div>
-        <h3>Crisis & Special Situations</h3>
-        <ul class="service-items">
-          <li>Situation assessment & stakeholder mapping</li>
-          <li>Core messaging & executive preparation</li>
-          <li>Media Q&A</li>
-        </ul>
+      <div class="service-row">
+        <div class="service-row-num">07</div>
+        <div class="service-row-body">
+          <h3>Crisis & Special Situations</h3>
+          <ul class="service-items">
+            <li>Situation assessment & stakeholder mapping</li>
+            <li>Core messaging & executive preparation</li>
+            <li>Media Q&A</li>
+          </ul>
+        </div>
       </div>
     </div>
   </div>
@@ -915,7 +921,7 @@
 <section id="engagements" style="background: var(--bg);">
   <div class="container">
     <div class="section-label">Engagements</div>
-    <h2>Three ways to <em>work together</em></h2>
+    <h2>Three ways to work together</h2>
     <div class="mission-gaps" style="margin-top: 3rem;">
       <div class="gap-item">
         <div class="gap-num">01</div>
@@ -940,7 +946,7 @@
 <section id="about-bio">
   <div class="container">
     <div class="section-label">About</div>
-    <h2>Experience built where strategy <em>meets defence reality</em></h2>
+    <h2>Experience built where strategy meets defence reality</h2>
     <div class="bio-card">
       <div class="team-avatar">SN</div>
       <div class="team-name">Serhii Nabok</div>
@@ -963,7 +969,7 @@
 <section id="scope">
   <div class="container">
     <div class="section-label">What BOHUN is / isn't</div>
-    <h2>Strategic thinking <em>first</em></h2>
+    <h2>Strategic thinking first</h2>
     <div class="scope-grid">
       <div>
         <h4>BOHUN provides</h4>
@@ -1077,6 +1083,38 @@
   }, { rootMargin: '-45% 0px -50% 0px' });
 
   sections.forEach(function (s) { observer.observe(s); });
+})();
+</script>
+<script>
+(function () {
+  var noHover = window.matchMedia('(hover: none), (pointer: coarse)').matches;
+  var noMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if (noHover || noMotion) return;
+
+  var el = document.createElement('div');
+  el.id = 'thermal-cursor';
+  document.body.appendChild(el);
+
+  var targetX = window.innerWidth / 2, targetY = window.innerHeight / 2;
+  var curX = targetX, curY = targetY;
+  var started = false;
+
+  window.addEventListener('mousemove', function (e) {
+    targetX = e.clientX;
+    targetY = e.clientY;
+    if (!started) { started = true; el.classList.add('is-active'); }
+  }, { passive: true });
+
+  document.addEventListener('mouseleave', function () { el.classList.remove('is-active'); });
+  document.addEventListener('mouseenter', function () { if (started) el.classList.add('is-active'); });
+
+  function tick() {
+    curX += (targetX - curX) * 0.1;
+    curY += (targetY - curY) * 0.1;
+    el.style.transform = 'translate(' + curX + 'px, ' + curY + 'px) translate(-50%, -50%)';
+    requestAnimationFrame(tick);
+  }
+  requestAnimationFrame(tick);
 })();
 </script>
 </body>
