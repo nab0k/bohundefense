@@ -167,6 +167,16 @@
   .thermal-drone { width: 90px; top: 14%; right: 16%; color: var(--gold); z-index: 0; }
   .thermal-radar { width: 110px; top: 6rem; right: 3%; color: var(--gold); z-index: -1; }
   .thermal-ugv { width: 130px; bottom: 3rem; right: 4%; color: var(--gold); z-index: -1; }
+  .thermal-satellite { width: 130px; top: 4rem; right: 2%; color: var(--gold); z-index: -1; }
+  .thermal-chip { width: 84px; bottom: 2.5rem; right: 5%; color: var(--gold); z-index: -1; }
+  .thermal-antenna { width: 70px; top: 3rem; right: 6%; color: var(--gold); z-index: -1; }
+  .thermal-shield { width: 76px; bottom: 3rem; left: 3%; color: var(--gold); z-index: -1; }
+  .thermal-gear { width: 90px; top: 5rem; right: 4%; color: var(--gold); z-index: -1; }
+
+  @media (max-width: 1100px) {
+    .thermal-satellite, .thermal-chip, .thermal-antenna, .thermal-shield, .thermal-gear,
+    .thermal-radar, .thermal-ugv { display: none; }
+  }
 
   .hero-content { position: relative; z-index: 1; max-width: 820px; }
 
@@ -256,7 +266,7 @@
   }
 
   /* ── ABOUT ── */
-  #about { background: var(--bg2); }
+  #about { background: var(--bg2); position: relative; z-index: 0; }
 
   .about-grid {
     display: grid;
@@ -327,6 +337,8 @@
   }
 
   /* ── WHO WE WORK WITH / EXPERTISE ── */
+  #expertise { position: relative; z-index: 0; }
+  #engagements { position: relative; z-index: 0; }
   .who-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -539,7 +551,7 @@
   }
 
   /* ── IS / ISN'T ── */
-  #scope { background: var(--bg3); }
+  #scope { background: var(--bg3); position: relative; z-index: 0; }
   .scope-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -575,6 +587,8 @@
   #contact {
     background: var(--bg);
     text-align: center;
+    position: relative;
+    z-index: 0;
   }
 
   .contact-inner {
@@ -711,7 +725,7 @@
     .form-row { grid-template-columns: 1fr; }
     footer { flex-direction: column; gap: 1.5rem; text-align: center; }
     .hero-stats { gap: 2rem; flex-wrap: wrap; }
-    .hero-accent { display: none; }
+    .hero-accent, .thermal-drone { display: none; }
   }
 
   /* ── THERMAL CURSOR ── */
@@ -733,10 +747,11 @@
     mix-blend-mode: screen;
     transform: translate(-50%, -50%);
     opacity: 0;
-    transition: opacity 0.5s ease;
+    transition: opacity 0.5s ease, filter 0.3s ease;
     will-change: transform;
   }
   #thermal-cursor.is-active { opacity: 1; }
+  #thermal-cursor.is-active.is-compact { opacity: 0.5; filter: blur(4px); }
 
   #thermal-reticle {
     position: fixed;
@@ -749,6 +764,7 @@
     transition: opacity 0.5s ease;
   }
   #thermal-reticle.is-active { opacity: 0.85; }
+  #thermal-reticle.is-active.is-compact { opacity: 0; }
   #thermal-reticle svg { width: 100%; height: 100%; display: block; overflow: visible; animation: reticle-spin 16s linear infinite; }
   @keyframes reticle-spin { to { transform: rotate(360deg); } }
 
@@ -823,6 +839,19 @@
 
 <!-- ABOUT / CONTEXT -->
 <section id="about">
+  <div class="thermal-reveal thermal-satellite" aria-hidden="true">
+    <svg viewBox="0 0 140 90" fill="none" stroke="currentColor" stroke-width="2">
+      <rect x="56" y="28" width="28" height="28" rx="3"/>
+      <rect x="4" y="10" width="26" height="44" rx="2"/>
+      <rect x="110" y="10" width="26" height="44" rx="2"/>
+      <line x1="30" y1="32" x2="56" y2="32"/>
+      <line x1="30" y1="52" x2="56" y2="52"/>
+      <line x1="84" y1="32" x2="110" y2="32"/>
+      <line x1="84" y1="52" x2="110" y2="52"/>
+      <line x1="70" y1="28" x2="70" y2="8"/>
+      <circle cx="70" cy="6" r="2.5" fill="currentColor" stroke="none"/>
+    </svg>
+  </div>
   <div class="container">
     <div class="about-grid">
       <div>
@@ -843,6 +872,20 @@
 
 <!-- EXPERTISE / WHO WE WORK WITH -->
 <section id="expertise" style="background: var(--bg3);">
+  <div class="thermal-reveal thermal-chip" aria-hidden="true">
+    <svg viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="2">
+      <rect x="26" y="26" width="48" height="48" rx="4"/>
+      <rect x="42" y="42" width="16" height="16"/>
+      <line x1="40" y1="10" x2="40" y2="26"/>
+      <line x1="60" y1="10" x2="60" y2="26"/>
+      <line x1="40" y1="74" x2="40" y2="90"/>
+      <line x1="60" y1="74" x2="60" y2="90"/>
+      <line x1="10" y1="40" x2="26" y2="40"/>
+      <line x1="10" y1="60" x2="26" y2="60"/>
+      <line x1="74" y1="40" x2="90" y2="40"/>
+      <line x1="74" y1="60" x2="90" y2="60"/>
+    </svg>
+  </div>
   <div class="container">
     <div class="section-label">Who I work with</div>
     <h2>Defence and dual-use companies</h2>
@@ -967,6 +1010,17 @@
 
 <!-- ENGAGEMENTS -->
 <section id="engagements" style="background: var(--bg);">
+  <div class="thermal-reveal thermal-antenna" aria-hidden="true">
+    <svg viewBox="0 0 90 120" fill="none" stroke="currentColor" stroke-width="2">
+      <line x1="45" y1="118" x2="45" y2="20"/>
+      <line x1="20" y1="100" x2="70" y2="100"/>
+      <line x1="26" y1="75" x2="64" y2="75"/>
+      <line x1="32" y1="50" x2="58" y2="50"/>
+      <circle cx="45" cy="12" r="6"/>
+      <path d="M30 12 A15 15 0 0 1 60 12" stroke-width="1.5"/>
+      <path d="M22 12 A23 23 0 0 1 68 12" stroke-width="1.5"/>
+    </svg>
+  </div>
   <div class="container">
     <div class="section-label">Engagements</div>
     <h2>Three ways to work together</h2>
@@ -1027,6 +1081,12 @@
 
 <!-- IS / ISN'T -->
 <section id="scope">
+  <div class="thermal-reveal thermal-shield" aria-hidden="true">
+    <svg viewBox="0 0 90 100" fill="none" stroke="currentColor" stroke-width="2">
+      <path d="M45 6 L82 20 V50 C82 74 66 90 45 96 C24 90 8 74 8 50 V20 Z"/>
+      <path d="M30 48 L41 59 L62 36" stroke-width="2.5"/>
+    </svg>
+  </div>
   <div class="container">
     <div class="section-label">What BOHUN is / isn't</div>
     <h2>Strategic thinking first</h2>
@@ -1063,6 +1123,13 @@
 
 <!-- CONTACT -->
 <section id="contact">
+  <div class="thermal-reveal thermal-gear" aria-hidden="true">
+    <svg viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="2">
+      <circle cx="50" cy="50" r="16"/>
+      <circle cx="50" cy="50" r="30"/>
+      <path d="M50 8 V20 M50 80 V92 M8 50 H20 M80 50 H92 M19 19 L27 27 M73 73 L81 81 M19 81 L27 73 M73 27 L81 19"/>
+    </svg>
+  </div>
   <div class="contact-inner">
     <div class="section-label" style="justify-content: center;">Contact</div>
     <h2>Facing a strategic <em>inflection point?</em></h2>
@@ -1172,9 +1239,11 @@
   document.body.appendChild(reticle);
 
   var revealEls = Array.prototype.slice.call(document.querySelectorAll('.thermal-reveal'));
+  var TEXT_SELECTOR = 'p, li, h1, h2, h3, h4, a, label, input, textarea, select, button, .body-text, .team-bio, .contact-lead';
 
   var targetX = window.innerWidth / 2, targetY = window.innerHeight / 2;
   var curX = targetX, curY = targetY;
+  var curScale = 1, targetScale = 1;
   var started = false;
 
   function activate() {
@@ -1186,6 +1255,10 @@
   window.addEventListener('mousemove', function (e) {
     targetX = e.clientX;
     targetY = e.clientY;
+    var overText = e.target && e.target.closest && e.target.closest(TEXT_SELECTOR);
+    targetScale = overText ? 0.14 : 1;
+    reticle.classList.toggle('is-compact', !!overText);
+    el.classList.toggle('is-compact', !!overText);
     activate();
   }, { passive: true });
 
@@ -1198,9 +1271,10 @@
   function tick() {
     curX += (targetX - curX) * 0.1;
     curY += (targetY - curY) * 0.1;
-    var t = 'translate(' + curX + 'px, ' + curY + 'px) translate(-50%, -50%)';
-    el.style.transform = t;
-    reticle.style.transform = t;
+    curScale += (targetScale - curScale) * 0.18;
+    var pos = 'translate(' + curX + 'px, ' + curY + 'px) translate(-50%, -50%)';
+    el.style.transform = pos + ' scale(' + curScale.toFixed(3) + ')';
+    reticle.style.transform = pos;
 
     for (var i = 0; i < revealEls.length; i++) {
       var r = revealEls[i].getBoundingClientRect();
