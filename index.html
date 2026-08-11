@@ -3,7 +3,18 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Bohun Defence Advisory</title>
+<title>Bohun Defence Advisory — Strategic Advisory for Defence & Dual-Use Companies</title>
+<meta name="description" content="Independent strategic advisory for defence and dual-use companies operating between Ukraine and Europe: positioning, fundraising and investor communications, go-to-market, stakeholder strategy and executive advisory.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://bohundefence.com/">
+<meta property="og:title" content="Bohun Defence Advisory — Strategic Advisory for Defence & Dual-Use Companies">
+<meta property="og:description" content="Independent strategic advisory for defence and dual-use companies operating between Ukraine and Europe: positioning, fundraising and investor communications, go-to-market, stakeholder strategy and executive advisory.">
+<meta property="og:image" content="https://bohundefence.com/logo_gold.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Bohun Defence Advisory — Strategic Advisory for Defence & Dual-Use Companies">
+<meta name="twitter:description" content="Independent strategic advisory for defence and dual-use companies operating between Ukraine and Europe.">
+<meta name="twitter:image" content="https://bohundefence.com/logo_gold.png">
+<!-- TODO: og:image currently reuses the logo (square-ish). A dedicated 1200x630 share image with the headline baked in will look better in LinkedIn/email previews. -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
@@ -18,7 +29,7 @@
     --border-strong: rgba(255,255,255,0.15);
     --text: #f0ede6;
     --text-muted: #888880;
-    --text-dim: #555550;
+    --text-dim: #82827c; /* was #555550 — 2.6:1 failed WCAG AA; this passes 4.5:1+ */
     --gold: #c9a84c;
     --gold-dim: rgba(201,168,76,0.12);
     --gold-border: rgba(201,168,76,0.3);
@@ -85,6 +96,32 @@
     transition: background 0.2s, color 0.2s;
   }
   .nav-cta:hover { background: var(--gold-dim); }
+
+  .nav-toggle-checkbox { display: none; }
+  .nav-burger { display: none; flex-direction: column; gap: 5px; cursor: pointer; padding: 0.5rem; }
+  .nav-burger span { width: 22px; height: 1px; background: var(--text); display: block; }
+
+  .link-secondary {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-color: var(--border-strong);
+  }
+  .link-secondary:hover { color: var(--gold); }
+
+  /* focus states — visible keyboard focus everywhere interactive */
+  a:focus-visible, button:focus-visible, .nav-burger:focus-visible {
+    outline: 1px solid var(--gold);
+    outline-offset: 3px;
+  }
+  .form-field input:focus-visible,
+  .form-field textarea:focus-visible,
+  .form-field select:focus-visible {
+    outline: none;
+    background: rgba(201,168,76,0.06);
+    box-shadow: inset 0 -2px 0 var(--gold);
+  }
 
   /* ── SECTIONS ── */
   section { padding: 7rem 3rem; }
@@ -274,7 +311,7 @@
     line-height: 1.7;
   }
 
-  /* ── WHO WE WORK WITH ── */
+  /* ── WHO WE WORK WITH / EXPERTISE ── */
   .who-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -365,6 +402,13 @@
     color: var(--gold);
     opacity: 0.5;
   }
+  .service-note {
+    font-size: 0.75rem;
+    color: var(--text-dim);
+    font-style: italic;
+    margin-top: 0.9rem;
+    line-height: 1.6;
+  }
 
   /* ── MISSION ── */
   #mission {
@@ -420,21 +464,14 @@
   }
   .gap-desc { font-size: 0.85rem; color: var(--text-muted); line-height: 1.7; }
 
-  /* ── TEAM ── */
-  #team { background: var(--bg2); }
+  /* ── ABOUT / BIO (reuses team-* classes) ── */
+  #about-bio { background: var(--bg2); }
 
-  .team-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 2px;
-    background: var(--border);
+  .bio-card {
+    background: var(--bg);
     border: 1px solid var(--border);
-    margin-top: 3.5rem;
-  }
-
-  .team-card {
-    background: var(--bg2);
     padding: 3rem 2.5rem;
+    margin-top: 3.5rem;
   }
 
   .team-avatar {
@@ -467,6 +504,7 @@
     color: var(--text-muted);
     line-height: 1.8;
     margin-bottom: 1.5rem;
+    max-width: 640px;
   }
   .team-facts {
     list-style: none;
@@ -487,6 +525,39 @@
     font-size: 0.65rem;
     top: 0.15rem;
   }
+
+  /* ── IS / ISN'T ── */
+  #scope { background: var(--bg3); }
+  .scope-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    margin-top: 3rem;
+  }
+  .scope-grid h4 {
+    font-size: 0.75rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 1.25rem;
+  }
+  .scope-grid.dim h4 { color: var(--text-dim); }
+  .scope-list { list-style: none; display: flex; flex-direction: column; gap: 0.6rem; }
+  .scope-list li {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    padding-left: 1rem;
+    position: relative;
+    line-height: 1.6;
+  }
+  .scope-list li::before {
+    content: '—';
+    position: absolute; left: 0;
+    color: var(--gold);
+    opacity: 0.5;
+  }
+  .scope-list.isnt li { color: var(--text-dim); }
+  .scope-list.isnt li::before { opacity: 0.25; }
 
   /* ── CONTACT ── */
   #contact {
@@ -601,14 +672,28 @@
 
   @media (max-width: 900px) {
     nav { padding: 1.25rem 1.5rem; }
-    .nav-links { display: none; }
+    .nav-burger { display: flex; }
+    .nav-links {
+      display: flex; flex-direction: column; gap: 0;
+      position: fixed; top: 68px; left: 0; right: 0;
+      background: var(--bg2); border-bottom: 1px solid var(--border);
+      max-height: 0; overflow: hidden;
+      transition: max-height 0.25s ease;
+      padding: 0 1.5rem;
+    }
+    .nav-links li { width: 100%; }
+    .nav-links a {
+      display: block; padding: 1rem 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .nav-toggle-checkbox:checked ~ .nav-links { max-height: 320px; padding: 0.5rem 1.5rem 1rem; }
     section { padding: 5rem 1.5rem; }
     #hero { padding: 0 1.5rem; }
     .about-grid { grid-template-columns: 1fr; gap: 3rem; }
     .who-grid { grid-template-columns: 1fr; }
     .services-grid { grid-template-columns: 1fr; }
     .mission-gaps { grid-template-columns: 1fr; }
-    .team-grid { grid-template-columns: 1fr; }
+    .scope-grid { grid-template-columns: 1fr; gap: 2.5rem; }
     .form-row { grid-template-columns: 1fr; }
     footer { flex-direction: column; gap: 1.5rem; text-align: center; }
     .hero-stats { gap: 2rem; flex-wrap: wrap; }
@@ -624,12 +709,14 @@
     <img src="logo_gold.png" alt="Bohun Defence Advisory">
     <span class="nav-logo-text">Bohun Defence Advisory</span>
   </a>
+  <input type="checkbox" id="nav-toggle" class="nav-toggle-checkbox">
   <ul class="nav-links">
     <li><a href="#about">About</a></li>
-    <li><a href="#services">Services</a></li>
-    <li><a href="#team">Team</a></li>
+    <li><a href="#services">Advisory</a></li>
+    <li><a href="#expertise">Expertise</a></li>
     <li><a href="#contact">Contact</a></li>
   </ul>
+  <label for="nav-toggle" class="nav-burger" aria-label="Menu" tabindex="0"><span></span><span></span><span></span></label>
   <a href="#contact" class="nav-cta">Get in touch</a>
 </nav>
 
@@ -641,248 +728,244 @@
   </div>
   <div class="hero-content">
     <div class="hero-eyebrow">Defence & dual-use advisory</div>
-    <h1>Defence innovation<br>that gets <em>funded.</em></h1>
-    <p class="hero-sub">Most defence startups fail not because the technology is wrong — but because the company isn't structured to be taken seriously. We fix that.</p>
+    <h1>Strategic advisory for defence companies,<br>from <em>Ukraine to Europe.</em></h1>
+    <p class="hero-sub">I help founders and executives turn strong technology into a company that investors, institutions and partners actually trust — working together on positioning, capital and stakeholder strategy.</p>
     <div class="hero-actions">
       <a href="#contact" class="btn-primary">Start a conversation</a>
-      <a href="#services" class="btn-ghost">Our services</a>
+      <a href="#services" class="btn-ghost">My advisory</a>
     </div>
+    <p style="margin-top: 1.25rem;"><a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7389655282055811072" target="_blank" rel="noopener noreferrer" class="link-secondary">Not ready to talk? Follow my LinkedIn newsletter on MilTech →</a></p>
     <div class="hero-stats">
       <div>
         <div class="stat-num">UAV · EW · AI</div>
         <div class="stat-label">Focus sectors</div>
       </div>
       <div>
-        <div class="stat-num">EU · US · NATO</div>
+        <div class="stat-num">Ukraine · EU · NATO</div>
         <div class="stat-label">Markets</div>
       </div>
       <div>
-        <div class="stat-num">DIANA · Brave1</div>
-        <div class="stat-label">Programme experience</div>
+        <div class="stat-num">15+ yrs</div>
+        <div class="stat-label">Comms · policy · defence</div>
       </div>
     </div>
   </div>
 </section>
 
-<!-- ABOUT -->
+<!-- ABOUT / CONTEXT -->
 <section id="about">
   <div class="container">
     <div class="about-grid">
       <div>
-        <div class="section-label">Who we are</div>
-        <h2>Where disciplined thinking meets <em>practical execution</em></h2>
-        <p class="body-text" style="margin-bottom: 1.5rem;">Bohun Defence Advisory is a boutique firm helping defence and dual-use teams prepare for investment, international programmes, and strategic partnerships.</p>
-        <p class="body-text">We work at the intersection of venture logic, defence requirements, and export-control awareness — providing founders with clarity, structure, and access.</p>
+        <div class="section-label">Who I am</div>
+        <h2>Where disciplined thinking meets <em>practical clarity</em></h2>
+        <p class="body-text" style="margin-bottom: 1.5rem;">I'm an independent strategic advisor for defence and dual-use companies operating between Ukraine and Europe.</p>
+        <p class="body-text">I work with founders and executives at critical stages of growth — when positioning, capital, government relationships, market strategy and communications have to work together.</p>
         <div class="divider"></div>
-        <p class="body-text" style="font-size: 0.875rem;">Defence innovation matters — but it becomes meaningful only when it is <em style="font-style: italic; color: var(--text);">structurable, understandable, and fundable.</em></p>
+        <p class="body-text" style="font-size: 0.875rem;">A strong product does not automatically create a strong company. Technology becomes meaningful only when it is <em style="font-style: italic; color: var(--text);">understood by investors, trusted by institutions, and positioned for growth.</em></p>
       </div>
       <div>
-        <div class="section-label">What we do</div>
-        <div class="pillars">
-          <div class="pillar">
-            <div class="pillar-num">01</div>
-            <div>
-              <div class="pillar-title">Investment readiness</div>
-              <div class="pillar-desc">We prepare or refine your investment materials, shape your positioning, and structure your data room for serious diligence.</div>
-            </div>
-          </div>
-          <div class="pillar">
-            <div class="pillar-num">02</div>
-            <div>
-              <div class="pillar-title">Go-to-market systems</div>
-              <div class="pillar-desc">Repeatable GTM that converts — from positioning and ICP to sales playbooks and RevOps infrastructure.</div>
-            </div>
-          </div>
-          <div class="pillar">
-            <div class="pillar-num">03</div>
-            <div>
-              <div class="pillar-title">Partnerships & access</div>
-              <div class="pillar-desc">We support outreach to relevant investors, NATO DIANA, Brave1, and strategic partners in the EU and US.</div>
-            </div>
-          </div>
-          <div class="pillar">
-            <div class="pillar-num">04</div>
-            <div>
-              <div class="pillar-title">Operating model</div>
-              <div class="pillar-desc">We don't produce advice decks. We design systems, implement them with your team, and leave behind a self-sustaining model.</div>
-            </div>
-          </div>
-        </div>
+        <div class="section-label">How I work</div>
+        <p class="body-text" style="margin-bottom: 1.5rem;">A focused, one-person practice by design. You work directly with me — no account manager, no junior analyst relaying between you and the person making the call.</p>
+        <p class="body-text" style="font-size: 0.875rem;">When specialist execution is needed — design, media buying, event production — I work with your existing providers or a recommended partner. I advise and shape strategy; I don't run campaigns.</p>
       </div>
     </div>
+  </div>
+</section>
 
+<!-- EXPERTISE / WHO WE WORK WITH -->
+<section id="expertise" style="background: var(--bg3);">
+  <div class="container">
+    <div class="section-label">Who I work with</div>
+    <h2>Defence and <em>dual-use companies</em></h2>
+    <p class="body-text" style="max-width: 620px;">My primary clients are founders, CEOs and leadership teams building or scaling technologies relevant to defence, security and resilience. I also work selectively with investors, industry organisations and public-sector initiatives where my experience is relevant.</p>
     <div class="who-grid">
       <div class="who-card">
         <div class="who-card-icon">
           <svg viewBox="0 0 24 24"><polygon points="12,2 22,12 12,22 2,12"/></svg>
         </div>
         <h3>Early-stage founders</h3>
-        <p>Teams with strong product and early traction preparing for first institutional rounds, NATO programmes, or strategic partnerships.</p>
+        <p>Teams with strong product and early traction preparing for first institutional rounds or strategic partnerships.</p>
       </div>
       <div class="who-card">
         <div class="who-card-icon">
           <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><line x1="12" y1="3" x2="12" y2="21"/><line x1="3" y1="12" x2="21" y2="12"/></svg>
         </div>
-        <h3>Growth-stage companies</h3>
-        <p>Operators scaling distribution, building partner ecosystems, or entering regulated European and US procurement markets.</p>
+        <h3>Growth-stage leadership</h3>
+        <p>Operators strengthening positioning, investor communications and stakeholder strategy as the company scales into Europe.</p>
       </div>
       <div class="who-card">
         <div class="who-card-icon">
           <svg viewBox="0 0 24 24"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/><polyline points="9,22 9,12 15,12 15,22"/></svg>
         </div>
-        <h3>UAV · EW · AI · Sensing</h3>
-        <p>We focus on dual-use technologies: unmanned systems, electronic warfare, AI-enabled platforms, software, sensing, and logistics.</p>
+        <h3>Autonomous · AI · Sensing</h3>
+        <p>Unmanned systems, counter-UAS, robotics, AI and software, cybersecurity, electronic warfare, sensors and communications, space and geospatial, advanced manufacturing, critical infrastructure.</p>
       </div>
     </div>
   </div>
 </section>
 
-<!-- MISSION -->
-<section id="mission">
-  <div class="container">
-    <div class="section-label" style="justify-content: center;">Our mission</div>
-    <div class="mission-content">
-      <p class="mission-quote">We help founders turn strong products into <em>scalable, investable companies</em> — bridging the gaps that routinely kill good projects.</p>
-    </div>
-    <div class="mission-gaps">
-      <div class="gap-item">
-        <div class="gap-num">01</div>
-        <div class="gap-title">Execution</div>
-        <div class="gap-desc">Turning vision into measurable delivery. Not slideware — operating rhythms, KPIs, and cross-functional alignment that produce predictable results.</div>
-      </div>
-      <div class="gap-item">
-        <div class="gap-num">02</div>
-        <div class="gap-title">Commercialisation</div>
-        <div class="gap-desc">Building repeatable GTM systems that convert. From channel strategy and ICP definition to pipeline governance and conversion diagnostics.</div>
-      </div>
-      <div class="gap-item">
-        <div class="gap-num">03</div>
-        <div class="gap-title">Institutional readiness</div>
-        <div class="gap-desc">Aligning product, compliance, partnerships, and reporting to meet the expectations of serious buyers, grant programmes, and investors.</div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- SERVICES -->
+<!-- SERVICES / ADVISORY -->
 <section id="services">
   <div class="container">
     <div class="services-intro">
-      <div class="section-label">Services</div>
-      <h2>Systems that keep working <em>without heroics</em></h2>
-      <p class="body-text">We exist to make outcomes inevitable: clear priorities, disciplined execution, and operating infrastructure that scales with your team.</p>
+      <div class="section-label">Advisory</div>
+      <h2>Built around <em>critical business moments</em></h2>
+      <p class="body-text">Analysis, strategic recommendations, leadership sessions and communications development — delivered directly, no agency layers.</p>
     </div>
     <div class="services-grid">
       <div class="service-card">
         <div class="service-num">01</div>
-        <h3>Go-to-Market Design & Launch</h3>
+        <h3>Strategic Positioning</h3>
         <ul class="service-items">
-          <li>Positioning, ICP, value narrative</li>
-          <li>Packaging — offers, pricing, commercial terms</li>
-          <li>Funnel design: inbound / outbound / partners</li>
-          <li>Sales playbook + messaging library</li>
-          <li>30–90 day launch plan with KPIs</li>
+          <li>Positioning strategy & corporate narrative</li>
+          <li>Messaging architecture</li>
+          <li>Competitive differentiation</li>
         </ul>
       </div>
       <div class="service-card">
         <div class="service-num">02</div>
-        <h3>Partnerships & Distribution</h3>
+        <h3>Fundraising & Investor Communications</h3>
         <ul class="service-items">
-          <li>Partner strategy: channels, integrators, alliances</li>
-          <li>Target list + outreach sequences</li>
-          <li>Negotiation support and deal structuring</li>
-          <li>Partner onboarding and performance tracking</li>
-          <li>Joint pipeline and co-selling process</li>
+          <li>Fundraising narrative & investor messaging</li>
+          <li>Pitch and deck advisory</li>
+          <li>Q&A and meeting preparation</li>
         </ul>
+        <div class="service-note">I don't act as a placement agent or securities broker.</div>
       </div>
       <div class="service-card">
         <div class="service-num">03</div>
-        <h3>Sales & RevOps System Build</h3>
+        <h3>Go-to-Market & Market Positioning</h3>
         <ul class="service-items">
-          <li>KPI framework, dashboards, reporting cadence</li>
-          <li>CRM setup and lifecycle stage design</li>
-          <li>Lead routing, SLAs, qualification rules</li>
-          <li>Forecasting and pipeline hygiene</li>
-          <li>Compensation plans and performance management</li>
+          <li>Market-entry narrative</li>
+          <li>Audience & stakeholder prioritisation</li>
+          <li>Launch strategy</li>
         </ul>
+        <div class="service-note">Particular focus: Ukraine–Europe market context.</div>
       </div>
       <div class="service-card">
         <div class="service-num">04</div>
-        <h3>Pilot-to-Contract Execution</h3>
+        <h3>Strategic Communications</h3>
         <ul class="service-items">
-          <li>Pilot design: success criteria, timelines</li>
-          <li>Stakeholder mapping and decision-path planning</li>
-          <li>Procurement and contracting support</li>
-          <li>Post-pilot conversion plan</li>
-          <li>Reference building: case studies, proof pack</li>
+          <li>Corporate & executive communications</li>
+          <li>Narrative development</li>
+          <li>Announcements & issues management</li>
         </ul>
+        <div class="service-note">I don't run an outsourced press office or social media desk.</div>
       </div>
       <div class="service-card">
         <div class="service-num">05</div>
-        <h3>Institutional Readiness</h3>
+        <h3>Stakeholder Engagement</h3>
         <ul class="service-items">
-          <li>Diligence-ready data room structure</li>
-          <li>Metrics narrative: traction, unit economics, risks</li>
-          <li>Compliance alignment and operating controls</li>
-          <li>Pitch materials: one-pager, deck, investor memo</li>
-          <li>DIANA / accelerator application support</li>
+          <li>Government & defence institutions</li>
+          <li>International organisations & investors</li>
+          <li>Media and opinion leaders</li>
         </ul>
+        <div class="service-note">Stakeholder strategy, preparation and communications — not lobbying.</div>
       </div>
       <div class="service-card">
         <div class="service-num">06</div>
-        <h3>Operating Model & Leadership</h3>
+        <h3>Executive Advisory</h3>
         <ul class="service-items">
-          <li>Org structure, roles, hiring plan</li>
-          <li>Weekly operating rhythm (WBR/QBR), OKRs</li>
-          <li>Cross-functional alignment: product–sales–ops</li>
-          <li>Interim leadership: fractional COO / CCO</li>
-          <li>Crisis triage and turnaround execution</li>
+          <li>Fundraising & market entry decisions</li>
+          <li>Board and investor communication</li>
+          <li>High-stakes meetings</li>
+        </ul>
+      </div>
+      <div class="service-card">
+        <div class="service-num">07</div>
+        <h3>Crisis & Special Situations</h3>
+        <ul class="service-items">
+          <li>Situation assessment & stakeholder mapping</li>
+          <li>Core messaging & executive preparation</li>
+          <li>Media Q&A</li>
         </ul>
       </div>
     </div>
   </div>
 </section>
 
-<!-- TEAM -->
-<section id="team">
+<!-- ENGAGEMENTS -->
+<section id="engagements" style="background: var(--bg);">
   <div class="container">
-    <div class="section-label">The team</div>
-    <h2>Practitioners who have <em>done the work</em></h2>
-    <div class="team-grid">
-      <div class="team-card">
-        <div class="team-avatar">SN</div>
-        <div class="team-name">Serhii Nabok</div>
-        <div class="team-title">Strategic Communications & Defence Narrative</div>
-        <p class="team-bio">Strategic communications advisor with 15+ years of cross-sector experience — from NATO partnerships and government crisis response to MilTech narratives and defence-sector integration.</p>
-        <ul class="team-facts">
-          <li>Former advisor to the Ministry of Defence of Ukraine on wartime communications strategy</li>
-          <li>NATO liaison and expert in hybrid threat response, defence innovation, and information resilience</li>
-          <li>Curator and editor of the MilTech expert section at Novyny.live</li>
+    <div class="section-label">Engagements</div>
+    <h2>Three ways to <em>work together</em></h2>
+    <div class="mission-gaps" style="margin-top: 3rem;">
+      <div class="gap-item">
+        <div class="gap-num">01</div>
+        <div class="gap-title">Strategic Sprint</div>
+        <div class="gap-desc">For a defined challenge — fundraising positioning, market-entry strategy, corporate narrative, executive positioning, crisis preparation. Diagnosis, leadership sessions, and a concrete set of recommendations and materials.</div>
+      </div>
+      <div class="gap-item">
+        <div class="gap-num">02</div>
+        <div class="gap-title">Executive Advisory</div>
+        <div class="gap-desc">Ongoing confidential counsel to a founder, CEO or senior executive who needs an external perspective across several interconnected issues — not another functional contractor.</div>
+      </div>
+      <div class="gap-item">
+        <div class="gap-num">03</div>
+        <div class="gap-title">Strategic Advisory Retainer</div>
+        <div class="gap-desc">Ongoing support across positioning, investor communications, strategic communications and stakeholder engagement. Scope defined by business priorities, not a fixed list of agency outputs.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ABOUT / BIO -->
+<section id="about-bio">
+  <div class="container">
+    <div class="section-label">About</div>
+    <h2>Experience built where strategy <em>meets defence reality</em></h2>
+    <div class="bio-card">
+      <div class="team-avatar">SN</div>
+      <div class="team-name">Serhii Nabok</div>
+      <div class="team-title">Principal Advisor — Strategic Communications & Defence Narrative</div>
+      <p class="team-bio">I lead Bohun Defence Advisory as a strategic communications and policy professional with more than 15 years of experience across government, defence, international organisations, media and business. During Russia's full-scale invasion of Ukraine, I served as Strategic Communications Advisor to the Deputy Minister of Defence of Ukraine, contributing to wartime communications and engagement with NATO representatives, international media and donor organisations. Based in Lisbon, I work primarily across Ukraine and Europe.</p>
+      <ul class="team-facts">
+        <li>Former advisor to the Ministry of Defence of Ukraine on wartime communications strategy</li>
+        <li>NATO-related stakeholder engagement; hybrid threat response and defence innovation</li>
+        <li>Earlier work with Ukraine's parliamentary Committee on National Security, Defence and Intelligence, and with international organisations and research initiatives</li>
+        <li>Donor fundraising and communications for TakShtab (2022–2024) — humanitarian work with GIZ, GMF and People in Need, reaching tens of thousands of women during the war</li>
+        <li>Brand and communications background across Lovemarks, AdShot, TAK Publishing and business.ua</li>
+        <li>Author of two published books</li>
+        <li>Curator and editor of the MilTech expert section at Novyny.live</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- IS / ISN'T -->
+<section id="scope">
+  <div class="container">
+    <div class="section-label">What BOHUN is / isn't</div>
+    <h2>Strategic thinking <em>first</em></h2>
+    <div class="scope-grid">
+      <div>
+        <h4>BOHUN provides</h4>
+        <ul class="scope-list">
+          <li>Strategic advisory</li>
+          <li>Positioning</li>
+          <li>Fundraising and investor communications</li>
+          <li>Go-to-market strategy</li>
+          <li>Strategic communications</li>
+          <li>Stakeholder strategy</li>
+          <li>Executive advisory</li>
+          <li>Crisis communications</li>
         </ul>
       </div>
-      <div class="team-card">
-        <div class="team-avatar">OO</div>
-        <div class="team-name">Oleksandr Ozeran</div>
-        <div class="team-title">Policy, Regulatory Affairs & Data</div>
-        <p class="team-bio">Policy analyst and data engineer with 15+ years across government, international organisations, and industry — specialising in defence, aerospace, critical minerals, energy, and institutional reform.</p>
-        <ul class="team-facts">
-          <li>Senior roles at Ministry of Infrastructure of Ukraine, State Space Agency, and State Agency for Investment and National Projects</li>
-          <li>Author of Ukraine's Critical Minerals policy research (2024), Titanium Industry Economic Program (2023), and Cabinet-approved Education Security Methodology (2024)</li>
-          <li>Contributed to Ukraine's new Subsoil Code; designed data models and dashboards for Ministry of Economy and EU4Digital</li>
-        </ul>
-      </div>
-      <div class="team-card">
-        <div class="team-avatar">SP</div>
-        <div class="team-name">Serhii Poplavskyi</div>
-        <div class="team-title">Commercial Systems & Operations</div>
-        <p class="team-bio">Commercial and operations leader with 15+ years scaling revenue systems and distributed teams across high-regulation, high-stakes markets — fintech, payments, and multi-GEO partner networks.</p>
-        <ul class="team-facts">
-          <li>Former Sales Director roles in global brokerage managing multi-region growth across CIS, MENA, LATAM, and Europe</li>
-          <li>Built partner ecosystems (IB/affiliate/channel) with performance frameworks driving measurable conversion</li>
-          <li>Specialist in compliance-aware commercialisation and institutional-ready reporting</li>
+      <div class="dim">
+        <h4>BOHUN is not</h4>
+        <ul class="scope-list isnt">
+          <li>A social media agency</li>
+          <li>A performance marketing agency</li>
+          <li>An outsourced press office</li>
+          <li>A design studio</li>
+          <li>An event agency</li>
+          <li>A lobbying firm</li>
+          <li>A placement agent</li>
         </ul>
       </div>
     </div>
+    <p class="body-text" style="margin-top: 2.5rem; font-size: 0.875rem; max-width: 640px;">The distinction matters: I advise leadership and shape strategy; specialist execution — design, media buying, event production — is handled by your existing providers or a recommended specialist partner.</p>
   </div>
 </section>
 
@@ -890,8 +973,8 @@
 <section id="contact">
   <div class="contact-inner">
     <div class="section-label" style="justify-content: center;">Contact</div>
-    <h2>Let's develop your<br>project <em>forward</em></h2>
-    <p class="contact-lead">We start with a short diagnostic — goals, stage, constraints, and risks. No pitch required. Just a conversation.</p>
+    <h2>Facing a strategic <em>inflection point?</em></h2>
+    <p class="contact-lead">If your company is raising capital, entering a new market, strengthening its positioning, or preparing for a high-stakes stakeholder conversation — let's talk. I start with a short, confidential diagnostic. No pitch required.</p>
     <form class="contact-form" action="https://formspree.io/f/xbdwvgqp" method="POST">
       <div class="form-row">
         <div class="form-field">
@@ -935,12 +1018,13 @@
     <img src="logo_gold.png" alt="" style="width:20px;height:20px;object-fit:contain;opacity:0.4;">
     Bohun Defence Advisory
   </div>
-  <div class="footer-copy">© 2025 Bohun Defence Advisory. All rights reserved.</div>
+  <div class="footer-copy">© 2026 Bohun Defence Advisory. All rights reserved.</div>
   <ul class="footer-links">
     <li><a href="#about">About</a></li>
-    <li><a href="#services">Services</a></li>
-    <li><a href="#team">Team</a></li>
+    <li><a href="#services">Advisory</a></li>
+    <li><a href="#expertise">Expertise</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="https://www.linkedin.com/in/serhii-nabok-39046435/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a></li>
   </ul>
 </footer>
 
