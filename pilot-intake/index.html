@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pilot Intake — Bohun Defence Advisory</title>
+<link rel="icon" type="image/png" href="/logo_gold.png">
+<link rel="apple-touch-icon" href="/logo_gold.png">
+<meta name="description" content="Коротка анкета перед стартом пілотного проєкту з Bohun Defence Advisory.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://bohundefence.com/pilot-intake/">
+<meta property="og:title" content="Pilot Intake — Bohun Defence Advisory">
+<meta property="og:description" content="Коротка анкета перед стартом пілотного проєкту з Bohun Defence Advisory.">
+<meta property="og:image" content="https://bohundefence.com/og-image.png">
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #0d0d0b;
+    --bg2: #131310;
+    --bg3: #1a1a16;
+    --border: rgba(255,255,255,0.08);
+    --border-strong: rgba(255,255,255,0.15);
+    --text: #f0ede6;
+    --text-muted: #888880;
+    --text-dim: #82827c;
+    --gold: #c9a84c;
+    --gold-dim: rgba(201,168,76,0.12);
+    --gold-border: rgba(201,168,76,0.3);
+    --serif: 'Cormorant Garamond', Georgia, serif;
+    --sans: 'DM Sans', system-ui, sans-serif;
+  }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    font-size: 16px;
+    line-height: 1.7;
+    font-weight: 300;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ── NAV (same as homepage) ── */
+  nav {
+    position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 1.25rem 3rem;
+    background: rgba(13,13,11,0.85);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--border);
+  }
+  .nav-logo { display: flex; align-items: center; gap: 0.75rem; text-decoration: none; color: var(--text); }
+  .nav-logo img { width: 32px; height: 32px; object-fit: contain; }
+  .nav-logo-text { font-family: var(--serif); font-size: 1.1rem; font-weight: 500; letter-spacing: 0.04em; }
+  .nav-links { display: flex; gap: 2.5rem; list-style: none; }
+  .nav-links a { color: var(--text-muted); text-decoration: none; font-size: 0.8rem; letter-spacing: 0.12em; text-transform: uppercase; transition: color 0.2s; }
+  .nav-links a:hover { color: var(--text); }
+  .nav-cta { font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--gold); text-decoration: none; border: 1px solid var(--gold-border); padding: 0.5rem 1.25rem; transition: background 0.2s, color 0.2s; }
+  .nav-cta:hover { background: var(--gold-dim); }
+  .nav-toggle-checkbox { display: none; }
+  .nav-burger { display: none; flex-direction: column; gap: 5px; cursor: pointer; padding: 0.5rem; }
+  .nav-burger span { width: 22px; height: 1px; background: var(--text); display: block; }
+
+  a:focus-visible, button:focus-visible, .nav-burger:focus-visible { outline: 1px solid var(--gold); outline-offset: 3px; }
+  .form-field input:focus-visible, .form-field textarea:focus-visible, .form-field select:focus-visible {
+    outline: none; background: rgba(201,168,76,0.06); box-shadow: inset 0 -2px 0 var(--gold);
+  }
+
+  section { padding: 7rem 3rem; }
+  .container-narrow { max-width: 780px; margin: 0 auto; }
+
+  .section-label {
+    font-size: 0.7rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--gold);
+    margin-bottom: 1.25rem; display: flex; align-items: center; gap: 0.6rem;
+  }
+  .section-label::before { content: ''; width: 20px; height: 1px; background: var(--gold); }
+  .group-label { margin: 2.5rem 0 1rem; }
+  .group-label:first-of-type { margin-top: 0; }
+
+  h1, h2 {
+    font-family: var(--serif); font-weight: 400; line-height: 1.15; color: var(--text);
+  }
+  h1 { font-size: clamp(2.2rem, 4.5vw, 3.4rem); margin-bottom: 1rem; }
+  h1 em, h2 em { font-style: italic; color: var(--gold); }
+  h2 { font-size: clamp(2rem, 3.5vw, 3rem); margin-bottom: 1.5rem; }
+
+  .lead { color: var(--text-muted); margin-bottom: 2.5rem; line-height: 1.8; max-width: 58ch; }
+  .note {
+    font-size: 0.85rem; color: var(--text-dim); border-left: 1px solid var(--gold-border);
+    padding: 0.75rem 1.25rem; margin-bottom: 3rem; background: var(--gold-dim);
+  }
+
+  /* ── FORM (same component as homepage contact form) ── */
+  .contact-form { display: flex; flex-direction: column; gap: 1px; background: var(--border); border: 1px solid var(--border); margin-bottom: 2rem; }
+  .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1px; background: var(--border); }
+  .form-field { background: var(--bg2); padding: 0.1rem 0; position: relative; }
+  .form-field label { display: block; font-size: 0.68rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--text-dim); padding: 0.85rem 1.25rem 0; }
+  .form-field .hint { display: block; text-transform: none; letter-spacing: normal; font-size: 0.72rem; color: var(--text-dim); opacity: 0.75; margin-top: 2px; }
+  .form-field input, .form-field textarea, .form-field select {
+    width: 100%; background: transparent; border: none; outline: none; color: var(--text);
+    font-family: var(--sans); font-size: 0.9rem; font-weight: 300; padding: 0.35rem 1.25rem 0.85rem; resize: none;
+  }
+  .form-field textarea { min-height: 90px; }
+  .form-field select option { background: var(--bg2); color: var(--text); }
+  .form-submit { background: var(--bg2); padding: 1.25rem; display: flex; justify-content: center; }
+
+  .btn-primary, button.btn-primary {
+    background: var(--gold); color: #0d0d0b; text-decoration: none; font-family: var(--sans);
+    font-size: 0.8rem; font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase;
+    padding: 0.85rem 2rem; transition: opacity 0.2s; border: none; cursor: pointer;
+  }
+  .btn-primary:hover, button.btn-primary:hover { opacity: 0.85; }
+
+  /* ── FOOTER (same as homepage) ── */
+  footer { background: var(--bg); border-top: 1px solid var(--border); padding: 2.5rem 3rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1rem; }
+  .footer-brand { display: flex; align-items: center; gap: 0.6rem; color: var(--text-dim); font-size: 0.8rem; }
+  .footer-copy { font-size: 0.75rem; color: var(--text-dim); }
+  .footer-links { display: flex; gap: 2rem; list-style: none; flex-wrap: wrap; }
+  .footer-links a { font-size: 0.75rem; color: var(--text-dim); text-decoration: none; letter-spacing: 0.08em; transition: color 0.2s; }
+  .footer-links a:hover { color: var(--text-muted); }
+
+  @media (max-width: 900px) {
+    nav { padding: 1.25rem 1.5rem; }
+    .nav-links, .nav-cta { display: none; }
+    section { padding: 8rem 1.5rem 3rem; }
+    .form-row { grid-template-columns: 1fr; }
+    footer { padding: 2rem 1.5rem; justify-content: center; text-align: center; }
+  }
+</style>
+</head>
+<body>
+
+<nav>
+  <a href="/" class="nav-logo">
+    <img src="/logo_gold.png" alt="Bohun Defence Advisory">
+    <span class="nav-logo-text">Bohun Defence Advisory</span>
+  </a>
+  <ul class="nav-links">
+    <li><a href="/#about">About</a></li>
+    <li><a href="/#services">Advisory</a></li>
+    <li><a href="/#expertise">Expertise</a></li>
+    <li><a href="/#contact">Contact</a></li>
+  </ul>
+  <a href="#form" class="nav-cta">Start a conversation</a>
+</nav>
+
+<main>
+<section id="form">
+  <div class="container-narrow">
+    <p class="section-label">Pilot Engagement</p>
+    <h1>Кілька питань <em>перед стартом</em></h1>
+    <p class="lead">12 запитань — щоб я зрозумів контекст компанії ще до першого дзвінка. Займає 5–7 хвилин.</p>
+    <div class="note">Не всі поля обов'язкові. Якщо щось чутливе або поки невідомо — залиште коментар «обговоримо на дзвінку».</div>
+
+    <form class="contact-form" action="https://formspree.io/f/xbdwvgqp" method="POST">
+      <input type="hidden" name="_subject" value="Пілотна анкета — нова заявка">
+
+      <p class="section-label group-label">Компанія</p>
+      <div class="form-row">
+        <div class="form-field">
+          <label for="company">Назва компанії</label>
+          <input type="text" id="company" name="company" placeholder="Назва компанії" required>
+        </div>
+        <div class="form-field">
+          <label for="contact">Контактна особа, посада</label>
+          <input type="text" id="contact" name="contact" placeholder="Ім'я, посада" required>
+        </div>
+      </div>
+      <div class="form-field">
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" placeholder="you@company.com" required>
+      </div>
+
+      <p class="section-label group-label">Продукт</p>
+      <div class="form-field">
+        <label for="product">Що саме виробляєте
+          <span class="hint">Тип дрона / система РЕБ / компонент</span>
+        </label>
+        <textarea id="product" name="product"></textarea>
+      </div>
+      <div class="form-row">
+        <div class="form-field">
+          <label for="stage">Стадія готовності продукту</label>
+          <select id="stage" name="stage">
+            <option value="" disabled selected>Оберіть</option>
+            <option>Серійне виробництво</option>
+            <option>Дрібносерійне виробництво</option>
+            <option>Прототип</option>
+            <option>R&amp;D</option>
+          </select>
+        </div>
+        <div class="form-field">
+          <label for="entity">Юрособа за кордоном (ЄС/NATO)</label>
+          <select id="entity" name="entity">
+            <option value="" disabled selected>Оберіть</option>
+            <option>Так</option>
+            <option>Ні</option>
+            <option>Плануємо</option>
+          </select>
+        </div>
+      </div>
+      <div class="form-field">
+        <label for="contracts">Діючі контракти з ЗСУ / Міноборони
+          <span class="hint">Коротко — обсяги, статус</span>
+        </label>
+        <textarea id="contracts" name="contracts"></textarea>
+      </div>
+
+      <p class="section-label group-label">Юридичний статус і цілі</p>
+      <div class="form-row">
+        <div class="form-field">
+          <label for="export">Заявка на експортний дозвіл</label>
+          <select id="export" name="export">
+            <option value="" disabled selected>Оберіть</option>
+            <option>Схвалено</option>
+            <option>Подано — очікуємо</option>
+            <option>Не подавали</option>
+            <option>Не актуально</option>
+          </select>
+        </div>
+        <div class="form-field">
+          <label for="priority">Пріоритет</label>
+          <select id="priority" name="priority">
+            <option value="" disabled selected>Оберіть</option>
+            <option>Ринок збуту (ЄС/NATO)</option>
+            <option>Інвестиції</option>
+            <option>Обидва однаково важливі</option>
+          </select>
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="form-field">
+          <label for="capital">Скільки капіталу хочете залучити
+            <span class="hint">Якщо релевантно</span>
+          </label>
+          <input type="text" id="capital" name="capital">
+        </div>
+        <div class="form-field">
+          <label for="deadlines">Часові рамки / дедлайни</label>
+          <input type="text" id="deadlines" name="deadlines">
+        </div>
+      </div>
+      <div class="form-field">
+        <label for="success">Що для вас буде успіхом пілоту</label>
+        <textarea id="success" name="success"></textarea>
+      </div>
+
+      <div class="form-submit">
+        <button type="submit" class="btn-primary">Надіслати анкету</button>
+      </div>
+    </form>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="footer-brand">
+    <img src="/logo_gold.png" alt="" style="width:20px;height:20px;object-fit:contain;opacity:0.4;">
+    Bohun Defence Advisory
+  </div>
+  <div class="footer-copy">© 2026 Bohun Defence Advisory. All rights reserved.</div>
+  <ul class="footer-links">
+    <li><a href="/#about">About</a></li>
+    <li><a href="/#services">Advisory</a></li>
+    <li><a href="/#expertise">Expertise</a></li>
+    <li><a href="/#contact">Contact</a></li>
+    <li><a href="https://www.linkedin.com/in/serhii-nabok-39046435/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a></li>
+  </ul>
+</footer>
+
+</body>
+</html>
