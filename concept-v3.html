@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Concept v3 — Field Brief — Bohun Defence Advisory</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&family=PT+Sans+Narrow:wght@400;700&family=PT+Serif:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<style>
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+  :root{
+    --paper:#F1EFE8; --paper2:#EAE7DD; --ink:#121412; --graphite:#565B58;
+    --rule:rgba(18,20,18,.18); --rule-strong:rgba(18,20,18,.32);
+    --accent:#33495A;
+    --dark-bg:#15171A; --dark-ink:#EDEBE3; --dark-graphite:#9AA0A6; --dark-rule:rgba(255,255,255,.14);
+    --sans:'PT Sans', system-ui, sans-serif;
+    --cond:'PT Sans Narrow', system-ui, sans-serif;
+    --serif:'PT Serif', Georgia, serif;
+  }
+  html{scroll-behavior:smooth;}
+  body{background:var(--paper); color:var(--ink); font-family:var(--sans); font-size:17px; line-height:1.55; -webkit-font-smoothing:antialiased;}
+  a{color:inherit;}
+
+  .field{ max-width:1240px; margin:0 auto; padding:0 2.5rem; }
+  .rule-top{ border-top:1px solid var(--rule); }
+
+  /* NAV */
+  nav{ position:sticky; top:0; z-index:100; background:var(--paper); border-bottom:1px solid var(--rule); }
+  .nav-inner{ max-width:1240px; margin:0 auto; padding:1.1rem 2.5rem; display:flex; align-items:center; justify-content:space-between; }
+  .brand{ font-family:var(--cond); font-weight:700; letter-spacing:0.14em; font-size:0.95rem; text-decoration:none; color:var(--ink); }
+  .nav-links{ display:flex; gap:2rem; list-style:none; }
+  .nav-links a{ font-size:0.86rem; text-decoration:none; color:var(--graphite); border-bottom:1px solid transparent; padding-bottom:2px; transition:color .15s,border-color .15s; }
+  .nav-links a:hover{ color:var(--ink); border-color:var(--ink); }
+  .nav-cta{ font-size:0.86rem; text-decoration:none; color:var(--ink); border-bottom:1px solid var(--ink); padding-bottom:2px; }
+
+  section{ padding:4.5rem 0; border-bottom:1px solid var(--rule); }
+
+  /* HERO */
+  #hero{ padding-top:5.5rem; }
+  .hero-grid{ display:grid; grid-template-columns:7fr 4fr; gap:3rem; align-items:start; }
+  h1{ font-family:var(--sans); font-weight:700; font-size:clamp(2.3rem,4vw,3.8rem); line-height:1.05; letter-spacing:-0.01em; margin-bottom:1.5rem; max-width:14ch; }
+  .hero-sub{ font-size:1.08rem; color:var(--graphite); max-width:52ch; line-height:1.6; margin-bottom:1.75rem; }
+  .cta-link{ display:inline-block; font-size:0.92rem; font-weight:700; text-decoration:none; color:var(--ink); border-bottom:1px solid var(--ink); padding-bottom:3px; margin-bottom:2rem; }
+  .cta-link:hover{ color:var(--accent); border-color:var(--accent); }
+  .credential-line{ font-family:var(--cond); font-size:0.86rem; color:var(--graphite); letter-spacing:0.01em; max-width:46ch; line-height:1.5; border-top:1px solid var(--rule); padding-top:1.1rem; }
+
+  .hero-portrait{ }
+  .hero-portrait img{ width:100%; aspect-ratio:4/5; object-fit:cover; object-position:top center; filter:grayscale(35%) contrast(1.04); display:block; }
+  .hero-portrait-cap{ font-family:var(--cond); font-size:0.8rem; color:var(--graphite); margin-top:0.75rem; line-height:1.5; }
+  .hero-portrait-cap strong{ display:block; color:var(--ink); font-family:var(--sans); font-weight:700; font-size:0.85rem; margin-bottom:0.15rem; }
+
+  /* CONTEXT STATEMENT */
+  #context .field{ max-width:900px; }
+  .context-text{ font-family:var(--serif); font-size:1.4rem; line-height:1.55; color:var(--ink); }
+
+  /* SITUATIONS INDEX */
+  .sec-eyebrow{ font-family:var(--cond); font-size:0.8rem; letter-spacing:0.14em; text-transform:uppercase; color:var(--graphite); margin-bottom:0.5rem; }
+  .sec-title{ font-family:var(--sans); font-weight:700; font-size:1.7rem; margin-bottom:2.5rem; }
+  .situations{ display:flex; flex-direction:column; }
+  .situation-row{ display:grid; grid-template-columns:280px 1fr; gap:2.5rem; padding:1.6rem 0; border-top:1px solid var(--rule); }
+  .situations .situation-row:last-child{ border-bottom:1px solid var(--rule); }
+  .situation-row h3{ font-family:var(--sans); font-weight:700; font-size:1.05rem; }
+  .situation-row p{ color:var(--graphite); font-size:0.95rem; line-height:1.6; max-width:60ch; }
+
+  /* TWO DIRECTIONS */
+  .directions{ display:grid; grid-template-columns:1fr 1fr; gap:0; border-top:1px solid var(--rule); }
+  .direction{ padding:2.5rem 2.5rem 2.5rem 0; }
+  .direction + .direction{ padding-left:2.5rem; padding-right:0; border-left:1px solid var(--rule); }
+  .direction .tag{ font-family:var(--cond); font-size:0.78rem; letter-spacing:0.1em; text-transform:uppercase; color:var(--accent); margin-bottom:0.6rem; }
+  .direction h3{ font-family:var(--serif); font-size:1.5rem; font-weight:700; margin-bottom:0.75rem; }
+  .direction p{ color:var(--graphite); font-size:0.95rem; line-height:1.6; margin-bottom:1.25rem; max-width:42ch; }
+  .direction a{ font-size:0.88rem; font-weight:700; text-decoration:none; border-bottom:1px solid var(--ink); padding-bottom:2px; }
+
+  /* PRINCIPAL */
+  .principal-grid{ display:grid; grid-template-columns:5fr 7fr; gap:3.5rem; align-items:start; }
+  .principal-grid img{ width:100%; aspect-ratio:4/5; object-fit:cover; object-position:top center; filter:grayscale(35%) contrast(1.04); display:block; }
+  .principal-narrative{ font-family:var(--serif); font-size:1.15rem; line-height:1.65; color:var(--ink); max-width:56ch; margin-bottom:2rem; }
+  .credential-spine{ border-top:1px solid var(--rule-strong); }
+  .credential-spine div{ display:grid; grid-template-columns:200px 1fr; gap:1.5rem; padding:0.85rem 0; border-bottom:1px solid var(--rule); font-size:0.9rem; }
+  .credential-spine .k{ font-family:var(--cond); color:var(--graphite); letter-spacing:0.04em; text-transform:uppercase; font-size:0.8rem; padding-top:0.1rem; }
+  .credential-spine .v{ color:var(--ink); }
+
+  /* WORKING RELATIONSHIP */
+  .principles{ display:grid; grid-template-columns:repeat(3,1fr); gap:2.5rem; border-top:1px solid var(--rule); padding-top:2.5rem; }
+  .principles h3{ font-family:var(--sans); font-weight:700; font-size:1rem; margin-bottom:0.6rem; }
+  .principles p{ color:var(--graphite); font-size:0.92rem; line-height:1.6; }
+
+  /* CONTACT (dark field) */
+  #contact{ background:var(--dark-bg); color:var(--dark-ink); border-bottom:none; }
+  #contact .sec-eyebrow{ color:var(--dark-graphite); }
+  #contact h2{ font-family:var(--serif); font-size:2rem; font-weight:700; margin-bottom:0.75rem; max-width:16ch; }
+  #contact .lead{ color:var(--dark-graphite); max-width:52ch; margin-bottom:2.25rem; font-size:1rem; line-height:1.6; }
+  .form-grid{ display:grid; grid-template-columns:1fr 1fr; gap:1px; background:var(--dark-rule); border:1px solid var(--dark-rule); max-width:760px; margin-bottom:1.5rem; }
+  .form-grid .full{ grid-column:1/-1; }
+  .form-field{ background:var(--dark-bg); padding:0.2rem 0; }
+  .form-field label{ display:block; font-family:var(--cond); font-size:0.72rem; letter-spacing:0.08em; text-transform:uppercase; color:var(--dark-graphite); padding:0.8rem 1.1rem 0; }
+  .form-field input, .form-field textarea{ width:100%; background:transparent; border:none; outline:none; color:var(--dark-ink); font-family:var(--sans); font-size:0.95rem; padding:0.35rem 1.1rem 0.8rem; }
+  .form-field textarea{ min-height:80px; resize:none; }
+  .send-btn{ background:transparent; border:1px solid var(--dark-ink); color:var(--dark-ink); font-family:var(--sans); font-size:0.88rem; font-weight:700; padding:0.85rem 1.75rem; cursor:pointer; transition:background .2s,color .2s; }
+  .send-btn:hover{ background:var(--dark-ink); color:var(--dark-bg); }
+  .contact-note{ font-size:0.85rem; color:var(--dark-graphite); margin-top:1.5rem; max-width:52ch; line-height:1.6; }
+  .contact-note a{ color:var(--dark-ink); text-decoration:underline; }
+
+  footer{ background:var(--dark-bg); color:var(--dark-graphite); padding:2rem 2.5rem; font-family:var(--cond); font-size:0.8rem; display:flex; justify-content:space-between; }
+  footer a{ color:var(--dark-graphite); text-decoration:none; }
+  footer a:hover{ color:var(--dark-ink); }
+
+  @media (max-width:900px){
+    .field{ padding:0 1.25rem; }
+    .nav-inner{ padding:1rem 1.25rem; }
+    .nav-links{ display:none; }
+    .hero-grid, .principal-grid{ grid-template-columns:1fr; }
+    .hero-portrait{ order:-1; max-width:220px; }
+    .situation-row{ grid-template-columns:1fr; gap:0.5rem; }
+    .directions{ grid-template-columns:1fr; }
+    .direction, .direction + .direction{ padding:2rem 0; border-left:none; border-top:1px solid var(--rule); }
+    .direction:first-child{ border-top:none; }
+    .principles{ grid-template-columns:1fr; gap:1.75rem; }
+    .form-grid{ grid-template-columns:1fr; }
+    .credential-spine div{ grid-template-columns:1fr; gap:0.25rem; }
+    footer{ flex-direction:column; gap:0.75rem; }
+  }
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-inner">
+    <a href="#hero" class="brand">BOHUN</a>
+    <ul class="nav-links">
+      <li><a href="#situations">Advisory</a></li>
+      <li><a href="#directions">Ukraine Entry</a></li>
+      <li><a href="#directions">Europe Expansion</a></li>
+      <li><a href="#principal">Principal</a></li>
+    </ul>
+    <a href="#contact" class="nav-cta">Discuss a mandate →</a>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section id="hero">
+  <div class="field">
+    <div class="hero-grid">
+      <div>
+        <h1>Strategic advisory for defence and dual-use companies operating between Ukraine and Europe.</h1>
+        <p class="hero-sub">Senior counsel on market entry, strategic positioning, capital and investor communications, institutional engagement and high-stakes communications — delivered directly by the principal.</p>
+        <a href="#contact" class="cta-link">Discuss a mandate →</a>
+        <p class="credential-line">Former strategic communications adviser to Ukraine's Ministry of Defence during the full-scale war · 15+ years across policy, communications and defence.</p>
+      </div>
+      <div class="hero-portrait">
+        <img src="serhii-nabok.jpg" alt="Serhii Nabok">
+        <div class="hero-portrait-cap"><strong>Serhii Nabok</strong>Principal, Bohun Defence Advisory</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CONTEXT STATEMENT -->
+<section id="context">
+  <div class="field">
+    <p class="context-text">Defence technology companies crossing between Ukraine and European markets encounter a combination of commercial, institutional and reputational questions that rarely sit within one function. Bohun advises leadership where those questions meet.</p>
+  </div>
+</section>
+
+<!-- SITUATIONS -->
+<section id="situations">
+  <div class="field">
+    <div class="sec-eyebrow">Advisory</div>
+    <div class="sec-title">Where clients need senior judgement</div>
+    <div class="situations">
+      <div class="situation-row">
+        <h3>Entering Ukraine</h3>
+        <p>Understanding the operating environment, positioning the company, identifying credible counterparts and sequencing institutional engagement.</p>
+      </div>
+      <div class="situation-row">
+        <h3>Expanding from Ukraine into Europe</h3>
+        <p>Translating Ukrainian operational credibility into a proposition that European governments, investors, primes and partners can evaluate.</p>
+      </div>
+      <div class="situation-row">
+        <h3>Preparing for capital</h3>
+        <p>Sharpening the strategic narrative, investment case and executive communications before fundraising or strategic conversations.</p>
+      </div>
+      <div class="situation-row">
+        <h3>Navigating institutional stakeholders</h3>
+        <p>Mapping interests, messages and engagement across government, defence institutions, investors and ecosystem partners.</p>
+      </div>
+      <div class="situation-row">
+        <h3>High-stakes communications</h3>
+        <p>Advising leadership when commercial, policy and reputation considerations collide.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- TWO DIRECTIONS -->
+<section id="directions">
+  <div class="field">
+    <div class="sec-eyebrow">Two directions</div>
+    <div class="sec-title">A different question depending on which way you're moving</div>
+    <div class="directions">
+      <div class="direction">
+        <div class="tag">For international companies</div>
+        <h3>Entering Ukraine</h3>
+        <p>Market context, positioning, local ecosystem, stakeholder strategy, communications — for companies from Europe and allied markets.</p>
+        <a href="ukraine-entry.html">Ukraine market entry →</a>
+      </div>
+      <div class="direction">
+        <div class="tag">For Ukrainian companies</div>
+        <h3>Expanding into Europe</h3>
+        <p>Market prioritisation, institutional positioning, investor narrative, stakeholder engagement — for companies building European relationships.</p>
+        <a href="europe-entry.html">European expansion →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PRINCIPAL -->
+<section id="principal">
+  <div class="field">
+    <div class="sec-eyebrow">Principal</div>
+    <div class="sec-title">Principal-led by design</div>
+    <div class="principal-grid">
+      <img src="serhii-nabok.jpg" alt="Serhii Nabok">
+      <div>
+        <p class="principal-narrative">Bohun Defence Advisory is led directly by Serhii Nabok, a strategic communications and policy professional with more than 15 years of experience across government, defence, international organisations, media and business. During Russia's full-scale invasion of Ukraine, he served as strategic communications adviser to the Deputy Minister of Defence of Ukraine, engaging NATO representatives, international media and donor organisations. The practice applies that experience to companies operating at the intersection of technology, capital, government and European security.</p>
+        <div class="credential-spine">
+          <div><div class="k">Government</div><div class="v">Former strategic communications adviser, Ukraine's Ministry of Defence — wartime communications strategy</div></div>
+          <div><div class="k">Institutional</div><div class="v">NATO-related stakeholder engagement; hybrid threat response and defence innovation</div></div>
+          <div><div class="k">Field record</div><div class="v">Donor fundraising and communications for TakShtab (2022–2024) with GIZ, GMF and People in Need</div></div>
+          <div><div class="k">Public work</div><div class="v">Curator and editor, MilTech section, Novyny.live · author of two published books</div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- WORKING RELATIONSHIP -->
+<section id="working">
+  <div class="field">
+    <div class="sec-eyebrow">Working relationship</div>
+    <div class="sec-title">Principal-led, built around the decision</div>
+    <div class="principles">
+      <div>
+        <h3>Principal-led</h3>
+        <p>You work directly with the senior adviser responsible for the mandate — not an account manager or a junior team.</p>
+      </div>
+      <div>
+        <h3>Built around the decision</h3>
+        <p>Engagements are shaped around the strategic question, rather than a fixed consultancy package.</p>
+      </div>
+      <div>
+        <h3>Discreet by default</h3>
+        <p>Sensitive work is handled with appropriate confidentiality. Much of it is never named publicly.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CONTACT -->
+<section id="contact">
+  <div class="field">
+    <div class="sec-eyebrow">Contact</div>
+    <h2>Discuss a mandate</h2>
+    <p class="lead">For companies, investors and leadership teams navigating defence and dual-use markets between Ukraine and Europe.</p>
+    <form class="form-grid" action="https://formspree.io/f/xbdwvgqp" method="POST">
+      <div class="form-field"><label for="name">Name</label><input type="text" id="name" name="name" required></div>
+      <div class="form-field"><label for="org">Organisation</label><input type="text" id="org" name="org"></div>
+      <div class="form-field full"><label for="email">Work email</label><input type="email" id="email" name="email" required></div>
+      <div class="form-field full"><label for="msg">What are you navigating?</label><textarea id="msg" name="message"></textarea></div>
+      <div class="form-field full" style="padding:1rem 1.1rem;"><button class="send-btn" type="submit">Send confidential enquiry →</button></div>
+    </form>
+    <p class="contact-note">Bohun Defence Advisory is principal-led. Initial enquiries are reviewed directly by the founder. <a href="mailto:hello@bohundefence.com">hello@bohundefence.com</a></p>
+  </div>
+</section>
+
+<footer>
+  <div>Bohun Defence Advisory</div>
+  <div><a href="#hero">LinkedIn</a></div>
+</footer>
+
+</body>
+</html>
