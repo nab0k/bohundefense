@@ -10,1284 +10,287 @@
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://bohundefence.com/">
 <meta property="og:title" content="Bohun Defence Advisory — Strategic Advisory for Defence & Dual-Use Companies">
-<meta property="og:description" content="Independent strategic advisory for defence and dual-use companies operating between Ukraine and Europe: positioning, fundraising and investor communications, go-to-market, stakeholder strategy and executive advisory.">
+<meta property="og:description" content="Independent strategic advisory for defence and dual-use companies operating between Ukraine and Europe.">
 <meta property="og:image" content="https://bohundefence.com/og-image.png">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Bohun Defence Advisory — Strategic Advisory for Defence & Dual-Use Companies">
-<meta name="twitter:description" content="Independent strategic advisory for defence and dual-use companies operating between Ukraine and Europe.">
 <meta name="twitter:image" content="https://bohundefence.com/og-image.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&family=PT+Sans+Narrow:wght@400;700&family=PT+Serif:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
 <style>
-  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+  :root{
+    --paper:#F1EFE8; --paper2:#EAE7DD; --ink:#121412; --graphite:#565B58;
+    --rule:rgba(18,20,18,.18); --rule-strong:rgba(18,20,18,.32);
+    --accent:#33495A;
+    --dark-bg:#15171A; --dark-ink:#EDEBE3; --dark-graphite:#9AA0A6; --dark-rule:rgba(255,255,255,.14);
+    --sans:'PT Sans', system-ui, sans-serif;
+    --cond:'PT Sans Narrow', system-ui, sans-serif;
+    --serif:'PT Serif', Georgia, serif;
+  }
+  html{scroll-behavior:smooth;}
+  body{background:var(--paper); color:var(--ink); font-family:var(--sans); font-size:17px; line-height:1.55; -webkit-font-smoothing:antialiased;}
+  a{color:inherit;}
 
-  :root {
-    --bg: #0d0d0b;
-    --bg2: #131310;
-    --bg3: #1a1a16;
-    --border: rgba(255,255,255,0.08);
-    --border-strong: rgba(255,255,255,0.15);
-    --text: #f0ede6;
-    --text-muted: #888880;
-    --text-dim: #82827c; /* was #555550 — 2.6:1 failed WCAG AA; this passes 4.5:1+ */
-    --gold: #c9a84c;
-    --gold-dim: rgba(201,168,76,0.12);
-    --gold-border: rgba(201,168,76,0.3);
-    --serif: 'Cormorant Garamond', Georgia, serif;
-    --sans: 'DM Sans', system-ui, sans-serif;
-  }
+  .field{ max-width:1240px; margin:0 auto; padding:0 2.5rem; }
+  .rule-top{ border-top:1px solid var(--rule); }
 
-  html { scroll-behavior: smooth; }
+  /* NAV */
+  nav{ position:sticky; top:0; z-index:100; background:var(--paper); border-bottom:1px solid var(--rule); }
+  .nav-inner{ max-width:1240px; margin:0 auto; padding:1.1rem 2.5rem; display:flex; align-items:center; justify-content:space-between; }
+  .brand{ font-family:var(--cond); font-weight:700; letter-spacing:0.14em; font-size:0.95rem; text-decoration:none; color:var(--ink); }
+  .nav-links{ display:flex; gap:2rem; list-style:none; }
+  .nav-links a{ font-size:0.86rem; text-decoration:none; color:var(--graphite); border-bottom:1px solid transparent; padding-bottom:2px; transition:color .15s,border-color .15s; }
+  .nav-links a:hover{ color:var(--ink); border-color:var(--ink); }
+  .nav-cta{ font-size:0.86rem; text-decoration:none; color:var(--ink); border-bottom:1px solid var(--ink); padding-bottom:2px; }
 
-  body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: var(--sans);
-    font-size: 16px;
-    line-height: 1.7;
-    font-weight: 300;
-    -webkit-font-smoothing: antialiased;
-  }
+  section{ padding:4.5rem 0; border-bottom:1px solid var(--rule); }
 
-  /* ── NAV ── */
-  nav {
-    position: fixed; top: 0; left: 0; right: 0; z-index: 100;
-    display: flex; align-items: center; justify-content: space-between;
-    padding: 1.25rem 3rem;
-    background: rgba(13,13,11,0.85);
-    backdrop-filter: blur(12px);
-    border-bottom: 1px solid var(--border);
-  }
+  /* HERO */
+  #hero{ padding-top:5.5rem; }
+  .hero-grid{ display:grid; grid-template-columns:7fr 4fr; gap:3rem; align-items:start; }
+  h1{ font-family:var(--sans); font-weight:700; font-size:clamp(2.3rem,4vw,3.8rem); line-height:1.05; letter-spacing:-0.01em; margin-bottom:1.5rem; max-width:14ch; }
+  .hero-sub{ font-size:1.08rem; color:var(--graphite); max-width:52ch; line-height:1.6; margin-bottom:1.75rem; }
+  .cta-link{ display:inline-block; font-size:0.92rem; font-weight:700; text-decoration:none; color:var(--ink); border-bottom:1px solid var(--ink); padding-bottom:3px; margin-bottom:2rem; }
+  .cta-link:hover{ color:var(--accent); border-color:var(--accent); }
+  .credential-line{ font-family:var(--cond); font-size:0.86rem; color:var(--graphite); letter-spacing:0.01em; max-width:46ch; line-height:1.5; border-top:1px solid var(--rule); padding-top:1.1rem; }
 
-  .nav-logo {
-    display: flex; align-items: center; gap: 0.75rem;
-    text-decoration: none; color: var(--text);
-  }
-  .nav-logo svg { width: 28px; height: 28px; }
-  .nav-logo img { width: 32px; height: 32px; object-fit: contain; }
-  .nav-logo-text {
-    font-family: var(--serif);
-    font-size: 1.1rem;
-    font-weight: 500;
-    letter-spacing: 0.04em;
-  }
+  .hero-portrait{ }
+  .hero-portrait img{ width:100%; aspect-ratio:4/5; object-fit:cover; object-position:top center; filter:grayscale(35%) contrast(1.04); display:block; }
+  .hero-portrait-cap{ font-family:var(--cond); font-size:0.8rem; color:var(--graphite); margin-top:0.75rem; line-height:1.5; }
+  .hero-portrait-cap strong{ display:block; color:var(--ink); font-family:var(--sans); font-weight:700; font-size:0.85rem; margin-bottom:0.15rem; }
 
-  .nav-links {
-    display: flex; gap: 2.5rem; list-style: none;
-  }
-  .nav-links a {
-    color: var(--text-muted);
-    text-decoration: none;
-    font-size: 0.8rem;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    transition: color 0.2s;
-  }
-  .nav-links a:hover { color: var(--text); }
-  .nav-links a.active { color: var(--gold); }
+  /* CONTEXT STATEMENT */
+  #context .field{ max-width:900px; }
+  .context-text{ font-family:var(--serif); font-size:1.4rem; line-height:1.55; color:var(--ink); }
 
-  .nav-cta {
-    font-size: 0.78rem;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    color: var(--gold);
-    text-decoration: none;
-    border: 1px solid var(--gold-border);
-    padding: 0.5rem 1.25rem;
-    transition: background 0.2s, color 0.2s;
-  }
-  .nav-cta:hover { background: var(--gold-dim); }
+  /* SITUATIONS INDEX */
+  .sec-eyebrow{ font-family:var(--cond); font-size:0.8rem; letter-spacing:0.14em; text-transform:uppercase; color:var(--graphite); margin-bottom:0.5rem; }
+  .sec-title{ font-family:var(--sans); font-weight:700; font-size:1.7rem; margin-bottom:2.5rem; }
+  .situations{ display:flex; flex-direction:column; }
+  .situation-row{ display:grid; grid-template-columns:280px 1fr; gap:2.5rem; padding:1.6rem 0; border-top:1px solid var(--rule); }
+  .situations .situation-row:last-child{ border-bottom:1px solid var(--rule); }
+  .situation-row h3{ font-family:var(--sans); font-weight:700; font-size:1.05rem; }
+  .situation-row p{ color:var(--graphite); font-size:0.95rem; line-height:1.6; max-width:60ch; }
 
-  .nav-toggle-checkbox { display: none; }
-  .nav-burger { display: none; flex-direction: column; gap: 5px; cursor: pointer; padding: 0.5rem; }
-  .nav-burger span { width: 22px; height: 1px; background: var(--text); display: block; }
+  /* TWO DIRECTIONS */
+  .directions{ display:grid; grid-template-columns:1fr 1fr; gap:0; border-top:1px solid var(--rule); }
+  .direction{ padding:2.5rem 2.5rem 2.5rem 0; }
+  .direction + .direction{ padding-left:2.5rem; padding-right:0; border-left:1px solid var(--rule); }
+  .direction .tag{ font-family:var(--cond); font-size:0.78rem; letter-spacing:0.1em; text-transform:uppercase; color:var(--accent); margin-bottom:0.6rem; }
+  .direction h3{ font-family:var(--serif); font-size:1.5rem; font-weight:700; margin-bottom:0.75rem; }
+  .direction p{ color:var(--graphite); font-size:0.95rem; line-height:1.6; margin-bottom:1.25rem; max-width:42ch; }
+  .direction a{ font-size:0.88rem; font-weight:700; text-decoration:none; border-bottom:1px solid var(--ink); padding-bottom:2px; }
 
-  .link-secondary {
-    font-size: 0.8rem;
-    color: var(--text-muted);
-    text-decoration: underline;
-    text-underline-offset: 3px;
-    text-decoration-color: var(--border-strong);
-  }
-  .link-secondary:hover { color: var(--gold); }
+  /* PRINCIPAL */
+  .principal-grid{ display:grid; grid-template-columns:5fr 7fr; gap:3.5rem; align-items:start; }
+  .principal-grid img{ width:100%; aspect-ratio:4/5; object-fit:cover; object-position:top center; filter:grayscale(35%) contrast(1.04); display:block; }
+  .principal-narrative{ font-family:var(--serif); font-size:1.15rem; line-height:1.65; color:var(--ink); max-width:56ch; margin-bottom:2rem; }
+  .credential-spine{ border-top:1px solid var(--rule-strong); }
+  .credential-spine div{ display:grid; grid-template-columns:200px 1fr; gap:1.5rem; padding:0.85rem 0; border-bottom:1px solid var(--rule); font-size:0.9rem; }
+  .credential-spine .k{ font-family:var(--cond); color:var(--graphite); letter-spacing:0.04em; text-transform:uppercase; font-size:0.8rem; padding-top:0.1rem; }
+  .credential-spine .v{ color:var(--ink); }
 
-  /* focus states — visible keyboard focus everywhere interactive */
-  a:focus-visible, button:focus-visible, .nav-burger:focus-visible {
-    outline: 1px solid var(--gold);
-    outline-offset: 3px;
-  }
-  .form-field input:focus-visible,
-  .form-field textarea:focus-visible,
-  .form-field select:focus-visible {
-    outline: none;
-    background: rgba(201,168,76,0.06);
-    box-shadow: inset 0 -2px 0 var(--gold);
-  }
+  /* WORKING RELATIONSHIP */
+  .principles{ display:grid; grid-template-columns:repeat(3,1fr); gap:2.5rem; border-top:1px solid var(--rule); padding-top:2.5rem; }
+  .principles h3{ font-family:var(--sans); font-weight:700; font-size:1rem; margin-bottom:0.6rem; }
+  .principles p{ color:var(--graphite); font-size:0.92rem; line-height:1.6; }
 
-  /* ── SECTIONS ── */
-  section { padding: 7rem 3rem; }
+  /* CONTACT (dark field) */
+  #contact{ background:var(--dark-bg); color:var(--dark-ink); border-bottom:none; }
+  #contact .sec-eyebrow{ color:var(--dark-graphite); }
+  #contact h2{ font-family:var(--serif); font-size:2rem; font-weight:700; margin-bottom:0.75rem; max-width:16ch; }
+  #contact .lead{ color:var(--dark-graphite); max-width:52ch; margin-bottom:2.25rem; font-size:1rem; line-height:1.6; }
+  .form-grid{ display:grid; grid-template-columns:1fr 1fr; gap:1px; background:var(--dark-rule); border:1px solid var(--dark-rule); max-width:760px; margin-bottom:1.5rem; }
+  .form-grid .full{ grid-column:1/-1; }
+  .form-field{ background:var(--dark-bg); padding:0.2rem 0; }
+  .form-field label{ display:block; font-family:var(--cond); font-size:0.72rem; letter-spacing:0.08em; text-transform:uppercase; color:var(--dark-graphite); padding:0.8rem 1.1rem 0; }
+  .form-field input, .form-field textarea{ width:100%; background:transparent; border:none; outline:none; color:var(--dark-ink); font-family:var(--sans); font-size:0.95rem; padding:0.35rem 1.1rem 0.8rem; }
+  .form-field textarea{ min-height:80px; resize:none; }
+  .send-btn{ background:transparent; border:1px solid var(--dark-ink); color:var(--dark-ink); font-family:var(--sans); font-size:0.88rem; font-weight:700; padding:0.85rem 1.75rem; cursor:pointer; transition:background .2s,color .2s; }
+  .send-btn:hover{ background:var(--dark-ink); color:var(--dark-bg); }
+  .contact-note{ font-size:0.85rem; color:var(--dark-graphite); margin-top:1.5rem; max-width:52ch; line-height:1.6; }
+  .contact-note a{ color:var(--dark-ink); text-decoration:underline; }
 
-  .container { max-width: 1100px; margin: 0 auto; }
-  .container-narrow { max-width: 780px; margin: 0 auto; }
+  footer{ background:var(--dark-bg); color:var(--dark-graphite); padding:2rem 2.5rem; font-family:var(--cond); font-size:0.8rem; display:flex; justify-content:space-between; }
+  footer a{ color:var(--dark-graphite); text-decoration:none; }
+  footer a:hover{ color:var(--dark-ink); }
 
-  /* ── HERO ── */
-  #hero {
-    min-height: 100vh;
-    display: flex; align-items: center;
-    padding: 9rem 3rem 4rem;
-    position: relative;
-    overflow: hidden;
-  }
-
-  .hero-grid-bg {
-    position: absolute; inset: 0; z-index: 0;
-    background-image:
-      linear-gradient(rgba(201,168,76,0.04) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(201,168,76,0.04) 1px, transparent 1px);
-    background-size: 60px 60px;
-    mask-image: radial-gradient(ellipse 80% 60% at 50% 50%, black 0%, transparent 100%);
-  }
-
-  .hero-accent {
-    position: absolute; right: 5%; top: 50%; transform: translateY(-50%);
-    z-index: 0;
-  }
-  .hero-accent svg { width: 420px; height: 420px; }
-
-  /* ── THERMAL-REVEALED SILHOUETTES ── */
-  .thermal-reveal {
-    position: absolute;
-    opacity: 0.035;
-    pointer-events: none;
-  }
-  .thermal-reveal svg { display: block; width: 100%; height: 100%; }
-
-  .thermal-drone { width: 90px; top: 14%; right: 16%; color: var(--gold); z-index: 0; }
-  .thermal-radar { width: 110px; top: 6rem; right: 3%; color: var(--gold); z-index: -1; }
-  .thermal-ugv { width: 130px; bottom: 3rem; right: 4%; color: var(--gold); z-index: -1; }
-  .thermal-satellite { width: 130px; top: 4rem; right: 2%; color: var(--gold); z-index: -1; }
-  .thermal-chip { width: 84px; bottom: 2.5rem; right: 5%; color: var(--gold); z-index: -1; }
-  .thermal-antenna { width: 70px; top: 3rem; right: 6%; color: var(--gold); z-index: -1; }
-  .thermal-shield { width: 76px; bottom: 3rem; left: 3%; color: var(--gold); z-index: -1; }
-  .thermal-gear { width: 90px; top: 5rem; right: 4%; color: var(--gold); z-index: -1; }
-
-  @media (max-width: 1100px) {
-    .thermal-satellite, .thermal-chip, .thermal-antenna, .thermal-shield, .thermal-gear,
-    .thermal-radar, .thermal-ugv { display: none; }
-  }
-
-  .hero-content { position: relative; z-index: 1; max-width: 820px; }
-
-  .hero-eyebrow {
-    font-size: 0.75rem;
-    letter-spacing: 0.2em;
-    text-transform: uppercase;
-    color: var(--gold);
-    margin-bottom: 1.5rem;
-    display: flex; align-items: center; gap: 0.75rem;
-  }
-  .hero-eyebrow::before {
-    content: '';
-    display: block; width: 32px; height: 1px;
-    background: var(--gold);
-  }
-
-  h1 {
-    font-family: var(--serif);
-    font-size: clamp(3rem, 6vw, 5.5rem);
-    font-weight: 400;
-    line-height: 1.08;
-    letter-spacing: -0.01em;
-    color: var(--text);
-    margin-bottom: 1.75rem;
-  }
-  h1 em { font-style: italic; color: var(--gold); }
-
-  .hero-sub {
-    font-size: 1.1rem;
-    color: var(--text-muted);
-    max-width: 540px;
-    line-height: 1.8;
-    margin-bottom: 2.5rem;
-    font-weight: 300;
-  }
-
-  .hero-actions { display: flex; gap: 1rem; align-items: center; }
-
-  .btn-primary, button.btn-primary {
-    background: var(--gold);
-    color: #0d0d0b;
-    text-decoration: none;
-    font-family: var(--sans);
-    font-size: 0.8rem;
-    font-weight: 500;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    padding: 0.85rem 2rem;
-    transition: opacity 0.2s;
-    border: none;
-    cursor: pointer;
-  }
-  .btn-primary:hover, button.btn-primary:hover { opacity: 0.85; }
-
-  .btn-ghost {
-    color: var(--text-muted);
-    text-decoration: none;
-    font-size: 0.8rem;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    padding: 0.85rem 1.5rem;
-    border: 1px solid var(--border-strong);
-    transition: color 0.2s, border-color 0.2s;
-  }
-  .btn-ghost:hover { color: var(--text); border-color: rgba(255,255,255,0.3); }
-
-  .hero-stats {
-    margin-top: 5rem;
-    display: flex; gap: 3rem;
-    border-top: 1px solid var(--border);
-    padding-top: 2.5rem;
-  }
-  .stat-num {
-    font-family: var(--serif);
-    font-size: 2.2rem;
-    font-weight: 400;
-    color: var(--gold);
-    line-height: 1;
-  }
-  .stat-label {
-    font-size: 0.75rem;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    color: var(--text-dim);
-    margin-top: 0.4rem;
-  }
-
-  /* ── ABOUT ── */
-  #about { background: var(--bg2); position: relative; z-index: 0; }
-
-  .about-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 5rem;
-    align-items: start;
-  }
-
-  .section-label {
-    font-size: 0.7rem;
-    letter-spacing: 0.2em;
-    text-transform: uppercase;
-    color: var(--gold);
-    margin-bottom: 1.25rem;
-    display: flex; align-items: center; gap: 0.6rem;
-  }
-  .section-label::before {
-    content: '';
-    width: 20px; height: 1px;
-    background: var(--gold);
-  }
-
-  h2 {
-    font-family: var(--serif);
-    font-size: clamp(2rem, 3.5vw, 3rem);
-    font-weight: 400;
-    line-height: 1.15;
-    color: var(--text);
-    margin-bottom: 1.5rem;
-  }
-  h2 em { font-style: italic; color: var(--gold); }
-
-  .body-text {
-    color: var(--text-muted);
-    line-height: 1.85;
-    font-weight: 300;
-  }
-
-  .pillars {
-    display: flex; flex-direction: column; gap: 1px;
-  }
-
-  .pillar {
-    padding: 1.5rem 0;
-    border-bottom: 1px solid var(--border);
-    display: grid;
-    grid-template-columns: 2rem 1fr;
-    gap: 1rem;
-    align-items: start;
-  }
-  .pillar-num {
-    font-family: var(--serif);
-    font-size: 1rem;
-    color: var(--gold);
-    padding-top: 0.1rem;
-  }
-  .pillar-title {
-    font-size: 0.9rem;
-    font-weight: 500;
-    letter-spacing: 0.04em;
-    color: var(--text);
-    margin-bottom: 0.35rem;
-  }
-  .pillar-desc {
-    font-size: 0.875rem;
-    color: var(--text-muted);
-    line-height: 1.7;
-  }
-
-  /* ── WHO WE WORK WITH / EXPERTISE ── */
-  #expertise { position: relative; z-index: 0; }
-  #engagements { position: relative; z-index: 0; }
-  .who-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1px;
-    background: var(--border);
-    border: 1px solid var(--border);
-    margin-top: 3.5rem;
-  }
-  .who-card {
-    background: var(--bg);
-    padding: 2rem 1.75rem;
-    border-top: 2px solid transparent;
-    transition: border-color 0.2s;
-  }
-  .who-card:hover { border-top-color: var(--gold); }
-  .who-card h3 {
-    font-family: var(--serif);
-    font-size: 1.1rem;
-    font-weight: 500;
-    color: var(--text);
-    margin-bottom: 0.6rem;
-  }
-  .who-card p {
-    font-size: 0.85rem;
-    color: var(--text-muted);
-    line-height: 1.7;
-  }
-
-  /* ── SERVICES ── */
-  #services { background: var(--bg3); position: relative; z-index: 0; }
-
-  .services-intro {
-    max-width: 600px;
-    margin-bottom: 4rem;
-  }
-
-  .services-list {
-    display: flex;
-    flex-direction: column;
-  }
-
-  .service-row {
-    display: grid;
-    grid-template-columns: 4rem 1fr;
-    gap: 2rem;
-    padding: 2.25rem 1.5rem;
-    margin: 0 -1.5rem;
-    border-bottom: 1px solid var(--border);
-    align-items: start;
-    transition: background 0.2s;
-  }
-  .service-row:first-child { border-top: 1px solid var(--border); }
-  .service-row:hover { background: var(--bg2); }
-
-  .service-row-num {
-    font-family: var(--serif);
-    font-size: 2.25rem;
-    font-weight: 400;
-    color: var(--gold);
-    opacity: 0.35;
-    line-height: 1;
-  }
-  .service-row-body h3 {
-    font-family: var(--serif);
-    font-size: 1.15rem;
-    font-weight: 500;
-    color: var(--text);
-    margin-bottom: 1rem;
-    line-height: 1.3;
-  }
-  .service-items {
-    list-style: none;
-    display: flex; flex-direction: column; gap: 0.4rem;
-  }
-  .service-items li {
-    font-size: 0.8rem;
-    color: var(--text-dim);
-    padding-left: 1rem;
-    position: relative;
-    line-height: 1.5;
-  }
-  .service-items li::before {
-    content: '—';
-    position: absolute; left: 0;
-    color: var(--gold);
-    opacity: 0.5;
-  }
-  .service-note {
-    font-size: 0.75rem;
-    color: var(--text-dim);
-    font-style: italic;
-    margin-top: 0.9rem;
-    line-height: 1.6;
-  }
-
-  /* ── MISSION ── */
-  #mission {
-    background: var(--bg);
-    text-align: center;
-  }
-
-  .mission-content {
-    max-width: 720px;
-    margin: 0 auto;
-  }
-
-  .mission-quote {
-    font-family: var(--serif);
-    font-size: clamp(1.5rem, 3vw, 2.3rem);
-    font-weight: 400;
-    line-height: 1.4;
-    color: var(--text);
-    margin-bottom: 3rem;
-  }
-  .mission-quote em { color: var(--gold); font-style: italic; }
-
-  .mission-gaps {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 2px;
-    margin-top: 4rem;
-    text-align: left;
-  }
-  .gap-item {
-    background: var(--bg2);
-    padding: 2rem 1.75rem;
-    border-top: 2px solid transparent;
-    transition: border-color 0.2s;
-  }
-  .gap-item:hover { border-top-color: var(--gold); }
-  .gap-num {
-    font-family: var(--serif);
-    font-size: 3rem;
-    font-weight: 400;
-    color: var(--gold);
-    opacity: 0.2;
-    line-height: 1;
-    margin-bottom: 0.75rem;
-  }
-  .gap-title {
-    font-size: 0.85rem;
-    font-weight: 500;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: var(--text);
-    margin-bottom: 0.5rem;
-  }
-  .gap-desc { font-size: 0.85rem; color: var(--text-muted); line-height: 1.7; }
-
-  /* ── ABOUT / BIO (reuses team-* classes) ── */
-  #about-bio { background: var(--bg2); position: relative; z-index: 0; }
-
-  .bio-card {
-    background: var(--bg);
-    border: 1px solid var(--border);
-    padding: 3rem 2.5rem;
-    margin-top: 3.5rem;
-  }
-
-  .team-avatar {
-    width: 56px; height: 56px;
-    border: 1px solid var(--gold-border);
-    display: flex; align-items: center; justify-content: center;
-    font-family: var(--serif);
-    font-size: 1.3rem;
-    color: var(--gold);
-    margin-bottom: 1.75rem;
-    letter-spacing: 0.05em;
-  }
-
-  .team-name {
-    font-family: var(--serif);
-    font-size: 1.5rem;
-    font-weight: 500;
-    color: var(--text);
-    margin-bottom: 0.25rem;
-  }
-  .team-title {
-    font-size: 0.78rem;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    color: var(--gold);
-    margin-bottom: 1.5rem;
-  }
-  .team-bio {
-    font-size: 0.9rem;
-    color: var(--text-muted);
-    line-height: 1.8;
-    margin-bottom: 1.5rem;
-    max-width: 640px;
-  }
-  .team-facts {
-    list-style: none;
-    display: flex; flex-direction: column; gap: 0.6rem;
-  }
-  .team-facts li {
-    font-size: 0.8rem;
-    color: var(--text-dim);
-    padding-left: 1.1rem;
-    position: relative;
-    line-height: 1.5;
-  }
-  .team-facts li::before {
-    content: '↗';
-    position: absolute; left: 0;
-    color: var(--gold);
-    opacity: 0.6;
-    font-size: 0.65rem;
-    top: 0.15rem;
-  }
-
-  /* ── IS / ISN'T ── */
-  #scope { background: var(--bg3); position: relative; z-index: 0; }
-  .scope-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 4rem;
-    margin-top: 3rem;
-  }
-  .scope-grid h4 {
-    font-size: 0.75rem;
-    letter-spacing: 0.15em;
-    text-transform: uppercase;
-    color: var(--gold);
-    margin-bottom: 1.25rem;
-  }
-  .scope-grid.dim h4 { color: var(--text-dim); }
-  .scope-list { list-style: none; display: flex; flex-direction: column; gap: 0.6rem; }
-  .scope-list li {
-    font-size: 0.9rem;
-    color: var(--text-muted);
-    padding-left: 1rem;
-    position: relative;
-    line-height: 1.6;
-  }
-  .scope-list li::before {
-    content: '—';
-    position: absolute; left: 0;
-    color: var(--gold);
-    opacity: 0.5;
-  }
-  .scope-list.isnt li { color: var(--text-dim); }
-  .scope-list.isnt li::before { opacity: 0.25; }
-
-  /* ── CONTACT ── */
-  #contact {
-    background: var(--bg);
-    text-align: center;
-    position: relative;
-    z-index: 0;
-  }
-
-  .contact-inner {
-    max-width: 640px;
-    margin: 0 auto;
-  }
-
-  .contact-inner h2 { margin-bottom: 1rem; }
-  .contact-lead {
-    color: var(--text-muted);
-    margin-bottom: 2.5rem;
-    line-height: 1.8;
-  }
-
-  .contact-form {
-    display: flex; flex-direction: column; gap: 1px;
-    background: var(--border);
-    border: 1px solid var(--border);
-    margin-bottom: 2rem;
-  }
-  .form-row {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 1px;
-    background: var(--border);
-  }
-  .form-field {
-    background: var(--bg2);
-    padding: 0.1rem 0;
-    position: relative;
-  }
-  .form-field label {
-    display: block;
-    font-size: 0.68rem;
-    letter-spacing: 0.15em;
-    text-transform: uppercase;
-    color: var(--text-dim);
-    padding: 0.85rem 1.25rem 0;
-  }
-  .form-field input, .form-field textarea, .form-field select {
-    width: 100%;
-    background: transparent;
-    border: none;
-    outline: none;
-    color: var(--text);
-    font-family: var(--sans);
-    font-size: 0.9rem;
-    font-weight: 300;
-    padding: 0.35rem 1.25rem 0.85rem;
-    resize: none;
-  }
-  .form-field textarea { min-height: 90px; }
-  .form-field select option { background: var(--bg2); color: var(--text); }
-
-  .form-submit {
-    background: var(--bg2);
-    padding: 1.25rem;
-    display: flex; justify-content: center;
-  }
-
-  .contact-email {
-    font-size: 0.85rem;
-    color: var(--text-dim);
-  }
-  .contact-email a {
-    color: var(--gold);
-    text-decoration: none;
-  }
-
-  /* ── FOOTER ── */
-  footer {
-    background: var(--bg);
-    border-top: 1px solid var(--border);
-    padding: 2.5rem 3rem;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
-  .footer-brand {
-    display: flex; align-items: center; gap: 0.6rem;
-    color: var(--text-dim);
-    font-size: 0.8rem;
-  }
-  .footer-brand svg { width: 20px; height: 20px; opacity: 0.4; }
-  .footer-copy {
-    font-size: 0.75rem;
-    color: var(--text-dim);
-  }
-  .footer-links {
-    display: flex; gap: 2rem; list-style: none;
-  }
-  .footer-links a {
-    font-size: 0.75rem;
-    color: var(--text-dim);
-    text-decoration: none;
-    letter-spacing: 0.08em;
-    transition: color 0.2s;
-  }
-  .footer-links a:hover { color: var(--text-muted); }
-
-  /* ── DIVIDER ── */
-  .divider {
-    width: 100%; height: 1px;
-    background: var(--border);
-    margin: 3.5rem 0;
-  }
-
-  @media (max-width: 900px) {
-    nav { padding: 1.25rem 1.5rem; }
-    .nav-burger { display: flex; }
-    .nav-links {
-      display: flex; flex-direction: column; gap: 0;
-      position: fixed; top: 68px; left: 0; right: 0;
-      background: var(--bg2); border-bottom: 1px solid var(--border);
-      max-height: 0; overflow: hidden;
-      transition: max-height 0.25s ease;
-      padding: 0 1.5rem;
-    }
-    .nav-links li { width: 100%; }
-    .nav-links a {
-      display: block; padding: 1rem 0;
-      border-bottom: 1px solid var(--border);
-    }
-    .nav-toggle-checkbox:checked ~ .nav-links { max-height: 320px; padding: 0.5rem 1.5rem 1rem; }
-    section { padding: 5rem 1.5rem; }
-    #hero { padding: 8rem 1.5rem 3rem; }
-    .nav-cta { display: none; }
-    .about-grid { grid-template-columns: 1fr; gap: 3rem; }
-    .who-grid { grid-template-columns: 1fr; }
-    .service-row { grid-template-columns: 2.5rem 1fr; gap: 1.25rem; padding: 1.75rem 1.5rem; margin: 0 -1.5rem; }
-    .service-row-num { font-size: 1.5rem; }
-    .mission-gaps { grid-template-columns: 1fr; }
-    .scope-grid { grid-template-columns: 1fr; gap: 2.5rem; }
-    .form-row { grid-template-columns: 1fr; }
-    footer { flex-direction: column; gap: 1.5rem; text-align: center; }
-    .hero-stats { gap: 2rem; flex-wrap: wrap; }
-    .hero-accent, .thermal-drone { display: none; }
-  }
-
-  /* ── THERMAL CURSOR ── */
-  #thermal-cursor {
-    position: fixed;
-    top: 0; left: 0;
-    width: 150px; height: 150px;
-    border-radius: 50%;
-    pointer-events: none;
-    z-index: 9999;
-    background: radial-gradient(circle,
-      rgba(255,246,224,0.4) 0%,
-      rgba(255,214,120,0.24) 20%,
-      rgba(242,150,60,0.14) 42%,
-      rgba(201,72,40,0.06) 62%,
-      rgba(201,72,40,0) 76%);
-    filter: blur(7px);
-    mix-blend-mode: screen;
-    transform: translate(-50%, -50%);
-    opacity: 0;
-    transition: opacity 0.5s ease, filter 0.3s ease;
-    will-change: transform;
-  }
-  #thermal-cursor.is-active { opacity: 0.85; }
-  #thermal-cursor.is-active.is-compact { opacity: 0.45; filter: blur(3px); }
-
-  #thermal-reticle {
-    position: fixed;
-    top: 0; left: 0;
-    width: 40px; height: 40px;
-    pointer-events: none;
-    z-index: 10000;
-    transform: translate(-50%, -50%);
-    opacity: 0;
-    transition: opacity 0.4s ease;
-  }
-  #thermal-reticle.is-active { opacity: 0.7; }
-  #thermal-reticle.is-active.is-compact { opacity: 0; }
-  #thermal-reticle svg { width: 100%; height: 100%; display: block; overflow: visible; }
-  #thermal-reticle .reticle-dash { animation: reticle-spin 10s linear infinite; transform-origin: 20px 20px; }
-  @keyframes reticle-spin { to { transform: rotate(360deg); } }
-
-  @media (hover: none), (pointer: coarse) {
-    #thermal-cursor, #thermal-reticle { display: none; }
-    .thermal-reveal { display: none; }
+  @media (max-width:900px){
+    .field{ padding:0 1.25rem; }
+    .nav-inner{ padding:1rem 1.25rem; }
+    .nav-links{ display:none; }
+    .hero-grid, .principal-grid{ grid-template-columns:1fr; }
+    .hero-portrait{ order:-1; max-width:220px; }
+    .situation-row{ grid-template-columns:1fr; gap:0.5rem; }
+    .directions{ grid-template-columns:1fr; }
+    .direction, .direction + .direction{ padding:2rem 0; border-left:none; border-top:1px solid var(--rule); }
+    .direction:first-child{ border-top:none; }
+    .principles{ grid-template-columns:1fr; gap:1.75rem; }
+    .form-grid{ grid-template-columns:1fr; }
+    .credential-spine div{ grid-template-columns:1fr; gap:0.25rem; }
+    footer{ flex-direction:column; gap:0.75rem; }
   }
 </style>
 </head>
 <body>
 
-<!-- NAV -->
 <nav>
-  <a href="#hero" class="nav-logo">
-    <img src="logo_gold.png" alt="Bohun Defence Advisory">
-    <span class="nav-logo-text">Bohun Defence Advisory</span>
-  </a>
-  <input type="checkbox" id="nav-toggle" class="nav-toggle-checkbox">
-  <ul class="nav-links">
-    <li><a href="#about">About</a></li>
-    <li><a href="#services">Advisory</a></li>
-    <li><a href="#expertise">Expertise</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ul>
-  <label for="nav-toggle" class="nav-burger" aria-label="Menu" tabindex="0"><span></span><span></span><span></span></label>
-  <a href="#contact" class="nav-cta">Start a conversation</a>
+  <div class="nav-inner">
+    <a href="#hero" class="brand">BOHUN</a>
+    <ul class="nav-links">
+      <li><a href="#situations">Advisory</a></li>
+      <li><a href="ukraine-entry.html">Ukraine Entry</a></li>
+      <li><a href="europe-entry.html">Europe Expansion</a></li>
+      <li><a href="#principal">Principal</a></li>
+    </ul>
+    <a href="#contact" class="nav-cta">Discuss a mandate →</a>
+  </div>
 </nav>
 
-<main>
 <!-- HERO -->
 <section id="hero">
-  <div class="hero-grid-bg"></div>
-  <div class="hero-accent thermal-reveal">
-    <img src="logo_gold.png" alt="" style="width:420px;height:420px;object-fit:contain;">
-  </div>
-  <div class="thermal-reveal thermal-drone" aria-hidden="true">
-    <svg viewBox="0 0 120 120" fill="none" stroke="currentColor" stroke-width="2">
-      <line x1="20" y1="20" x2="100" y2="100"/>
-      <line x1="100" y1="20" x2="20" y2="100"/>
-      <rect x="48" y="48" width="24" height="24" rx="4"/>
-      <circle cx="20" cy="20" r="13"/>
-      <circle cx="100" cy="20" r="13"/>
-      <circle cx="20" cy="100" r="13"/>
-      <circle cx="100" cy="100" r="13"/>
-    </svg>
-  </div>
-  <div class="hero-content">
-    <div class="hero-eyebrow">Defence & dual-use advisory</div>
-    <h1>Strategic advisory for defence companies,<br>from <em>Ukraine to Europe.</em></h1>
-    <p class="hero-sub">Bohun is a focused advisory practice for defence and dual-use companies moving between Ukraine and Europe — led directly by Serhii Nabok, with specialist partners brought in only when an engagement calls for it.</p>
-    <div class="hero-actions">
-      <a href="#contact" class="btn-primary">Start a conversation</a>
-      <a href="#services" class="btn-ghost">My advisory</a>
-    </div>
-    <p style="margin-top: 1.25rem;"><a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7389655282055811072" target="_blank" rel="noopener noreferrer" class="link-secondary">Not ready to talk? Follow my LinkedIn newsletter on MilTech →</a></p>
-    <div class="hero-stats">
+  <div class="field">
+    <div class="hero-grid">
       <div>
-        <div class="stat-num">UAV · EW · AI</div>
-        <div class="stat-label">Focus sectors</div>
+        <h1>Strategic advisory for defence and dual-use companies operating between Ukraine and Europe.</h1>
+        <p class="hero-sub">Senior counsel on market entry, strategic positioning, capital and investor communications, institutional engagement and high-stakes communications — delivered directly by the principal.</p>
+        <a href="#contact" class="cta-link">Discuss a mandate →</a>
+        <p class="credential-line">Former strategic communications adviser to Ukraine's Ministry of Defence during the full-scale war · 15+ years across policy, communications and defence.</p>
       </div>
-      <div>
-        <div class="stat-num">Ukraine · EU · NATO</div>
-        <div class="stat-label">Markets</div>
-      </div>
-      <div>
-        <div class="stat-num">15+ yrs</div>
-        <div class="stat-label">Comms · policy · defence</div>
+      <div class="hero-portrait">
+        <img src="serhii-portrait.png" alt="Serhii Nabok">
+        <div class="hero-portrait-cap"><strong>Serhii Nabok</strong>Principal, Bohun Defence Advisory</div>
       </div>
     </div>
   </div>
 </section>
 
-<!-- ABOUT / CONTEXT -->
-<section id="about">
-  <div class="thermal-reveal thermal-satellite" aria-hidden="true">
-    <svg viewBox="0 0 140 90" fill="none" stroke="currentColor" stroke-width="2">
-      <rect x="56" y="28" width="28" height="28" rx="3"/>
-      <rect x="4" y="10" width="26" height="44" rx="2"/>
-      <rect x="110" y="10" width="26" height="44" rx="2"/>
-      <line x1="30" y1="32" x2="56" y2="32"/>
-      <line x1="30" y1="52" x2="56" y2="52"/>
-      <line x1="84" y1="32" x2="110" y2="32"/>
-      <line x1="84" y1="52" x2="110" y2="52"/>
-      <line x1="70" y1="28" x2="70" y2="8"/>
-      <circle cx="70" cy="6" r="2.5" fill="currentColor" stroke="none"/>
-    </svg>
+<!-- CONTEXT STATEMENT -->
+<section id="context">
+  <div class="field">
+    <p class="context-text">Defence technology companies crossing between Ukraine and European markets encounter a combination of commercial, institutional and reputational questions that rarely sit within one function. Bohun advises leadership where those questions meet.</p>
   </div>
-  <div class="container">
-    <div class="about-grid">
-      <div>
-        <div class="section-label">Who I am</div>
-        <h2>Where disciplined thinking meets practical clarity</h2>
-        <p class="body-text" style="margin-bottom: 1.5rem;">I work with founders and executives at the stages where positioning, capital, government relationships, market strategy and communications all have to move together — a fundraising round, a market entry, a high-stakes stakeholder conversation.</p>
-        <div class="divider"></div>
-        <p class="body-text" style="font-size: 0.875rem;">Most of the teams I meet have technology that works. What stalls the round, the introduction, or the procurement conversation is usually somewhere else — the story hasn't been built for the institution on the other side of the table.</p>
+</section>
+
+<!-- SITUATIONS -->
+<section id="situations">
+  <div class="field">
+    <div class="sec-eyebrow">Advisory</div>
+    <div class="sec-title">Where clients need senior judgement</div>
+    <div class="situations">
+      <div class="situation-row">
+        <h3>Entering Ukraine</h3>
+        <p>Understanding the operating environment, positioning the company, identifying credible counterparts and sequencing institutional engagement.</p>
       </div>
-      <div>
-        <div class="section-label">How I work</div>
-        <p class="body-text" style="margin-bottom: 1.5rem;">A focused, one-person practice by design. You work directly with me — no account manager, no junior analyst relaying between you and the person making the call.</p>
-        <p class="body-text" style="font-size: 0.875rem;">When specialist execution is needed — design, media buying, event production — I work with your existing providers or a recommended partner. I advise and shape strategy; I don't run campaigns.</p>
+      <div class="situation-row">
+        <h3>Expanding from Ukraine into Europe</h3>
+        <p>Translating Ukrainian operational credibility into a proposition that European governments, investors, primes and partners can evaluate.</p>
+      </div>
+      <div class="situation-row">
+        <h3>Preparing for capital</h3>
+        <p>Sharpening the strategic narrative, investment case and executive communications before fundraising or strategic conversations.</p>
+      </div>
+      <div class="situation-row">
+        <h3>Navigating institutional stakeholders</h3>
+        <p>Mapping interests, messages and engagement across government, defence institutions, investors and ecosystem partners.</p>
+      </div>
+      <div class="situation-row">
+        <h3>High-stakes communications</h3>
+        <p>Advising leadership when commercial, policy and reputation considerations collide.</p>
       </div>
     </div>
   </div>
 </section>
 
-<!-- EXPERTISE / WHO WE WORK WITH -->
-<section id="expertise" style="background: var(--bg3);">
-  <div class="thermal-reveal thermal-chip" aria-hidden="true">
-    <svg viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="2">
-      <rect x="26" y="26" width="48" height="48" rx="4"/>
-      <rect x="42" y="42" width="16" height="16"/>
-      <line x1="40" y1="10" x2="40" y2="26"/>
-      <line x1="60" y1="10" x2="60" y2="26"/>
-      <line x1="40" y1="74" x2="40" y2="90"/>
-      <line x1="60" y1="74" x2="60" y2="90"/>
-      <line x1="10" y1="40" x2="26" y2="40"/>
-      <line x1="10" y1="60" x2="26" y2="60"/>
-      <line x1="74" y1="40" x2="90" y2="40"/>
-      <line x1="74" y1="60" x2="90" y2="60"/>
-    </svg>
-  </div>
-  <div class="container">
-    <div class="section-label">Who I work with</div>
-    <h2>Defence and dual-use companies</h2>
-    <p class="body-text" style="max-width: 620px;">My primary clients are founders, CEOs and leadership teams building or scaling technologies relevant to defence, security and resilience. I also work selectively with investors, industry organisations and public-sector initiatives where my experience is relevant.</p>
-    <div class="who-grid">
-      <div class="who-card">
-        <h3>Early-stage founders</h3>
-        <p>Teams with strong product and early traction preparing for first institutional rounds or strategic partnerships.</p>
+<!-- TWO DIRECTIONS -->
+<section id="directions">
+  <div class="field">
+    <div class="sec-eyebrow">Two directions</div>
+    <div class="sec-title">A different question depending on which way you're moving</div>
+    <div class="directions">
+      <div class="direction">
+        <div class="tag">For international companies</div>
+        <h3>Entering Ukraine</h3>
+        <p>Market context, positioning, local ecosystem, stakeholder strategy, communications — for companies from Europe and allied markets.</p>
+        <a href="ukraine-entry.html">Ukraine market entry →</a>
       </div>
-      <div class="who-card">
-        <h3>Growth-stage leadership</h3>
-        <p>Operators strengthening positioning, investor communications and stakeholder strategy as the company scales into Europe.</p>
-      </div>
-      <div class="who-card">
-        <h3>Autonomous · AI · Sensing</h3>
-        <p>Unmanned systems, counter-UAS, robotics, AI and software, cybersecurity, electronic warfare, sensors and communications, space and geospatial, advanced manufacturing, critical infrastructure.</p>
+      <div class="direction">
+        <div class="tag">For Ukrainian companies</div>
+        <h3>Expanding into Europe</h3>
+        <p>Market prioritisation, institutional positioning, investor narrative, stakeholder engagement — for companies building European relationships.</p>
+        <a href="europe-entry.html">European expansion →</a>
       </div>
     </div>
   </div>
 </section>
 
-<!-- SERVICES / ADVISORY -->
-<section id="services">
-  <div class="thermal-reveal thermal-radar" aria-hidden="true">
-    <svg viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="2">
-      <line x1="50" y1="94" x2="50" y2="52"/>
-      <line x1="28" y1="94" x2="72" y2="94"/>
-      <path d="M13 52 A37 37 0 0 1 87 52"/>
-      <line x1="13" y1="52" x2="87" y2="52"/>
-      <circle cx="50" cy="46" r="4" fill="currentColor" stroke="none"/>
-    </svg>
-  </div>
-  <div class="container">
-    <div class="services-intro">
-      <div class="section-label">Advisory</div>
-      <h2>Built around critical business moments</h2>
-      <p class="body-text">Analysis, strategic recommendations, leadership sessions and communications development — delivered directly, no agency layers.</p>
-    </div>
-    <div class="services-list">
-      <div class="service-row">
-        <div class="service-row-num">01</div>
-        <div class="service-row-body">
-          <h3>Strategic Positioning</h3>
-          <ul class="service-items">
-            <li>Positioning strategy & corporate narrative</li>
-            <li>Messaging architecture</li>
-            <li>Competitive differentiation</li>
-          </ul>
-        </div>
-      </div>
-      <div class="service-row">
-        <div class="service-row-num">02</div>
-        <div class="service-row-body">
-          <h3>Fundraising & Investor Communications</h3>
-          <ul class="service-items">
-            <li>Fundraising narrative & investor messaging</li>
-            <li>Pitch and deck advisory</li>
-            <li>Q&A and meeting preparation</li>
-          </ul>
-        </div>
-      </div>
-      <div class="service-row">
-        <div class="service-row-num">03</div>
-        <div class="service-row-body">
-          <h3>Go-to-Market & Market Positioning</h3>
-          <ul class="service-items">
-            <li>Market-entry narrative</li>
-            <li>Audience & stakeholder prioritisation</li>
-            <li>Launch strategy</li>
-          </ul>
-          <div class="service-note">Particular focus: Ukraine–Europe market context.</div>
-        </div>
-      </div>
-      <div class="service-row">
-        <div class="service-row-num">04</div>
-        <div class="service-row-body">
-          <h3>Strategic Communications</h3>
-          <ul class="service-items">
-            <li>Corporate & executive communications</li>
-            <li>Narrative development</li>
-            <li>Announcements & issues management</li>
-          </ul>
-        </div>
-      </div>
-      <div class="service-row">
-        <div class="service-row-num">05</div>
-        <div class="service-row-body">
-          <h3>Stakeholder Engagement</h3>
-          <ul class="service-items">
-            <li>Government & defence institutions</li>
-            <li>International organisations & investors</li>
-            <li>Media and opinion leaders</li>
-          </ul>
-          <div class="service-note">Stakeholder strategy, preparation and communications — not lobbying.</div>
-        </div>
-      </div>
-      <div class="service-row">
-        <div class="service-row-num">06</div>
-        <div class="service-row-body">
-          <h3>Executive Advisory</h3>
-          <ul class="service-items">
-            <li>Fundraising & market entry decisions</li>
-            <li>Board and investor communication</li>
-            <li>High-stakes meetings</li>
-          </ul>
-        </div>
-      </div>
-      <div class="service-row">
-        <div class="service-row-num">07</div>
-        <div class="service-row-body">
-          <h3>Crisis & Special Situations</h3>
-          <ul class="service-items">
-            <li>Situation assessment & stakeholder mapping</li>
-            <li>Core messaging & executive preparation</li>
-            <li>Media Q&A</li>
-          </ul>
+<!-- PRINCIPAL -->
+<section id="principal">
+  <div class="field">
+    <div class="sec-eyebrow">Principal</div>
+    <div class="sec-title">Principal-led by design</div>
+    <div class="principal-grid">
+      <img src="serhii-portrait.png" alt="Serhii Nabok">
+      <div>
+        <p class="principal-narrative">Bohun Defence Advisory is led directly by Serhii Nabok, a strategic communications and policy professional with more than 15 years of experience across government, defence, international organisations, media and business. During Russia's full-scale invasion of Ukraine, he served as strategic communications adviser to the Deputy Minister of Defence of Ukraine, engaging NATO representatives, international media and donor organisations. The practice applies that experience to companies operating at the intersection of technology, capital, government and European security.</p>
+        <div class="credential-spine">
+          <div><div class="k">Government</div><div class="v">Former strategic communications adviser, Ukraine's Ministry of Defence — wartime communications strategy</div></div>
+          <div><div class="k">Institutional</div><div class="v">NATO-related stakeholder engagement; hybrid threat response and defence innovation</div></div>
+          <div><div class="k">Field record</div><div class="v">Donor fundraising and communications for TakShtab (2022–2024) with GIZ, GMF and People in Need</div></div>
+          <div><div class="k">Public work</div><div class="v">Curator and editor, MilTech section, Novyny.live · author of two published books</div></div>
         </div>
       </div>
     </div>
   </div>
 </section>
 
-<!-- ENGAGEMENTS -->
-<section id="engagements" style="background: var(--bg);">
-  <div class="thermal-reveal thermal-antenna" aria-hidden="true">
-    <svg viewBox="0 0 90 120" fill="none" stroke="currentColor" stroke-width="2">
-      <line x1="45" y1="118" x2="45" y2="20"/>
-      <line x1="20" y1="100" x2="70" y2="100"/>
-      <line x1="26" y1="75" x2="64" y2="75"/>
-      <line x1="32" y1="50" x2="58" y2="50"/>
-      <circle cx="45" cy="12" r="6"/>
-      <path d="M30 12 A15 15 0 0 1 60 12" stroke-width="1.5"/>
-      <path d="M22 12 A23 23 0 0 1 68 12" stroke-width="1.5"/>
-    </svg>
-  </div>
-  <div class="container">
-    <div class="section-label">Engagements</div>
-    <h2>Three ways to work together</h2>
-    <div class="mission-gaps" style="margin-top: 3rem;">
-      <div class="gap-item">
-        <div class="gap-num">01</div>
-        <div class="gap-title">Strategic Sprint</div>
-        <div class="gap-desc">For a defined challenge — fundraising positioning, market-entry strategy, corporate narrative, executive positioning, crisis preparation. Diagnosis, leadership sessions, and a concrete set of recommendations and materials.</div>
-      </div>
-      <div class="gap-item">
-        <div class="gap-num">02</div>
-        <div class="gap-title">Executive Advisory</div>
-        <div class="gap-desc">Ongoing confidential counsel to a founder, CEO or senior executive who needs an external perspective across several interconnected issues — not another functional contractor.</div>
-      </div>
-      <div class="gap-item">
-        <div class="gap-num">03</div>
-        <div class="gap-title">Strategic Advisory Retainer</div>
-        <div class="gap-desc">Ongoing support across positioning, investor communications, strategic communications and stakeholder engagement. Scope defined by business priorities, not a fixed list of agency outputs.</div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- ABOUT / BIO -->
-<section id="about-bio">
-  <div class="thermal-reveal thermal-ugv" aria-hidden="true">
-    <svg viewBox="0 0 140 80" fill="none" stroke="currentColor" stroke-width="2">
-      <rect x="20" y="20" width="100" height="30" rx="4"/>
-      <rect x="35" y="7" width="35" height="14" rx="2"/>
-      <line x1="45" y1="7" x2="45" y2="0"/>
-      <line x1="8" y1="60" x2="132" y2="60"/>
-      <circle cx="18" cy="60" r="9"/>
-      <circle cx="47" cy="60" r="9"/>
-      <circle cx="76" cy="60" r="9"/>
-      <circle cx="105" cy="60" r="9"/>
-    </svg>
-  </div>
-  <div class="container">
-    <div class="section-label">About</div>
-    <h2>Experience built where strategy meets defence reality</h2>
-    <div class="bio-card">
-      <div class="team-avatar">SN</div>
-      <div class="team-name">Serhii Nabok</div>
-      <div class="team-title">Principal Advisor — Strategic Communications & Defence Narrative</div>
-      <p class="team-bio">I lead Bohun Defence Advisory as a strategic communications and policy professional with more than 15 years of experience across government, defence, international organisations, media and business. During Russia's full-scale invasion of Ukraine, I served as Strategic Communications Advisor to the Deputy Minister of Defence of Ukraine, contributing to wartime communications and engagement with NATO representatives, international media and donor organisations. Based in Lisbon, I work primarily across Ukraine and Europe.</p>
-      <ul class="team-facts">
-        <li>Former advisor to the Ministry of Defence of Ukraine on wartime communications strategy</li>
-        <li>NATO-related stakeholder engagement; hybrid threat response and defence innovation</li>
-        <li>Earlier work with Ukraine's parliamentary Committee on National Security, Defence and Intelligence, and with international organisations and research initiatives</li>
-        <li>Donor fundraising and communications for TakShtab (2022–2024) — humanitarian work with GIZ, GMF and People in Need, reaching tens of thousands of women during the war</li>
-        <li>Brand and communications background across Lovemarks, AdShot, TAK Publishing and business.ua</li>
-        <li>Author of two published books</li>
-        <li>Curator and editor of the MilTech expert section at Novyny.live</li>
-      </ul>
-    </div>
-  </div>
-</section>
-
-<!-- IS / ISN'T -->
-<section id="scope">
-  <div class="thermal-reveal thermal-shield" aria-hidden="true">
-    <svg viewBox="0 0 90 100" fill="none" stroke="currentColor" stroke-width="2">
-      <path d="M45 6 L82 20 V50 C82 74 66 90 45 96 C24 90 8 74 8 50 V20 Z"/>
-      <path d="M30 48 L41 59 L62 36" stroke-width="2.5"/>
-    </svg>
-  </div>
-  <div class="container">
-    <div class="section-label">What BOHUN is / isn't</div>
-    <h2>Strategic thinking first</h2>
-    <div class="scope-grid">
+<!-- WORKING RELATIONSHIP -->
+<section id="working">
+  <div class="field">
+    <div class="sec-eyebrow">Working relationship</div>
+    <div class="sec-title">Principal-led, built around the decision</div>
+    <div class="principles">
       <div>
-        <h4>BOHUN provides</h4>
-        <ul class="scope-list">
-          <li>Strategic advisory</li>
-          <li>Positioning</li>
-          <li>Fundraising and investor communications</li>
-          <li>Go-to-market strategy</li>
-          <li>Strategic communications</li>
-          <li>Stakeholder strategy</li>
-          <li>Executive advisory</li>
-          <li>Crisis communications</li>
-        </ul>
+        <h3>Principal-led</h3>
+        <p>You work directly with the senior adviser responsible for the mandate — not an account manager or a junior team.</p>
       </div>
-      <div class="dim">
-        <h4>BOHUN is not</h4>
-        <ul class="scope-list isnt">
-          <li>A social media agency</li>
-          <li>A performance marketing agency</li>
-          <li>An outsourced press office</li>
-          <li>A design studio</li>
-          <li>An event agency</li>
-          <li>A lobbying firm</li>
-          <li>A placement agent</li>
-        </ul>
+      <div>
+        <h3>Built around the decision</h3>
+        <p>Engagements are shaped around the strategic question, rather than a fixed consultancy package.</p>
+      </div>
+      <div>
+        <h3>Discreet by default</h3>
+        <p>Sensitive work is handled with appropriate confidentiality. Much of it is never named publicly.</p>
       </div>
     </div>
-    <p class="body-text" style="margin-top: 2.5rem; font-size: 0.875rem; max-width: 640px;">The distinction matters: I advise leadership and shape strategy; specialist execution — design, media buying, event production — is handled by your existing providers or a recommended specialist partner.</p>
   </div>
 </section>
 
 <!-- CONTACT -->
 <section id="contact">
-  <div class="thermal-reveal thermal-gear" aria-hidden="true">
-    <svg viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="2">
-      <circle cx="50" cy="50" r="16"/>
-      <circle cx="50" cy="50" r="30"/>
-      <path d="M50 8 V20 M50 80 V92 M8 50 H20 M80 50 H92 M19 19 L27 27 M73 73 L81 81 M19 81 L27 73 M73 27 L81 19"/>
-    </svg>
-  </div>
-  <div class="contact-inner">
-    <div class="section-label" style="justify-content: center;">Contact</div>
-    <h2>Facing a strategic <em>inflection point?</em></h2>
-    <p class="contact-lead">If your company is raising capital, entering a new market, strengthening its positioning, or preparing for a high-stakes stakeholder conversation — let's talk. I start with a short, confidential diagnostic. No pitch required.</p>
-    <form class="contact-form" action="https://formspree.io/f/xbdwvgqp" method="POST">
-      <div class="form-row">
-        <div class="form-field">
-          <label for="name">Your name</label>
-          <input type="text" id="name" name="name" placeholder="Ivan Petrenko" required>
-        </div>
-        <div class="form-field">
-          <label for="company">Company</label>
-          <input type="text" id="company" name="company" placeholder="Acme Defence">
-        </div>
-      </div>
-      <div class="form-field">
-        <label for="email">Email</label>
-        <input type="email" id="email" name="email" placeholder="ivan@company.com" required>
-      </div>
-      <div class="form-field">
-        <label for="stage">Company stage</label>
-        <select id="stage" name="stage">
-          <option value="" disabled selected>Select stage</option>
-          <option>Pre-seed / concept</option>
-          <option>Seed — early traction</option>
-          <option>Series A / growth stage</option>
-          <option>Established, scaling</option>
-        </select>
-      </div>
-      <div class="form-field">
-        <label for="message">What are you working on?</label>
-        <textarea id="message" name="message" placeholder="Briefly describe your technology, where you are, and what you're trying to achieve."></textarea>
-      </div>
-      <div class="form-submit">
-        <button type="submit" class="btn-primary">Send message</button>
-      </div>
+  <div class="field">
+    <div class="sec-eyebrow">Contact</div>
+    <h2>Discuss a mandate</h2>
+    <p class="lead">For companies, investors and leadership teams navigating defence and dual-use markets between Ukraine and Europe.</p>
+    <form class="form-grid" action="https://formspree.io/f/xbdwvgqp" method="POST">
+      <div class="form-field"><label for="name">Name</label><input type="text" id="name" name="name" required></div>
+      <div class="form-field"><label for="org">Organisation</label><input type="text" id="org" name="org"></div>
+      <div class="form-field full"><label for="email">Work email</label><input type="email" id="email" name="email" required></div>
+      <div class="form-field full"><label for="msg">What are you navigating?</label><textarea id="msg" name="message"></textarea></div>
+      <div class="form-field full" style="padding:1rem 1.1rem;"><button class="send-btn" type="submit">Send confidential enquiry →</button></div>
     </form>
-
+    <p class="contact-note">Bohun Defence Advisory is principal-led. Initial enquiries are reviewed directly by the founder. <a href="mailto:hello@bohundefence.com">hello@bohundefence.com</a></p>
   </div>
 </section>
-</main>
 
-<!-- FOOTER -->
 <footer>
-  <div class="footer-brand">
-    <img src="logo_gold.png" alt="" style="width:20px;height:20px;object-fit:contain;opacity:0.4;">
-    Bohun Defence Advisory
-  </div>
-  <div class="footer-copy">© 2026 Bohun Defence Advisory. All rights reserved.</div>
-  <ul class="footer-links">
-    <li><a href="#about">About</a></li>
-    <li><a href="#services">Advisory</a></li>
-    <li><a href="#expertise">Expertise</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="https://www.linkedin.com/in/serhii-nabok-39046435/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a></li>
-  </ul>
+  <div>Bohun Defence Advisory</div>
+  <div><a href="https://www.linkedin.com/in/serhii-nabok-39046435/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a></div>
 </footer>
 
-<script>
-(function () {
-  var navLinks = document.querySelectorAll('.nav-links a[href^="#"]');
-  var linkByHash = {};
-  navLinks.forEach(function (link) {
-    linkByHash[link.getAttribute('href').slice(1)] = link;
-  });
-  var sections = Object.keys(linkByHash).map(function (id) {
-    return document.getElementById(id);
-  }).filter(Boolean);
-  if (!sections.length || !('IntersectionObserver' in window)) return;
-
-  var observer = new IntersectionObserver(function (entries) {
-    entries.forEach(function (entry) {
-      if (!entry.isIntersecting) return;
-      navLinks.forEach(function (l) { l.classList.remove('active'); });
-      var link = linkByHash[entry.target.id];
-      if (link) link.classList.add('active');
-    });
-  }, { rootMargin: '-45% 0px -50% 0px' });
-
-  sections.forEach(function (s) { observer.observe(s); });
-})();
-</script>
-<script>
-(function () {
-  var noHover = window.matchMedia('(hover: none), (pointer: coarse)').matches;
-  var noMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-  if (noHover || noMotion) return;
-
-  var el = document.createElement('div');
-  el.id = 'thermal-cursor';
-  document.body.appendChild(el);
-
-  var reticle = document.createElement('div');
-  reticle.id = 'thermal-reticle';
-  reticle.innerHTML = '<svg viewBox="0 0 40 40" fill="none">' +
-    '<circle cx="20" cy="20" r="11" stroke="rgba(255,224,170,0.55)" stroke-width="0.75"/>' +
-    '<g class="reticle-dash">' +
-      '<circle cx="20" cy="20" r="17" stroke="rgba(255,224,170,0.3)" stroke-width="0.75" stroke-dasharray="1.5 4.5"/>' +
-    '</g>' +
-    '<line x1="20" y1="1.5" x2="20" y2="6" stroke="rgba(255,224,170,0.8)" stroke-width="0.75"/>' +
-    '<line x1="20" y1="34" x2="20" y2="38.5" stroke="rgba(255,224,170,0.8)" stroke-width="0.75"/>' +
-    '<line x1="1.5" y1="20" x2="6" y2="20" stroke="rgba(255,224,170,0.8)" stroke-width="0.75"/>' +
-    '<line x1="34" y1="20" x2="38.5" y2="20" stroke="rgba(255,224,170,0.8)" stroke-width="0.75"/>' +
-    '<circle cx="20" cy="20" r="1" fill="rgba(255,224,170,0.9)"/>' +
-    '</svg>';
-  document.body.appendChild(reticle);
-
-  var revealEls = Array.prototype.slice.call(document.querySelectorAll('.thermal-reveal'));
-  var TEXT_SELECTOR = 'p, li, h1, h2, h3, h4, a, label, input, textarea, select, button, .body-text, .team-bio, .contact-lead';
-
-  var targetX = window.innerWidth / 2, targetY = window.innerHeight / 2;
-  var curX = targetX, curY = targetY;
-  var curScale = 1, targetScale = 1;
-  var started = false;
-
-  function activate() {
-    if (!started) started = true;
-    el.classList.add('is-active');
-    reticle.classList.add('is-active');
-  }
-
-  window.addEventListener('mousemove', function (e) {
-    targetX = e.clientX;
-    targetY = e.clientY;
-    var overText = e.target && e.target.closest && e.target.closest(TEXT_SELECTOR);
-    targetScale = overText ? 0.14 : 1;
-    reticle.classList.toggle('is-compact', !!overText);
-    el.classList.toggle('is-compact', !!overText);
-    activate();
-  }, { passive: true });
-
-  document.addEventListener('mouseleave', function () {
-    el.classList.remove('is-active');
-    reticle.classList.remove('is-active');
-  });
-  document.addEventListener('mouseenter', function () { if (started) activate(); });
-
-  function tick() {
-    curX += (targetX - curX) * 0.1;
-    curY += (targetY - curY) * 0.1;
-    curScale += (targetScale - curScale) * 0.18;
-    var pos = 'translate(' + curX + 'px, ' + curY + 'px) translate(-50%, -50%)';
-    el.style.transform = pos + ' scale(' + curScale.toFixed(3) + ')';
-    reticle.style.transform = pos;
-
-    for (var i = 0; i < revealEls.length; i++) {
-      var r = revealEls[i].getBoundingClientRect();
-      var cx = r.left + r.width / 2, cy = r.top + r.height / 2;
-      var dist = Math.hypot(curX - cx, curY - cy);
-      var reveal = Math.max(0, 1 - dist / 180);
-      revealEls[i].style.opacity = (0.035 + reveal * reveal * 0.55).toFixed(3);
-    }
-
-    requestAnimationFrame(tick);
-  }
-  requestAnimationFrame(tick);
-})();
-</script>
 </body>
 </html>
