@@ -35,7 +35,8 @@
   /* NAV */
   nav{ position:sticky; top:0; z-index:100; background:var(--paper); border-bottom:1px solid var(--rule); }
   .nav-inner{ max-width:1240px; margin:0 auto; padding:1.1rem 2.5rem; display:flex; align-items:center; justify-content:space-between; }
-  .brand{ font-family:var(--cond); font-weight:700; letter-spacing:0.14em; font-size:0.95rem; text-decoration:none; color:var(--ink); }
+  .brand{ display:flex; align-items:center; gap:0.6rem; font-family:var(--cond); font-weight:700; letter-spacing:0.14em; font-size:0.95rem; text-decoration:none; color:var(--ink); }
+  .brand img{ width:26px; height:26px; object-fit:contain; }
   .nav-links{ display:flex; gap:2rem; list-style:none; }
   .nav-links a{ font-size:0.86rem; text-decoration:none; color:var(--graphite); border-bottom:1px solid transparent; padding-bottom:2px; transition:color .15s,border-color .15s; }
   .nav-links a:hover{ color:var(--ink); border-color:var(--ink); }
@@ -154,7 +155,7 @@
 
 <nav>
   <div class="nav-inner">
-    <a href="index.html" class="brand">BOHUN</a>
+    <a href="index.html" class="brand"><img src="logo_gold.png" alt="">BOHUN</a>
     <ul class="nav-links">
       <li><a href="index.html#situations">Advisory</a></li>
       <li><a href="ukraine-entry.html">Ukraine Entry</a></li>
