@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Flag Demo — Bohun</title>
+<meta name="robots" content="noindex">
+<style>
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+  body{
+    min-height:100vh;
+    background:#F1EFE8;
+    display:flex; align-items:center; justify-content:center;
+    font-family:system-ui,sans-serif;
+  }
+  .stage{
+    display:flex; flex-direction:column; align-items:center; gap:1.5rem;
+  }
+  .hint{
+    font-size:0.85rem; letter-spacing:0.08em; text-transform:uppercase;
+    color:#8a8676;
+  }
+  .flag-wrap{
+    width:260px; height:420px;
+    cursor:default;
+  }
+  .flag-wrap svg{ width:100%; height:100%; overflow:visible; }
+
+  .flag-body{
+    filter:url(#flagCalm);
+    transition:filter .25s ease;
+    transform-origin:22px 40px; /* pole attachment point */
+  }
+  .flag-wrap:hover .flag-body{
+    filter:url(#flagWave);
+    animation:flagSway 1.6s ease-in-out infinite;
+  }
+  @keyframes flagSway{
+    0%,100%{ transform:rotate(0deg) scaleY(1); }
+    50%{ transform:rotate(1.6deg) scaleY(1.008); }
+  }
+
+  @media (prefers-reduced-motion: reduce){
+    .flag-wrap:hover .flag-body{ filter:url(#flagCalm); animation:none; }
+  }
+</style>
+</head>
+<body>
+
+<div class="stage">
+  <div class="flag-wrap">
+    <svg viewBox="0 0 240 440" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <filter id="flagCalm" x="-30%" y="-30%" width="160%" height="160%">
+          <feTurbulence type="fractalNoise" baseFrequency="0.01 0.01" numOctaves="1" seed="3" result="noise"/>
+          <feDisplacementMap in="SourceGraphic" in2="noise" scale="0" xChannelSelector="R" yChannelSelector="G"/>
+        </filter>
+        <filter id="flagWave" x="-30%" y="-30%" width="160%" height="160%">
+          <feTurbulence type="fractalNoise" baseFrequency="0.014 0.03" numOctaves="2" seed="3" result="noise">
+            <animate attributeName="baseFrequency" dur="2.2s" values="0.014 0.03;0.02 0.045;0.014 0.03" repeatCount="indefinite"/>
+          </feTurbulence>
+          <feDisplacementMap in="SourceGraphic" in2="noise" scale="16" xChannelSelector="R" yChannelSelector="G"/>
+        </filter>
+        <linearGradient id="poleGrad" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0%" stop-color="#9a9a94"/>
+          <stop offset="45%" stop-color="#e8e8e2"/>
+          <stop offset="100%" stop-color="#8c8c86"/>
+        </linearGradient>
+        <linearGradient id="navyGrad" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#1c2433"/>
+          <stop offset="100%" stop-color="#141a26"/>
+        </linearGradient>
+      </defs>
+
+      <!-- pole -->
+      <rect x="18" y="18" width="8" height="404" fill="url(#poleGrad)"/>
+      <circle cx="22" cy="14" r="9" fill="url(#poleGrad)"/>
+
+      <!-- flag body (this group gets the wave filter) -->
+      <g class="flag-body">
+        <path d="M26,30 L208,30 L208,260 L117,410 L26,260 Z" fill="url(#navyGrad)"/>
+        <!-- emblem: diamond + bow + arrow, gold -->
+        <g transform="translate(117,190)" stroke="#c9a84c" fill="none" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M0,-78 L58,-16 L0,46 L-58,-16 Z"/>
+          <rect x="-9" y="-58" width="18" height="46" rx="8" fill="#c9a84c" stroke="none"/>
+          <path d="M0,46 L0,92" />
+          <path d="M-10,80 L0,96 L10,80" fill="none"/>
+        </g>
+      </g>
+    </svg>
+  </div>
+  <div class="hint">Hover the flag</div>
+</div>
+
+</body>
+</html>
