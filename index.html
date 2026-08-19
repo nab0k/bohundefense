@@ -3,295 +3,218 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Bohun Defence Advisory — Strategic Advisory for Defence & Dual-Use Companies</title>
-<link rel="icon" type="image/png" href="/logo_gold.png">
-<link rel="apple-touch-icon" href="/logo_gold.png">
-<meta name="description" content="Independent strategic advisory for defence and dual-use companies operating between Ukraine and Europe: positioning, fundraising and investor communications, go-to-market, stakeholder strategy and executive advisory.">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://bohundefence.com/">
-<meta property="og:title" content="Bohun Defence Advisory — Strategic Advisory for Defence & Dual-Use Companies">
-<meta property="og:description" content="Independent strategic advisory for defence and dual-use companies operating between Ukraine and Europe.">
-<meta property="og:image" content="https://bohundefence.com/og-image.png">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Bohun Defence Advisory — Strategic Advisory for Defence & Dual-Use Companies">
-<meta name="twitter:image" content="https://bohundefence.com/og-image.png">
+<title>Conversion Preview — Bohundefence</title>
+<meta name="robots" content="noindex">
+<link rel="icon" type="image/png" href="logo_gold.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&family=PT+Sans+Narrow:wght@400;700&family=PT+Serif:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&family=PT+Sans+Narrow:wght@400;700&family=PT+Serif:wght@400;700&display=swap" rel="stylesheet">
 <style>
-  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
   :root{
-    --paper:#F1EFE8; --paper2:#EAE7DD; --ink:#121412; --graphite:#565B58;
-    --rule:rgba(18,20,18,.18); --rule-strong:rgba(18,20,18,.32);
-    --accent:#33495A;
-    --dark-bg:#15171A; --dark-ink:#EDEBE3; --dark-graphite:#9AA0A6; --dark-rule:rgba(255,255,255,.14);
-    --sans:'PT Sans', system-ui, sans-serif;
-    --cond:'PT Sans Narrow', system-ui, sans-serif;
-    --serif:'PT Serif', Georgia, serif;
+    --paper:#F1EFE8;--paper2:#EAE7DD;--ink:#121412;--graphite:#565B58;
+    --rule:rgba(18,20,18,.18);--rule-strong:rgba(18,20,18,.32);--accent:#33495A;
+    --dark-bg:#15171A;--dark-ink:#EDEBE3;--dark-graphite:#A6ABB0;--dark-rule:rgba(255,255,255,.14);
+    --sans:'PT Sans',system-ui,sans-serif;--cond:'PT Sans Narrow',system-ui,sans-serif;--serif:'PT Serif',Georgia,serif
   }
-  html{scroll-behavior:smooth;}
-  body{background:var(--paper); color:var(--ink); font-family:var(--sans); font-size:17px; line-height:1.55; -webkit-font-smoothing:antialiased;}
-  a{color:inherit;}
+  html{scroll-behavior:smooth}
+  body{background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:17px;line-height:1.55;-webkit-font-smoothing:antialiased}
+  a{color:inherit}
+  .field{max-width:1240px;margin:0 auto;padding:0 2.5rem;position:relative;z-index:3}
+  section{padding:4.5rem 0;border-bottom:1px solid var(--rule);scroll-margin-top:72px}
+  .sec-eyebrow,.hero-eyebrow{font-family:var(--cond);font-size:.8rem;letter-spacing:.14em;text-transform:uppercase;color:var(--graphite);margin-bottom:.55rem}
+  .sec-title{font-size:clamp(1.65rem,2.6vw,2.25rem);font-weight:700;line-height:1.12;margin-bottom:2.25rem;max-width:28ch}
+  .text-link{display:inline-block;font-size:.9rem;font-weight:700;text-decoration:none;border-bottom:1px solid currentColor;padding-bottom:2px}
 
-  .field{ max-width:1240px; margin:0 auto; padding:0 2.5rem; }
-  .rule-top{ border-top:1px solid var(--rule); }
+  nav{position:sticky;top:0;z-index:100;background:var(--paper);border-bottom:1px solid var(--rule)}
+  .nav-inner{max-width:1240px;margin:0 auto;padding:1rem 2.5rem;display:flex;align-items:center;justify-content:space-between;gap:2rem}
+  .brand{display:flex;align-items:center;gap:.7rem;font-family:var(--cond);font-weight:700;letter-spacing:.1em;font-size:1.05rem;text-decoration:none}
+  .brand img{width:40px;height:40px;object-fit:contain}
+  .nav-links{display:flex;align-items:center;gap:2rem;list-style:none}
+  .nav-links a,.nav-cta{font-size:.86rem;text-decoration:none;color:var(--graphite);border-bottom:1px solid transparent;padding-bottom:2px}
+  .nav-links a:hover,.nav-cta{color:var(--ink);border-color:var(--ink)}
+  .mobile-menu{display:none;position:relative}
+  .mobile-menu summary{list-style:none;cursor:pointer;font-family:var(--cond);font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:.82rem;border:1px solid var(--rule-strong);padding:.55rem .75rem}
+  .mobile-menu summary::-webkit-details-marker{display:none}
+  .mobile-menu div{position:absolute;right:0;top:calc(100% + .6rem);min-width:230px;background:var(--paper);border:1px solid var(--rule-strong);padding:.5rem;box-shadow:0 12px 30px rgba(18,20,18,.1)}
+  .mobile-menu a{display:block;padding:.7rem .75rem;text-decoration:none;font-size:.92rem;border-bottom:1px solid var(--rule)}
+  .mobile-menu a:last-child{border-bottom:0}
 
-  /* NAV */
-  nav{ position:sticky; top:0; z-index:100; background:var(--paper); border-bottom:1px solid var(--rule); }
-  .nav-inner{ max-width:1240px; margin:0 auto; padding:1.1rem 2.5rem; display:flex; align-items:center; justify-content:space-between; }
-  .brand{ display:flex; align-items:center; gap:0.7rem; font-family:var(--cond); font-weight:700; letter-spacing:0.1em; font-size:1.05rem; text-decoration:none; color:var(--ink); }
-  .brand img{ width:40px; height:40px; object-fit:contain; }
-  .nav-links{ display:flex; gap:2rem; list-style:none; }
-  .nav-links a{ font-size:0.86rem; text-decoration:none; color:var(--graphite); border-bottom:1px solid transparent; padding-bottom:2px; transition:color .15s,border-color .15s; }
-  .nav-links a:hover{ color:var(--ink); border-color:var(--ink); }
-  .nav-cta{ font-size:0.86rem; text-decoration:none; color:var(--ink); border-bottom:1px solid var(--ink); padding-bottom:2px; }
+  #hero{position:relative;min-height:92vh;display:flex;align-items:center;overflow:hidden;padding:0}
+  .hero-visual{position:absolute;inset:0;z-index:0;overflow:hidden;background:#eee8dd;pointer-events:none}
+  .hero-visual picture{position:absolute;inset:0;display:block}
+  .hero-visual img{position:absolute;right:0;bottom:0;width:auto;max-width:none;height:100%;display:block;object-fit:contain;object-position:right bottom;transform:scale(1.04);transform-origin:right bottom}
+  #hero .hero-field{width:100%;max-width:1440px;padding-inline:clamp(40px,5vw,80px)}
+  .hero-content{width:46%;max-width:620px;padding:5.5rem 0 3.5rem;align-self:center}
+  .hero-content h1{font-size:clamp(2.3rem,4vw,3.6rem);line-height:1.03;letter-spacing:-.015em;max-width:17ch;margin-bottom:1.25rem}
+  .hero-sub{font-size:1.04rem;color:var(--graphite);max-width:54ch;line-height:1.55;margin-bottom:1.4rem}
+  .route-ctas{display:flex;flex-wrap:wrap;gap:.65rem;margin-bottom:.9rem}
+  .route-cta{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:.72rem 1rem;border:1px solid var(--ink);font-size:.88rem;font-weight:700;text-decoration:none;background:var(--ink);color:var(--paper)}
+  .route-cta.alt{background:rgba(241,239,232,.68);color:var(--ink)}
+  .credential-line{font-family:var(--cond);font-size:.84rem;color:var(--graphite);max-width:50ch;line-height:1.45;border-top:1px solid var(--rule);padding-top:1rem}
+  .tag{font-family:var(--cond);font-size:.78rem;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);margin-bottom:.6rem}
+  .sprint-card h3{font-family:var(--serif);font-size:1.55rem;line-height:1.2;margin-bottom:.75rem}
+  .sprint-card p{color:var(--graphite);font-size:.95rem;line-height:1.6;margin-bottom:1.2rem;max-width:48ch}
 
-  section{ padding:4.5rem 0; border-bottom:1px solid var(--rule); }
+  #sprint{background:var(--paper2)}
+  .sprint-intro{display:grid;grid-template-columns:minmax(0,.75fr) minmax(0,1.25fr);gap:4rem;margin-bottom:2.5rem;align-items:start}
+  .duration{font-family:var(--cond);font-size:2.7rem;line-height:1;color:var(--accent);margin-top:.25rem}
+  .outputs{display:grid;grid-template-columns:1fr 1fr;border-top:1px solid var(--rule-strong)}
+  .output{padding:1rem 1rem 1rem 0;border-bottom:1px solid var(--rule);font-size:.94rem}
+  .output:nth-child(even){padding-left:1rem;border-left:1px solid var(--rule)}
+  .sprint-cards{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--rule-strong);border:1px solid var(--rule-strong)}
+  .sprint-card{background:var(--paper);padding:2rem}
+  .sprint-lead{font-family:var(--serif);font-size:1.1rem;line-height:1.55;max-width:68ch;margin:-1rem 0 2.25rem}
+  .how-title{font-family:var(--cond);font-size:.8rem;letter-spacing:.1em;text-transform:uppercase;color:var(--graphite);margin:2.25rem 0 .65rem}
+  .how-steps{display:grid;grid-template-columns:repeat(3,1fr);border-top:1px solid var(--rule-strong);margin-bottom:2.5rem}
+  .how-step{display:grid;grid-template-columns:28px 1fr;gap:.6rem;padding:1rem 1rem 1rem 0;border-bottom:1px solid var(--rule);font-size:.9rem}
+  .how-step+.how-step{padding-left:1rem;border-left:1px solid var(--rule)}
+  .how-step span{font-family:var(--cond);color:var(--graphite)}
 
-  /* HERO */
-  #hero{ padding-top:5.5rem; }
-  .hero-grid{ display:grid; grid-template-columns:7fr 4fr; gap:3rem; align-items:start; }
-  h1{ font-family:var(--sans); font-weight:700; font-size:clamp(2.3rem,4vw,3.8rem); line-height:1.05; letter-spacing:-0.01em; margin-bottom:1.5rem; max-width:14ch; }
-  .hero-sub{ font-size:1.08rem; color:var(--graphite); max-width:52ch; line-height:1.6; margin-bottom:1.75rem; }
-  .cta-link{ display:inline-block; font-size:0.92rem; font-weight:700; text-decoration:none; color:var(--ink); border-bottom:1px solid var(--ink); padding-bottom:3px; margin-bottom:2rem; }
-  .cta-link:hover{ color:var(--accent); border-color:var(--accent); }
-  .credential-line{ font-family:var(--cond); font-size:0.86rem; color:var(--graphite); letter-spacing:0.01em; max-width:46ch; line-height:1.5; border-top:1px solid var(--rule); padding-top:1.1rem; }
+  .questions{display:grid;grid-template-columns:1fr 1fr;border-top:1px solid var(--rule-strong)}
+  .question{display:grid;grid-template-columns:38px 1fr;gap:1rem;padding:1.5rem 1.5rem 1.5rem 0;border-bottom:1px solid var(--rule);font-family:var(--serif);font-size:1.08rem;line-height:1.45}
+  .question:nth-child(even){padding-left:1.5rem;border-left:1px solid var(--rule)}
+  .question span{font-family:var(--cond);font-size:.8rem;color:var(--graphite);padding-top:.2rem}
 
-  .hero-portrait{ }
-  .hero-portrait img{ width:100%; aspect-ratio:4/5; object-fit:cover; object-position:top center; filter:grayscale(35%) contrast(1.04); display:block; }
-  .hero-portrait-cap{ font-family:var(--cond); font-size:0.8rem; color:var(--graphite); margin-top:0.75rem; line-height:1.5; }
-  .hero-portrait-cap strong{ display:block; color:var(--ink); font-family:var(--sans); font-weight:700; font-size:0.85rem; margin-bottom:0.15rem; }
+  #why{padding:3rem 0;background:var(--paper2)}
+  #why .sec-title{margin-bottom:1.5rem;max-width:34ch}
+  .why-grid{display:grid;grid-template-columns:repeat(3,1fr);border-top:1px solid var(--rule-strong)}
+  .why-item{padding:1.25rem 1.25rem 0 0}
+  .why-item+.why-item{padding-left:1.25rem;border-left:1px solid var(--rule)}
+  .why-item h3{font-family:var(--cond);font-size:.78rem;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);margin-bottom:.45rem}
+  .why-item p{font-size:.92rem;line-height:1.5;color:var(--graphite)}
 
-  /* CONTEXT STATEMENT */
-  #context .field{ max-width:900px; }
-  .context-text{ font-family:var(--serif); font-size:1.4rem; line-height:1.55; color:var(--ink); }
+  #principal .sec-title{margin-bottom:1.5rem}
+  .principal-grid{display:grid;grid-template-columns:260px minmax(0,1fr);gap:clamp(2.5rem,5vw,5rem);align-items:start}
+  .principal-portrait{width:100%;max-width:260px;margin:0;align-self:start}
+  .principal-image-frame{width:100%;aspect-ratio:4/5;overflow:hidden;border:1px solid var(--rule)}
+  .principal-portrait img{width:100%;height:100%;object-fit:cover;object-position:center top;display:block;transform:scale(1.34);transform-origin:center 18%}
+  .principal-caption{display:flex;align-items:baseline;justify-content:space-between;gap:1rem;padding-top:.8rem;border-top:1px solid var(--rule-strong);font-family:var(--cond)}
+  .principal-caption strong{font-size:.95rem}.principal-caption span{color:var(--graphite);font-size:.78rem;letter-spacing:.08em;text-transform:uppercase}
+  .principal-narrative{font-family:var(--serif);font-size:1.15rem;line-height:1.65;max-width:55ch}
 
-  /* SITUATIONS INDEX */
-  .sec-eyebrow{ font-family:var(--cond); font-size:0.8rem; letter-spacing:0.14em; text-transform:uppercase; color:var(--graphite); margin-bottom:0.5rem; }
-  .sec-title{ font-family:var(--sans); font-weight:700; font-size:1.7rem; margin-bottom:2.5rem; }
-  .situations{ display:flex; flex-direction:column; }
-  .situation-row{ display:grid; grid-template-columns:280px 1fr; gap:2.5rem; padding:1.6rem 0; border-top:1px solid var(--rule); }
-  .situations .situation-row:last-child{ border-bottom:1px solid var(--rule); }
-  .situation-row h3{ font-family:var(--sans); font-weight:700; font-size:1.05rem; }
-  .situation-row p{ color:var(--graphite); font-size:0.95rem; line-height:1.6; max-width:60ch; }
+  #working{padding:2.25rem 0}
+  .principles{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--rule);border:1px solid var(--rule)}
+  .principles div{background:var(--paper);padding:1rem 1.25rem}.principles h3{font-size:.92rem}.principles p{display:none}
 
-  /* TWO DIRECTIONS */
-  .directions{ display:grid; grid-template-columns:1fr 1fr; gap:0; border-top:1px solid var(--rule); }
-  .direction{ padding:2.5rem 2.5rem 2.5rem 0; }
-  .direction + .direction{ padding-left:2.5rem; padding-right:0; border-left:1px solid var(--rule); }
-  .direction .tag{ font-family:var(--cond); font-size:0.78rem; letter-spacing:0.1em; text-transform:uppercase; color:var(--accent); margin-bottom:0.6rem; }
-  .direction h3{ font-family:var(--serif); font-size:1.5rem; font-weight:700; margin-bottom:0.75rem; }
-  .direction p{ color:var(--graphite); font-size:0.95rem; line-height:1.6; margin-bottom:1.25rem; max-width:42ch; }
-  .direction a{ font-size:0.88rem; font-weight:700; text-decoration:none; border-bottom:1px solid var(--ink); padding-bottom:2px; }
+  #qualification{padding:2.5rem 0;background:var(--paper2)}
+  .qualification-grid{display:grid;grid-template-columns:1.35fr .65fr;border-top:1px solid var(--rule-strong)}
+  .qualification-item{padding:1.25rem 1.5rem 0 0}
+  .qualification-item+.qualification-item{padding-left:1.5rem;border-left:1px solid var(--rule)}
+  .qualification-item h3{font-family:var(--cond);font-size:.78rem;letter-spacing:.11em;text-transform:uppercase;color:var(--accent);margin-bottom:.4rem}
+  .qualification-item p{font-size:.95rem;line-height:1.5}
 
-  /* PRINCIPAL */
-  .principal-grid{ display:grid; grid-template-columns:5fr 7fr; gap:3.5rem; align-items:start; }
-  .principal-grid img{ width:100%; aspect-ratio:4/5; object-fit:cover; object-position:top center; filter:grayscale(35%) contrast(1.04); display:block; }
-  .principal-narrative{ font-family:var(--serif); font-size:1.15rem; line-height:1.65; color:var(--ink); max-width:56ch; margin-bottom:2rem; }
-  .credential-spine{ border-top:1px solid var(--rule-strong); }
-  .credential-spine div{ display:grid; grid-template-columns:200px 1fr; gap:1.5rem; padding:0.85rem 0; border-bottom:1px solid var(--rule); font-size:0.9rem; }
-  .credential-spine .k{ font-family:var(--cond); color:var(--graphite); letter-spacing:0.04em; text-transform:uppercase; font-size:0.8rem; padding-top:0.1rem; }
-  .credential-spine .v{ color:var(--ink); }
+  #contact{background:var(--dark-bg);color:var(--dark-ink);border-bottom:0}
+  #contact .sec-eyebrow{color:var(--dark-graphite)}
+  #contact h2{font-family:var(--serif);font-size:clamp(2rem,3vw,2.6rem);line-height:1.15;margin-bottom:.75rem;max-width:18ch}
+  #contact .lead{color:var(--dark-graphite);max-width:62ch;margin-bottom:1rem}
+  .security-warning{max-width:760px;border-left:2px solid var(--dark-graphite);padding:.7rem 1rem;color:var(--dark-ink);font-family:var(--cond);font-size:.86rem;margin-bottom:1.5rem}
+  .form-grid{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--dark-rule);border:1px solid var(--dark-rule);max-width:760px;margin-bottom:1.25rem}
+  .form-grid .full{grid-column:1/-1}.form-field{background:var(--dark-bg);padding:.2rem 0}
+  .form-field label{display:block;font-family:var(--cond);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;color:var(--dark-graphite);padding:.8rem 1.1rem 0}
+  .form-field input,.form-field textarea{width:100%;background:transparent;border:0;outline:0;color:var(--dark-ink);font-family:var(--sans);font-size:.95rem;padding:.35rem 1.1rem .8rem}
+  .form-field textarea{min-height:90px;resize:vertical}
+  .send-btn{background:transparent;border:1px solid var(--dark-ink);color:var(--dark-ink);font:700 .88rem var(--sans);padding:.85rem 1.4rem;cursor:pointer}
+  .send-btn:hover{background:var(--dark-ink);color:var(--dark-bg)}
+  .contact-note{font-size:.84rem;color:var(--dark-graphite)}.contact-note a{color:var(--dark-ink)}
+  footer{background:var(--dark-bg);color:var(--dark-graphite);padding:2rem 2.5rem;font-family:var(--cond);font-size:.8rem;display:flex;justify-content:space-between}
+  footer a{color:inherit;text-decoration:none}
 
-  /* WORKING RELATIONSHIP */
-  .principles{ display:grid; grid-template-columns:repeat(3,1fr); gap:2.5rem; border-top:1px solid var(--rule); padding-top:2.5rem; }
-  .principles h3{ font-family:var(--sans); font-weight:700; font-size:1rem; margin-bottom:0.6rem; }
-  .principles p{ color:var(--graphite); font-size:0.92rem; line-height:1.6; }
-
-  /* CONTACT (dark field) */
-  #contact{ background:var(--dark-bg); color:var(--dark-ink); border-bottom:none; }
-  #contact .sec-eyebrow{ color:var(--dark-graphite); }
-  #contact h2{ font-family:var(--serif); font-size:2rem; font-weight:700; margin-bottom:0.75rem; max-width:16ch; }
-  #contact .lead{ color:var(--dark-graphite); max-width:52ch; margin-bottom:2.25rem; font-size:1rem; line-height:1.6; }
-  .form-grid{ display:grid; grid-template-columns:1fr 1fr; gap:1px; background:var(--dark-rule); border:1px solid var(--dark-rule); max-width:760px; margin-bottom:1.5rem; }
-  .form-grid .full{ grid-column:1/-1; }
-  .form-field{ background:var(--dark-bg); padding:0.2rem 0; }
-  .form-field label{ display:block; font-family:var(--cond); font-size:0.72rem; letter-spacing:0.08em; text-transform:uppercase; color:var(--dark-graphite); padding:0.8rem 1.1rem 0; }
-  .form-field input, .form-field textarea{ width:100%; background:transparent; border:none; outline:none; color:var(--dark-ink); font-family:var(--sans); font-size:0.95rem; padding:0.35rem 1.1rem 0.8rem; }
-  .form-field textarea{ min-height:80px; resize:none; }
-  .send-btn{ background:transparent; border:1px solid var(--dark-ink); color:var(--dark-ink); font-family:var(--sans); font-size:0.88rem; font-weight:700; padding:0.85rem 1.75rem; cursor:pointer; transition:background .2s,color .2s; }
-  .send-btn:hover{ background:var(--dark-ink); color:var(--dark-bg); }
-  .contact-note{ font-size:0.85rem; color:var(--dark-graphite); margin-top:1.5rem; max-width:52ch; line-height:1.6; }
-  .contact-note a{ color:var(--dark-ink); text-decoration:underline; }
-
-  footer{ background:var(--dark-bg); color:var(--dark-graphite); padding:2rem 2.5rem; font-family:var(--cond); font-size:0.8rem; display:flex; justify-content:space-between; }
-  footer a{ color:var(--dark-graphite); text-decoration:none; }
-  footer a:hover{ color:var(--dark-ink); }
-
-  @media (max-width:900px){
-    .field{ padding:0 1.25rem; }
-    .nav-inner{ padding:1rem 1.25rem; }
-    .nav-links{ display:none; }
-    .hero-grid, .principal-grid{ grid-template-columns:1fr; }
-    .hero-portrait{ order:-1; max-width:220px; }
-    .situation-row{ grid-template-columns:1fr; gap:0.5rem; }
-    .directions{ grid-template-columns:1fr; }
-    .direction, .direction + .direction{ padding:2rem 0; border-left:none; border-top:1px solid var(--rule); }
-    .direction:first-child{ border-top:none; }
-    .principles{ grid-template-columns:1fr; gap:1.75rem; }
-    .form-grid{ grid-template-columns:1fr; }
-    .credential-spine div{ grid-template-columns:1fr; gap:0.25rem; }
-    footer{ flex-direction:column; gap:0.75rem; }
+  @media(min-width:1200px){.principal-grid{grid-template-columns:280px minmax(0,1fr)}.principal-portrait{max-width:280px}}
+  @media(max-width:999px){
+    .field{padding-inline:1.25rem}.nav-inner{padding:.8rem 1.25rem}.nav-links,.nav-cta{display:none}.mobile-menu{display:block}
+    #hero{min-height:0;display:flex;flex-direction:column;align-items:stretch}
+    #hero .hero-field{order:1;padding-inline:1.25rem}.hero-content{width:100%;max-width:680px;padding:2rem 0 1.8rem}
+    .hero-content h1{font-size:clamp(2.05rem,9vw,3rem);line-height:1.02;margin-bottom:1rem}.hero-sub{font-size:.98rem;line-height:1.48;margin-bottom:1.05rem}
+    .route-ctas{display:grid;grid-template-columns:1fr 1fr;gap:.5rem}.route-cta{padding:.65rem .55rem;font-size:.8rem;line-height:1.2;text-align:center}
+    .credential-line{font-size:.8rem}
+    .hero-visual{position:relative;inset:auto;order:2;width:100%;height:46vh;min-height:340px;max-height:440px;aspect-ratio:auto}.hero-visual picture{position:absolute;inset:0}.hero-visual img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 45%;transform:none}
+    .sprint-intro,.sprint-cards,.questions,.why-grid,.principles,.how-steps,.qualification-grid{grid-template-columns:1fr}
+    .sprint-intro{gap:1.5rem}.outputs{grid-template-columns:1fr}.output,.output:nth-child(even){padding:1rem 0;border-left:0}.sprint-cards{gap:1px}
+    .how-step,.how-step+.how-step{padding:1rem 0;border-left:0}.question,.question:nth-child(even){padding:1.25rem 0;border-left:0}.why-item,.why-item+.why-item{padding:1rem 0;border-left:0;border-bottom:1px solid var(--rule)}.why-item:last-child{border-bottom:0}
+    .principal-grid{grid-template-columns:1fr;gap:2rem}.principal-portrait{width:min(240px,calc(100% - 64px));max-width:240px;margin:0 auto}
+    .principles{gap:1px}.qualification-item,.qualification-item+.qualification-item{padding:1rem 0;border-left:0;border-bottom:1px solid var(--rule)}.qualification-item:last-child{border-bottom:0}
+    .form-grid{grid-template-columns:1fr}footer{flex-direction:column;gap:.6rem}
   }
+  @media(max-width:430px){.route-ctas{grid-template-columns:1fr}.route-cta{min-height:40px}.hero-content{padding-top:1.5rem}.credential-line{display:none}section{padding:3.5rem 0}}
 </style>
 </head>
 <body>
-
 <nav>
   <div class="nav-inner">
     <a href="#hero" class="brand"><img src="logo_gold.png" alt="">BOHUNDEFENCE</a>
     <ul class="nav-links">
-      <li><a href="#situations">Advisory</a></li>
-      <li><a href="ukraine-entry.html">Ukraine Entry</a></li>
-      <li><a href="europe-entry.html">Europe Expansion</a></li>
-      <li><a href="#principal">Principal</a></li>
+      <li><a href="#sprint">Decision Sprint</a></li><li><a href="#decisions">Decisions</a></li><li><a href="#principal">Principal</a></li>
     </ul>
-    <a href="#contact" class="nav-cta">Discuss a mandate →</a>
+    <a href="#contact" class="nav-cta">Contact →</a>
+    <details class="mobile-menu">
+      <summary aria-label="Open navigation menu">Menu</summary>
+      <div><a href="#sprint">Decision Sprint</a><a href="#decisions">Decisions</a><a href="#principal">Principal</a><a href="#contact">Contact</a></div>
+    </details>
   </div>
 </nav>
 
-<!-- HERO -->
+<main>
 <section id="hero">
-  <div class="field">
-    <div class="hero-grid">
-      <div>
-        <h1>Strategic advisory for defence and dual-use companies operating between Ukraine and Europe.</h1>
-        <p class="hero-sub">Senior counsel on market entry, strategic positioning, capital and investor communications, institutional engagement and high-stakes communications — delivered directly by the principal.</p>
-        <a href="#contact" class="cta-link">Discuss a mandate →</a>
-        <p class="credential-line">Former strategic communications adviser to Ukraine's Ministry of Defence during the full-scale war · 15+ years across policy, communications and defence.</p>
-      </div>
-      <div class="hero-portrait">
-        <img src="serhii-portrait.png" alt="Serhii Nabok">
-        <div class="hero-portrait-cap"><strong>Serhii Nabok</strong>Principal, Bohun Defence Advisory</div>
-      </div>
-    </div>
-  </div>
+  <div class="hero-visual" aria-hidden="true"><picture><source media="(max-width:999px)" srcset="hero-mobile-composite.png?v=20260819-conversion1"><img src="hero-desktop-composite.png?v=20260819-conversion1" alt=""></picture></div>
+  <div class="field hero-field"><div class="hero-content">
+    <div class="hero-eyebrow">Defence market entry &amp; expansion</div>
+    <h1>Make the right defence market move — into Ukraine or across Europe.</h1>
+    <p class="hero-sub">Market intelligence, stakeholder mapping and a prioritised six-month entry plan — before you commit a local team or expansion budget.</p>
+    <div class="route-ctas"><a class="route-cta" href="ukraine-entry.html?route=ukraine-entry">Entering Ukraine →</a><a class="route-cta alt" href="europe-entry.html?route=europe-expansion">Expanding into Europe →</a></div>
+    <p class="credential-line">Led by Serhii Nabok — former strategic communications adviser to Ukraine’s Ministry of Defence, with 15+ years across defence, policy and communications.</p>
+  </div></div>
 </section>
 
-<!-- CONTEXT STATEMENT -->
-<section id="context">
-  <div class="field">
-    <p class="context-text">Defence technology companies crossing between Ukraine and European markets encounter a combination of commercial, institutional and reputational questions that rarely sit within one function. Bohun advises leadership where those questions meet.</p>
+<section id="sprint"><div class="field">
+  <div class="sec-eyebrow">Market Entry &amp; Expansion Sprint</div><div class="sec-title">A focused route from market question to executive action.</div>
+  <p class="sprint-lead">The sprint helps leadership decide where to play, what to prove and whom to engage before committing a local team or expansion budget.</p>
+  <div class="sprint-intro"><div><div class="tag">Typical engagement</div><div class="duration">3–4 weeks</div></div><div class="outputs"><div class="output">Market assessment</div><div class="output">Stakeholder and partner map</div><div class="output">Prioritised market / route options</div><div class="output">Sequenced six-month action plan</div></div></div>
+  <div class="how-title">How the sprint works</div><div class="how-steps"><div class="how-step"><span>01</span><div>Leadership alignment and evidence review</div></div><div class="how-step"><span>02</span><div>Market and stakeholder research</div></div><div class="how-step"><span>03</span><div>Executive readout and prioritised action plan</div></div></div>
+  <div class="sprint-cards">
+    <article class="sprint-card"><div class="tag">International companies</div><h3>Ukraine Entry Sprint</h3><p>Assess the opportunity, identify reliable local partners and decision-makers, and define what evidence the market will expect.</p><a class="text-link" href="ukraine-entry.html?route=ukraine-entry">See the Ukraine route →</a></article>
+    <article class="sprint-card"><div class="tag">Ukrainian companies</div><h3>Europe Expansion Sprint</h3><p>Prioritise target markets, translate evidence from deployment and operational use in Ukraine, and define the route to buyers, partners and institutions.</p><a class="text-link" href="europe-entry.html?route=europe-expansion">See the Europe route →</a></article>
   </div>
-</section>
+</div></section>
 
-<!-- SITUATIONS -->
-<section id="situations">
-  <div class="field">
-    <div class="sec-eyebrow">Advisory</div>
-    <div class="sec-title">Where clients need senior judgement</div>
-    <div class="situations">
-      <div class="situation-row">
-        <h3>Entering Ukraine</h3>
-        <p>Understanding the operating environment, positioning the company, identifying credible counterparts and sequencing institutional engagement.</p>
-      </div>
-      <div class="situation-row">
-        <h3>Expanding from Ukraine into Europe</h3>
-        <p>Translating Ukrainian operational credibility into a proposition that European governments, investors, primes and partners can evaluate.</p>
-      </div>
-      <div class="situation-row">
-        <h3>Preparing for capital</h3>
-        <p>Sharpening the strategic narrative, investment case and executive communications before fundraising or strategic conversations.</p>
-      </div>
-      <div class="situation-row">
-        <h3>Navigating institutional stakeholders</h3>
-        <p>Mapping interests, messages and engagement across government, defence institutions, investors and ecosystem partners.</p>
-      </div>
-      <div class="situation-row">
-        <h3>High-stakes communications</h3>
-        <p>Advising leadership when commercial, policy and reputation considerations collide.</p>
-      </div>
-    </div>
+<section id="decisions"><div class="field">
+  <div class="sec-eyebrow">Decisions the sprint should answer</div><div class="sec-title">The work begins with the decision—not a generic market report.</div>
+  <div class="questions"><div class="question"><span>01</span><div>Which market and entry route deserve management attention now?</div></div><div class="question"><span>02</span><div>What evidence will buyers, partners and institutions expect?</div></div><div class="question"><span>03</span><div>Which partners, institutions and decision-makers should be prioritised?</div></div><div class="question"><span>04</span><div>What sequence of actions creates a credible six-month route?</div></div></div>
+</div></section>
+
+<section id="why"><div class="field">
+  <div class="sec-eyebrow">Why Bohundefence</div><div class="sec-title">Built for decisions that cannot rely on generic market reports.</div>
+  <div class="why-grid"><article class="why-item"><h3>Inside context, external perspective</h3><p>Experience across Ukraine’s defence institutions and European and international stakeholder environments.</p></article><article class="why-item"><h3>Evidence translated for the market</h3><p>Operational evidence turned into language buyers, partners and institutions can assess.</p></article><article class="why-item"><h3>A decision, not a report</h3><p>The sprint ends with a prioritised route and a sequenced six-month action plan.</p></article></div>
+</div></section>
+
+<section id="principal"><div class="field">
+  <div class="sec-eyebrow">Principal</div><div class="sec-title">Experience at the intersection of defence, policy and communications.</div>
+  <div class="principal-grid">
+    <figure class="principal-portrait"><div class="principal-image-frame"><img src="serhii-principal-v2.png?v=20260819-2" alt="Serhii Nabok"></div><figcaption class="principal-caption"><strong>Serhii Nabok</strong><span>Principal</span></figcaption></figure>
+    <div><p class="principal-narrative">Serhii Nabok advises defence and dual-use leadership teams on market entry, positioning and stakeholder strategy, drawing on experience across government, defence, international organisations, media and business.</p></div>
   </div>
-</section>
+</div></section>
 
-<!-- TWO DIRECTIONS -->
-<section id="directions">
-  <div class="field">
-    <div class="sec-eyebrow">Two directions</div>
-    <div class="sec-title">A different question depending on which way you're moving</div>
-    <div class="directions">
-      <div class="direction">
-        <div class="tag">For international companies</div>
-        <h3>Entering Ukraine</h3>
-        <p>Market context, positioning, local ecosystem, stakeholder strategy, communications — for companies from Europe and allied markets.</p>
-        <a href="ukraine-entry.html">Ukraine market entry →</a>
-      </div>
-      <div class="direction">
-        <div class="tag">For Ukrainian companies</div>
-        <h3>Expanding into Europe</h3>
-        <p>Market prioritisation, institutional positioning, investor narrative, stakeholder engagement — for companies building European relationships.</p>
-        <a href="europe-entry.html">European expansion →</a>
-      </div>
-    </div>
-  </div>
-</section>
+<section id="working"><div class="field">
+  <div class="principles"><div><h3>Decision before activity</h3></div><div><h3>Evidence before claims</h3></div><div><h3>Discreet by default</h3></div></div>
+</div></section>
 
-<!-- PRINCIPAL -->
-<section id="principal">
-  <div class="field">
-    <div class="sec-eyebrow">Principal</div>
-    <div class="sec-title">Principal-led by design</div>
-    <div class="principal-grid">
-      <img src="serhii-portrait.png" alt="Serhii Nabok">
-      <div>
-        <p class="principal-narrative">Bohun Defence Advisory is led directly by Serhii Nabok, a strategic communications and policy professional with more than 15 years of experience across government, defence, international organisations, media and business. During Russia's full-scale invasion of Ukraine, he served as strategic communications adviser to the Deputy Minister of Defence of Ukraine, engaging NATO representatives, international media and donor organisations. The practice applies that experience to companies operating at the intersection of technology, capital, government and European security.</p>
-        <div class="credential-spine">
-          <div><div class="k">Government</div><div class="v">Former strategic communications adviser, Ukraine's Ministry of Defence — wartime communications strategy</div></div>
-          <div><div class="k">Institutional</div><div class="v">NATO-related stakeholder engagement; hybrid threat response and defence innovation</div></div>
-          <div><div class="k">Field record</div><div class="v">Donor fundraising and communications for TakShtab (2022–2024) with GIZ, GMF and People in Need</div></div>
-          <div><div class="k">Public work</div><div class="v">Curator and editor, MilTech section, Novyny.live · author of two published books</div></div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+<section id="qualification"><div class="field qualification-grid"><div class="qualification-item"><h3>Best suited for</h3><p>Leadership teams deciding whether, where and how to enter a defence market before committing significant commercial resources.</p></div><div class="qualification-item"><h3>Not designed as</h3><p>Outsourced sales or mass lead generation.</p></div></div></section>
 
-<!-- WORKING RELATIONSHIP -->
-<section id="working">
-  <div class="field">
-    <div class="sec-eyebrow">Working relationship</div>
-    <div class="sec-title">Principal-led, built around the decision</div>
-    <div class="principles">
-      <div>
-        <h3>Principal-led</h3>
-        <p>You work directly with the senior adviser responsible for the mandate — not an account manager or a junior team.</p>
-      </div>
-      <div>
-        <h3>Built around the decision</h3>
-        <p>Engagements are shaped around the strategic question, rather than a fixed consultancy package.</p>
-      </div>
-      <div>
-        <h3>Discreet by default</h3>
-        <p>Sensitive work is handled with appropriate confidentiality. Much of it is never named publicly.</p>
-      </div>
-    </div>
-  </div>
-</section>
+<section id="contact"><div class="field">
+  <div class="sec-eyebrow">Contact</div><h2>Bring the decision you need to make.</h2>
+  <p class="lead">Tell me what market, stakeholder or expansion question you are facing. You will receive a personal response within two business days.</p>
+  <p class="security-warning"><strong>Security note:</strong> Do not include classified, operational, export-controlled or otherwise sensitive information. If the discussion requires sensitive information, we will arrange an appropriate channel after the initial contact.</p>
+  <form class="form-grid" action="https://formspree.io/f/xbdwvgqp" method="POST">
+    <input type="hidden" name="route_intent" value="general">
+    <div class="form-field"><label for="conversion-name">Name</label><input id="conversion-name" name="name" type="text" required></div><div class="form-field"><label for="conversion-org">Organisation</label><input id="conversion-org" name="organisation" type="text"></div>
+    <div class="form-field full"><label for="conversion-email">Work email</label><input id="conversion-email" name="email" type="email" required></div><div class="form-field full"><label for="conversion-message">What decision are you facing?</label><textarea id="conversion-message" name="message"></textarea></div>
+    <div class="form-field full" style="padding:1rem 1.1rem"><button class="send-btn" type="submit">Send an initial enquiry →</button></div>
+  </form>
+  <p class="contact-note">Or write directly to <a href="mailto:hello@bohundefence.com">hello@bohundefence.com</a></p>
+</div></section>
+</main>
 
-<!-- CONTACT -->
-<section id="contact">
-  <div class="field">
-    <div class="sec-eyebrow">Contact</div>
-    <h2>Discuss a mandate</h2>
-    <p class="lead">For companies, investors and leadership teams navigating defence and dual-use markets between Ukraine and Europe.</p>
-    <form class="form-grid" action="https://formspree.io/f/xbdwvgqp" method="POST">
-      <div class="form-field"><label for="name">Name</label><input type="text" id="name" name="name" required></div>
-      <div class="form-field"><label for="org">Organisation</label><input type="text" id="org" name="org"></div>
-      <div class="form-field full"><label for="email">Work email</label><input type="email" id="email" name="email" required></div>
-      <div class="form-field full"><label for="msg">What are you navigating?</label><textarea id="msg" name="message"></textarea></div>
-      <div class="form-field full" style="padding:1rem 1.1rem;"><button class="send-btn" type="submit">Send confidential enquiry →</button></div>
-    </form>
-    <p class="contact-note">Bohun Defence Advisory is principal-led. Initial enquiries are reviewed directly by the founder. <a href="mailto:hello@bohundefence.com">hello@bohundefence.com</a></p>
-  </div>
-</section>
-
-<footer>
-  <div>Bohun Defence Advisory</div>
-  <div><a href="https://www.linkedin.com/in/serhii-nabok-39046435/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a></div>
-</footer>
-
+<footer><div>Bohundefence</div><div><a href="https://www.linkedin.com/in/serhii-nabok-39046435/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a></div></footer>
 </body>
 </html>
