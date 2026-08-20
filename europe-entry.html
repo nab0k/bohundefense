@@ -5,12 +5,20 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Europe Market Entry Sprint — Bohundefence</title>
 <meta name="description" content="Strategy and market intelligence for Ukrainian defence and dual-use companies expanding into Europe — turning battlefield validation into a concrete market-entry plan.">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://bohundefence.com/europe-entry.html">
 <meta property="og:type" content="website">
+<meta property="og:site_name" content="Bohundefence">
 <meta property="og:title" content="Europe Market Entry Sprint — Bohundefence">
 <meta property="og:description" content="Strategy and market intelligence for Ukrainian defence and dual-use companies expanding into Europe — turning battlefield validation into a concrete market-entry plan.">
+<meta property="og:url" content="https://bohundefence.com/europe-entry.html">
 <meta property="og:image" content="https://bohundefence.com/og-image.png">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" type="image/png" href="/logo_gold.png">
+<meta name="twitter:title" content="Europe Market Entry Sprint — Bohundefence">
+<meta name="twitter:description" content="Turn operational evidence from Ukraine into a prioritised route to European buyers, partners and institutions.">
+<meta name="twitter:image" content="https://bohundefence.com/og-image.png">
+<meta name="theme-color" content="#F1EFE8">
+<link rel="icon" type="image/png" sizes="192x192" href="logo_gold-192.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&family=PT+Sans+Narrow:wght@400;700&family=PT+Serif:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
@@ -28,6 +36,9 @@
   html{scroll-behavior:smooth;}
   body{background:var(--paper); color:var(--ink); font-family:var(--sans); font-size:17px; line-height:1.55; -webkit-font-smoothing:antialiased;}
   a{color:inherit;}
+  .skip-link{position:fixed;left:1rem;top:1rem;z-index:1000;transform:translateY(-180%);background:var(--ink);color:var(--paper);padding:.7rem 1rem;text-decoration:none}
+  .skip-link:focus{transform:translateY(0)}
+  :focus-visible{outline:2px solid #9f7627;outline-offset:3px}
 
   .field{ max-width:1240px; margin:0 auto; padding:0 2.5rem; }
   .rule-top{ border-top:1px solid var(--rule); }
@@ -41,22 +52,49 @@
   .nav-links a{ font-size:0.86rem; text-decoration:none; color:var(--graphite); border-bottom:1px solid transparent; padding-bottom:2px; transition:color .15s,border-color .15s; }
   .nav-links a:hover{ color:var(--ink); border-color:var(--ink); }
   .nav-cta{ font-size:0.86rem; text-decoration:none; color:var(--ink); border-bottom:1px solid var(--ink); padding-bottom:2px; }
+  .mobile-menu{display:none;position:relative}
+  .mobile-menu summary{list-style:none;cursor:pointer;font-family:var(--cond);font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:.82rem;border:1px solid var(--rule-strong);padding:.55rem .75rem}
+  .mobile-menu summary::-webkit-details-marker{display:none}
+  .mobile-menu div{position:absolute;right:0;top:calc(100% + .6rem);min-width:230px;background:var(--paper);border:1px solid var(--rule-strong);padding:.5rem;box-shadow:0 12px 30px rgba(18,20,18,.1)}
+  .mobile-menu a{display:block;padding:.7rem .75rem;text-decoration:none;font-size:.92rem;border-bottom:1px solid var(--rule)}
 
   section{ padding:4.5rem 0; border-bottom:1px solid var(--rule); }
 
   /* HERO */
   #hero{ padding-top:5.5rem; }
-  .hero-grid{ display:grid; grid-template-columns:7fr 4fr; gap:3rem; align-items:start; }
+  .hero-grid{ display:grid; grid-template-columns:minmax(0,55fr) minmax(340px,45fr); gap:clamp(2.5rem,5vw,5rem); align-items:start; }
   h1{ font-family:var(--sans); font-weight:700; font-size:clamp(2.3rem,4vw,3.8rem); line-height:1.05; letter-spacing:-0.01em; margin-bottom:1.5rem; max-width:14ch; }
   .hero-sub{ font-size:1.08rem; color:var(--graphite); max-width:52ch; line-height:1.6; margin-bottom:1.75rem; }
   .cta-link{ display:inline-block; font-size:0.92rem; font-weight:700; text-decoration:none; color:var(--ink); border-bottom:1px solid var(--ink); padding-bottom:3px; margin-bottom:2rem; }
   .cta-link:hover{ color:var(--accent); border-color:var(--accent); }
   .credential-line{ font-family:var(--cond); font-size:0.86rem; color:var(--graphite); letter-spacing:0.01em; max-width:46ch; line-height:1.5; border-top:1px solid var(--rule); padding-top:1.1rem; }
 
-  .hero-portrait{ }
-  .hero-portrait img{ width:100%; aspect-ratio:4/5; object-fit:cover; object-position:top center; filter:grayscale(35%) contrast(1.04); display:block; }
-  .hero-portrait-cap{ font-family:var(--cond); font-size:0.8rem; color:var(--graphite); margin-top:0.75rem; line-height:1.5; }
-  .hero-portrait-cap strong{ display:block; color:var(--ink); font-family:var(--sans); font-weight:700; font-size:0.85rem; margin-bottom:0.15rem; }
+  .sprint-panel{ position:relative; isolation:isolate; overflow:hidden; background:var(--paper2); border-top:1px solid var(--rule-strong); border-bottom:1px solid var(--rule-strong); transition:border-color 600ms ease,background-color 600ms ease; }
+  .sprint-panel:focus{ outline:2px solid var(--accent); outline-offset:4px; }
+  .route-video-wrap{position:relative;aspect-ratio:16/9;overflow:hidden;background:#dfd8cc;border-bottom:1px solid var(--rule)}
+  .route-video-wrap video{width:100%;height:100%;object-fit:cover;display:block}
+  .sprint-panel-body{padding:1.75rem 2rem 2rem}
+  .sprint-panel .sec-eyebrow{ position:relative; z-index:2; color:var(--accent); margin-bottom:1.25rem; }
+  .sprint-item{ position:relative; z-index:2; border-top:1px solid var(--rule); padding:1.25rem 0; }
+  .sprint-item:last-child{ padding-bottom:0; }
+  .sprint-label{ font-family:var(--cond); font-size:.72rem; letter-spacing:.14em; text-transform:uppercase; color:var(--graphite); margin-bottom:.45rem; }
+  .sprint-decision{ font-family:var(--serif); font-size:1.2rem; line-height:1.45; }
+  .sprint-output{ list-style:none; display:grid; gap:.35rem; color:var(--ink); font-size:.92rem; }
+  .sprint-output li{ position:relative; padding-left:1rem; }
+  .sprint-output li::before{ content:'—'; position:absolute; left:0; color:var(--accent); }
+  .sprint-time{ font-family:var(--serif); font-size:1.35rem; }
+  .brand-echo{ position:absolute; z-index:1; inset:0; pointer-events:none; overflow:hidden; }
+  .brand-echo .fold{ position:absolute; top:-12%; right:1.2rem; width:3.5rem; height:124%; opacity:.065; border-radius:48% 38% 46% 42%; transform-origin:50% 0; transition:opacity 600ms ease,transform 600ms ease; }
+  .brand-echo .fold-ua{ right:7.2rem; background:linear-gradient(180deg,#174A83 0 49%,#E0B938 51% 100%); transform:rotate(4deg) translateY(-1rem); }
+  .brand-echo .fold-navy{ right:3.7rem; background:linear-gradient(90deg,#0D1522,#24364B 52%,#0D1522); opacity:.09; transform:rotate(-3deg) translateY(.6rem); }
+  .brand-echo .fold-ua2{ right:.2rem; width:2.7rem; background:linear-gradient(180deg,#255A92 0 48%,#CFAE38 52% 100%); transform:rotate(3deg) translateY(-.4rem); }
+  .sprint-mark{ position:absolute; z-index:1; top:1.1rem; right:1.5rem; width:5.2rem; height:5.2rem; object-fit:contain; opacity:.2; transform:translateY(.2rem) scale(.96); transition:opacity 600ms ease,transform 600ms ease; }
+  .sprint-panel:hover .fold,.sprint-panel:focus-within .fold,.sprint-panel:focus .fold{ opacity:.15; }
+  .sprint-panel:hover .fold-navy,.sprint-panel:focus-within .fold-navy,.sprint-panel:focus .fold-navy{ opacity:.2; }
+  .sprint-panel:hover .fold-ua,.sprint-panel:focus-within .fold-ua,.sprint-panel:focus .fold-ua{ transform:rotate(2deg) translateY(-.35rem); }
+  .sprint-panel:hover .fold-navy,.sprint-panel:focus-within .fold-navy,.sprint-panel:focus .fold-navy{ transform:rotate(-1deg) translateY(.15rem); }
+  .sprint-panel:hover .fold-ua2,.sprint-panel:focus-within .fold-ua2,.sprint-panel:focus .fold-ua2{ transform:rotate(1deg) translateY(0); }
+  .sprint-panel:hover .sprint-mark,.sprint-panel:focus-within .sprint-mark,.sprint-panel:focus .sprint-mark{ opacity:.72; transform:translateY(0) scale(1); }
 
   /* CONTEXT STATEMENT */
   #context .field{ max-width:900px; }
@@ -81,8 +119,7 @@
   .direction a{ font-size:0.88rem; font-weight:700; text-decoration:none; border-bottom:1px solid var(--ink); padding-bottom:2px; }
 
   /* PRINCIPAL */
-  .principal-grid{ display:grid; grid-template-columns:5fr 7fr; gap:3.5rem; align-items:start; }
-  .principal-grid img{ width:100%; aspect-ratio:4/5; object-fit:cover; object-position:top center; filter:grayscale(35%) contrast(1.04); display:block; }
+  .principal-grid{ max-width:900px; }
   .principal-narrative{ font-family:var(--serif); font-size:1.15rem; line-height:1.65; color:var(--ink); max-width:56ch; margin-bottom:2rem; }
   .credential-spine{ border-top:1px solid var(--rule-strong); }
   .credential-spine div{ display:grid; grid-template-columns:200px 1fr; gap:1.5rem; padding:0.85rem 0; border-bottom:1px solid var(--rule); font-size:0.9rem; }
@@ -98,13 +135,15 @@
   #contact{ background:var(--dark-bg); color:var(--dark-ink); border-bottom:none; }
   #contact .sec-eyebrow{ color:var(--dark-graphite); }
   #contact h2{ font-family:var(--serif); font-size:2rem; font-weight:700; margin-bottom:0.75rem; max-width:16ch; }
-  #contact .lead{ color:var(--dark-graphite); max-width:52ch; margin-bottom:2.25rem; font-size:1rem; line-height:1.6; }
+  #contact .lead{ color:var(--dark-graphite); max-width:52ch; margin-bottom:1rem; font-size:1rem; line-height:1.6; }
   .form-grid{ display:grid; grid-template-columns:1fr 1fr; gap:1px; background:var(--dark-rule); border:1px solid var(--dark-rule); max-width:760px; margin-bottom:1.5rem; }
   .form-grid .full{ grid-column:1/-1; }
   .form-field{ background:var(--dark-bg); padding:0.2rem 0; }
   .form-field label{ display:block; font-family:var(--cond); font-size:0.72rem; letter-spacing:0.08em; text-transform:uppercase; color:var(--dark-graphite); padding:0.8rem 1.1rem 0; }
-  .form-field input, .form-field textarea{ width:100%; background:transparent; border:none; outline:none; color:var(--dark-ink); font-family:var(--sans); font-size:0.95rem; padding:0.35rem 1.1rem 0.8rem; }
-  .form-field textarea{ min-height:80px; resize:none; }
+  .form-field input, .form-field textarea{ width:100%; background:transparent; border:none; color:var(--dark-ink); font-family:var(--sans); font-size:0.95rem; padding:0.35rem 1.1rem 0.8rem; }
+  .form-field input:focus-visible,.form-field textarea:focus-visible{outline:2px solid #d2b46a;outline-offset:-3px}
+  .form-field textarea{ min-height:90px; resize:vertical; }
+  .security-warning{max-width:760px;border-left:2px solid var(--dark-graphite);padding:.7rem 1rem;color:var(--dark-ink);font-family:var(--cond);font-size:.86rem;margin-bottom:1.5rem}
   .send-btn{ background:transparent; border:1px solid var(--dark-ink); color:var(--dark-ink); font-family:var(--sans); font-size:0.88rem; font-weight:700; padding:0.85rem 1.75rem; cursor:pointer; transition:background .2s,color .2s; }
   .send-btn:hover{ background:var(--dark-ink); color:var(--dark-bg); }
   .contact-note{ font-size:0.85rem; color:var(--dark-graphite); margin-top:1.5rem; max-width:52ch; line-height:1.6; }
@@ -117,9 +156,14 @@
   @media (max-width:900px){
     .field{ padding:0 1.25rem; }
     .nav-inner{ padding:1rem 1.25rem; }
-    .nav-links{ display:none; }
+    .nav-links,.nav-cta{ display:none; }.mobile-menu{display:block}
+    #hero{ padding-top:3.5rem; }
     .hero-grid, .principal-grid{ grid-template-columns:1fr; }
-    .hero-portrait{ order:-1; max-width:220px; }
+    .hero-grid{ gap:2.25rem; }
+    .sprint-panel-body{padding:1.4rem 1.25rem 1.6rem}
+    .brand-echo .fold{ opacity:.11; }
+    .brand-echo .fold-navy{ opacity:.14; }
+    .sprint-mark{ opacity:.5; width:4.4rem; height:4.4rem; right:1rem; top:.8rem; transform:none; }
     .situation-row{ grid-template-columns:1fr; gap:0.5rem; }
     .directions{ grid-template-columns:1fr; }
     .direction, .direction + .direction{ padding:2rem 0; border-left:none; border-top:1px solid var(--rule); }
@@ -128,6 +172,14 @@
     .form-grid{ grid-template-columns:1fr; }
     .credential-spine div{ grid-template-columns:1fr; gap:0.25rem; }
     footer{ flex-direction:column; gap:0.75rem; }
+  }
+  @media (max-width:600px){.route-video-wrap video{display:none}.route-video-wrap{background:url('flags-poster.jpg') center/cover no-repeat}}
+  @media (prefers-reduced-motion:reduce){
+    .sprint-panel,.brand-echo .fold,.sprint-mark{ transition-property:opacity,background-color,border-color; transform:none; }
+    .sprint-panel:hover .fold,.sprint-panel:focus-within .fold,.sprint-panel:focus .fold{ transform:none; }
+    .sprint-panel:hover .sprint-mark,.sprint-panel:focus-within .sprint-mark,.sprint-panel:focus .sprint-mark{ transform:none; }
+    .route-video-wrap video{display:none}
+    .route-video-wrap{background:url('flags-poster.jpg') center/cover no-repeat}
   }
 </style>
 
@@ -148,25 +200,28 @@
   .deliverable p{ color:var(--graphite); font-size:0.9rem; line-height:1.6; }
   .meta-row{ display:flex; gap:2.5rem; margin-top:1.75rem; font-family:var(--cond); font-size:0.85rem; color:var(--graphite); }
   .meta-row strong{ display:block; font-family:var(--sans); color:var(--ink); font-size:0.95rem; font-weight:700; margin-top:0.2rem; }
+  @media (max-width:900px){ .step-row{ grid-template-columns:1fr; gap:.35rem; } }
 </style>
 
 </head>
 <body>
+<a class="skip-link" href="#main-content">Skip to content</a>
 
 <nav>
   <div class="nav-inner">
     <a href="index.html" class="brand"><img src="logo_gold.png" alt="">BOHUNDEFENCE</a>
     <ul class="nav-links">
-      <li><a href="index.html#situations">Advisory</a></li>
+      <li><a href="index.html#sprint">Advisory</a></li>
       <li><a href="ukraine-entry.html">Ukraine Entry</a></li>
       <li><a href="europe-entry.html">Europe Expansion</a></li>
       <li><a href="index.html#principal">Principal</a></li>
     </ul>
-    <a href="#contact" class="nav-cta">Discuss a mandate →</a>
+    <a href="#contact" class="nav-cta">Discuss your decision →</a>
+    <details class="mobile-menu"><summary aria-label="Open navigation menu">Menu</summary><div><a href="index.html#sprint">Advisory</a><a href="ukraine-entry.html">Ukraine Entry</a><a href="europe-entry.html">Europe Expansion</a><a href="index.html#principal">Principal</a><a href="#contact">Contact</a></div></details>
   </div>
 </nav>
 
-<section id="hero">
+<main id="main-content"><section id="hero">
   <div class="field">
     <div class="hero-grid">
       <div>
@@ -176,10 +231,13 @@
         <a href="#contact" class="cta-link">Discuss European expansion →</a>
         <p class="credential-line">Earned trust from skeptical international institutions for Ukrainian wartime work: NATO-related engagement as adviser to Ukraine's MoD, and donor fundraising with GIZ, GMF and People in Need.</p>
       </div>
-      <div class="hero-portrait">
-        <img src="serhii-portrait.png" alt="Serhii Nabok">
-        <div class="hero-portrait-cap"><strong>Serhii Nabok</strong>Principal, Bohundefence</div>
-      </div>
+      <aside class="sprint-panel sprint-panel-europe" aria-label="Europe Expansion Sprint summary" tabindex="0">
+        <div class="route-video-wrap" aria-hidden="true"><video autoplay muted loop playsinline preload="metadata" poster="flags-poster.jpg"><source src="flags-wave-seamless.webm" type="video/webm"><source src="flags-wave-seamless.mp4" type="video/mp4"></video></div>
+        <div class="sprint-panel-body"><div class="sec-eyebrow">Europe Expansion</div>
+        <div class="sprint-item"><div class="sprint-label">Decision</div><p class="sprint-decision">Which European market deserves priority — and what evidence will buyers, partners and institutions require?</p></div>
+        <div class="sprint-item"><div class="sprint-label">Output</div><ul class="sprint-output"><li>Prioritised market options</li><li>Buyer and institution map</li><li>Evidence translation</li><li>Sequenced six-month action plan</li></ul></div>
+        <div class="sprint-item"><div class="sprint-label">Timeframe</div><p class="sprint-time">3–4 weeks</p></div></div>
+      </aside>
     </div>
   </div>
 </section>
@@ -193,9 +251,9 @@
 <section id="questions">
   <div class="field">
     <div class="sec-eyebrow">Advisory</div>
-    <div class="sec-title">Where clients need senior judgement</div>
+    <h2 class="sec-title">Where clients need senior judgement</h2>
     <div class="situations">
-      <div class="situation-row"><h3>Which market first?</h3><p>Where there is real institutional and commercial demand for what you do — not the market that simply looks biggest.</p></div><div class="situation-row"><h3>Who actually decides?</h3><p>National MoDs, primes, integrators, EU programmes — DIANA, EIC, NATO Innovation Fund.</p></div><div class="situation-row"><h3>What do we need to prove?</h3><p>Turning battlefield validation into a story a European investor or institution can actually underwrite.</p></div>
+      <div class="situation-row"><h3>Which market first?</h3><p>Where there is real institutional and commercial demand for what you do — not the market that simply looks biggest.</p></div><div class="situation-row"><h3>Who actually decides?</h3><p>National MoDs, primes, integrators, EU mechanisms such as EIC, and NATO innovation mechanisms including DIANA and the NATO Innovation Fund.</p></div><div class="situation-row"><h3>What do we need to prove?</h3><p>Turning battlefield validation into a case a European buyer, investor or institution can assess.</p></div>
     </div>
   </div>
 </section>
@@ -203,13 +261,13 @@
 <section id="scope">
   <div class="field">
     <div class="sec-eyebrow">The Sprint</div>
-    <div class="sec-title">Advisory scope</div>
+    <h2 class="sec-title">What the sprint delivers</h2>
     <div class="deliverables-wrap">
-      <div class="deliverable"><div class="n">01</div><div><h4>Market reality check</h4><p>Is there real demand in the target market — not assumed demand.</p></div></div><div class="deliverable"><div class="n">02</div><div><h4>Buyer & institution map</h4><p>National MoDs, primes, integrators, EU programmes — DIANA, EIC, NATO Innovation Fund.</p></div></div><div class="deliverable"><div class="n">03</div><div><h4>Credibility translation</h4><p>Turning “battle-tested in Ukraine” into a story a European investor or institution can actually underwrite.</p></div></div><div class="deliverable"><div class="n">04</div><div><h4>Partner & entry-point candidates</h4><p>Real companies and people, not a directory.</p></div></div><div class="deliverable"><div class="n">05</div><div><h4>First 6 months</h4><p>A sequenced plan with a realistic budget.</p></div></div>
+      <div class="deliverable"><div class="n">01</div><div><h4>Market reality check</h4><p>Is there real demand in the target market — not assumed demand.</p></div></div><div class="deliverable"><div class="n">02</div><div><h4>Buyer & institution map</h4><p>National MoDs, primes, integrators, relevant EU programmes and NATO innovation mechanisms.</p></div></div><div class="deliverable"><div class="n">03</div><div><h4>Credibility translation</h4><p>Turning operational evidence from Ukraine into a case a European buyer, investor or institution can assess.</p></div></div><div class="deliverable"><div class="n">04</div><div><h4>Partner & entry-point candidates</h4><p>Real companies and people, not a directory.</p></div></div><div class="deliverable"><div class="n">05</div><div><h4>First 6 months</h4><p>A sequenced plan with a realistic budget.</p></div></div>
     </div>
     <div class="meta-row">
-      <div>Format<strong>Written map + working session</strong></div>
-      <div>Timeframe<strong>2–3 weeks</strong></div>
+      <div>Format<strong>Executive decision memo + working session</strong></div>
+      <div>Timeframe<strong>3–4 weeks</strong></div>
     </div>
   </div>
 </section>
@@ -217,7 +275,7 @@
 <section id="not-do">
   <div class="field">
     <div class="sec-eyebrow">Scope</div>
-    <div class="sec-title">What this isn't</div>
+    <h2 class="sec-title">What this isn't</h2>
     <ul class="not-list">
       <li>I'm not a full-service marketing agency</li><li>I don't build large outsourced teams around clients</li><li>I don't sell generic market reports</li><li>I don't promise NATO contracts — NATO is one door among many</li>
     </ul>
@@ -227,7 +285,7 @@
 <section id="how">
   <div class="field">
     <div class="sec-eyebrow">How I work</div>
-    <div class="sec-title">Five steps, no unnecessary layers</div>
+    <h2 class="sec-title">Five steps, no unnecessary layers</h2>
     <div class="steps">
       <div class="step-row"><h3><span class="n">01</span>Understand</h3><p>Your product, current position, ambitions and constraints.</p></div><div class="step-row"><h3><span class="n">02</span>Map</h3><p>The relevant ecosystem: buyers, competitors, partners, entry points.</p></div><div class="step-row"><h3><span class="n">03</span>Decide</h3><p>The most promising route, and the assumptions that need testing.</p></div><div class="step-row"><h3><span class="n">04</span>Connect</h3><p>Relevant people, companies and specialists, where useful.</p></div><div class="step-row"><h3><span class="n">05</span>Advise</h3><p>I can stay involved while your team executes. You keep the operations.</p></div>
     </div>
@@ -237,10 +295,9 @@
 <section id="principal">
   <div class="field">
     <div class="sec-eyebrow">Principal</div>
-    <div class="sec-title">Principal-led by design</div>
+    <h2 class="sec-title">Principal-led by design</h2>
     <div class="principal-grid">
-      <img src="serhii-portrait.png" alt="Serhii Nabok">
-      <div>
+      <div class="principal-copy">
         <p class="principal-narrative">Bohundefence is led directly by Serhii Nabok, a strategic communications and policy professional with more than 15 years of experience across government, defence, international organisations, media and business. During Russia's full-scale invasion of Ukraine, he served as strategic communications adviser to the Deputy Minister of Defence of Ukraine, engaging NATO representatives, international media and donor organisations. The practice now applies that experience to Ukrainian companies expanding into Europe.</p>
         <div class="credential-spine">
           <div><div class="k">Government</div><div class="v">Former strategic communications adviser, Ukraine's Ministry of Defence — wartime communications strategy</div></div>
@@ -254,22 +311,25 @@
 <section id="contact">
   <div class="field">
     <div class="sec-eyebrow">Contact</div>
-    <h2>Discuss European expansion</h2>
-    <p class="lead">Let's examine the opportunity before you commit the budget.</p>
+    <h2>Discuss your Europe expansion decision</h2>
+    <p class="lead">Start with a confidential 30-minute fit call. If there is a fit, we will scope the 3–4 week sprint.</p>
+    <p class="security-warning"><strong>Security note:</strong> Do not include classified, operational, export-controlled or otherwise sensitive information. We will arrange an appropriate channel if needed.</p>
     <form class="form-grid" action="https://formspree.io/f/xbdwvgqp" method="POST">
-      <div class="form-field"><label for="name">Name</label><input type="text" id="name" name="name" required></div>
-      <div class="form-field"><label for="org">Organisation</label><input type="text" id="org" name="org"></div>
-      <div class="form-field full"><label for="email">Work email</label><input type="email" id="email" name="email" required></div>
-      <div class="form-field full"><label for="msg">What are you working on?</label><textarea id="msg" name="message"></textarea></div>
-      <div class="form-field full" style="padding:1rem 1.1rem;"><button class="send-btn" type="submit">Send confidential enquiry →</button></div>
+      <input type="hidden" name="route_intent" value="europe-expansion">
+      <div class="form-field"><label for="name">Name</label><input type="text" id="name" name="name" autocomplete="name" required></div>
+      <div class="form-field"><label for="org">Organisation</label><input type="text" id="org" name="org" autocomplete="organization"></div>
+      <div class="form-field full"><label for="email">Work email</label><input type="email" id="email" name="email" autocomplete="email" required></div>
+      <div class="form-field full"><label for="msg">What decision are you facing?</label><textarea id="msg" name="message" required></textarea></div>
+      <div class="form-field full" style="padding:1rem 1.1rem;"><button class="send-btn" type="submit">Request a fit call →</button></div>
     </form>
-    <p class="contact-note">You'll be talking to me directly, not a sales team. <a href="mailto:hello@bohundefence.com">hello@bohundefence.com</a> · <a href="index.html">Full advisory practice →</a></p>
+    <p class="contact-note">You'll be talking to me directly, not a sales team. <a href="mailto:hello@bohundefence.com">hello@bohundefence.com</a> · <a href="privacy.html">Privacy</a> · <a href="index.html">Full advisory practice →</a></p>
   </div>
 </section>
+</main>
 
 <footer>
   <div>Bohundefence</div>
-  <div><a href="https://www.linkedin.com/in/serhii-nabok-39046435/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a></div>
+  <div><a href="privacy.html">Privacy</a> · <a href="https://www.linkedin.com/in/serhii-nabok-39046435/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a></div>
 </footer>
 
 </body>

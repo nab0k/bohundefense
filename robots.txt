@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /pilot/
+Disallow: /pilot-intake/
+
+Sitemap: https://bohundefence.com/sitemap.xml
