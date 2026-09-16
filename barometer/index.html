@@ -320,7 +320,11 @@
   .kpi-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 1px; background: var(--border); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }
   .kpi-card { background: var(--bg3); padding: 1.25rem 1.4rem 1rem; position: relative; }
   .kpi-card.attn { box-shadow: inset 0 0 0 1px rgba(217,164,65,0.5), 0 0 24px -6px rgba(217,164,65,0.35); }
-  .attn-flag { position: absolute; top: 0.9rem; right: 1.1rem; font-size: 0.62rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--amber); }
+  .attn-flag {
+    position: absolute; top: 0.85rem; right: 1.1rem; z-index: 1;
+    font-size: 0.6rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--amber);
+    background: var(--bg3); padding: 0.2rem 0.5rem; border-radius: 4px; line-height: 1.4;
+  }
   .kpi-top { display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 0.6rem; gap: 0.45rem; }
   .kpi-name { font-size: 0.78rem; color: var(--text-muted); line-height: 1.4; }
   .status-pill { font-size: 0.62rem; letter-spacing: 0.05em; text-transform: uppercase; padding: 0.22rem 0.55rem; border-radius: 3px; white-space: nowrap; }
@@ -747,7 +751,7 @@
             <div class="heatmap-wrap">
               <table class="heatmap">
                 <thead>
-                  <tr><th>Dimension · Autonomous logistics</th><th>Manufacturers</th><th>Investors</th><th>End users</th><th class="gap-col">Gap</th></tr>
+                  <tr><th>Dimension · Autonomous logistics</th><th>Manufacturers</th><th>Investors</th><th>End users</th><th class="gap-col">Gap (widest split)</th></tr>
                 </thead>
                 <tbody>
                   <tr>
@@ -790,7 +794,7 @@
               </div>
             </div>
             <div class="fake-pagination"><span>Showing 1 of 6 tracked themes</span><span><span class="pg-btn">‹</span> <span class="pg-btn">›</span></span></div>
-            <p class="panel-source">Wave 01 mock composition · example theme shown, not a comprehensive sector view.</p>
+            <p class="panel-source">Wave 01 mock composition · example theme shown, not a comprehensive sector view · "Gap" is the widest spread between any two groups reporting on that row — not always the same pair.</p>
           </div>
 
           <div class="panel panel-access">
