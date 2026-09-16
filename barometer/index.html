@@ -167,6 +167,7 @@
 
   /* ── CARD GRIDS (Air.ai rounded card + SARA pastel-chip/corner-icon pattern) ── */
   .audience-grid, .pillars-grid, .layers { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.1rem; margin-top: 2.25rem; }
+  .audience-grid { grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); }
   .layers { grid-template-columns: repeat(3, 1fr); }
   .card {
     background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius);
@@ -185,6 +186,9 @@
   }
   .card h3 { font-size: 1.02rem; font-weight: 700; margin-bottom: 0.55rem; }
   .card p { color: var(--text-muted); font-size: 0.87rem; line-height: 1.65; }
+
+  .data-types-row { display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 0.25rem 0 2.25rem; }
+  .dt-chip { font-size: 0.78rem; color: var(--text-muted); background: var(--bg-card); border: 1px solid var(--border-strong); border-radius: 999px; padding: 0.45rem 1.05rem; }
 
   /* ── DARK PANEL-COMPOSITION STRIP (SARA "trusted by" rhythm, honest content — no fabricated people) ── */
   #panel .section-label::before { background: #c9a84c; }
@@ -268,15 +272,19 @@
   .tab-radio { display: none; }
   .panel { display: none; padding: 1.6rem 1.75rem; }
   #ct-signals:checked ~ .app-shell .rail-tab.rail-signals,
+  #ct-capital:checked ~ .app-shell .rail-tab.rail-capital,
   #ct-perception:checked ~ .app-shell .rail-tab.rail-perception,
   #ct-access:checked ~ .app-shell .rail-tab.rail-access,
   #ct-trust:checked ~ .app-shell .rail-tab.rail-trust { color: var(--gold); background: var(--gold-dim); border-color: var(--gold-border); }
   #ct-signals:checked ~ .app-shell .app-main .panel-signals,
+  #ct-capital:checked ~ .app-shell .app-main .panel-capital,
   #ct-perception:checked ~ .app-shell .app-main .panel-perception,
   #ct-access:checked ~ .app-shell .app-main .panel-access,
   #ct-trust:checked ~ .app-shell .app-main .panel-trust { display: block; }
 
-  .panel-question { font-family: var(--serif); font-style: italic; color: var(--text-muted); font-size: 1rem; margin-bottom: 1.25rem; }
+  .panel-question { font-family: var(--serif); font-style: italic; color: var(--text-muted); font-size: 1rem; margin-bottom: 0.6rem; }
+  .relevant-to { display: flex; align-items: center; flex-wrap: wrap; gap: 0.4rem; font-size: 0.7rem; color: var(--text-dim); margin-bottom: 1.25rem; }
+  .relevant-to .rel-tag { background: var(--bg3); border: 1px solid var(--border); border-radius: 999px; padding: 0.18rem 0.65rem; color: var(--text-muted); }
 
   .vira-insight {
     display: flex; gap: 0.85rem; align-items: flex-start; padding: 1rem 1.15rem; margin-bottom: 1.5rem; border-radius: 10px;
@@ -475,7 +483,7 @@
 <section id="audience">
   <div class="container">
     <p class="section-label">Built For Teams Like Yours</p>
-    <h2>One console, <em>four ways</em> to use it</h2>
+    <h2>One console, <em>five ways</em> to use it</h2>
     <div class="audience-grid">
       <div class="card" style="--chip-bg:rgba(181,101,44,0.1); --chip-color:#b5652c;">
         <div class="card-head"><div class="card-icon">◈</div><p class="tag">Investment Analysts</p></div>
@@ -483,7 +491,7 @@
         <p>Compare how manufacturers and investors read the same opportunity — before it's a slide in someone's deck.</p>
       </div>
       <div class="card" style="--chip-bg:rgba(79,125,58,0.1); --chip-color:#4f7d3a;">
-        <div class="card-head"><div class="card-icon">◐</div><p class="tag">Asset Managers / КУА</p></div>
+        <div class="card-head"><div class="card-icon">◐</div><p class="tag">Asset Managers</p></div>
         <h3>Screen exposure your data feed can't see</h3>
         <p>Signals from verified people inside the market, not another public dataset your terminal already has.</p>
       </div>
@@ -497,6 +505,11 @@
         <h3>Know where sentiment splits</h3>
         <p>See where investor confidence and manufacturer confidence diverge on the same technology.</p>
       </div>
+      <div class="card" style="--chip-bg:rgba(107,91,58,0.12); --chip-color:#6b5b3a;">
+        <div class="card-head"><div class="card-icon">⬡</div><p class="tag">Defence Manufacturers</p></div>
+        <h3>See how the market reads you — before your next raise</h3>
+        <p>The same perception data investors see, mirrored back: where your self-assessment and outside perception diverge, and what's worth closing before it's a term sheet.</p>
+      </div>
     </div>
   </div>
 </section>
@@ -506,6 +519,13 @@
     <p class="section-label">The Difference</p>
     <h2>Intelligence that does not <em>start with the internet</em></h2>
     <p class="lead">Most market-intelligence tools begin with information that already exists — company data, transactions, procurement announcements, filings, news. Trust as Capital starts one layer earlier: with people inside the market.</p>
+    <div class="data-types-row">
+      <span class="dt-chip">Forward expectations</span>
+      <span class="dt-chip">Sentiment momentum</span>
+      <span class="dt-chip">Why, not just what</span>
+      <span class="dt-chip">Intent to act</span>
+      <span class="dt-chip">Trust & reputation</span>
+    </div>
     <div class="pillars-grid">
       <div class="card" style="--chip-bg:rgba(181,101,44,0.1); --chip-color:#b5652c;">
         <div class="card-head"><div class="card-icon">✓</div></div>
@@ -558,6 +578,7 @@
 
     <div class="console-frame">
       <input type="radio" id="ct-signals" name="console-tab" class="tab-radio" checked>
+      <input type="radio" id="ct-capital" name="console-tab" class="tab-radio">
       <input type="radio" id="ct-perception" name="console-tab" class="tab-radio">
       <input type="radio" id="ct-access" name="console-tab" class="tab-radio">
       <input type="radio" id="ct-trust" name="console-tab" class="tab-radio">
@@ -566,6 +587,7 @@
         <div class="app-rail">
           <div class="rail-logo"><img src="https://bohundefence.com/logo_gold.png" alt="Bohun Defence"></div>
           <label class="rail-tab rail-signals" for="ct-signals" title="Defence Signals"><span class="glyph">◈</span><span class="rail-label">Signals</span></label>
+          <label class="rail-tab rail-capital" for="ct-capital" title="Capital & Investment"><span class="glyph">◆</span><span class="rail-label">Capital</span></label>
           <label class="rail-tab rail-perception" for="ct-perception" title="Perception Gap"><span class="glyph">◐</span><span class="rail-label">Perception&nbsp;Gap</span></label>
           <label class="rail-tab rail-access" for="ct-access" title="Market Accessibility"><span class="glyph">▦</span><span class="rail-label">Accessibility</span></label>
           <label class="rail-tab rail-trust" for="ct-trust" title="Trust Composition"><span class="glyph">✦</span><span class="rail-label">Trust</span></label>
@@ -585,6 +607,7 @@
 
           <div class="panel panel-signals">
             <p class="panel-question">Answers: what's actually moving right now?</p>
+            <div class="relevant-to">Relevant to: <span class="rel-tag">Manufacturers</span><span class="rel-tag">Investors</span><span class="rel-tag">Asset Managers</span></div>
 
             <div class="vira-insight">
               <div class="vira-avatar">V</div>
@@ -634,8 +657,48 @@
             <p class="panel-source">Mock-up data, illustrative only · 30-day window · High/medium confidence reflects respondent coverage, not statistical significance.</p>
           </div>
 
+          <div class="panel panel-capital">
+            <p class="panel-question">Answers: is capital actually moving, and where?</p>
+            <div class="relevant-to">Relevant to: <span class="rel-tag">Investors</span><span class="rel-tag">Asset Managers</span><span class="rel-tag">Banks</span></div>
+
+            <div class="vira-insight">
+              <div class="vira-avatar">V</div>
+              <div>
+                <p class="vira-label">Vira · AI research assistant</p>
+                <p>Early-stage round activity is picking up faster than valuation sentiment — investors are still pricing conservatively relative to how active the deal pipeline has become this cycle.</p>
+              </div>
+            </div>
+
+            <div class="kpi-grid">
+              <div class="kpi-card">
+                <div class="kpi-top"><span class="kpi-name">Early-stage round activity</span><span class="status-pill medium">Medium confidence</span></div>
+                <div class="kpi-value-row"><span class="kpi-value">64</span><span class="kpi-delta up">↑ 8</span></div>
+                <div class="kpi-spark"><canvas id="spark6" width="150" height="34"></canvas></div>
+                <div class="kpi-foot">More manufacturers report active fundraising conversations than last wave — deal flow is building.</div>
+              </div>
+              <div class="kpi-card attn">
+                <span class="attn-flag">▲ Needs attention</span>
+                <div class="kpi-top"><span class="kpi-name">Valuation sentiment gap</span><span class="status-pill medium">Medium confidence</span></div>
+                <div class="kpi-value-row"><span class="kpi-value">19 pts</span><span class="kpi-delta down">↓ 3</span></div>
+                <div class="kpi-spark"><canvas id="spark7" width="150" height="34"></canvas></div>
+                <div class="vira-mini">
+                  <div class="vira-avatar" style="width:20px;height:20px;font-size:0.7rem;">V</div>
+                  <div><p class="vira-label">Vira</p><p>Manufacturers' expected valuations and investors' willingness to pay are converging slightly, but the gap is still wide enough to stall term sheets.</p></div>
+                </div>
+              </div>
+              <div class="kpi-card">
+                <div class="kpi-top"><span class="kpi-name">Follow-on financing interest</span><span class="status-pill high">High confidence</span></div>
+                <div class="kpi-value-row"><span class="kpi-value">71</span><span class="kpi-delta up">↑ 5</span></div>
+                <div class="kpi-spark"><canvas id="spark8" width="150" height="34"></canvas></div>
+                <div class="kpi-foot">Existing investors signal appetite for follow-on rounds — a read on conviction, not just new-entrant interest.</div>
+              </div>
+            </div>
+            <p class="panel-source">Mock-up data, illustrative only · one of five research signal families (Capital & Investment) — the family most requested by investment-analyst respondents.</p>
+          </div>
+
           <div class="panel panel-perception">
             <p class="panel-question">Answers: where do market participants disagree about the same thing?</p>
+            <div class="relevant-to">Relevant to: <span class="rel-tag">Investors</span><span class="rel-tag">Manufacturers</span><span class="rel-tag">Banks</span></div>
             <div class="heatmap-wrap">
               <table class="heatmap">
                 <thead>
@@ -673,7 +736,7 @@
                 </tbody>
               </table>
             </div>
-            <div class="gap-insight"><strong>Perception gap detected:</strong> manufacturers believe commercial and technical readiness are significantly higher than investors do — the largest gap is in technology readiness, not demand.</div>
+            <div class="gap-insight"><strong>Perception gap detected:</strong> manufacturers believe commercial and technical readiness are significantly higher than investors do — the largest gap is in technology readiness, not demand. Useful both ways: investors see where optimism may be overstated; manufacturers see exactly where to close the story gap before the next conversation.</div>
             <div class="vira-insight" style="margin-top:1.25rem;margin-bottom:0;">
               <div class="vira-avatar">V</div>
               <div>
@@ -687,6 +750,7 @@
 
           <div class="panel panel-access">
             <p class="panel-question">Answers: is this market actually accessible, not just large?</p>
+            <div class="relevant-to">Relevant to: <span class="rel-tag">Banks</span><span class="rel-tag">Investors</span></div>
             <p style="font-size:0.82rem;color:var(--text-dim);margin-bottom:1.25rem;">Example: Counter-UAS · Country X</p>
             <div class="access-layout">
               <div class="access-chart-wrap">
@@ -703,11 +767,22 @@
               <span>🌍 <b>Country X</b></span>
               <span>📅 Updated <b>6 days ago</b></span>
             </div>
+            <div class="gap-insight" style="margin-top:1.25rem;"><strong>Wave 01 coverage:</strong> one segment/geography pair shown here for demonstration. Wave 02 expands coverage based on which segments and geographies respondents ask for — tell us in the questionnaire below.</div>
             <p class="panel-source">Mock-up data, illustrative only · one example market shown for demonstration.</p>
           </div>
 
           <div class="panel panel-trust">
             <p class="panel-question">Answers: which dimension of trust is actually the bottleneck?</p>
+            <div class="relevant-to">Relevant to: <span class="rel-tag">Investors</span><span class="rel-tag">Asset Managers</span><span class="rel-tag">Manufacturers</span></div>
+
+            <div class="vira-insight">
+              <div class="vira-avatar">V</div>
+              <div>
+                <p class="vira-label">Vira · AI research assistant</p>
+                <p>Both groups agree on competence — the real gap is in procedural and institutional trust, the two dimensions a term sheet or supply contract usually depends on most.</p>
+              </div>
+            </div>
+
             <div class="trust-layout">
               <div class="trust-chart-wrap">
                 <canvas id="trustChart" width="360" height="320"></canvas>
@@ -771,13 +846,13 @@
         <div class="node-circle">B</div>
         <p class="tag">Monthly</p>
         <h3>Monthly Pulse</h3>
-        <p>Short questions to verified participants, scoped to their own area of expertise.</p>
+        <p>The same core questions every wave — expectations and sentiment, not facts you could scrape. The fixed tracker behind a Barometer index over time.</p>
       </div>
       <div class="pipeline-node">
         <div class="node-circle">C</div>
         <p class="tag">1–3× / week</p>
         <h3>Fast Signals</h3>
-        <p>Narrow, fast-moving questions — supply chain, components, demand shifts, emerging practices.</p>
+        <p>Rotating deep-dive themes — supply chain, components, demand shifts — chosen with sector associations as the panel grows.</p>
       </div>
     </div>
   </div>
@@ -798,6 +873,18 @@
       <input type="hidden" name="_subject" value="Barometer validation feedback">
 
       <div class="form-field">
+        <label for="role">You are</label>
+        <select id="role" name="respondent_role" required>
+          <option value="">Select one…</option>
+          <option>Investor / Investment Analyst</option>
+          <option>Asset Manager</option>
+          <option>Bank</option>
+          <option>Startup / VC Ecosystem</option>
+          <option>Defence Manufacturer</option>
+          <option>Other</option>
+        </select>
+      </div>
+      <div class="form-field">
         <label for="name">Name and organisation</label>
         <input type="text" id="name" name="name" placeholder="Name, organisation" required>
       </div>
@@ -817,6 +904,10 @@
       <div class="form-field">
         <label for="q3">3. Which dashboard or output would be most valuable to you?</label>
         <input type="text" id="q3" name="q3_dashboard">
+      </div>
+      <div class="form-field">
+        <label for="q3b">3a. Which segment or geography would need to be covered for this to be useful to you?</label>
+        <input type="text" id="q3b" name="q3b_coverage" placeholder="e.g. counter-UAS in the Baltics, or armored vehicles">
       </div>
       <div class="form-field">
         <label for="q4">4. What would need to be true for you to trust the data enough to act on it?</label>
@@ -1002,6 +1093,9 @@ sparkline('spark2', [66,67,69,70,71,72], 'rgb(156,122,31)');
 sparkline('spark3', [50,53,55,57,59,61], 'rgb(156,122,31)');
 sparkline('spark4', [47,46,46,45,44,43], 'rgb(161,76,56)');
 sparkline('spark5', [64,62,61,59,58,57], 'rgb(161,76,56)');
+sparkline('spark6', [54,57,58,60,62,64], 'rgb(156,122,31)');
+sparkline('spark7', [24,23,22,21,20,19], 'rgb(161,76,56)');
+sparkline('spark8', [63,65,66,68,69,71], 'rgb(156,122,31)');
 
 const accessCtx = document.getElementById('accessChart');
 if (accessCtx) {
