@@ -1,0 +1,1078 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Defence Tech Barometer — Concept Mockup | Bohun Defence</title>
+<link rel="icon" type="image/png" href="https://bohundefence.com/logo_gold.png">
+<link rel="apple-touch-icon" href="https://bohundefence.com/logo_gold.png">
+<meta name="description" content="Decision intelligence for defence markets — an internal concept mockup from Bohun Defence. Not a live product.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://bohundefence.com/barometer/">
+<meta property="og:title" content="Defence Tech Barometer — Concept Mockup">
+<meta property="og:description" content="Decision intelligence for defence markets. Internal concept mockup — not a live product.">
+<meta property="og:image" content="https://bohundefence.com/og-image.png">
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=DM+Sans:wght@300;400;500;700;800&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    /* Air.ai-inspired: light editorial page, one warm accent, dark console kept dark on purpose */
+    --bg: #f6f4ee;
+    --bg-card: #ffffff;
+    --bg-black: #0d0d0b;
+    --border: rgba(20,18,10,0.09);
+    --border-strong: rgba(20,18,10,0.16);
+    --text: #16150f;
+    --text-muted: #55524a;
+    --text-dim: #8a8678;
+    --accent: #b5652c;
+    --accent-dim: rgba(181,101,44,0.08);
+    --accent-border: rgba(181,101,44,0.3);
+    --up: #4f7d3a;
+    --down: #a14c38;
+    --radius: 22px;
+    --radius-sm: 12px;
+    --serif: 'Cormorant Garamond', Georgia, serif;
+    --sans: 'DM Sans', system-ui, sans-serif;
+  }
+
+  /* The console is its own light "product surface" — a shade off-white from the page background,
+     so it still reads as a distinct screen even though nothing here is dark anymore. */
+  .console-frame {
+    --bg: #ffffff;
+    --bg2: #faf9f5;
+    --bg3: #f2f0e8;
+    --border: rgba(22,21,15,0.09);
+    --border-strong: rgba(22,21,15,0.16);
+    --text: #16150f;
+    --text-muted: #55524a;
+    --text-dim: #837f70;
+    --gold: #9c7a1f;
+    --gold-dim: rgba(156,122,31,0.1);
+    --gold-border: rgba(156,122,31,0.32);
+    --up: #4f7d3a;
+    --down: #a14c38;
+    --blue: #4c6f94;
+    --amber: #ab7519;
+    --indigo: #5b5fc4;
+    --indigo-dim: rgba(91,95,196,0.08);
+    --indigo-border: rgba(91,95,196,0.3);
+  }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--sans);
+    font-size: 16px;
+    line-height: 1.7;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ── FLOATING NAV (Air.ai pattern) ── */
+  .nav-wrap { position: fixed; top: 1.25rem; left: 0; right: 0; z-index: 100; display: flex; justify-content: center; padding: 0 1.5rem; }
+  nav {
+    width: 100%; max-width: 1180px;
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 0.9rem 1.75rem;
+    background: rgba(255,255,255,0.92);
+    backdrop-filter: blur(12px);
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    box-shadow: 0 12px 30px -14px rgba(20,18,10,0.18);
+  }
+  .nav-logo { display: flex; align-items: center; gap: 0.65rem; text-decoration: none; color: var(--text); }
+  .nav-logo img { width: 26px; height: 26px; object-fit: contain; }
+  .nav-logo-text { font-family: var(--serif); font-size: 1.05rem; font-weight: 500; letter-spacing: 0.02em; }
+  .nav-cta {
+    font-size: 0.76rem; letter-spacing: 0.06em; text-transform: uppercase; color: #fff; text-decoration: none;
+    background: var(--accent); border-radius: 999px; padding: 0.6rem 1.3rem; transition: opacity 0.2s;
+  }
+  .nav-cta:hover { opacity: 0.85; }
+
+  a:focus-visible, button:focus-visible, label:focus-visible { outline: 2px solid var(--accent); outline-offset: 3px; }
+
+  section { padding: 6rem 1.5rem; }
+  .container { max-width: 1080px; margin: 0 auto; }
+  .container-wide { max-width: 1240px; margin: 0 auto; }
+  .container-narrow { max-width: 760px; margin: 0 auto; }
+
+  .section-label {
+    font-size: 0.7rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--accent);
+    margin-bottom: 1.25rem; display: flex; align-items: center; gap: 0.6rem; font-weight: 500;
+  }
+  .section-label::before { content: ''; width: 20px; height: 2px; background: var(--accent); border-radius: 2px; }
+
+  h1, h2, h3 { line-height: 1.08; color: var(--text); }
+  h1 { font-family: var(--sans); font-weight: 800; font-size: clamp(2.6rem, 6vw, 4.6rem); letter-spacing: -0.02em; margin-bottom: 0.4rem; }
+  h1 em, h2 em { font-family: var(--serif); font-style: italic; font-weight: 500; color: var(--accent); }
+  h2 { font-family: var(--sans); font-weight: 800; font-size: clamp(2.1rem, 4vw, 3.1rem); letter-spacing: -0.015em; margin-bottom: 1.25rem; }
+  h3 { font-size: 1.25rem; margin-bottom: 0.5rem; font-weight: 700; font-family: var(--sans); }
+
+  .lead { color: var(--text-muted); margin-bottom: 1.5rem; line-height: 1.75; max-width: 62ch; font-size: 1.05rem; }
+  .proto-tag {
+    display: inline-flex; align-items: center; gap: 0.5rem; font-size: 0.7rem; letter-spacing: 0.1em; text-transform: uppercase;
+    color: var(--accent); border: 1px solid var(--accent-border); background: var(--accent-dim); border-radius: 999px; padding: 0.5rem 1.1rem; margin-bottom: 1.5rem;
+  }
+
+  .confidential-banner {
+    max-width: 760px; margin: 2rem auto 0; padding: 1.1rem 1.4rem;
+    border: 1px solid var(--accent-border); background: var(--accent-dim); border-radius: var(--radius-sm);
+    font-size: 0.85rem; color: var(--text-muted); display: flex; gap: 0.75rem; align-items: flex-start;
+    text-align: left;
+  }
+  .confidential-banner .icon { flex-shrink: 0; font-size: 1rem; line-height: 1.4; }
+  .confidential-banner strong { color: var(--accent); }
+
+  /* ── HERO (left-aligned, bold+italic pairing, Air.ai style) ── */
+  #hero { padding-top: 8.5rem; text-align: left; }
+  .hero-eyebrow { font-size: 0.74rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--accent); margin-bottom: 1.5rem; font-weight: 500; }
+  #hero h1 { max-width: 14ch; }
+  .hero-support { color: var(--text-muted); font-size: 1.05rem; max-width: 58ch; margin: 1.25rem 0 1.5rem; line-height: 1.75; }
+  .btn-primary, button.btn-primary {
+    background: var(--accent); color: #fff; text-decoration: none; font-family: var(--sans);
+    font-size: 0.82rem; font-weight: 500; letter-spacing: 0.06em; text-transform: uppercase;
+    padding: 0.95rem 2.1rem; border-radius: 999px; transition: opacity 0.2s; border: none; cursor: pointer; display: inline-block;
+  }
+  .btn-primary:hover, button.btn-primary:hover { opacity: 0.85; }
+
+  /* ── VIDEO ── */
+  .video-wrap {
+    position: relative; width: 100%; aspect-ratio: 16/9; background: var(--bg-card);
+    border: 1px solid var(--border-strong); border-radius: var(--radius); display: flex; align-items: center; justify-content: center;
+    margin-top: 1.5rem; overflow: hidden; box-shadow: 0 24px 50px -28px rgba(20,18,10,0.22);
+  }
+  .video-wrap video { width: 100%; height: 100%; object-fit: cover; }
+  .video-placeholder { text-align: center; color: var(--text-dim); font-size: 0.85rem; padding: 2rem; }
+  .video-placeholder .play { font-size: 2.2rem; color: var(--accent); margin-bottom: 0.75rem; }
+  .video-caption { text-align: center; color: var(--text-dim); font-size: 0.8rem; margin-top: 1rem; letter-spacing: 0.04em; }
+
+  /* ── BLACK MANIFESTO INTERLUDE with scroll-reveal (Air.ai pattern) + signal-cloud canvas (SARA/Dribbble pattern) ── */
+  .manifesto { background: var(--bg-black); position: relative; min-height: 220vh; }
+  .manifesto-sticky { position: sticky; top: 0; min-height: 100vh; display: flex; align-items: center; padding: 0 1.5rem; overflow: hidden; }
+  #signalCanvas { position: absolute; inset: 0; width: 100%; height: 100%; z-index: 0; opacity: 0.55; pointer-events: none; }
+  .manifesto-sticky .container-narrow { position: relative; z-index: 1; }
+  .manifesto p {
+    max-width: 46ch; font-size: clamp(1.3rem, 2.6vw, 1.9rem); line-height: 1.5; font-weight: 400; color: #f0ede6;
+  }
+  .manifesto .w { opacity: 0.22; color: #f0ede6; transition: opacity 0.15s linear; }
+  @media (max-width: 700px) { .manifesto { min-height: 160vh; } }
+
+  /* ── CARD GRIDS (Air.ai rounded card + SARA pastel-chip/corner-icon pattern) ── */
+  .audience-grid, .pillars-grid, .layers { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.1rem; margin-top: 2.25rem; }
+  .layers { grid-template-columns: repeat(3, 1fr); }
+  .card {
+    background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 1.75rem 1.6rem; box-shadow: 0 16px 34px -26px rgba(20,18,10,0.18);
+  }
+  .card-head { display: flex; align-items: center; gap: 0.7rem; margin-bottom: 1.1rem; flex-wrap: wrap; }
+  .card .card-icon {
+    flex-shrink: 0; width: 32px; height: 32px; border-radius: 9px;
+    display: flex; align-items: center; justify-content: center; font-size: 0.95rem;
+    background: var(--chip-bg, var(--accent-dim)); color: var(--chip-color, var(--accent));
+  }
+  .card .tag {
+    display: inline-flex; font-size: 0.66rem; letter-spacing: 0.06em; text-transform: uppercase; font-weight: 600;
+    color: var(--chip-color, var(--accent)); background: var(--chip-bg, var(--accent-dim));
+    border-radius: 999px; padding: 0.4rem 0.85rem; line-height: 1.3;
+  }
+  .card h3 { font-size: 1.02rem; font-weight: 700; margin-bottom: 0.55rem; }
+  .card p { color: var(--text-muted); font-size: 0.87rem; line-height: 1.65; }
+
+  /* ── DARK PANEL-COMPOSITION STRIP (SARA "trusted by" rhythm, honest content — no fabricated people) ── */
+  #panel .section-label::before { background: #c9a84c; }
+  .cohort-row { display: flex; gap: 1rem; flex-wrap: wrap; margin: 2rem 0 2.25rem; }
+  .cohort { flex: 1; min-width: 155px; background: rgba(255,255,255,0.045); border: 1px solid rgba(255,255,255,0.1); border-radius: 16px; padding: 1.35rem 1.1rem; text-align: center; }
+  .cohort-stack { display: flex; justify-content: center; margin-bottom: 0.75rem; }
+  .cohort-stack span {
+    width: 34px; height: 34px; border-radius: 50%; background: rgba(201,168,76,0.16); border: 1.5px solid rgba(201,168,76,0.45);
+    color: #e4c878; font-size: 0.66rem; font-weight: 700; display: flex; align-items: center; justify-content: center; margin-left: -10px;
+  }
+  .cohort-stack span:first-child { margin-left: 0; }
+  .cohort b { display: block; font-family: var(--serif); font-size: 1.7rem; color: #f5f2ea; font-weight: 500; }
+  .cohort p { font-size: 0.78rem; color: #b5b1a4; margin-top: 0.3rem; line-height: 1.4; }
+  .panel-quote {
+    max-width: 660px; margin: 0 auto; text-align: center; padding: 1.9rem 2.1rem; border-radius: 20px;
+    background: linear-gradient(135deg, rgba(181,101,44,0.2), rgba(181,101,44,0.05)); border: 1px solid rgba(181,101,44,0.35);
+  }
+  .panel-quote p { font-family: var(--serif); font-style: italic; font-size: 1.18rem; color: #f5f2ea; line-height: 1.55; }
+  .panel-quote span { display: block; margin-top: 0.9rem; font-size: 0.76rem; color: #b5b1a4; letter-spacing: 0.02em; }
+  @media (max-width: 900px) { .cohort-row { flex-direction: column; } }
+
+  /* ══════════════ APP SHELL / CONSOLE (unchanged dark product UI) ══════════════ */
+  .console-frame {
+    border: 1px solid var(--border-strong); background: var(--bg2); margin-top: 2.5rem; border-radius: var(--radius);
+    box-shadow: 0 40px 70px -30px rgba(0,0,0,0.45); overflow: hidden;
+  }
+  .console-mockup-strip {
+    display: flex; align-items: center; gap: 0.6rem; padding: 0.75rem 1.25rem; margin-top: 1.25rem;
+    background: var(--accent-dim); border: 1px solid var(--accent-border); border-radius: var(--radius-sm);
+    font-size: 0.78rem; letter-spacing: 0.02em; color: var(--text-muted);
+  }
+  .console-mockup-strip strong { color: var(--accent); }
+  .app-shell { display: flex; min-height: 560px; }
+
+  .app-rail {
+    width: 116px; flex-shrink: 0; background: var(--bg); border-right: 1px solid var(--border);
+    display: flex; flex-direction: column; align-items: stretch; padding: 1.1rem 0.6rem; gap: 0.3rem;
+  }
+  .app-rail .rail-logo {
+    width: 30px; height: 30px; border-radius: 50%; background: var(--gold-dim); border: 1px solid var(--gold-border);
+    display: flex; align-items: center; justify-content: center;
+    margin: 0 auto 1rem; overflow: hidden;
+  }
+  .app-rail .rail-logo img { width: 18px; height: 18px; object-fit: contain; }
+  .rail-tab {
+    display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 0.3rem;
+    padding: 0.6rem 0.3rem; border-radius: 9px; cursor: pointer; text-align: center;
+    color: var(--text-muted); border: 1px solid transparent; transition: color 0.15s, background 0.15s, border-color 0.15s;
+  }
+  .rail-tab .glyph { font-size: 1.05rem; line-height: 1; }
+  .rail-tab .rail-label { font-size: 0.64rem; letter-spacing: 0.01em; line-height: 1.2; font-weight: 500; }
+  .rail-tab:hover { color: var(--text-muted); background: var(--bg3); }
+  .app-rail .spacer { flex: 1; }
+  .rail-avatar {
+    width: 30px; height: 30px; border-radius: 50%; background: var(--bg3); border: 1px solid var(--border-strong);
+    color: var(--text-muted); font-size: 0.62rem; font-weight: 500; display: flex; align-items: center; justify-content: center; margin: 0.5rem auto 0;
+  }
+
+  .app-main { flex: 1; min-width: 0; display: flex; flex-direction: column; }
+
+  .app-topbar {
+    display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap;
+    padding: 1rem 1.5rem; border-bottom: 1px solid var(--border); background: var(--bg3);
+  }
+  .app-breadcrumb { font-size: 0.78rem; color: var(--text-dim); }
+  .app-breadcrumb b { color: var(--text-muted); font-weight: 500; }
+  .app-topbar-right { display: flex; align-items: center; gap: 0.6rem; }
+  .app-search {
+    background: var(--bg); border: 1px solid var(--border-strong); color: var(--text-dim);
+    font-size: 0.78rem; padding: 0.45rem 0.8rem; width: 180px; font-family: var(--sans); border-radius: 6px;
+  }
+  .app-search::placeholder { color: var(--text-dim); }
+  .filter-pill {
+    font-size: 0.72rem; color: var(--text-muted); border: 1px solid var(--border-strong); background: var(--bg);
+    padding: 0.45rem 0.8rem; white-space: nowrap; border-radius: 999px;
+  }
+
+  .console-provenance-strip { padding: 0.6rem 1.5rem; font-size: 0.74rem; color: var(--text-dim); border-bottom: 1px solid var(--border); background: var(--bg2); }
+  .console-provenance-strip b { color: var(--text-muted); font-weight: 500; }
+
+  .tab-radio { display: none; }
+  .panel { display: none; padding: 1.6rem 1.75rem; }
+  #ct-signals:checked ~ .app-shell .rail-tab.rail-signals,
+  #ct-perception:checked ~ .app-shell .rail-tab.rail-perception,
+  #ct-access:checked ~ .app-shell .rail-tab.rail-access,
+  #ct-trust:checked ~ .app-shell .rail-tab.rail-trust { color: var(--gold); background: var(--gold-dim); border-color: var(--gold-border); }
+  #ct-signals:checked ~ .app-shell .app-main .panel-signals,
+  #ct-perception:checked ~ .app-shell .app-main .panel-perception,
+  #ct-access:checked ~ .app-shell .app-main .panel-access,
+  #ct-trust:checked ~ .app-shell .app-main .panel-trust { display: block; }
+
+  .panel-question { font-family: var(--serif); font-style: italic; color: var(--text-muted); font-size: 1rem; margin-bottom: 1.25rem; }
+
+  .vira-insight {
+    display: flex; gap: 0.85rem; align-items: flex-start; padding: 1rem 1.15rem; margin-bottom: 1.5rem; border-radius: 10px;
+    background: var(--indigo-dim); border: 1px solid var(--indigo-border);
+  }
+  .vira-avatar {
+    width: 26px; height: 26px; border-radius: 50%; background: rgba(139,147,217,0.18); border: 1px solid var(--indigo-border);
+    color: var(--indigo); font-family: var(--serif); font-style: italic; font-size: 0.85rem; display: flex; align-items: center; justify-content: center; flex-shrink: 0;
+  }
+  .vira-insight .vira-label { font-size: 0.68rem; letter-spacing: 0.08em; text-transform: uppercase; color: var(--indigo); margin-bottom: 0.3rem; }
+  .vira-insight p { font-size: 0.87rem; color: var(--text-muted); line-height: 1.6; }
+  .vira-mini { display: flex; gap: 0.5rem; align-items: flex-start; padding: 0.7rem 0.85rem; margin-top: 0.7rem; background: var(--indigo-dim); border-left: 2px solid var(--indigo-border); border-radius: 6px; }
+  .vira-mini .vira-label { font-size: 0.62rem; }
+  .vira-mini p { font-size: 0.78rem; }
+
+  .kpi-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 1px; background: var(--border); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }
+  .kpi-card { background: var(--bg3); padding: 1.25rem 1.4rem 1rem; position: relative; }
+  .kpi-card.attn { box-shadow: inset 0 0 0 1px rgba(217,164,65,0.5), 0 0 24px -6px rgba(217,164,65,0.35); }
+  .attn-flag { position: absolute; top: 0.9rem; right: 1.1rem; font-size: 0.62rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--amber); }
+  .kpi-top { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0.6rem; gap: 0.5rem; }
+  .kpi-name { font-size: 0.78rem; color: var(--text-muted); line-height: 1.4; }
+  .status-pill { font-size: 0.62rem; letter-spacing: 0.05em; text-transform: uppercase; padding: 0.22rem 0.55rem; border-radius: 3px; white-space: nowrap; flex-shrink: 0; }
+  .status-pill.high { color: var(--up); background: rgba(143,184,119,0.13); }
+  .status-pill.medium { color: var(--amber); background: rgba(217,164,65,0.13); }
+  .kpi-value-row { display: flex; align-items: baseline; gap: 0.6rem; margin-bottom: 0.4rem; }
+  .kpi-value { font-family: var(--serif); font-size: 2.1rem; color: var(--text); }
+  .kpi-delta { font-size: 0.82rem; font-weight: 500; }
+  .kpi-delta.up { color: var(--up); }
+  .kpi-delta.down { color: var(--down); }
+  .kpi-spark { margin: 0.4rem 0 0.6rem; }
+  .kpi-foot { font-size: 0.72rem; color: var(--text-dim); border-top: 1px solid var(--border); padding-top: 0.6rem; line-height: 1.6; }
+
+  .heatmap-wrap { overflow-x: auto; border-radius: 10px; }
+  .heatmap { width: 100%; border-collapse: collapse; font-size: 0.85rem; min-width: 560px; }
+  .heatmap th, .heatmap td { padding: 0.85rem 1rem; text-align: center; border: 1px solid var(--border); }
+  .heatmap th { color: var(--text-dim); font-size: 0.66rem; letter-spacing: 0.08em; text-transform: uppercase; font-weight: 500; background: var(--bg3); }
+  .heatmap td:first-child, .heatmap th:first-child { text-align: left; color: var(--text-muted); font-family: var(--sans); font-size: 0.82rem; background: var(--bg3); }
+  .heatmap td { font-family: var(--serif); font-size: 1.15rem; color: var(--text); }
+  .heatmap td.gap-col { font-family: var(--sans); font-size: 0.85rem; color: var(--text-dim); background: transparent !important; }
+  .heatmap td.gap-col.wide { color: var(--amber); font-weight: 500; }
+  .gap-insight { margin-top: 1.5rem; padding: 1rem 1.25rem; background: var(--gold-dim); border-left: 1px solid var(--gold-border); font-size: 0.88rem; color: var(--text-muted); border-radius: 8px; }
+  .gap-insight strong { color: var(--gold); }
+
+  .fake-pagination { display: flex; align-items: center; justify-content: space-between; margin-top: 1rem; font-size: 0.74rem; color: var(--text-dim); }
+  .fake-pagination .pg-btn { border: 1px solid var(--border-strong); color: var(--text-dim); padding: 0.3rem 0.65rem; opacity: 0.45; border-radius: 6px; }
+
+  .stat-row { display: flex; gap: 1.25rem; flex-wrap: wrap; margin-top: 1rem; font-size: 0.76rem; color: var(--text-dim); }
+  .stat-row span b { color: var(--text-muted); font-weight: 500; }
+
+  .access-layout { display: grid; grid-template-columns: 1.3fr 1fr; gap: 2rem; align-items: start; }
+  .access-chart-wrap { background: var(--bg3); border: 1px solid var(--border); padding: 1.25rem; border-radius: 10px; }
+  .access-badges { display: flex; flex-direction: column; gap: 1px; background: var(--border); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }
+  .access-badge-row { background: var(--bg3); padding: 1rem 1.25rem; display: flex; justify-content: space-between; align-items: center; }
+  .access-badge-row .m-label { font-size: 0.82rem; color: var(--text-muted); }
+  .access-badge-row .m-val { font-size: 0.7rem; letter-spacing: 0.08em; text-transform: uppercase; padding: 0.3rem 0.7rem; border: 1px solid var(--border-strong); border-radius: 999px; }
+  .access-badge-row .m-val.high { color: var(--down); border-color: rgba(193,125,104,0.35); }
+  .access-badge-row .m-val.medhigh { color: var(--amber); border-color: rgba(217,164,65,0.35); }
+  .access-formula { margin-top: 1.5rem; text-align: center; font-family: var(--serif); font-style: italic; font-size: 1.2rem; color: var(--gold); }
+
+  .trust-layout { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; align-items: center; }
+  .trust-chart-wrap { background: var(--bg3); border: 1px solid var(--border); padding: 1.25rem; display: flex; justify-content: center; border-radius: 10px; }
+  .trust-legend { display: flex; flex-direction: column; gap: 1rem; }
+  .trust-legend-item { display: flex; gap: 0.75rem; align-items: flex-start; font-size: 0.85rem; }
+  .trust-swatch { width: 10px; height: 10px; border-radius: 2px; margin-top: 0.35rem; flex-shrink: 0; }
+  .trust-legend-item p { color: var(--text-dim); font-size: 0.8rem; margin-top: 0.15rem; }
+
+  .panel-source { margin-top: 1.5rem; font-size: 0.72rem; color: var(--text-dim); border-top: 1px solid var(--border); padding-top: 1rem; }
+
+  /* ── ILLUSTRATIVE SCENARIO — "Proven Outcomes" card pattern ── */
+  .scenario-tag {
+    display: inline-flex; font-size: 0.68rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent);
+    border: 1px solid var(--accent-border); background: var(--accent-dim); border-radius: 999px; padding: 0.4rem 0.9rem; margin-bottom: 1.5rem;
+  }
+  .outcome-card {
+    background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius);
+    padding: 2.25rem 2rem; margin-top: 1.5rem; box-shadow: 0 20px 44px -28px rgba(20,18,10,0.2);
+  }
+  .outcome-card .eyebrow { font-size: 0.85rem; color: var(--text-dim); margin-bottom: 0.9rem; display: flex; align-items: center; gap: 0.5rem; }
+  .outcome-card .eyebrow::before { content: '|'; color: var(--accent); font-weight: 700; }
+  .outcome-card h3 { font-size: 1.5rem; margin-bottom: 0.75rem; }
+  .outcome-card .lead { margin-bottom: 1.5rem; }
+  .outcome-stat-row { display: flex; gap: 2.5rem; flex-wrap: wrap; margin-bottom: 0.5rem; }
+  .outcome-stat b { display: block; font-family: var(--sans); font-weight: 800; font-size: 2.4rem; color: var(--text); letter-spacing: -0.02em; }
+  .outcome-stat span { font-size: 0.85rem; color: var(--text-muted); }
+  .scenario-note { margin-top: 1.25rem; font-size: 0.76rem; color: var(--text-dim); }
+
+  /* ── HOW IT'S BUILT — thin-line pipeline diagram (Air.ai schematic pattern) ── */
+  .pipeline { position: relative; display: flex; justify-content: space-between; align-items: flex-start; margin-top: 3.5rem; padding: 0 1rem; }
+  .pipeline::before { content: ''; position: absolute; top: 26px; left: 5%; right: 5%; height: 1px; background: var(--border-strong); z-index: 0; }
+  .pipeline-node { position: relative; z-index: 1; display: flex; flex-direction: column; align-items: center; text-align: center; width: 30%; }
+  .pipeline-node .node-circle {
+    width: 52px; height: 52px; border-radius: 50%; background: var(--bg-card); border: 1.5px solid var(--accent-border);
+    color: var(--accent); display: flex; align-items: center; justify-content: center; font-size: 1.3rem; margin-bottom: 1.1rem;
+  }
+  .pipeline-node .tag { font-size: 0.66rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent); margin-bottom: 0.5rem; font-weight: 600; }
+  .pipeline-node h3 { font-size: 1rem; margin-bottom: 0.5rem; }
+  .pipeline-node p { color: var(--text-muted); font-size: 0.85rem; line-height: 1.6; max-width: 22ch; }
+
+  /* ── FORM ── */
+  .form-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: var(--radius); padding: 2rem; margin-top: 2rem; box-shadow: 0 24px 50px -30px rgba(20,18,10,0.2); }
+  .contact-form { display: flex; flex-direction: column; gap: 1px; background: var(--border); border: 1px solid var(--border); border-radius: var(--radius-sm); overflow: hidden; margin-bottom: 0; }
+  .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1px; background: var(--border); }
+  .form-field { background: var(--bg-card); padding: 0.1rem 0; position: relative; }
+  .form-field label { display: block; font-size: 0.68rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text-dim); padding: 0.85rem 1.25rem 0; }
+  .form-field input, .form-field textarea, .form-field select {
+    width: 100%; background: transparent; border: none; outline: none; color: var(--text);
+    font-family: var(--sans); font-size: 0.9rem; font-weight: 400; padding: 0.35rem 1.25rem 0.85rem; resize: none;
+  }
+  .form-field textarea { min-height: 70px; }
+  .form-field.radio-field { padding: 0.85rem 1.25rem; }
+  .form-field .radio-group { display: flex; gap: 1.5rem; margin-top: 0.5rem; flex-wrap: wrap; }
+  .form-field .radio-group label { display: flex; align-items: center; gap: 0.4rem; font-size: 0.85rem; color: var(--text); text-transform: none; letter-spacing: normal; padding: 0; font-family: var(--sans); font-weight: 400; }
+  .form-field .radio-group input { width: auto; padding: 0; }
+  .form-submit { background: var(--bg-card); padding: 1.4rem; display: flex; justify-content: center; }
+  .form-note { font-size: 0.78rem; color: var(--text-dim); text-align: center; margin-top: 1rem; }
+
+  footer { background: var(--bg); border-top: 1px solid var(--border); padding: 2.5rem 1.5rem; display: flex; align-items: center; justify-content: center; gap: 2rem; flex-wrap: wrap; max-width: 1180px; margin: 0 auto; }
+  .footer-brand { display: flex; align-items: center; gap: 0.6rem; color: var(--text-dim); font-size: 0.8rem; }
+  .footer-copy { font-size: 0.75rem; color: var(--text-dim); }
+  .footer-links { display: flex; gap: 2rem; list-style: none; flex-wrap: wrap; }
+  .footer-links a { font-size: 0.75rem; color: var(--text-dim); text-decoration: none; letter-spacing: 0.08em; transition: color 0.2s; }
+  .footer-links a:hover { color: var(--text-muted); }
+
+  @media (max-width: 900px) {
+    section { padding: 4rem 1.25rem; }
+    .audience-grid, .pillars-grid, .layers { grid-template-columns: 1fr; }
+    .form-row { grid-template-columns: 1fr; }
+    .access-layout, .trust-layout { grid-template-columns: 1fr; }
+    .app-shell { flex-direction: column; }
+    .app-rail { width: 100%; flex-direction: row; padding: 0.6rem; justify-content: center; flex-wrap: wrap; gap: 0.4rem; }
+    .app-rail .rail-logo { margin: 0 0.5rem 0 0; }
+    .rail-tab { flex-direction: row; padding: 0.5rem 0.75rem; }
+    .app-rail .spacer { display: none; }
+    .app-topbar { flex-direction: column; align-items: flex-start; }
+    .pipeline { flex-direction: column; gap: 2.5rem; }
+    .pipeline::before { display: none; }
+    .pipeline-node { width: 100%; }
+    .outcome-stat-row { gap: 1.5rem; }
+    footer { flex-direction: column; text-align: center; }
+  }
+</style>
+</head>
+<body>
+
+<div class="nav-wrap">
+<nav>
+  <a href="/" class="nav-logo">
+    <img src="https://bohundefence.com/logo_gold.png" alt="Bohun Defence Advisory">
+    <span class="nav-logo-text">Bohun Defence Advisory</span>
+  </a>
+  <a href="#feedback" class="nav-cta">Share feedback</a>
+</nav>
+</div>
+
+<main>
+
+<section id="hero">
+  <div class="container-narrow">
+    <p class="hero-eyebrow">Defence Tech Barometer</p>
+    <h1>The market moves<br><em>after the signal.</em></h1>
+    <p class="hero-support">The right people see it first. Decision intelligence for defence markets — proprietary signals from verified market participants, combined with structured research and external market data.</p>
+    <p class="proto-tag">🔒 Concept mockup — internal review only, not a live product</p>
+    <div>
+      <a href="#video" class="btn-primary">Watch the 90-second overview ↓</a>
+    </div>
+    <div class="confidential-banner">
+      <span class="icon">🔒</span>
+      <span><strong>You're one of a small number of people seeing this.</strong> This is a design mockup built to test an idea internally — not a working product, beta, or public page. The console below uses illustrative numbers to show what the product could look like. Please don't forward this link without checking with Serhii first.</span>
+    </div>
+  </div>
+</section>
+
+<section id="video">
+  <div class="container-narrow">
+    <p class="section-label">The Idea</p>
+    <div class="video-wrap">
+      <!-- Replace this block with <video controls poster="/barometer/poster.jpg"><source src="/barometer/overview.mp4" type="video/mp4"></video> once the edit is ready -->
+      <div class="video-placeholder">
+        <div class="play">▶</div>
+        Video going up here after today's recording — 90 seconds on why we're building this.
+      </div>
+    </div>
+    <p class="video-caption">90 seconds on why we're building this.</p>
+  </div>
+</section>
+
+<div class="manifesto" id="manifesto">
+  <div class="manifesto-sticky">
+    <canvas id="signalCanvas"></canvas>
+    <div class="container-narrow">
+      <p id="manifestoText">When public data already shows what happened, the market has already moved. Defence Tech Barometer is built to catch the signal before that — from the people who saw it first.</p>
+    </div>
+  </div>
+</div>
+
+<section id="audience">
+  <div class="container">
+    <p class="section-label">Built For Teams Like Yours</p>
+    <h2>One console, <em>four ways</em> to use it</h2>
+    <div class="audience-grid">
+      <div class="card" style="--chip-bg:rgba(181,101,44,0.1); --chip-color:#b5652c;">
+        <div class="card-head"><div class="card-icon">◈</div><p class="tag">Investment Analysts</p></div>
+        <h3>See the gap before the pitch deck does</h3>
+        <p>Compare how manufacturers and investors read the same opportunity — before it's a slide in someone's deck.</p>
+      </div>
+      <div class="card" style="--chip-bg:rgba(79,125,58,0.1); --chip-color:#4f7d3a;">
+        <div class="card-head"><div class="card-icon">◐</div><p class="tag">Asset Managers / КУА</p></div>
+        <h3>Screen exposure your data feed can't see</h3>
+        <p>Signals from verified people inside the market, not another public dataset your terminal already has.</p>
+      </div>
+      <div class="card" style="--chip-bg:rgba(122,147,179,0.12); --chip-color:#5b7896;">
+        <div class="card-head"><div class="card-icon">▦</div><p class="tag">Banks</p></div>
+        <h3>Check accessibility before you underwrite</h3>
+        <p>A large procurement budget isn't the same as a bankable, accessible market — see the difference first.</p>
+      </div>
+      <div class="card" style="--chip-bg:rgba(139,93,217,0.1); --chip-color:#7a5bc4;">
+        <div class="card-head"><div class="card-icon">✦</div><p class="tag">Startup / VC Ecosystem</p></div>
+        <h3>Know where sentiment splits</h3>
+        <p>See where investor confidence and manufacturer confidence diverge on the same technology.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="intelligence">
+  <div class="container">
+    <p class="section-label">The Difference</p>
+    <h2>Intelligence that does not <em>start with the internet</em></h2>
+    <p class="lead">Most market-intelligence tools begin with information that already exists — company data, transactions, procurement announcements, filings, news. Trust as Capital starts one layer earlier: with people inside the market.</p>
+    <div class="pillars-grid">
+      <div class="card" style="--chip-bg:rgba(181,101,44,0.1); --chip-color:#b5652c;">
+        <div class="card-head"><div class="card-icon">✓</div></div>
+        <h3>Verified, not scraped</h3>
+        <p>Deep interviews and a continuously verified expert network surface what a scraper never sees.</p>
+      </div>
+      <div class="card" style="--chip-bg:rgba(122,147,179,0.12); --chip-color:#5b7896;">
+        <div class="card-head"><div class="card-icon">⌁</div></div>
+        <h3>Connected, not isolated</h3>
+        <p>AI links signals, perception gaps and market access into one picture — from what changed to why it matters.</p>
+      </div>
+      <div class="card" style="--chip-bg:rgba(79,125,58,0.1); --chip-color:#4f7d3a;">
+        <div class="card-head"><div class="card-icon">🔒</div></div>
+        <h3>Confidential by design</h3>
+        <p>Identity is checked at the door. Individual answers never are. Verified people, confidential signals.</p>
+      </div>
+      <div class="card" style="--chip-bg:rgba(139,93,217,0.1); --chip-color:#7a5bc4;">
+        <div class="card-head"><div class="card-icon">◎</div></div>
+        <h3>Evidence-linked, not a black box</h3>
+        <p>Every number in the console traces back to a respondent count, a research wave, and a date.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="panel" style="background:var(--bg-black); padding-top:4.5rem; padding-bottom:4.5rem;">
+  <div class="container-wide">
+    <p class="section-label" style="color:#c9a84c;">The Panel · Illustrative</p>
+    <h2 style="color:#f0ede6;">Signal comes from <em style="color:#c9a84c; font-family:var(--serif); font-style:italic;">people</em>, not another dataset</h2>
+    <p class="lead" style="color:#a8a498;">A mock-up composition, modeled on the Trust as Capital research design — not real respondent data.</p>
+    <div class="cohort-row">
+      <div class="cohort"><div class="cohort-stack"><span>UM</span><span>UM</span><span>UM</span></div><b>13</b><p>UA manufacturers</p></div>
+      <div class="cohort"><div class="cohort-stack"><span>II</span><span>II</span><span>II</span></div><b>11</b><p>International investors</p></div>
+      <div class="cohort"><div class="cohort-stack"><span>FP</span><span>FP</span><span>FP</span></div><b>11</b><p>Foreign industrial partners</p></div>
+      <div class="cohort"><div class="cohort-stack"><span>EE</span><span>EE</span><span>EE</span></div><b>10</b><p>Ecosystem experts</p></div>
+    </div>
+    <div class="panel-quote">
+      <p>"The clearest signal isn't in the procurement data — it's in what manufacturers and investors each believe, before it becomes a headline."</p>
+      <span>Illustrative framing, modeled on the Trust as Capital research design · not an actual respondent quote</span>
+    </div>
+  </div>
+</section>
+
+<section id="signals">
+  <div class="container-wide">
+    <p class="section-label">The Console</p>
+    <h2>What the product <em>could show</em></h2>
+    <p class="lead">A working mock-up of the analyst console — built as if a first panel of 45 verified respondents had already reported in.</p>
+    <div class="console-mockup-strip">🔒 <span><strong>Mock-up data.</strong> For internal concept validation only — not a live feed.</span></div>
+
+    <div class="console-frame">
+      <input type="radio" id="ct-signals" name="console-tab" class="tab-radio" checked>
+      <input type="radio" id="ct-perception" name="console-tab" class="tab-radio">
+      <input type="radio" id="ct-access" name="console-tab" class="tab-radio">
+      <input type="radio" id="ct-trust" name="console-tab" class="tab-radio">
+
+      <div class="app-shell">
+        <div class="app-rail">
+          <div class="rail-logo"><img src="https://bohundefence.com/logo_gold.png" alt="Bohun Defence"></div>
+          <label class="rail-tab rail-signals" for="ct-signals" title="Defence Signals"><span class="glyph">◈</span><span class="rail-label">Signals</span></label>
+          <label class="rail-tab rail-perception" for="ct-perception" title="Perception Gap"><span class="glyph">◐</span><span class="rail-label">Perception&nbsp;Gap</span></label>
+          <label class="rail-tab rail-access" for="ct-access" title="Market Accessibility"><span class="glyph">▦</span><span class="rail-label">Accessibility</span></label>
+          <label class="rail-tab rail-trust" for="ct-trust" title="Trust Composition"><span class="glyph">✦</span><span class="rail-label">Trust</span></label>
+          <div class="spacer"></div>
+          <div class="rail-avatar" title="Serhii Nabok">SN</div>
+        </div>
+
+        <div class="app-main">
+          <div class="app-topbar">
+            <div class="app-breadcrumb">Defence Tech Barometer / <b>Console</b></div>
+            <div class="app-topbar-right">
+              <input class="app-search" type="text" placeholder="Search themes, signals…" disabled>
+              <span class="filter-pill">Wave 01 · Last 30 days ▾</span>
+            </div>
+          </div>
+          <div class="console-provenance-strip"><b>n = 45</b> verified respondents · 13 UA manufacturers · 11 international investors · 11 foreign industrial partners · 10 ecosystem experts</div>
+
+          <div class="panel panel-signals">
+            <p class="panel-question">Answers: what's actually moving right now?</p>
+
+            <div class="vira-insight">
+              <div class="vira-avatar">V</div>
+              <div>
+                <p class="vira-label">Vira · AI research assistant</p>
+                <p>FPV fibre-optic adoption and counter-UAS physical protection demand are accelerating together this cycle — worth watching if you cover manufacturers serving both categories.</p>
+              </div>
+            </div>
+
+            <div class="kpi-grid">
+              <div class="kpi-card">
+                <div class="kpi-top"><span class="kpi-name">FPV fibre-optic adoption</span><span class="status-pill high">High confidence</span></div>
+                <div class="kpi-value-row"><span class="kpi-value">78</span><span class="kpi-delta up">↑ 9</span></div>
+                <div class="kpi-spark"><canvas id="spark1" width="150" height="34"></canvas></div>
+                <div class="kpi-foot">Adoption among frontline units accelerated again this cycle — signals durable demand, not a spike.</div>
+              </div>
+              <div class="kpi-card">
+                <div class="kpi-top"><span class="kpi-name">Counter-UAS physical protection demand</span><span class="status-pill high">High confidence</span></div>
+                <div class="kpi-value-row"><span class="kpi-value">72</span><span class="kpi-delta up">↑ 6</span></div>
+                <div class="kpi-spark"><canvas id="spark2" width="150" height="34"></canvas></div>
+                <div class="kpi-foot">Requested faster than formal procurement cycles can absorb — near-term supplier opportunity.</div>
+              </div>
+              <div class="kpi-card attn">
+                <span class="attn-flag">▲ Needs attention</span>
+                <div class="kpi-top"><span class="kpi-name">Autonomous terminal guidance interest</span><span class="status-pill medium">Medium confidence</span></div>
+                <div class="kpi-value-row"><span class="kpi-value">61</span><span class="kpi-delta up">↑ 11</span></div>
+                <div class="kpi-spark"><canvas id="spark3" width="150" height="34"></canvas></div>
+                <div class="vira-mini">
+                  <div class="vira-avatar" style="width:20px;height:20px;font-size:0.7rem;">V</div>
+                  <div><p class="vira-label">Vira</p><p>Fastest-moving signal this cycle, from a smaller base — flagged for the next wave, not for acting on alone.</p></div>
+                </div>
+              </div>
+              <div class="kpi-card">
+                <div class="kpi-top"><span class="kpi-name">Foreign supplier market accessibility</span><span class="status-pill medium">Medium confidence</span></div>
+                <div class="kpi-value-row"><span class="kpi-value">43</span><span class="kpi-delta down">↓ 4</span></div>
+                <div class="kpi-spark"><canvas id="spark4" width="150" height="34"></canvas></div>
+                <div class="kpi-foot">Perceived friction for new foreign entrants ticked up slightly — relevant to entry timing.</div>
+              </div>
+              <div class="kpi-card">
+                <div class="kpi-top"><span class="kpi-name">Selected electronic components availability</span><span class="status-pill medium">Medium confidence</span></div>
+                <div class="kpi-value-row"><span class="kpi-value">57</span><span class="kpi-delta down">↓ 7</span></div>
+                <div class="kpi-spark"><canvas id="spark5" width="150" height="34"></canvas></div>
+                <div class="kpi-foot">Tightening flagged by manufacturers on specific component classes — a leading bottleneck indicator.</div>
+              </div>
+            </div>
+            <div class="fake-pagination"><span>Showing 5 of 45 tracked signals</span><span><span class="pg-btn">‹</span> <span class="pg-btn">›</span></span></div>
+            <p class="panel-source">Mock-up data, illustrative only · 30-day window · High/medium confidence reflects respondent coverage, not statistical significance.</p>
+          </div>
+
+          <div class="panel panel-perception">
+            <p class="panel-question">Answers: where do market participants disagree about the same thing?</p>
+            <div class="heatmap-wrap">
+              <table class="heatmap">
+                <thead>
+                  <tr><th>Dimension · Autonomous logistics</th><th>Manufacturers</th><th>Investors</th><th>End users</th><th class="gap-col">Gap</th></tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Expected demand</td>
+                    <td style="background:rgba(201,168,76,0.42)">82</td>
+                    <td style="background:rgba(201,168,76,0.22)">58</td>
+                    <td style="background:rgba(201,168,76,0.38)">76</td>
+                    <td class="gap-col">24</td>
+                  </tr>
+                  <tr>
+                    <td>Technology readiness</td>
+                    <td style="background:rgba(201,168,76,0.36)">75</td>
+                    <td style="background:rgba(201,168,76,0.14)">49</td>
+                    <td style="background:rgba(201,168,76,0.28)">63</td>
+                    <td class="gap-col wide">26</td>
+                  </tr>
+                  <tr>
+                    <td>Procurement readiness</td>
+                    <td style="background:rgba(201,168,76,0.16)">46</td>
+                    <td style="background:rgba(201,168,76,0.20)">54</td>
+                    <td style="background:rgba(201,168,76,0.10)">39</td>
+                    <td class="gap-col">15</td>
+                  </tr>
+                  <tr>
+                    <td>Investment attractiveness</td>
+                    <td style="background:rgba(201,168,76,0.35)">74</td>
+                    <td style="background:rgba(201,168,76,0.24)">61</td>
+                    <td style="background:transparent">—</td>
+                    <td class="gap-col">13</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="gap-insight"><strong>Perception gap detected:</strong> manufacturers believe commercial and technical readiness are significantly higher than investors do — the largest gap is in technology readiness, not demand.</div>
+            <div class="vira-insight" style="margin-top:1.25rem;margin-bottom:0;">
+              <div class="vira-avatar">V</div>
+              <div>
+                <p class="vira-label">Vira · AI research assistant</p>
+                <p>This is the widest gap tracked across any theme this wave — worth a follow-up question in the next research pass.</p>
+              </div>
+            </div>
+            <div class="fake-pagination"><span>Showing 1 of 6 tracked themes</span><span><span class="pg-btn">‹</span> <span class="pg-btn">›</span></span></div>
+            <p class="panel-source">Mock-up data, illustrative only · example theme shown, not a comprehensive sector view.</p>
+          </div>
+
+          <div class="panel panel-access">
+            <p class="panel-question">Answers: is this market actually accessible, not just large?</p>
+            <p style="font-size:0.82rem;color:var(--text-dim);margin-bottom:1.25rem;">Example: Counter-UAS · Country X</p>
+            <div class="access-layout">
+              <div class="access-chart-wrap">
+                <canvas id="accessChart" width="420" height="260"></canvas>
+              </div>
+              <div class="access-badges">
+                <div class="access-badge-row"><span class="m-label">Local partnership requirement</span><span class="m-val high">High</span></div>
+                <div class="access-badge-row"><span class="m-label">Regulatory friction</span><span class="m-val medhigh">Med–High</span></div>
+              </div>
+            </div>
+            <p class="access-formula">Large market ≠ accessible market.</p>
+            <div class="stat-row">
+              <span>🎯 <b>Counter-UAS</b> segment</span>
+              <span>🌍 <b>Country X</b></span>
+              <span>📅 Updated <b>6 days ago</b></span>
+            </div>
+            <p class="panel-source">Mock-up data, illustrative only · one example market shown for demonstration.</p>
+          </div>
+
+          <div class="panel panel-trust">
+            <p class="panel-question">Answers: which dimension of trust is actually the bottleneck?</p>
+            <div class="trust-layout">
+              <div class="trust-chart-wrap">
+                <canvas id="trustChart" width="360" height="320"></canvas>
+              </div>
+              <div class="trust-legend">
+                <div class="trust-legend-item">
+                  <span class="trust-swatch" style="background:var(--gold)"></span>
+                  <div><strong>Ukrainian manufacturers</strong> (self-assessed)<p>Rate themselves highest on competence and integrity — lowest on procedural and institutional trust.</p></div>
+                </div>
+                <div class="trust-legend-item">
+                  <span class="trust-swatch" style="background:var(--blue)"></span>
+                  <div><strong>International investors</strong> (view of the UA sector)<p>See a similar shape, but consistently lower — procedural and institutional trust remain the widest gap.</p></div>
+                </div>
+              </div>
+            </div>
+            <div class="stat-row">
+              <span>👥 <b>45</b> respondents</span>
+              <span>🔬 Wave <b>01</b></span>
+              <span>📅 Updated <b>6 days ago</b></span>
+            </div>
+            <p class="panel-source">Based on the six-dimension trust model from the Trust as Capital research design (competence, integrity, procedural, institutional, network, calculative). Mock-up scores, illustrative only.</p>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="scenario">
+  <div class="container-narrow">
+    <p class="section-label">In Practice</p>
+    <p class="scenario-tag">⚠ Illustrative scenario — not a real case, no user has used this product yet</p>
+    <h2>How this could <em>play out</em></h2>
+    <div class="outcome-card">
+      <p class="eyebrow">Illustrative · European Market Entry</p>
+      <h3>An investor almost missed a 26-point gap</h3>
+      <p class="lead">An investor is deciding whether to back a Ukrainian manufacturer's expansion into a European market. The console shows manufacturers rating technology readiness far higher than investors do — the widest perception gap tracked this wave.</p>
+      <div class="outcome-stat-row">
+        <div class="outcome-stat"><b>26 pts</b><span>Perception gap (illustrative)</span></div>
+        <div class="outcome-stat"><b>Before</b><span>term sheet, not after</span></div>
+      </div>
+      <p style="color:var(--text-muted);font-size:0.92rem;">What it could change: the investor asks for independent technical validation before the term sheet, instead of discovering the gap after.</p>
+    </div>
+    <p class="scenario-note">This is a hypothetical walkthrough to illustrate the intended use, built from the mock-up data above — not a testimonial, and not something that has actually happened.</p>
+  </div>
+</section>
+
+<section id="built">
+  <div class="container">
+    <p class="section-label">How It Updates</p>
+    <h2>How the intelligence <em>is built</em></h2>
+    <div class="pipeline">
+      <div class="pipeline-node">
+        <div class="node-circle">A</div>
+        <p class="tag">2–4× / year</p>
+        <h3>Deep Research Waves</h3>
+        <p>Structured interviews. Updates the framework itself — new hypotheses, new questions, new context.</p>
+      </div>
+      <div class="pipeline-node">
+        <div class="node-circle">B</div>
+        <p class="tag">Monthly</p>
+        <h3>Monthly Pulse</h3>
+        <p>Short questions to verified participants, scoped to their own area of expertise.</p>
+      </div>
+      <div class="pipeline-node">
+        <div class="node-circle">C</div>
+        <p class="tag">1–3× / week</p>
+        <h3>Fast Signals</h3>
+        <p>Narrow, fast-moving questions — supply chain, components, demand shifts, emerging practices.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="feedback">
+  <div class="container-narrow">
+    <p class="section-label">Validation</p>
+    <h2>Would this help you <em>make better decisions?</em></h2>
+    <div class="confidential-banner" style="margin-top:0;">
+      <span class="icon">🔒</span>
+      <span><strong>Before you continue:</strong> this page is a concept mock-up for internal validation, not a beta or a live product — the console above uses illustrative numbers, not a real feed. Please treat it as confidential and don't forward it outside your organisation.</span>
+    </div>
+    <p class="lead" style="margin-top:1.75rem;">We're validating this with a small group of investors, manufacturers and market strategists. Twelve short questions — about 5 minutes.</p>
+
+    <div class="form-card">
+    <form class="contact-form" action="https://formspree.io/f/xbdwvgqp" method="POST">
+      <input type="hidden" name="_subject" value="Barometer validation feedback">
+
+      <div class="form-field">
+        <label for="name">Name and organisation</label>
+        <input type="text" id="name" name="name" placeholder="Name, organisation" required>
+      </div>
+      <div class="form-field">
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" placeholder="you@company.com" required>
+      </div>
+
+      <div class="form-field">
+        <label for="q1">1. What concrete decision could this help you make?</label>
+        <textarea id="q1" name="q1_decision"></textarea>
+      </div>
+      <div class="form-field">
+        <label for="q2">2. At what stage of your investment / partnership / market process would you use it?</label>
+        <textarea id="q2" name="q2_stage"></textarea>
+      </div>
+      <div class="form-field">
+        <label for="q3">3. Which dashboard or output would be most valuable to you?</label>
+        <input type="text" id="q3" name="q3_dashboard">
+      </div>
+      <div class="form-field">
+        <label for="q4">4. What would need to be true for you to trust the data enough to act on it?</label>
+        <textarea id="q4" name="q4_trust"></textarea>
+      </div>
+      <div class="form-field">
+        <label for="q5">5. What is missing from this mock-up?</label>
+        <textarea id="q5" name="q5_missing"></textarea>
+      </div>
+      <div class="form-field">
+        <label for="q6">6. What do you use today instead?</label>
+        <input type="text" id="q6" name="q6_substitute">
+      </div>
+      <div class="form-field">
+        <label for="q7">7. Who inside your organisation would own the buying decision?</label>
+        <input type="text" id="q7" name="q7_owner">
+      </div>
+      <div class="form-field">
+        <label for="q8">8. How frequently would this need to update to remain useful?</label>
+        <input type="text" id="q8" name="q8_frequency">
+      </div>
+
+      <div class="form-field radio-field">
+        <label>9. Would you pay for a product like this?</label>
+        <div class="radio-group">
+          <label><input type="radio" name="q9_pay" value="Yes" required> Yes</label>
+          <label><input type="radio" name="q9_pay" value="No"> No</label>
+          <label><input type="radio" name="q9_pay" value="Maybe"> Maybe</label>
+        </div>
+      </div>
+
+      <div class="form-field">
+        <label for="q10">10. How would €500/month, €1,000/month, or an annual €6k–€12k subscription feel relative to the value?</label>
+        <textarea id="q10" name="q10_pricing"></textarea>
+      </div>
+
+      <div class="form-field radio-field">
+        <label>11. Would you be willing to test an MVP?</label>
+        <div class="radio-group">
+          <label><input type="radio" name="q11_mvp" value="Yes" required> Yes</label>
+          <label><input type="radio" name="q11_mvp" value="No"> No</label>
+        </div>
+      </div>
+
+      <div class="form-field radio-field">
+        <label>12. Can we use your feedback?</label>
+        <div class="radio-group">
+          <label><input type="radio" name="q12_attribution" value="With my name" required> With my name</label>
+          <label><input type="radio" name="q12_attribution" value="Anonymous"> Anonymous</label>
+          <label><input type="radio" name="q12_attribution" value="Internal only"> Internal only</label>
+        </div>
+      </div>
+
+      <div class="form-submit">
+        <button type="submit" class="btn-primary">Share your feedback</button>
+      </div>
+    </form>
+    </div>
+    <p class="form-note">Your answers are used only to validate this mock-up and won't be shared outside the project team.</p>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="footer-brand">
+    <img src="https://bohundefence.com/logo_gold.png" alt="" style="width:20px;height:20px;object-fit:contain;opacity:0.5;">
+    Bohun Defence Advisory
+  </div>
+  <div class="footer-copy">© 2026 Bohun Defence Advisory. All rights reserved.</div>
+  <ul class="footer-links">
+    <li><a href="/">Home</a></li>
+    <li><a href="https://www.linkedin.com/in/serhii-nabok-39046435/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a></li>
+  </ul>
+</footer>
+
+<script>
+// Scroll-reveal effect for the black manifesto interlude (Air.ai-style progressive text reveal)
+(function () {
+  const p = document.getElementById('manifestoText');
+  const wrap = document.getElementById('manifesto');
+  if (!p || !wrap) return;
+  const words = p.textContent.trim().split(/\s+/);
+  p.innerHTML = words.map(function (w) { return '<span class="w">' + w + '</span>'; }).join(' ');
+  const spans = p.querySelectorAll('.w');
+
+  function update() {
+    const rect = wrap.getBoundingClientRect();
+    const total = wrap.offsetHeight - window.innerHeight;
+    if (total <= 0) return;
+    let progress = (-rect.top) / total;
+    progress = Math.max(0, Math.min(1, progress));
+    const n = spans.length;
+    spans.forEach(function (s, i) {
+      s.style.opacity = (progress * n > i) ? '1' : '0.22';
+    });
+  }
+  window.addEventListener('scroll', update, { passive: true });
+  window.addEventListener('resize', update);
+  update();
+})();
+
+// Dot-matrix signal-cloud animation behind the manifesto text (SARA/Dribbble hero-graphic pattern,
+// reapplied here as an ambient "signal wave" — thematically it's literally what the copy is about).
+(function () {
+  const canvas = document.getElementById('signalCanvas');
+  if (!canvas) return;
+  const ctx = canvas.getContext('2d');
+  const sticky = canvas.parentElement;
+  let w, h, cols, rows, spacing = 26, dots = [];
+
+  function resize() {
+    w = canvas.width = sticky.offsetWidth;
+    h = canvas.height = sticky.offsetHeight;
+    cols = Math.ceil(w / spacing) + 2;
+    rows = Math.ceil(h / spacing) + 2;
+    dots = [];
+    for (let i = 0; i < cols; i++) {
+      for (let j = 0; j < rows; j++) {
+        dots.push({ x: i * spacing, y: j * spacing, i: i, j: j });
+      }
+    }
+  }
+
+  let t = 0;
+  function draw() {
+    ctx.clearRect(0, 0, w, h);
+    const cx = cols / 2, cy = rows / 2;
+    for (const d of dots) {
+      const dx = (d.i - cx) / cols, dy = (d.j - cy) / rows;
+      const dist = Math.sqrt(dx * dx + dy * dy);
+      const wave = Math.sin(dist * 9 - t) * Math.exp(-dist * 1.6);
+      const r = 1.1 + Math.max(0, wave) * 1.9;
+      const alpha = 0.12 + Math.max(0, wave) * 0.55;
+      if (r <= 0.2) continue;
+      ctx.beginPath();
+      ctx.fillStyle = 'rgba(240,237,230,' + alpha.toFixed(3) + ')';
+      ctx.arc(d.x, d.y, r, 0, Math.PI * 2);
+      ctx.fill();
+    }
+    t += 0.012;
+    requestAnimationFrame(draw);
+  }
+
+  resize();
+  window.addEventListener('resize', resize);
+  draw();
+})();
+
+Chart.defaults.font.family = "'DM Sans', system-ui, sans-serif";
+Chart.defaults.color = '#55524a';
+
+function sparkline(id, data, color) {
+  const ctx = document.getElementById(id);
+  if (!ctx) return;
+  new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: data.map((_, i) => i),
+      datasets: [{
+        data: data,
+        borderColor: color,
+        borderWidth: 1.75,
+        pointRadius: 0,
+        tension: 0.35,
+        fill: true,
+        backgroundColor: color.replace('1)', '0.08)').replace('rgb', 'rgba')
+      }]
+    },
+    options: {
+      responsive: false,
+      maintainAspectRatio: false,
+      animation: false,
+      plugins: { legend: { display: false }, tooltip: { enabled: false } },
+      scales: { x: { display: false }, y: { display: false } },
+      elements: { line: { borderJoinStyle: 'round' } }
+    }
+  });
+}
+
+sparkline('spark1', [69,71,73,75,77,78], 'rgb(156,122,31)');
+sparkline('spark2', [66,67,69,70,71,72], 'rgb(156,122,31)');
+sparkline('spark3', [50,53,55,57,59,61], 'rgb(156,122,31)');
+sparkline('spark4', [47,46,46,45,44,43], 'rgb(161,76,56)');
+sparkline('spark5', [64,62,61,59,58,57], 'rgb(161,76,56)');
+
+const accessCtx = document.getElementById('accessChart');
+if (accessCtx) {
+  new Chart(accessCtx, {
+    type: 'bar',
+    data: {
+      labels: ['Demand', 'Available budget', 'New entrant accessibility', 'Procurement transparency'],
+      datasets: [{
+        data: [87, 79, 41, 52],
+        backgroundColor: ['rgba(201,168,76,0.75)','rgba(201,168,76,0.6)','rgba(193,125,104,0.7)','rgba(217,164,65,0.6)'],
+        borderRadius: 2,
+        barThickness: 22
+      }]
+    },
+    options: {
+      indexAxis: 'y',
+      responsive: false,
+      maintainAspectRatio: false,
+      animation: false,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { min: 0, max: 100, grid: { color: 'rgba(22,21,15,0.08)' }, ticks: { color: '#837f70', font: { size: 10 } } },
+        y: { grid: { display: false }, ticks: { color: '#3d3b33', font: { size: 11 } } }
+      }
+    }
+  });
+}
+
+const trustCtx = document.getElementById('trustChart');
+if (trustCtx) {
+  new Chart(trustCtx, {
+    type: 'radar',
+    data: {
+      labels: ['Competence', 'Integrity', 'Procedural', 'Institutional', 'Network', 'Calculative'],
+      datasets: [
+        {
+          label: 'Ukrainian manufacturers',
+          data: [82, 74, 55, 48, 66, 58],
+          borderColor: 'rgb(156,122,31)',
+          backgroundColor: 'rgba(156,122,31,0.14)',
+          pointBackgroundColor: 'rgb(156,122,31)',
+          borderWidth: 1.75
+        },
+        {
+          label: 'International investors',
+          data: [68, 61, 42, 39, 50, 63],
+          borderColor: 'rgb(76,111,148)',
+          backgroundColor: 'rgba(76,111,148,0.14)',
+          pointBackgroundColor: 'rgb(76,111,148)',
+          borderWidth: 1.75
+        }
+      ]
+    },
+    options: {
+      responsive: false,
+      maintainAspectRatio: false,
+      animation: false,
+      plugins: { legend: { display: false } },
+      scales: {
+        r: {
+          min: 0, max: 100,
+          grid: { color: 'rgba(22,21,15,0.1)' },
+          angleLines: { color: 'rgba(22,21,15,0.1)' },
+          pointLabels: { color: '#3d3b33', font: { size: 10.5 } },
+          ticks: { display: false, backdropColor: 'transparent' }
+        }
+      }
+    }
+  });
+}
+</script>
+
+</body>
+</html>
