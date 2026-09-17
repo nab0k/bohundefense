@@ -391,6 +391,15 @@
   .outcome-stat b { display: block; font-family: var(--sans); font-weight: 800; font-size: 2.4rem; color: var(--text); letter-spacing: -0.02em; }
   .outcome-stat span { font-size: 0.85rem; color: var(--text-muted); }
   .scenario-note { margin-top: 1.25rem; font-size: 0.76rem; color: var(--text-dim); }
+  .case-flow { margin-top: 1.6rem; display: flex; flex-direction: column; gap: 1.2rem; }
+  .case-step { display: flex; gap: 1rem; align-items: flex-start; }
+  .case-step-num {
+    flex-shrink: 0; width: 28px; height: 28px; border-radius: 50%; background: var(--accent-dim); border: 1px solid var(--accent-border);
+    color: var(--accent); font-family: var(--sans); font-weight: 700; font-size: 0.82rem;
+    display: flex; align-items: center; justify-content: center; margin-top: 0.1rem;
+  }
+  .case-step-body b { display: block; font-size: 0.94rem; margin-bottom: 0.3rem; color: var(--text); }
+  .case-step-body p { color: var(--text-muted); font-size: 0.88rem; line-height: 1.6; }
 
   /* ── HOW IT'S BUILT — thin-line pipeline diagram (Air.ai schematic pattern) ── */
   .pipeline { position: relative; display: flex; justify-content: space-between; align-items: flex-start; margin-top: 3.5rem; padding: 0 1rem; }
@@ -866,38 +875,40 @@
     <p class="section-label">In Practice</p>
     <p class="scenario-tag">⚠ Illustrative scenario — not a real case, no user has used this product yet</p>
     <h2>How this could <em>play out</em></h2>
-    <p class="lead">This gap isn't a new phenomenon — it's a documented one. U.S. defence-acquisition oversight (GAO) has flagged for years that contractors tend to be more optimistic about technology readiness than independent assessment shows, which is exactly why independent readiness reviews are required before contract award. The scenarios below show what it looks like to catch that same kind of gap earlier — and for more relationships than just one contractor and one government reviewer.</p>
+    <p class="lead">This gap isn't a new phenomenon — it's a documented one. U.S. defence-acquisition oversight (GAO) has flagged for years that contractors tend to be more optimistic about technology readiness than independent assessment shows, which is exactly why independent readiness reviews are required before contract award. Below is one illustrative case showing what it looks like to catch that same kind of gap earlier — not five separate illustrative numbers, but one thread through all five layers of the console.</p>
     <div class="outcome-card">
-      <p class="eyebrow">Illustrative · European Market Entry</p>
-      <h3>An investor almost missed a 26-point gap</h3>
-      <p class="lead">An investor is deciding whether to back a Ukrainian manufacturer's expansion into a European market. The console shows manufacturers rating technology readiness far higher than investors do — the widest perception gap tracked this wave.</p>
-      <div class="outcome-stat-row">
-        <div class="outcome-stat"><b>26 pts</b><span>Perception gap (illustrative)</span></div>
-        <div class="outcome-stat"><b>Before</b><span>term sheet, not after</span></div>
+      <p class="eyebrow">Illustrative · Autonomous Logistics, Series A</p>
+      <h3>One case, start to finish</h3>
+      <p class="lead">A composite, hypothetical walkthrough — not a real company — showing how an investor would actually move through the console on one live decision.</p>
+
+      <div class="case-flow">
+        <div class="case-step">
+          <div class="case-step-num">1</div>
+          <div class="case-step-body"><b>Technology</b><p>An autonomous ground-resupply platform, proven in GNSS-denied combat conditions — the kind of validation that earns an investor's first call.</p></div>
+        </div>
+        <div class="case-step">
+          <div class="case-step-num">2</div>
+          <div class="case-step-body"><b>Signal</b><p>On the Signals tab, "Autonomous terminal guidance interest" is the fastest-moving reading this wave — 61, up 11 — though Vira flags it as coming from a smaller base: worth watching, not acting on alone.</p></div>
+        </div>
+        <div class="case-step">
+          <div class="case-step-num">3</div>
+          <div class="case-step-body"><b>Perception gap</b><p>The same theme shows a 26-point split on the Perception Gap tab: manufacturers rate technology readiness at 75, investors at 49 — the widest gap tracked this wave.</p></div>
+        </div>
+        <div class="case-step">
+          <div class="case-step-num">4</div>
+          <div class="case-step-body"><b>Accessibility</b><p>Checking the target export market on the Accessibility tab shows a large procurement budget alongside high local-partnership requirements and regulatory friction — big, not yet easy to enter.</p></div>
+        </div>
+        <div class="case-step">
+          <div class="case-step-num">5</div>
+          <div class="case-step-body"><b>Investment implication</b><p>None of this alone kills the deal. Together, it tells the investor exactly where the term sheet needs to get more specific — technical readiness, not demand — before the cheque, not after.</p></div>
+        </div>
+        <div class="case-step">
+          <div class="case-step-num">6</div>
+          <div class="case-step-body"><b>Evidence</b><p>Every number above traces back to a respondent count, a research wave and a date — not one analyst's opinion.</p></div>
+        </div>
       </div>
-      <p style="color:var(--text-muted);font-size:0.92rem;">What it could change: the investor asks for independent technical validation before the term sheet, instead of discovering the gap after.</p>
     </div>
-    <div class="outcome-card">
-      <p class="eyebrow">Illustrative · Manufacturer Fundraise Prep</p>
-      <h3>A manufacturer closed the trust gap before the pitch</h3>
-      <p class="lead">A Ukrainian manufacturer is preparing to raise its next round. The Trust dashboard shows international investors rate procedural and institutional trust well below how the manufacturer rates itself — the two dimensions a term sheet usually depends on most.</p>
-      <div class="outcome-stat-row">
-        <div class="outcome-stat"><b>2 dims</b><span>Procedural & institutional (illustrative)</span></div>
-        <div class="outcome-stat"><b>Before</b><span>the pitch, not after the rejection</span></div>
-      </div>
-      <p style="color:var(--text-muted);font-size:0.92rem;">What it could change: the manufacturer brings documentation and references addressing exactly those two dimensions into the room, instead of finding out afterward why the round stalled.</p>
-    </div>
-    <div class="outcome-card">
-      <p class="eyebrow">Illustrative · Export Guarantee Decision</p>
-      <h3>An export-credit agency asked one more question before signing</h3>
-      <p class="lead">An export credit agency is weighing a guarantee for a counter-UAS deal into a new market. The Accessibility dashboard shows a large addressable budget alongside high local-partnership requirements and regulatory friction — a market that's big, not necessarily deliverable.</p>
-      <div class="outcome-stat-row">
-        <div class="outcome-stat"><b>High</b><span>Local-partnership requirement (illustrative)</span></div>
-        <div class="outcome-stat"><b>Before</b><span>the guarantee, not after a stalled delivery</span></div>
-      </div>
-      <p style="color:var(--text-muted);font-size:0.92rem;">What it could change: the agency prices the friction into the guarantee terms or requires a local partner up front, instead of discovering the bottleneck mid-delivery.</p>
-    </div>
-    <p class="scenario-note">These are hypothetical walkthroughs to illustrate the intended use, built from the mock-up data above — not testimonials, and not things that have actually happened.</p>
+    <p class="scenario-note">A hypothetical, composite walkthrough built from the mock-up data above — not a real company, and not something that has actually happened.</p>
   </div>
 </section>
 
