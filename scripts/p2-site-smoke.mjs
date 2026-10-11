@@ -3,7 +3,7 @@ fs.mkdirSync('output/p2',{recursive:true});const browser=await chromium.launch({
 for(const cfg of [{name:'desktop',viewport:{width:1440,height:900}},{name:'mobile',...devices['iPhone 13']}]) {
  const cx=await browser.newContext(cfg),p=await cx.newPage(),errors=[];p.on('pageerror',e=>errors.push(e.message));
  try{
- const response=await p.goto('http://127.0.0.1:5175/',{waitUntil:'domcontentloaded',timeout:40000});
+ const response=await p.goto((process.env.P2_AUDIT_URL||'http://127.0.0.1:5175/'),{waitUntil:'domcontentloaded',timeout:40000});
  await p.locator('.maplibregl-canvas').waitFor({state:'attached',timeout:30000});
  await p.locator('#p2-coverage summary').click();
  const words=await p.locator('#p2-coverage').innerText();
