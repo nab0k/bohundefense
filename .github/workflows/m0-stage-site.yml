@@ -1,0 +1,73 @@
+name: M0 Stage Existing Domain Repository (NO PUBLIC DEPLOY)
+on:
+  push:
+    branches: [m0-site-integration-review]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  stage:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Checkout website staging branch
+        uses: actions/checkout@v4
+        with:
+          ref: m0-site-staging
+          path: old-site
+          persist-credentials: true
+      - name: Checkout approved atlas release source
+        uses: actions/checkout@v4
+        with:
+          repository: nab0k/bohun-the-field
+          ref: 0e8072659c588cadd397e426f4cb88710e44c927
+          path: atlas-src
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Build and test original atlas
+        working-directory: atlas-src
+        run: |
+          npm ci
+          npm test
+          node scripts/test-m0-gate.mjs
+          SITE_BASE=/ npm run build:site
+          test -s dist/index.html
+          test -s dist/contact.html
+          test -s dist/privacy.html
+          test -s dist/atlas/companies-at.json
+      - name: Preserve old root and integrate into existing GitHub Pages site
+        run: |
+          mkdir -p old-site/legacy
+          cp old-site/index.html old-site/legacy/index.html
+          cp old-site/privacy.html old-site/legacy/privacy.html
+          cp old-site/ukraine-entry.html old-site/legacy/ukraine-entry.html
+          cp old-site/europe-entry.html old-site/legacy/europe-entry.html
+          cp -a atlas-src/dist/. old-site/
+          printf 'bohundefence.com\n' > old-site/CNAME
+          test -s old-site/legacy/index.html
+          test -s old-site/index.html
+          test -s old-site/atlas/companies-at.json
+          grep -Fxq bohundefence.com old-site/CNAME
+      - name: Stage candidate without changing main
+        working-directory: old-site
+        run: |
+          git config user.name 'bohundefence-m0-ci'
+          git config user.email 'actions@users.noreply.github.com'
+          git add -A
+          if git diff --staged --quiet; then echo 'No changes'; exit 0; fi
+          git commit -m 'M0: original Claude atlas, safe corporate shell, preserved legacy site'
+          git push origin HEAD:m0-site-staging
+      - name: Save exact integrated site verification artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: m0-integrated-site-staging
+          path: |
+            old-site/index.html
+            old-site/CNAME
+            old-site/legacy/index.html
+            old-site/contact.html
+            old-site/privacy.html
+            old-site/atlas/companies-at.json
+          retention-days: 30
+          if-no-files-found: error
