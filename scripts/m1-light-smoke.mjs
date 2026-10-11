@@ -4,7 +4,7 @@ const b=await chromium.launch({headless:true,args:['--no-sandbox']});const cases
 for(const device of [{name:'desktop',viewport:{width:1440,height:900}},{name:'mobile',...devices['iPhone 13']}]) {
  const ctx=await b.newContext(device),p=await ctx.newPage(),errors=[];p.on('pageerror',e=>errors.push(e.message));
  try{
- const r=await p.goto((process.env.P1_AUDIT_URL||'http://127.0.0.1:5175/'),{waitUntil:'domcontentloaded',timeout:45000});
+ const r=await p.goto((process.env.P1_AUDIT_URL||(process.env.M1_AUDIT_URL||'http://127.0.0.1:5175/')),{waitUntil:'domcontentloaded',timeout:45000});
  await p.locator('.maplibregl-canvas').waitFor({state:'attached',timeout:30000});await p.waitForTimeout(4500);
  const brand=await p.locator('.brand-name strong').innerText();
  const subtitle=await p.locator('.brand-name small').innerText();
