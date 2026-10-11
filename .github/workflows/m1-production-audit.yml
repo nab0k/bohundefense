@@ -1,0 +1,29 @@
+name: M1 Live Production Desktop and Mobile Audit (READ ONLY)
+on:
+  push:
+    branches: [m1-production-audit]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  live-screens:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Isolated Playwright Chromium
+        run: |
+          npm install --no-save playwright
+          npx playwright install --with-deps chromium
+      - name: Capture actual https://bohundefence.com on desktop and mobile
+        run: node scripts/m1-live-screens.mjs
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: m1-live-desktop-mobile-screens
+          path: output/m1/
+          if-no-files-found: warn
+          retention-days: 30
