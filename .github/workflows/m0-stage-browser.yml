@@ -1,0 +1,55 @@
+name: M0 Final Staged GitHub Pages Browser (NO DEPLOY)
+on:
+  push:
+    branches: [m0-site-integration-review]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  final-stage-smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: m0-site-staging
+          path: staged
+      - uses: actions/checkout@v4
+        with:
+          repository: nab0k/bohun-the-field
+          ref: 0e8072659c588cadd397e426f4cb88710e44c927
+          path: checker
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install isolated browser
+        working-directory: checker
+        run: |
+          npm ci
+          npm install --no-save playwright
+          npx playwright install --with-deps chromium
+      - name: Run staged GitHub Pages files locally
+        run: |
+          mkdir -p checker/output/m0
+          (python3 -m http.server 5175 --bind 127.0.0.1 --directory staged > checker/output/m0/server.log 2>&1 &)
+          for i in $(seq 1 20); do
+            if curl -fsS http://127.0.0.1:5175/ >/dev/null; then exit 0; fi
+            sleep 1
+          done
+          exit 1
+      - name: Browser inspect real staged root
+        working-directory: checker
+        run: node scripts/m0-browser-smoke.mjs
+      - name: Confirm old site untouched and rollback branch exists
+        run: |
+          test -s staged/legacy/index.html
+          test -s staged/index.html
+          grep -Fxq bohundefence.com staged/CNAME
+          test -s staged/contact.html
+          test -s staged/privacy.html
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: m0-staged-root-browser-screenshot
+          path: checker/output/m0/
+          retention-days: 30
