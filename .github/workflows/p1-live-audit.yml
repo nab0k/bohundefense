@@ -1,0 +1,30 @@
+name: P1 Live Domain Brand Night Audit (READ ONLY)
+on:
+  push:
+    branches: [p1-live-review]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  prod-audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Headless Chromium installation
+        run: |
+          npm install --no-save playwright
+          npx playwright install --with-deps chromium
+      - name: Audit HTTPS custom domain after Pages release
+        env:
+          P1_AUDIT_URL: https://bohundefence.com/
+        run: node scripts/p1-stage-smoke.mjs
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: p1-live-domain-brand-night-desktop-mobile
+          path: output/p1/
+          retention-days: 30
