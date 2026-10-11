@@ -1,0 +1,30 @@
+name: M1 Live Single Basemap and Night (READ ONLY)
+on:
+  push:
+    branches: [m1-light-review]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  production:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install Playwright Chrome
+        run: |
+          npm install --no-save playwright
+          npx playwright install --with-deps chromium
+      - name: Test actual custom domain with desktop/mobile Night zoom
+        env:
+          M1_AUDIT_URL: https://bohundefence.com/
+        run: node scripts/m1-light-smoke.mjs
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: m1-live-light-minimal-night-screenshots
+          path: output/p1/
+          retention-days: 30
