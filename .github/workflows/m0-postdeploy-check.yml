@@ -1,0 +1,42 @@
+name: M0 Postdeploy Domain Read-Only Check
+on:
+  push:
+    branches: [m0-site-integration-review]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  domain:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - name: Check actual custom domain over HTTPS (read only)
+        run: |
+          mkdir -p evidence
+          ok=0
+          for attempt in $(seq 1 12); do
+            code=$(curl -LsS -o evidence/index.html -w '%{http_code}' --max-time 18 https://bohundefence.com/ || true)
+            if [ "$code" = 200 ] && grep -q 'ABOUT PROJECT' evidence/index.html; then ok=1; break; fi
+            sleep 10
+          done
+          printf 'root_http=%s updated_site=%s\n' "$code" "$ok" | tee evidence/check.txt
+          if [ "$ok" -ne 1 ]; then exit 1; fi
+          curl -fLsS --max-time 18 https://bohundefence.com/contact.html -o evidence/contact.html
+          curl -fLsS --max-time 18 https://bohundefence.com/privacy.html -o evidence/privacy.html
+          curl -fLsS --max-time 18 https://bohundefence.com/legacy/index.html -o evidence/legacy.html
+          curl -fLsS --max-time 18 https://bohundefence.com/atlas/companies-at.json -o evidence/companies-at.json
+          grep -q 'formspree.io/f/xbdwvgqp' evidence/contact.html
+          grep -q 'Defence Market Entry Advisory' evidence/legacy.html
+          python3 - <<'PY'
+          import json
+          d=json.load(open('evidence/companies-at.json'))
+          assert all(not x.get('flags') for x in d['companies'])
+          print('M0 LIVE ROOT: PASS, corporate contact and old-site legacy preserved; flagged companies omitted')
+          PY
+          sha256sum evidence/index.html evidence/legacy.html > evidence/sha256.txt
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: m0-live-bohundefence-domain-evidence
+          path: evidence/
+          retention-days: 30
