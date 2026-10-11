@@ -1,0 +1,45 @@
+name: M0 cross-repo site build evidence (NO DEPLOY)
+on:
+  push:
+    branches: [m0-site-integration-review]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Checkout M0 candidate from original atlas repository
+        uses: actions/checkout@v4
+        with:
+          repository: nab0k/bohun-the-field
+          ref: 0e8072659c588cadd397e426f4cb88710e44c927
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - name: Install
+        run: npm ci
+      - name: Test
+        run: npm test
+      - name: Scientific QA v1.1 deterministic checks
+        run: node scripts/test-m0-gate.mjs
+      - name: Build root-domain static site
+        run: npm run build:site
+        env:
+          SITE_BASE: /
+      - name: Confirm domain marker in artifact
+        run: |
+          printf 'bohundefence.com\n' > dist/CNAME
+          test -s dist/index.html
+          test -s dist/atlas/companies-at.json
+          test -s dist/contact.html
+          test -s dist/privacy.html
+          grep -Fxq bohundefence.com dist/CNAME
+      - name: Keep rollback and candidate files separate, no release
+        uses: actions/upload-artifact@v4
+        with:
+          name: m0-bohundefense-root-site-candidate
+          path: dist/
+          retention-days: 30
