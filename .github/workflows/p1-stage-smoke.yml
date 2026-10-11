@@ -1,0 +1,53 @@
+name: P1 actual staged site browser (NO DEPLOY)
+on:
+  push:
+    branches: [p1-live-review]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 22
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: p1-live-stage
+          path: site
+      - uses: actions/checkout@v4
+        with:
+          ref: p1-live-review
+          path: checker
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Browser tools
+        working-directory: checker
+        run: |
+          npm install --no-save playwright
+          npx playwright install --with-deps chromium
+      - name: Serve staging root
+        run: |
+          mkdir -p checker/output/p1
+          (python3 -m http.server 5175 --bind 127.0.0.1 --directory site > checker/output/p1/server.log 2>&1 &)
+          for i in $(seq 1 40); do
+            if curl -fsS http://127.0.0.1:5175/ >/dev/null; then exit 0; fi
+            sleep 1
+          done
+          exit 1
+      - name: Verify genuine staged site, logo, Relief removal and Night behaviour
+        working-directory: checker
+        run: node scripts/p1-stage-smoke.mjs
+      - name: Preserve source, domain and rollback guards
+        run: |
+          test -s site/legacy/index.html
+          test -s site/logo_gold.png
+          grep -Fxq bohundefence.com site/CNAME
+          grep -q 'Bohun Defence' site/index.html
+          test -s site/contact.html
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: p1-actual-staging-screenshots
+          path: checker/output/p1/
+          retention-days: 30
