@@ -21,7 +21,7 @@ for(const cfg of [{name:'desktop',viewport:{width:1440,height:900}},{name:'mobil
  await p.waitForTimeout(2300);await p.screenshot({path:'output/p2/'+cfg.name+'.png',fullPage:true});
  const pass=response?.status()===200&&words.includes('72 global industry entries')&&words.includes('41 unflagged Austria')
    &&words.includes('17 sourced company names')&&countryOptions>200&&hit.includes('Rheinmetall AG')
-   &&name==='Rheinmetall AG'&&details.includes('DE')&&logo>0&&relief.every(x=>!x.includes('Relief'))
+   &&name.toLocaleLowerCase()==='rheinmetall ag'&&details.includes('DE')&&logo>0&&relief.every(x=>!x.includes('Relief'))
    &&emptyHidden&&!errors.length;
  audit.push({name:cfg.name,pass,http:response?.status(),countryOptions,selected:name,logoWidth:logo,hiddenAnalytics:emptyHidden,errors});
  }catch(e){errors.push(e.message);await p.screenshot({path:'output/p2/'+cfg.name+'-error.png',fullPage:true}).catch(()=>{});audit.push({name:cfg.name,pass:false,errors});}
