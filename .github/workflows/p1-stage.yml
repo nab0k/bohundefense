@@ -1,0 +1,66 @@
+name: P1 stage branded site (NO PUBLIC DEPLOY)
+on:
+  push:
+    branches: [p1-live-review]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  stage:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: p1-live-stage
+          path: staged
+          persist-credentials: true
+      - uses: actions/checkout@v4
+        with:
+          repository: nab0k/bohun-the-field
+          ref: e7d587c222632a15f5b95b335c201a449ac99ee1
+          path: atlas
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Run original source tests and build
+        working-directory: atlas
+        run: |
+          npm ci
+          npm test
+          node scripts/test-m1-state.mjs
+          npm run build:site
+        env:
+          SITE_BASE: /
+      - name: Preserve old page and original logo, stage new site
+        run: |
+          test -s staged/CNAME
+          grep -Fxq bohundefence.com staged/CNAME
+          test -s staged/logo_gold.png
+          test -s staged/legacy/index.html
+          cp -a atlas/dist/. staged/
+          test -s staged/index.html
+          test -s staged/logo_gold.png
+          test -s staged/atlas/companies-at.json
+          printf 'bohundefence.com\n' > staged/CNAME
+          grep -q 'Bohun Defence' staged/index.html
+      - name: Commit isolated stage (main never touched)
+        working-directory: staged
+        run: |
+          git config user.name 'bohundefence-p1-ci'
+          git config user.email 'actions@users.noreply.github.com'
+          git add -A
+          if git diff --staged --quiet; then exit 0; fi
+          git commit -m 'P1: restore Bohun brand and intelligent night zoom on original atlas'
+          git push origin HEAD:p1-live-stage
+      - name: Artifact of staged domain files
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: p1-domain-staging
+          path: |
+            staged/index.html
+            staged/CNAME
+            staged/logo_gold.png
+            staged/legacy/index.html
+          retention-days: 30
