@@ -10,6 +10,7 @@ for(const c of [{label:'desktop',viewport:{width:1440,height:900},deviceScaleFac
  try {
   const res=await page.goto(audit.url,{waitUntil:'domcontentloaded',timeout:45000});
   await page.locator('.maplibregl-canvas').waitFor({state:'attached',timeout:35000});
+  await page.waitForTimeout(6500); // capture painted map tiles, not only a mounted canvas
   await page.screenshot({path:out+'/'+c.label+'.png',fullPage:true});
   audit.cases.push({label:c.label,http:res?.status(),title:await page.title(),map:true,nav:await page.getByRole('link',{name:'ABOUT PROJECT'}).count(),errors,
    bodyWidth:await page.evaluate(()=>document.body.scrollWidth),viewportWidth:await page.evaluate(()=>window.innerWidth)});
