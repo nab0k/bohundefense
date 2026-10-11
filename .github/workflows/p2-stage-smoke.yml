@@ -1,0 +1,52 @@
+name: P2 staged world atlas and coverage smoke (NO DEPLOY)
+on:
+  push:
+    branches: [p2-live-review]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: p2-live-stage
+          path: site
+      - uses: actions/checkout@v4
+        with:
+          ref: p2-live-review
+          path: checker
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Isolated headless Chromium
+        working-directory: checker
+        run: |
+          npm install --no-save playwright
+          npx playwright install --with-deps chromium
+      - name: Serve exact staged GitHub Pages root
+        run: |
+          mkdir -p checker/output/p2
+          (python3 -m http.server 5175 --bind 127.0.0.1 --directory site > checker/output/p2/server.log 2>&1 &)
+          for i in $(seq 1 30); do
+            if curl -fsS http://127.0.0.1:5175/ >/dev/null; then exit 0; fi
+            sleep 1
+          done
+          exit 1
+      - name: Real company, source classes and accessible map controls
+        working-directory: checker
+        run: node scripts/p2-site-smoke.mjs
+      - name: Verify rollback, CNAME and old corporate contact preserved
+        run: |
+          test -s site/legacy/index.html
+          test -s site/logo_gold.png
+          test -s site/contact.html
+          grep -Fxq bohundefence.com site/CNAME
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: p2-custom-domain-staging-screens
+          path: checker/output/p2/
+          retention-days: 30
