@@ -2,6 +2,8 @@ name: P0 Live Pages DNS + Browser Verification (READ ONLY)
 on:
   push:
     branches: [audit/pages-live-20261013]
+  pull_request:
+    branches: [main]
   workflow_dispatch:
 permissions:
   contents: read
