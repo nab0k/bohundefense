@@ -25,7 +25,20 @@
     body.p0-panels-open #p0-dossier{display:block;top:auto;bottom:68px;max-height:35dvh}
     @media(max-width:650px){body.p0-panels-open #p0-dossier{left:14px;right:14px;width:auto}}
   </style>
-</head>
+<style id="p1-layout">
+#side{display:flex;flex-direction:column}
+#side .layers,#side .cats{display:none!important}
+#side #p0-feed{flex:1 1 auto;min-height:35vh;overflow-y:auto;margin:12px 0!important;padding:15px 0!important}
+#p1-category-rail{position:fixed;z-index:670;left:390px;right:310px;bottom:26px;background:#15221eeF;border:1px solid #8f7d51;border-radius:8px;padding:9px 12px;color:#e9dfc9;box-shadow:0 5px 22px #0006}
+#p1-category-rail .head{display:flex;align-items:center;gap:12px;margin-bottom:7px;font:700 12px system-ui}
+#p1-category-query{margin-left:auto;width:145px;min-width:85px;max-width:55%;font:12px system-ui;padding:6px;background:#223029;color:#fff;border:1px solid #586657;border-radius:6px}
+#p1-rail-chips{display:flex;gap:6px;overflow-x:auto;scrollbar-width:thin;padding-bottom:3px}
+#p1-rail-chips button{flex:0 0 auto;font:12px system-ui;white-space:nowrap;padding:7px 11px;border:1px solid #665e43;background:#243029;color:#e7d7b4;border-radius:18px}
+#p1-rail-chips button[hidden]{display:none}
+#p1-rail-chips button[aria-pressed=true]{border-color:#f0d18a;background:#42503a}
+@media(max-width:1100px){#p1-category-rail{left:360px;right:14px}}
+@media(max-width:900px){#p1-category-rail{left:14px;right:14px;bottom:66px}}
+</style></head>
 <body>
   <div id="map" aria-label="World map. Drag to move, scroll to zoom, right-drag to rotate and tilt."></div>
 
@@ -136,7 +149,7 @@
     </section>
   </aside>
 
-  <aside id="scale-panel" class="scale-panel" hidden aria-label="Companies"></aside>
+  <section id="p1-category-rail" aria-label="Horizontal category filters"><div class="head"><span>CATEGORIES</span><input type="search" id="p1-category-query" placeholder="Find category" aria-label="Search categories"></div><div id="p1-rail-chips" role="group" aria-label="Scroll categories horizontally"></div></section><aside id="scale-panel" class="scale-panel" hidden aria-label="Companies"></aside>
 
   <p id="note" class="note" role="status" aria-live="polite"></p>
   <p class="demo">Public beta · <a href="/about-project.html">About the project</a> · Open-data research atlas · Coverage incomplete · Companies are not Bohundefence clients or partners. City-centre markers are not facility addresses. Borders: Natural Earth (not a statement on territorial status). Base map © OpenStreetMap / OpenFreeMap.</p>
@@ -144,8 +157,8 @@
   
 
   <aside class="p0-dossier" id="p0-dossier" aria-label="Company Dossier" data-public-release-only="true">
-    <h2>COMPANY DOSSIER</h2>
-    <p id="p0-dossier-body">Choose a company on the map. Existing public research entries are not independently QA-approved.</p>
+    <h2>ANALYTICS DOSSIER</h2>
+    <p id="p0-dossier-body">Analytical dossiers will appear here after independent review. No QA-approved analysis is available for public release.</p>
   </aside>
   <button type="button" class="p0-panel-toggle" id="p0-panel-toggle" aria-controls="p0-feed p0-dossier" aria-expanded="false">INTELLIGENCE</button>
   <script>
@@ -153,51 +166,31 @@
       const expanded=document.body.classList.toggle('p0-panels-open');
       this.setAttribute('aria-expanded',String(expanded));
     });
-    // Read only the site's ALREADY PUBLIC Austrian dataset; never use private Notion PR #60.
-    (function(){
-      const title=document.getElementById('ind-title');
-      const body=document.getElementById('ind-body');
-      const card=document.getElementById('ind-card');
-      const output=document.getElementById('p0-dossier-body');
-      if(!title||!body||!card||!output)return;
-      let publicCompanies=[];
-      fetch('/atlas/companies-at.json').then(r=>{if(!r.ok)throw Error('PUBLIC_DATA_UNAVAILABLE');return r.json()})
-        .then(data=>{publicCompanies=Array.isArray(data.companies)?data.companies:[];render()})
-        .catch(()=>{publicCompanies=[]});
-      const normalize=v=>String(v||'').normalize('NFKC').trim().replace(/\\s+/g,' ').toLowerCase();
-      const render=()=>{
-        if(card.hidden||!title.textContent.trim()){
-          output.textContent='Choose a company on the map. Existing public research entries are not independently QA-approved.';
-          return;
-        }
-        output.replaceChildren();
-        const selected=title.textContent.trim();
-        const entry=publicCompanies.find(c=>normalize(c.name)===normalize(selected));
-        const name=document.createElement('strong');name.textContent=selected;
-        const warning=document.createElement('p');warning.className='p0-unverified';
-        warning.textContent='Public research candidate only. Independent QA approval not established.';
-        output.append(name,warning);
-        if(entry){
-          const meta=document.createElement('p');meta.textContent=[entry.city,'Austria',entry.cat].filter(Boolean).join(' · ');output.append(meta);
-          if(entry.about){const p=document.createElement('p');p.textContent=entry.about;output.append(p)}
-          for(const [label,url] of [['Primary source',entry.source],['Company website',entry.web]]){
-            if(typeof url==='string'&&/^https:\/\//.test(url)){
-              const link=document.createElement('a');link.href=url;link.textContent=label;link.target='_blank';link.rel='noopener noreferrer';link.style.cssText='display:block;color:#e1c58b;margin:6px 0';output.append(link);
-            }
-          }
-          const status=document.createElement('p');status.className='p0-unverified';status.textContent='Atlas research ID: '+entry.id+' · No canonical Notion identity inferred';output.append(status);
-        }else{
-          const detail=document.createElement('p');detail.textContent=body.textContent.trim().slice(0,1000);output.append(detail);
-          const note=document.createElement('p');note.textContent='No exact match in public company export; source linkage unavailable.';output.append(note);
-        }
-      };
-      new MutationObserver(render).observe(card,{attributes:true,attributeFilter:['hidden']});
-      new MutationObserver(render).observe(title,{childList:true,subtree:true,characterData:true});
-      new MutationObserver(render).observe(body,{childList:true,subtree:true,characterData:true});
-      render();
-    })();
   </script>
 
   <noscript><p class="fallback">Bohun Defence helps companies navigate defence and dual-use markets across Ukraine and internationally.</p></noscript>
-</body>
+<script id="p1-category-bind">(function(){
+const original=document.getElementById('cat-chips'),rail=document.getElementById('p1-rail-chips'),query=document.getElementById('p1-category-query');
+if(!original||!rail||!query)return;
+let source=[],mirrors=[];
+function sync(){
+ const next=[...original.querySelectorAll('.chips-box > button.chip')].filter(el=>el.textContent.trim());
+ if(next.length!==source.length||next.some((el,i)=>el!==source[i])){
+  source=next;mirrors=[];rail.replaceChildren();
+  for(const el of source){
+   const button=document.createElement('button');button.type='button';
+   button.addEventListener('click',()=>{el.click();sync()});
+   button.addEventListener('dblclick',()=>{el.dispatchEvent(new MouseEvent('dblclick',{bubbles:true}));sync()});
+   rail.append(button);mirrors.push(button);
+  }
+ }
+ source.forEach((el,i)=>{
+  const b=mirrors[i];b.textContent=el.textContent.trim();
+  b.hidden=!b.textContent.toLowerCase().includes(query.value.trim().toLowerCase());
+  b.setAttribute('aria-pressed',String(el.classList.contains('on')||el.classList.contains('active')||el.getAttribute('aria-pressed')==='true'));
+ });
+}
+new MutationObserver(sync).observe(original,{subtree:true,childList:true,characterData:true,attributes:true});
+query.addEventListener('input',sync);sync();
+})();</script></body>
 </html>
