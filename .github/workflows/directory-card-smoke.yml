@@ -1,0 +1,56 @@
+name: Directory Cards Responsive Smoke (NO DEPLOY)
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  directory:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Browser setup
+        run: |
+          npm install --no-save --no-package-lock playwright@1.55.0
+          npx playwright install --with-deps chromium
+      - name: Test directory cards, real data, map link and mobile
+        run: |
+          python3 -m http.server 8765 --bind 127.0.0.1 >/tmp/bohun-directory.log 2>&1 &
+          node --input-type=module <<'JS'
+          import {chromium} from 'playwright';
+          const browser=await chromium.launch({headless:true,args:['--no-sandbox']});
+          for(const [kind,width,height] of [['desktop',1440,900],['mobile',390,844]]){
+            const page=await browser.newPage({viewport:{width,height}});
+            await page.goto('http://127.0.0.1:8765/companies.html',{waitUntil:'domcontentloaded'});
+            await page.locator('.card').first.waitFor({timeout:20000});
+            const count=await page.locator('.card').count();
+            if(count!==113)throw Error('Unexpected public catalogue size '+count);
+            if(await page.getByText('Original source',{exact:true}).count())throw Error('Original source still visible');
+            const first=page.locator('.card').first;
+            if(await first.locator('.card-website').count()!==1)throw Error('Missing top website');
+            const map=first.locator('.card-location');
+            if(await map.count()!==1)throw Error('Missing linked city');
+            if(!(await map.getAttribute('href')).startsWith('https://www.openstreetmap.org/'))throw Error('Map link invalid');
+            const badges=await page.locator('.card-activities .activity').count();
+            if(!badges)throw Error('Activity icons missing');
+            const max=await page.locator('.card').evaluateAll(nodes=>Math.max(...nodes.map(n=>n.querySelectorAll('.activity').length)));
+            if(max>5)throw Error('More than five icons');
+            await page.locator('#search').fill('Rheinmetall');
+            if(await page.locator('.card').count()!==1)throw Error('Search regression');
+            await page.screenshot({path:'/tmp/directory-'+kind+'.png',fullPage:true});
+            console.log('PASS',kind,{count,badges,max});
+            await page.close();
+          }
+          await browser.close();
+          JS
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: directory-card-screenshots
+          path: /tmp/directory-*.png
+          retention-days: 7
