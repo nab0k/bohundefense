@@ -153,27 +153,43 @@
       const expanded=document.body.classList.toggle('p0-panels-open');
       this.setAttribute('aria-expanded',String(expanded));
     });
-    // Mirror only ALREADY PUBLIC legacy map-card text. Never load or reveal Notion HOLD records.
+    // Read only the site's ALREADY PUBLIC Austrian dataset; never use private Notion PR #60.
     (function(){
       const title=document.getElementById('ind-title');
       const body=document.getElementById('ind-body');
       const card=document.getElementById('ind-card');
       const output=document.getElementById('p0-dossier-body');
       if(!title||!body||!card||!output)return;
+      let publicCompanies=[];
+      fetch('/atlas/companies-at.json').then(r=>{if(!r.ok)throw Error('PUBLIC_DATA_UNAVAILABLE');return r.json()})
+        .then(data=>{publicCompanies=Array.isArray(data.companies)?data.companies:[];render()})
+        .catch(()=>{publicCompanies=[]});
+      const normalize=v=>String(v||'').normalize('NFKC').trim().replace(/\\s+/g,' ').toLowerCase();
       const render=()=>{
         if(card.hidden||!title.textContent.trim()){
           output.textContent='Choose a company on the map. Existing public research entries are not independently QA-approved.';
           return;
         }
         output.replaceChildren();
-        const name=document.createElement('strong');
-        name.textContent=title.textContent.trim();
-        const warning=document.createElement('p');
-        warning.className='p0-unverified';
-        warning.textContent='Existing open-data research entry. Not independent QA approval.';
-        const detail=document.createElement('p');
-        detail.textContent=body.textContent.trim().slice(0,1600);
-        output.append(name,warning,detail);
+        const selected=title.textContent.trim();
+        const entry=publicCompanies.find(c=>normalize(c.name)===normalize(selected));
+        const name=document.createElement('strong');name.textContent=selected;
+        const warning=document.createElement('p');warning.className='p0-unverified';
+        warning.textContent='Public research candidate only. Independent QA approval not established.';
+        output.append(name,warning);
+        if(entry){
+          const meta=document.createElement('p');meta.textContent=[entry.city,'Austria',entry.cat].filter(Boolean).join(' · ');output.append(meta);
+          if(entry.about){const p=document.createElement('p');p.textContent=entry.about;output.append(p)}
+          for(const [label,url] of [['Primary source',entry.source],['Company website',entry.web]]){
+            if(typeof url==='string'&&/^https:\/\//.test(url)){
+              const link=document.createElement('a');link.href=url;link.textContent=label;link.target='_blank';link.rel='noopener noreferrer';link.style.cssText='display:block;color:#e1c58b;margin:6px 0';output.append(link);
+            }
+          }
+          const status=document.createElement('p');status.className='p0-unverified';status.textContent='Atlas research ID: '+entry.id+' · No canonical Notion identity inferred';output.append(status);
+        }else{
+          const detail=document.createElement('p');detail.textContent=body.textContent.trim().slice(0,1000);output.append(detail);
+          const note=document.createElement('p');note.textContent='No exact match in public company export; source linkage unavailable.';output.append(note);
+        }
       };
       new MutationObserver(render).observe(card,{attributes:true,attributeFilter:['hidden']});
       new MutationObserver(render).observe(title,{childList:true,subtree:true,characterData:true});
