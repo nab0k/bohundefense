@@ -12,6 +12,16 @@
   <link rel="modulepreload" crossorigin href="/assets/buffer-transform-DFVHMsYo.js">
   <link rel="modulepreload" crossorigin href="/assets/webgpu-B3ipCUQF.js">
   <link rel="stylesheet" crossorigin href="/assets/atlas-QXBP-sMt.css">
+
+  <style id="p0-safe-panels">
+    .p0-feed,.p0-dossier{position:fixed;z-index:650;top:104px;width:min(270px,calc(100vw - 32px));max-height:calc(100dvh - 150px);overflow:auto;background:rgba(13,24,22,.92);border:1px solid #988b62;color:#f1ead8;border-radius:9px;padding:14px;font:13px/1.5 system-ui;box-shadow:0 7px 25px #0005}
+    .p0-feed{left:14px}.p0-dossier{right:14px}.p0-feed h2,.p0-dossier h2{font-size:15px;margin:0 0 10px;color:#e1c58b}.p0-feed p,.p0-dossier p{margin:6px 0}
+    @media(max-width:900px){.p0-feed,.p0-dossier{display:none}.p0-panel-toggle{display:block!important}}
+    .p0-panel-toggle{display:none;position:fixed;z-index:700;bottom:16px;left:16px;border:1px solid #a99a6a;border-radius:8px;background:#14231d;color:#fff1d5;padding:10px}
+    body.p0-panels-open .p0-feed{display:block;top:auto;bottom:68px;max-height:35dvh}
+    body.p0-panels-open .p0-dossier{display:block;top:auto;bottom:68px;left:auto;right:14px;max-height:35dvh}
+    @media(max-width:650px){body.p0-panels-open .p0-dossier{display:none}.p0-feed{width:calc(100vw - 28px)}}
+  </style>
 </head>
 <body>
   <div id="map" aria-label="World map. Drag to move, scroll to zoom, right-drag to rotate and tilt."></div>
@@ -122,6 +132,18 @@
 
   <p id="note" class="note" role="status" aria-live="polite"></p>
   <p class="demo">Open-data research atlas · Coverage incomplete · Companies are not Bohundefence clients or partners. City-centre markers are not facility addresses. Borders: Natural Earth (not a statement on territorial status). Base map © OpenStreetMap / OpenFreeMap.</p>
+
+  
+  <aside class="p0-feed" id="p0-feed" aria-label="Intelligence Feed" data-public-release-only="true">
+    <h2>INTELLIGENCE FEED</h2>
+    <p>Verified intelligence only. No independently QA-approved events available for public release.</p>
+  </aside>
+  <aside class="p0-dossier" id="p0-dossier" aria-label="Company Dossier" data-public-release-only="true">
+    <h2>COMPANY DOSSIER</h2>
+    <p>Select a publicly verified company when approved records become available. Research candidates are not published.</p>
+  </aside>
+  <button type="button" class="p0-panel-toggle" id="p0-panel-toggle" aria-controls="p0-feed p0-dossier" aria-expanded="false">INTELLIGENCE</button>
+  <script>document.getElementById('p0-panel-toggle').addEventListener('click',function(){const expanded=document.body.classList.toggle('p0-panels-open');this.setAttribute('aria-expanded',String(expanded));});</script>
 
   <noscript><p class="fallback">Bohun Defence helps companies navigate defence and dual-use markets across Ukraine and internationally.</p></noscript>
 </body>
