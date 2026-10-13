@@ -47,7 +47,7 @@ with sync_playwright() as p:
         page.locator('#ind-body').evaluate('(el)=>el.textContent="Already public research data"')
         page.locator('#ind-card').evaluate('(el)=>el.hidden=false')
         assert 'Winkelbauer GmbH' in page.locator('#p0-dossier-body').inner_text()
-        page.locator('#p0-dossier-body a').first.wait_for(timeout=12000)
+        page.wait_for_function("document.querySelector('#p0-dossier-body a') !== null",timeout=12000)
         assert page.locator('#p0-dossier-body a').count()>=1
         assert 'Atlas research ID: at-001' in page.locator('#p0-dossier-body').inner_text()
         assert 'No canonical Notion identity inferred' in page.locator('#p0-dossier-body').inner_text()
