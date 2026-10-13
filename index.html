@@ -25,7 +25,20 @@
     body.p0-panels-open #p0-dossier{display:block;top:auto;bottom:68px;max-height:35dvh}
     @media(max-width:650px){body.p0-panels-open #p0-dossier{left:14px;right:14px;width:auto}}
   </style>
-</head>
+<style id="p1-layout">
+#side{display:flex;flex-direction:column}
+#side .layers,#side .cats{display:none!important}
+#side #p0-feed{flex:1 1 auto;min-height:35vh;overflow-y:auto;margin:12px 0!important;padding:15px 0!important}
+#p1-category-rail{position:fixed;z-index:670;left:390px;right:310px;bottom:26px;background:#15221eeF;border:1px solid #8f7d51;border-radius:8px;padding:9px 12px;color:#e9dfc9;box-shadow:0 5px 22px #0006}
+#p1-category-rail .head{display:flex;align-items:center;gap:12px;margin-bottom:7px;font:700 12px system-ui}
+#p1-category-query{margin-left:auto;width:145px;min-width:85px;max-width:55%;font:12px system-ui;padding:6px;background:#223029;color:#fff;border:1px solid #586657;border-radius:6px}
+#p1-rail-chips{display:flex;gap:6px;overflow-x:auto;scrollbar-width:thin;padding-bottom:3px}
+#p1-rail-chips button{flex:0 0 auto;font:12px system-ui;white-space:nowrap;padding:7px 11px;border:1px solid #665e43;background:#243029;color:#e7d7b4;border-radius:18px}
+#p1-rail-chips button[hidden]{display:none}
+#p1-rail-chips button[aria-pressed=true]{border-color:#f0d18a;background:#42503a}
+@media(max-width:1100px){#p1-category-rail{left:360px;right:14px}}
+@media(max-width:900px){#p1-category-rail{left:14px;right:14px;bottom:66px}}
+</style></head>
 <body>
   <div id="map" aria-label="World map. Drag to move, scroll to zoom, right-drag to rotate and tilt."></div>
 
@@ -136,7 +149,7 @@
     </section>
   </aside>
 
-  <aside id="scale-panel" class="scale-panel" hidden aria-label="Companies"></aside>
+  <section id="p1-category-rail" aria-label="Horizontal category filters"><div class="head"><span>CATEGORIES</span><input type="search" id="p1-category-query" placeholder="Find category" aria-label="Search categories"></div><div id="p1-rail-chips" role="group" aria-label="Scroll categories horizontally"></div></section><aside id="scale-panel" class="scale-panel" hidden aria-label="Companies"></aside>
 
   <p id="note" class="note" role="status" aria-live="polite"></p>
   <p class="demo">Public beta · <a href="/about-project.html">About the project</a> · Open-data research atlas · Coverage incomplete · Companies are not Bohundefence clients or partners. City-centre markers are not facility addresses. Borders: Natural Earth (not a statement on territorial status). Base map © OpenStreetMap / OpenFreeMap.</p>
@@ -144,8 +157,8 @@
   
 
   <aside class="p0-dossier" id="p0-dossier" aria-label="Company Dossier" data-public-release-only="true">
-    <h2>COMPANY DOSSIER</h2>
-    <p id="p0-dossier-body">Choose a company on the map. Existing public research entries are not independently QA-approved.</p>
+    <h2>ANALYTICS DOSSIER</h2>
+    <p id="p0-dossier-body">Analytical dossiers will appear here after independent review. No QA-approved analysis is available for public release.</p>
   </aside>
   <button type="button" class="p0-panel-toggle" id="p0-panel-toggle" aria-controls="p0-feed p0-dossier" aria-expanded="false">INTELLIGENCE</button>
   <script>
