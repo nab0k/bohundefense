@@ -27,8 +27,8 @@ jobs:
             const page=await b.newPage({viewport:{width:1440,height:900}});
             try{
               const response=await page.goto(url,{waitUntil:'domcontentloaded',timeout:25000});
-              await page.waitForTimeout(3500);
-              result[name]={status:response.status(),layout:await page.locator('#p1-category-rail').count(),analytics:await page.locator('#p0-dossier').innerText().catch(()=>''),railButtons:await page.locator('#p1-rail-chips button').count(),layersHidden:await page.locator('.layers').evaluate(e=>getComputedStyle(e).display==='none').catch(()=>false),feedInsideSide:await page.locator('#p0-feed').evaluate(e=>e.parentElement?.id==='side').catch(()=>false)};
+              await page.waitForTimeout(9000);
+              result[name]={status:response.status(),layout:await page.locator('#p1-category-rail').count(),analytics:await page.locator('#p0-dossier').innerText().catch(()=>''),railButtons:await page.locator('#p1-rail-chips button').count(),originalButtons:await page.locator('#cat-chips .chips-box button.chip').count(),railScript:await page.locator('#p1-category-bind').count(),layersHidden:await page.locator('.layers').evaluate(e=>getComputedStyle(e).display==='none').catch(()=>false),feedInsideSide:await page.locator('#p0-feed').evaluate(e=>e.parentElement?.id==='side').catch(()=>false)};
               await page.screenshot({path:'/tmp/'+name+'-layout.png',fullPage:true});
             }catch(e){result[name]={error:String(e)}}
             await page.close();
