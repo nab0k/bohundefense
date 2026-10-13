@@ -226,7 +226,7 @@ query.addEventListener('input',sync);sync();
  try{
   const r=await fetch('/feeds/inoreader-latest.json');if(!r.ok)throw Error('Feed fetch '+r.status);
   const data=await r.json();const items=Array.isArray(data.entries)?data.entries:[];
-  for(const x of items){
+  for(const x of items.slice(0,80)){
    if(typeof x.title!=='string'||typeof x.url!=='string')continue;
    let url;try{url=new URL(x.url);if(!['https:','http:'].includes(url.protocol))continue}catch{continue}
    const a=document.createElement('a');a.href=url.href;a.target='_blank';a.rel='noopener noreferrer';a.className='feed-item';
