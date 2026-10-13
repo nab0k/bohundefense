@@ -198,8 +198,18 @@ function sync(){
   }
  }
  source.forEach((el,i)=>{
-  const b=mirrors[i];b.textContent=el.textContent.trim();
-  b.hidden=!b.textContent.toLowerCase().includes(query.value.trim().toLowerCase());
+  const b=mirrors[i];
+  const label=el.querySelector('span')?.textContent?.trim()||el.textContent.trim();
+  const count=el.querySelector('small')?.textContent?.trim()||'';
+  const terms=[['components','Components','⚙'],['land','Land','🛡'],['electronic','Electronics','📡'],['propulsion','Propulsion','🚀'],['uncrewed','Uncrewed','✈'],['small arms','Weapons','🎯'],['software','Software','▣'],['testing','Testing','⚗']];
+  const found=terms.find(([key])=>label.toLowerCase().includes(key));
+  const short=found?found[1]:label, symbol=found?found[2]:'◇';
+  const iEl=document.createElement('span');iEl.className='dock-icon';iEl.textContent=symbol;iEl.setAttribute('aria-hidden','true');
+  const lEl=document.createElement('span');lEl.className='dock-label';lEl.textContent=short;
+  b.replaceChildren(iEl,lEl);
+  if(count){const cEl=document.createElement('span');cEl.className='dock-count';cEl.textContent=count;b.append(cEl)}
+  b.setAttribute('aria-label',label+(count?' · '+count+' companies':''));
+  b.hidden=!label.toLowerCase().includes(query.value.trim().toLowerCase());
   b.setAttribute('aria-pressed',String(el.classList.contains('on')||el.classList.contains('active')||el.getAttribute('aria-pressed')==='true'));
  });
 }
