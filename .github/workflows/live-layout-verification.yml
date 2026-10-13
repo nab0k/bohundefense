@@ -1,0 +1,46 @@
+name: Live Layout Verification (READ ONLY)
+on:
+  pull_request:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: |
+          npm install --no-save --no-package-lock playwright@1.55.0
+          npx playwright install --with-deps chromium
+      - name: Verify actual published page and screenshots
+        run: |
+          node --input-type=module <<'JS'
+          import {chromium} from 'playwright';
+          import fs from 'node:fs';
+          const b=await chromium.launch({headless:true,args:['--no-sandbox']});
+          const result={};
+          for(const [name,url] of [['production','https://bohundefence.com/?verify=0fa09f69-mini-svg'],['githubio','https://nab0k.github.io/bohundefense/?verify=49495c7']]){
+            const page=await b.newPage({viewport:{width:1440,height:900}});
+            try{
+              const response=await page.goto(url,{waitUntil:'domcontentloaded',timeout:25000});
+              await page.waitForTimeout(9000);
+              result[name]={status:response.status(),layout:await page.locator('#p1-category-rail').count(),analytics:await page.locator('#p0-dossier').innerText().catch(()=>''),railButtons:await page.locator('#p1-rail-chips button').count(),dockIcons:await page.locator('#p1-rail-chips .dock-icon').count(),dockLabels:await page.locator('#p1-rail-chips .dock-label').allTextContents(),originalButtons:await page.locator('#cat-chips .chips-box button.chip').count(),railScript:await page.locator('#p1-category-bind').count(),layersHidden:await page.locator('.layers').evaluate(e=>getComputedStyle(e).display==='none').catch(()=>false),feedInsideSide:await page.locator('#p0-feed').evaluate(e=>e.parentElement?.id==='side').catch(()=>false)};
+              await page.screenshot({path:'/tmp/'+name+'-layout.png',fullPage:true});
+            }catch(e){result[name]={error:String(e)}}
+            await page.close();
+          }
+          fs.writeFileSync('live-layout-result.json',JSON.stringify(result,null,2));
+          console.log(JSON.stringify(result,null,2));
+          await b.close();
+          JS
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: live-layout-verification
+          path: |
+            live-layout-result.json
+            /tmp/*-layout.png
