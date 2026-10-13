@@ -43,11 +43,15 @@ with sync_playwright() as p:
         assert 'QA-approved events' in page.locator('#p0-feed').inner_text()
         assert page.locator('#p0-feed').evaluate('(el)=>el.parentElement.id')=='side'
         assert page.locator('#p0-feed').evaluate('(el)=>getComputedStyle(el).position')=='static'
-        page.locator('#ind-title').evaluate('(el)=>el.textContent="Production-visible example"')
+        page.locator('#ind-title').evaluate('(el)=>el.textContent="Winkelbauer GmbH"')
         page.locator('#ind-body').evaluate('(el)=>el.textContent="Already public research data"')
         page.locator('#ind-card').evaluate('(el)=>el.hidden=false')
-        assert 'Production-visible example' in page.locator('#p0-dossier-body').inner_text()
-        assert 'Not independent QA approval' in page.locator('#p0-dossier-body').inner_text()
+        assert 'Winkelbauer GmbH' in page.locator('#p0-dossier-body').inner_text()
+        page.locator('#p0-dossier-body a').first.wait_for(timeout=12000)
+        assert page.locator('#p0-dossier-body a').count()>=1
+        assert 'Atlas research ID: at-001' in page.locator('#p0-dossier-body').inner_text()
+        assert 'No canonical Notion identity inferred' in page.locator('#p0-dossier-body').inner_text()
+        assert 'Independent QA approval not established' in page.locator('#p0-dossier-body').inner_text()
         assert page.locator('a[href="/about.html"]').count()>=1
         if name=='mobile':
             assert page.locator('details.m1-mobile-menu').count()==1
