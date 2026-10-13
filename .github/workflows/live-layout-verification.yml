@@ -23,7 +23,7 @@ jobs:
           import fs from 'node:fs';
           const b=await chromium.launch({headless:true,args:['--no-sandbox']});
           const result={};
-          for(const [name,url] of [['production','https://bohundefence.com/?verify=49495c7'],['githubio','https://nab0k.github.io/bohundefense/?verify=49495c7']]){
+          for(const [name,url] of [['production','https://bohundefence.com/?verify=49495c7-recheck-1427'],['githubio','https://nab0k.github.io/bohundefense/?verify=49495c7']]){
             const page=await b.newPage({viewport:{width:1440,height:900}});
             try{
               const response=await page.goto(url,{waitUntil:'domcontentloaded',timeout:25000});
