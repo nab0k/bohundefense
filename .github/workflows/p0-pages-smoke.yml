@@ -1,0 +1,37 @@
+name: P0 Existing GitHub Pages Smoke (NO DEPLOY)
+on:
+  push:
+    branches: [release/p0-pages-smoke-20261013]
+    paths:
+      - 'scripts/pages-smoke.py'
+      - '.github/workflows/p0-pages-smoke.yml'
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 16
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install Chromium browser
+        run: |
+          python -m pip install playwright==1.55.0
+          python -m playwright install --with-deps chromium
+      - name: Browser smoke desktop/mobile and asset references
+        run: |
+          python -m http.server 8765 --bind 127.0.0.1 >/tmp/p0-server.log 2>&1 &
+          python scripts/pages-smoke.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: p0-pages-smoke-screenshots
+          path: |
+            /tmp/atlas-desktop.png
+            /tmp/atlas-mobile.png
+          retention-days: 7
