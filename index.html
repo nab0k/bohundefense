@@ -216,5 +216,34 @@ function sync(){
 }
 new MutationObserver(sync).observe(original,{subtree:true,childList:true,characterData:true,attributes:true});
 query.addEventListener('input',sync);sync();
-})();</script></body>
+})();</script><script id="inoreader-public-feed">
+(async function(){
+ const panel=document.getElementById('p0-feed');if(!panel)return;
+ const heading=panel.querySelector('h2');if(!heading)return;
+ const notice=panel.querySelector('p');if(notice)notice.remove();
+ const caption=document.createElement('p');caption.className='feed-disclosure';caption.textContent='Raw Inoreader source headlines · not independently fact-checked · open original reporting for details.';panel.append(caption);
+ const body=document.createElement('div');body.className='feed-articles';panel.append(body);
+ try{
+  const r=await fetch('/feeds/inoreader-latest.json');if(!r.ok)throw Error('Feed fetch '+r.status);
+  const data=await r.json();const items=Array.isArray(data.entries)?data.entries:[];
+  for(const x of items.slice(0,80)){
+   if(typeof x.title!=='string'||typeof x.url!=='string')continue;
+   let url;try{url=new URL(x.url);if(!['https:','http:'].includes(url.protocol))continue}catch{continue}
+   const a=document.createElement('a');a.href=url.href;a.target='_blank';a.rel='noopener noreferrer';a.className='feed-item';
+   const title=document.createElement('strong');title.textContent=x.title;const meta=document.createElement('small');meta.textContent=[x.source||'Inoreader',x.published_at?String(x.published_at).slice(0,16):''].filter(Boolean).join(' · ');
+   a.append(title,meta);body.append(a);
+  }
+  if(!body.children.length)body.textContent='No Inoreader source entries available.';
+ }catch(e){body.textContent='Inoreader feed temporarily unavailable.'}
+})();
+</script>
+<style id="inoreader-feed-styles">
+#side #p0-feed{max-height:calc(100dvh - 190px);min-height:200px;overflow-y:auto}
+#p0-feed .feed-disclosure{font:11px/1.4 system-ui;color:#ada993;margin:4px 0 12px}
+#p0-feed .feed-articles{display:flex;flex-direction:column;gap:0}
+#p0-feed .feed-item{display:block;padding:11px 3px;border-top:1px solid #47514b;color:#f1e9d8;text-decoration:none;font:12px/1.45 system-ui}
+#p0-feed .feed-item:hover{background:#27352d}
+#p0-feed .feed-item strong{font-weight:550;display:block}
+#p0-feed .feed-item small{display:block;color:#acb5aa;margin-top:4px;font:10px/1.35 system-ui}
+</style></body>
 </html>

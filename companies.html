@@ -3,9 +3,9 @@
 <style>
 :root{color-scheme:dark}*{box-sizing:border-box}body{margin:0;background:#111a19;color:#efe9df;font:16px/1.55 system-ui,sans-serif}a{color:#e0c184}a:hover{color:#fff}header,main,footer{max-width:1160px;margin:auto;padding:20px}nav{display:flex;gap:18px;flex-wrap:wrap;font-size:14px}h1{font-size:clamp(28px,4vw,44px);line-height:1.1;margin:38px 0 12px}p{max-width:820px;color:#c7c5bf}.controls{display:flex;flex-wrap:wrap;gap:12px;margin:24px 0}input,select{background:#202b29;border:1px solid #58635d;border-radius:5px;color:#fff;padding:12px;font:inherit}input{flex:2;min-width:240px}select{flex:1;min-width:180px}.count{font-size:14px;color:#c7c5bf;margin-bottom:16px}.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:13px}.card{border:1px solid #3b4945;border-radius:8px;background:#17211f;padding:18px;min-width:0}.card h2{font-size:18px;margin:0 0 6px;overflow-wrap:anywhere}.card small{color:#aaa}.card p{margin:10px 0;font-size:14px}.links{display:flex;gap:15px;flex-wrap:wrap;font-size:14px}.empty{padding:25px;border:1px solid #3b4945;border-radius:8px}footer{font-size:13px;color:#aaa;margin-top:40px}button{cursor:pointer} :focus-visible{outline:2px solid #e0c184;outline-offset:3px}
 </style></head><body><header><nav aria-label="Site navigation"><a href="/">INTELLIGENCE MAP</a><a href="/companies.html" aria-current="page">COMPANIES</a><a href="/about-project.html">ABOUT PROJECT</a><a href="/services.html">SERVICES</a><a href="/contact.html">CONTACT</a></nav></header>
-<main><h1>Company directory</h1><p>Explore companies already represented in the public Intelligence Map datasets. The directory is a research index, not a list of Bohun Defence clients or independently certified suppliers. Coverage is expanding.</p>
+<main><h1>Company directory</h1><p>Explore companies already represented in the public Intelligence Map datasets. The directory is a research index, not a list of Bohun Defence clients or independently certified suppliers. Records originate from the Notion research database and are not independently verified. Presence here does not imply endorsement, sanctions clearance or certification.</p>
 <div class="controls"><input id="search" type="search" placeholder="Search company, country, city, capability" aria-label="Search companies"><select id="country" aria-label="Filter by country"><option value="">All countries</option></select></div><div id="count" class="count" role="status">Loading published company datasets…</div><div id="cards" class="cards" aria-live="polite"></div></main>
-<footer>Public beta · <a href="/about-project.html">About the project</a> · Sources linked in each company entry. Location data represents public research context, not facility coordinates.</footer>
+<footer>Public beta · <a href="/about-project.html">About the project</a> · Research records sourced from Notion. Some entries are unverified; source links are provided. Location data represents public research context, not facility coordinates.</footer>
 <script>
 "use strict";
 const search=document.getElementById("search"),country=document.getElementById("country"),cards=document.getElementById("cards"),count=document.getElementById("count");
@@ -21,15 +21,15 @@ function render(){
  for(const x of matched){
  const article=document.createElement("article");article.className="card";
  const h=document.createElement("h2");h.textContent=x.name||"Unnamed company";article.append(h);
- const location=document.createElement("small");location.textContent=[x.city,x.country].filter(Boolean).join(", ");article.append(location);
+ const location=document.createElement("small");const where=[x.city,x.country].filter(Boolean).join(", ");const map=where?safeLink("https://www.openstreetmap.org/search?query="+encodeURIComponent(where),"⌖ "+where):null;if(map)location.append(map);else location.textContent="Location not recorded";article.append(location);
  if(x.about){const p=document.createElement("p");p.textContent=x.about;article.append(p)}
- const links=document.createElement("div");links.className="links";const website=safeLink(x.web,"Website"),source=safeLink(x.source,"Original source");if(website)links.append(website);if(source)links.append(source);article.append(links);frag.append(article)
+ const status=document.createElement("small");status.textContent="Research candidate · "+(x.review||"unreviewed")+" · sanctions: "+(x.sanctions||"unchecked");article.append(status);const links=document.createElement("div");links.className="links";const website=safeLink(x.web,"Website"),source=safeLink(x.source,"Source"),notion=safeLink(x.notion,"Notion record");if(website)links.append(website);if(source)links.append(source);if(notion)links.append(notion);article.append(links);frag.append(article)
  }
  cards.append(frag)
 }
-Promise.all(["/atlas/industry.json","/atlas/companies-at.json"].map(async path=>{const r=await fetch(path);if(!r.ok)throw Error("Dataset unavailable: "+path);const j=await r.json();if(!Array.isArray(j.companies))throw Error("Invalid dataset: "+path);return j.companies})).then(groups=>{
- const byId=new Map();for(const x of groups[0])byId.set("industry:"+x.id,{...x,country:x.country||""});for(const x of groups[1])byId.set("at:"+x.id,{...x,country:"AT",product:x.cat||""});companies=[...byId.values()].sort((a,b)=>String(a.name).localeCompare(String(b.name)));
+Promise.all(Array.from({length:35},(_,i)=>"/atlas/notion-candidates-"+i+".json").map(async path=>{const r=await fetch(path);if(!r.ok)throw Error("Notion batch missing: "+path);return (await r.json()).entries})).then(groups=>{
+ const seen=new Set();companies=groups.flat().filter(x=>{if(!x.name||seen.has(x.url))return false;seen.add(x.url);return true}).map(x=>({...x,web:x.website,about:"",notion:x.url,city:x.city||"",country:x.country||"",product:x.product||""})).sort((a,b)=>String(a.name).localeCompare(String(b.name));
  for(const c of [...new Set(companies.map(x=>x.country).filter(Boolean))].sort()){const opt=document.createElement("option");opt.value=c;opt.textContent=c;country.append(opt)}render()
-}).catch(()=>{count.textContent="Company directory is temporarily unavailable.";cards.replaceChildren()});
+}).catch(e=>{count.textContent="Research directory unavailable: "+e.message;cards.replaceChildren()});
 search.addEventListener("input",render);country.addEventListener("change",render);
 </script></body></html>
