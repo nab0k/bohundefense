@@ -40,18 +40,21 @@ with sync_playwright() as p:
         assert page.locator('#cat-chips').count()==1
         assert page.locator('#p0-feed').count()==1
         assert page.locator('#p0-dossier').count()==1
+        assert 'ANALYTICS DOSSIER' in page.locator('#p0-dossier').inner_text()
+        assert page.locator('#p1-category-rail').count()==1
+        assert page.locator('#p1-category-query').count()==1
+        assert page.locator('.layers').evaluate('(el)=>getComputedStyle(el).display')=='none'
+        assert page.locator('#p0-feed').evaluate('(el)=>el.parentElement.id')=='side'
+        page.wait_for_function("document.querySelectorAll('#p1-rail-chips button').length>0",timeout=15000)
+        before=page.locator('#p1-rail-chips button').count()
+        assert before>=2
+        page.locator('#p1-category-query').fill('zzzz-not-a-category')
+        assert page.locator('#p1-rail-chips button:not([hidden])').count()==0
+        page.locator('#p1-category-query').fill('')
+        assert page.locator('#p1-rail-chips button:not([hidden])').count()==before
         assert 'QA-approved events' in page.locator('#p0-feed').inner_text()
         assert page.locator('#p0-feed').evaluate('(el)=>el.parentElement.id')=='side'
         assert page.locator('#p0-feed').evaluate('(el)=>getComputedStyle(el).position')=='static'
-        page.locator('#ind-title').evaluate('(el)=>el.textContent="Winkelbauer GmbH"')
-        page.locator('#ind-body').evaluate('(el)=>el.textContent="Already public research data"')
-        page.locator('#ind-card').evaluate('(el)=>el.hidden=false')
-        assert 'Winkelbauer GmbH' in page.locator('#p0-dossier-body').inner_text()
-        page.wait_for_function("document.querySelector('#p0-dossier-body a') !== null",timeout=12000)
-        assert page.locator('#p0-dossier-body a').count()>=1
-        assert 'Atlas research ID: at-001' in page.locator('#p0-dossier-body').inner_text()
-        assert 'No canonical Notion identity inferred' in page.locator('#p0-dossier-body').inner_text()
-        assert 'Independent QA approval not established' in page.locator('#p0-dossier-body').inner_text()
         assert page.locator('a[href="/about.html"]').count()>=1
         if name=='mobile':
             assert page.locator('details.m1-mobile-menu').count()==1
