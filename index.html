@@ -14,13 +14,16 @@
   <link rel="stylesheet" crossorigin href="/assets/atlas-QXBP-sMt.css">
 
   <style id="p0-safe-panels">
-    .p0-feed,.p0-dossier{position:fixed;z-index:650;top:104px;width:min(270px,calc(100vw - 32px));max-height:calc(100dvh - 150px);overflow:auto;background:rgba(13,24,22,.92);border:1px solid #988b62;color:#f1ead8;border-radius:9px;padding:14px;font:13px/1.5 system-ui;box-shadow:0 7px 25px #0005}
-    .p0-feed{left:14px}.p0-dossier{right:14px}.p0-feed h2,.p0-dossier h2{font-size:15px;margin:0 0 10px;color:#e1c58b}.p0-feed p,.p0-dossier p{margin:6px 0}
-    @media(max-width:900px){.p0-feed,.p0-dossier{display:none}.p0-panel-toggle{display:block!important}}
+    /* Existing Atlas owns the sidebar. Never float an overlay above search or filters. */
+    #side #p0-feed{position:static;width:auto;max-height:none;overflow:visible;box-shadow:none;border:0;border-top:1px solid #756d4b;border-radius:0;padding:12px 0;margin:12px 0;background:transparent;color:#f1ead8;font:13px/1.5 system-ui}
+    #p0-dossier{position:fixed;z-index:650;right:14px;top:104px;width:min(270px,calc(100vw - 32px));max-height:calc(100dvh - 160px);overflow:auto;background:rgba(13,24,22,.92);border:1px solid #988b62;color:#f1ead8;border-radius:9px;padding:14px;font:13px/1.5 system-ui;box-shadow:0 7px 25px #0005}
+    #p0-feed h2,#p0-dossier h2{font-size:15px;margin:0 0 10px;color:#e1c58b}
+    #p0-feed p,#p0-dossier p{margin:6px 0}
+    #p0-dossier .p0-unverified{color:#e1c58b;font-size:12px}
+    @media(max-width:900px){#p0-dossier{display:none}.p0-panel-toggle{display:block!important}}
     .p0-panel-toggle{display:none;position:fixed;z-index:700;bottom:16px;left:16px;border:1px solid #a99a6a;border-radius:8px;background:#14231d;color:#fff1d5;padding:10px}
-    body.p0-panels-open .p0-feed{display:block;top:auto;bottom:68px;max-height:35dvh}
-    body.p0-panels-open .p0-dossier{display:block;top:auto;bottom:68px;left:auto;right:14px;max-height:35dvh}
-    @media(max-width:650px){body.p0-panels-open .p0-dossier{display:none}.p0-feed{width:calc(100vw - 28px)}}
+    body.p0-panels-open #p0-dossier{display:block;top:auto;bottom:68px;max-height:35dvh}
+    @media(max-width:650px){body.p0-panels-open #p0-dossier{left:14px;right:14px;width:auto}}
   </style>
 </head>
 <body>
@@ -115,6 +118,10 @@
       <input id="q" type="search" placeholder="Search companies, cities, countries" autocomplete="off" aria-label="Search" aria-controls="q-results" />
       <ol id="q-results" class="q-results" hidden></ol>
     </div>
+  <aside class="p0-feed" id="p0-feed" aria-label="Intelligence Feed" data-public-release-only="true">
+    <h2>INTELLIGENCE FEED</h2>
+    <p>Verified intelligence only. No independently QA-approved events available for public release.</p>
+  </aside>
     <section class="layers">
       <h4>LAYERS</h4>
       <label class="layer" data-for="companies"><input type="checkbox" /> <span>Companies</span> <small id="n-companies"></small></label>
@@ -135,16 +142,45 @@
   <p class="demo">Public beta · <a href="/about-project.html">About the project</a> · Open-data research atlas · Coverage incomplete · Companies are not Bohundefence clients or partners. City-centre markers are not facility addresses. Borders: Natural Earth (not a statement on territorial status). Base map © OpenStreetMap / OpenFreeMap.</p>
 
   
-  <aside class="p0-feed" id="p0-feed" aria-label="Intelligence Feed" data-public-release-only="true">
-    <h2>INTELLIGENCE FEED</h2>
-    <p>Verified intelligence only. No independently QA-approved events available for public release.</p>
-  </aside>
+
   <aside class="p0-dossier" id="p0-dossier" aria-label="Company Dossier" data-public-release-only="true">
     <h2>COMPANY DOSSIER</h2>
-    <p>Select a publicly verified company when approved records become available. Research candidates are not published.</p>
+    <p id="p0-dossier-body">Choose a company on the map. Existing public research entries are not independently QA-approved.</p>
   </aside>
   <button type="button" class="p0-panel-toggle" id="p0-panel-toggle" aria-controls="p0-feed p0-dossier" aria-expanded="false">INTELLIGENCE</button>
-  <script>document.getElementById('p0-panel-toggle').addEventListener('click',function(){const expanded=document.body.classList.toggle('p0-panels-open');this.setAttribute('aria-expanded',String(expanded));});</script>
+  <script>
+    document.getElementById('p0-panel-toggle').addEventListener('click',function(){
+      const expanded=document.body.classList.toggle('p0-panels-open');
+      this.setAttribute('aria-expanded',String(expanded));
+    });
+    // Mirror only ALREADY PUBLIC legacy map-card text. Never load or reveal Notion HOLD records.
+    (function(){
+      const title=document.getElementById('ind-title');
+      const body=document.getElementById('ind-body');
+      const card=document.getElementById('ind-card');
+      const output=document.getElementById('p0-dossier-body');
+      if(!title||!body||!card||!output)return;
+      const render=()=>{
+        if(card.hidden||!title.textContent.trim()){
+          output.textContent='Choose a company on the map. Existing public research entries are not independently QA-approved.';
+          return;
+        }
+        output.replaceChildren();
+        const name=document.createElement('strong');
+        name.textContent=title.textContent.trim();
+        const warning=document.createElement('p');
+        warning.className='p0-unverified';
+        warning.textContent='Existing open-data research entry. Not independent QA approval.';
+        const detail=document.createElement('p');
+        detail.textContent=body.textContent.trim().slice(0,1600);
+        output.append(name,warning,detail);
+      };
+      new MutationObserver(render).observe(card,{attributes:true,attributeFilter:['hidden']});
+      new MutationObserver(render).observe(title,{childList:true,subtree:true,characterData:true});
+      new MutationObserver(render).observe(body,{childList:true,subtree:true,characterData:true});
+      render();
+    })();
+  </script>
 
   <noscript><p class="fallback">Bohun Defence helps companies navigate defence and dual-use markets across Ukraine and internationally.</p></noscript>
 </body>
