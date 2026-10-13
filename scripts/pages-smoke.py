@@ -56,7 +56,6 @@ with sync_playwright() as p:
         assert page.locator('#p1-rail-chips .dock-label').count()==before
         assert page.locator('#p1-rail-chips .dock-count').count()==0
         assert page.locator('#p1-rail-chips .dock-label').first.inner_text()=='Components'
-        assert page.locator('#p1-rail-chips .dock-count').first.inner_text()=='14', page.locator('#cat-chips').evaluate('(e)=>e.outerHTML.slice(0,3500)')
         page.locator('#p1-category-query').fill('zzzz-not-a-category')
         assert page.locator('#p1-rail-chips button:not([hidden])').count()==0
         page.locator('#p1-category-query').fill('')
