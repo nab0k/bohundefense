@@ -47,7 +47,12 @@ with sync_playwright() as p:
         assert page.locator('#p0-feed').evaluate('(el)=>el.parentElement.id')=='side'
         page.wait_for_function("document.querySelectorAll('#p1-rail-chips button').length>0",timeout=15000)
         before=page.locator('#p1-rail-chips button').count()
-        assert before>=2, page.locator('#cat-chips').evaluate('(e)=>e.outerHTML.slice(0,3500)')
+        assert before>=2
+        assert page.locator('#p1-rail-chips .dock-icon').count()==before
+        assert page.locator('#p1-rail-chips .dock-label').count()==before
+        assert page.locator('#p1-rail-chips .dock-count').count()==before
+        assert page.locator('#p1-rail-chips .dock-label').first.inner_text()=='Components'
+        assert page.locator('#p1-rail-chips .dock-count').first.inner_text()=='14', page.locator('#cat-chips').evaluate('(e)=>e.outerHTML.slice(0,3500)')
         page.locator('#p1-category-query').fill('zzzz-not-a-category')
         assert page.locator('#p1-rail-chips button:not([hidden])').count()==0
         page.locator('#p1-category-query').fill('')
