@@ -174,7 +174,7 @@ const original=document.getElementById('cat-chips'),rail=document.getElementById
 if(!original||!rail||!query)return;
 let source=[],mirrors=[];
 function sync(){
- const next=[...original.children].filter(el=>el.textContent.trim());
+ const next=[...original.querySelectorAll('.chips-box > button.chip')].filter(el=>el.textContent.trim());
  if(next.length!==source.length||next.some((el,i)=>el!==source[i])){
   source=next;mirrors=[];rail.replaceChildren();
   for(const el of source){
