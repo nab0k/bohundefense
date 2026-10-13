@@ -39,7 +39,19 @@
 @media(max-width:1100px){#p1-category-rail{left:360px;right:14px}}
 @media(max-width:900px){#p1-category-rail{left:14px;right:14px;bottom:66px}}
 </style><!-- GitHub Pages rebuild probe: P1 category rail; no content/data changes -->
-</head>
+<style id="atlas-icon-dock">
+#p1-category-rail{left:50%!important;right:auto!important;transform:translateX(-50%);width:min(1120px,calc(100vw - 38px));bottom:12px!important;padding:8px 12px!important;background:rgba(12,22,20,.97)!important;border-radius:14px!important}
+#p1-category-rail .head{margin-bottom:5px!important;font-size:11px!important}
+#p1-category-query{font-size:11px!important;padding:3px 8px!important;width:130px!important}
+#p1-rail-chips{gap:7px!important;padding:2px 1px 5px!important;overscroll-behavior-x:contain}
+#p1-rail-chips button{flex:0 0 93px!important;min-height:70px;max-width:106px;display:flex!important;flex-direction:column;align-items:center;justify-content:center;gap:3px;white-space:normal!important;padding:8px 5px!important;background:#1a2a24!important;border:1px solid #435047!important;border-radius:10px!important;text-align:center!important}
+#p1-rail-chips button[hidden]{display:none!important}
+#p1-rail-chips button[aria-pressed=true]{background:#36402f!important;border-color:#ddbc75!important}
+#p1-rail-chips .dock-icon{font-size:22px;color:#e5c37b;line-height:1.1}
+#p1-rail-chips .dock-label{font:600 11px/1.1 system-ui;color:#ebe7db}
+#p1-rail-chips .dock-count{font:10px system-ui;color:#abb5ac}
+@media(max-width:900px){#p1-category-rail{bottom:64px!important}#p1-rail-chips button{flex-basis:79px!important;min-height:64px}}
+</style></head>
 <body>
   <div id="map" aria-label="World map. Drag to move, scroll to zoom, right-drag to rotate and tilt."></div>
 
@@ -186,8 +198,18 @@ function sync(){
   }
  }
  source.forEach((el,i)=>{
-  const b=mirrors[i];b.textContent=el.textContent.trim();
-  b.hidden=!b.textContent.toLowerCase().includes(query.value.trim().toLowerCase());
+  const b=mirrors[i];
+  const label=el.querySelector('span')?.textContent?.trim()||el.textContent.trim();
+  const count=el.querySelector('small')?.textContent?.trim()||'';
+  const terms=[['components','Components','⚙'],['land','Land','🛡'],['electronic','Electronics','📡'],['propulsion','Propulsion','🚀'],['uncrewed','Uncrewed','✈'],['small arms','Weapons','🎯'],['software','Software','▣'],['testing','Testing','⚗']];
+  const found=terms.find(([key])=>label.toLowerCase().includes(key));
+  const short=found?found[1]:label, symbol=found?found[2]:'◇';
+  const iEl=document.createElement('span');iEl.className='dock-icon';iEl.textContent=symbol;iEl.setAttribute('aria-hidden','true');
+  const lEl=document.createElement('span');lEl.className='dock-label';lEl.textContent=short;
+  b.replaceChildren(iEl,lEl);
+  if(count){const cEl=document.createElement('span');cEl.className='dock-count';cEl.textContent=count;b.append(cEl)}
+  b.setAttribute('aria-label',label+(count?' · '+count+' companies':''));
+  b.hidden=!label.toLowerCase().includes(query.value.trim().toLowerCase());
   b.setAttribute('aria-pressed',String(el.classList.contains('on')||el.classList.contains('active')||el.getAttribute('aria-pressed')==='true'));
  });
 }
