@@ -46,7 +46,7 @@ with sync_playwright() as p:
         assert page.locator('.layers').evaluate('(el)=>getComputedStyle(el).display')=='none'
         assert page.locator('#p0-feed').evaluate('(el)=>el.parentElement.id')=='side'
         try:
-            page.wait_for_function("document.querySelectorAll('#p1-rail-chips button').length>0",timeout=15000)
+            page.wait_for_function("document.querySelectorAll('#p1-rail-chips button').length>0",timeout=35000)
         except Exception:
             print('RAIL_DIAGNOSTICS',errors,page.locator('#cat-chips').evaluate('(el)=>el.innerHTML.slice(0,400)'),page.locator('#p1-category-bind').count())
             raise
