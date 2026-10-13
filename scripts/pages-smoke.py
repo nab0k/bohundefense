@@ -60,7 +60,7 @@ with sync_playwright() as p:
         assert page.locator('#p1-rail-chips button:not([hidden])').count()==0
         page.locator('#p1-category-query').evaluate('(e)=>{e.value="";e.dispatchEvent(new Event("input",{bubbles:true}))}')
         assert page.locator('#p1-rail-chips button:not([hidden])').count()==before
-        assert 'QA-approved events' in page.locator('#p0-feed').inner_text()
+        page.wait_for_function("document.querySelectorAll('#p0-feed .feed-item').length>=20",timeout=18000)
         assert page.locator('#p0-feed').evaluate('(el)=>el.parentElement.id')=='side'
         assert page.locator('#p0-feed').evaluate('(el)=>getComputedStyle(el).position')=='static'
         assert page.locator('a[href="/about.html"]').count()>=1
@@ -76,4 +76,11 @@ with sync_playwright() as p:
         assert not any('notion-atlas-at34' in x for x in errors)
         print(f'PASS {name}: map DOM, search, navigation, responsive menu, screenshot; page JS errors={len(errors)}')
         page.close()
+        directory=browser.new_page(viewport={'width':width,'height':height})
+        directory.goto('http://127.0.0.1:8765/companies.html',wait_until='domcontentloaded',timeout=30000)
+        directory.wait_for_function("document.querySelector('#count')?.textContent.includes('3429')",timeout=25000)
+        assert directory.locator('.card').count()==3429
+        assert directory.locator('.card a[href*="app.notion.com"]').count()>3000
+        print('PASS Notion directory 3429 research entries',name)
+        directory.close()
     browser.close()
