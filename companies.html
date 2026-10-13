@@ -27,7 +27,7 @@ function render(){
  }
  cards.append(frag)
 }
-Promise.all([fetch("/atlas/industry.json"),fetch("/atlas/companies-at.json")].map(async r=>{if(!r.ok)throw Error("Dataset unavailable");const j=await r.json();if(!Array.isArray(j.companies))throw Error("Invalid dataset");return j.companies})).then(groups=>{
+Promise.all(["/atlas/industry.json","/atlas/companies-at.json"].map(async path=>{const r=await fetch(path);if(!r.ok)throw Error("Dataset unavailable: "+path);const j=await r.json();if(!Array.isArray(j.companies))throw Error("Invalid dataset: "+path);return j.companies})).then(groups=>{
  const byId=new Map();for(const x of groups[0])byId.set("industry:"+x.id,{...x,country:x.country||""});for(const x of groups[1])byId.set("at:"+x.id,{...x,country:"AT",product:x.cat||""});companies=[...byId.values()].sort((a,b)=>String(a.name).localeCompare(String(b.name)));
  for(const c of [...new Set(companies.map(x=>x.country).filter(Boolean))].sort()){const opt=document.createElement("option");opt.value=c;opt.textContent=c;country.append(opt)}render()
 }).catch(()=>{count.textContent="Company directory is temporarily unavailable.";cards.replaceChildren()});
