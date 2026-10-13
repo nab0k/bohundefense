@@ -41,12 +41,19 @@ with sync_playwright() as p:
         assert page.locator('#p0-feed').count()==1
         assert page.locator('#p0-dossier').count()==1
         assert 'QA-approved events' in page.locator('#p0-feed').inner_text()
+        assert page.locator('#p0-feed').evaluate('(el)=>el.parentElement.id')=='side'
+        assert page.locator('#p0-feed').evaluate('(el)=>getComputedStyle(el).position')=='static'
+        page.locator('#ind-title').evaluate('(el)=>el.textContent="Production-visible example"')
+        page.locator('#ind-body').evaluate('(el)=>el.textContent="Already public research data"')
+        page.locator('#ind-card').evaluate('(el)=>el.hidden=false')
+        assert 'Production-visible example' in page.locator('#p0-dossier-body').inner_text()
+        assert 'Not independent QA approval' in page.locator('#p0-dossier-body').inner_text()
         assert page.locator('a[href="/about.html"]').count()>=1
         if name=='mobile':
             assert page.locator('details.m1-mobile-menu').count()==1
             page.locator('#p0-panel-toggle').click()
             assert page.locator('#p0-panel-toggle').get_attribute('aria-expanded')=='true'
-            assert page.locator('#p0-feed').is_visible()
+            assert page.locator('#p0-dossier').is_visible()
             page.locator('details.m1-mobile-menu summary').click()
             assert page.locator('details.m1-mobile-menu').evaluate('(e)=>e.open')
         page.locator('#q').fill('zzzz-p0-nonexistent-company')
