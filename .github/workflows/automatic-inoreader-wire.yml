@@ -1,5 +1,10 @@
 name: Automatic Inoreader Source Wire
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/automatic-inoreader-wire.yml'
+      - 'scripts/update-source-wire.py'
   schedule:
     - cron: '*/15 * * * *'
   workflow_dispatch:
