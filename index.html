@@ -66,7 +66,34 @@
 #notion-index-panel .notion-location{display:block;color:#aab6a9}
 @media(max-width:900px){#notion-index-panel{display:none}}
 </style><!-- GitHub Pages rebuild marker: source wire release 3fc3c1c -->
-</head>
+<style id="atlas-v2-workspace">
+/* Unified map: legacy controls retained in DOM for map engine but hidden from viewers */
+#side .layers,#side .cats,#side .filters,#side .filter-panel,.legends,#ind-legend,#legend,#legend-sea{display:none!important}
+#side{pointer-events:none!important;max-width:0!important;min-width:0!important;width:0!important;border:0!important;padding:0!important}
+#side .search{display:none!important}
+#side #p0-feed{position:fixed!important;left:14px;top:86px;width:clamp(250px,21vw,355px)!important;max-width:calc(100vw - 28px)!important;height:calc(100dvh - 184px)!important;max-height:none!important;min-height:0!important;padding:0!important;margin:0!important;z-index:640;pointer-events:auto!important;overflow:hidden!important;border:1px solid #6b6447!important;border-radius:11px!important;background:rgba(12,21,18,.96)!important;box-shadow:0 8px 25px #0005!important;display:flex!important;flex-direction:column!important;resize:both}
+#p0-feed #atlas-feed-body{overflow-y:auto;flex:1;min-height:0;padding:12px}
+#p0-feed #atlas-feed-body>h2{display:none}
+#p0-dossier{display:block;top:86px;right:14px;width:clamp(250px,21vw,340px);padding:0;min-height:105px;resize:both;overflow:auto}
+#p0-dossier #p0-dossier-body{padding:12px!important;font-size:12px}
+#p0-dossier #p0-dossier-body h3{font-size:14px;line-height:1.35;color:#f0e8d6}
+#p0-dossier #p0-dossier-body a{color:#ebcb83}
+#atlas-window-restore{position:fixed;z-index:800;right:18px;bottom:76px;display:flex;gap:8px}
+#atlas-window-restore button{background:#162722;color:#e5c990;border:1px solid #8c7955;border-radius:8px;padding:8px 12px;cursor:pointer}
+#atlas-window-restore button[hidden]{display:none}
+.atlas-window-bar{display:flex;justify-content:space-between;align-items:center;gap:10px;background:#182621;border-bottom:1px solid #5c6048;padding:9px 11px;touch-action:none;cursor:grab;color:#e3ca91;user-select:none;font:700 12px system-ui;letter-spacing:.02em;flex-shrink:0}
+.atlas-window-bar button{border:1px solid #58604c;border-radius:6px;background:#213129;color:#e6d4b1;font:17px/1 system-ui;cursor:pointer;width:28px;height:25px}
+#p0-feed.atlas-minimized,#p0-dossier.atlas-minimized{display:none!important}
+#notion-index-panel{display:none!important}
+#p1-category-rail{z-index:665!important}
+@media(max-width:900px){
+ #side #p0-feed{top:auto!important;bottom:64px!important;left:12px!important;right:12px!important;width:calc(100vw - 24px)!important;height:min(45dvh,420px)!important;resize:none!important}
+ #p0-dossier{display:none;left:12px!important;right:12px!important;top:auto!important;bottom:64px!important;width:calc(100vw - 24px)!important;max-height:60dvh!important;resize:none!important}
+ body.p0-panels-open #p0-dossier{display:block}
+ #atlas-window-restore{right:12px;bottom:126px}
+ #p0-panel-toggle{display:none!important}
+}
+</style></head>
 <body>
   <div id="map" aria-label="World map. Drag to move, scroll to zoom, right-drag to rotate and tilt."></div>
 
@@ -269,5 +296,5 @@ try{
  }
  document.body.append(panel);
 }catch(e){console.warn('Notion public research index unavailable',e)}
-})();</script></body>
+})();</script><script defer src="/assets/atlas-context-panels.js"></script></body>
 </html>
