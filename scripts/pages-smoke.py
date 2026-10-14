@@ -68,7 +68,7 @@ with sync_playwright() as p:
         assert page.locator('a[href="/about.html"]').count()>=1
         if name=='mobile':
             assert page.locator('details.m1-mobile-menu').count()==1
-            page.evaluate("document.body.classList.add('p0-panels-open')")
+            page.evaluate("document.body.classList.add('p0-panels-open');document.querySelector('#p0-dossier').classList.remove('atlas-no-selection')")
             assert page.locator('#p0-dossier').is_visible()
             page.locator('details.m1-mobile-menu summary').click()
             assert page.locator('details.m1-mobile-menu').evaluate('(e)=>e.open')
