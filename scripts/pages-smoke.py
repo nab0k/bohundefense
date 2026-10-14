@@ -119,7 +119,7 @@ with sync_playwright() as p:
     mocked=map_page.evaluate("""async () => {
       const approved = {
         type:'FeatureCollection',
-        metadata:{location_policy:'Approved city-centre context only. Not manufacturing facilities.'},
+        metadata:{location_policy:'Approved city-centre context only. Not manufacturing facilities.',exported:1},
         features:[{type:'Feature',geometry:{type:'Point',coordinates:[16.37,48.21]},
           properties:{name:'QA Test Company',city:'Vienna',country:'AT',category:'testing',
             website:'https://example.org',research_status:'research_publishable',
