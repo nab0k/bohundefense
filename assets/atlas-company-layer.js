@@ -13,7 +13,7 @@
       Array.isArray(c) && c.length===2 && c.every(Number.isFinite) &&
       c[0]>=-180 && c[0]<=180 && c[1]>=-90 && c[1]<=90 &&
       p?.location_precision==='city_context_only' &&
-      p?.research_status==='research_publishable' &&
+      p?.research_status==='research_publishable' && p?.map_qa_approved===true &&
       typeof p?.location_source==='string' && p.location_source.startsWith('https://');
   }
   function validate(j){
@@ -33,6 +33,7 @@
       typeof map.getSource!=='function' || typeof map.getLayer!=='function' ||
       typeof map.on!=='function')throw Error('Compatible map adapter required');
     if(!data)throw Error('Load and validate approved company layer first');
+    if(data.features.length===0)return {sourceId,layerId,count:0,attached:false};
     const install=()=>{
       if(map.getSource(sourceId)){
         const source=map.getSource(sourceId);
