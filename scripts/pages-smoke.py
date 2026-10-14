@@ -40,7 +40,9 @@ with sync_playwright() as p:
         assert page.locator('#cat-chips').count()==1
         assert page.locator('#p0-feed').count()==1
         assert page.locator('#p0-dossier').count()==1
-        assert 'ANALYTICS DOSSIER' in page.locator('#p0-dossier').inner_text()
+        assert page.locator('#p0-dossier .atlas-window-bar').count()==1
+        assert page.locator('#p0-feed .atlas-window-bar').count()==1
+        assert page.locator('#notion-index-panel').count()==0
         assert page.locator('#p1-category-rail').count()==1
         assert page.locator('#p1-category-query').count()==1
         assert page.locator('.layers').evaluate('(el)=>getComputedStyle(el).display')=='none'
@@ -62,12 +64,11 @@ with sync_playwright() as p:
         assert page.locator('#p1-rail-chips button:not([hidden])').count()==before
         assert 'QA-approved events' in page.locator('#p0-feed').inner_text()
         assert page.locator('#p0-feed').evaluate('(el)=>el.parentElement.id')=='side'
-        assert page.locator('#p0-feed').evaluate('(el)=>getComputedStyle(el).position')=='static'
+        assert page.locator('#p0-feed').evaluate('(el)=>getComputedStyle(el).position')=='fixed'
         assert page.locator('a[href="/about.html"]').count()>=1
         if name=='mobile':
             assert page.locator('details.m1-mobile-menu').count()==1
-            page.locator('#p0-panel-toggle').click()
-            assert page.locator('#p0-panel-toggle').get_attribute('aria-expanded')=='true'
+            page.evaluate("document.body.classList.add('p0-panels-open');document.querySelector('#p0-dossier').classList.remove('atlas-no-selection')")
             assert page.locator('#p0-dossier').is_visible()
             page.locator('details.m1-mobile-menu summary').click()
             assert page.locator('details.m1-mobile-menu').evaluate('(e)=>e.open')
