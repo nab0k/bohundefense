@@ -81,4 +81,24 @@ with sync_playwright() as p:
         assert not any('notion-atlas-at34' in x for x in errors)
         print(f'PASS {name}: map DOM, search, navigation, responsive menu, screenshot; page JS errors={len(errors)}')
         page.close()
+    # Directory -> Atlas company dossier (review-only, no map marker).
+    directory=browser.new_page()
+    directory.goto('http://127.0.0.1:8765/companies.html',wait_until='domcontentloaded')
+    directory.locator('#cards .card').first.wait_for(timeout=15000)
+    link=directory.locator('#cards a.dossier-link').first
+    assert link.count()==1, 'Directory company dossier link missing'
+    href=link.get_attribute('href')
+    assert href.startswith('/?company='),f'unexpected dossier deep link {href}'
+    dossier=browser.new_page()
+    dossier_errors=[]
+    dossier.on('pageerror',lambda exc:dossier_errors.append(str(exc)))
+    dossier.goto('http://127.0.0.1:8765'+href,wait_until='domcontentloaded',timeout=30000)
+    dossier.locator('#p0-dossier-body .p0-unverified').wait_for(timeout=15000)
+    assert 'Not independently verified' in dossier.locator('#p0-dossier-body').inner_text()
+    assert dossier.locator('#p0-dossier-body h3').count()==1
+    assert dossier.locator('#p0-dossier-body a[href="#"]').count()==0
+    assert not any('atlas-company-dossier-link' in e for e in dossier_errors),dossier_errors
+    print('PASS Directory-to-Atlas dossier: deep link, research disclaimer, safe website')
+    directory.close()
+    dossier.close()
     browser.close()
