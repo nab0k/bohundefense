@@ -9,8 +9,8 @@
       return;
     }
     try{
-      map.setPaintProperty('ind-cluster','circle-radius',
-        ['step',['get','point_count'],10,5,12,20,15,50,18]);
+      map.setLayoutProperty('ind-cluster','visibility','none');
+      if(map.getLayer('ind-count'))map.setLayoutProperty('ind-count','visibility','none');
       map.setPaintProperty('ind-cluster','circle-color','#26372f');
       map.setPaintProperty('ind-cluster','circle-opacity',0.82);
       map.setPaintProperty('ind-cluster','circle-stroke-color','#bba46f');
