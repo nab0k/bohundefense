@@ -65,6 +65,10 @@ with sync_playwright() as p:
         assert 'QA-approved events' in page.locator('#p0-feed').inner_text()
         assert page.locator('#p0-feed').evaluate('(el)=>el.parentElement.id')=='side'
         assert page.locator('#p0-feed').evaluate('(el)=>getComputedStyle(el).position')=='fixed'
+        page.locator('#p0-feed .atlas-window-bar button').click()
+        assert page.locator('#p0-feed').evaluate('(el)=>getComputedStyle(el).display')=='none'
+        page.locator('#atlas-window-restore button').first.click()
+        assert page.locator('#p0-feed').is_visible()
         assert page.locator('a[href="/about.html"]').count()>=1
         if name=='mobile':
             assert page.locator('details.m1-mobile-menu').count()==1
