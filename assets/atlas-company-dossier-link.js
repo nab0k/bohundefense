@@ -1,32 +1,52 @@
-/* Research-only dossier deep link. Does not add map markers or geocode locations. */
+/* Open a Notion research record in the site's own Atlas dossier panel. */
 (() => {
   'use strict';
   const params = new URLSearchParams(location.search);
   const requested = params.get('company');
-  if (!requested || !window.AtlasContext?.showCompany) return;
+  if (!requested) return;
   const country = (params.get('country') || '').trim().toUpperCase();
-  const panel = document.getElementById('p0-dossier-body');
-  if (!panel) return;
+  const panel = document.getElementById('p0-dossier');
+  const body = document.getElementById('p0-dossier-body');
   const normalized = s => String(s || '').normalize('NFKC').trim().toLocaleLowerCase();
-  fetch('/atlas/notion-companies-index.json', {cache:'no-store'})
-    .then(r => { if(!r.ok) throw new Error('Directory unavailable'); return r.json(); })
-    .then(data => {
-      if(!Array.isArray(data.companies)) throw new Error('Malformed directory');
+
+  function showError(message) {
+    if (!panel || !body) return;
+    const note = document.createElement('p');
+    note.textContent = message;
+    body.replaceChildren(note);
+    panel.classList.remove('atlas-no-selection', 'atlas-minimized');
+    if (window.innerWidth <= 900) document.body.classList.add('p0-panels-open');
+    document.querySelectorAll('#atlas-window-restore button')[1]?.setAttribute('hidden', '');
+  }
+
+  async function openDossier() {
+    if (!window.AtlasContext?.showCompany) {
+      showError('Atlas dossier panel is unavailable.');
+      return;
+    }
+    try {
+      const response = await fetch('/atlas/notion-companies-index.json', {cache:'no-store'});
+      if (!response.ok) throw Error('Directory unavailable');
+      const data = await response.json();
+      if (!Array.isArray(data.companies)) throw Error('Malformed directory');
       const matches = data.companies.filter(c =>
         normalized(c.name) === normalized(requested) &&
         (!country || String(c.country || '').toUpperCase() === country)
       );
-      if(matches.length !== 1) {
-        const message=document.createElement('p');
-        message.textContent=matches.length ? 'Multiple matching research records. Select a company from Directory.' : 'Company record not found in the research directory.';
-        panel.replaceChildren(message);
-        return;
+      if (matches.length === 0) {
+        showError('Company record not found in the research directory.');
+      } else if (matches.length > 1) {
+        showError('Multiple matching research records. Refine the selection in Directory.');
+      } else {
+        window.AtlasContext.showCompany(matches[0]);
       }
-      window.AtlasContext.showCompany(matches[0]);
-    })
-    .catch(() => {
-      const message=document.createElement('p');
-      message.textContent='Research company dossier is temporarily unavailable.';
-      panel.replaceChildren(message);
-    });
+    } catch (error) {
+      showError('Research company dossier is temporarily unavailable.');
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', openDossier, {once:true});
+  } else {
+    openDossier();
+  }
 })();
