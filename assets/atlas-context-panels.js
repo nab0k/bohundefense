@@ -2,6 +2,7 @@
 'use strict';
 const feed=document.getElementById('p0-feed'),panel=document.getElementById('p0-dossier');
 if(!feed||!panel)return;
+panel.classList.add('atlas-no-selection');
 feed.removeAttribute('data-public-release-only');
 const inner=document.createElement('div');inner.id='atlas-feed-body';
 while(feed.firstChild)inner.append(feed.firstChild);
@@ -53,7 +54,7 @@ function showNews(x){
  const note=document.createElement('p');note.textContent='Publisher headline. Full text and independent analysis are not available in the current feed.';
  const a=document.createElement('a');a.textContent='Read original ↗';a.href=url;a.target='_blank';a.rel='noopener noreferrer';
  contextBody.replaceChildren(h,meta,note,a);
- panel.classList.remove('atlas-minimized');restore.querySelectorAll('button')[1].hidden=true;
+ panel.classList.remove('atlas-minimized','atlas-no-selection');restore.querySelectorAll('button')[1].hidden=true;
  if(innerWidth<=900)document.body.classList.add('p0-panels-open');
 }
 document.addEventListener('click',e=>{
