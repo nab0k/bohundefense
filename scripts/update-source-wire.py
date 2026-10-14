@@ -12,6 +12,8 @@ req=urllib.request.Request(url,headers={"apikey":key,"Authorization":"Bearer "+k
 try:
     with urllib.request.urlopen(req,timeout=40) as response:
         rows=json.load(response)
+except urllib.error.HTTPError as e:
+    sys.exit("Source API request failed, HTTP status "+str(e.code)+"; no credentials logged")
 except Exception as e:
     sys.exit("Source API request failed (no credentials logged): "+type(e).__name__)
 seen=set()
