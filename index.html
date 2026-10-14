@@ -306,5 +306,11 @@ setInterval(updateWire,60000);
 <script id="atlas-category-pressed-state">
 (()=>{const rail=document.getElementById('p1-rail-chips');if(!rail)return;let last=null;rail.addEventListener('click',event=>{const button=event.target.closest('button');if(!button||!rail.contains(button))return;const next=last===button?null:button;last=next;requestAnimationFrame(()=>rail.querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',String(b===next))));},true);})();
 </script>
-</body>
+<style id="atlas-dock-selected-v3">
+#p1-rail-chips button.atlas-user-selected{background:#715522!important;border:2px solid #ffd479!important;box-shadow:0 0 0 2px #ffd47966,0 0 14px #ffd47977!important;opacity:1!important;color:#fff5d9!important}
+#p1-rail-chips button.atlas-user-selected .dock-icon,#p1-rail-chips button.atlas-user-selected .dock-label{color:#fff5d9!important;opacity:1!important}
+</style>
+<script id="atlas-dock-selection-v3">
+(()=>{const rail=document.getElementById('p1-rail-chips');if(!rail)return;let selected='';const label=b=>b.querySelector('.dock-label')?.textContent?.trim()||'';rail.addEventListener('click',e=>{const b=e.target.closest('button');if(!b||!rail.contains(b))return;const key=label(b);selected=selected===key?'':key;requestAnimationFrame(()=>{rail.querySelectorAll('button').forEach(el=>{const on=!!selected&&label(el)===selected;el.classList.toggle('atlas-user-selected',on);el.setAttribute('aria-pressed',String(on))})})},true);new MutationObserver(()=>{for(const b of rail.querySelectorAll('button'))b.classList.toggle('atlas-user-selected',!!selected&&label(b)===selected)}).observe(rail,{childList:true});})();
+</script></body>
 </html>
