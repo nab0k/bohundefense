@@ -53,6 +53,9 @@
 #p1-rail-chips .dock-count{display:none!important}
 @media(max-width:900px){#p1-category-rail{bottom:61px!important;max-width:calc(100vw - 20px)}#p1-rail-chips{max-width:calc(100vw - 40px)}#p1-rail-chips button{min-width:60px;min-height:43px!important}}
 </style><style id="atlas-dock-active-v2">
+#p1-category-rail,#p1-rail-chips,#p1-rail-chips button{pointer-events:auto!important}
+#p1-category-rail{isolation:isolate;z-index:1000!important}
+#p1-rail-chips button{position:relative;z-index:1;cursor:pointer!important;touch-action:manipulation}
 #p1-rail-chips button:focus{outline:none!important}
 #p1-rail-chips button:focus-visible{outline:2px solid #e6c477!important;outline-offset:2px}
 #p1-rail-chips button[aria-pressed="true"]{
@@ -246,7 +249,7 @@ function sync(){
   source=next;mirrors=[];rail.replaceChildren();
   for(const el of source){
    const button=document.createElement('button');button.type='button';
-   button.addEventListener('click',()=>{el.click();sync()});
+   button.addEventListener('click',e=>{e.stopPropagation();el.click();requestAnimationFrame(sync)});
    button.addEventListener('dblclick',()=>{el.dispatchEvent(new MouseEvent('dblclick',{bubbles:true}));sync()});
    rail.append(button);mirrors.push(button);
   }
