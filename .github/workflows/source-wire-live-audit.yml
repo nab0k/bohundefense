@@ -1,0 +1,30 @@
+name: Read Only Live Source Wire Audit
+on:
+  pull_request:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  live:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify production content
+        run: |
+          python3 - <<'PY'
+          import urllib.request,json
+          for host in ('https://bohundefence.com','https://nab0k.github.io/bohundefense'):
+            def get(path):
+              req=urllib.request.Request(host+path,headers={'User-Agent':'BOHUN-QA-ReadOnly/1.0','Cache-Control':'no-cache'})
+              with urllib.request.urlopen(req,timeout=30) as res:
+                assert res.status==200,(host,path,res.status)
+                return res.read().decode('utf-8')
+            html=get('/?audit=3fc3c1c')
+            assert 'id="public-source-wire"' in html,(host,'wire script not live')
+            feed=json.loads(get('/feed/inoreader-source-wire.json?audit=3fc3c1c'))
+            companies=json.loads(get('/atlas/notion-companies-public-research.json?audit=3fc3c1c'))
+            assert len(feed['items'])==100,(host,'feed size',len(feed['items']))
+            assert len(companies['companies'])==34,(host,'notion count',len(companies['companies']))
+            print('LIVE PASS',host,'source wire',len(feed['items']),'Notion research index',len(companies['companies']))
+          PY
