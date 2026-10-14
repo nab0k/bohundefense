@@ -27,7 +27,7 @@ jobs:
           python-version: '3.12'
       - name: Export attributed source headlines
         env:
-          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          SUPABASE_PUBLISHABLE_KEY: sb_publishable_NoUH4O8mod-tbyr5yGdFBw_-zF3X5tr
           SUPABASE_URL: https://tecrucawzukxqtchpxrh.supabase.co
         run: python scripts/update-source-wire.py
       - name: Commit only changed public feed
