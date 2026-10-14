@@ -37,7 +37,7 @@ export function makeCompanyLayer(directory, gazetteer) {
     }
     features.push({type:'Feature',geometry:{type:'Point',coordinates:[lon,lat]},properties:{
       name:geo.name,city:geo.city,country:geo.country,category:String(company.category||''),
-      website:String(company.website||''),research_status:company.status,
+      website:String(company.website||''),research_status:company.status,map_qa_approved:true,
       location_precision:'city_context_only',location_source:place.source_url,
       location_label:'Approximate city centre · not a facility address'
     }});
