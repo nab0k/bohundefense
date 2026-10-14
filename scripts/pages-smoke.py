@@ -102,9 +102,10 @@ with sync_playwright() as p:
     directory.close()
     dossier.close()
     # Approved map data is currently empty; no research candidates may leak to pins.
-    dossier.goto('http://127.0.0.1:8765/',wait_until='domcontentloaded')
-    dossier.wait_for_function('Boolean(window.AtlasCompanyLayer)',timeout=15000)
-    counts=dossier.evaluate("""async () => {
+    map_page=browser.new_page()
+    map_page.goto('http://127.0.0.1:8765/',wait_until='domcontentloaded')
+    map_page.wait_for_function('Boolean(window.AtlasCompanyLayer)',timeout=15000)
+    counts=map_page.evaluate("""async () => {
       const layer=window.AtlasCompanyLayer;
       const approved=await layer.load();
       let rejected=false;
@@ -114,4 +115,5 @@ with sync_playwright() as p:
     }""")
     assert counts=={'count':0,'rejected':True},f'company map guard failed: {counts}'
     print('PASS map layer: zero unauthorized pins and invalid feature rejected')
+    map_page.close()
     browser.close()
