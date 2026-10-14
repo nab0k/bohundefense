@@ -3,12 +3,12 @@
 import json, os, sys, urllib.request, urllib.parse
 from pathlib import Path
 base=os.environ.get("SUPABASE_URL","https://tecrucawzukxqtchpxrh.supabase.co").rstrip("/")
-key=os.environ.get("SUPABASE_SERVICE_ROLE_KEY","")
+key=os.environ.get("SUPABASE_PUBLISHABLE_KEY","")
 if not key:
-    sys.exit("SUPABASE_SERVICE_ROLE_KEY secret not configured; existing feed preserved")
+    sys.exit("SUPABASE_PUBLISHABLE_KEY not configured; existing feed preserved")
 url=base+"/rest/v1/rpc/export_inoreader_source_wire"
 headers={"apikey":key,"Content-Type":"application/json"}
-if not key.startswith("sb_secret_"):
+if key.startswith("eyJ"):
     headers["Authorization"]="Bearer "+key
 req=urllib.request.Request(url,data=b"{}",headers=headers,method="POST")
 try:
