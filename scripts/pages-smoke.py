@@ -115,5 +115,39 @@ with sync_playwright() as p:
     }""")
     assert counts=={'count':0,'rejected':True},f'company map guard failed: {counts}'
     print('PASS map layer: zero unauthorized pins and invalid feature rejected')
+    # Exercise map adapter with a synthetic approved feature, without publishing it.
+    mocked=map_page.evaluate("""async () => {
+      const approved = {
+        type:'FeatureCollection',
+        metadata:{location_policy:'Approved city-centre context only. Not manufacturing facilities.'},
+        features:[{type:'Feature',geometry:{type:'Point',coordinates:[16.37,48.21]},
+          properties:{name:'QA Test Company',city:'Vienna',country:'AT',category:'testing',
+            website:'https://example.org',research_status:'research_publishable',
+            map_qa_approved:true,location_precision:'city_context_only',
+            location_source:'https://www.openstreetmap.org/'}}]
+      };
+      const previous=window.fetch;
+      window.fetch=async()=>({ok:true,json:async()=>approved});
+      try{await window.AtlasCompanyLayer.load();}finally{window.fetch=previous;}
+      const sources={},layers={},handlers={};
+      const map={
+        addSource:(key,value)=>{sources[key]=value;},
+        addLayer:(value)=>{layers[value.id]=value;},
+        getSource:(key)=>sources[key],
+        getLayer:(key)=>layers[key],
+        on:(event,layer,fn)=>{handlers[event+':'+layer]=fn;},
+        isStyleLoaded:()=>true
+      };
+      const attached=window.AtlasCompanyLayer.attach(map);
+      const callback=handlers['click:'+attached.layerId];
+      if(callback)callback({features:[approved.features[0]]});
+      return {count:attached.count,hasSource:Boolean(sources[attached.sourceId]),
+        hasLayer:Boolean(layers[attached.layerId]),
+        dossier:document.querySelector('#p0-dossier-body')?.innerText||''};
+    }""")
+    assert mocked['count']==1 and mocked['hasSource'] and mocked['hasLayer'],mocked
+    assert 'QA Test Company' in mocked['dossier'],mocked
+    print('PASS map adapter: approved synthetic marker opens company dossier')
+
     map_page.close()
     browser.close()
