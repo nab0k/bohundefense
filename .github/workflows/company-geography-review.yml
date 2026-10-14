@@ -35,6 +35,15 @@ jobs:
           assert.equal(data.features.length, 0);
           console.log('PASS: no unpublished companies plotted');
           JS
+      - name: Verify committed GeoJSON equals guarded generator output
+        run: |
+          node --input-type=module <<'JS'
+          import fs from 'node:fs';
+          import assert from 'node:assert/strict';
+          const generated = JSON.parse(fs.readFileSync('/tmp/company-map-approved.geojson', 'utf8'));
+          const committed = JSON.parse(fs.readFileSync('atlas/company-map-approved.geojson', 'utf8'));
+          assert.deepEqual(committed, generated, 'Checked-in map differs from QA-gated generator');
+          JS
       - name: Assert review gates and inventory completeness
         run: |
           node --input-type=module <<'JS'
