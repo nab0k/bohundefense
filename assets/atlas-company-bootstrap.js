@@ -29,6 +29,10 @@
           console.warn('Atlas Austrian research layer unavailable:', error);
         }
       }
+      if (window.AtlasNotionResearchLayer) {
+        try { await window.AtlasNotionResearchLayer.attach(map); }
+        catch (error) { console.warn('Notion research markers unavailable:', error); }
+      }
       console.info(
         'Atlas company layer:',
         data.features.length,
