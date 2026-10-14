@@ -19,6 +19,7 @@
   function validate(j){
     if(j?.type!=='FeatureCollection' || !Array.isArray(j.features) ||
        j.metadata?.location_policy!=='Approved city-centre context only. Not manufacturing facilities.' ||
+       !Number.isSafeInteger(j.metadata?.exported) || j.metadata.exported!==j.features.length ||
        !j.features.every(validFeature))throw Error('Unapproved company GeoJSON');
     return j;
   }
