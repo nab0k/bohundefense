@@ -20,9 +20,21 @@ jobs:
         with:
           node-version: '22'
       - name: Run unit tests
-        run: node --test scripts/build-company-geography.test.mjs
+        run: node --test scripts/build-company-geography.test.mjs scripts/build-approved-company-layer.test.mjs
       - name: Build review inventory from full directory
         run: node scripts/build-company-geography.mjs atlas/notion-companies-index.json /tmp/company-geography-review.json
+      - name: Build approved GeoJSON (fail closed)
+        run: node scripts/build-approved-company-layer.mjs atlas/notion-companies-index.json atlas/company-city-gazetteer-reviewed.json /tmp/company-map-approved.geojson
+      - name: Verify no unreviewed map points were emitted
+        run: |
+          node --input-type=module <<'JS'
+          import fs from 'node:fs';
+          import assert from 'node:assert/strict';
+          const data = JSON.parse(fs.readFileSync('/tmp/company-map-approved.geojson'));
+          assert.equal(data.type, 'FeatureCollection');
+          assert.equal(data.features.length, 0);
+          console.log('PASS: no unpublished companies plotted');
+          JS
       - name: Assert review gates and inventory completeness
         run: |
           node --input-type=module <<'JS'
