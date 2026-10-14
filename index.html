@@ -233,19 +233,29 @@ query.addEventListener('input',sync);sync();
 })();</script><script id="public-source-wire">
 (async function(){
 const feed=document.getElementById('p0-feed');if(!feed)return;
-try{
- const r=await fetch('/feed/inoreader-source-wire.json');if(!r.ok)throw Error('wire HTTP '+r.status);
- const j=await r.json();// Keep existing QA-approved-only statement: the source wire below is separate and unverified.
- const desc=document.createElement('p');desc.className='wire-intro';desc.textContent='SOURCE WIRE · Headlines from Inoreader. Publisher claims, not independently verified by Bohun Defence.';feed.append(desc);
- for(const x of j.items||[]){
-  if(typeof x.url!=='string'||!x.url.startsWith('https://'))continue;
-  const row=document.createElement('div');row.className='wire-story';
-  const a=document.createElement('a');a.href=x.url;a.target='_blank';a.rel='noopener noreferrer';a.textContent=x.title||'Untitled source';row.append(a);
-  const meta=document.createElement('div');meta.className='wire-meta';
-  try{meta.textContent=new URL(x.url).hostname+' · '+(x.published_at||'')}catch{meta.textContent=x.published_at||''}
-  row.append(meta);feed.append(row);
- }
-}catch(e){const p=document.createElement('p');p.textContent='Source wire temporarily unavailable.';feed.append(p)}
+const desc=document.createElement('p');desc.className='wire-intro';desc.textContent='SOURCE WIRE · Inoreader publisher headlines. Not independently verified.';feed.append(desc);
+const news=document.createElement('div');news.id='wire-stories';feed.append(news);
+let last='';
+async function updateWire(){
+ try{
+  const r=await fetch('/feed/inoreader-source-wire.json?t='+Math.floor(Date.now()/60000),{cache:'no-store'});if(!r.ok)throw Error('wire HTTP '+r.status);
+  const j=await r.json();if(!Array.isArray(j.items))throw Error('invalid source data');
+  const sig=JSON.stringify(j.items);if(sig===last)return;last=sig;
+  const fragment=document.createDocumentFragment();
+  for(const x of j.items){
+   if(typeof x.url!=='string'||!x.url.startsWith('https://'))continue;
+   const row=document.createElement('div');row.className='wire-story';
+   const a=document.createElement('a');a.href=x.url;a.target='_blank';a.rel='noopener noreferrer';a.textContent=x.title||'Untitled source';row.append(a);
+   const meta=document.createElement('div');meta.className='wire-meta';
+   try{meta.textContent=new URL(x.url).hostname+' · '+(x.published_at||'')}catch{meta.textContent=x.published_at||''}
+   row.append(meta);fragment.append(row);
+  }
+  news.replaceChildren(fragment);
+  desc.textContent='SOURCE WIRE · '+j.items.length+' headlines · automatic refresh every minute · Publisher claims, not independently verified.';
+ }catch(e){if(!last)desc.textContent='SOURCE WIRE · Temporarily unavailable. The last published feed remains in storage.'}
+}
+await updateWire();
+setInterval(updateWire,60000);
 try{
  const r=await fetch('/atlas/notion-companies-public-research.json');if(!r.ok)throw Error('notion export unavailable');
  const j=await r.json();const panel=document.createElement('section');panel.id='notion-index-panel';panel.setAttribute('aria-label','Notion company research index');
