@@ -101,4 +101,17 @@ with sync_playwright() as p:
     print('PASS Directory-to-Atlas dossier: deep link, research disclaimer, safe website')
     directory.close()
     dossier.close()
+    # Approved map data is currently empty; no research candidates may leak to pins.
+    dossier.goto('http://127.0.0.1:8765/',wait_until='domcontentloaded')
+    dossier.wait_for_function('Boolean(window.AtlasCompanyLayer)',timeout=15000)
+    counts=dossier.evaluate("""async () => {
+      const layer=window.AtlasCompanyLayer;
+      const approved=await layer.load();
+      let rejected=false;
+      try {layer.validate({...approved,features:[{type:'Feature',geometry:{type:'Point',coordinates:[0,0]},properties:{}}]});}
+      catch {rejected=true;}
+      return {count:approved.features.length,rejected};
+    }""")
+    assert counts=={'count':0,'rejected':True},f'company map guard failed: {counts}'
+    print('PASS map layer: zero unauthorized pins and invalid feature rejected')
     browser.close()
