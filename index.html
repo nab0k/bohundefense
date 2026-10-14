@@ -234,7 +234,7 @@ query.addEventListener('input',sync);sync();
 const feed=document.getElementById('p0-feed');if(!feed)return;
 try{
  const r=await fetch('/feed/inoreader-source-wire.json');if(!r.ok)throw Error('wire HTTP '+r.status);
- const j=await r.json();const old=feed.querySelector('p');if(old)old.remove();
+ const j=await r.json();// Keep existing QA-approved-only statement: the source wire below is separate and unverified.
  const desc=document.createElement('p');desc.className='wire-intro';desc.textContent='SOURCE WIRE · Headlines from Inoreader. Publisher claims, not independently verified by Bohun Defence.';feed.append(desc);
  for(const x of j.items||[]){
   if(typeof x.url!=='string'||!x.url.startsWith('https://'))continue;
