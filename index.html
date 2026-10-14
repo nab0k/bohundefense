@@ -52,6 +52,18 @@
 #p1-rail-chips .dock-label{font:500 10px/1.1 system-ui;color:#e8e4d8}
 #p1-rail-chips .dock-count{display:none!important}
 @media(max-width:900px){#p1-category-rail{bottom:61px!important;max-width:calc(100vw - 20px)}#p1-rail-chips{max-width:calc(100vw - 40px)}#p1-rail-chips button{min-width:60px;min-height:43px!important}}
+</style><style id="atlas-dock-active-v2">
+#p1-rail-chips button:focus{outline:none!important}
+#p1-rail-chips button:focus-visible{outline:2px solid #e6c477!important;outline-offset:2px}
+#p1-rail-chips button[aria-pressed="true"]{
+ background:linear-gradient(180deg,#51462b,#332f23)!important;
+ border:2px solid #e5bf68!important;
+ box-shadow:inset 0 0 0 1px #a68a4e,0 0 0 2px #1b241d,0 0 12px #e3ba5840!important;
+}
+#p1-rail-chips button[aria-pressed="true"] .dock-icon,
+#p1-rail-chips button[aria-pressed="true"] .dock-label{color:#ffe0a0!important;font-weight:700!important}
+#p1-rail-chips button:not([aria-pressed="true"]){opacity:.77}
+#p1-rail-chips button:not([aria-pressed="true"]):hover{opacity:1;background:#304034!important;border-color:#8c7850!important}
 </style><style id="source-wire-styles">
 #side #p0-feed{min-height:36vh;max-height:calc(100dvh - 235px);overflow:auto}
 #p0-feed .wire-intro{font-size:11px;color:#c6b485;border-bottom:1px solid #5c614e;padding-bottom:9px}
