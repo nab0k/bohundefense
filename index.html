@@ -60,7 +60,7 @@
 #p0-feed .wire-story a:hover{text-decoration:underline;color:#e9c77f}
 #p0-feed .wire-meta{font:10px/1.4 system-ui;color:#a5afa6;margin-top:4px}
 #notion-index-panel{position:fixed;z-index:550;right:14px;bottom:122px;width:270px;max-height:30dvh;overflow:auto;background:rgba(13,24,22,.95);border:1px solid #685c3e;border-radius:8px;padding:10px;color:#e4dfd1;font:11px system-ui}
-#notion-index-panel h3{font-size:12px;color:#e1c58b;margin:0 0 6px}
+#notion-index-panel summary{font-size:12px;font-weight:600;color:#e1c58b;cursor:pointer;list-style-position:inside;margin:0 0 4px}
 #notion-index-panel a{color:#eee3bf;text-decoration:none}
 #notion-index-panel .notion-item{border-top:1px solid #33453c;padding:6px 0}
 #notion-index-panel .notion-location{display:block;color:#aab6a9}
@@ -248,12 +248,12 @@ try{
 try{
  const r=await fetch('/atlas/notion-companies-public-research.json');if(!r.ok)throw Error('notion export unavailable');
  const j=await r.json();const panel=document.createElement('section');panel.id='notion-index-panel';panel.setAttribute('aria-label','Notion company research index');
- const h=document.createElement('h3');h.textContent='NOTION COMPANIES · '+(j.companies||[]).length;panel.append(h);
+ const h=document.createElement('summary');h.textContent='NOTION COMPANIES · '+(j.companies||[]).length+' ▾';panel.append(h);
  const note=document.createElement('p');note.textContent='Research candidates. City context only, not facility addresses. Independent QA not established.';panel.append(note);
  for(const c of j.companies||[]){
   const box=document.createElement('div');box.className='notion-item';
   const a=document.createElement('a');a.href=c.website||c.notion_url;a.target='_blank';a.rel='noopener noreferrer';a.textContent=c.name;box.append(a);
-  const loc=document.createElement('span');loc.className='notion-location';loc.textContent=[c.city,c.country,c.category].filter(Boolean).join(' · ');box.append(loc);
+  const loc=document.createElement('a');loc.className='notion-location';loc.textContent='⌖ '+[c.city,c.country,c.category].filter(Boolean).join(' · ');loc.href='https://www.openstreetmap.org/search?query='+encodeURIComponent([c.city,c.country].filter(Boolean).join(', '));loc.target='_blank';loc.rel='noopener noreferrer';box.append(loc);
   panel.append(box);
  }
  document.body.append(panel);
