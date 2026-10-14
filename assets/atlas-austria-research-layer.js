@@ -21,14 +21,20 @@
     const install=()=>{
       if(!map.getSource(sourceId))map.addSource(sourceId,{type:'geojson',data:geo});
       if(!map.getLayer(layerId))map.addLayer({id:layerId,type:'circle',source:sourceId,
-        paint:{'circle-radius':6,'circle-color':'#9eb8ab',
-          'circle-stroke-color':'#182520','circle-stroke-width':2,
+        paint:{'circle-radius':['case',['boolean',['feature-state','selected'],false],9,5],\n          'circle-color':['case',['boolean',['feature-state','selected'],false],'#f1c86d','#9eb8ab'],
+          'circle-stroke-color':['case',['boolean',['feature-state','selected'],false],'#fff0bf','#182520'],\n          'circle-stroke-width':['case',['boolean',['feature-state','selected'],false],3,2],
           'circle-opacity':0.85}});
     };
     if(typeof map.isStyleLoaded==='function'&&!map.isStyleLoaded())
       map.once('load',install);
     else install();
     let previous='',offset=0;
+    let selectedId=null;
+    const selectMarker=id=>{
+      if(selectedId!==null && map.getSource(sourceId))map.setFeatureState({source:sourceId,id:selectedId},{selected:false});
+      selectedId=id;
+      if(id!==null && map.getSource(sourceId))map.setFeatureState({source:sourceId,id},{selected:true});
+    };
     map.on('click',layerId,event=>{
       const items=(event.features||[]).map(f=>f.properties).filter(Boolean);
       if(!items.length||!window.AtlasContext?.showCompany)return;
@@ -36,6 +42,8 @@
       offset=key===previous?(offset+1)%items.length:0;
       previous=key;
       const p=items[offset];
+      const feature=(event.features||[]).find(f=>f.properties?.name===p.name);
+      if(feature && Number.isInteger(feature.id))selectMarker(feature.id);
       window.AtlasContext.showCompany({
         name:p.name,city:p.city,country:p.country,category:p.category,
         website:p.website,status:p.status
