@@ -1,0 +1,40 @@
+name: Company geography review checks
+on:
+  push:
+    branches:
+      - feature/atlas-company-geography-20261014
+  pull_request:
+    paths:
+      - 'scripts/build-company-geography.mjs'
+      - 'scripts/build-company-geography.test.mjs'
+      - 'atlas/notion-companies-index.json'
+      - '.github/workflows/company-geography-review.yml'
+permissions:
+  contents: read
+jobs:
+  geography:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Run unit tests
+        run: node --test scripts/build-company-geography.test.mjs
+      - name: Build review inventory from full directory
+        run: node scripts/build-company-geography.mjs atlas/notion-companies-index.json /tmp/company-geography-review.json
+      - name: Assert review gates and inventory completeness
+        run: |
+          node --input-type=module <<'JS'
+          import fs from 'node:fs';
+          import assert from 'node:assert/strict';
+          const index = JSON.parse(fs.readFileSync('atlas/notion-companies-index.json'));
+          const result = JSON.parse(fs.readFileSync('/tmp/company-geography-review.json'));
+          assert.equal(result.counts.total, index.companies.length);
+          assert.equal(result.counts.city_country_candidates + result.counts.missing_or_invalid_geography, result.counts.total);
+          assert.equal(result.counts.map_publishable, 0);
+          assert.equal(result.counts.geocoded, 0);
+          assert.ok(result.records.every(x => x.map_publishable === false && x.coordinates === null));
+          assert.ok(result.places.every(x => x.latitude === null && x.longitude === null));
+          console.log('PASS', JSON.stringify(result.counts));
+          JS
