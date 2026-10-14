@@ -21,6 +21,14 @@
     try {
       const data = await layer.load();
       const result = layer.attach(map);
+      if (window.AtlasAustriaResearchLayer) {
+        try {
+          const count = await window.AtlasAustriaResearchLayer.attach(map);
+          console.info('Atlas Austrian research city markers:', count);
+        } catch (error) {
+          console.warn('Atlas Austrian research layer unavailable:', error);
+        }
+      }
       console.info(
         'Atlas company layer:',
         data.features.length,
