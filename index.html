@@ -52,6 +52,19 @@
 #p1-rail-chips .dock-label{font:500 10px/1.1 system-ui;color:#e8e4d8}
 #p1-rail-chips .dock-count{display:none!important}
 @media(max-width:900px){#p1-category-rail{bottom:61px!important;max-width:calc(100vw - 20px)}#p1-rail-chips{max-width:calc(100vw - 40px)}#p1-rail-chips button{min-width:60px;min-height:43px!important}}
+</style><style id="source-wire-styles">
+#side #p0-feed{min-height:36vh;max-height:calc(100dvh - 235px);overflow:auto}
+#p0-feed .wire-intro{font-size:11px;color:#c6b485;border-bottom:1px solid #5c614e;padding-bottom:9px}
+#p0-feed .wire-story{padding:10px 0;border-bottom:1px solid #3d4d44}
+#p0-feed .wire-story a{font:500 13px/1.35 system-ui;color:#ebeadf;text-decoration:none}
+#p0-feed .wire-story a:hover{text-decoration:underline;color:#e9c77f}
+#p0-feed .wire-meta{font:10px/1.4 system-ui;color:#a5afa6;margin-top:4px}
+#notion-index-panel{position:fixed;z-index:550;right:14px;bottom:122px;width:270px;max-height:30dvh;overflow:auto;background:rgba(13,24,22,.95);border:1px solid #685c3e;border-radius:8px;padding:10px;color:#e4dfd1;font:11px system-ui}
+#notion-index-panel summary{font-size:12px;font-weight:600;color:#e1c58b;cursor:pointer;list-style-position:inside;margin:0 0 4px}
+#notion-index-panel a{color:#eee3bf;text-decoration:none}
+#notion-index-panel .notion-item{border-top:1px solid #33453c;padding:6px 0}
+#notion-index-panel .notion-location{display:block;color:#aab6a9}
+@media(max-width:900px){#notion-index-panel{display:none}}
 </style></head>
 <body>
   <div id="map" aria-label="World map. Drag to move, scroll to zoom, right-drag to rotate and tilt."></div>
@@ -216,5 +229,34 @@ function sync(){
 }
 new MutationObserver(sync).observe(original,{subtree:true,childList:true,characterData:true,attributes:true});
 query.addEventListener('input',sync);sync();
+})();</script><script id="public-source-wire">
+(async function(){
+const feed=document.getElementById('p0-feed');if(!feed)return;
+try{
+ const r=await fetch('/feed/inoreader-source-wire.json');if(!r.ok)throw Error('wire HTTP '+r.status);
+ const j=await r.json();// Keep existing QA-approved-only statement: the source wire below is separate and unverified.
+ const desc=document.createElement('p');desc.className='wire-intro';desc.textContent='SOURCE WIRE · Headlines from Inoreader. Publisher claims, not independently verified by Bohun Defence.';feed.append(desc);
+ for(const x of j.items||[]){
+  if(typeof x.url!=='string'||!x.url.startsWith('https://'))continue;
+  const row=document.createElement('div');row.className='wire-story';
+  const a=document.createElement('a');a.href=x.url;a.target='_blank';a.rel='noopener noreferrer';a.textContent=x.title||'Untitled source';row.append(a);
+  const meta=document.createElement('div');meta.className='wire-meta';
+  try{meta.textContent=new URL(x.url).hostname+' · '+(x.published_at||'')}catch{meta.textContent=x.published_at||''}
+  row.append(meta);feed.append(row);
+ }
+}catch(e){const p=document.createElement('p');p.textContent='Source wire temporarily unavailable.';feed.append(p)}
+try{
+ const r=await fetch('/atlas/notion-companies-public-research.json');if(!r.ok)throw Error('notion export unavailable');
+ const j=await r.json();const panel=document.createElement('section');panel.id='notion-index-panel';panel.setAttribute('aria-label','Notion company research index');
+ const h=document.createElement('summary');h.textContent='NOTION COMPANIES · '+(j.companies||[]).length+' ▾';panel.append(h);
+ const note=document.createElement('p');note.textContent='Research candidates. City context only, not facility addresses. Independent QA not established.';panel.append(note);
+ for(const c of j.companies||[]){
+  const box=document.createElement('div');box.className='notion-item';
+  const a=document.createElement('a');a.href=c.website||c.notion_url;a.target='_blank';a.rel='noopener noreferrer';a.textContent=c.name;box.append(a);
+  const loc=document.createElement('a');loc.className='notion-location';loc.textContent='⌖ '+[c.city,c.country,c.category].filter(Boolean).join(' · ');loc.href='https://www.openstreetmap.org/search?query='+encodeURIComponent([c.city,c.country].filter(Boolean).join(', '));loc.target='_blank';loc.rel='noopener noreferrer';box.append(loc);
+  panel.append(box);
+ }
+ document.body.append(panel);
+}catch(e){console.warn('Notion public research index unavailable',e)}
 })();</script></body>
 </html>

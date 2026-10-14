@@ -1,0 +1,346 @@
+{
+  "source": "Notion Companies (all countries)",
+  "notice": "Research candidates, not independently QA certified; locations are city context, not facility addresses",
+  "companies": [
+    {
+      "name": "Accurision GmbH",
+      "city": "Dornbirn",
+      "country": "AT",
+      "category": "electronics",
+      "website": "https://www.accurision.com",
+      "source": "https://www.evi.gv.at/f/444646t",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8101a752fd3e129e32dd",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "AVL List GmbH",
+      "city": "Graz",
+      "country": "AT",
+      "category": "propulsion",
+      "website": "https://www.avl.com",
+      "source": "https://www.avl.com/en/imprint",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b810c8bffdaa083b552d7",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "Maschinenfabrik Liezen und Gießerei GmbH (MFL)",
+      "city": "Liezen",
+      "country": "AT",
+      "category": "land",
+      "website": "https://www.mfl-defence.com",
+      "source": "https://www.mfl-defence.com/de/impressum",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8116b591ce5fdc6a1242",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "ANTEMO Anlagen- & Teilefertigung GmbH",
+      "city": "St. Peter ob Judenburg",
+      "country": "AT",
+      "category": "components",
+      "website": "https://www.antemo.com",
+      "source": "https://www.antemo.com/impressum-datenschutz/",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b811b9138d463c9d99d31",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "Schiebel Elektronische Geräte GmbH",
+      "city": "Vienna",
+      "country": "AT",
+      "category": "drones",
+      "website": "https://schiebel.net",
+      "source": "https://schiebel.net/legal_notice/",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b812aaa94d4997bf6a31a",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "TTTech Computertechnik AG",
+      "city": "Vienna",
+      "country": "AT",
+      "category": "software",
+      "website": "https://www.tttech.com",
+      "source": "https://www.wko.at/security-defence-aviation-technology-austria/tttech-computertechnik-ag",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81329ee2eb298752a6ce",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "AMST-Systemtechnik GmbH",
+      "city": "Ranshofen",
+      "country": "AT",
+      "category": "testing",
+      "website": "https://www.amst.co.at/",
+      "source": "https://www.amst.co.at/legal-info/",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b813e87f9fd9fe95af127",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "Steyr Automotive GmbH",
+      "city": "Steyr",
+      "country": "AT",
+      "category": "components",
+      "website": "https://www.steyr-automotive.com",
+      "source": "https://steyr-automotive.com/impressum",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8144ba63f73762b09da6",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "IQ brand, design & production GmbH (gloryfy)",
+      "city": "Schlitters",
+      "country": "AT",
+      "category": "components",
+      "website": "https://www.gloryfy.com",
+      "source": "https://www.gloryfy.com/policies/legal-notice",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8148b3c6f3d1aadfa213",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "AMTEQ GmbH",
+      "city": "Frankenmarkt",
+      "country": "AT",
+      "category": "components",
+      "website": "https://www.amteq.at",
+      "source": "https://www.amteq.at/impressum",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81598141f19bc7e1eb6b",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "Professional Aircraft Engines GmbH",
+      "city": "Sitzenberg-Reidling",
+      "country": "AT",
+      "category": "propulsion",
+      "website": "https://www.pace-engines.at",
+      "source": "https://pace-engines.at/impressum/",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8163b12feaad3456d946",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "HiWiTronics-Components GmbH",
+      "city": "Tillmitsch",
+      "country": "AT",
+      "category": "drones",
+      "website": "https://www.hiwitronics.com",
+      "source": "https://hiwitronics.com/index.php/imprint/",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b816fb04bda55a31cf570",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "Hintsteiner Defence GmbH",
+      "city": "St. Barbara im Mürztal",
+      "country": "AT",
+      "category": "components",
+      "website": "https://www.hintsteiner-defence.com",
+      "source": "https://hintsteiner-defence.com/impressum/",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8174be0ac366df3a546c",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "VISIONAIRtronics GmbH",
+      "city": "Illmitz",
+      "country": "AT",
+      "category": "components",
+      "website": "https://vat.aero",
+      "source": "https://vat.aero/imprint/",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b817580b6d3a2ee7e4312",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "ZCO - Zero Compromise Optic GmbH",
+      "city": "Margarethen am Moos",
+      "country": "AT",
+      "category": "smallarms",
+      "website": "https://www.zcompoptic.com",
+      "source": "https://www.wko.at/security-defence-aviation-technology-austria/zco-zero-compromise-optic-gmbh",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8175b86bd5c181b09e65",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "VENOX Systems GmbH",
+      "city": "Lingenau",
+      "country": "AT",
+      "category": "components",
+      "website": "https://venox.systems",
+      "source": "https://venox.systems/impressum",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8178a324d09d984306e8",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "Dynell GmbH",
+      "city": "Mistelbach bei Wels",
+      "country": "AT",
+      "category": "components",
+      "website": "https://www.dynell.at",
+      "source": "https://www.dynell.at/imprint",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b817bac0ded4644a7116d",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "Zoerkler Gears GmbH & Co KG",
+      "city": "Jois",
+      "country": "AT",
+      "category": "propulsion",
+      "website": "https://www.zoerkler.at",
+      "source": "https://www.zoerkler.at/impressum/",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81878e5dfc5bea1a0d30",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "WIRETEC GmbH",
+      "city": "Selzthal",
+      "country": "AT",
+      "category": "components",
+      "website": "https://www.wiretec.at",
+      "source": "https://www.wiretec.at/impressum/",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b818e8987d00ad3ccc922",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "ALPEX Technologies GmbH",
+      "city": "Mils",
+      "country": "AT",
+      "category": "components",
+      "website": "https://www.alpex-tec.com",
+      "source": "https://www.alpex-tec.com/impressum/",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8191b826c0c214a5e7f9",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "EW Drone Passion GmbH",
+      "city": "Traiskirchen",
+      "country": "AT",
+      "category": "drones",
+      "website": "https://www.drone-passion.at",
+      "source": "https://drone-passion.at/impressum/",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81a7931df506a8debbe9",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "Mäser Technik GmbH",
+      "city": "Dornbirn",
+      "country": "AT",
+      "category": "components",
+      "website": "https://www.maesertechnik.at/",
+      "source": "https://www.maesertechnik.at/",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81aaaa1ff5bbb4dd7125",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "EMPL Fahrzeugwerk GmbH",
+      "city": "Kaltenbach",
+      "country": "AT",
+      "category": "land",
+      "website": "https://www.empl.at",
+      "source": "https://www.empl.at/impressum",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81cc99aed3f6d031d150",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "AT&S AG",
+      "city": "Leoben",
+      "country": "AT",
+      "category": "electronics",
+      "website": "https://www.ats.net",
+      "source": "https://ats.net/impressum/",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81da9f6af398de8fe0b5",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "Rheinmetall MAN Military Vehicles Österreich GmbH",
+      "city": "Vienna",
+      "country": "AT",
+      "category": "land",
+      "website": "https://www.rheinmetall.com",
+      "source": "https://industriemagazin.at/ruestung/rheinmetall-wien-bundeswehr-militaer-lkw-milliardenauftrag/",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81dbb0fddd2d298c8115",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "Wild GmbH",
+      "city": "Völkermarkt",
+      "country": "AT",
+      "category": "electronics",
+      "website": "https://www.wild.at",
+      "source": "https://www.wko.at/security-defence-aviation-technology-austria/wild-gmbh",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81dbbc0fe76f1ccde268",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "Winkelbauer GmbH",
+      "city": "Anger",
+      "country": "AT",
+      "category": "components",
+      "website": "https://www.winkelbauer.com",
+      "source": "https://www.winkelbauer.com/impressum/",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81dd8c24c0785c297534",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "Blackshark.ai GmbH",
+      "city": "Graz",
+      "country": "AT",
+      "category": "software",
+      "website": "https://blackshark.ai",
+      "source": "https://news.lockheedmartin.com/2025-12-02-Lockheed-Martin-Blackshark-ai-Debut-Next-Gen-Image-Generator-Powered-by-Unreal-Engine?asPDF=1",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81e29fd2c6f8cd841fdb",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "Rosenbauer International AG",
+      "city": "Leonding",
+      "country": "AT",
+      "category": "land",
+      "website": "https://www.rosenbauer.com",
+      "source": "https://militaeraktuell.at/en/rosenbauer-panther-for-the-german-armed-forces/",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81e3b46dcdf201e084b7",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "actic embedded technologies GmbH",
+      "city": "Graz",
+      "country": "AT",
+      "category": "electronics",
+      "website": "https://www.darvin.live",
+      "source": "https://www.wko.at/oe/asw/security-defence-aviation-technology-austria.pdf",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81e6afedf1fef5ed3fd2",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "GD European Land Systems-Steyr GmbH",
+      "city": "Vienna",
+      "country": "AT",
+      "category": "land",
+      "website": "https://www.gdels.com",
+      "source": "https://www.gdels.com/en/media/news/austrian-ministry-of-defense-orders-225-pandur-evo-from-gdels-steyr-um08pdf7y5pyjq1pp8jjp422",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81ea800ae6aa2edc7120",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "ESKA Lederhandschuhfabrik Ges.m.b.H. & Co KG",
+      "city": "Thalheim bei Wels",
+      "country": "AT",
+      "category": "components",
+      "website": "https://www.eskagloves.com",
+      "source": "https://militaeraktuell.at/en/eska-between-tradition-and-innovation/",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81eeb1e1e9fe0516d692",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "ULBRICHTS GmbH",
+      "city": "Schwanenstadt",
+      "country": "AT",
+      "category": "components",
+      "website": "https://www.ulbrichts.com",
+      "source": "https://www.ulbrichts.com/impressum/",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81f19ebdd06207527746",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    },
+    {
+      "name": "GLOCK Ges.m.b.H.",
+      "city": "Deutsch-Wagram",
+      "country": "AT",
+      "category": "smallarms",
+      "website": "https://www.glock.com",
+      "source": "https://www.advantageaustria.org/ae/company/en/glock-gmbh",
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81fca697c7ac185140f6",
+      "status": "SOURCE_RESEARCH_NOT_INDEPENDENTLY_QA_APPROVED"
+    }
+  ]
+}
