@@ -7,7 +7,10 @@ key=os.environ.get("SUPABASE_SERVICE_ROLE_KEY","")
 if not key:
     sys.exit("SUPABASE_SERVICE_ROLE_KEY secret not configured; existing feed preserved")
 url=base+"/rest/v1/rpc/export_inoreader_source_wire"
-req=urllib.request.Request(url,data=b"{}",headers={"apikey":key,"Authorization":"Bearer "+key,"Content-Type":"application/json"},method="POST")
+headers={"apikey":key,"Content-Type":"application/json"}
+if not key.startswith("sb_secret_"):
+    headers["Authorization"]="Bearer "+key
+req=urllib.request.Request(url,data=b"{}",headers=headers,method="POST")
 try:
     with urllib.request.urlopen(req,timeout=40) as response:
         body=json.load(response)
