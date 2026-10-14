@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "source": "Notion research directory",
+    "location_policy": "Approved city-centre context only. Not manufacturing facilities.",
+    "total_records": 3394,
+    "exported": 0,
+    "rejected": {
+      "missing_geography": 3160,
+      "unapproved_company": 234,
+      "unreviewed_place": 0
+    }
+  },
+  "features": []
+}
