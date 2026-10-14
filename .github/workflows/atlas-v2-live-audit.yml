@@ -30,7 +30,7 @@ jobs:
                 assert page.locator('#p0-feed .atlas-window-bar').count()==1
                 assert page.locator('#p0-dossier .atlas-window-bar').count()==1
                 assert page.locator('#notion-index-panel').count()==0
-                assert page.locator('#p0-dossier').evaluate('(e)=>getComputedStyle(e).display')=='none'
+                assert page.locator('#p0-dossier').evaluate('(e)=>getComputedStyle(e).display')=='none',page.locator('#p0-dossier').evaluate('(e)=>({cls:e.className,display:getComputedStyle(e).display,body:document.body.className})')
                 assert page.locator('#p1-rail-chips button').count()>=8 or page.locator('#cat-chips button').count()>=8
                 page.locator('#p0-feed .atlas-window-bar button').click()
                 assert page.locator('#p0-feed').evaluate('(e)=>getComputedStyle(e).display')=='none'
