@@ -20,10 +20,10 @@ jobs:
               with urllib.request.urlopen(req,timeout=30) as res:
                 assert res.status==200,(host,path,res.status)
                 return res.read().decode('utf-8')
-            html=get('/?audit=3fc3c1c')
+            html=get('/?audit=f438b175')
             assert 'id="public-source-wire"' in html,(host,'wire script not live')
-            feed=json.loads(get('/feed/inoreader-source-wire.json?audit=3fc3c1c'))
-            companies=json.loads(get('/atlas/notion-companies-public-research.json?audit=3fc3c1c'))
+            feed=json.loads(get('/feed/inoreader-source-wire.json?audit=f438b175'))
+            companies=json.loads(get('/atlas/notion-companies-public-research.json?audit=f438b175'))
             assert len(feed['items'])==100,(host,'feed size',len(feed['items']))
             assert len(companies['companies'])==34,(host,'notion count',len(companies['companies']))
             print('LIVE PASS',host,'source wire',len(feed['items']),'Notion research index',len(companies['companies']))
