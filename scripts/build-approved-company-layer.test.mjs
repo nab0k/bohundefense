@@ -15,6 +15,7 @@ test('approved city context has GeoJSON lon-lat but no facility address',()=>{
  assert.deepEqual(out.features[0].geometry.coordinates,[16.3738,48.2082]);
  assert.equal(out.features[0].properties.location_precision,'city_context_only');
  assert.equal(out.metadata.exported,1);
+ assert.equal(out.features[0].properties.map_qa_approved,true);
 });
 test('bad coordinates and missing source are rejected',()=>{
  for(const bad of [{latitude:91},{longitude:Infinity},{source_url:''},{review_status:'pending'}])
