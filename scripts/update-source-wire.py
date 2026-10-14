@@ -6,16 +6,16 @@ base=os.environ.get("SUPABASE_URL","https://tecrucawzukxqtchpxrh.supabase.co").r
 key=os.environ.get("SUPABASE_SERVICE_ROLE_KEY","")
 if not key:
     sys.exit("SUPABASE_SERVICE_ROLE_KEY secret not configured; existing feed preserved")
-params=urllib.parse.urlencode({"select":"title,url,published_at","url":"not.is.null","published_at":"not.is.null","order":"published_at.desc","limit":"500"})
-url=base+"/rest/v1/items?"+params
-req=urllib.request.Request(url,headers={"apikey":key,"Authorization":"Bearer "+key,"Accept-Profile":"intelligence"})
+url=base+"/rest/v1/rpc/export_inoreader_source_wire"
+req=urllib.request.Request(url,data=b"{}",headers={"apikey":key,"Authorization":"Bearer "+key,"Content-Type":"application/json"},method="POST")
 try:
     with urllib.request.urlopen(req,timeout=40) as response:
-        rows=json.load(response)
+        body=json.load(response)
+    rows=body.get("items",[])
 except urllib.error.HTTPError as e:
-    sys.exit("Source API request failed, HTTP status "+str(e.code)+"; no credentials logged")
+    sys.exit("Source RPC request failed, HTTP status "+str(e.code)+"; no credentials logged")
 except Exception as e:
-    sys.exit("Source API request failed (no credentials logged): "+type(e).__name__)
+    sys.exit("Source RPC request failed (no credentials logged): "+type(e).__name__)
 seen=set()
 items=[]
 for x in rows:
