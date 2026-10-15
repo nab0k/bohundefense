@@ -52,6 +52,21 @@
 #p1-rail-chips .dock-label{font:500 10px/1.1 system-ui;color:#e8e4d8}
 #p1-rail-chips .dock-count{display:none!important}
 @media(max-width:900px){#p1-category-rail{bottom:61px!important;max-width:calc(100vw - 20px)}#p1-rail-chips{max-width:calc(100vw - 40px)}#p1-rail-chips button{min-width:60px;min-height:43px!important}}
+</style><style id="atlas-dock-active-v2">
+#p1-category-rail,#p1-rail-chips,#p1-rail-chips button{pointer-events:auto!important}
+#p1-category-rail{isolation:isolate;z-index:1000!important}
+#p1-rail-chips button{position:relative;z-index:1;cursor:pointer!important;touch-action:manipulation}
+#p1-rail-chips button:focus{outline:none!important}
+#p1-rail-chips button:focus-visible{outline:2px solid #e6c477!important;outline-offset:2px}
+#p1-rail-chips button[aria-pressed="true"]{
+ background:linear-gradient(180deg,#51462b,#332f23)!important;
+ border:2px solid #e5bf68!important;
+ box-shadow:inset 0 0 0 1px #a68a4e,0 0 0 2px #1b241d,0 0 12px #e3ba5840!important;
+}
+#p1-rail-chips button[aria-pressed="true"] .dock-icon,
+#p1-rail-chips button[aria-pressed="true"] .dock-label{color:#ffe0a0!important;font-weight:700!important}
+#p1-rail-chips button:not([aria-pressed="true"]){opacity:.77}
+#p1-rail-chips button:not([aria-pressed="true"]):hover{opacity:1;background:#304034!important;border-color:#8c7850!important}
 </style><style id="source-wire-styles">
 #side #p0-feed{min-height:36vh;max-height:calc(100dvh - 235px);overflow:auto}
 #p0-feed .wire-intro{font-size:11px;color:#c6b485;border-bottom:1px solid #5c614e;padding-bottom:9px}
@@ -234,7 +249,7 @@ function sync(){
   source=next;mirrors=[];rail.replaceChildren();
   for(const el of source){
    const button=document.createElement('button');button.type='button';
-   button.addEventListener('click',()=>{el.click();sync()});
+   button.addEventListener('click',e=>{e.stopPropagation();el.click();requestAnimationFrame(sync)});
    button.addEventListener('dblclick',()=>{el.dispatchEvent(new MouseEvent('dblclick',{bubbles:true}));sync()});
    rail.append(button);mirrors.push(button);
   }
@@ -283,5 +298,19 @@ async function updateWire(){
 }
 await updateWire();
 setInterval(updateWire,60000);
-})();</script><script defer src="/assets/atlas-context-panels.js"></script></body>
+})();</script><script defer src="/assets/atlas-context-panels.js"></script><script defer src="/assets/atlas-company-dossier-link.js"></script><script defer src="/assets/atlas-company-layer.js"></script>
+<script defer src="/assets/atlas-austria-research-layer.js"></script><script defer src="/assets/atlas-company-bootstrap.js"></script><script defer src="/assets/atlas-cluster-style.js"></script><script defer src="/assets/atlas-notion-research-layer.js"></script><style id="atlas-category-pressed-fix">
+#p1-rail-chips button[aria-pressed="true"]{background:#57492b!important;border:2px solid #e8bd63!important;color:#fff0c8!important;box-shadow:0 0 0 2px #e8bd6340,inset 0 0 0 1px #e8bd63!important}
+#p1-rail-chips button[aria-pressed="false"]{background:#15211e!important;border:2px solid transparent!important;box-shadow:none!important;opacity:.7}
+</style>
+<script id="atlas-category-pressed-state">
+(()=>{const rail=document.getElementById('p1-rail-chips');if(!rail)return;let last=null;rail.addEventListener('click',event=>{const button=event.target.closest('button');if(!button||!rail.contains(button))return;const next=last===button?null:button;last=next;requestAnimationFrame(()=>rail.querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',String(b===next))));},true);})();
+</script>
+<style id="atlas-dock-selected-v3">
+#p1-rail-chips button.atlas-user-selected{background:#715522!important;border:2px solid #ffd479!important;box-shadow:0 0 0 2px #ffd47966,0 0 14px #ffd47977!important;opacity:1!important;color:#fff5d9!important}
+#p1-rail-chips button.atlas-user-selected .dock-icon,#p1-rail-chips button.atlas-user-selected .dock-label{color:#fff5d9!important;opacity:1!important}
+</style>
+<script id="atlas-dock-selection-v3">
+(()=>{const rail=document.getElementById('p1-rail-chips');if(!rail)return;let selected='';const label=b=>b.querySelector('.dock-label')?.textContent?.trim()||'';rail.addEventListener('click',e=>{const b=e.target.closest('button');if(!b||!rail.contains(b))return;const key=label(b);selected=selected===key?'':key;requestAnimationFrame(()=>{rail.querySelectorAll('button').forEach(el=>{const on=!!selected&&label(el)===selected;el.classList.toggle('atlas-user-selected',on);el.setAttribute('aria-pressed',String(on))})})},true);new MutationObserver(()=>{for(const b of rail.querySelectorAll('button'))b.classList.toggle('atlas-user-selected',!!selected&&label(b)===selected)}).observe(rail,{childList:true});})();
+</script></body>
 </html>

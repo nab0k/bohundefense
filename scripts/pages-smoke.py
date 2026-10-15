@@ -81,4 +81,73 @@ with sync_playwright() as p:
         assert not any('notion-atlas-at34' in x for x in errors)
         print(f'PASS {name}: map DOM, search, navigation, responsive menu, screenshot; page JS errors={len(errors)}')
         page.close()
+    # Directory -> Atlas company dossier (review-only, no map marker).
+    directory=browser.new_page()
+    directory.goto('http://127.0.0.1:8765/companies.html',wait_until='domcontentloaded')
+    directory.locator('#cards .card').first.wait_for(timeout=15000)
+    link=directory.locator('#cards a.dossier-link').first
+    assert link.count()==1, 'Directory company dossier link missing'
+    href=link.get_attribute('href')
+    assert href.startswith('/?company='),f'unexpected dossier deep link {href}'
+    dossier=browser.new_page()
+    dossier_errors=[]
+    dossier.on('pageerror',lambda exc:dossier_errors.append(str(exc)))
+    dossier.goto('http://127.0.0.1:8765'+href,wait_until='domcontentloaded',timeout=30000)
+    dossier.locator('#p0-dossier-body .p0-unverified').wait_for(timeout=15000)
+    assert 'Not independently verified' in dossier.locator('#p0-dossier-body').inner_text()
+    assert dossier.locator('#p0-dossier-body h3').count()==1
+    assert dossier.locator('#p0-dossier-body a[href="#"]').count()==0
+    assert not any('atlas-company-dossier-link' in e for e in dossier_errors),dossier_errors
+    print('PASS Directory-to-Atlas dossier: deep link, research disclaimer, safe website')
+    directory.close()
+    dossier.close()
+    # Approved map data is currently empty; no research candidates may leak to pins.
+    map_page=browser.new_page()
+    map_page.goto('http://127.0.0.1:8765/',wait_until='domcontentloaded')
+    map_page.wait_for_function('Boolean(window.AtlasCompanyLayer)',timeout=15000)
+    counts=map_page.evaluate("""async () => {
+      const layer=window.AtlasCompanyLayer;
+      const approved=await layer.load();
+      let rejected=false;
+      try {layer.validate({...approved,features:[{type:'Feature',geometry:{type:'Point',coordinates:[0,0]},properties:{}}]});}
+      catch {rejected=true;}
+      return {count:approved.features.length,rejected};
+    }""")
+    assert counts=={'count':0,'rejected':True},f'company map guard failed: {counts}'
+    print('PASS map layer: zero unauthorized pins and invalid feature rejected')
+    # Exercise map adapter with a synthetic approved feature, without publishing it.
+    mocked=map_page.evaluate("""async () => {
+      const approved = {
+        type:'FeatureCollection',
+        metadata:{location_policy:'Approved city-centre context only. Not manufacturing facilities.',exported:1},
+        features:[{type:'Feature',geometry:{type:'Point',coordinates:[16.37,48.21]},
+          properties:{name:'QA Test Company',city:'Vienna',country:'AT',category:'testing',
+            website:'https://example.org',research_status:'research_publishable',
+            map_qa_approved:true,location_precision:'city_context_only',
+            location_source:'https://www.openstreetmap.org/'}}]
+      };
+      const previous=window.fetch;
+      window.fetch=async()=>({ok:true,json:async()=>approved});
+      try{await window.AtlasCompanyLayer.load();}finally{window.fetch=previous;}
+      const sources={},layers={},handlers={};
+      const map={
+        addSource:(key,value)=>{sources[key]=value;},
+        addLayer:(value)=>{layers[value.id]=value;},
+        getSource:(key)=>sources[key],
+        getLayer:(key)=>layers[key],
+        on:(event,layer,fn)=>{handlers[event+':'+layer]=fn;},
+        isStyleLoaded:()=>true
+      };
+      const attached=window.AtlasCompanyLayer.attach(map);
+      const callback=handlers['click:'+attached.layerId];
+      if(callback)callback({features:[approved.features[0]]});
+      return {count:attached.count,hasSource:Boolean(sources[attached.sourceId]),
+        hasLayer:Boolean(layers[attached.layerId]),
+        dossier:document.querySelector('#p0-dossier-body')?.innerText||''};
+    }""")
+    assert mocked['count']==1 and mocked['hasSource'] and mocked['hasLayer'],mocked
+    assert 'QA Test Company' in mocked['dossier'],mocked
+    print('PASS map adapter: approved synthetic marker opens company dossier')
+
+    map_page.close()
     browser.close()

@@ -1,0 +1,2429 @@
+{
+  "source": "Notion DB Companies all countries",
+  "snapshot_date": "2026-10-15",
+  "release_status": "INTERNAL_RESEARCH_ONLY",
+  "notice": "Coordinates not verified; no public release authorized.",
+  "count": 242,
+  "companies": [
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81e7ac19ff6fe45babec",
+      "name": "3D|CORE GmbH & Co. KG",
+      "country": "DE",
+      "city": "Herford",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://3d-core.com/en/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b8167a952c414cca2bc2d",
+      "name": "a.i.m. all in metal GmbH",
+      "country": "DE",
+      "city": "Markgröningen",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://alles-in-metall.de/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81369dc8eaac0b01cd3e",
+      "name": "ABEKING & RASMUSSEN Schiffs- und Yachtwerft SE",
+      "country": "DE",
+      "city": "Lemwerder",
+      "category": "naval",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.abeking.com/en/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8101a752fd3e129e32dd",
+      "name": "Accurision GmbH",
+      "country": "AT",
+      "city": "Dornbirn",
+      "category": "electronics",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.accurision.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81b88be4dc7a30332f90",
+      "name": "ACS Armoured Car Systems GmbH",
+      "country": "DE",
+      "city": "Friedberg",
+      "category": "land",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.acs-armoured-cars.com/en/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81e6afedf1fef5ed3fd2",
+      "name": "actic embedded technologies GmbH",
+      "country": "AT",
+      "city": "Graz",
+      "category": "electronics",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.darvin.live"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81a3b85ee365c61aed13",
+      "name": "Advanced Protection Systems S.A.",
+      "country": "PL",
+      "city": "Gdynia",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://apsystems.tech/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81e7af93d9d62fab953d",
+      "name": "AEROMARITIME Systembau GmbH",
+      "country": "DE",
+      "city": "Neufahrn",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b8140b4a1d8fa4f1c400c",
+      "name": "AES Technology GmbH",
+      "country": "DE",
+      "city": "Göttingen",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.aes-technology.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/9f15bf5c0e824db5a091c79c54a589f5",
+      "name": "AFD Systems Limited",
+      "country": "GB",
+      "city": "Blackpool",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.afd-systems.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/76a039c5ed2c4e94998fd890c8f1a82d",
+      "name": "AGILE SYSTEMS ENGINEERING SRL",
+      "country": "RO",
+      "city": "Bucharest",
+      "category": "software",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.agile-systems.ro/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81b0b4d5d73e2a52638a",
+      "name": "AGP sGlass Europe GmbH",
+      "country": "DE",
+      "city": "Düsseldorf",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://agpglass.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81bb913dd2844b6ec81a",
+      "name": "AGT GmbH",
+      "country": "DE",
+      "city": "Stephanskirchen",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.agt-guss.de/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8129aaa9d7ed19e99cf6",
+      "name": "Airborne Technologies GmbH",
+      "country": "AT",
+      "city": "Wiener Neustadt",
+      "category": "air",
+      "review_status": "accepted",
+      "publishable_flag": false,
+      "website": "https://www.airbornetechnologies.at"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81c598b1d4fddda91393",
+      "name": "Airbus Defence and Space GmbH",
+      "country": "DE",
+      "city": "Taufkirchen",
+      "category": "air",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.airbus.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81d8a501cb515d49eee8",
+      "name": "Airbus Helicopters Deutschland GmbH",
+      "country": "DE",
+      "city": "Donauwörth",
+      "category": "air",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.airbus.com/en/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b8136a608dc1f0c48b52b",
+      "name": "AirRobot GmbH & Co. KG",
+      "country": "DE",
+      "city": "Arnsberg",
+      "category": "drones",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81fba837e7da56db700e",
+      "name": "Alantys Technology GmbH",
+      "country": "DE",
+      "city": "Köln",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.alantys.com/de/startseite/"
+    },
+    {
+      "notion_url": "https://app.notion.com/fa6d989e958f4456a32b49c7b932d8d2",
+      "name": "Alaris Cojot Oy",
+      "country": "FI",
+      "city": "Espoo",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://cojot.alaris.tech/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81009bc2ce7bd0d298cc",
+      "name": "Albatross Projects GmbH",
+      "country": "DE",
+      "city": "Nattheim",
+      "category": "testing",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.albatross-projects.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8191b826c0c214a5e7f9",
+      "name": "ALPEX Technologies GmbH",
+      "country": "AT",
+      "city": "Mils",
+      "category": "components",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.alpex-tec.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81c3bcaecfd98b33f887",
+      "name": "Alpine Eagle GmbH",
+      "country": "DE",
+      "city": "München",
+      "category": "drones",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://alpineeagle.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b813e87f9fd9fe95af127",
+      "name": "AMST-Systemtechnik GmbH",
+      "country": "AT",
+      "city": "Ranshofen",
+      "category": "testing",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.amst.co.at/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81598141f19bc7e1eb6b",
+      "name": "AMTEQ GmbH",
+      "country": "AT",
+      "city": "Frankenmarkt",
+      "category": "components",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.amteq.at"
+    },
+    {
+      "notion_url": "https://app.notion.com/9dc0870d6f604ab5a653c02184e0c435",
+      "name": "AMZ-KUTNO S.A.",
+      "country": "PL",
+      "city": "Kutno",
+      "category": "land",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://amz.pl/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b8137b828ee0e5f9eafad",
+      "name": "Andres Industries AG",
+      "country": "DE",
+      "city": "Berlin",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.andres-industries.de/en"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81d39ba6e29ca9882d3c",
+      "name": "Anschütz GmbH",
+      "country": "DE",
+      "city": "Kiel",
+      "category": "naval",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.anschuetz.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b811b9138d463c9d99d31",
+      "name": "ANTEMO Anlagen- & Teilefertigung GmbH",
+      "country": "AT",
+      "city": "St. Peter ob Judenburg",
+      "category": "components",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.antemo.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/45ab14fe640449088b404cfb2c5fe539",
+      "name": "Arescosmo S.p.A.",
+      "country": "IT",
+      "city": "Aprilia",
+      "category": "air",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://arescosmo.it/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81daa797ea96fadf6a98",
+      "name": "ArianeGroup GmbH",
+      "country": "DE",
+      "city": "Taufkirchen",
+      "category": "propulsion",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.ariane.group/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b8104a84cfd8f3b07034f",
+      "name": "ARX Landsysteme GmbH",
+      "country": "DE",
+      "city": "München",
+      "category": "land",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.arx-robotics.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/384f97a2284a4a7891cfc4f6039b55b4",
+      "name": "ASCENDANCE",
+      "country": "FR",
+      "city": "Toulouse",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.ascendance-ft.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81909fe8e98ee20e1702",
+      "name": "ASIS GmbH Automation Systems & Intelligent Solutions",
+      "country": "DE",
+      "city": "Landshut",
+      "category": "testing",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.asis-gmbh.de/en/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81a2a746da08072971f0",
+      "name": "Astute GmbH",
+      "country": "DE",
+      "city": "Feldkirchen-Westerham",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.astutegroup.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81da9f6af398de8fe0b5",
+      "name": "AT&S AG",
+      "country": "AT",
+      "city": "Leoben",
+      "category": "electronics",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.ats.net"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b816fb6c9d5d0d51cf084",
+      "name": "ATJ Automotive GmbH",
+      "country": "DE",
+      "city": "Johanngeorgenstadt",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.atj-automotive.de/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81a3b6d8f4700296fa01",
+      "name": "ATN Hölzel GmbH",
+      "country": "DE",
+      "city": "Oppach",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://atngmbh.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b812bb4f4c1e613a35e4a",
+      "name": "Austro Engine GmbH",
+      "country": "AT",
+      "city": "Wiener Neustadt",
+      "category": "propulsion",
+      "review_status": "accepted",
+      "publishable_flag": false,
+      "website": "https://www.austroengine.at"
+    },
+    {
+      "notion_url": "https://app.notion.com/8fea796f47304d8db22546c62d66f7b8",
+      "name": "AUTOCOMP MANAGEMENT Sp. z o.o.",
+      "country": "PL",
+      "city": "Szczecin",
+      "category": "testing",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.ac-m.pl/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b810eb3aff3c0377eac42",
+      "name": "AUTOFLUG GmbH",
+      "country": "DE",
+      "city": "Rellingen",
+      "category": "air",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.autoflug.com/en/startseite/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b8132891afb1a268d679a",
+      "name": "Autonomous Teaming Solutions ATS GmbH",
+      "country": "DE",
+      "city": "München",
+      "category": "software",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.autonomous-teaming.ai/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b812b8473cc4210375eba",
+      "name": "AVANCO Composites GmbH",
+      "country": "DE",
+      "city": "Herford",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://avanco-composites.de/en/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b812f9f6de19ced345265",
+      "name": "Avilus GmbH",
+      "country": "DE",
+      "city": "Ismaning",
+      "category": "drones",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.avilus.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b810c8bffdaa083b552d7",
+      "name": "AVL List GmbH",
+      "country": "AT",
+      "city": "Graz",
+      "category": "propulsion",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.avl.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b818c9031c0f783e670d5",
+      "name": "AVL SCHRICK GmbH",
+      "country": "DE",
+      "city": "Remscheid",
+      "category": "propulsion",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.avl.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81b281a4f76007b26656",
+      "name": "AXIS Flight Training Systems GmbH",
+      "country": "AT",
+      "city": "Lebring",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.axis-simulation.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81ffb061ed8534b41a44",
+      "name": "B&T Solutions GmbH",
+      "country": "DE",
+      "city": "Korschenbroich",
+      "category": "land",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.mosolf-special-vehicles.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81c990c3d186df37ee22",
+      "name": "Baeck GmbH & Co. KG",
+      "country": "DE",
+      "city": "Norderstedt",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.coba.de/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81198365edc6bc89eefe",
+      "name": "BARTH Präzisionstechnik GmbH",
+      "country": "DE",
+      "city": "Binzwangen",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.barth-praezisionstechnik.de/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8169bea4e1ce4f2904f1",
+      "name": "BECOM Electronics GmbH",
+      "country": "AT",
+      "city": "Hochstraß",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.becom-group.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b8122a0fefcc99924dbf8",
+      "name": "benntec Systemtechnik GmbH",
+      "country": "DE",
+      "city": "Rostock",
+      "category": "software",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.benntec.de/en"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81af9a8accdaef61c01a",
+      "name": "Bergolin GmbH & Co. KG",
+      "country": "DE",
+      "city": "Osterholz-Scharmbeck",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.bergolin.de/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81029caee59083c7e7a9",
+      "name": "Bernd Münstermann GmbH & Co. KG",
+      "country": "DE",
+      "city": "Telgte",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://muenstermann.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b8132bae0dafe0b7e812f",
+      "name": "Bertrandt AG",
+      "country": "DE",
+      "city": "Ehningen",
+      "category": "testing",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.bertrandt.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8183869cc7c77f2da59e",
+      "name": "Beyond Gravity Austria GmbH",
+      "country": "AT",
+      "city": "Vienna",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81a783a9ddc4fc01f7d4",
+      "name": "Binz Automotive GmbH",
+      "country": "DE",
+      "city": "Ilmenau",
+      "category": "land",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://binz-automotive.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b813e93baef439df7c7f9",
+      "name": "bionic surface technologies GmbH",
+      "country": "AT",
+      "city": "Graz",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.bionicsurface.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81178cd0e0be248bd6e1",
+      "name": "blackned GmbH",
+      "country": "DE",
+      "city": "Heimertingen",
+      "category": "software",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.blackned.de/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b817e878ccd82807986be",
+      "name": "blackned in Austria GmbH",
+      "country": "AT",
+      "city": "Salzburg",
+      "category": "software",
+      "review_status": "accepted",
+      "publishable_flag": false,
+      "website": "https://www.blackned.de"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81e29fd2c6f8cd841fdb",
+      "name": "Blackshark.ai GmbH",
+      "country": "AT",
+      "city": "Graz",
+      "category": "software",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://blackshark.ai"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81b8abf0fc9060614dbd",
+      "name": "Blücher GmbH",
+      "country": "DE",
+      "city": "Erkrath",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b8166950af3ac2d9f43c7",
+      "name": "Bruker Optics GmbH & Co. KG",
+      "country": "DE",
+      "city": "Ettlingen",
+      "category": "testing",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b812ba05dda419d11a0b8",
+      "name": "Burgmaier Hightech GmbH + Co KG",
+      "country": "DE",
+      "city": "Laupheim",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81f3899fc9d21a0ccbaa",
+      "name": "Burre Hydraulik GmbH",
+      "country": "DE",
+      "city": "Bad Oeynhausen",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b8173b91bc46e4b88680c",
+      "name": "Busch PROtective Germany GmbH & Co. KG",
+      "country": "DE",
+      "city": "Gütersloh",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://busch-protective.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81aa877dce810cbbe623",
+      "name": "Bydgoskie Zakłady Elektromechaniczne Belma S.A.",
+      "country": "PL",
+      "city": "Białe Błota",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.belma.pl"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81219d1be9fc700cc50b",
+      "name": "Bürstlein Gusstechnik GmbH",
+      "country": "DE",
+      "city": "Landstuhl",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.buerstlein-upload.de/en/impressum"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b817ab7d3f7cce92ac779",
+      "name": "CAE Elektronik GmbH",
+      "country": "DE",
+      "city": "Stolberg",
+      "category": "testing",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.cae.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b811a8e0ac928bbf5fc21",
+      "name": "Carl Stahl Technical Webbing GmbH",
+      "country": "DE",
+      "city": "Herbrechtingen",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b8148b985ccc02c141835",
+      "name": "Carl Zeiss IQS Deutschland GmbH",
+      "country": "DE",
+      "city": "Oberkochen",
+      "category": "testing",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81fab91df68c4ab82aac",
+      "name": "Carmenta Germany GmbH",
+      "country": "DE",
+      "city": "München",
+      "category": "software",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b8109b0ccfed80ca3454f",
+      "name": "Cenzin Sp. z o.o.",
+      "country": "PL",
+      "city": "Warszawa",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.cenzin.com/kontakt/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81a29b87d0f44bc2950d",
+      "name": "Chora GmbH",
+      "country": "DE",
+      "city": "München",
+      "category": "software",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b819dbd8cfee8278212cd",
+      "name": "Cicor Deutschland GmbH",
+      "country": "DE",
+      "city": "Dresden",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/7dbba9172a5f43aa9a00a0fedc601af1",
+      "name": "CIRA — Centro Italiano Ricerche Aerospaziali S.c.p.a.",
+      "country": "IT",
+      "city": "Capua",
+      "category": "testing",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.cira.it/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81978098d23bbfb28b7a",
+      "name": "CLAWGEAR",
+      "country": "AT",
+      "city": "Steyr",
+      "category": "smallarms",
+      "review_status": "accepted",
+      "publishable_flag": false,
+      "website": "https://www.clawgear.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81079b26db779be72cd1",
+      "name": "Cognor S.A.",
+      "country": "PL",
+      "city": "Poraj",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://cognorholding.eu/en/about-us/cognor-group/cognor-2/activity/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81dc8deef5a2b87edc64",
+      "name": "constellr GmbH",
+      "country": "DE",
+      "city": "München",
+      "category": "air",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b810a83a9e93e279dbe82",
+      "name": "Creotech Instruments S.A.",
+      "country": "PL",
+      "city": "Piaseczno",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://creotech.pl/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81aa8581f24e44f5ea49",
+      "name": "CUONICS GmbH",
+      "country": "DE",
+      "city": "Straubing",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b810cb5a6ed745e0033d4",
+      "name": "Daedalus GmbH",
+      "country": "DE",
+      "city": "Karlsruhe",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81a683b5c5e7c3933e7b",
+      "name": "DEWETRON GmbH",
+      "country": "DE",
+      "city": "Winterbach",
+      "category": "testing",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b815284cae47bb1782998",
+      "name": "Diamond Aircraft Industries GmbH",
+      "country": "AT",
+      "city": "Wiener Neustadt",
+      "category": "air",
+      "review_status": "accepted",
+      "publishable_flag": false,
+      "website": "https://www.diamondaircraft.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b816fb2d1df53b2453503",
+      "name": "Diehl Aviation Laupheim GmbH",
+      "country": "DE",
+      "city": "Laupheim",
+      "category": "air",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://new.diehl.com/aviation/en/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81ec8197f97141f271ca",
+      "name": "Diehl Defence GmbH & Co. KG",
+      "country": "DE",
+      "city": "Überlingen",
+      "category": "missiles",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://new.diehl.com/defence/en"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b813babd1fc3e69e7267b",
+      "name": "DOLL Fahrzeugbau GmbH",
+      "country": "DE",
+      "city": "Oppenau",
+      "category": "land",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b817bac0ded4644a7116d",
+      "name": "Dynell GmbH",
+      "country": "AT",
+      "city": "Mistelbach bei Wels",
+      "category": "components",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.dynell.at"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81aeafddebf5b7600a1c",
+      "name": "ELAC SONAR GmbH",
+      "country": "DE",
+      "city": "Kiel",
+      "category": "naval",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.elac-sonar.de/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b814c885bcc22aede7a38",
+      "name": "Elbe Flugzeugwerke GmbH",
+      "country": "DE",
+      "city": "Dresden",
+      "category": "air",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81489906ec2c3f69083e",
+      "name": "Elma Electronic GmbH",
+      "country": "DE",
+      "city": "Pforzheim",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81cc99aed3f6d031d150",
+      "name": "EMPL Fahrzeugwerk GmbH",
+      "country": "AT",
+      "city": "Kaltenbach",
+      "category": "land",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.empl.at"
+    },
+    {
+      "notion_url": "https://app.notion.com/fffaf0bce19347cfab646ac71a45485c",
+      "name": "enovation s.r.o.",
+      "country": "CZ",
+      "city": "Praha",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.enovation.cz/kontakt"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b8199b9a7f7efc2deb606",
+      "name": "Ensinger GmbH",
+      "country": "DE",
+      "city": "Nufringen",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.ensingerplastics.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81eca2fbd8699e1793ae",
+      "name": "ENTRAK GmbH",
+      "country": "DE",
+      "city": "Wendelstein",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "http://entrak.de/en/legal-notice/"
+    },
+    {
+      "notion_url": "https://app.notion.com/e35dc09036a44dcf9a99bcc22de437f4",
+      "name": "ERA a.s.",
+      "country": "CZ",
+      "city": "Pardubice",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.era.aero/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81cfb57bd1a2b5ff162b",
+      "name": "ESG Elektroniksystem- und Logistik-GmbH",
+      "country": "DE",
+      "city": "Fürstenfeldbruck",
+      "category": "software",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://jobs.esg.de/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b819f8039caf305564606",
+      "name": "ESKA Automotive GmbH",
+      "country": "DE",
+      "city": "Chemnitz",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://eska.net/en/imprint/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81eeb1e1e9fe0516d692",
+      "name": "ESKA Lederhandschuhfabrik Ges.m.b.H. & Co KG",
+      "country": "AT",
+      "city": "Thalheim bei Wels",
+      "category": "components",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.eskagloves.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b810d9f33ed18434bf250",
+      "name": "ESL Advanced Information Technology GmbH",
+      "country": "AT",
+      "city": "Vienna",
+      "category": "software",
+      "review_status": "accepted",
+      "publishable_flag": false,
+      "website": "https://www.eslait.at"
+    },
+    {
+      "notion_url": "https://app.notion.com/a40742bba1f742db871ac28acaa69000",
+      "name": "ETRONIKA Sp. z o.o.",
+      "country": "PL",
+      "city": "Warsaw",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.etronika.pl/"
+    },
+    {
+      "notion_url": "https://app.notion.com/fb76c074eeb14189a6e00304096deba1",
+      "name": "EURO-FUNDING EU PROJECTS SOCIEDAD LIMITADA",
+      "country": "ES",
+      "city": "Madrid",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://euro-funding.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81a0b2fded2ada71b9dd",
+      "name": "EUROATLAS GmbH",
+      "country": "DE",
+      "city": "Bremen",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://euroatlas.com/imprint-legal-notice"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81a7931df506a8debbe9",
+      "name": "EW Drone Passion GmbH",
+      "country": "AT",
+      "city": "Traiskirchen",
+      "category": "drones",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.drone-passion.at"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b8142b658d9b232ecbbb1",
+      "name": "Fabryka Broni Łucznik – Radom sp. z o.o.",
+      "country": "PL",
+      "city": "Radom",
+      "category": "smallarms",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b818b9868ecc7822ac718",
+      "name": "FACC Operations GmbH",
+      "country": "AT",
+      "city": "Ried im Innkreis",
+      "category": "components",
+      "review_status": "accepted",
+      "publishable_flag": false,
+      "website": "https://www.facc.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8102bf35e4901fb56ddb",
+      "name": "Fantana GmbH",
+      "country": "AT",
+      "city": "Vienna",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.fantana.at/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b810d9616dd21ae265a24",
+      "name": "Filbico Sp. z o.o.",
+      "country": "PL",
+      "city": "Zielonka",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b810cad24fe6b8088f126",
+      "name": "Flytronic S.A.",
+      "country": "PL",
+      "city": "Gliwice",
+      "category": "drones",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://flytronic.pl/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81ffbf52e6c162491f04",
+      "name": "FN Herstal",
+      "country": "BE",
+      "city": "Herstal",
+      "category": "smallarms",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://fnherstal.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b815eb945ddb86546507b",
+      "name": "Frequentis AG",
+      "country": "AT",
+      "city": "Vienna",
+      "category": "electronics",
+      "review_status": "accepted",
+      "publishable_flag": false,
+      "website": "https://www.frequentis.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b817b93d8cc0b6bd90a23",
+      "name": "FREQUENTIS COMSOFT GmbH",
+      "country": "DE",
+      "city": "Karlsruhe",
+      "category": "software",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.frequentis.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81ea800ae6aa2edc7120",
+      "name": "GD European Land Systems-Steyr GmbH",
+      "country": "AT",
+      "city": "Vienna",
+      "category": "land",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.gdels.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81f691ece80b4931adbc",
+      "name": "General Atomics Europe GmbH",
+      "country": "DE",
+      "city": "Dresden",
+      "category": "air",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81fca697c7ac185140f6",
+      "name": "GLOCK Ges.m.b.H.",
+      "country": "AT",
+      "city": "Deutsch-Wagram",
+      "category": "smallarms",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.glock.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81388d3dca9cd4d01d7b",
+      "name": "GMT Gummi-Metall-Technik GmbH",
+      "country": "DE",
+      "city": "Bühl",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81d0b48bede55490db55",
+      "name": "H. Cegielski – Poznań S.A.",
+      "country": "PL",
+      "city": "Poznań",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.hcp.eu"
+    },
+    {
+      "notion_url": "https://app.notion.com/7222f89d853c4cdd80b24b7907234d1d",
+      "name": "Hiab Oyj",
+      "country": "FI",
+      "city": "Helsinki",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "http://www.cargotec.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8174be0ac366df3a546c",
+      "name": "Hintsteiner Defence GmbH",
+      "country": "AT",
+      "city": "St. Barbara im Mürztal",
+      "category": "components",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.hintsteiner-defence.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b815491a7c064f4caac1a",
+      "name": "Hirtenberger Defence Europe GmbH",
+      "country": "AT",
+      "city": "Hirtenberg",
+      "category": "munitions",
+      "review_status": "accepted",
+      "publishable_flag": false,
+      "website": "https://hds.hirtenberger.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b816fb04bda55a31cf570",
+      "name": "HiWiTronics-Components GmbH",
+      "country": "AT",
+      "city": "Tillmitsch",
+      "category": "drones",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.hiwitronics.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b814ba964fad9266e0b6b",
+      "name": "Huta Częstochowa Sp. z o.o.",
+      "country": "PL",
+      "city": "Częstochowa",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b8194b7e3e6d8a42e2d3b",
+      "name": "Huta Stalowa Wola S.A.",
+      "country": "PL",
+      "city": "Stalowa Wola",
+      "category": "land",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.hsw.pl/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81dbad78deca3e7a0f82",
+      "name": "Iceye Polska Sp. z o.o.",
+      "country": "PL",
+      "city": "Warszawa",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.iceye.pl"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b818bbe2dfd1667d5b113",
+      "name": "IN-VISION Technologies AG",
+      "country": "AT",
+      "city": "Guntramsdorf",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.in-vision.at/"
+    },
+    {
+      "notion_url": "https://app.notion.com/60cd4ca365fe4c3a8b94dec27b722233",
+      "name": "INCAS — Institutul Național de Cercetare-Dezvoltare Aerospațială „Elie Carafoli”",
+      "country": "RO",
+      "city": "Bucharest",
+      "category": "testing",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.incas.ro/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8148b3c6f3d1aadfa213",
+      "name": "IQ brand, design & production GmbH (gloryfy)",
+      "country": "AT",
+      "city": "Schlitters",
+      "category": "components",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.gloryfy.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81799b7bdbbd7b911cf0",
+      "name": "JAKUSZ Sp. z o.o.",
+      "country": "PL",
+      "city": "Kościerzyna",
+      "category": "munitions",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b812d9efaeaee2892e354",
+      "name": "Jelcz Sp. z o.o.",
+      "country": "PL",
+      "city": "Jelcz-Laskowice",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://jelcz.com.pl/"
+    },
+    {
+      "notion_url": "https://app.notion.com/29ff3ed7be444b26bae15d61827438e8",
+      "name": "Jet-Tekno Oy",
+      "country": "FI",
+      "city": "Nokia",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.jet-tekno.fi/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81f0b355db0dc208c643",
+      "name": "JFJ Aviation & Defence GmbH",
+      "country": "AT",
+      "city": "Burgkirchen",
+      "category": "testing",
+      "review_status": "accepted",
+      "publishable_flag": false,
+      "website": "https://www.jfj.at"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b816987b1c2c6543a4115",
+      "name": "Josef Blässinger GmbH + Co. KG",
+      "country": "DE",
+      "city": "Ostfildern",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b8119b20fd5274fe42d76",
+      "name": "JUNGHANS Microtec GmbH",
+      "country": "DE",
+      "city": "Dunningen-Seedorf",
+      "category": "munitions",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b8101957bc24c0dc4c176",
+      "name": "Jäger Gummi und Kunststoff GmbH",
+      "country": "DE",
+      "city": "Hannover",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81feab24c4bcbd278d40",
+      "name": "KAHLES Gesellschaft m.b.H.",
+      "country": "AT",
+      "city": "Guntramsdorf",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.kahles.at/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81ed9b96ce47db2351b8",
+      "name": "Lubawa S.A.",
+      "country": "PL",
+      "city": "Ostrów Wielkopolski",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.lubawa.com.pl"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8109bbf8d3b8048fa9ee",
+      "name": "Magirus Defense Systems GmbH",
+      "country": "AT",
+      "city": "Radfeld",
+      "category": "land",
+      "review_status": "accepted",
+      "publishable_flag": false,
+      "website": "https://www.magirusgroup.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8116b591ce5fdc6a1242",
+      "name": "Maschinenfabrik Liezen und Gießerei GmbH (MFL)",
+      "country": "AT",
+      "city": "Liezen",
+      "category": "land",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.mfl-defence.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81578720d0f6616c6ce9",
+      "name": "MDA Space Ltd.",
+      "country": "CA",
+      "city": "Brampton",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://mda.space/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81f6bd14eb3d6e81644e",
+      "name": "Mesko S.A.",
+      "country": "PL",
+      "city": "Skarżysko-Kamienna",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.mesko.com.pl"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b817681f0fa6b8e68e26d",
+      "name": "MindMade Sp. z o.o.",
+      "country": "PL",
+      "city": "Warsaw",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.wbgroup.pl/mindmade/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81a49a0efe82e74c06b6",
+      "name": "Montana Aerospace Austria GmbH",
+      "country": "AT",
+      "city": "Vienna",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.montana-aerospace.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b816f90a0c1b5e647797e",
+      "name": "MSP Inntech Sp. z o.o.",
+      "country": "PL",
+      "city": "Warsaw",
+      "category": "drones",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81c5bcdbd0fe28441f48",
+      "name": "MSW GmbH",
+      "country": "AT",
+      "city": "Wiener Neustadt",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.msw.co.at/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81aaaa1ff5bbb4dd7125",
+      "name": "Mäser Technik GmbH",
+      "country": "AT",
+      "city": "Dornbirn",
+      "category": "components",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.maesertechnik.at/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81dd8f06e5650b17e5e4",
+      "name": "Narzędziownia-Mechanik Sp. z o.o.",
+      "country": "PL",
+      "city": "Kalisz",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81628c13e49d405c6355",
+      "name": "NatDefSys National Defense Systems GmbH",
+      "country": "AT",
+      "city": "Mauer bei Amstetten",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b810db749fa82dbcca7b6",
+      "name": "Neue Lengenfelder Maschinen- und Stahlbau GmbH",
+      "country": "DE",
+      "city": "Lengenfeld",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://nlmslengenfeld.de/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81969b63de34075cbd1a",
+      "name": "Niewiadów Polska Grupa Militarna S.A.",
+      "country": "PL",
+      "city": "Warsaw",
+      "category": "munitions",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b8139a1cee894520c4386",
+      "name": "Nikon SLM Solutions AG",
+      "country": "DE",
+      "city": "Lübeck",
+      "category": "testing",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://nikon-slm-solutions.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b818c878cc18bf471ce0b",
+      "name": "Northrop Grumman LITEF GmbH",
+      "country": "DE",
+      "city": "Freiburg",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.litef.de/en"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81b89fcfd279377da4e8",
+      "name": "NVL B.V. & Co. KG",
+      "country": "DE",
+      "city": "Bremen",
+      "category": "naval",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.nvl.de/en/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b813bb75df64d55094a22",
+      "name": "Oberaigner Powertrain GmbH",
+      "country": "AT",
+      "city": "Nebelberg",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.oberaigner.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81d49a97e7e19e1a8bec",
+      "name": "OBR Urządzeń Mechanicznych OBRUM Sp. z o.o.",
+      "country": "PL",
+      "city": "Gliwice",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81a5a235e44ac34d24a6",
+      "name": "ODW-ELEKTRIK GmbH",
+      "country": "DE",
+      "city": "Steinau an der Straße",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.odw-elektrik.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b810f9452c0c3478999a9",
+      "name": "OHB Digital Connect GmbH",
+      "country": "DE",
+      "city": "Bremen",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.ohb.de/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b8197b556f5d92172aeec",
+      "name": "OHB System AG",
+      "country": "DE",
+      "city": "Bremen",
+      "category": "air",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.ohb-system.de/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b817584b7ebc68a9fb895",
+      "name": "Ośrodek Badawczo-Rozwojowy Centrum Techniki Morskiej S.A.",
+      "country": "PL",
+      "city": "Gdynia",
+      "category": "naval",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8128b97ddbcdcd408795",
+      "name": "Pankl Aerospace Systems Europe GmbH",
+      "country": "AT",
+      "city": "Kapfenberg",
+      "category": "components",
+      "review_status": "accepted",
+      "publishable_flag": false,
+      "website": "https://www.pankl.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b813cb10cc2f816e22b9b",
+      "name": "PCO S.A.",
+      "country": "PL",
+      "city": "Warszawa",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.pcosa.com.pl"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8124aa7fefef42a498d8",
+      "name": "Peak Technology GmbH",
+      "country": "AT",
+      "city": "Holzhausen",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.peaktechnology.at/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81c0b3bcc26a066112bf",
+      "name": "PGZ Stocznia Wojenna Sp. z o.o.",
+      "country": "PL",
+      "city": "Gdynia",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.pgzsw.com.pl"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81ad8ee1d3a2226643a3",
+      "name": "PIT-RADWAR S.A.",
+      "country": "PL",
+      "city": "Warsaw",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://en.pitradwar.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b8102b202e0eb86822250",
+      "name": "PLATH GmbH & Co. KG",
+      "country": "DE",
+      "city": "Hamburg",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.plath.de/en"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b8148829dd79a5a5d975c",
+      "name": "Ponar Sp. z o.o.",
+      "country": "PL",
+      "city": "Żywiec",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b8170a2a5d9212b110529",
+      "name": "pro-beam GmbH & Co. KGaA",
+      "country": "DE",
+      "city": "Gilching",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.pro-beam.com/en/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8163b12feaad3456d946",
+      "name": "Professional Aircraft Engines GmbH",
+      "country": "AT",
+      "city": "Sitzenberg-Reidling",
+      "category": "propulsion",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.pace-engines.at"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81fc91d4d98b9afd525d",
+      "name": "PROSTEP AG",
+      "country": "DE",
+      "city": "Darmstadt",
+      "category": "software",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.prostep.com/en"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81eb9381ef3c719e664b",
+      "name": "PSO Maskpol S.A.",
+      "country": "PL",
+      "city": "Konieczki",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b810ba584e5c02dd7b84e",
+      "name": "QEST Quantenelektronische Systeme GmbH",
+      "country": "DE",
+      "city": "Holzgerlingen",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.qest.de/impressum"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81d8afdcd1f3f2338483",
+      "name": "RADMOR S.A.",
+      "country": "PL",
+      "city": "Gdynia",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.radmor.com.pl/en"
+    },
+    {
+      "notion_url": "https://app.notion.com/81ee5648469f419aa8bf002fccdee6fa",
+      "name": "RETIA, a.s.",
+      "country": "CZ",
+      "city": "Pardubice",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.retia.eu/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81dbb0fddd2d298c8115",
+      "name": "Rheinmetall MAN Military Vehicles Österreich GmbH",
+      "country": "AT",
+      "city": "Vienna",
+      "category": "land",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.rheinmetall.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81448a10d171999c894d",
+      "name": "Rheinmetall Waffe Munition ARGES GmbH",
+      "country": "AT",
+      "city": "Rüstorf",
+      "category": "munitions",
+      "review_status": "accepted",
+      "publishable_flag": false,
+      "website": "https://www.rheinmetall.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b811b9c78f51303e3f631",
+      "name": "RIEGL Research & Defense GmbH",
+      "country": "AT",
+      "city": "Horn",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81a2bbebe1b586f27408",
+      "name": "Robin Radar Systems",
+      "country": "NL",
+      "city": "Delft",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.robinradar.com/about"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81e3b46dcdf201e084b7",
+      "name": "Rosenbauer International AG",
+      "country": "AT",
+      "city": "Leonding",
+      "category": "land",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.rosenbauer.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81629456f92a9dc8bd8d",
+      "name": "Rosomak S.A.",
+      "country": "PL",
+      "city": "Siemianowice Śląskie",
+      "category": "land",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b810db3a9c7bb2e94e7a5",
+      "name": "Safran Aero Boosters",
+      "country": "BE",
+      "city": "Liège (region; exact municipality pending)",
+      "category": "propulsion",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.safran-group.com/companies/safran-aero-boosters"
+    },
+    {
+      "notion_url": "https://app.notion.com/bf57f68178ac475d9cfd03fbaf6505a1",
+      "name": "Savox Communications Oyj",
+      "country": "FI",
+      "city": "Espoo",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.savox.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b81ad8d2df0a3f997e857",
+      "name": "Scanfil Electronics GmbH",
+      "country": "DE",
+      "city": "Wutha-Farnroda",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b810a915fc1d1cdc3b8fc",
+      "name": "SCE Systemengineering GmbH",
+      "country": "AT",
+      "city": "Salzburg",
+      "category": "testing",
+      "review_status": "accepted",
+      "publishable_flag": false,
+      "website": "https://www.sce.co.at/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b812aaa94d4997bf6a31a",
+      "name": "Schiebel Elektronische Geräte GmbH",
+      "country": "AT",
+      "city": "Vienna",
+      "category": "drones",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://schiebel.net"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81d39b8bdac9cffcebc1",
+      "name": "Schunk Carbon Technology GmbH",
+      "country": "AT",
+      "city": "Bad Goisern am Hallstättersee",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.schunk-group.com/carbon-technology/en"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b818eb1dde1215ced0ced",
+      "name": "SFC (Europe) Ltd",
+      "country": "GB",
+      "city": "Wolverhampton",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://sfc-europe.com/about/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b816cad7aca3cc498162c",
+      "name": "STEYR ARMS GmbH",
+      "country": "AT",
+      "city": "Kleinraming",
+      "category": "smallarms",
+      "review_status": "accepted",
+      "publishable_flag": false,
+      "website": "https://www.steyr-arms.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8144ba63f73762b09da6",
+      "name": "Steyr Automotive GmbH",
+      "country": "AT",
+      "city": "Steyr",
+      "category": "components",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.steyr-automotive.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8188a712ea7aa5eedc57",
+      "name": "Steyr Motors AG",
+      "country": "AT",
+      "city": "Steyr",
+      "category": "propulsion",
+      "review_status": "accepted",
+      "publishable_flag": false,
+      "website": "https://www.steyr-motors.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81a68f79cec555d51a4d",
+      "name": "STI STEYR Trucks Sales and Services International GmbH",
+      "country": "AT",
+      "city": "Waldneukirchen",
+      "category": "land",
+      "review_status": "accepted",
+      "publishable_flag": false,
+      "website": "https://www.sti-defense.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b8170ab96f47502ef1058",
+      "name": "Stocznia Remontowa Nauta S.A.",
+      "country": "PL",
+      "city": "Gdynia",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.nauta.pl"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b815fb50fe458ac6b61d1",
+      "name": "Stomil-Poznań S.A. w likwidacji",
+      "country": "PL",
+      "city": "Poznań",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81e28998ec308a19f27f",
+      "name": "SWACRIT systems GmbH",
+      "country": "AT",
+      "city": "Hall in Tirol",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.swacritsystems.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8133ab95d7f7d18c1bcc",
+      "name": "SWAROVSKI OPTIK AG & Co KG.",
+      "country": "AT",
+      "city": "Absam",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.swarovskioptik.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/ca8aa7cc5f664085b0f699f76cd3774e",
+      "name": "Technikon Forschungs- und Planungsgesellschaft mbH",
+      "country": "AT",
+      "city": "Villach",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://technikon.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81a8a223e25de5e428b2",
+      "name": "Technolution BV",
+      "country": "NL",
+      "city": "Gouda",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.technolution.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81f5adddef16bdfde78d",
+      "name": "TELDAT Sp. z o.o. sp.k.",
+      "country": "PL",
+      "city": "Bydgoszcz",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://teldat.com.pl/"
+    },
+    {
+      "notion_url": "https://app.notion.com/cc25a094a269402e9c3a460bd4e22c8a",
+      "name": "Telefónica Innovación Digital S.L.",
+      "country": "ES",
+      "city": "Madrid",
+      "category": "software",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://opengateway.telefonica.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8136bc72fb6734f48bd7",
+      "name": "Test-Fuchs International GmbH",
+      "country": "AT",
+      "city": "Groß-Siegharts",
+      "category": "testing",
+      "review_status": "accepted",
+      "publishable_flag": false,
+      "website": "https://www.test-fuchs.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81fd9874c3c36e25359a",
+      "name": "Thales Austria GmbH",
+      "country": "AT",
+      "city": "Vienna",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.thalesgroup.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81df9fd2e38bba9203c5",
+      "name": "Thales Nederland",
+      "country": "NL",
+      "city": "Hengelo",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://thalescareers.com/netherlands/"
+    },
+    {
+      "notion_url": "https://app.notion.com/ef58c38e66454a94abf17b3c80fdc085",
+      "name": "THALES S.A.",
+      "country": "FR",
+      "city": "Meudon",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.thalesgroup.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/b2ffa296d88e4e65bcd7580606803ad1",
+      "name": "Tiyo a.s.",
+      "country": "CZ",
+      "city": "Hořice",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.tiyo.cz/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b8142ac7ad0ab5565786b",
+      "name": "Transbit Sp. z o.o.",
+      "country": "PL",
+      "city": "Warszawa",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.transbit.com.pl/en/Contact"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81ccbad1f851a60193b0",
+      "name": "TRIVION 3d Druck & Engineering GmbH",
+      "country": "AT",
+      "city": "Gröbming",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.trivion.tech"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81329ee2eb298752a6ce",
+      "name": "TTTech Computertechnik AG",
+      "country": "AT",
+      "city": "Vienna",
+      "category": "software",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.tttech.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81f19ebdd06207527746",
+      "name": "ULBRICHTS GmbH",
+      "country": "AT",
+      "city": "Schwanenstadt",
+      "category": "components",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.ulbrichts.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/9b8c6e44d775402eb18a261ad53748f0",
+      "name": "Universidad Carlos III de Madrid",
+      "country": "ES",
+      "city": "Getafe",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.uc3m.es/"
+    },
+    {
+      "notion_url": "https://app.notion.com/19fc46ce37a741beb1742cd3ac129539",
+      "name": "UpVision s.r.o.",
+      "country": "CZ",
+      "city": "Prague",
+      "category": "software",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.upvision.cz/"
+    },
+    {
+      "notion_url": "https://app.notion.com/960e4ff0cc0c4a03a39695a87e0ca702",
+      "name": "Valmet Automotive Oyj",
+      "country": "FI",
+      "city": "Uusikaupunki",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.valmet-automotive.com/fi/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8178a324d09d984306e8",
+      "name": "VENOX Systems GmbH",
+      "country": "AT",
+      "city": "Lingenau",
+      "category": "components",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://venox.systems"
+    },
+    {
+      "notion_url": "https://app.notion.com/f113a1693d514b56b9d4617807489922",
+      "name": "VIGO Photonics S.A.",
+      "country": "PL",
+      "city": "Ożarów Mazowiecki",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://vigophotonics.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8154a4c3e543ef950c30",
+      "name": "Villinger Gmbh",
+      "country": "AT",
+      "city": "Mieders",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.villinger.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b817580b6d3a2ee7e4312",
+      "name": "VISIONAIRtronics GmbH",
+      "country": "AT",
+      "city": "Illmitz",
+      "category": "components",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://vat.aero"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b818d9368f1424ff82ec2",
+      "name": "VOXELSENSORS",
+      "country": "BE",
+      "city": "Brussels",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://voxelsensors.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/f768f9ede7464cea876a6f749d87c8b3",
+      "name": "Vzduchotechnik s.r.o.",
+      "country": "CZ",
+      "city": "Chrastava",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.firbach.com/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81779fc2f2ff56f86d2a",
+      "name": "WB ELECTRONICS S.A.",
+      "country": "PL",
+      "city": "Ożarów Mazowiecki",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.wbgroup.pl/en/wb-electronics/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b8167ad94f4ce99831942",
+      "name": "WB ELECTRONICS Sp. z o.o.",
+      "country": "PL",
+      "city": "Ożarów Mazowiecki",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81dbbc0fe76f1ccde268",
+      "name": "Wild GmbH",
+      "country": "AT",
+      "city": "Völkermarkt",
+      "category": "electronics",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.wild.at"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81dd8c24c0785c297534",
+      "name": "Winkelbauer GmbH",
+      "country": "AT",
+      "city": "Anger",
+      "category": "components",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.winkelbauer.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b818e8987d00ad3ccc922",
+      "name": "WIRETEC GmbH",
+      "country": "AT",
+      "city": "Selzthal",
+      "category": "components",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.wiretec.at"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b8140a0b8ebdfe0d5b8c4",
+      "name": "Wojskowe Centralne Biuro Konstrukcyjno-Technologiczne S.A.",
+      "country": "PL",
+      "city": "Warszawa",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://wcbkt.pl/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b812db7d1cfaaeb2cefab",
+      "name": "Wojskowe Zakłady Elektroniczne S.A.",
+      "country": "PL",
+      "city": "Zielonka",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81b6870cea994f2f515c",
+      "name": "Wojskowe Zakłady Lotnicze nr 1 S.A.",
+      "country": "PL",
+      "city": "Łódź",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.wzl1.mil.pl"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b8160a34cf796b86b0e46",
+      "name": "Wojskowe Zakłady Lotnicze nr 2 S.A.",
+      "country": "PL",
+      "city": "Bydgoszcz",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.wzl2.mil.pl"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b8186947df89ee99c9317",
+      "name": "Wojskowe Zakłady Motoryzacyjne S.A.",
+      "country": "PL",
+      "city": "Poznań",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.wzm.pl"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b8154a88af2f7251b0996",
+      "name": "Wojskowe Zakłady Uzbrojenia S.A.",
+      "country": "PL",
+      "city": "Grudziądz",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.wzu.pl"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81448f5be001dfe8a336",
+      "name": "Wojskowe Zakłady Łączności nr 1 S.A.",
+      "country": "PL",
+      "city": "Zegrze Południowe",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.wzl1.com.pl"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b816a8d9dec1f9d71d0ee",
+      "name": "Wojskowe Zakłady Łączności nr 2 S.A.",
+      "country": "PL",
+      "city": "Czernica",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81ebb11cc2e5f656ce03",
+      "name": "WSK PZL Kalisz S.A.",
+      "country": "PL",
+      "city": "Kalisz",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.wsk.kalisz.pl"
+    },
+    {
+      "notion_url": "https://app.notion.com/5901016bc7484e4bb213cc62ceb6560b",
+      "name": "Y SOFT CORPORATION, a.s.",
+      "country": "CZ",
+      "city": "Brno",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.ysoft.com/offices"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81759eb6c08b9353dd47",
+      "name": "Zakład Automatyki i Urządzeń Pomiarowych AREX Sp. z o.o.",
+      "country": "PL",
+      "city": "Gdynia",
+      "category": "electronics",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://arex.pl/"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b8136979df7f6af4746b4",
+      "name": "Zakłady Chemiczne Nitro-Chem S.A.",
+      "country": "PL",
+      "city": "Bydgoszcz",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.nitrochem.com.pl"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b8187befdd23bcde32289",
+      "name": "Zakłady Mechaniczne Tarnów S.A.",
+      "country": "PL",
+      "city": "Tarnów",
+      "category": "smallarms",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81fba350f8c53f0a5e3b",
+      "name": "Zakłady Metalowe \"Dezamet\" S.A.",
+      "country": "PL",
+      "city": "Nowa Dęba",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8175b86bd5c181b09e65",
+      "name": "ZCO - Zero Compromise Optic GmbH",
+      "country": "AT",
+      "city": "Margarethen am Moos",
+      "category": "smallarms",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.zcompoptic.com"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b8171926ad837fa44c183",
+      "name": "ZENTRIQ GmbH",
+      "country": "AT",
+      "city": "Anthering",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f6c42d0b11b811bb316c69989b567a8",
+      "name": "Zippermast GmbH",
+      "country": "DE",
+      "city": "Bad Reichenhall",
+      "category": "components",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b8167a981c55922655634",
+      "name": "ZM \"Bumar-Mikulczyce\" S.A.",
+      "country": "PL",
+      "city": "Zabrze",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81a29d5ec6f4d95f3db8",
+      "name": "ZM \"Bumar-Łabędy\" S.A.",
+      "country": "PL",
+      "city": "Gliwice",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.bumar.gliwice.pl"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f4c42d0b11b81878e5dfc5bea1a0d30",
+      "name": "Zoerkler Gears GmbH & Co KG",
+      "country": "AT",
+      "city": "Jois",
+      "category": "propulsion",
+      "review_status": "accepted",
+      "publishable_flag": true,
+      "website": "https://www.zoerkler.at"
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81b0857fec969165d1eb",
+      "name": "ZPS \"Gamrat\" Sp. z o.o.",
+      "country": "PL",
+      "city": "Jasło",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/3f5c42d0b11b81e9bc48fc9852f51fff",
+      "name": "Zurad Sp. z o.o.",
+      "country": "PL",
+      "city": "Ostrów Mazowiecki",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": ""
+    },
+    {
+      "notion_url": "https://app.notion.com/6135d2b7c0e2402986025592813c1f83",
+      "name": "Česká exportní banka, a.s.",
+      "country": "CZ",
+      "city": "Praha",
+      "category": "",
+      "review_status": "unresolved",
+      "publishable_flag": false,
+      "website": "https://www.ceb.cz/en/about-us/our-profile"
+    }
+  ]
+}

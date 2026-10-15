@@ -67,7 +67,12 @@ window.AtlasContext={showNews,showCompany(c){
  ptitle.textContent='COMPANY DOSSIER';
  const h=document.createElement('h3');h.textContent=c.name||'Company';
  const loc=document.createElement('p');loc.textContent=[c.city,c.country,c.category].filter(Boolean).join(' · ');
- const a=document.createElement('a');a.href=c.website||c.web||'#';a.textContent='Company website ↗';a.target='_blank';a.rel='noopener noreferrer';
- contextBody.replaceChildren(h,loc,a);panel.classList.remove('atlas-minimized');restore.querySelectorAll('button')[1].hidden=true;
+ const note=document.createElement('p');note.className='p0-unverified';note.textContent='Research candidate · Not independently verified. City is geographic context, not a facility address.';
+ const status=document.createElement('p');status.textContent='Research status: '+(c.status||'unverified_candidate');
+ const parts=[h,loc,note,status];
+ const value=c.website||c.web;
+ if(value){try{const u=new URL(value);if(u.protocol==='https:'||u.protocol==='http:'){const a=document.createElement('a');a.href=u.href;a.textContent='Company website ↗';a.target='_blank';a.rel='noopener noreferrer';parts.push(a)}}catch{}}
+ contextBody.replaceChildren(...parts);panel.classList.remove('atlas-minimized','atlas-no-selection');restore.querySelectorAll('button')[1].hidden=true;
+ if(innerWidth<=900)document.body.classList.add('p0-panels-open');
 }};
 })();
