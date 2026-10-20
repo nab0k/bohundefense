@@ -3,9 +3,64 @@
   "notice": "Publisher headlines only; not independently reviewed or fact-checked by Bohun Defence.",
   "items": [
     {
+      "title": "Space Forces Central Poised for ‘Fivefold’ Growth in Coming Years",
+      "url": "https://www.airandspaceforces.com/space-forces-central-poised-for-fivefold-growth-in-coming-years/",
+      "published_at": "2026-10-20T00:49:57+00:00"
+    },
+    {
+      "title": "Trump appointees asked a federal cybersecurity agency to secretly hack a voting machine",
+      "url": "https://www.defenseone.com/threats/2026/10/trump-appointees-cybersecurity-agency-hack-voting-machine/416692/",
+      "published_at": "2026-10-20T00:23:36+00:00"
+    },
+    {
+      "title": "SSU detains woman in Odesa suspected of directing Russian strikes on port and National Guard facilities",
+      "url": "https://www.ukrinform.net/rubric-crime/4175825-ssu-detains-woman-in-odesa-suspected-of-directing-russian-strikes-on-port-and-national-guard-facilities.html",
+      "published_at": "2026-10-19T23:30:00+00:00"
+    },
+    {
+      "title": "Seaspan Shipyards lays keel for the largest polar icebreaker ever built in Canada",
+      "url": "https://defence-industry.eu/seaspan-shipyards-lays-keel-for-the-largest-polar-icebreaker-ever-built-in-canada/",
+      "published_at": "2026-10-19T23:23:58+00:00"
+    },
+    {
+      "title": "APDR Podcast Episode 158 with host Kym Bergmann",
+      "url": "https://asiapacificdefencereporter.com/apdr-podcast-episode-158-with-host-kym-bergmann/",
+      "published_at": "2026-10-19T23:21:35+00:00"
+    },
+    {
+      "title": "General Dynamics to develop fire control for U.S. Navy’s future nuclear cruise missile on Virginia-class submarines",
+      "url": "https://defence-industry.eu/general-dynamics-to-develop-fire-control-for-u-s-navys-future-nuclear-cruise-missile-on-virginia-class-submarines/",
+      "published_at": "2026-10-19T22:30:38+00:00"
+    },
+    {
+      "title": "Russian shelling in Kherson region injures child as forces attack over 20 settlements in past 24 hours",
+      "url": "https://www.ukrinform.net/rubric-society/4175791-russian-shelling-in-kherson-region-injures-child-as-forces-attack-over-20-settlements-in-past-24-hours.html",
+      "published_at": "2026-10-19T22:28:00+00:00"
+    },
+    {
+      "title": "Air Force Identifies TACP Airman Killed in Alamodome Rappelling Accident",
+      "url": "https://www.airandspaceforces.com/air-force-ids-airman-killed-in-alamodome-rappelling-accident/",
+      "published_at": "2026-10-19T22:24:54+00:00"
+    },
+    {
+      "title": "Operations Project Manager- Quantum Systems USA",
+      "url": "https://quantum-systems.com/us/jobs/operations-project-manager-quantum-systems-usa/",
+      "published_at": "2026-10-19T22:03:29+00:00"
+    },
+    {
+      "title": "Engineering Squadrons Fortify Pacific Airfields, Advance Agile Combat Employment",
+      "url": "https://www.war.gov/News/News-Stories/Article/Article/4628908/engineering-squadrons-fortify-pacific-airfields-advance-agile-combat-employment/",
+      "published_at": "2026-10-19T21:58:08+00:00"
+    },
+    {
       "title": "Russian Satellite’s Unprecedented Shadowing Of A Very Particular Radar Imaging Satellite Is A Big Deal",
       "url": "https://www.twz.com/news-features/russias-satellite-unprecedented-shadowing-of-a-very-particular-radar-imaging-satellite-is-a-big-deal",
       "published_at": "2026-10-19T21:38:00+00:00"
+    },
+    {
+      "title": "Zaporizhzhia region provides military with equipment worth nearly UAH 40M",
+      "url": "https://www.ukrinform.net/rubric-defense/4175740-zaporizhzhia-region-provides-military-with-equipment-worth-nearly-uah-40m.html",
+      "published_at": "2026-10-19T21:33:00+00:00"
     },
     {
       "title": "Germany Drops Boeing MQ-28 Ghost Bat Rapid Procurement Plan",
@@ -313,13 +368,13 @@
       "published_at": "2026-10-19T15:14:27+00:00"
     },
     {
-      "title": "Shield AI software cuts autonomous flight development to six weeks",
-      "url": "https://www.defensenews.com/industry/techwatch/2026/10/16/shield-ai-software-cuts-autonomous-flight-development-to-six-weeks/",
+      "title": "Hundreds of federal websites lack key defense against spies, senator says",
+      "url": "https://www.defenseone.com/threats/2026/10/senator-warns-hundreds-federal-web-addresses-may-lack-key-spying-protection/416671/",
       "published_at": "2026-10-19T15:00:00+00:00"
     },
     {
-      "title": "Hundreds of federal websites lack key defense against spies, senator says",
-      "url": "https://www.defenseone.com/threats/2026/10/senator-warns-hundreds-federal-web-addresses-may-lack-key-spying-protection/416671/",
+      "title": "Shield AI software cuts autonomous flight development to six weeks",
+      "url": "https://www.defensenews.com/industry/techwatch/2026/10/16/shield-ai-software-cuts-autonomous-flight-development-to-six-weeks/",
       "published_at": "2026-10-19T15:00:00+00:00"
     },
     {
@@ -446,61 +501,6 @@
       "title": "Russian drone strike damages four private homes in Mykolaiv",
       "url": "https://www.ukrinform.net/rubric-ato/4175950-russian-drone-strike-damages-four-private-homes-in-mykolaiv.html",
       "published_at": "2026-10-19T12:38:00+00:00"
-    },
-    {
-      "title": "Jeumont Electric to Supply Propulsion Systems for Poland’s A26 Submarines",
-      "url": "https://www.navalnews.com/naval-news/2026/10/jeumont-electric-to-supply-propulsion-systems-for-polands-a26-submarines/",
-      "published_at": "2026-10-19T12:34:20+00:00"
-    },
-    {
-      "title": "Belgium to send 10 F-16 fighter jets to Ukraine by year-end",
-      "url": "https://www.airforce-technology.com/news/belgium-ukraine-f16-transfer/",
-      "published_at": "2026-10-19T12:34:14+00:00"
-    },
-    {
-      "title": "US Navy takes delivery of first C-130J-30 for E-130J Phoenix II fleet ",
-      "url": "https://www.naval-technology.com/news/us-navy-c130j-30-delivery/",
-      "published_at": "2026-10-19T12:33:27+00:00"
-    },
-    {
-      "title": "US Army partners with G-TEAD to advance counter-drone tech in Africa ",
-      "url": "https://www.army-technology.com/news/us-army-drones-africa-test/",
-      "published_at": "2026-10-19T12:31:58+00:00"
-    },
-    {
-      "title": "Scientists Are Investigating Whether Chernobyl’s Dogs Carry Genetic Mutations That Could Be Passed Down for Generations",
-      "url": "https://indiandefencereview.com/chernobyl-dogs-carry-genetic-mutations-passed-generations/",
-      "published_at": "2026-10-19T12:30:00+00:00"
-    },
-    {
-      "title": "Schweizer Drohnenforum: Mehr Tempo, weniger Bürokratie und neue Partnerschaften",
-      "url": "https://militaeraktuell.at/schweizer-drohnenforum-mehr-tempo-buerokratie/",
-      "published_at": "2026-10-19T12:28:20+00:00"
-    },
-    {
-      "title": "RSI Europe and Odin Defence selected for EU funding to expand defence manufacturing in Lithuania and Estonia",
-      "url": "https://defence-industry.eu/rsi-europe-and-odin-defence-selected-for-eu-funding-to-expand-defence-manufacturing-in-lithuania-and-estonia/",
-      "published_at": "2026-10-19T12:26:27+00:00"
-    },
-    {
-      "title": "Porsche: Michael Leiters riskante Wette auf weniger Autos und höhere Preise",
-      "url": "https://industriemagazin.at/automobil/porsche-krise-2026-michael-leiters-strategie/",
-      "published_at": "2026-10-19T12:21:00+00:00"
-    },
-    {
-      "title": "Putin proposes summit with Trump and Xi on Ukraine. Zelenskyy excluded",
-      "url": "https://defence24.com/geopolitics/putin-proposes-summit-with-trump-and-xi-on-ukraine-zelenskyy-excluded",
-      "published_at": "2026-10-19T12:16:22+00:00"
-    },
-    {
-      "title": "US Army acquisition command awards contracts worth $6.8B in 2026",
-      "url": "https://www.defensenews.com/news/your-military/2026/10/16/us-army-acquisition-command-awards-contracts-worth-68b-in-2026/",
-      "published_at": "2026-10-19T12:00:00+00:00"
-    },
-    {
-      "title": "A Forgotten Monument Larger Than a Greek-Style Temple Has Been Uncovered in Pakistan After 160 Years",
-      "url": "https://indiandefencereview.com/forgotten-monument-greek-style-temple/",
-      "published_at": "2026-10-19T12:00:00+00:00"
     }
   ]
 }
