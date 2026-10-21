@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Build the public company directory and country groups (INPUT46, D-20261021-PUBLISH-ALL-COMPANIES).
 
-Inputs (all already in the repository):
-  atlas/notion-companies-index.json   all non-excluded Notion research records (snapshot from PR #24)
+Inputs:
+  NOTION_INDEX (argument)             all non-excluded Notion research records (snapshot from PR #24);
+                                      kept outside the site so unpublished records are not served
   atlas/industry.json, atlas/companies-at.json   the two earlier published datasets (113 records)
   atlas/notion-research-map.geojson   city-centre points for research records (88)
   atlas/countries.geojson             country polygons (ISO3 in "a3")
@@ -10,13 +11,15 @@ Outputs:
   atlas/companies-directory-v1.json   one public record per company
   atlas/company-country-groups.geojson  one point per country: companies with a country but no city point
 
-Rules: no new coordinates are guessed. Country points are polygon centroids and are labelled as a country group,
+Rules: only records with a country and at least one more field (city, website, category or description) are
+published (owner decision 21.10); the rest wait for data enrichment. No new coordinates are guessed. Country points are polygon centroids and are labelled as a country group,
 not a location. RU / CN / BY records are excluded (EXP-012 rule). Records keep their verification status.
-Standard library only; run: python3 scripts/build-company-publication.py
+Standard library only; run: python3 scripts/build-company-publication.py <path/to/notion-companies-index.json>
 """
 import json
 import os
 import re
+import sys
 import unicodedata
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -67,8 +70,13 @@ def country_centroids():
     return out
 
 
+def publishable(r):
+    return bool(r["country"]) and any(r[k] for k in ("city", "website", "category", "about"))
+
+
 def main():
-    notion = load("atlas/notion-companies-index.json")["companies"]
+    with open(sys.argv[1], encoding="utf-8") as fh:
+        notion = json.load(fh)["companies"]
     industry = load("atlas/industry.json")["companies"]
     austria = load("atlas/companies-at.json")["companies"]
     points = load("atlas/notion-research-map.geojson")["features"]
@@ -104,6 +112,8 @@ def main():
         records.append({"name": x["name"], "country": country, "city": x.get("city") or "", "website": x.get("web") or "",
                         "category": x.get("product") or x.get("cat") or "", "about": x.get("about") or "",
                         "status": "published_dataset"})
+    held = sum(1 for r in records if not publishable(r))
+    records = [r for r in records if publishable(r)]
     # Most informative records first, so the directory does not open with empty name-only entries.
     def completeness(r):
         return (3 * bool(r["about"]) + 2 * bool(r["category"]) + bool(r["website"]) + bool(r["country"]) + bool(r["city"])
@@ -145,7 +155,7 @@ def main():
     status = {}
     for r in records:
         status[r["status"]] = status.get(r["status"], 0) + 1
-    print(json.dumps({"directory": len(records), "status": status, "with_country": sum(1 for r in records if r["country"]),
+    print(json.dumps({"directory": len(records), "held_for_enrichment": held, "status": status, "with_country": sum(1 for r in records if r["country"]),
                       "city_points": len(points), "country_groups": len(features),
                       "in_country_groups": sum(groups.values()), "countries_without_centroid": sorted(missing)}))
 
