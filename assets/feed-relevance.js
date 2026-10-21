@@ -1,7 +1,7 @@
 // BOHUN source-wire relevance filter (INPUT46 MVP). Runs after the original source-wire script, which stays
 // byte-identical: it only marks rows in #wire-stories. A headline stays visible when its title has a
 // defence / security / war term or it comes from a defence outlet. Others are hidden, never deleted, with a
-// visible reason and a "Show all" switch. Political and Ukraine-related news are kept by the term list,
+// reason visible only to editors (?feed=all). Political and Ukraine-related news are kept by the term list,
 // so one word never removes a defence-relevant story.
 (function () {
   const TERMS = [
@@ -38,48 +38,29 @@
 
   const list = document.getElementById('wire-stories');
   if (!list) return;
-  const bar = document.createElement('div');
-  bar.className = 'ux-relevance';
-  const label = document.createElement('span');
-  const btn = document.createElement('button');
-  btn.type = 'button';
-  btn.className = 'ux-relevance-toggle';
-  bar.append(label, btn);
-  list.before(bar);
-  let showAll = new URLSearchParams(location.search).get('feed') === 'all';
+  // Owner decision 21.10: off-topic headlines are not shown at all (no bar, no toggle).
+  // ?feed=all keeps them visible with the reason, for editors only.
+  const showAll = new URLSearchParams(location.search).get('feed') === 'all';
 
   function apply() {
-    // SITE UX v1 moves #wire-stories into its source panel after load: keep the bar right above the list.
-    if (bar.nextElementSibling !== list) list.before(bar);
-    let hidden = 0;
     for (const row of list.querySelectorAll('.wire-story')) {
       const reason = reasonFor(row);
       row.classList.toggle('ux-offtopic', !!reason);
       let note = row.querySelector('.ux-offtopic-note');
-      if (reason) {
-        hidden += 1;
+      if (reason && showAll) {
         if (!note) {
           note = document.createElement('div');
           note.className = 'ux-offtopic-note';
           row.append(note);
         }
         note.textContent = 'Off-topic filter: ' + reason;
-        row.hidden = !showAll;
-      } else {
-        if (note) note.remove();
-        row.hidden = false;
+      } else if (note) {
+        note.remove();
       }
+      row.hidden = !!reason && !showAll;
     }
-    bar.hidden = hidden === 0;
-    label.textContent = showAll
-      ? 'Showing all headlines (' + hidden + ' marked off-topic).'
-      : hidden + ' off-topic headlines hidden.';
-    btn.textContent = showAll ? 'Hide off-topic' : 'Show all';
-    btn.setAttribute('aria-pressed', String(showAll));
   }
 
-  btn.addEventListener('click', () => { showAll = !showAll; apply(); });
   new MutationObserver(apply).observe(list, { childList: true });
-  window.addEventListener('load', apply);
   apply();
 })();
