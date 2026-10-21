@@ -1,0 +1,20 @@
+/* INPUT46 MVP: editorial section and source-wire relevance filter. Uses SITE UX v1 tokens. */
+.ux-ed-intro, .ux-ed-preview { color: var(--ux-muted); font: 12px/1.6 system-ui; margin: 12px 0; }
+.ux-ed-preview { color: var(--ux-gold); border: 1px dashed var(--ux-gold); border-radius: 6px; padding: 8px 10px; }
+.ux-ed-item { border-bottom: 1px solid #35473c; padding: 14px 0; }
+.ux-ed-summary { cursor: pointer; list-style: none; display: grid; gap: 6px; }
+.ux-ed-summary::-webkit-details-marker { display: none; }
+.ux-ed-meta { color: var(--ux-muted); font: 11px/1.5 system-ui; text-transform: uppercase; letter-spacing: .04em; display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.ux-ed-badge { color: #101b18; background: var(--ux-gold); border-radius: 4px; padding: 1px 6px; text-transform: none; letter-spacing: 0; font-weight: 600; }
+.ux-ed-title { color: var(--ux-text); font: 600 15px/1.45 system-ui; }
+.ux-ed-summary:hover .ux-ed-title { color: var(--ux-gold); }
+.ux-ed-lead { color: var(--ux-muted); font: 13px/1.55 system-ui; }
+.ux-ed-item[open] .ux-ed-lead { display: none; }
+.ux-ed-body p { color: var(--ux-text); font: 14px/1.65 system-ui; margin: 12px 0; overflow-wrap: anywhere; }
+.ux-ed-src-head { color: var(--ux-muted); font: 600 12px/1.5 system-ui; text-transform: uppercase; letter-spacing: .04em; margin: 16px 0 6px; }
+.ux-ed-sources { margin: 0; padding-left: 22px; color: var(--ux-muted); font: 12px/1.6 system-ui; }
+.ux-ed-sources a { color: var(--ux-gold); overflow-wrap: anywhere; }
+.ux-relevance { display: flex; gap: 10px; align-items: center; justify-content: space-between; color: var(--ux-muted); font: 12px/1.5 system-ui; padding: 8px 0; border-bottom: 1px solid #35473c; }
+.ux-relevance-toggle { background: transparent; color: var(--ux-gold); border: 1px solid var(--ux-line); border-radius: 6px; padding: 4px 10px; font: inherit; cursor: pointer; min-height: 32px; }
+.ux-offtopic { opacity: .55; }
+.ux-offtopic-note { color: var(--ux-muted); font: italic 11px/1.5 system-ui; margin-top: 4px; }
