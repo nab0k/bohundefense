@@ -13,125 +13,37 @@
   <link rel="modulepreload" crossorigin href="/assets/webgpu-B3ipCUQF.js">
   <link rel="stylesheet" crossorigin href="/assets/atlas-QXBP-sMt.css">
 
-  <style id="p0-safe-panels">
-    /* Existing Atlas owns the sidebar. Never float an overlay above search or filters. */
-    #side #p0-feed{position:static;width:auto;max-height:none;overflow:visible;box-shadow:none;border:0;border-top:1px solid #756d4b;border-radius:0;padding:12px 0;margin:12px 0;background:transparent;color:#f1ead8;font:13px/1.5 system-ui}
-    #p0-dossier{position:fixed;z-index:650;right:14px;top:104px;width:min(270px,calc(100vw - 32px));max-height:calc(100dvh - 160px);overflow:auto;background:rgba(13,24,22,.92);border:1px solid #988b62;color:#f1ead8;border-radius:9px;padding:14px;font:13px/1.5 system-ui;box-shadow:0 7px 25px #0005}
-    #p0-feed h2,#p0-dossier h2{font-size:15px;margin:0 0 10px;color:#e1c58b}
-    #p0-feed p,#p0-dossier p{margin:6px 0}
-    #p0-dossier .p0-unverified{color:#e1c58b;font-size:12px}
-    @media(max-width:900px){#p0-dossier{display:none}.p0-panel-toggle{display:block!important}}
-    .p0-panel-toggle{display:none;position:fixed;z-index:700;bottom:16px;left:16px;border:1px solid #a99a6a;border-radius:8px;background:#14231d;color:#fff1d5;padding:10px}
-    body.p0-panels-open #p0-dossier{display:block;top:auto;bottom:68px;max-height:35dvh}
-    @media(max-width:650px){body.p0-panels-open #p0-dossier{left:14px;right:14px;width:auto}}
-  </style>
-<style id="p1-layout">
-#side{display:flex;flex-direction:column}
-#side .layers,#side .cats{display:none!important}
-#side #p0-feed{flex:1 1 auto;min-height:35vh;overflow-y:auto;margin:12px 0!important;padding:15px 0!important}
-#p1-category-rail{position:fixed;z-index:670;left:390px;right:310px;bottom:26px;background:#15221eeF;border:1px solid #8f7d51;border-radius:8px;padding:9px 12px;color:#e9dfc9;box-shadow:0 5px 22px #0006}
-#p1-category-rail .head{display:flex;align-items:center;gap:12px;margin-bottom:7px;font:700 12px system-ui}
-#p1-category-query{margin-left:auto;width:145px;min-width:85px;max-width:55%;font:12px system-ui;padding:6px;background:#223029;color:#fff;border:1px solid #586657;border-radius:6px}
-#p1-rail-chips{display:flex;gap:6px;overflow-x:auto;scrollbar-width:thin;padding-bottom:3px}
-#p1-rail-chips button{flex:0 0 auto;font:12px system-ui;white-space:nowrap;padding:7px 11px;border:1px solid #665e43;background:#243029;color:#e7d7b4;border-radius:18px}
-#p1-rail-chips button[hidden]{display:none}
-#p1-rail-chips button[aria-pressed=true]{border-color:#f0d18a;background:#42503a}
-@media(max-width:1100px){#p1-category-rail{left:360px;right:14px}}
-@media(max-width:900px){#p1-category-rail{left:14px;right:14px;bottom:66px}}
-</style><!-- GitHub Pages rebuild probe: P1 category rail; no content/data changes -->
-<style id="atlas-icon-dock">
-#p1-category-rail{left:50%!important;right:auto!important;transform:translateX(-50%);width:max-content;max-width:calc(100vw - 48px);bottom:14px!important;padding:5px 8px!important;background:rgba(12,23,21,.94)!important;border:1px solid #58604b!important;border-radius:10px!important;box-shadow:0 3px 14px #0004}
-#p1-category-rail .head{display:none!important}
-#p1-rail-chips{gap:2px!important;padding:0!important;scrollbar-width:thin;max-width:min(810px,calc(100vw - 68px))}
-#p1-rail-chips button{flex:0 0 auto!important;min-width:62px;max-width:83px;min-height:44px!important;padding:5px 7px!important;display:flex!important;flex-direction:column;align-items:center;justify-content:center;gap:3px!important;background:transparent!important;border:1px solid transparent!important;border-radius:7px!important;white-space:nowrap!important}
-#p1-rail-chips button[hidden]{display:none!important}
-#p1-rail-chips button:hover{background:#26352c!important;border-color:#53624d!important}
-#p1-rail-chips button[aria-pressed=true]{background:#303e30!important;border-color:#bca269!important}
-#p1-rail-chips .dock-icon{width:17px;height:17px;color:#d4c18d;display:block}
-#p1-rail-chips .dock-icon svg{width:17px;height:17px;display:block;stroke:currentColor;fill:none;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
-#p1-rail-chips .dock-label{font:500 10px/1.1 system-ui;color:#e8e4d8}
-#p1-rail-chips .dock-count{display:none!important}
-@media(max-width:900px){#p1-category-rail{bottom:61px!important;max-width:calc(100vw - 20px)}#p1-rail-chips{max-width:calc(100vw - 40px)}#p1-rail-chips button{min-width:60px;min-height:43px!important}}
-</style><style id="source-wire-styles">
-#side #p0-feed{min-height:36vh;max-height:calc(100dvh - 235px);overflow:auto}
-#p0-feed .wire-intro{font-size:11px;color:#c6b485;border-bottom:1px solid #5c614e;padding-bottom:9px}
-#p0-feed .wire-story{padding:10px 0;border-bottom:1px solid #3d4d44}
-#p0-feed .wire-story a{font:500 13px/1.35 system-ui;color:#ebeadf;text-decoration:none}
-#p0-feed .wire-story a:hover{text-decoration:underline;color:#e9c77f}
-#p0-feed .wire-meta{font:10px/1.4 system-ui;color:#a5afa6;margin-top:4px}
-#notion-index-panel{position:fixed;z-index:550;right:14px;bottom:122px;width:270px;max-height:30dvh;overflow:auto;background:rgba(13,24,22,.95);border:1px solid #685c3e;border-radius:8px;padding:10px;color:#e4dfd1;font:11px system-ui}
-#notion-index-panel summary{font-size:12px;font-weight:600;color:#e1c58b;cursor:pointer;list-style-position:inside;margin:0 0 4px}
-#notion-index-panel a{color:#eee3bf;text-decoration:none}
-#notion-index-panel .notion-item{border-top:1px solid #33453c;padding:6px 0}
-#notion-index-panel .notion-location{display:block;color:#aab6a9}
-@media(max-width:900px){#notion-index-panel{display:none}}
-</style><!-- GitHub Pages rebuild marker: source wire release 3fc3c1c -->
-<style id="atlas-v2-workspace">
-/* Unified map: legacy controls retained in DOM for map engine but hidden from viewers */
-#side .layers,#side .cats,#side .filters,#side .filter-panel,.legends,#ind-legend,#legend,#legend-sea{display:none!important}
-#side{pointer-events:none!important;max-width:0!important;min-width:0!important;width:0!important;border:0!important;padding:0!important}
-#side .search{position:fixed!important;display:block!important;left:50%;transform:translateX(-50%);top:80px;z-index:610;pointer-events:auto!important;width:min(320px,calc(100vw - 40px));background:#14221ebd;border:1px solid #53604a;border-radius:9px;padding:5px}#side .search input{width:100%}
-#side #p0-feed{position:fixed!important;left:14px;top:86px;width:clamp(250px,21vw,355px)!important;max-width:calc(100vw - 28px)!important;height:calc(100dvh - 184px)!important;max-height:none!important;min-height:0!important;padding:0!important;margin:0!important;z-index:640;pointer-events:auto!important;overflow:hidden!important;border:1px solid #6b6447!important;border-radius:11px!important;background:rgba(12,21,18,.96)!important;box-shadow:0 8px 25px #0005!important;display:flex!important;flex-direction:column!important;resize:both}
-#p0-feed #atlas-feed-body{overflow-y:auto;flex:1;min-height:0;padding:12px}
-#p0-feed #atlas-feed-body>h2{display:none}
-#p0-dossier{display:block;top:86px;right:14px;width:clamp(250px,21vw,340px);padding:0;min-height:105px;resize:both;overflow:auto}
-#p0-dossier #p0-dossier-body{padding:12px!important;font-size:12px}
-#p0-dossier #p0-dossier-body h3{font-size:14px;line-height:1.35;color:#f0e8d6}
-#p0-dossier #p0-dossier-body a{color:#ebcb83}
-#atlas-window-restore{position:fixed;z-index:800;right:18px;bottom:76px;display:flex;gap:8px}
-#atlas-window-restore button{background:#162722;color:#e5c990;border:1px solid #8c7955;border-radius:8px;padding:8px 12px;cursor:pointer}
-#atlas-window-restore button[hidden]{display:none}
-.atlas-window-bar{display:flex;justify-content:space-between;align-items:center;gap:10px;background:#182621;border-bottom:1px solid #5c6048;padding:9px 11px;touch-action:none;cursor:grab;color:#e3ca91;user-select:none;font:700 12px system-ui;letter-spacing:.02em;flex-shrink:0}
-.atlas-window-bar button{border:1px solid #58604c;border-radius:6px;background:#213129;color:#e6d4b1;font:17px/1 system-ui;cursor:pointer;width:28px;height:25px}
-#side #p0-feed.atlas-minimized,#p0-dossier.atlas-minimized,#p0-dossier.atlas-no-selection{display:none!important}
-#notion-index-panel{display:none!important}
-#p1-category-rail{z-index:665!important}
-@media(max-width:900px){
- #side .search{top:66px;width:calc(100vw - 24px)}#side #p0-feed{top:auto!important;bottom:64px!important;left:12px!important;right:12px!important;width:calc(100vw - 24px)!important;height:min(45dvh,420px)!important;resize:none!important}
- #p0-dossier{display:none;left:12px!important;right:12px!important;top:auto!important;bottom:64px!important;width:calc(100vw - 24px)!important;max-height:60dvh!important;resize:none!important}
- body.p0-panels-open #p0-dossier{display:block}
- #atlas-window-restore{right:12px;bottom:126px}
- #p0-panel-toggle{display:none!important}
-}
-</style></head>
-<body>
+
+<!-- GitHub Pages rebuild probe: P1 category rail; no content/data changes -->
+<!-- GitHub Pages rebuild marker: source wire release 3fc3c1c -->
+  <link rel="stylesheet" href="/assets/site-ux.css">
+</head>
+<body class="site-ux" data-ux-view="today">
   <div id="map" aria-label="World map. Drag to move, scroll to zoom, right-drag to rotate and tilt."></div>
 
   <header class="topbar">
-    <details class="m1-mobile-menu">
-      <summary aria-label="Open site navigation">MENU</summary>
-      <div class="m1-mobile-menu-content">
-        <a href="/companies.html">COMPANIES DIRECTORY</a><a href="/about.html">ABOUT</a><a href="/services.html">SERVICES</a>
-        <a href="/about-project.html">ABOUT PROJECT</a><a href="/support-project.html">SUPPORT PROJECT</a>
-        <a href="/contact.html">CONTACT</a>
-        <button type="button" data-m1-toggle="companies">COMPANIES LAYER</button>
-        <button type="button" data-m1-toggle="industry">INDUSTRY LAYER</button>
-        <button type="button" data-m1-toggle="sea">UNDERSEA LAYER</button>
-        <button type="button" data-m1-toggle="night">NIGHT LAYER</button>
-        <button type="button" data-m1-toggle="all">WORLD VIEW</button>
-      </div>
-    </details>
-    <a class="brand" href="/" aria-label="Bohun Defence home"><img class="brand-logo" src="https://bohundefence.com/logo_gold.png" alt="" width="38" height="38"><span class="brand-name"><strong>Bohun Defence</strong><small>Advisory &amp; Intelligence</small></span></a>
-    <nav>
-      <button id="open-need" type="button" hidden aria-hidden="true" tabindex="-1">I NEED SOMETHING</button>
-      <button id="open-have" type="button" hidden aria-hidden="true" tabindex="-1">I HAVE SOMETHING</button>
-      <a class="m0-link" href="/companies.html">DIRECTORY</a>
-      <a class="m0-link" href="/about.html">ABOUT</a>
-      <a class="m0-link" href="/services.html">SERVICES</a>
-      <a class="m0-link" href="/about-project.html">ABOUT PROJECT</a>
-      <a class="m0-link" href="/support-project.html">SUPPORT PROJECT</a>
-      <a class="m0-link" href="/contact.html">CONTACT</a>
-      <label class="look" hidden aria-hidden="true">MAP <select id="look" aria-label="Map style" tabindex="-1"></select></label>
-      <button id="night" type="button" class="ghost moved">NIGHT</button>
-      <button id="industry" type="button" class="ghost">INDUSTRY</button>
-      <button id="sea" type="button" class="ghost">UNDERSEA INFRASTRUCTURE</button>
-      <button id="companies" type="button" class="ghost moved">COMPANIES</button>
-      <button id="live" type="button" class="ghost moved" hidden aria-hidden="true">LIVE</button>
-      <button id="scale" type="button" class="ghost moved" hidden aria-hidden="true">SCALE DEMO</button>
-      <button id="all" type="button" class="ghost">WORLD</button>
-      <button id="reset" type="button" class="ghost">RESTART</button>
+    <a class="brand" href="/" aria-label="Bohun Defence home"><img class="brand-logo" src="/logo_gold.png" alt="" width="34" height="34"><span class="brand-mobile" aria-hidden="true">Bohun</span><span class="brand-name"><strong>Bohun Defence</strong><small>Advisory &amp; Intelligence</small></span></a>
+    <nav class="ux-primary" aria-label="Main navigation">
+      <button type="button" data-ux-view="today" aria-pressed="true">Today</button>
+      <button type="button" data-ux-view="map" aria-pressed="false">Map</button>
+      <a href="/companies.html">Companies</a>
     </nav>
+    <details class="ux-more"><summary>More</summary><div class="ux-menu">
+      <a href="/about-project.html">About the project</a><a href="/about.html">About Bohun</a><a href="/services.html">Services</a><a href="/support-project.html">Support the project</a><a href="/contact.html">Contact</a>
+    </div></details>
   </header>
+  <div class="ux-map-toolbar" aria-label="Map controls">
+    <div class="ux-projections" role="group" aria-label="Map projection">
+      <button type="button" data-ux-projection="mercator" aria-pressed="false" disabled>Flat map</button><button type="button" data-ux-projection="globe" aria-pressed="true" disabled>Globe</button>
+    </div>
+    <button type="button" id="ux-filter-open" aria-haspopup="dialog" aria-controls="ux-filters">Filters</button>
+    <details class="ux-tools"><summary>Tools</summary><div class="ux-menu">
+      <label hidden>Map <select id="look" tabindex="-1"></select></label>
+      <button id="companies" type="button">Companies layer</button><button id="industry" type="button">Industry layer</button><button id="sea" type="button">Undersea layer</button><button id="night" type="button">Night layer</button>
+      <button id="all" type="button">World view</button><button id="reset" type="button" hidden>Reset journey</button><button id="ux-home" type="button" disabled>Home view</button>
+      <button id="open-need" type="button" hidden>I need something</button><button id="open-have" type="button" hidden>I have something</button><button id="live" type="button" hidden>Live</button><button id="scale" type="button" hidden>Scale</button>
+    </div></details>
+  </div><p id="ux-map-status" role="status">Loading map…</p>
 
   <section id="entry" class="entry" aria-label="Where to start" hidden aria-hidden="true">
     <div class="entry-card">
@@ -186,9 +98,12 @@
       <input id="q" type="search" placeholder="Search companies, cities, countries" autocomplete="off" aria-label="Search" aria-controls="q-results" />
       <ol id="q-results" class="q-results" hidden></ol>
     </div>
-  <aside class="p0-feed" id="p0-feed" aria-label="Intelligence Feed" data-public-release-only="true">
-    <h2>INTELLIGENCE FEED</h2>
-    <p>Verified intelligence only. No independently QA-approved events available for public release.</p>
+  <aside class="p0-feed" id="p0-feed" aria-label="Today's information">
+    <div class="ux-panel-head"><h1>Today</h1><button id="ux-feed-close" type="button" aria-label="Close feed and show map">Show map</button></div>
+    <div class="ux-feed-tabs" role="group" aria-label="Information feed">
+      <button id="ux-source-tab" type="button" aria-pressed="true" aria-controls="ux-source-panel">Source headlines</button><button id="ux-editorial-tab" type="button" aria-pressed="false" aria-controls="ux-editorial-panel">Editorial</button>
+    </div>
+    <div class="ux-feed-scroll"><div id="ux-source-panel"></div><div id="ux-editorial-panel" hidden><h2>No published materials yet</h2><p>News, signals and analysis will appear here after editorial review.</p></div></div>
   </aside>
     <section class="layers">
       <h4>LAYERS</h4>
@@ -204,25 +119,20 @@
     </section>
   </aside>
 
-  <section id="p1-category-rail" aria-label="Horizontal category filters"><div class="head"><span>CATEGORIES</span><input type="search" id="p1-category-query" placeholder="Find category" aria-label="Search categories"></div><div id="p1-rail-chips" role="group" aria-label="Scroll categories horizontally"></div></section><aside id="scale-panel" class="scale-panel" hidden aria-label="Companies"></aside>
+  <dialog id="ux-filters" class="ux-filters" aria-labelledby="ux-filter-title">
+    <div class="ux-panel-head"><h2 id="ux-filter-title">Company categories</h2><button type="button" id="ux-filter-close">Done</button></div>
+    <section id="p1-category-rail" aria-label="Category filters"><label for="p1-category-query">Find a category</label><input type="search" id="p1-category-query" placeholder="Search categories"><div id="p1-rail-chips" role="group" aria-label="Categories"></div></section>
+  </dialog><aside id="scale-panel" class="scale-panel" hidden aria-label="Companies"></aside>
 
   <p id="note" class="note" role="status" aria-live="polite"></p>
   <p class="demo">Public beta · <a href="/about-project.html">About the project</a> · Open-data research atlas · Coverage incomplete · Companies are not Bohundefence clients or partners. City-centre markers are not facility addresses. Borders: Natural Earth (not a statement on territorial status). Base map © OpenStreetMap / OpenFreeMap.</p>
 
-  
 
-  <aside class="p0-dossier" id="p0-dossier" aria-label="Company Dossier" data-public-release-only="true">
-    <h2>ANALYTICS DOSSIER</h2>
-    <p id="p0-dossier-body">Analytical dossiers will appear here after independent review. No QA-approved analysis is available for public release.</p>
+
+  <aside class="p0-dossier" id="p0-dossier" aria-label="Source details" hidden>
+    <div class="ux-panel-head"><h2>Source details</h2><button type="button" id="ux-detail-close" aria-label="Close details">Close</button></div>
+    <div id="p0-dossier-body"></div>
   </aside>
-  <button type="button" class="p0-panel-toggle" id="p0-panel-toggle" aria-controls="p0-feed p0-dossier" aria-expanded="false">INTELLIGENCE</button>
-  <script>
-    document.getElementById('p0-panel-toggle').addEventListener('click',function(){
-      const expanded=document.body.classList.toggle('p0-panels-open');
-      this.setAttribute('aria-expanded',String(expanded));
-    });
-  </script>
-
   <noscript><p class="fallback">Bohun Defence helps companies navigate defence and dual-use markets across Ukraine and internationally.</p></noscript>
 <script id="p1-category-bind">(function(){
 const original=document.getElementById('cat-chips'),rail=document.getElementById('p1-rail-chips'),query=document.getElementById('p1-category-query');
@@ -283,5 +193,5 @@ async function updateWire(){
 }
 await updateWire();
 setInterval(updateWire,60000);
-})();</script><script defer src="/assets/atlas-context-panels.js"></script></body>
+})();</script><script type="module" src="/assets/site-ux.js"></script></body>
 </html>
