@@ -31,6 +31,15 @@ with sync_playwright() as p:
   page.on('pageerror',lambda e:errors.append(str(e)))
   page.goto('http://127.0.0.1:8765/?view=today&projection=mercator',wait_until='domcontentloaded',timeout=60000)
   page.wait_for_function("document.body.classList.contains('atmosphere-22')",timeout=15000)
+  # Do not pass an Atlas smoke without the REAL map and wired categories.
+  try:
+   page.wait_for_function("Boolean(window.__map)",timeout=35000)
+   page.wait_for_function("document.querySelectorAll('#p1-rail-chips button').length>=2",timeout=15000)
+  except Exception:
+   print('ATLAS_NOT_READY',name,'page_errors=',errors[:10],
+         'map_state=',page.locator('#ux-map-status').inner_text(),
+         'category_source=',page.locator('#cat-chips').inner_html()[:220])
+   raise
   assert page.locator('.topbar .search #q').count()==1, 'Search was not moved into header'
   assert page.locator('#atmo-category-dock #p1-rail-chips').count()==1, 'Existing category rail not relocated'
   assert page.locator('#ux-filter-open').is_hidden(), 'Legacy Filters button should be hidden'
