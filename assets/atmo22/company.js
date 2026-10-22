@@ -184,7 +184,7 @@ function classification(vm, ws) {
     </div>${note}`;
     return panel('classification', '01', 'Industrial classification (A / B / C)', 'Company activities in the BOHUN taxonomy. Based on verified information.', body, ['View full taxonomy mapping', '/about-project.html#taxonomy'], 'p-classification');
   }
-  const techItems = vm.mode === 'g2_private' ? vm.technologies.map(([name, code]) => [code, name]) : demoMode ? t.overviewTechnologies : TAXONOMY.technologies.map(([c, l]) => [c, l]);
+  const techItems = vm.mode === 'g2_private' ? vm.technologies.map(([name, code]) => [code, code.split(' ')[0] + ' · ' + name]) : demoMode ? t.overviewTechnologies : TAXONOMY.technologies.map(([c, l]) => [c, l]);
   return `<div class="ov-class"><h2 class="ov-class-title">Industrial classification <span>(BOHUN taxonomy)</span></h2>
     <div class="tax-grid tax-ov">
       ${taxCol('A. Domains', domainsList, t.domains, { icons: true })}
@@ -383,7 +383,7 @@ async function main() {
     try {
       state.vm = await loadPrivateReviewVM(params.get('g1_candidate'), {hostname: location.hostname});
       document.getElementById('demo-banner').innerHTML =
-        '<div class="demo-banner" role="note"><strong>G2 PRIVATE REVIEW · HOLD · NOT PUBLISHED</strong></div>';
+        '<div class="demo-banner g2-private-review-banner" role="note"><strong>G2 PRIVATE REVIEW · HOLD · NOT PUBLISHED</strong></div>';
       remountShell();
       render();
     } catch {
