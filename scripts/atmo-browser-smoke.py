@@ -95,7 +95,7 @@ with sync_playwright() as p:
  ref.wait_for_function("document.querySelector('[data-ux-projection=mercator]').getAttribute('aria-pressed')==='true'",timeout=10000)
  ref.wait_for_function("Math.abs(window.__map.getCenter().lng-15.1)<0.5",timeout=10000)
  ref.wait_for_function("document.body.dataset.atmoNativeHalftone!==undefined",timeout=16000)
- assert ref.evaluate("window.__map.getPaintProperty('water','fill-color')")==='#bdddea', 'Water layer not restyled'
+ assert ref.evaluate("window.__map.getPaintProperty('water','fill-color')") == '#bdddea', 'Water layer not restyled'
  assert ref.locator('.atmo-context-lens').is_visible(), 'Desktop reference context missing'
  metrics=ref.evaluate("""() => {
    const rect = s => {const r=document.querySelector(s).getBoundingClientRect();return {left:r.left,right:r.right,width:r.width,top:r.top,bottom:r.bottom}};
