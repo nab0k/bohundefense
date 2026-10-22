@@ -3,9 +3,59 @@
   "notice": "Publisher headlines only; not independently reviewed or fact-checked by Bohun Defence.",
   "items": [
     {
+      "title": "Britain near bottom of NATO rearmament table",
+      "url": "https://ukdefencejournal.org.uk/britain-near-bottom-of-nato-rearmament-table/",
+      "published_at": "2026-10-22T00:00:10+00:00"
+    },
+    {
+      "title": "Canada expands military space launch access and funds Arctic satellite communications",
+      "url": "https://defence-industry.eu/canada-expands-military-space-launch-access-and-funds-arctic-satellite-communications/",
+      "published_at": "2026-10-21T23:55:29+00:00"
+    },
+    {
+      "title": "How The U.S. Army’s ‘Navy’ Aims To Go More Autonomous With Its Vessels In The Pacific",
+      "url": "https://www.twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific",
+      "published_at": "2026-10-21T23:30:27+00:00"
+    },
+    {
+      "title": "Partisans say they are cutting communication lines around key Moscow data center",
+      "url": "https://www.ukrinform.net/rubric-ato/4176582-partisans-say-they-are-cutting-communication-lines-around-key-moscow-data-center.html",
+      "published_at": "2026-10-21T23:27:00+00:00"
+    },
+    {
+      "title": "Britain lacks what it needs in the High North, says report",
+      "url": "https://ukdefencejournal.org.uk/britain-lacks-what-it-needs-in-the-high-north-says-report/",
+      "published_at": "2026-10-21T23:01:29+00:00"
+    },
+    {
+      "title": "Lviv region resident sentenced to 15 years for plotting railway sabotage",
+      "url": "https://www.ukrinform.net/rubric-crime/4176526-lviv-region-resident-sentenced-to-15-years-for-plotting-railway-sabotage.html",
+      "published_at": "2026-10-21T22:30:00+00:00"
+    },
+    {
+      "title": "U.S. moves to establish Autonomous Warfare Command to accelerate battlefield adoption of drones and robotics",
+      "url": "https://defence-industry.eu/u-s-moves-to-establish-autonomous-warfare-command-to-accelerate-battlefield-adoption-of-drones-and-robotics/",
+      "published_at": "2026-10-21T22:28:52+00:00"
+    },
+    {
+      "title": "Hegseth Directs Air Force to Establish New Guard Special Tactics Squadron",
+      "url": "https://www.airandspaceforces.com/hegseth-air-force-establish-special-tactics-squadron/",
+      "published_at": "2026-10-21T22:06:39+00:00"
+    },
+    {
       "title": "Sweden orders four Bofors 57Mk3 naval guns and programmable ammunition from BAE Systems",
       "url": "https://defence-industry.eu/sweden-orders-four-bofors-57mk3-naval-guns-and-programmable-ammunition-from-bae-systems/",
       "published_at": "2026-10-21T21:39:48+00:00"
+    },
+    {
+      "title": "Military shows how engineering drones install defensive barriers on frontline",
+      "url": "https://www.ukrinform.net/rubric-ato/4176523-military-shows-how-engineering-drones-install-defensive-barriers-on-frontline.html",
+      "published_at": "2026-10-21T21:38:00+00:00"
+    },
+    {
+      "title": "Configuration Management Specialist – Quantum Systems USA",
+      "url": "https://quantum-systems.com/us/jobs/configuration-management-specialist-quantum-systems-usa/",
+      "published_at": "2026-10-21T21:20:53+00:00"
     },
     {
       "title": "Australian-owned ground station operator plans major power infrastructure upgrade",
@@ -193,13 +243,13 @@
       "published_at": "2026-10-21T18:00:52+00:00"
     },
     {
-      "title": "British fighter jets in Saudi Arabia. London responds to Houthi attacks",
-      "url": "https://defence24.com/geopolitics/british-fighter-jets-in-saudi-arabia-london-responds-to-houthi-attacks",
+      "title": "Russian strike on Sloviansk injures five, including two children",
+      "url": "https://www.ukrinform.net/rubric-ato/4176822-russian-strike-on-sloviansk-injures-five-including-two-children.html",
       "published_at": "2026-10-21T18:00:00+00:00"
     },
     {
-      "title": "Russian strike on Sloviansk injures five, including two children",
-      "url": "https://www.ukrinform.net/rubric-ato/4176822-russian-strike-on-sloviansk-injures-five-including-two-children.html",
+      "title": "British fighter jets in Saudi Arabia. London responds to Houthi attacks",
+      "url": "https://defence24.com/geopolitics/british-fighter-jets-in-saudi-arabia-london-responds-to-houthi-attacks",
       "published_at": "2026-10-21T18:00:00+00:00"
     },
     {
@@ -423,13 +473,13 @@
       "published_at": "2026-10-21T14:00:44+00:00"
     },
     {
-      "title": "A Q+A with Mykhailo Fedorov, Ukraine’s Fmr. Defense Minister",
-      "url": "https://www.tectonicdefense.com/a-qa-with-mykhailo-fedorov-ukraines-fmr-defense-minister/",
+      "title": "Mika Games gets $10M boost to support mobile game developers",
+      "url": "https://tech.eu/2026/10/21/mika-games-gets-10m-boost-to-support-mobile-game-developers/",
       "published_at": "2026-10-21T14:00:00+00:00"
     },
     {
-      "title": "Mika Games gets $10M boost to support mobile game developers",
-      "url": "https://tech.eu/2026/10/21/mika-games-gets-10m-boost-to-support-mobile-game-developers/",
+      "title": "A Q+A with Mykhailo Fedorov, Ukraine’s Fmr. Defense Minister",
+      "url": "https://www.tectonicdefense.com/a-qa-with-mykhailo-fedorov-ukraines-fmr-defense-minister/",
       "published_at": "2026-10-21T14:00:00+00:00"
     },
     {
@@ -451,56 +501,6 @@
       "title": "Another Russian aircraft crashed. Production can't keep up with the losses",
       "url": "https://defence24.com/armed-forces/another-russian-aircraft-crashed-production-cant-keep-up-with-the-losses",
       "published_at": "2026-10-21T13:48:37+00:00"
-    },
-    {
-      "title": "Zelensky not to wait for Witkoff in Oslo after his return from Russia",
-      "url": "https://www.ukrinform.net/rubric-polytics/4176749-zelensky-not-to-wait-for-witkoff-in-oslo-after-his-return-from-russia.html",
-      "published_at": "2026-10-21T13:36:00+00:00"
-    },
-    {
-      "title": "Leading Navy Selects Exail Navigation Systems for USV Fleet",
-      "url": "https://www.navalnews.com/naval-news/2026/10/leading-navy-selects-exail-navigation-systems-for-usv-fleet/",
-      "published_at": "2026-10-21T13:32:56+00:00"
-    },
-    {
-      "title": "Australia marks missile, cyber ‘firsts’ in exercise with Indonesia",
-      "url": "https://breakingdefense.com/2026/10/australia-marks-missile-cyber-firsts-in-exercise-with-indonesia/",
-      "published_at": "2026-10-21T13:22:09+00:00"
-    },
-    {
-      "title": "Putin-Witkoff meeting lasts about three hours",
-      "url": "https://www.ukrinform.net/rubric-polytics/4176746-putinwitkoff-meeting-lasts-about-three-hours.html",
-      "published_at": "2026-10-21T13:15:00+00:00"
-    },
-    {
-      "title": "Global Ordnance Holdings and Sparkz Establish First Fully Domestic-Sourced and Manufactured Drone Battery Production",
-      "url": "https://euro-sd.com/2026/10/articles/industry/54413/global-ordnance-holdings-sparkz/",
-      "published_at": "2026-10-21T13:07:17+00:00"
-    },
-    {
-      "title": "Army’s tech chief talks autonomy, acquisition and the future of drones",
-      "url": "https://breakingdefense.com/2026/10/armys-tech-chief-talks-autonomy-acquisition-and-the-future-of-drones/",
-      "published_at": "2026-10-21T13:06:12+00:00"
-    },
-    {
-      "title": "A 1,700-Year-Old Roman Sarcophagus Contains a Skeleton That Shouldn’t Belong There",
-      "url": "https://indiandefencereview.com/a-1700-year-old-roman-sarcophagus/",
-      "published_at": "2026-10-21T13:05:00+00:00"
-    },
-    {
-      "title": "France and UAE revive Rafale F5 cooperation after €3.5 billion dispute",
-      "url": "https://defence24.com/industry/france-and-uae-revive-rafale-f5-cooperation-after-eur35-billion-dispute",
-      "published_at": "2026-10-21T13:03:26+00:00"
-    },
-    {
-      "title": "No decisions yet on new RAF jet trainer, says Pollard",
-      "url": "https://ukdefencejournal.org.uk/no-decisions-yet-on-new-raf-jet-trainer-says-pollard/",
-      "published_at": "2026-10-21T13:00:16+00:00"
-    },
-    {
-      "title": "Zelensky meets President of Storting, leaders of Norwegian political parties",
-      "url": "https://www.ukrinform.net/rubric-polytics/4176723-zelensky-meets-president-of-storting-leaders-of-norwegian-political-parties.html",
-      "published_at": "2026-10-21T12:59:00+00:00"
     }
   ]
 }
