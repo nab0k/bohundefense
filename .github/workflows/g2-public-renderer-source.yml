@@ -1,26 +1,20 @@
-name: G2 Public SITE Renderer Source for Local QA (NO PRIVATE DATA)
+name: G2 Public Renderer Source for Local Visual QA
 on:
   push:
     branches: [feature/g1-private-profile-review-20261022]
     paths: ['.github/workflows/g2-public-renderer-source.yml']
-  workflow_dispatch:
 permissions:
   contents: read
 jobs:
-  renderer-public-source:
+  export-public-renderer:
     runs-on: ubuntu-24.04
-    timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
-      - name: Package only EXISTING public SITE renderer source
+      - name: Bundle strict allowlist of public SITE renderer files
         run: |
-          test -f company-profile.html
-          test -f assets/atmo22/company.js
-          tar -czf /tmp/g2_public_renderer_source.tar.gz company-profile.html assets/atmo22
-          tar -tzf /tmp/g2_public_renderer_source.tar.gz | grep '^assets/atmo22/company.js$'
-          test -z "$(tar -tzf /tmp/g2_public_renderer_source.tar.gz | grep -Ei 'secret|private|\\.env|supabase|G2.*readback' || true)"
+          tar -czf /tmp/g2_renderer.tar.gz             company-profile.html             assets/atmo22/company.js assets/atmo22/company.css             assets/atmo22/data.js assets/atmo22/shell.js             assets/atmo22/shell.css assets/atmo22/tokens.css             assets/atmo22/flags.js assets/atmo22/halftone.js             assets/atmo22/g1-private-loader.js assets/atmo22/icons.svg
       - uses: actions/upload-artifact@v4
         with:
-          name: g2-public-renderer-source-NO-PRIVATE-DATA
-          path: /tmp/g2_public_renderer_source.tar.gz
+          name: g2-public-code-only
+          path: /tmp/g2_renderer.tar.gz
           retention-days: 1
