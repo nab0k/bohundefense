@@ -53,6 +53,18 @@ with sync_playwright() as p:
   page.locator('button[data-ux-view=map]').click()
   assert page.locator('body').get_attribute('data-ux-view')=='map'
   assert page.locator('#atmo-category-dock').is_visible(), 'Dock hidden in Map view'
+  # Use real existing category handlers rather than merely counting buttons.
+  first=page.locator('#p1-rail-chips button').first
+  previous=first.get_attribute('aria-pressed')
+  first.click()
+  page.wait_for_function("(old)=>document.querySelector('#p1-rail-chips button')?.getAttribute('aria-pressed')!==old",arg=previous,timeout=8000)
+  first.click()  # Restore the initial filter for subsequent checks.
+  # A real MapLibre instance is available; verify the existing projection controls.
+  page.wait_for_function("!document.querySelector('[data-ux-projection=mercator]').disabled",timeout=20000)
+  page.locator('[data-ux-projection=mercator]').click()
+  page.wait_for_function("document.querySelector('[data-ux-projection=mercator]').getAttribute('aria-pressed')==='true'",timeout=8000)
+  page.locator('[data-ux-projection=globe]').click()
+  page.wait_for_function("document.querySelector('[data-ux-projection=globe]').getAttribute('aria-pressed')==='true'",timeout=8000)
   search=page.locator('#q')
   search.focus()
   assert page.evaluate('document.activeElement?.id')=='q'
