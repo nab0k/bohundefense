@@ -1,0 +1,129 @@
+/* BOHUN Atmosphere 2.2 — Atlas in the shell (EXP-018 DESIGN v2 §2).
+ * The engine (atlas bundle, site-ux.js, company-map.js) keeps its markup and ids; this file only places and restyles it.
+ * Loaded after the engine CSS; site-ux.css (dark layout) is no longer loaded on this page.
+ */
+.atmo22-atlas{
+  --top:52px; --feed-w:360px; --reader-w:380px; --foot:28px;
+  /* Tokens the editorial / relevance CSS (site-mvp.css) expects, now in the light palette */
+  --ux-muted:var(--ink-3); --ux-gold:var(--accent); --ux-text:var(--ink); --ux-line:var(--line); --ux-bg:#fff; --ux-panel:#fff;
+  /* Engine CSS variables (atlas bundle) in the light palette, so its own panel rules follow the shell */
+  --muted:var(--ink-3); --paper:var(--ink); --gold:var(--accent); --glass:rgba(255,255,255,.9);
+}
+body.atmo22-atlas{height:100vh;overflow:hidden;background:var(--bg);color:var(--ink);font:400 var(--fs-body)/1.45 var(--font-ui)}
+.atmo22-atlas [hidden]{display:none!important}
+.atmo22-atlas .legacy-topbar{display:none!important}
+
+/* Shell placement */
+.atmo22-atlas .sidebar{position:fixed;left:0;top:0;bottom:0;width:var(--sidebar-w);height:auto}
+.atmo22-atlas .shell-top{position:fixed;top:0;left:var(--sidebar-w);right:0;height:var(--top);z-index:30;background:rgba(246,248,250,.86);-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);box-shadow:inset 0 -1px 0 var(--line)}
+@media (prefers-reduced-transparency:reduce){.atmo22-atlas .shell-top{background:var(--bg);backdrop-filter:none}}
+
+/* Map region */
+body.atmo22-atlas #map{position:fixed;top:var(--top);left:var(--sidebar-w);right:0;bottom:0;inset:var(--top) 0 0 var(--sidebar-w);background:var(--water,#d6e9f6)}
+.atmo22-atlas .maplibregl-ctrl-bottom-right,.atmo22-atlas .maplibregl-ctrl-bottom-left{bottom:calc(var(--foot) + 4px)}
+.atmo22-atlas[data-ux-reading=true] .maplibregl-ctrl-bottom-right{right:calc(var(--reader-w) + 24px)}
+.atmo22-atlas .maplibregl-ctrl-attrib{font:400 10.5px/1.4 var(--font-ui);background:rgba(255,255,255,.8)}
+
+/* Hidden engine controls: kept in the DOM (the engine reads and measures them), shown through the shell */
+.atmo22-atlas #side{position:fixed!important;left:-10000px!important;top:0!important;width:320px;height:auto;visibility:hidden}
+/* #p0-feed lives inside #side: make it visible again (position:fixed, so the off-screen parent does not move it) */
+.atmo22-atlas #side #p0-feed{visibility:visible}
+
+/* Map toolbar: Flat | Globe and tools */
+.atmo22-atlas .ux-map-toolbar{position:fixed;top:calc(var(--top) + 12px);right:12px;z-index:20;display:flex;gap:6px;align-items:center}
+.atmo22-atlas[data-ux-reading=true] .ux-map-toolbar{right:calc(var(--reader-w) + 24px)}
+.atmo22-atlas .ux-projections{display:inline-flex;padding:2px;border:1px solid var(--line);border-radius:9px;background:rgba(255,255,255,.9);box-shadow:var(--shadow-panel)}
+.atmo22-atlas .ux-projections button{height:28px;min-height:0;padding:0 12px;border:0;border-radius:7px;background:none;font:500 12px/1 var(--font-ui);color:var(--ink-2);letter-spacing:normal;cursor:pointer}
+.atmo22-atlas .ux-projections button[aria-pressed=true]{background:#fff;color:var(--ink);box-shadow:0 1px 2px rgba(16,24,40,.1)}
+.atmo22-atlas .ux-projections button:disabled{opacity:.5;cursor:wait}
+.atmo22-atlas #ux-filter-open{display:none}
+.atmo22-atlas .ux-tools{position:relative}
+.atmo22-atlas .ux-tools summary{list-style:none;display:grid;place-items:center;width:34px;height:34px;border:1px solid var(--line);border-radius:9px;background:rgba(255,255,255,.9);cursor:pointer;font-size:0;box-shadow:var(--shadow-panel)}
+.atmo22-atlas .ux-tools summary::-webkit-details-marker{display:none}
+.atmo22-atlas .ux-tools summary::after{content:"⋯";font:600 16px/1 var(--font-ui);color:var(--ink-2)}
+.atmo22-atlas .ux-menu{position:absolute;right:0;top:40px;display:flex;flex-direction:column;gap:2px;min-width:200px;padding:6px;background:#fff;border:1px solid var(--line);border-radius:10px;box-shadow:0 10px 30px rgba(16,24,40,.12)}
+.atmo22-atlas .ux-menu button{min-height:0;padding:8px 10px;border:0;border-radius:7px;background:none;text-align:left;font:500 12.5px/1.2 var(--font-ui);color:var(--ink);letter-spacing:normal;cursor:pointer}
+.atmo22-atlas .ux-menu button:hover{background:var(--nav-active)}
+.atmo22-atlas .ux-menu button:disabled{color:var(--ink-4);cursor:default}
+.atmo22-atlas #ux-map-status{position:fixed;top:calc(var(--top) + 18px);left:calc(var(--sidebar-w) + 50%);transform:translateX(-50%);z-index:19;margin:0;padding:6px 10px;border-radius:7px;background:rgba(255,255,255,.9);font:500 12px/1.3 var(--font-ui);color:var(--ink-2)}
+.atmo22-atlas #ux-map-status:empty{display:none}
+
+/* Panels share one look: white, translucent, hairline, radius 10 */
+.atmo22-atlas #p0-feed,.atmo22-atlas #p0-dossier,.atmo22-atlas #ind-card,.atmo22-atlas #card,.atmo22-atlas #panel{
+  position:fixed;z-index:15;margin:0;padding:0;display:flex;flex-direction:column;overflow:hidden;color:var(--ink);
+  background:rgba(255,255,255,.9);-webkit-backdrop-filter:blur(14px) saturate(1.05);backdrop-filter:blur(14px) saturate(1.05);
+  border:1px solid var(--line);border-radius:var(--r-panel);box-shadow:0 8px 28px rgba(16,24,40,.08)}
+@media (prefers-reduced-transparency:reduce){.atmo22-atlas #p0-feed,.atmo22-atlas #p0-dossier,.atmo22-atlas #ind-card,.atmo22-atlas #card,.atmo22-atlas #panel{background:var(--panel-solid);backdrop-filter:none}}
+
+/* Today feed (left) */
+.atmo22-atlas #p0-feed{top:calc(var(--top) + 12px);left:calc(var(--sidebar-w) + 12px);bottom:calc(var(--foot) + 12px);width:var(--feed-w)}
+.atmo22-atlas[data-ux-view=map] #p0-feed{display:none}
+.atmo22-atlas .ux-panel-head{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 16px 10px;border:0;flex:none}
+.atmo22-atlas .ux-panel-head h1,.atmo22-atlas .ux-panel-head h2{margin:0;font:600 22px/1.15 var(--font-display);color:#111a33;letter-spacing:-.01em}
+.atmo22-atlas .ux-panel-head button{min-height:0;height:28px;padding:0 10px;border:1px solid var(--line);border-radius:7px;background:#fff;font:500 11.5px/1 var(--font-ui);color:var(--ink-2);letter-spacing:normal;cursor:pointer}
+.atmo22-atlas .ux-feed-tabs{display:inline-flex;align-self:flex-start;margin:0 16px 8px;padding:2px;border:1px solid var(--line);border-radius:8px;background:rgba(255,255,255,.7);gap:0}
+.atmo22-atlas .ux-feed-tabs button{flex:none;min-height:0;height:26px;padding:0 12px;border:0;border-radius:6px;background:none;font:500 11.5px/1 var(--font-ui);color:var(--ink-2);letter-spacing:normal;cursor:pointer}
+.atmo22-atlas .ux-feed-tabs button[aria-pressed=true]{background:#fff;color:var(--ink);box-shadow:0 1px 2px rgba(16,24,40,.08)}
+.atmo22-atlas .ux-feed-asof{margin:0;padding:0 16px 6px;font:400 11px/1.4 var(--font-ui);color:var(--ink-3)}
+.atmo22-atlas .ux-feed-scroll{flex:1;min-height:0;overflow:auto;overscroll-behavior:contain;padding:0 16px 12px}
+.atmo22-atlas .wire-intro{margin:0 0 4px;padding:0 0 8px;border-bottom:1px solid var(--line-soft);font:400 11px/1.5 var(--font-ui);color:var(--ink-3)}
+.atmo22-atlas .wire-story{padding:10px 0;border-bottom:1px solid var(--line-soft)}
+.atmo22-atlas .wire-story a{display:block;color:var(--ink);text-decoration:none;font:500 12.5px/1.4 var(--font-ui);overflow-wrap:anywhere}
+.atmo22-atlas .wire-story a:hover{color:var(--link);text-decoration:none}
+.atmo22-atlas .wire-meta,.atmo22-atlas .ux-meta{margin-top:4px;font:400 11px/1.4 var(--font-ui);color:var(--ink-3);overflow-wrap:anywhere}
+.atmo22-atlas #ux-editorial-panel{padding:16px 0;font:400 12.5px/1.55 var(--font-ui);color:var(--ink-2)}
+.atmo22-atlas #ux-editorial-panel h2{margin:0 0 6px;font:600 14px/1.3 var(--font-ui);color:var(--ink)}
+
+/* Context panel (right): source details, company card, map object, journey */
+.atmo22-atlas #p0-dossier,.atmo22-atlas #ind-card,.atmo22-atlas #card,.atmo22-atlas #panel{top:calc(var(--top) + 12px);right:12px;left:auto;bottom:auto;max-height:calc(100vh - var(--top) - var(--foot) - 24px);width:var(--reader-w);overflow:auto}
+.atmo22-atlas .panel-head{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:12px 14px 4px;min-height:0;font:600 10.5px/1.2 var(--font-ui);letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3)}
+.atmo22-atlas .panel-head button{width:28px;height:28px;min-height:0;padding:0;border:1px solid var(--line);border-radius:7px;background:#fff;font:400 16px/1 var(--font-ui);color:var(--ink-2);cursor:pointer}
+.atmo22-atlas #ind-title,.atmo22-atlas #c-name,.atmo22-atlas #j-title{text-transform:none;margin:4px 14px 6px;font:600 22px/1.2 var(--font-display);color:#111a33;letter-spacing:-.01em}
+.atmo22-atlas #ind-body,.atmo22-atlas #c-place,.atmo22-atlas #c-text,.atmo22-atlas #j-body{margin:0 14px 14px;font:400 12.5px/1.55 var(--font-ui);color:var(--ink-2);overflow-wrap:anywhere}
+.atmo22-atlas #ind-body p,.atmo22-atlas #j-body p{margin:6px 0;color:var(--ink-2)}
+.atmo22-atlas #ind-body a,.atmo22-atlas #j-body a,.atmo22-atlas #p0-dossier-body a{color:var(--link)}
+.atmo22-atlas #ind-card #ind-body .muted,.atmo22-atlas #ind-card .muted,.atmo22-atlas #card .muted{color:var(--ink-3)}
+.atmo22-atlas #ind-card #ind-body p,.atmo22-atlas #card p{font:400 12.5px/1.55 var(--font-ui)}
+.atmo22-atlas .status-badge{display:inline-flex;align-items:center;height:20px;padding:0 7px;border-radius:5px;background:var(--neutral-tint);color:var(--ink-2);font:500 10.5px/1 var(--font-ui);letter-spacing:0;text-transform:none}
+.atmo22-atlas .atl-profile{display:inline-flex;align-items:center;gap:6px;margin:10px 0 2px;padding:7px 10px;border-radius:8px;background:var(--nav-active);font:600 12px/1 var(--font-ui);color:#1f4f8f!important;text-decoration:none!important}
+.atmo22-atlas .atl-profile:hover{background:#d9eaf9}
+.atmo22-atlas #p0-dossier .ux-panel-head{position:sticky;top:0;background:inherit;padding-bottom:8px;border-bottom:1px solid var(--line-soft)}
+.atmo22-atlas #p0-dossier .ux-panel-head h2{font:600 10.5px/1.2 var(--font-ui);letter-spacing:.06em;text-transform:uppercase;color:var(--ink-3)}
+.atmo22-atlas #p0-dossier-body{padding:12px 14px 16px;font:400 12.5px/1.55 var(--font-ui);color:var(--ink-2)}
+.atmo22-atlas #p0-dossier-body h2{margin:0 0 8px;font:600 20px/1.25 var(--font-display);color:#111a33;overflow-wrap:anywhere}
+.atmo22-atlas #panel .demo-tag{font:700 9.5px/1 var(--font-ui);letter-spacing:.08em;color:#6b5200;background:var(--demo-tint);border:1px solid #f0dc96;border-radius:4px;padding:3px 5px}
+
+/* Legends, notes and the disclaimer strip */
+.atmo22-atlas .legends{position:fixed;left:calc(var(--sidebar-w) + 12px);bottom:calc(var(--foot) + 12px);z-index:12;display:flex;gap:8px}
+.atmo22-atlas[data-ux-view=today] .legends{left:calc(var(--sidebar-w) + var(--feed-w) + 24px)}
+.atmo22-atlas .legend{padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:rgba(255,255,255,.9);font:400 11px/1.4 var(--font-ui);color:var(--ink-2)}
+.atmo22-atlas #note{position:fixed;left:calc(var(--sidebar-w) + 50%);transform:translateX(-50%);bottom:calc(var(--foot) + 14px);z-index:14;margin:0;padding:0;font:500 12px/1.4 var(--font-ui);color:var(--ink)}
+.atmo22-atlas #note:not(:empty){padding:6px 10px;border-radius:8px;background:rgba(255,255,255,.92);border:1px solid var(--line)}
+.atmo22-atlas .demo{position:fixed;left:var(--sidebar-w);right:0;bottom:0;z-index:13;margin:0;min-height:var(--foot);display:flex;align-items:center;padding:4px 14px;background:rgba(246,248,250,.92);border-top:1px solid var(--line);font:400 10.5px/1.4 var(--font-ui);color:var(--ink-3);text-shadow:none;white-space:normal}
+.atmo22-atlas .demo a{color:var(--ink-2)}
+
+/* Filters dialog (kept for keyboard users of the engine rail; light look) */
+.atmo22-atlas .ux-filters{width:min(560px,calc(100vw - 32px));padding:18px;border:1px solid var(--line);border-radius:12px;background:#fff;color:var(--ink)}
+.atmo22-atlas .ux-filters::backdrop{background:rgba(16,24,40,.2)}
+
+/* Tablet: sidebar becomes a drawer */
+@media (max-width:1023px){
+  .atmo22-atlas .shell-top{left:0}
+  body.atmo22-atlas #map{left:0;inset:var(--top) 0 0 0}
+  .atmo22-atlas #p0-feed{left:12px;width:320px}
+  .atmo22-atlas .legends{left:12px}
+  .atmo22-atlas .demo{left:0}
+  .atmo22-atlas #ux-map-status{left:50%}
+  .atmo22-atlas{--reader-w:320px}
+  body.atmo22-atlas .sidebar{z-index:40;width:280px;transform:translateX(-100%);transition:transform .2s}
+  body.atmo22-atlas.sb-open .sidebar{transform:none}
+}
+/* Phone: feed and context panels become sheets; site-ux.js marks the map inert while they are open */
+@media (max-width:900px){
+  .atmo22-atlas #p0-feed{left:8px;right:8px;width:auto;top:calc(var(--top) + 8px);bottom:calc(var(--foot) + 8px)}
+  .atmo22-atlas #p0-dossier,.atmo22-atlas #ind-card,.atmo22-atlas #card,.atmo22-atlas #panel{left:0;right:0;top:auto;bottom:0;width:auto;max-height:64vh;border-radius:14px 14px 0 0;z-index:16}
+  .atmo22-atlas[data-ux-reading=true] .ux-map-toolbar{right:12px}
+  .atmo22-atlas[data-ux-view=today] .ux-map-toolbar,.atmo22-atlas[data-ux-view=today] .legends{display:none}
+  .atmo22-atlas{--foot:44px}
+  .atmo22-atlas .demo{font-size:9.5px;padding:3px 10px;line-height:1.35}
+}

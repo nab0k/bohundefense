@@ -15,6 +15,7 @@ const LEGAL = /\b(ag|gmbh|se|plc|ltd|limited|inc|oy|oyj|ab|as|a\.s\.|s\.r\.o\.|s
 const coreName = n => n.replace(LEGAL, '').replace(/[(),]/g, ' ').replace(/\s+/g, ' ').trim();
 const slug = n => norm(n).normalize('NFKD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 const isUA = c => String(c?.country).toUpperCase() === 'UA';
+const atlasHref = vm => '/?view=map&projection=mercator&company=' + encodeURIComponent(vm.name) + (vm.country ? '&country=' + encodeURIComponent(vm.country) : '');
 const fmtDate = iso => { try { return new Date(iso).toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric', timeZone: 'UTC' }); } catch { return ''; } };
 
 /* ---------- view model ---------- */
@@ -113,7 +114,7 @@ function heroWorkspace(vm) {
       ${vm.hq ? `<span class="map-label" data-hq-label>${esc(coreName(vm.name))}</span>` : ''}
       <div class="map-zoom"><button type="button" data-zoom="in" aria-label="Zoom in">${icon('plus', 'ico ico-s')}</button><button type="button" data-zoom="out" aria-label="Zoom out">${icon('minus', 'ico ico-s')}</button></div>
       <div class="map-scale" data-scale><i></i><span></span></div>
-      <a class="map-open" href="/?view=map">Open in Atlas ${icon('arrow-right', 'ico ico-xs')}</a>
+      <a class="map-open" href="${atlasHref(vm)}">Open in Atlas ${icon('arrow-right', 'ico ico-xs')}</a>
     </div>
     <div class="hero-main">
       <div class="hero-top">
@@ -274,7 +275,7 @@ function footprint(vm) {
       <div class="fp-legend"><span><i style="background:#e8a000"></i>Headquarters</span><span><i style="background:#e39a55"></i>Production</span><span><i style="background:#3b82d6"></i>R&amp;D</span><span><i style="background:#8b90a3"></i>Other</span></div>
       <div class="map-zoom"><button type="button" data-fzoom="in" aria-label="Zoom in">${icon('plus', 'ico ico-s')}</button><button type="button" data-fzoom="out" aria-label="Zoom out">${icon('minus', 'ico ico-s')}</button></div></div>
     <dl class="fp-list">${vm.footprint.map(([p, d]) => `<div><dt>${esc(p)}</dt><dd>${esc(d)}</dd></div>`).join('')}</dl>`;
-  return panel('footprint', '', 'Geographic footprint', 'Locations, facilities and key activities.', body, ['View all locations', '/?view=map']);
+  return panel('footprint', '', 'Geographic footprint', 'Locations, facilities and key activities.', body, ['View all locations', atlasHref(vm)]);
 }
 
 /* ---------- page ---------- */
@@ -350,7 +351,7 @@ function bind() {
   for (const g of document.querySelectorAll('.filters,.seg-sm')) g.addEventListener('click', e => { const b = e.target.closest('button'); if (!b) return; for (const x of g.querySelectorAll('button')) x.setAttribute('aria-pressed', String(x === b)); });
   const share = document.querySelector('[data-share]');
   share?.addEventListener('click', async () => { try { await navigator.clipboard.writeText(location.href); share.lastChild.textContent = 'Copied'; } catch { share.lastChild.textContent = 'Copy failed'; } setTimeout(() => { share.lastChild.textContent = 'Share'; }, 1600); });
-  document.querySelector('[data-more]')?.addEventListener('click', () => { location.href = '/?view=map'; });
+  document.querySelector('[data-more]')?.addEventListener('click', () => { location.href = atlasHref(state.vm); });
   const tabsEl = document.querySelector('.tabs');
   tabsEl?.addEventListener('click', e => { const a = e.target.closest('a[role=tab]'); if (!a) return; for (const t of tabsEl.querySelectorAll('a[role=tab]')) t.setAttribute('aria-selected', String(t === a)); });
   tabsEl?.addEventListener('keydown', e => {

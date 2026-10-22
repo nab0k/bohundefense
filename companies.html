@@ -1,13 +1,55 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="description" content="Explore publicly sourced defence and dual-use company research on the Bohun Defence Intelligence Map."><title>Company Directory | Bohun Defence Intelligence</title><link rel="stylesheet" href="/assets/site-ux.css"><link rel="stylesheet" href="/assets/site-mvp.css"></head>
-<body class="site-ux ux-directory">
-<header class="topbar">
-<a class="brand" href="/" aria-label="Bohun Defence home"><img class="brand-logo" src="/logo_gold.png" alt="" width="34" height="34"><span class="brand-mobile" aria-hidden="true">Bohun</span><span class="brand-name"><strong>Bohun Defence</strong><small>Advisory &amp; Intelligence</small></span></a>
-<nav class="ux-primary" aria-label="Main navigation"><a href="/?view=today">Today</a><a href="/?view=map">Map</a><a href="/companies.html" aria-current="page">Companies</a></nav>
-<details class="ux-more"><summary>More</summary><div class="ux-menu"><a href="/about-project.html">About the project</a><a href="/about.html">About Bohun</a><a href="/services.html">Services</a><a href="/support-project.html">Support the project</a><a href="/contact.html">Contact</a></div></details>
-</header>
-<main class="directory-main"><h1>Company directory</h1><p class="directory-intro">Explore companies from the Bohun Defence research database. Most entries are <strong>unverified candidates</strong>: they are not independently validated defence manufacturers, suppliers, partners or customers, and they are not Bohun Defence clients. City is geographic context, not a facility address. Coverage is expanding.</p>
-<div class="directory-controls"><label>Company or capability<input id="search" type="search" placeholder="Name, city or capability" autocomplete="off"></label><label>Country<select id="country"><option value="">All countries</option></select></label><button type="button" id="reset-filters">Reset filters</button></div>
-<div id="count" class="count" role="status">Loading company directory…</div><div id="cards" class="cards" aria-live="polite"></div></main>
-<footer class="directory-footer">Public beta · <a href="/about-project.html">About the project</a> · Source provenance retained internally. Location data represents public research context, not facility coordinates.</footer>
-<script type="module" src="/assets/company-directory.js"></script></body></html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="color-scheme" content="light">
+  <meta name="description" content="Explore publicly sourced defence and dual-use company research on the Bohun Defence Intelligence Map.">
+  <title>Company Directory | Bohun Defence Intelligence</title>
+  <link rel="icon" href="/logo_gold-192.png">
+  <link rel="preload" href="/assets/fonts/InterVariable.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/assets/fonts/SourceSerif4Variable-Roman.ttf.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="/assets/atmo22/tokens.css">
+  <link rel="stylesheet" href="/assets/atmo22/shell.css">
+  <link rel="stylesheet" href="/assets/atmo22/directory.css">
+</head>
+<body class="atmo22 directory-page">
+  <a class="skip" href="#content">Skip to directory</a>
+  <div class="app">
+    <aside id="sidebar" class="sidebar" aria-label="Research navigation"></aside>
+    <div class="main">
+      <header id="topbar" class="shell-top"></header>
+      <main id="content" tabindex="-1">
+        <div class="d-head">
+          <div>
+            <nav class="crumbs" aria-label="Breadcrumb" style="font:400 12px/1.3 var(--font-ui);color:var(--ink-2)">Companies</nav>
+            <h1>Company directory</h1>
+          </div>
+          <p>Public research index</p>
+        </div>
+        <p class="d-intro">Explore companies from the Bohun Defence research database. Most entries are <strong>unverified candidates</strong>: they are not independently validated defence manufacturers, suppliers, partners or customers, and they are not Bohun Defence clients. City is geographic context, not a facility address. Coverage is expanding.</p>
+        <section class="d-panel" aria-label="Company list">
+          <div class="d-filters" role="search">
+            <div class="d-search"><svg class="ico" aria-hidden="true"><use href="/assets/atmo22/icons.svg#i-search"/></svg><input id="f-q" type="search" placeholder="Name, city, country or capability" autocomplete="off" aria-label="Search companies"></div>
+            <label><span class="visually-hidden">Country</span><select id="f-country" aria-label="Country"></select></label>
+            <label><span class="visually-hidden">Region</span><select id="f-region" aria-label="Region"></select></label>
+            <label><span class="visually-hidden">Category</span><select id="f-category" aria-label="Category"></select></label>
+            <label><span class="visually-hidden">Status</span><select id="f-status" aria-label="Status"></select></label>
+            <button type="button" id="d-reset" class="d-reset" hidden>Reset filters</button>
+            <span id="d-count" class="d-count" role="status">Loading public research index…</span>
+          </div>
+          <div class="d-table-wrap">
+            <table class="d-table">
+              <thead><tr><th scope="col">Company</th><th scope="col">Country</th><th scope="col">City</th><th scope="col">Category</th><th scope="col">Status</th><th scope="col"><span class="visually-hidden">Actions</span></th></tr></thead>
+              <tbody id="d-rows" aria-live="polite"></tbody>
+            </table>
+          </div>
+          <button type="button" id="d-more" class="d-more" hidden>Show more</button>
+        </section>
+        <p class="d-foot">Public beta · <a href="/about-project.html">About the project</a> · Source provenance retained internally. Location data represents public research context, not facility coordinates. Categories are directory shortcuts, not canonical BOHUN A/B/C codes.</p>
+      </main>
+    </div>
+  </div>
+  <script type="module" src="/assets/atmo22/directory.js"></script>
+</body>
+</html>

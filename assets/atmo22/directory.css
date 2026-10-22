@@ -1,0 +1,54 @@
+/* BOHUN Atmosphere 2.2 — Company directory (EXP-018 DESIGN v2 §3) */
+.directory-page .main{padding-bottom:16px}
+.directory-page #content{position:relative;z-index:1;padding:4px 16px 0 8px;outline:none}
+.d-head{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;margin:6px 0 10px}
+.d-head h1{margin:6px 0 0;font:600 var(--fs-name)/1.12 var(--font-display);letter-spacing:-.012em;color:#111a33}
+.d-head p{margin:0;font:500 12px/1.3 var(--font-ui);color:var(--ink-3)}
+.d-intro{max-width:92ch;margin:0 0 12px;font:400 12.5px/1.55 var(--font-ui);color:var(--ink-2)}
+.d-panel{background:var(--panel);border:1px solid var(--line);border-radius:var(--r-panel);box-shadow:var(--shadow-panel);-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px);overflow:hidden}
+@media (prefers-reduced-transparency:reduce){.d-panel{background:var(--panel-solid);backdrop-filter:none}}
+.d-filters{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:12px 14px;border-bottom:1px solid var(--line)}
+.d-search{flex:1 1 260px;display:flex;align-items:center;gap:8px;height:32px;padding:0 12px;border:1px solid var(--line);border-radius:8px;background:#fff}
+.d-search .ico{color:var(--ink-3)}
+.d-search input{flex:1;min-width:0;border:0;outline:none;background:none;font:400 12.5px/1 var(--font-ui);color:var(--ink)}
+.d-search:focus-within{border-color:#b9cbe3;box-shadow:0 0 0 3px rgba(62,111,184,.12)}
+.d-filters select{height:32px;padding:0 28px 0 10px;border:1px solid var(--line);border-radius:8px;background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M1 1l4 4 4-4' fill='none' stroke='%23656b7d' stroke-width='1.4'/%3E%3C/svg%3E") no-repeat right 10px center;-webkit-appearance:none;appearance:none;font:500 12px/1 var(--font-ui);color:var(--ink)}
+.d-filters label{display:contents}
+.d-reset{height:32px;padding:0 12px;border:0;border-radius:8px;background:none;font:500 12px/1 var(--font-ui);color:var(--link);cursor:pointer}
+.d-count{margin-left:auto;font:500 12px/1 var(--font-ui);color:var(--ink-3);white-space:nowrap}
+.d-table-wrap{overflow:auto;max-height:calc(100vh - 230px)}
+.d-table{width:100%;border-collapse:separate;border-spacing:0;font:400 12.5px/1.4 var(--font-ui)}
+.d-table thead th{position:sticky;top:0;z-index:1;padding:9px 14px;background:#f7f9fb;border-bottom:1px solid var(--line);text-align:left;font:600 11px/1.2 var(--font-ui);letter-spacing:.04em;text-transform:uppercase;color:var(--ink-3)}
+.d-table tbody th,.d-table td{padding:9px 14px;border-bottom:1px solid var(--line-soft);vertical-align:top;text-align:left}
+.d-table tbody tr:hover{background:rgba(230,240,250,.45)}
+.d-table tbody th{font-weight:400;min-width:240px}
+.d-table tbody th a{font:600 13px/1.3 var(--font-ui);color:var(--ink)}
+.d-table tbody th a:hover{color:var(--link)}
+.d-table tbody th small{display:block;margin-top:2px;font:400 11.5px/1.35 var(--font-ui);color:var(--ink-3);max-width:60ch}
+.d-country{white-space:nowrap}
+.d-country .flag{width:16px;height:16px;vertical-align:-3px;margin-right:6px}
+.d-cat{display:inline-flex;align-items:center;gap:6px;white-space:nowrap;color:var(--ink-2)}
+.d-cat .ico{color:var(--accent)}
+.d-pill{display:inline-flex;align-items:center;height:20px;padding:0 7px;border-radius:5px;background:var(--neutral-tint);color:#4c5566;font:500 10.5px/1 var(--font-ui);white-space:nowrap}
+.d-muted{color:var(--ink-4)}
+.d-actions{white-space:nowrap;text-align:right!important}
+.d-actions a{display:inline-flex;align-items:center;margin-left:12px;font:500 12px/1 var(--font-ui)}
+.d-empty{padding:28px 14px!important;color:var(--ink-3)}
+.d-more{display:block;margin:10px auto 12px;height:32px;padding:0 16px;border:1px solid var(--line);border-radius:8px;background:#fff;font:500 12px/1 var(--font-ui);color:var(--ink);cursor:pointer}
+.d-foot{margin:12px 0 4px;font:400 11px/1.5 var(--font-ui);color:var(--ink-3)}
+.d-table .ico-s{width:14px;height:14px;vertical-align:-2px}
+
+@media (max-width:767px){
+  .directory-page #content{padding:4px 12px 0}
+  .d-head{flex-direction:column;align-items:flex-start;gap:4px}
+  .d-head h1{font-size:28px}
+  .d-filters select{flex:1 1 45%}
+  .d-count{margin-left:0;width:100%}
+  .d-table-wrap{max-height:none}
+  .d-table thead{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+  .d-table tr{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:10px 14px;border-bottom:1px solid var(--line-soft)}
+  .d-table tbody th,.d-table td{display:block;padding:0;border:0}
+  .d-table tbody th{grid-column:1/-1;min-width:0}
+  .d-actions{grid-column:1/-1;text-align:left!important;padding-top:4px!important}
+  .d-actions a{margin:0 14px 0 0}
+}

@@ -124,8 +124,11 @@
 
 /* Taxonomy */
 .tax-grid{display:grid;gap:14px}
-.tax-ws{grid-template-columns:.72fr 1.2fr .78fr 1.1fr}
+.tax-ws{grid-template-columns:.86fr 1.34fr .72fr 1fr}
 .tax-ws .chip{white-space:nowrap}
+/* Long real-taxonomy labels (e.g. "Uncrewed & counter-uncrewed") wrap instead of crossing the column (seen on the live site, 1440). */
+.tax-ws .tax-col{min-width:0}
+.tax-ws .chip{max-width:100%;white-space:normal}
 .tax-ws .chip,.tax-ov .chip{min-height:21px;padding:1px 8px}
 .tax-ws .lvl{min-height:22px}
 .tax-ws .levels{gap:3px}
