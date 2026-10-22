@@ -73,6 +73,17 @@ with sync_playwright() as p:
   rail_buttons=page.locator('#p1-rail-chips button').count()
   shots=Path('/tmp')/('atmo-'+name+'.png')
   page.screenshot(path=str(shots),full_page=False)
+  # Verify the real source-feed selection opens the original reader panel.
+  page.locator('button[data-ux-view=today]').click()
+  assert page.locator('#p0-feed').is_visible()
+  page.wait_for_function("document.querySelectorAll('#wire-stories .wire-story a').length>0",timeout=20000)
+  page.screenshot(path='/tmp/atmo-'+name+'-today.png',full_page=False)
+  if name=='desktop':
+   page.locator('#wire-stories .wire-story a').first.click()
+   assert page.locator('#p0-dossier').is_visible()
+   assert page.locator('#p0-dossier-body h2').inner_text().strip()
+   page.screenshot(path='/tmp/atmo-desktop-reader.png',full_page=False)
+   page.locator('#ux-detail-close').click()
   report.append({'viewport':name,'light_background':bg,'rail_buttons':rail_buttons,
                  'map_instance_exposed':live_map,'page_errors':errors[:5]})
   page.close()
