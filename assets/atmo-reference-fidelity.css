@@ -204,6 +204,14 @@ body.site-ux.atmosphere-22.reference-fidelity {
  .site-ux.reference-fidelity #p1-rail-chips button{min-width:78px}
 }
 @media(max-width:600px){
+ .site-ux.reference-fidelity .topbar .brand-mobile,
+ .site-ux.reference-fidelity .topbar .brand-name {display:none!important}
+ .site-ux.reference-fidelity .topbar .brand {
+   flex:0 0 31px!important;min-width:31px!important;max-width:31px!important;
+   overflow:hidden!important;margin-right:2px;
+ }
+ .site-ux.reference-fidelity .topbar .brand-logo {width:29px;height:32px}
+
  .site-ux.reference-fidelity .topbar>.search{flex:1;min-width:0}
  .site-ux.reference-fidelity .ux-primary a{display:none}
  .site-ux.reference-fidelity #map::after{opacity:.07!important}
