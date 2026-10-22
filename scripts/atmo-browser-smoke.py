@@ -87,6 +87,27 @@ with sync_playwright() as p:
   report.append({'viewport':name,'light_background':bg,'rail_buttons':rail_buttons,
                  'map_instance_exposed':live_map,'page_errors':errors[:5]})
   page.close()
+ # Separate reference-composition audit, without a projection query override.
+ ref=browser.new_page(viewport={'width':1440,'height':900},device_scale_factor=1)
+ ref.goto('http://127.0.0.1:8765/?view=today',wait_until='domcontentloaded',timeout=60000)
+ ref.wait_for_function("document.body.classList.contains('reference-fidelity')",timeout=15000)
+ ref.wait_for_function("Boolean(window.__map) && !document.querySelector('[data-ux-projection=mercator]').disabled",timeout=30000)
+ ref.wait_for_function("document.querySelector('[data-ux-projection=mercator]').getAttribute('aria-pressed')==='true'",timeout=10000)
+ ref.wait_for_function("Math.abs(window.__map.getCenter().lng-15.1)<0.5",timeout=10000)
+ assert ref.locator('.atmo-context-lens').is_visible(), 'Desktop reference context missing'
+ metrics=ref.evaluate("""() => {
+   const rect = s => {const r=document.querySelector(s).getBoundingClientRect();return {left:r.left,right:r.right,width:r.width,top:r.top,bottom:r.bottom}};
+   return {feed:rect('#p0-feed'),lens:rect('.atmo-context-lens'),dock:rect('#atmo-category-dock'),
+   map_center:[window.__map.getCenter().lng,window.__map.getCenter().lat],
+   native_halftone:document.body.dataset.atmoNativeHalftone||'pending'};
+ }""")
+ assert 290<metrics['feed']['width']<440
+ assert 290<metrics['lens']['width']<440
+ assert metrics['dock']['left']>=metrics['feed']['right']
+ assert metrics['dock']['right']>=metrics['lens']['left']
+ ref.screenshot(path='/tmp/atmo-reference-1440.png')
+ print('REFERENCE_GEOMETRY',json.dumps(metrics))
+ ref.close()
  # Run a real profile route against the repository's published JSON.
  page=browser.new_page(viewport={'width':1440,'height':900})
  page.goto('http://127.0.0.1:8765/company-profile.html?company=Accurision%20GmbH&country=AT',
