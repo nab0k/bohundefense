@@ -1,0 +1,60 @@
+/* BOHUN Atmosphere 2.2 — design tokens (EXP-018 DESIGN v1, values sampled from the approved references). */
+@font-face{font-family:"Source Serif 4";src:url("/assets/fonts/SourceSerif4Variable-Roman.ttf.woff2") format("woff2");font-weight:200 900;font-style:normal;font-display:swap}
+@font-face{font-family:"Inter";src:url("/assets/fonts/InterVariable.woff2") format("woff2");font-weight:100 900;font-style:normal;font-display:swap}
+
+:root{
+  color-scheme:light;
+  --font-display:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --font-ui:"Inter",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+
+  --bg:#f4f6f8;
+  --bg-sidebar:#f7f9fb;
+  --panel:rgba(255,255,255,.72);
+  --panel-solid:#fbfcfd;
+  --line:#e6e9ee;
+  --line-soft:#eef1f4;
+  --ink:#0d1526;
+  --ink-2:#565b6c;
+  --ink-3:#656b7d;
+  --ink-4:#a6abb5;
+  --accent:#a3561c;
+  --accent-tint:#f6e9da;
+  --accent-line:#e39a55;
+  --link:#3a68ad;
+  --nav-active:#e6f2fc;
+  --nav-top-active:#eef0f3;
+  --tag-bg:#eef1f5;
+  --tag-ink:#5a6373;
+  --ok:#17704f; --ok-tint:#dcefe8;
+  --warn:#835a00; --warn-dot:#e8a000; --warn-tint:#f8ead2;
+  --bad:#c84d55; --bad-tint:#f8dfe1;
+  --neutral-tint:#e7ebf0;
+  --dot-blue:#49658c; --dot-orange:#e8a000; --dot-red:#c84d55; --dot-purple:#675883; --dot-grey:#8b90a3;
+  --water:#d6e9f6;
+  --land:#f6f4ef;
+  --halftone:rgba(70,140,190,.30);
+  --focus:#3e6fb8;
+  --demo:#f3c94b; --demo-tint:#fff6d6;
+
+  --r-panel:10px; --r-chip:6px;
+  --shadow-panel:0 1px 2px rgba(16,24,40,.04),0 0 0 1px rgba(16,24,40,.01);
+  --sidebar-w:212px;
+  --gap:8px;
+
+  --fs-name:40px; --fs-fact:22px; --fs-ptitle:13.5px; --fs-psub:12px; --fs-body:13px; --fs-nav:13px; --fs-small:11px; --fs-crumb:13px;
+}
+@media (max-width:1359px){:root{--sidebar-w:172px;--fs-name:32px;--fs-fact:18px;--fs-ptitle:13px;--fs-psub:11px;--fs-body:11.5px;--fs-nav:11.5px;--fs-crumb:11px}}
+
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 var(--fs-body)/1.45 var(--font-ui);font-feature-settings:"cv11" 1,"ss01" 1;-webkit-font-smoothing:antialiased}
+a{color:var(--link);text-decoration:none}
+a:hover{text-decoration:underline}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--focus);outline-offset:2px;border-radius:4px}
+.tnum{font-variant-numeric:tabular-nums}
+.ico{width:16px;height:16px;flex:none;display:inline-block;vertical-align:-3px}
+.visually-hidden{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.skip{position:absolute;left:-999px;top:8px;z-index:100;background:#fff;padding:8px 12px;border-radius:6px}
+.skip:focus{left:8px}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
