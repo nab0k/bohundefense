@@ -19,10 +19,15 @@ body.atmo22-atlas{height:100vh;overflow:hidden;background:var(--bg);color:var(--
 @media (prefers-reduced-transparency:reduce){.atmo22-atlas .shell-top{background:var(--bg);backdrop-filter:none}}
 
 /* Map region */
-body.atmo22-atlas #map{position:fixed;top:var(--top);left:var(--sidebar-w);right:0;bottom:0;inset:var(--top) 0 0 var(--sidebar-w);background:var(--water,#d6e9f6)}
+/* Map region. Background = "space" around the globe: cool grey, distinct from the blue water, with a soft halo. */
+body.atmo22-atlas #map{position:fixed;top:var(--top);left:var(--sidebar-w);right:0;bottom:0;inset:var(--top) 0 0 var(--sidebar-w);
+  background:radial-gradient(closest-side circle at 50% 50%,#ffffff 0,#f1f4f8 62%,#e2e7ee 82%,#d3dae4 100%)}
 .atmo22-atlas .maplibregl-ctrl-bottom-right,.atmo22-atlas .maplibregl-ctrl-bottom-left{bottom:calc(var(--foot) + 4px)}
 .atmo22-atlas[data-ux-reading=true] .maplibregl-ctrl-bottom-right{right:calc(var(--reader-w) + 24px)}
 .atmo22-atlas .maplibregl-ctrl-attrib{font:400 10.5px/1.4 var(--font-ui);background:rgba(255,255,255,.8)}
+
+/* Owner's edit (22.10): the legacy donut cluster marker ("41") is not shown; the companies it groups are already drawn as points. */
+.atmo22-atlas .scale-cluster{display:none!important}
 
 /* Hidden engine controls: kept in the DOM (the engine reads and measures them), shown through the shell */
 .atmo22-atlas #side{position:fixed!important;left:-10000px!important;top:0!important;width:320px;height:auto;visibility:hidden}
@@ -37,6 +42,8 @@ body.atmo22-atlas #map{position:fixed;top:var(--top);left:var(--sidebar-w);right
 .atmo22-atlas .ux-projections button[aria-pressed=true]{background:#fff;color:var(--ink);box-shadow:0 1px 2px rgba(16,24,40,.1)}
 .atmo22-atlas .ux-projections button:disabled{opacity:.5;cursor:wait}
 .atmo22-atlas #ux-filter-open{display:none}
+/* Owner (22.10): companies always on, night/undersea/industry layers not offered in the tools menu */
+.atmo22-atlas .ux-menu #companies,.atmo22-atlas .ux-menu #night,.atmo22-atlas .ux-menu #sea,.atmo22-atlas .ux-menu #industry{display:none}
 .atmo22-atlas .ux-tools{position:relative}
 .atmo22-atlas .ux-tools summary{list-style:none;display:grid;place-items:center;width:34px;height:34px;border:1px solid var(--line);border-radius:9px;background:rgba(255,255,255,.9);cursor:pointer;font-size:0;box-shadow:var(--shadow-panel)}
 .atmo22-atlas .ux-tools summary::-webkit-details-marker{display:none}

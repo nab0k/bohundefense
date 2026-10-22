@@ -20,14 +20,9 @@ if (!url.searchParams.has('projection')) {
   history.replaceState(history.state, '', url);
 }
 
+// Owner (22.10): only the companies layer, on by default; other engine layers are not offered.
 const LAYERS = [
   { key: 'companies', label: 'Companies', icon: 'building', live: true },
-  { key: 'today', label: 'Source headlines', icon: 'newspaper', live: true },
-  { key: 'sea', label: 'Undersea defence startups', icon: 'ship', live: true },
-  { key: 'night', label: 'Night side', icon: 'globe', live: true },
-  { key: 'programmes', label: 'Programmes', icon: 'briefcase' }, { key: 'tenders', label: 'Tenders', icon: 'file-text' },
-  { key: 'investments', label: 'Investments', icon: 'coins' }, { key: 'rnd', label: 'R&D / Grants', icon: 'book-open' },
-  { key: 'events', label: 'Events', icon: 'calendar' },
 ];
 const mapHref = c => '/?view=map&projection=mercator&company=' + encodeURIComponent(c.name) + (c.country ? '&country=' + encodeURIComponent(c.country) : '');
 
@@ -56,6 +51,7 @@ function mirrorEngineSearch(q, box) {
       b.addEventListener('click', () => {
         const fresh = document.querySelectorAll('#q-results li > button')[i] || orig;
         // The engine selects a result on mousedown (so it wins over the input's blur), not on click.
+        userMoved = true;
         fresh.dispatchEvent(new MouseEvent('mousedown', { bubbles: true, cancelable: true })); box.hidden = true;
         if (document.body.dataset.uxView === 'today') $('button[data-ux-view=map]')?.click();
       });
@@ -138,6 +134,7 @@ document.addEventListener('click', e => {
   const row = e.target.closest?.('#sidebar [data-region]'); if (!row) return;
   const map = window.__map, b = REGION_BOUNDS[row.dataset.region]; if (!map || !b) return;
   if (document.body.dataset.uxView === 'today' && matchMedia('(max-width: 900px)').matches) $('button[data-ux-view=map]')?.click();
+  userMoved = true;
   for (const r of document.querySelectorAll('#sidebar [data-region]')) r.classList.toggle('is-active', r === row);
   map.fitBounds(b, { padding: 40, duration: reduced ? 0 : 900 });
 });
@@ -167,11 +164,36 @@ const PAINT = [
   ['eu-tint', 'fill-color', '#e7eef3'],
   ['ua-tint', 'fill-color', '#f6e9da'],
   ['ua-border', 'line-color', '#d9a066'],
+  ['label-region', 'text-halo-color', '#f6f4ef'],
+  // Owner (22.10): no night shading (the engine switches it on by itself on the globe) and no legacy count badges ("41").
+  // Opacity is used rather than visibility because the engine manages visibility of these layers itself.
+  ['night', 'raster-opacity', 0],
+  ['co-at-country-dot', 'circle-opacity', 0],
+  ['co-at-country-dot', 'circle-stroke-opacity', 0],
+  ['co-at-country-n', 'text-opacity', 0],
   ['bohun-company-city-points', 'circle-color', '#16233a'],
   ['bohun-company-city-points', 'circle-stroke-color', '#ffffff'],
   ['bohun-company-country-groups', 'circle-color', '#ffffff'],
   ['bohun-company-country-groups', 'circle-stroke-color', '#b9c4d1'],
 ];
+// Owner's edits (22.10): no "European Union" label; Ukraine labelled with support.
+const REGION_FILTER = ['all', ['==', ['get', 'kind'], 'region'], ['!=', ['get', 't'], 'EUROPEAN UNION']];
+const REGION_TEXT = ['case', ['==', ['get', 't'], 'UKRAINE'], 'GLORY TO UKRAINE!', ['get', 't']];
+const IS_UA = ['==', ['get', 't'], 'UKRAINE'];
+const REGION_LAYOUT = {
+  'text-field': REGION_TEXT,
+  'text-max-width': 40,                                           // one line
+  'text-size': ['case', IS_UA, 14, ['get', 'size']],
+  'text-offset': ['case', IS_UA, ['literal', [0, 1.7]], ['literal', [0, 0]]],   // centred, below the Kyiv label
+  'text-letter-spacing': ['case', IS_UA, 0.16, 0.4],                               // fits inside the country
+};
+const same = (a, b) => JSON.stringify(a) === JSON.stringify(b);
+function relabel(map) {
+  if (!map.getLayer('label-region')) return;
+  // Only write on change: every write emits styledata.
+  if (!same(map.getFilter('label-region'), REGION_FILTER)) map.setFilter('label-region', REGION_FILTER);
+  for (const [prop, value] of Object.entries(REGION_LAYOUT)) if (!same(map.getLayoutProperty('label-region', prop), value)) map.setLayoutProperty('label-region', prop, value);
+}
 function dotsImage() {
   const c = document.createElement('canvas'); c.width = c.height = 16;
   const x = c.getContext('2d'); x.fillStyle = 'rgba(60,135,190,.42)';
@@ -180,6 +202,7 @@ function dotsImage() {
 }
 function styleMap() {
   const map = window.__map; if (!map?.isStyleLoaded?.()) return false;
+  try { relabel(map); } catch { /* label layer differs: leave it as published */ }
   for (const [id, prop, value] of PAINT) { try { if (map.getLayer(id) && map.getPaintProperty(id, prop) !== value) map.setPaintProperty(id, prop, value); } catch { /* layer differs: leave it as published */ } }
   try {
     const water = map.getStyle().layers.find(l => l.id === 'water');
@@ -198,13 +221,42 @@ function styleMap() {
   return true;
 }
 const EUROPE = () => ({ center: [14, 50.5], zoom: innerWidth <= 900 ? 3 : 3.7, pitch: 0, bearing: 0 });
-let cameraSet = false;
+/* Guard against late engine resets (EXP-018 finding): seconds after load the engine applies a style diff that
+ * restores its own projection (globe) and may jump back to its start view (Kyiv). Until the user touches the map,
+ * put back the intended camera (Europe, or where a company deep link focused) and the URL's projection. */
+let intended = null, userMoved = false, cameraSet = false;
+const loadedAt = Date.now();
+const atEngineHome = c => Math.abs(c.lng - 31) < 0.8 && Math.abs(c.lat - 48.4) < 0.8;
 function europeCamera(map) {
-  // Decision 3: open on Europe, unless a company deep link or explicit camera drives the view.
   if (cameraSet || hasCompany || url.searchParams.has('center')) return;
-  cameraSet = true;
-  map.jumpTo(EUROPE());
+  cameraSet = true; intended = EUROPE();
+  map.jumpTo(intended);
   document.body.dataset.atmoCamera = 'europe';
+}
+// Where a company deep link should focus: the same public files and rules as company-map.js (city point, else country group).
+if (hasCompany) {
+  const name = norm(url.searchParams.get('company')), country = (url.searchParams.get('country') || '').toUpperCase();
+  Promise.all([fetch('/atlas/notion-research-map.geojson').then(r => r.json()), fetch('/atlas/company-country-groups.geojson').then(r => r.json())])
+    .then(([cities, groups]) => {
+      const city = cities.features?.find(f => norm(f.properties?.name) === name && (!country || (f.properties?.country || '') === country));
+      const group = groups.features?.find(f => f.properties?.country === country);
+      const target = city || group;
+      if (target) { intended = { center: target.geometry.coordinates, zoom: city ? 7 : 4.5 }; document.body.dataset.atmoCamera = 'company'; }
+    }).catch(() => {});
+}
+async function guard(map) {
+  if (userMoved || Date.now() - loadedAt > 45000) return;
+  if (intended && atEngineHome(map.getCenter())) map.jumpTo({ ...intended, pitch: 0, bearing: 0 });
+  const want = new URL(location.href).searchParams.get('projection'), buttons = [...document.querySelectorAll('[data-ux-projection]')];
+  if (want && buttons.length && !buttons[0].disabled && map.getProjection?.()?.type !== want) {
+    const { createProjectionController } = await import('/assets/site-ux.js'); // the same controller instance site-ux.js uses
+    // Re-check after the await: the user may have pressed Flat/Globe meanwhile.
+    const now = new URL(location.href).searchParams.get('projection');
+    if (userMoved || now !== want || map.getProjection?.()?.type === want) return;
+    const ctrl = createProjectionController(map); ctrl.setMode(want);
+    buttons.forEach(b => b.setAttribute('aria-pressed', String(b.dataset.uxProjection === ctrl.mode)));
+    setTimeout(styleMap, 50);
+  }
 }
 // site-ux.js stops waiting for the style after 15 s and then leaves Flat/Globe disabled for good.
 // If that happened, attach the same projection controller (exported by site-ux.js, already evaluated) here.
@@ -226,22 +278,20 @@ async function rescueProjection(map) {
 }
 function onReady() {
   const map = window.__map;
-  styleMap(); syncLayers(); renderCategories(); rescueProjection(map);
-  // The engine's own start view (Kyiv region) may be applied after load: correct it once more.
-  if (document.body.dataset.atmoCamera === 'europe' && !cameraFixed) {
-    cameraFixed = true;
-    const c = map.getCenter(); if (Math.abs(c.lng - 14) > 1 || Math.abs(c.lat - 50.5) > 1) map.jumpTo(EUROPE());
-  }
+  styleMap(); syncLayers(); renderCategories(); rescueProjection(map); guard(map);
 }
-let cameraFixed = false;
 const waitForMap = setInterval(() => {
   const map = window.__map; if (!map) return;
   clearInterval(waitForMap);
   if (map.loaded()) europeCamera(map); else map.once('load', () => europeCamera(map));
+  const canvasBox = map.getCanvasContainer();
+  for (const ev of ['mousedown', 'wheel', 'touchstart', 'keydown']) canvasBox.addEventListener(ev, () => { userMoved = true; }, { passive: true });
+  for (const b of document.querySelectorAll('[data-ux-projection], #ux-home, #all')) b.addEventListener('click', () => { userMoved = true; });
+  map.on('moveend', () => guard(map));
   // No time limit: on slow machines the published style finishes loading after 15 s (EXP-018 finding).
   map.on('idle', onReady);
   // Layers added later (company layers after the directory loads, or during a fly-to) arrive as styledata.
-  let styleTimer; map.on('styledata', () => { clearTimeout(styleTimer); styleTimer = setTimeout(styleMap, 120); });
+  let styleTimer; map.on('styledata', () => { clearTimeout(styleTimer); styleTimer = setTimeout(() => { styleMap(); guard(map); }, 120); });
   map.on('style.load', () => map.once('idle', onReady));
   for (const b of document.querySelectorAll('[data-ux-projection]')) b.addEventListener('click', () => setTimeout(styleMap, 50));
 }, 100);
