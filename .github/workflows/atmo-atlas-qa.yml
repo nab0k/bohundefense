@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - feature/atmosphere-22-company-research
+      - feature/atmosphere-22-reference-fidelity
     paths:
       - 'index.html'
       - 'company-profile.html'
