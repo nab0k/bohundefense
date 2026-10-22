@@ -100,8 +100,11 @@
         for(const b of document.querySelectorAll("[data-ux-projection]"))
           b.addEventListener("click",()=>requestAnimationFrame(syncPattern));
       }
+      // Projection switching can briefly invalidate the style. Keep polling
+      // until the actual water layer was restyled and the overlay attempted.
+      if(!map.isStyleLoaded?.())return false;
       paintWater();syncPattern();
-      return true;
+      return Boolean(body.dataset.atmoNativeHalftone);
     }
     let attempts=0;
     const timer=setInterval(()=>{
