@@ -1,0 +1,30 @@
+name: Claude Atmosphere 2.2 Company Visual Audit (NO DEPLOY)
+on:
+  push:
+    branches: [audit/atmo22-claude-company-live-20261022]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  screenshot-audit:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install browser
+        run: |
+          python -m pip install playwright==1.55.0
+          python -m playwright install --with-deps chromium
+      - name: Capture live-code view modes
+        run: |
+          python -m http.server 8765 --bind 127.0.0.1 >/tmp/atmo-qa-server.log 2>&1 &
+          python scripts/claude-atmo-audit.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: claude-atmo-company-overview-workspace
+          path: /tmp/atmo-claude-audit/*.png
+          retention-days: 7
