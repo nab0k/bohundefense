@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="color-scheme" content="light">
+  <meta name="robots" content="noindex,follow">
+  <title>Company Research | Bohun Defence</title>
+  <link rel="stylesheet" href="/assets/atmo-profile.css">
+</head>
+<body class="atmo-profile-page">
+  <a class="ap-skip" href="#ap-content">Skip to research</a>
+  <header class="ap-header">
+    <a class="ap-brand" href="/" aria-label="BOHUN home"><img src="/logo_gold.png" width="40" height="40" alt=""><span><strong>Bohun Defence</strong><small>Advisory &amp; Intelligence</small></span></a>
+    <div class="ap-search"><label for="ap-query">Find a company</label><input id="ap-query" type="search" placeholder="Search companies in the published research index…" autocomplete="off" aria-controls="ap-results" aria-expanded="false"><div id="ap-results" class="ap-results" hidden role="listbox" aria-label="Company suggestions"></div></div>
+    <nav aria-label="Main"><a href="/?view=today">Today</a><a href="/?view=map">Atlas</a><a class="active" href="/companies.html" aria-current="page">Companies</a></nav>
+  </header>
+  <main>
+    <section class="ap-hero" aria-labelledby="ap-name">
+      <div class="ap-map-texture" aria-hidden="true"></div>
+      <div class="ap-hero-inner">
+        <div class="ap-breadcrumb"><a href="/companies.html">Companies</a><span aria-hidden="true">/</span><span id="ap-breadcrumb-name">Research profile</span></div>
+        <p class="ap-overline">BOHUN / INDUSTRIAL INTELLIGENCE</p>
+        <h1 id="ap-name">Company research</h1>
+        <p class="ap-location" id="ap-location">Select a company from the published research index</p>
+        <p class="ap-note" id="ap-status">Loading public research index…</p>
+        <div class="ap-tabs" role="tablist" aria-label="Company research sections">
+          <button type="button" role="tab" aria-selected="true" tabindex="0" data-section="overview">Overview</button>
+          <button type="button" role="tab" aria-selected="false" tabindex="-1" data-section="taxonomy">Classification A/B/C</button>
+          <button type="button" role="tab" aria-selected="false" tabindex="-1" data-section="products">Products L0–L3</button>
+          <button type="button" role="tab" aria-selected="false" tabindex="-1" data-section="programmes">Programmes & tenders</button>
+          <button type="button" role="tab" aria-selected="false" tabindex="-1" data-section="relationships">Relationships</button>
+          <button type="button" role="tab" aria-selected="false" tabindex="-1" data-section="sources">Sources & evidence</button>
+        </div>
+      </div>
+    </section>
+    <div class="ap-body">
+      <aside class="ap-nav" aria-label="Research facets"><div class="ap-side-title">Research perspective</div><p>Source-linked facts and their limitations, not inferred supplier relationships.</p><div class="ap-side-title">Index coverage</div><p id="ap-coverage">Not loaded</p><div class="ap-side-title">Industrial taxonomy</div><p>BOHUN TAXONOMY v1 · A Domains & Capabilities, B Technologies, C Roles & L0–L3.</p><a href="/companies.html">← Back to company directory</a></aside>
+      <section class="ap-content" id="ap-content" tabindex="-1" aria-live="polite" aria-label="Selected research section"></section>
+      <aside class="ap-evidence" aria-label="Evidence and verification"><div class="ap-side-title">Publication & evidence</div><h2>Evidence status</h2><p>The published directory entry is not independent proof of manufacturing capability or a supplier relationship.</p><dl>
+        <div><dt>Index record</dt><dd id="ap-index-status">Loading</dd></div>
+        <div><dt>Canonical A/B/C assignments</dt><dd>Not included in v1 feed</dd></div>
+        <div><dt>Programme-specific Tier</dt><dd>Unknown</dd></div>
+        <div><dt>Source-to-claim audit</dt><dd>Not supplied</dd></div>
+      </dl><p class="ap-policy">No public industrial edge, technology claim or contract is inferred from the company’s name, legacy category or website.</p></aside>
+    </div>
+  </main>
+  <footer class="ap-footer"><span>BOHUN Atmosphere 2.2 · Stage C research UI</span><span>Index coverage incomplete · Not a list of validated defence suppliers · No facility coordinates</span><a href="/about-project.html">Methodology & limitations</a></footer>
+  <script type="module" src="/assets/atmo-company-profile.js"></script>
+</body>
+</html>
