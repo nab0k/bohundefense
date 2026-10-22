@@ -107,6 +107,15 @@ with sync_playwright() as p:
  assert metrics['dock']['right']>=metrics['lens']['left']
  ref.screenshot(path='/tmp/atmo-reference-1440.png')
  print('REFERENCE_GEOMETRY',json.dumps(metrics))
+ map_style=ref.evaluate("""() => ({
+  projection:window.__map.getProjection?.(),
+  style_url:window.__map.getStyle?.()?.sprite,
+  layers:(window.__map.getStyle?.()?.layers||[]).filter(x=>['fill','background','raster'].includes(x.type)).map(x=>({
+   id:x.id,type:x.type,source:x.source||'',source_layer:x['source-layer']||'',
+   paint:x.paint||{}
+  })).slice(0,75)
+ })""")
+ print('MAP_STYLE_LAYERS',json.dumps(map_style,ensure_ascii=False)[:16000])
  ref.close()
  # Run a real profile route against the repository's published JSON.
  page=browser.new_page(viewport={'width':1440,'height':900})
