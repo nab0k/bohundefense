@@ -1,0 +1,4 @@
+/* Additive research navigation, original cards remain unchanged. */
+.atmo-research-link{display:inline-flex;align-items:center;min-height:36px;margin-top:11px;padding:5px 0;color:#4486a0!important;text-decoration:none;font:600 13px/1.4 system-ui,sans-serif}
+.atmo-research-link:hover,.atmo-research-link:focus-visible{text-decoration:underline}
+.atmo-research-wrap{margin:12px 0 0}
