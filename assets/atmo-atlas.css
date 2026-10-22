@@ -192,7 +192,7 @@ body.site-ux.atmosphere-22 {
   color:#a37a43;border-color:transparent;
 }
 .site-ux.atmosphere-22 #atmo-category-dock[data-atmo-filtered=true] #p1-rail-chips button[aria-pressed=true] {
-  color:#8f6634;background:rgba(173,131,75,.10);
+  color:#8f6634;background:transparent;border-bottom-color:rgba(173,131,75,.48);
 }
 .site-ux.atmosphere-22 #p1-rail-chips button:hover,
 .site-ux.atmosphere-22 #p1-rail-chips button:focus-visible{background:rgba(87,135,153,.1)}
