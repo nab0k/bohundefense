@@ -1,0 +1,25 @@
+name: G1 Private Review JS Tests (NO DEPLOY)
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'assets/atmo22/company.js'
+      - 'assets/atmo22/g1-private-loader.js'
+      - 'scripts/test-g1-private-loader.mjs'
+      - '.github/workflows/g1-private-review-tests.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  pure-js:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check review site module syntax
+        run: node --check assets/atmo22/company.js && node --check assets/atmo22/g1-private-loader.js
+      - name: Execute G1 fail-closed loader tests
+        run: node --test scripts/test-g1-private-loader.mjs
