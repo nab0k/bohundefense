@@ -30,3 +30,22 @@ or write tokens. Nothing is published by this branch.
 Before production: exact owner-approved migration, narrowly scoped HOLD-only
 write/readback, complete visual browser QA, legal identity QA, and a separate
 allowlisted publication export. Do not merge this PR to deploy the preview.
+
+
+## G2 real-page browser QA (2026-10-22)
+
+The G2 private preview now uses the actual `company-profile.html` renderer in both Workspace and Overview.
+GitHub Actions `g2-private-browser-qa.yml` pins `ubuntu-24.04` and runs pinned Playwright 1.55.0 Chromium.
+The test dynamically intercepts `/__g1_review/25.json` with **SYNTHETIC TEST DATA ONLY**; the fixture contains no live Supabase values, private source pack, credentials, or production export.
+The output contains full-page screenshots (clearly marked SYNTHETIC), a JSON result and 7-day artifact retention.
+
+Verified in CI (see https://github.com/nab0k/bohundefense/actions/runs/39858044783):
+- Actual SITE HTML and modules load from the checked-out branch, with no JS page exceptions.
+- Workspace: three TEST products, two proposed technologies, 23 synthetic evidence rows, revenue unknown, separate registered-capital fact, disabled Financials tab.
+- Overview: same three products, two proposed taxonomy labels with codes visible, 23 evidence rows, capital separate from revenue.
+- `HOLD` warning stays in page flow rather than obscuring panels.
+- No default public release or direct browser-to-Supabase access.
+
+**Not yet proved:** live privileged PostgreSQL reader run with a read-only DSN, G2 production fact payload rendered end-to-end, real Accurision screenshots, original-source archiving, and human QA. The actual G2 private model remains in the owner's local package, outside the public repo.
+
+Existing `p0-pages-smoke.yml` was moved from `ubuntu-latest` (Ubuntu 26.04 unsupported by pinned Playwright) to `ubuntu-24.04`. Its unrelated pre-existing check now fails on its legacy `m1-mobile-menu` DOM assumption. This is not a G2 renderer failure; do not bypass the assertion without reviewing P0 scope.
