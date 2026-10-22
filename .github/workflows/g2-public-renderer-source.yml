@@ -1,0 +1,26 @@
+name: G2 Public SITE Renderer Source for Local QA (NO PRIVATE DATA)
+on:
+  push:
+    branches: [feature/g1-private-profile-review-20261022]
+    paths: ['.github/workflows/g2-public-renderer-source.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  renderer-public-source:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Package only EXISTING public SITE renderer source
+        run: |
+          test -f company-profile.html
+          test -f assets/atmo22/company.js
+          tar -czf /tmp/g2_public_renderer_source.tar.gz company-profile.html assets/atmo22
+          tar -tzf /tmp/g2_public_renderer_source.tar.gz | grep '^assets/atmo22/company.js$'
+          test -z "$(tar -tzf /tmp/g2_public_renderer_source.tar.gz | grep -Ei 'secret|private|\\.env|supabase|G2.*readback' || true)"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: g2-public-renderer-source-NO-PRIVATE-DATA
+          path: /tmp/g2_public_renderer_source.tar.gz
+          retention-days: 1
