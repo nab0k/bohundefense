@@ -86,10 +86,12 @@
       const map=window.__map;
       if(!map?.isStyleLoaded?.())return false;
       if(!started) {
+        const flat=document.querySelector('[data-ux-projection="mercator"]');
+        // Wait for the site's projection controller, not merely tile style load.
+        if(defaultEurope && (!flat || flat.disabled))return false;
         started=true;
         if(defaultEurope) {
-          const flat=document.querySelector('[data-ux-projection="mercator"]');
-          if(flat && !flat.disabled) {
+          if(flat) {
             flat.click();
             map.jumpTo({center:[15.1,50.3],zoom:3.65,pitch:0,bearing:0});
           }
