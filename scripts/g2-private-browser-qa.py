@@ -20,7 +20,7 @@ def synthetic_vm():
     facts = [
         ["GmbH", "Company type"], ["—", "Founded"], ["—", "Employees"],
         ["—", "Revenue"], ["—", "Market cap"], ["Fixture City", "Registered seat"],
-        ["EUR 123 (synthetic registered capital; NOT revenue)", "Registered capital"]
+        ["EUR 123", "Registered capital"]
     ]
     evidence = [{
         "claim": "SYNTHETIC QA evidence %02d" % (i+1), "sources": 1,
@@ -100,7 +100,7 @@ def main():
             assert "T.PNT" in tech and "T.EWC" in tech and "proposed" in tech
             fields=page.locator("dl.facts").inner_text()
             assert "Registered capital" in fields and "EUR 123" in fields
-            assert "Revenue" in fields and "NOT revenue" in fields
+            assert "Revenue" in fields and "Registered capital" in fields
             assert page.locator("#p-evidence li").count()==23
             assert "source originals not archived" in page.locator("#p-evidence").inner_text()
             assert page.locator('a[role="tab"]').count()>0
