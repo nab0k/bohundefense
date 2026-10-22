@@ -1,0 +1,263 @@
+/* BOHUN Atmosphere 2.2 | Stage F1: additive Atlas skin.
+ * Activated only by body.atmosphere-22. No map sources, data, or
+ * underlying MapLibre styles are modified. */
+body.site-ux.atmosphere-22 {
+  --ux-bg:#f5f8f7; --ux-panel:#fbfdfc; --ux-line:#dce6e8;
+  --ux-text:#233b47; --ux-muted:#637e89; --ux-gold:#ad834b;
+  --ux-top:72px; --ux-feed:clamp(300px,25vw,385px);
+  --ux-reader:clamp(320px,27vw,420px);
+  --atmo-ink:#233b47; --atmo-muted:#647d88;
+  --atmo-rule:rgba(77,107,119,.17); --atmo-gold:#ad834b;
+  color-scheme:light; color:var(--atmo-ink); background:#eef4f4;
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,system-ui,sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+.site-ux.atmosphere-22 a {color:#347b97}
+.site-ux.atmosphere-22 :focus-visible {outline:2px solid #a47b42;outline-offset:3px}
+.site-ux.atmosphere-22 #map {background:#dce9ed}
+.site-ux.atmosphere-22 #map::after {
+  content:"";position:absolute;inset:0;z-index:3;pointer-events:none;
+  background-image:radial-gradient(rgba(71,116,134,.19) .55px,transparent 1px);
+  background-size:8px 8px;opacity:.24;
+  mask-image:linear-gradient(100deg,#000,transparent 30%,transparent 70%,#000);
+}
+/* One horizontal header, original logo asset and original search DOM. */
+.site-ux.atmosphere-22 .topbar {
+  position:fixed;z-index:850;inset:0 0 auto;height:var(--ux-top);
+  min-height:var(--ux-top);padding:0 clamp(15px,2.2vw,38px);
+  display:flex;align-items:center;gap:clamp(12px,2.2vw,32px);
+  border-bottom:1px solid var(--atmo-rule);
+  background:rgba(251,253,252,.92);box-shadow:none;
+  backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);
+}
+.site-ux.atmosphere-22 .brand {flex:none;gap:10px;color:#223843;min-width:185px}
+.site-ux.atmosphere-22 .brand-logo {width:39px;height:39px;object-fit:contain}
+.site-ux.atmosphere-22 .brand-name strong {font-size:17px;letter-spacing:-.04em;line-height:1.1}
+.site-ux.atmosphere-22 .brand-name small {color:var(--atmo-gold);letter-spacing:.01em}
+.site-ux.atmosphere-22 .topbar > .search {
+  position:relative!important;inset:auto!important;z-index:3;
+  width:auto!important;flex:1 1 380px;max-width:590px;min-width:120px;
+  padding:0!important;margin:0;
+}
+.site-ux.atmosphere-22 .topbar > .search #q {
+  display:block;width:100%;height:44px;min-height:44px;
+  border-radius:24px;border:1px solid #d6e2e6;
+  background:rgba(254,255,255,.8);color:var(--atmo-ink);
+  padding:0 18px;font:13px/1.4 system-ui;
+}
+.site-ux.atmosphere-22 .topbar > .search #q::placeholder{color:#78919b}
+.site-ux.atmosphere-22 .q-results {
+  position:absolute;top:calc(100% + 8px);left:0;right:0;
+  max-height:55dvh;overflow:auto;color:var(--atmo-ink);
+  background:#fbfdfcf7;border:1px solid var(--atmo-rule);
+  border-radius:15px;box-shadow:0 18px 48px #294c581c;
+}
+.site-ux.atmosphere-22 .ux-primary {
+  margin-left:auto;flex:none;display:flex!important;align-items:center;gap:12px;
+}
+.site-ux.atmosphere-22 .ux-primary button,
+.site-ux.atmosphere-22 .ux-primary a {
+  border:0;border-bottom:2px solid transparent;border-radius:0;
+  padding:0 5px;min-height:42px;color:#647e88;
+  background:transparent;font:600 13px system-ui;
+}
+.site-ux.atmosphere-22 .ux-primary [aria-pressed=true],
+.site-ux.atmosphere-22 .ux-primary [aria-current=page],
+.site-ux.atmosphere-22 .ux-primary button:hover,
+.site-ux.atmosphere-22 .ux-primary a:hover {
+  color:#233b47;background:transparent;border-bottom-color:var(--atmo-gold)
+}
+.site-ux.atmosphere-22 .ux-more summary {
+  border:0;border-radius:0;background:transparent;color:#657e88;
+}
+.site-ux.atmosphere-22 .ux-menu {
+  background:#fbfdfcf9;border:1px solid var(--atmo-rule);
+  border-radius:14px;box-shadow:0 16px 35px #3150601c;
+}
+.site-ux.atmosphere-22 .ux-menu a:hover{background:#eaf2f3}
+/* Keep only Flat map / Globe in the map toolbar; preserve handlers. */
+.site-ux.atmosphere-22 .ux-map-toolbar {
+  top:calc(var(--ux-top) + 16px);right:clamp(15px,2vw,30px);
+  left:auto;z-index:670;
+}
+.site-ux.atmosphere-22 .ux-projections {
+  border:1px solid #d7e3e6;border-radius:22px;
+  background:rgba(252,254,253,.9);padding:3px;backdrop-filter:blur(12px);
+}
+.site-ux.atmosphere-22 .ux-projections button {
+  min-height:36px;padding:7px 14px;border-radius:18px;
+  background:transparent;color:#647d88;font-size:12px;
+}
+.site-ux.atmosphere-22 .ux-projections [aria-pressed=true] {
+  background:#e7eef0;color:#264653;
+}
+.site-ux.atmosphere-22 #ux-filter-open,
+.site-ux.atmosphere-22 .ux-tools{display:none!important}
+.site-ux.atmosphere-22 #ux-map-status {
+  top:calc(var(--ux-top) + 70px);right:18px;color:#567481;
+}
+/* Open spatial panels instead of dashboard cards. */
+.site-ux.atmosphere-22 #p0-feed {
+  position:fixed;left:0;top:var(--ux-top);bottom:55px;
+  width:var(--ux-feed);margin:0;border:0;border-radius:0;
+  padding:22px clamp(18px,2.2vw,35px) 12px;
+  background:linear-gradient(90deg,rgba(251,253,252,.985) 0%,rgba(251,253,252,.94) 72%,rgba(251,253,252,.74) 100%);
+  box-shadow:none;backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
+  z-index:640;
+}
+.site-ux.atmosphere-22 .ux-panel-head {
+  border-color:var(--atmo-rule);padding:7px 0 15px;background:transparent;
+}
+.site-ux.atmosphere-22 .ux-panel-head h1{font:650 30px/1.2 system-ui;letter-spacing:-.055em;color:#233b47}
+.site-ux.atmosphere-22 .ux-panel-head h2{color:#233b47}
+.site-ux.atmosphere-22 .ux-panel-head button{
+  border:0;background:transparent;color:#637d88;padding:7px 0;
+}
+.site-ux.atmosphere-22 .ux-feed-tabs {
+  padding:13px 0 8px;gap:20px;border-color:var(--atmo-rule);
+}
+.site-ux.atmosphere-22 .ux-feed-tabs button {
+  flex:0 0 auto;min-height:36px;padding:6px 0;font:550 12px system-ui;
+  border-radius:0;border-bottom:2px solid transparent;
+  background:transparent;color:#748892;
+}
+.site-ux.atmosphere-22 .ux-feed-tabs [aria-pressed=true] {
+  background:transparent;color:#263d49;border-bottom-color:var(--atmo-gold);
+}
+.site-ux.atmosphere-22 .ux-feed-scroll {padding:0;scrollbar-width:thin}
+.site-ux.atmosphere-22 .ux-feed-asof{padding:9px 0 0;color:#738791}
+.site-ux.atmosphere-22 .wire-intro,
+.site-ux.atmosphere-22 .ux-ed-intro{color:#6b8390;border-color:var(--atmo-rule)}
+.site-ux.atmosphere-22 .wire-story,
+.site-ux.atmosphere-22 .ux-ed-item {
+  padding:17px 0;border-bottom:1px solid var(--atmo-rule);
+}
+.site-ux.atmosphere-22 .wire-story a {
+  font:600 14px/1.46 system-ui;letter-spacing:-.016em;
+  color:#263e49;text-decoration:none;
+}
+.site-ux.atmosphere-22 .wire-story a:hover{color:#a27a42}
+.site-ux.atmosphere-22 .wire-meta,
+.site-ux.atmosphere-22 .ux-meta {color:#6c838d;font-size:11px}
+.site-ux.atmosphere-22 .ux-ed-title{color:#263e49}
+.site-ux.atmosphere-22 #p0-dossier,
+.site-ux.atmosphere-22 #ind-card,
+.site-ux.atmosphere-22 #card,
+.site-ux.atmosphere-22 #panel {
+  position:fixed;right:0;left:auto;top:var(--ux-top);bottom:55px;
+  width:var(--ux-reader);border:0;border-radius:0;
+  padding:18px clamp(18px,2.4vw,35px);box-shadow:none;
+  background:linear-gradient(270deg,rgba(252,254,253,.99),rgba(252,254,253,.93) 78%,rgba(252,254,253,.72));
+  color:#263d49;font:13px/1.65 system-ui;overflow:auto;z-index:720;
+  backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
+}
+.site-ux.atmosphere-22 #p0-dossier-body{padding:12px 0 25px}
+.site-ux.atmosphere-22 #p0-dossier-body h2 {
+  font-size:clamp(21px,2vw,31px);line-height:1.22;letter-spacing:-.035em;
+}
+.site-ux.atmosphere-22 #p0-dossier .ux-panel-head{
+  top:-18px;position:sticky;background:rgba(252,254,253,.96);
+}
+.site-ux.atmosphere-22 .panel-head{border-bottom:1px solid var(--atmo-rule)}
+.site-ux.atmosphere-22 .card h3{color:#263d49;letter-spacing:-.025em;text-transform:none}
+.site-ux.atmosphere-22 .status-badge{background:none;color:#9a7540;border:1px solid #daccb4}
+.site-ux.atmosphere-22 .demo {
+  color:#738b94;background:rgba(250,252,251,.94);
+  border-top:1px solid var(--atmo-rule);font-size:10px;z-index:760;
+}
+/* Existing wired category filters, placed over the lower portion of map. */
+.site-ux.atmosphere-22 #atmo-category-dock {
+  position:fixed;z-index:690;left:calc(var(--ux-feed) + 14px);
+  right:14px;bottom:63px;min-height:67px;
+  background:rgba(251,253,252,.91);border:1px solid rgba(202,221,223,.87);
+  border-radius:20px;backdrop-filter:blur(20px);-webkit-backdrop-filter:blur(20px);
+  box-shadow:0 10px 35px rgba(53,82,93,.10);padding:7px 10px;
+  overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:thin;
+}
+.site-ux.atmosphere-22[data-ux-reading=true] #atmo-category-dock {
+  right:calc(var(--ux-reader) + 12px);
+}
+.site-ux.atmosphere-22 #p1-rail-chips {
+  display:flex;flex-wrap:nowrap;gap:5px;min-width:max-content;
+  margin:0;width:100%;align-items:center;justify-content:space-around;
+}
+.site-ux.atmosphere-22 #p1-rail-chips button {
+  min-width:78px;min-height:50px;flex:0 0 auto;
+  display:flex;flex-direction:column;gap:2px;align-items:center;justify-content:center;
+  padding:6px 11px;border:0;border-bottom:2px solid transparent;
+  border-radius:11px;background:transparent;color:#637e88;
+  font:500 11px/1.35 system-ui;
+}
+.site-ux.atmosphere-22 #p1-rail-chips button[aria-pressed=true] {
+  color:#a37a43;border-color:transparent;
+}
+.site-ux.atmosphere-22 #atmo-category-dock[data-atmo-filtered=true] #p1-rail-chips button[aria-pressed=true] {
+  color:#8f6634;background:rgba(173,131,75,.10);
+}
+.site-ux.atmosphere-22 #p1-rail-chips button:hover,
+.site-ux.atmosphere-22 #p1-rail-chips button:focus-visible{background:rgba(87,135,153,.1)}
+.site-ux.atmosphere-22 .dock-icon svg{
+  width:22px;height:22px;fill:none;stroke:currentColor;stroke-width:1.55;
+}
+/* Map attribution remains visible and legible. */
+.site-ux.atmosphere-22 .maplibregl-ctrl-attrib{
+  color:#4f6a75;background:rgba(250,252,251,.85);
+}
+@media(max-width:1100px){
+  body.site-ux.atmosphere-22{--ux-feed:300px;--ux-reader:315px}
+  .site-ux.atmosphere-22 .brand{min-width:0}
+  .site-ux.atmosphere-22 .ux-primary{gap:3px}
+  .site-ux.atmosphere-22 .ux-primary button,
+  .site-ux.atmosphere-22 .ux-primary a{padding:0 5px}
+}
+@media(max-width:900px){
+  body.site-ux.atmosphere-22{--ux-top:64px;--ux-feed:min(94vw,420px);--ux-reader:100vw}
+  .site-ux.atmosphere-22 .topbar{
+    height:var(--ux-top)!important;min-height:var(--ux-top)!important;
+    padding:0 10px!important;gap:7px;
+  }
+  .site-ux.atmosphere-22 .brand{flex:0 0 30px!important;min-width:30px;overflow:visible}
+  .site-ux.atmosphere-22 .brand-logo{width:29px;height:33px}
+  .site-ux.atmosphere-22 .brand-name{display:none}
+  .site-ux.atmosphere-22 .topbar > .search{min-width:0;flex:1 1 auto}
+  .site-ux.atmosphere-22 .topbar > .search #q{
+    height:40px;min-height:40px;padding:0 10px;font-size:12px;
+  }
+  .site-ux.atmosphere-22 .ux-primary{gap:1px;flex:none}
+  .site-ux.atmosphere-22 .ux-primary button,
+  .site-ux.atmosphere-22 .ux-primary a{font-size:11px;padding:0 3px;min-height:40px}
+  .site-ux.atmosphere-22 .ux-more{display:none}
+  .site-ux.atmosphere-22 .ux-map-toolbar{
+    left:auto;right:12px;top:calc(var(--ux-top) + 10px);
+    padding:0;gap:0;
+  }
+  .site-ux.atmosphere-22 #ux-map-status{top:calc(var(--ux-top) + 62px)}
+  .site-ux.atmosphere-22 #p0-feed{
+    left:0;right:0;top:var(--ux-top);bottom:51px;width:auto;
+    padding:20px 18px 10px;box-shadow:none;
+  }
+  .site-ux.atmosphere-22 #p0-dossier,
+  .site-ux.atmosphere-22 #ind-card,
+  .site-ux.atmosphere-22 #card,
+  .site-ux.atmosphere-22 #panel {
+    top:var(--ux-top)!important;bottom:51px!important;
+    left:0!important;right:0!important;width:auto;
+    background:rgba(250,253,252,.98)!important;
+  }
+  .site-ux.atmosphere-22 #atmo-category-dock {
+    left:8px;right:8px;bottom:56px;min-height:64px;
+    border-radius:16px;padding:5px 7px;
+  }
+  .site-ux.atmosphere-22[data-ux-reading=true] #atmo-category-dock{display:none}
+  .site-ux.atmosphere-22[data-ux-view=today] #atmo-category-dock{display:none}
+  .site-ux.atmosphere-22 .demo{max-height:48px;overflow:auto}
+}
+@media(max-width:400px){
+  .site-ux.atmosphere-22 .ux-primary a{display:none}
+  .site-ux.atmosphere-22 .ux-primary button{padding:0 5px}
+  .site-ux.atmosphere-22 .topbar > .search #q{font-size:11px}
+}
+@media(prefers-reduced-motion:reduce){
+ .site-ux.atmosphere-22 *, .site-ux.atmosphere-22 *::before,
+ .site-ux.atmosphere-22 *::after{transition:none!important;animation:none!important}
+}
