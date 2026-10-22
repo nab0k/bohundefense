@@ -5,6 +5,7 @@
  */
 import { directory, industry, researchMap, countries, wire, demo, isDemo, TAXONOMY, STATUS_LABEL, COUNTRY, countryName, regionOf, esc, norm, safeUrl, hostOf, companyHref, SOURCES } from './data.js';
 import { mountShell, icon } from './shell.js';
+import { loadPrivateReviewVM } from './g1-private-loader.js';
 import { drawHalftone, bboxAround } from './halftone.js';
 import { flag } from './flags.js';
 
@@ -375,6 +376,21 @@ function renderPicker(items, msg) {
 
 async function main() {
   mountShell({ active: 'companies', variant: state.view });
+  // G1 private-review route is loopback-only, never a public company path.
+  // It displays the existing real company.js layout using a HOLD-only VM.
+  if (isDemo() === false && ['localhost','127.0.0.1','[::1]'].includes(location.hostname)
+      && params.has('g1_candidate')) {
+    try {
+      state.vm = await loadPrivateReviewVM(params.get('g1_candidate'), {hostname: location.hostname});
+      document.getElementById('demo-banner').innerHTML =
+        '<div class="demo-banner" role="note"><strong>G1 PRIVATE REVIEW · HOLD · NOT PUBLISHED</strong></div>';
+      remountShell();
+      render();
+    } catch {
+      content.innerHTML = '<section class="hero hero-pick"><h1 class="name">Private review unavailable</h1><p>No company profile was published or substituted.</p></section>';
+    }
+    return;
+  }
   let items;
   try { items = await directory(); } catch {
     content.innerHTML = `<section class="hero hero-pick"><h1 class="name">Company intelligence</h1>${empty('circle-alert', 'The public research index is temporarily unavailable. No substitute data is shown.')}</section>`;
