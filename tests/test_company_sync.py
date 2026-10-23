@@ -1,4 +1,6 @@
 import importlib.util
+from unittest.mock import patch
+import copy
 import json
 from pathlib import Path
 import sys
@@ -115,6 +117,83 @@ class CompanyPipelineTests(unittest.TestCase):
         directory, _groups, stats = pub.build(self.root, [hidden])
         self.assertEqual(stats['excluded_by_policy'], 1)
         self.assertEqual([x['name'] for x in directory['companies']], ['Legacy Vendor'])
+
+    def test_every_notional_field_kept_typed_and_private(self):
+        src = page()
+        src['created_time'] = '2026-10-20T12:00:00.000Z'
+        src['properties']['Confidence'] = {'type': 'select', 'id': 'confidence',
+                                           'select': {'name': 'medium', 'id': 'opt-1'}}
+        src['properties']['A — Домены'] = {'type': 'multi_select', 'id': 'domain',
+                                          'multi_select': [{'name': 'AIR'}, {'name': 'LAND'}]}
+        src['properties']['Checked'] = {'type': 'date', 'id': 'checked',
+                                        'date': {'start': '2026-10-22', 'end': None}}
+        src['properties']['Reason / note'] = {'type': 'rich_text', 'id': 'reason',
+                                             'rich_text': [{'plain_text': 'PRIVATE DO NOT PUBLISH'}]}
+        projected = sync.project(src)
+        snapshot = projected['notion_page']
+        self.assertEqual(snapshot['properties'], src['properties'])
+        self.assertEqual(snapshot['created_time'], src['created_time'])
+        self.assertEqual(snapshot['properties']['Checked']['date']['start'], '2026-10-22')
+        src['properties']['Confidence']['select']['name'] = 'low'
+        self.assertEqual(snapshot['properties']['Confidence']['select']['name'], 'medium')
+        directory, _, _ = pub.build(self.root, [projected])
+        result = json.dumps(directory, ensure_ascii=False)
+        self.assertNotIn('PRIVATE DO NOT PUBLISH', result)
+        self.assertNotIn('notion_page', result)
+        self.assertNotIn('created_time', result)
+
+    def test_hidden_field_change_changes_full_payload_digest(self):
+        src = page()
+        src['properties']['Confidence'] = {'type': 'select', 'select': {'name': 'high'}}
+        old = sync.project(src)
+        new = copy.deepcopy(src)
+        new['properties']['Confidence']['select']['name'] = 'low'
+        self.assertNotEqual(sync.source_digest(old), sync.source_digest(sync.project(new)))
+        self.assertEqual(old['name'], sync.project(new)['name'])
+
+    def test_missing_notion_column_fails_closed(self):
+        src = page()
+        def fake(token, method, path, body=None):
+            if method == 'GET' and path.startswith('/data_sources/'):
+                return {'properties': {'Name': {}, 'Country': {}, 'Missing': {}}}
+            return {'results': [src], 'has_more': False}
+        with patch.object(sync, 'notion_request', side_effect=fake):
+            with self.assertRaisesRegex(RuntimeError, 'property coverage'):
+                sync.request_pages('dummy-token', 'dummy-source', pause=0)
+
+    def test_long_property_items_are_paginated_and_retained(self):
+        src = page()
+        src['properties']['About (EN)'] = {'type': 'rich_text', 'id': 'encoded%name',
+            'rich_text': [{'plain_text': str(i)} for i in range(25)]}
+        all_items = [{'object': 'property_item', 'type': 'rich_text',
+                      'rich_text': {'plain_text': str(i)}} for i in range(27)]
+        calls = []
+        def fake(token, method, path, body=None):
+            calls.append((method, path))
+            if 'start_cursor=next' in path:
+                return {'object': 'list', 'results': all_items[25:], 'has_more': False}
+            return {'object': 'list', 'results': all_items[:25],
+                    'has_more': True, 'next_cursor': 'next'}
+        with patch.object(sync, 'notion_request', side_effect=fake):
+            output = sync.expand_large_properties(src, 'dummy-token', pause=0)
+        prop = output['properties']['About (EN)']
+        self.assertEqual(len(prop['rich_text']), 27)
+        self.assertEqual(len(prop['full_property_items']), 27)
+        self.assertEqual(sync.rich(prop), ''.join(str(i) for i in range(27)))
+        self.assertEqual(len(calls), 2)
+        self.assertIn('encoded%25name', calls[0][1])
+
+    def test_all_notion_schema_columns_confirmed_on_real_request_path(self):
+        src = page()
+        def fake(token, method, path, body=None):
+            if method == 'GET':
+                return {'properties': {k: {'type': v['type']} for k, v in src['properties'].items()}}
+            self.assertEqual(body['page_size'], 100)
+            return {'results': [src], 'has_more': False}
+        with patch.object(sync, 'notion_request', side_effect=fake):
+            rows = sync.request_pages('dummy-token', 'dummy-source', pause=0)
+        self.assertEqual(len(rows), 1)
+        self.assertEqual(sync.project(rows[0])['notion_page']['properties'], src['properties'])
 
     def test_drop_guard_for_published_directory(self):
         directory, groups, stats = pub.build(self.root, [sync.project(page())])

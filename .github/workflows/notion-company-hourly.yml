@@ -41,7 +41,7 @@ jobs:
           test -n "$SUPABASE_DB_URL" || { echo 'Missing BOHUN_SUPABASE_DB_URL'; exit 1; }
       - name: Preserve previous catalogue for regression check
         run: cp atlas/companies-directory-v1.json "$RUNNER_TEMP/companies-previous.json"
-      - name: Sync the complete live Notion source into private Supabase cache
+      - name: Sync every Notion database property into private Supabase cache
         env:
           NOTION_TOKEN: ${{ secrets.BOHUN_NOTION_TOKEN }}
           SUPABASE_DB_URL: ${{ secrets.BOHUN_SUPABASE_DB_URL }}

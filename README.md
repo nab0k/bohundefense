@@ -12,12 +12,12 @@ Source: `collection://ec8c6312-3bfc-48e8-9a27-3c5827e72fda` in Notion; target Su
 
 ## Files to integrate into the website repository
 
-* `scripts/sync-notion-companies.py` (new): fetches **every** Notion page with API pagination and backoff, performs source-count/ID safety checks, writes only to a new **private source cache** in Supabase and emits an ephemeral build input under `$RUNNER_TEMP`. It does **not** overwrite canonical `companies.company` identities or auto-merge companies by name.
+* `scripts/sync-notion-companies.py` (new): fetches **every** Notion page and **all** of its typed database properties (including multi-item property pagination when necessary), checks live schema coverage, and retries transient API failures, performs source-count/ID safety checks, writes only to a new **private source cache** in Supabase and emits an ephemeral build input under `$RUNNER_TEMP`. It does **not** overwrite canonical `companies.company` identities or auto-merge companies by name.
 * `db/002_notion_company_cache.sql` (new): creates `companies.notion_company_cache` and `companies.notion_sync_run` with RLS and revoked public access. **Only execute after separate database-change approval.**
 * `scripts/build-company-publication.py` (**replacement**): rebuilds the public research directory and country centroid groups from the live source cache output plus the two historical published inputs; keeps the previously agreed research-index statuses and prevents re-import of excluded Notion records from legacy datasets.
 * `scripts/validate-company-publication.py` (new): refuses to release malformed/unsafe JSON or a sudden >25% drop in directory rows.
 * `scripts/verify-live-companies.py` (new): confirms the CDN serves the exact published directory checksum.
-* `.github/workflows/notion-company-hourly.yml` (new): hourly GitHub Actions workflow at minute 13 UTC, with dry tests, Notion extraction, transactional PostgreSQL cache, public build, validation, changed-files-only commit, explicit GitHub Pages deployment, and CDN read-back.
+* `.github/workflows/notion-company-hourly.yml` (new): hourly GitHub Actions workflow at minute 13 UTC, with dry tests, Notion extraction, transactional PostgreSQL cache with full-payload read-back, public build, validation, changed-files-only commit, explicit GitHub Pages deployment, and CDN read-back.
 * `tests/test_company_sync.py` (new): seven isolated unit tests (no live credentials).
 
 ## Editorial and privacy rules
@@ -67,3 +67,11 @@ python scripts/sync-notion-companies.py --fixture /tmp/notion-fixture.json \
 * Additional management capabilities (alerts on repeated failures, 24-hour latency metrics, publish audit dashboards) are valuable follow-up improvements but not prerequisites for the minimal hourly flow.
 
 **Approval boundary:** This package is code preparation only. The live DB migration, GitHub commit/push, Pages configuration and any publication each require explicit approval under BOHUN project rules.
+
+## All-field completeness guarantee (2026-10-23 update)
+
+Every **Notion database column** is retained as its original typed Notion API property under `notion_page.properties` inside `companies.notion_company_cache.payload`. Page metadata also remains available there. The private table is not exposed via public API, and `notion_page` is never added to the website JSON.
+
+A source schema fetch checks that each query result includes every current database column. For list-valued rich text/title/relation/people properties with 25+ items, the script requests the paginated page-property endpoint and preserves all property-item responses; incomplete rollups also trigger a full request. Once written, it reads all saved JSONB payloads back and verifies each field via a canonical SHA-256, as well as count/IDs, in the same transaction. Mismatches abort the transaction and block publishing.
+
+Scope: **database columns and page metadata**, not body blocks, discussions or attachments stored on separate pages. Public directory fields continue to follow the existing BOHUN publication policy. The migration already applied on 2026-10-23 uses JSONB and does not require new DDL to handle these additional properties.
