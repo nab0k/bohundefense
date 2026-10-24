@@ -88,3 +88,13 @@ Before enabling it:
 5. Only then, in **Settings → Secrets and variables → Actions → Variables**, add repository variable `BOHUN_COMPANIES_SYNC_ENABLED` set to `true`. The scheduler then runs at minute 13 every UTC hour; keep the variable unset/false to disable without code changes.
 
 The GitHub connector available in this chat cannot inspect or create repository Actions secrets/variables, change Pages source settings, or dispatch a workflow. No step here confirms these settings already exist. New private Supabase tables have been created and verified empty; the live Notion extraction has not happened.
+
+### Controlled first run (after merging an approved, gated workflow)
+
+GitHub **Actions → BOHUN Companies | Notion → DB → site → Run workflow** provides three manual modes, defaulting to `preview`:
+
+- `preview`: uses only `BOHUN_NOTION_TOKEN`; reads all fields and builds/validates on a temporary runner, **no database write, no commit, no Pages deployment**. Review log counts and errors, not raw records.
+- `sync-only`: additionally uses `BOHUN_SUPABASE_DB_URL`; writes all typed properties to the private cache and verifies every row, but **does not publish the website**.
+- `publish`: explicitly updates the public JSON files, commits to `main`, and deploys GitHub Pages with checksum read-back. Run only after reviewing the `preview` and `sync-only` results.
+
+Scheduled runs use `publish` only when `BOHUN_COMPANIES_SYNC_ENABLED=true`. Keep the toggle absent/false during rollout; manually validate in the order above. This does not assert that the integration or hosting configuration is currently working.
