@@ -1,6 +1,16 @@
 name: BOHUN Companies | Notion → DB → site
 on:
   workflow_dispatch:
+    inputs:
+      mode:
+        description: 'preview (read only), sync-only (private DB), publish (site)'
+        required: true
+        type: choice
+        default: preview
+        options:
+          - preview
+          - sync-only
+          - publish
   pull_request:
     paths:
       - '.github/workflows/notion-company-hourly.yml'
@@ -34,8 +44,12 @@ jobs:
   refresh:
     # A manually dispatched run on an unmerged review branch must never write to Supabase or main.
     # Explicit activation only after credentials and GitHub Pages deployment are verified.
-    if: github.ref == 'refs/heads/main' && vars.BOHUN_COMPANIES_SYNC_ENABLED == 'true'
+    if: >-
+      github.ref == 'refs/heads/main' &&
+      (github.event_name == 'workflow_dispatch' || vars.BOHUN_COMPANIES_SYNC_ENABLED == 'true')
     runs-on: ubuntu-latest
+    env:
+      RUN_MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || 'publish' }}
     timeout-minutes: 25
     outputs:
       changed: ${{ steps.commit.outputs.changed }}
@@ -59,7 +73,9 @@ jobs:
           SUPABASE_DB_URL: ${{ secrets.BOHUN_SUPABASE_DB_URL }}
         run: |
           test -n "$NOTION_TOKEN" || { echo 'Missing BOHUN_NOTION_TOKEN'; exit 1; }
-          test -n "$SUPABASE_DB_URL" || { echo 'Missing BOHUN_SUPABASE_DB_URL'; exit 1; }
+          if [ "$RUN_MODE" != 'preview' ]; then
+            test -n "$SUPABASE_DB_URL" || { echo 'Missing BOHUN_SUPABASE_DB_URL'; exit 1; }
+          fi
       - name: Preserve previous catalogue for regression check
         run: cp atlas/companies-directory-v1.json "$RUNNER_TEMP/companies-previous.json"
       - name: Sync every Notion database property into private Supabase cache
@@ -68,8 +84,13 @@ jobs:
           SUPABASE_DB_URL: ${{ secrets.BOHUN_SUPABASE_DB_URL }}
           NOTION_DATA_SOURCE_ID: ec8c6312-3bfc-48e8-9a27-3c5827e72fda
         run: |
-          python scripts/sync-notion-companies.py --min-records 3000 \
-            --output "$RUNNER_TEMP/notion-companies-snapshot.json"
+          if [ "$RUN_MODE" = 'preview' ]; then
+            python scripts/sync-notion-companies.py --min-records 3000 --dry-run \
+              --output "$RUNNER_TEMP/notion-companies-snapshot.json"
+          else
+            python scripts/sync-notion-companies.py --min-records 3000 \
+              --output "$RUNNER_TEMP/notion-companies-snapshot.json"
+          fi
       - name: Build public directory and country groups
         run: python scripts/build-company-publication.py "$RUNNER_TEMP/notion-companies-snapshot.json"
       - name: Validate before publishing
@@ -77,6 +98,7 @@ jobs:
           python scripts/validate-company-publication.py \
             --previous "$RUNNER_TEMP/companies-previous.json"
       - name: Commit verified public data only
+        if: env.RUN_MODE == 'publish'
         id: commit
         run: |
           if git diff --quiet -- atlas/companies-directory-v1.json atlas/company-country-groups.geojson; then
