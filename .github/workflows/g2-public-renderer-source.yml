@@ -1,0 +1,20 @@
+name: G2 Public Renderer Source for Local Visual QA
+on:
+  push:
+    branches: [feature/g1-private-profile-review-20261022]
+    paths: ['.github/workflows/g2-public-renderer-source.yml']
+permissions:
+  contents: read
+jobs:
+  export-public-renderer:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Bundle strict allowlist of public SITE renderer files
+        run: |
+          tar -czf /tmp/g2_renderer.tar.gz             company-profile.html             assets/atmo22/company.js assets/atmo22/company.css             assets/atmo22/data.js assets/atmo22/shell.js             assets/atmo22/shell.css assets/atmo22/tokens.css             assets/atmo22/flags.js assets/atmo22/halftone.js             assets/atmo22/g1-private-loader.js assets/atmo22/icons.svg atlas/countries.geojson logo_gold.png
+      - uses: actions/upload-artifact@v4
+        with:
+          name: g2-public-code-only
+          path: /tmp/g2_renderer.tar.gz
+          retention-days: 1

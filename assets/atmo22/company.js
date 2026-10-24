@@ -5,6 +5,7 @@
  */
 import { directory, industry, researchMap, countries, wire, demo, isDemo, TAXONOMY, STATUS_LABEL, COUNTRY, countryName, regionOf, esc, norm, safeUrl, hostOf, companyHref, SOURCES } from './data.js';
 import { mountShell, icon } from './shell.js';
+import { loadPrivateReviewVM } from './g1-private-loader.js';
 import { drawHalftone, bboxAround } from './halftone.js';
 import { flag } from './flags.js';
 
@@ -130,7 +131,7 @@ function heroWorkspace(vm) {
       <div class="hero-grid">
         <div class="hero-about">
           <p class="about">${vm.about.workspace ? esc(vm.about.workspace) : '<span class="muted">No public description available.</span>'}</p>
-          ${vm.mode !== 'demo' ? `<p class="caption">Description from the public research index · not independently verified${vm.legacy ? ` · legacy category “${esc(vm.legacy)}”, not mapped to A/B/C` : ''}</p>` : ''}
+          ${vm.mode === 'g2_private' ? '<p class="caption">Private G2 source-linked research · QA pending · NOT PUBLISHED.</p>' : vm.mode !== 'demo' ? `<p class="caption">Description from the public research index · not independently verified${vm.legacy ? ` · legacy category “${esc(vm.legacy)}”, not mapped to A/B/C` : ''}</p>` : ''}
           ${facts(vm.facts.workspace)}
         </div>
         <div class="hero-attrs"><h3>Key attributes</h3><div class="chips">${vm.attributes.length ? vm.attributes.map(a => `<span class="chip chip-soft">${esc(a)}</span>`).join('') : '<span class="chip is-none">Not assigned</span>'}</div></div>
@@ -183,7 +184,7 @@ function classification(vm, ws) {
     </div>${note}`;
     return panel('classification', '01', 'Industrial classification (A / B / C)', 'Company activities in the BOHUN taxonomy. Based on verified information.', body, ['View full taxonomy mapping', '/about-project.html#taxonomy'], 'p-classification');
   }
-  const techItems = demoMode ? t.overviewTechnologies : TAXONOMY.technologies.map(([c, l]) => [c, l]);
+  const techItems = vm.mode === 'g2_private' ? vm.technologies.map(([name, code]) => [code, code.split(' ')[0] + ' · ' + name]) : demoMode ? t.overviewTechnologies : TAXONOMY.technologies.map(([c, l]) => [c, l]);
   return `<div class="ov-class"><h2 class="ov-class-title">Industrial classification <span>(BOHUN taxonomy)</span></h2>
     <div class="tax-grid tax-ov">
       ${taxCol('A. Domains', domainsList, t.domains, { icons: true })}
@@ -199,7 +200,7 @@ function developments(vm, ws) {
   const list = ws ? vm.developments.slice(0, 4) : vm.developments;
   const body = list.length
     ? `<ol class="${ws ? 'timeline' : 'devlist'}">${list.map(d => `<li><span class="tdot tdot-${d.color}"></span><time class="tnum">${esc(d.date)}</time><div class="dev-main">${d.href ? `<a href="${esc(d.href)}" target="_blank" rel="noopener noreferrer">${esc(d.title)}</a>` : `<span>${esc(d.title)}</span>`}<div class="tags">${tags(d.tags)}</div></div>${ws ? icon('chevron-right', 'ico ico-s dev-go') : ''}</li>`).join('')}</ol>
-       ${vm.mode !== 'demo' ? '<p class="caption">Publisher headlines that mention the company. Not independently reviewed.</p>' : ''}`
+       ${vm.mode === 'g2_private' ? '<p class="caption">Review-only developments. Announced future events are not confirmed attendance.</p>' : vm.mode !== 'demo' ? '<p class="caption">Publisher headlines that mention the company. Not independently reviewed.</p>' : ''}`
     : empty('newspaper', 'No attributed developments yet. The current source wire has no headline naming this company; reviewed BOHUN events will appear here.');
   return panel('developments', '02', 'Recent developments', `Verified and attributed updates about ${esc(vm.name)}.`, body, ['View all company news', '/?view=today']);
 }
@@ -266,7 +267,7 @@ function evidence(vm, ws) {
     <ul class="evid ${ws ? 'evid-ws' : 'evid-ov'}">${list.map(e => ws
       ? `<li>${/^verified/i.test(e.status) ? icon('circle-check', 'ico ev-ok') : /partial/i.test(e.status) ? icon('circle-alert', 'ico ev-warn') : icon('circle-dot', 'ico ev-neutral')}<div><b>${e.href ? `<a href="${esc(e.href)}" target="_blank" rel="noopener noreferrer">${esc(e.claim)}</a>` : esc(e.claim)}</b><small>${e.sources} source${e.sources === 1 ? '' : 's'}${e.date ? ' · ' + esc(e.date) : ' · ' + esc(e.source)}</small></div>${statusPill(e.status)}</li>`
       : `<li>${statusPill(e.status)}<div><b>${esc(e.claim)}</b><small>${e.sources} source${e.sources === 1 ? '' : 's'}${e.date ? ' · ' + esc(e.date) : ''}</small></div><a class="ev-src" ${e.href ? `href="${esc(e.href)}" target="_blank" rel="noopener noreferrer"` : ''}>${icon('file-text', 'ico ico-s')}${esc(e.source)}</a></li>`).join('')}</ul>
-    ${vm.mode !== 'demo' ? '<p class="caption">Provenance of the public record only. No claim-by-claim audit has been published.</p>' : ''}`;
+    ${vm.mode === 'g2_private' ? '<p class="caption">Private G2 evidence: claim-level links retained · HOLD · source originals not archived.</p>' : vm.mode !== 'demo' ? '<p class="caption">Provenance of the public record only. No claim-by-claim audit has been published.</p>' : ''}`;
   return panel('evidence', '07', ws ? 'Evidence & sources' : 'Sources & evidence', 'Key claims with linked sources and verification status.', body, ['View all claims and sources', '#']);
 }
 
@@ -288,10 +289,10 @@ function render() {
        <div class="row ws-r1">${classification(vm, true)}${developments(vm, true)}${programmes(vm, true)}</div>
        <div class="row ws-r2">${productTree(vm)}${technologies(vm)}${relationships(vm, true)}${evidence(vm, true)}</div>`
     : `${heroOverview(vm)}
-       <section class="panel ov-r1" aria-label="Summary and classification">${demoTag()}<div class="ov-summary"><p class="about">${vm.about.overview ? esc(vm.about.overview) : '<span class="muted">No public description available.</span>'}</p>${vm.mode !== 'demo' ? '<p class="caption">From the public research index · not independently verified</p>' : ''}${facts(vm.facts.overview)}</div>${classification(vm, false)}</section>
+       <section class="panel ov-r1" aria-label="Summary and classification">${demoTag()}<div class="ov-summary"><p class="about">${vm.about.overview ? esc(vm.about.overview) : '<span class="muted">No public description available.</span>'}</p>${vm.mode === 'g2_private' ? '<p class="caption">G2 PRIVATE HOLD · Content not QA approved or published.</p>' : vm.mode !== 'demo' ? '<p class="caption">From the public research index · not independently verified</p>' : ''}${facts(vm.facts.overview)}</div>${classification(vm, false)}</section>
        <div class="row ov-r2">${developments(vm, false)}${productAccordion(vm)}${relationships(vm, false)}</div>
        <div class="row ov-r3">${programmes(vm, false)}${evidence(vm, false)}${footprint(vm)}</div>`;
-  content.insertAdjacentHTML('beforeend', `<footer class="page-foot">Public beta · Research index coverage is incomplete · Companies are not Bohun Defence clients or partners · City-centre markers are not facility addresses · <a href="/about-project.html">Methodology &amp; limitations</a></footer>`);
+  content.insertAdjacentHTML('beforeend', vm.mode === 'g2_private' ? '<footer class="page-foot">PRIVATE G2 REVIEW · HOLD · claims not editorially approved · no public release · original sources not archived.</footer>' : `<footer class="page-foot">Public beta · Research index coverage is incomplete · Companies are not Bohun Defence clients or partners · City-centre markers are not facility addresses · <a href="/about-project.html">Methodology &amp; limitations</a></footer>`);
   bind();
   drawMaps();
 }
@@ -375,6 +376,21 @@ function renderPicker(items, msg) {
 
 async function main() {
   mountShell({ active: 'companies', variant: state.view });
+  // G1 private-review route is loopback-only, never a public company path.
+  // It displays the existing real company.js layout using a HOLD-only VM.
+  if (isDemo() === false && ['localhost','127.0.0.1','[::1]'].includes(location.hostname)
+      && params.has('g1_candidate')) {
+    try {
+      state.vm = await loadPrivateReviewVM(params.get('g1_candidate'), {hostname: location.hostname});
+      document.getElementById('demo-banner').innerHTML =
+        '<div class="demo-banner g2-private-review-banner" role="note"><strong>G2 PRIVATE REVIEW · HOLD · NOT PUBLISHED</strong></div>';
+      remountShell();
+      render();
+    } catch {
+      content.innerHTML = '<section class="hero hero-pick"><h1 class="name">Private review unavailable</h1><p>No company profile was published or substituted.</p></section>';
+    }
+    return;
+  }
   let items;
   try { items = await directory(); } catch {
     content.innerHTML = `<section class="hero hero-pick"><h1 class="name">Company intelligence</h1>${empty('circle-alert', 'The public research index is temporarily unavailable. No substitute data is shown.')}</section>`;

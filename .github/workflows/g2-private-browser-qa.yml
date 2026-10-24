@@ -1,0 +1,36 @@
+name: G2 Real SITE Private Layout QA (SYNTHETIC, NO DEPLOY)
+on:
+  push:
+    branches: [feature/g1-private-profile-review-20261022]
+    paths:
+      - 'company-profile.html'
+      - 'assets/atmo22/**'
+      - 'scripts/g2-private-browser-qa.py'
+      - '.github/workflows/g2-private-browser-qa.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  g2-synthetic-real-site:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install pinned Playwright and Chromium on supported runner
+        run: |
+          python -m pip install playwright==1.55.0
+          python -m playwright install --with-deps chromium
+      - name: Browser test actual company-profile.html Workspace and Overview
+        run: |
+          python scripts/g2-private-browser-qa.py --screenshot-dir /tmp/g2-synthetic-shots
+      - name: Upload synthetic-only screenshots and QA result
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: g2-private-page-SYNTHETIC-qa
+          path: /tmp/g2-synthetic-shots/
+          if-no-files-found: warn
+          retention-days: 7
