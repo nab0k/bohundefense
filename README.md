@@ -75,3 +75,16 @@ Every **Notion database column** is retained as its original typed Notion API pr
 A source schema fetch checks that each query result includes every current database column. For list-valued rich text/title/relation/people properties with 25+ items, the script requests the paginated page-property endpoint and preserves all property-item responses; incomplete rollups also trigger a full request. Once written, it reads all saved JSONB payloads back and verifies each field via a canonical SHA-256, as well as count/IDs, in the same transaction. Mismatches abort the transaction and block publishing.
 
 Scope: **database columns and page metadata**, not body blocks, discussions or attachments stored on separate pages. Public directory fields continue to follow the existing BOHUN publication policy. The migration already applied on 2026-10-23 uses JSONB and does not require new DDL to handle these additional properties.
+## 2026-10-24 activation gate and manual setup
+
+The hourly publication job is intentionally **disabled by default**. It runs only from `main` when the repository Actions configuration variable `BOHUN_COMPANIES_SYNC_ENABLED` is exactly `true`. PRs run offline tests only, without Notion/DB secrets and without publication. This prevents repeated failed production jobs before access setup.
+
+Before enabling it:
+
+1. In GitHub repository **Settings → Secrets and variables → Actions → Secrets**, add or confirm `BOHUN_NOTION_TOKEN`, a read-only Notion integration token with access to source data source `ec8c6312-3bfc-48e8-9a27-3c5827e72fda`.
+2. In the same location, add or confirm `BOHUN_SUPABASE_DB_URL`, a PostgreSQL SSL session-pooler connection URL for project `tecrucawzukxqtchpxrh`, with access restricted to the private cache and run tables. Never send the URL/password in chat or commit it.
+3. In GitHub **Settings → Pages → Build and deployment**, confirm **Source: GitHub Actions**. Changing the current Pages source should be coordinated with the existing production release workflow so it does not interrupt the site.
+4. Validate a **single** real Notion API read and private DB write/read-back with production credentials in a controlled run; inspect exclusions, catalogue diff, and browser smoke tests before enabling public auto-release.
+5. Only then, in **Settings → Secrets and variables → Actions → Variables**, add repository variable `BOHUN_COMPANIES_SYNC_ENABLED` set to `true`. The scheduler then runs at minute 13 every UTC hour; keep the variable unset/false to disable without code changes.
+
+The GitHub connector available in this chat cannot inspect or create repository Actions secrets/variables, change Pages source settings, or dispatch a workflow. No step here confirms these settings already exist. New private Supabase tables have been created and verified empty; the live Notion extraction has not happened.
