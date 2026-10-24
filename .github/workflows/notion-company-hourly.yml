@@ -1,6 +1,13 @@
 name: BOHUN Companies | Notion → DB → site
 on:
   workflow_dispatch:
+  pull_request:
+    paths:
+      - '.github/workflows/notion-company-hourly.yml'
+      - 'scripts/sync-notion-companies.py'
+      - 'scripts/build-company-publication.py'
+      - 'scripts/validate-company-publication.py'
+      - 'tests/test_company_sync.py'
   schedule:
     - cron: '13 * * * *'  # every hour, less congested than minute 0
 permissions:
@@ -11,9 +18,23 @@ concurrency:
   group: notion-companies-hourly
   cancel-in-progress: false
 jobs:
+  test:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Offline company-sync tests (no external credentials)
+        run: python -m unittest discover -s tests -p 'test_company_sync.py' -v
   refresh:
     # A manually dispatched run on an unmerged review branch must never write to Supabase or main.
-    if: github.ref == 'refs/heads/main'
+    # Explicit activation only after credentials and GitHub Pages deployment are verified.
+    if: github.ref == 'refs/heads/main' && vars.BOHUN_COMPANIES_SYNC_ENABLED == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 25
     outputs:
