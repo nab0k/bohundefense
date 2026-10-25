@@ -3,6 +3,286 @@
   "notice": "Publisher headlines only; not independently reviewed or fact-checked by Bohun Defence.",
   "items": [
     {
+      "title": "USS Pinckney undergoes upgrade with U.S. Navy’s first SPY-6(V)4 radar installation",
+      "url": "https://defence-industry.eu/uss-pinckney-undergoes-upgrade-with-u-s-navys-first-spy-6v4-radar-installation/",
+      "published_at": "2026-10-25T22:51:00+00:00"
+    },
+    {
+      "title": "Kratos pushes into European market through Airbus partnership in Germany",
+      "url": "https://defence-industry.eu/u-s-drone-maker-kratos-pushes-into-european-market-through-airbus-partnership-in-germany/",
+      "published_at": "2026-10-25T22:18:13+00:00"
+    },
+    {
+      "title": "Griechenland erhält drei Embraer C-390M via Lissabon",
+      "url": "https://militaeraktuell.at/griechenland-drei-kc-390-millennium-portugal/",
+      "published_at": "2026-10-25T22:02:42+00:00"
+    },
+    {
+      "title": "Major European countries do not want to renew energy alliances with Russia — Zelensky",
+      "url": "https://www.ukrinform.net/rubric-polytics/4178079-major-european-countries-do-not-want-to-renew-energy-alliances-with-russia-zelensky.html",
+      "published_at": "2026-10-25T21:56:00+00:00"
+    },
+    {
+      "title": "U.S. Army: DARPA tests autonomous vehicles at Fort Knox with human-controlled strikes",
+      "url": "https://defence-industry.eu/u-s-army-darpa-tests-autonomous-vehicles-at-fort-knox-with-human-controlled-strikes/",
+      "published_at": "2026-10-25T21:49:36+00:00"
+    },
+    {
+      "title": "Schiebel: Fliegende Kamera mit Waffe",
+      "url": "https://militaeraktuell.at/schiebel-fliegende-kamera-mit-waffe/",
+      "published_at": "2026-10-25T21:46:03+00:00"
+    },
+    {
+      "title": "Fire in residential building in Kharkiv kills one person and injures five others",
+      "url": "https://www.ukrinform.net/rubric-ato/4178077-fire-in-residential-building-in-kharkiv-kills-one-person-and-injures-five-others.html",
+      "published_at": "2026-10-25T21:28:00+00:00"
+    },
+    {
+      "title": "Japan: Multinationales Manöver „Keen Sword” mit über 57.000 Soldaten",
+      "url": "https://militaeraktuell.at/japan-multinationales-manoever-keen-sword/",
+      "published_at": "2026-10-25T21:17:39+00:00"
+    },
+    {
+      "title": "Valhalla Turrets entwickelte neuen Anti-Drohnen-Turm",
+      "url": "https://militaeraktuell.at/valhalla-turrets-entwickelte-anti-drohnen-turm/",
+      "published_at": "2026-10-25T21:07:06+00:00"
+    },
+    {
+      "title": "Zelensky on Oleshky evacuation: Russia will try to force residents to flee to its territory",
+      "url": "https://www.ukrinform.net/rubric-society/4178076-zelensky-on-oleshky-evacuation-russia-will-try-to-force-residents-to-flee-to-its-territory.html",
+      "published_at": "2026-10-25T20:58:00+00:00"
+    },
+    {
+      "title": "U.S. Navy orders next-generation electronic attack units to modernize EA-18G Growler fleet",
+      "url": "https://defence-industry.eu/u-s-navy-orders-next-generation-electronic-attack-units-to-modernize-ea-18g-growler-fleet/",
+      "published_at": "2026-10-25T20:55:24+00:00"
+    },
+    {
+      "title": "President: Ukraine ready to halt strikes on oil refineries if Russia stops attacks on energy sector",
+      "url": "https://www.ukrinform.net/rubric-ato/4178073-president-ukraine-ready-to-halt-strikes-on-oil-refineries-if-russia-stops-attacks-on-energy-sector.html",
+      "published_at": "2026-10-25T20:28:00+00:00"
+    },
+    {
+      "title": "Navantia launches seventh Avante corvette for Saudi Arabia",
+      "url": "https://www.navalnews.com/naval-news/2026/10/navantia-launches-seventh-avante-corvette-for-saudi-arabia/",
+      "published_at": "2026-10-25T20:18:05+00:00"
+    },
+    {
+      "title": "Zelensky announces security meeting in Brussels with U.S., Ukrainian, EU and NATO representatives",
+      "url": "https://www.ukrinform.net/rubric-polytics/4178071-zelensky-announces-security-meeting-in-brussels-with-us-ukrainian-eu-and-nato-representatives.html",
+      "published_at": "2026-10-25T19:58:00+00:00"
+    },
+    {
+      "title": "Lib Dems propose six more frigates for Royal Navy",
+      "url": "https://ukdefencejournal.org.uk/lib-dems-propose-six-more-frigates-for-royal-navy/",
+      "published_at": "2026-10-25T19:35:09+00:00"
+    },
+    {
+      "title": "Zelensky: Energy truce could signal Russia’s readiness to end war",
+      "url": "https://www.ukrinform.net/rubric-polytics/4178070-zelensky-energy-truce-could-signal-russias-readiness-to-end-war.html",
+      "published_at": "2026-10-25T19:35:00+00:00"
+    },
+    {
+      "title": "Zelensky warns against lifting sanctions on Russia “just to have chat”",
+      "url": "https://www.ukrinform.net/rubric-polytics/4178067-zelensky-warns-against-lifting-sanctions-on-russia-just-to-have-chat.html",
+      "published_at": "2026-10-25T19:00:00+00:00"
+    },
+    {
+      "title": "Alex Depledge quits UK treasury job over 'sideshow' treatment of scaleups",
+      "url": "https://sifted.eu/articles/alex-depledge-quits-uk-startups-scaleups-sideshow/",
+      "published_at": "2026-10-25T18:43:50+00:00"
+    },
+    {
+      "title": "Zelensky: Public outcry helped restore Starlink speeds to required levels",
+      "url": "https://www.ukrinform.net/rubric-ato/4178066-zelensky-public-outcry-helped-restore-starlink-speeds-to-required-levels.html",
+      "published_at": "2026-10-25T18:38:00+00:00"
+    },
+    {
+      "title": "Kongsberg plans to bring Zone 5 missiles to Australian market and explore local production",
+      "url": "https://defence-industry.eu/kongsberg-plans-to-bring-zone-5-missiles-to-australian-market-and-explore-local-production/",
+      "published_at": "2026-10-25T18:18:59+00:00"
+    },
+    {
+      "title": "Russian forces attack three districts in Dnipropetrovsk region, injuring one person",
+      "url": "https://www.ukrinform.net/rubric-ato/4178064-russian-forces-attack-three-districts-in-dnipropetrovsk-region-injuring-one-person.html",
+      "published_at": "2026-10-25T18:07:00+00:00"
+    },
+    {
+      "title": "U.S. Central Command says Strait of Hormuz shipping routes remain clear of Iranian mines",
+      "url": "https://defence-industry.eu/u-s-central-command-says-strait-of-hormuz-shipping-routes-remain-clear-of-iranian-mines/",
+      "published_at": "2026-10-25T18:04:50+00:00"
+    },
+    {
+      "title": "Russian forces strike Kharkiv's Osnovianskyi district",
+      "url": "https://www.ukrinform.net/rubric-ato/4178047-russian-forces-strike-kharkivs-osnovianskyi-district.html",
+      "published_at": "2026-10-25T17:30:00+00:00"
+    },
+    {
+      "title": "Saab offers to build Gripen fighters in Canada as part of bid for mixed fleet with F-35s",
+      "url": "https://defence-industry.eu/saab-offers-to-build-gripen-fighters-in-canada-as-part-of-bid-for-mixed-fleet-with-f-35s/",
+      "published_at": "2026-10-25T17:24:29+00:00"
+    },
+    {
+      "title": "Injury toll from Russian attack on Vinnytsia rises to seven, search and rescue operations completed",
+      "url": "https://www.ukrinform.net/rubric-ato/4178043-injury-toll-from-russian-attack-on-vinnytsia-rises-to-seven-search-and-rescue-operations-completed.html",
+      "published_at": "2026-10-25T16:57:00+00:00"
+    },
+    {
+      "title": "Lubinets calls for information about people in Oleshky who need help",
+      "url": "https://www.ukrinform.net/rubric-society/4178035-lubinets-calls-for-information-about-people-in-oleshky-who-need-help.html",
+      "published_at": "2026-10-25T16:25:00+00:00"
+    },
+    {
+      "title": "Man injured in Russian drone attack on minibus dies in Kherson hospital",
+      "url": "https://www.ukrinform.net/rubric-ato/4178031-man-injured-in-russian-drone-attack-on-minibus-dies-in-kherson-hospital.html",
+      "published_at": "2026-10-25T16:00:00+00:00"
+    },
+    {
+      "title": "Kyiv plans to add more than 1.5 GW of thermal generation capacity",
+      "url": "https://www.ukrinform.net/rubric-economy/4178024-kyiv-plans-to-add-more-than-15-gw-of-thermal-generation-capacity.html",
+      "published_at": "2026-10-25T15:27:00+00:00"
+    },
+    {
+      "title": "Russian drone attacks minibus in Kherson, injuring six",
+      "url": "https://www.ukrinform.net/rubric-ato/4178020-russian-drone-attacks-minibus-in-kherson-injuring-six.html",
+      "published_at": "2026-10-25T14:55:00+00:00"
+    },
+    {
+      "title": "Kremlin says preparations underway for Trump-Xi-Putin meeting",
+      "url": "https://www.ukrinform.net/rubric-ato/4178019-kremlin-says-preparations-underway-for-trumpxiputin-meeting.html",
+      "published_at": "2026-10-25T14:32:00+00:00"
+    },
+    {
+      "title": "Russian attacks spark fires in Sumy region, one person injured",
+      "url": "https://www.ukrinform.net/rubric-ato/4178014-russian-attacks-spark-fires-in-sumy-region-one-person-injured.html",
+      "published_at": "2026-10-25T14:10:00+00:00"
+    },
+    {
+      "title": "Overnight Russian attack damages homes in two districts of Vinnytsia",
+      "url": "https://www.ukrinform.net/rubric-ato/4178008-overnight-russian-attack-damages-homes-in-two-districts-of-vinnytsia.html",
+      "published_at": "2026-10-25T13:44:00+00:00"
+    },
+    {
+      "title": "Lockheed Martin says Vectis, F-35 and PAC-3 underpin defense industrial investment strategy",
+      "url": "https://defence-industry.eu/lockheed-martin-says-investments-expand-vectis-production-and-advance-lower-cost-pac-3-interceptor/",
+      "published_at": "2026-10-25T13:30:15+00:00"
+    },
+    {
+      "title": "Missile strike hits Russian defense plant Energia in Lipetsk region – media",
+      "url": "https://www.ukrinform.net/rubric-ato/4178007-missile-strike-hits-russian-defense-plant-energia-in-lipetsk-region-media.html",
+      "published_at": "2026-10-25T13:23:00+00:00"
+    },
+    {
+      "title": "Helheim: Why the Vikings’ Dark Underworld Wasn’t Always a Place to Fear",
+      "url": "https://indiandefencereview.com/helheim-why-the-vikings-dark-underworld/",
+      "published_at": "2026-10-25T13:00:00+00:00"
+    },
+    {
+      "title": "Norway arms itself against Russia. South Korean missiles and Russian coal",
+      "url": "https://defence24.com/defence-policy/norway-arms-itself-against-russia-south-korean-missiles-and-russian-coal",
+      "published_at": "2026-10-25T13:00:00+00:00"
+    },
+    {
+      "title": "Drones attack plant owned by Russia’s largest titanium producer in Perm Krai, media report",
+      "url": "https://www.ukrinform.net/rubric-ato/4177998-drones-attack-plant-owned-by-russias-largest-titanium-producer-in-perm-krai-media-report.html",
+      "published_at": "2026-10-25T12:59:00+00:00"
+    },
+    {
+      "title": "An AI Was Left Alone on an Island With Nothing to Do. It Invented Its Own Games and Got Better at Solving Problems",
+      "url": "https://indiandefencereview.com/ai-left-alone-island-invented-games-got-better-solving-problems/",
+      "published_at": "2026-10-25T12:30:00+00:00"
+    },
+    {
+      "title": "Government allocates nearly UAH 188M to repair 33 homes damaged by Russian attacks",
+      "url": "https://www.ukrinform.net/rubric-society/4177996-government-allocates-nearly-uah-188m-to-repair-33-homes-damaged-by-russian-attacks.html",
+      "published_at": "2026-10-25T12:29:00+00:00"
+    },
+    {
+      "title": "Quantum Systems demonstrates unmanned air, land and sea operations with MOSAIC UXS software",
+      "url": "https://defence-industry.eu/quantum-systems-demonstrates-unmanned-air-land-and-sea-operations-with-mosaic-uxs-software/",
+      "published_at": "2026-10-25T12:28:50+00:00"
+    },
+    {
+      "title": "Russian forces strike Epicenter stores in four cities over past 24 hours",
+      "url": "https://www.ukrinform.net/rubric-ato/4177995-russian-forces-strike-epicenter-stores-in-four-cities-over-past-24-hours.html",
+      "published_at": "2026-10-25T12:04:00+00:00"
+    },
+    {
+      "title": "Genetically Modified Dogs Are Coming, and the US Military Could Be Their First Customer",
+      "url": "https://indiandefencereview.com/genetically-modified-dogs-are-coming/",
+      "published_at": "2026-10-25T12:00:00+00:00"
+    },
+    {
+      "title": "Le standard 2 du futur avion de renseignement électronique Falcon ARCHANGE est déjà en cours de développement",
+      "url": "https://www.opex360.com/2026/10/25/le-standard-2-du-futur-avion-de-renseignement-electronique-falcon-archange-est-deja-en-cours-de-developpement/",
+      "published_at": "2026-10-25T11:58:08+00:00"
+    },
+    {
+      "title": "Russian drone attack in Kyiv region injures woman",
+      "url": "https://www.ukrinform.net/rubric-ato/4177987-russian-drone-attack-in-kyiv-region-injures-woman.html",
+      "published_at": "2026-10-25T11:37:00+00:00"
+    },
+    {
+      "title": "U.S. tests SpaceX Starfall capsule for rapid military resupply under Rocket Cargo program",
+      "url": "https://defence-industry.eu/u-s-tests-spacex-starfall-capsule-for-rapid-military-resupply-under-rocket-cargo-program/",
+      "published_at": "2026-10-25T11:31:45+00:00"
+    },
+    {
+      "title": "The UN Warns the 1.5°C Climate Goal Is Slipping Away, and Even the Best-Case Scenario Won’t Save It",
+      "url": "https://indiandefencereview.com/un-warns-1-5c-climate-goal-slipping-away/",
+      "published_at": "2026-10-25T11:30:00+00:00"
+    },
+    {
+      "title": "L’armée de Terre pourrait créer au moins dix régiments ou bataillons supplémentaires après 2030",
+      "url": "https://www.opex360.com/2026/10/25/larmee-de-terre-pourrait-creer-au-moins-dix-regiments-ou-bataillons-supplementaires-apres-2030/",
+      "published_at": "2026-10-25T11:04:32+00:00"
+    },
+    {
+      "title": "Kuwait’s defence dilemma. Modern weapons and vulnerable supply routes",
+      "url": "https://defence24.com/geopolitics/kuwaits-defence-dilemma-modern-weapons-and-vulnerable-supply-routes",
+      "published_at": "2026-10-25T11:00:02+00:00"
+    },
+    {
+      "title": "General Staff: Ukrainian forces destroy Russian radar systems, command post and personnel",
+      "url": "https://www.ukrinform.net/rubric-ato/4177973-general-staff-ukrainian-forces-destroy-russian-radar-systems-command-post-and-personnel.html",
+      "published_at": "2026-10-25T10:58:00+00:00"
+    },
+    {
+      "title": "NG troops deliver baby food to Oleshky",
+      "url": "https://www.ukrinform.net/rubric-society/4177971-ng-troops-deliver-baby-food-to-oleshky.html",
+      "published_at": "2026-10-25T10:36:00+00:00"
+    },
+    {
+      "title": "Italy places first order for Rheinmetall Panther-based main battle tanks in €3.7 billion deal, report says",
+      "url": "https://defence-industry.eu/italy-places-first-order-for-rheinmetall-panther-based-main-battle-tanks-in-e3-7-billion-deal-report-says/",
+      "published_at": "2026-10-25T10:28:31+00:00"
+    },
+    {
+      "title": "Up to two billion pounds to replace the SA80 rifle",
+      "url": "https://ukdefencejournal.org.uk/up-to-two-billion-pounds-to-replace-the-sa80-rifle/",
+      "published_at": "2026-10-25T10:20:52+00:00"
+    },
+    {
+      "title": "Russian drone strikes Epicenter shopping center in Poltava, injuring one person",
+      "url": "https://www.ukrinform.net/rubric-ato/4177970-russian-drone-strikes-epicenter-shopping-center-in-poltava-injuring-one-person.html",
+      "published_at": "2026-10-25T10:17:00+00:00"
+    },
+    {
+      "title": "EDGE integrates autonomous vessels and counter-drone systems in demo with UAE and U.S navies.",
+      "url": "https://defence-industry.eu/edge-integrates-autonomous-vessels-and-counter-drone-systems-in-demo-with-uae-and-u-s-navies/",
+      "published_at": "2026-10-25T10:15:34+00:00"
+    },
+    {
+      "title": "Funding, force-structure issues could hinder Hegseth’s new autonomous command",
+      "url": "https://www.defenseone.com/threats/2026/10/funding-hegseth-autonomous-command/416800/",
+      "published_at": "2026-10-25T10:00:00+00:00"
+    },
+    {
+      "title": "Zelensky: Russia launches 1,600 guided bombs, 48 missiles and nearly 2,300 attack drones at Ukraine in one week",
+      "url": "https://www.ukrinform.net/rubric-ato/4177961-zelensky-russia-launches-1600-guided-bombs-48-missiles-and-nearly-2300-attack-drones-at-ukraine-in-one-week.html",
+      "published_at": "2026-10-25T09:38:00+00:00"
+    },
+    {
       "title": "Coast Guard Icebreakers and the Finland Model: A Blueprint for the U.S. Navy?",
       "url": "https://www.navalnews.com/features/2026/10/coast-guard-icebreakers-finland-model/",
       "published_at": "2026-10-25T09:28:34+00:00"
@@ -221,286 +501,6 @@
       "title": "Ternopil region serviceman captured while seriously wounded returns home after four years in captivity",
       "url": "https://www.ukrinform.net/rubric-ato/4177853-ternopil-region-serviceman-captured-while-seriously-wounded-returns-home-after-four-years-in-captivity.html",
       "published_at": "2026-10-24T16:30:00+00:00"
-    },
-    {
-      "title": "Drones attack industrial hub in Russia's Omsk &ndash; social media",
-      "url": "https://www.ukrinform.net/rubric-ato/4177846-drones-attack-industrial-hub-in-russias-omsk-social-media.html",
-      "published_at": "2026-10-24T16:07:00+00:00"
-    },
-    {
-      "title": "Protector drone flight over Channel was not for Home Office",
-      "url": "https://ukdefencejournal.org.uk/protector-drone-flight-over-channel-was-not-for-home-office/",
-      "published_at": "2026-10-24T16:00:15+00:00"
-    },
-    {
-      "title": "Russian forces strike Chernihiv, fire breaks out, two injured",
-      "url": "https://www.ukrinform.net/rubric-ato/4177845-russian-forces-strike-chernihiv-fire-breaks-out-two-injured.html",
-      "published_at": "2026-10-24T15:45:00+00:00"
-    },
-    {
-      "title": "Bundesheer: Modernisierte Fliegerabwehrkanonen feiern Premiere am Heldenplatz",
-      "url": "https://militaeraktuell.at/modernisierte-fliegerabwehrkanonen-heldenplatz/",
-      "published_at": "2026-10-24T15:34:30+00:00"
-    },
-    {
-      "title": "Bluebottle maker opens Sydney plant for forty vessels",
-      "url": "https://ukdefencejournal.org.uk/bluebottle-maker-opens-sydney-plant-for-forty-vessels/",
-      "published_at": "2026-10-24T15:30:48+00:00"
-    },
-    {
-      "title": "President announces changes in regions and discusses preparations for winter",
-      "url": "https://www.ukrinform.net/rubric-polytics/4177839-president-announces-changes-in-regions-and-discusses-preparations-for-winter.html",
-      "published_at": "2026-10-24T15:23:00+00:00"
-    },
-    {
-      "title": "Review under way on array that detects nuclear tests",
-      "url": "https://ukdefencejournal.org.uk/review-under-way-on-array-that-detects-nuclear-tests/",
-      "published_at": "2026-10-24T15:00:02+00:00"
-    },
-    {
-      "title": "Zelensky: Ukraine awaits air defense interceptors, preparing meetings with partners",
-      "url": "https://www.ukrinform.net/rubric-polytics/4177837-zelensky-ukraine-awaits-air-defense-interceptors-preparing-meetings-with-partners.html",
-      "published_at": "2026-10-24T15:00:00+00:00"
-    },
-    {
-      "title": "Lutte antidrone : Un système d’arme laser a été testé à bord du porte-avions Charles de Gaulle",
-      "url": "https://www.opex360.com/2026/10/24/lutte-antidrone-un-systeme-darme-laser-a-ete-teste-a-bord-du-porte-avions-charles-de-gaulle/",
-      "published_at": "2026-10-24T14:53:39+00:00"
-    },
-    {
-      "title": "Russian drones attack farm in Sumy region, one killed, four injured",
-      "url": "https://www.ukrinform.net/rubric-ato/4177835-russian-drones-attack-farm-in-sumy-region-one-killed-four-injured.html",
-      "published_at": "2026-10-24T14:37:00+00:00"
-    },
-    {
-      "title": "Starlink and Starshield back to required speeds – Zelensky",
-      "url": "https://www.ukrinform.net/rubric-polytics/4177827-starlink-and-starshield-back-to-required-speeds-zelensky.html",
-      "published_at": "2026-10-24T14:15:00+00:00"
-    },
-    {
-      "title": "All Boxers built to one standard, says minister",
-      "url": "https://ukdefencejournal.org.uk/all-boxers-built-to-one-standard-says-minister/",
-      "published_at": "2026-10-24T14:00:37+00:00"
-    },
-    {
-      "title": "Ukraine begins process of joining OECD Nuclear Energy Agency – Shmyhal",
-      "url": "https://www.ukrinform.net/rubric-economy/4177821-ukraine-begins-process-of-joining-oecd-nuclear-energy-agency-shmyhal.html",
-      "published_at": "2026-10-24T13:53:00+00:00"
-    },
-    {
-      "title": "Service leavers offered wind turbine training",
-      "url": "https://ukdefencejournal.org.uk/service-leavers-offered-wind-turbine-training/",
-      "published_at": "2026-10-24T13:30:14+00:00"
-    },
-    {
-      "title": "A Russian Military Satellite Came Within 500 Meters of a U.S. Spacecraft, Leaving Tracking Systems Struggling to Tell Them Apart",
-      "url": "https://indiandefencereview.com/russian-military-satellite-u-s-spacecraft/",
-      "published_at": "2026-10-24T13:30:00+00:00"
-    },
-    {
-      "title": "Four people injured in Russian drone attack in Nikopol district, including child",
-      "url": "https://www.ukrinform.net/rubric-ato/4177810-four-people-injured-in-russian-drone-attack-in-nikopol-district-including-child.html",
-      "published_at": "2026-10-24T13:29:00+00:00"
-    },
-    {
-      "title": "British jets escort French jets on ‘nuclear strike’",
-      "url": "https://ukdefencejournal.org.uk/british-jets-escort-french-jets-on-nuclear-strike/",
-      "published_at": "2026-10-24T13:18:23+00:00"
-    },
-    {
-      "title": "Ukrainian, Romanian PMs discuss defense, energy, logistics",
-      "url": "https://www.ukrinform.net/rubric-polytics/4177806-ukrainian-romanian-pms-discuss-defense-energy-logistics.html",
-      "published_at": "2026-10-24T13:08:00+00:00"
-    },
-    {
-      "title": "Britain and France to lead Hormuz transit mission",
-      "url": "https://ukdefencejournal.org.uk/britain-and-france-to-lead-hormuz-transit-mission/",
-      "published_at": "2026-10-24T13:00:54+00:00"
-    },
-    {
-      "title": "Khmara discusses procurement and production development with defense industry representatives",
-      "url": "https://www.ukrinform.net/rubric-economy/4177803-khmara-discusses-procurement-and-production-development-with-defense-industry-representatives.html",
-      "published_at": "2026-10-24T12:45:00+00:00"
-    },
-    {
-      "title": "Sealift outline case due this financial year",
-      "url": "https://ukdefencejournal.org.uk/sealift-outline-case-due-this-financial-year/",
-      "published_at": "2026-10-24T12:30:12+00:00"
-    },
-    {
-      "title": "UK PM urges Trump to ensure Ukraine has access to Starlink",
-      "url": "https://www.ukrinform.net/rubric-polytics/4177800-uk-pm-urges-trump-to-ensure-ukraine-has-access-to-starlink.html",
-      "published_at": "2026-10-24T12:23:00+00:00"
-    },
-    {
-      "title": "US expands its war on cartels. Hundreds of soldiers are heading to Latin America",
-      "url": "https://defence24.com/geopolitics/us-expands-its-war-on-cartels-hundreds-of-soldiers-are-heading-to-latin-america",
-      "published_at": "2026-10-24T12:00:03+00:00"
-    },
-    {
-      "title": "HMS Protector towed home after propulsion defects",
-      "url": "https://ukdefencejournal.org.uk/hms-protector-towed-home-after-propulsion-defects/",
-      "published_at": "2026-10-24T12:00:00+00:00"
-    },
-    {
-      "title": "Scientists Studied 1,678 Children Who Claimed Past Lives and Found a Reincarnation Pattern They Can’t Explain",
-      "url": "https://indiandefencereview.com/1678-children-past-lives-reincarnation/",
-      "published_at": "2026-10-24T12:00:00+00:00"
-    },
-    {
-      "title": "First U.S. Navy Destroyer Enters Phase Two of DDG MOD 2.0 Modernization",
-      "url": "https://www.navalnews.com/naval-news/2026/10/first-u-s-navy-destroyer-enters-phase-two-of-ddg-mod-2-0-modernization/",
-      "published_at": "2026-10-24T11:59:17+00:00"
-    },
-    {
-      "title": "Zelensky on his relationship with Trump: &ldquo;I don't play games with him&rdquo;",
-      "url": "https://www.ukrinform.net/rubric-polytics/4177791-zelensky-on-his-relationship-with-trump-i-dont-play-games-with-him.html",
-      "published_at": "2026-10-24T11:59:00+00:00"
-    },
-    {
-      "title": "Russian missile strike on Lozova kills one person and injures two others",
-      "url": "https://www.ukrinform.net/rubric-ato/4177789-russian-missile-strike-on-lozova-kills-one-person-and-injures-two-others.html",
-      "published_at": "2026-10-24T11:35:00+00:00"
-    },
-    {
-      "title": "Britain and Germany review joint strike programme",
-      "url": "https://ukdefencejournal.org.uk/britain-and-germany-review-joint-strike-programme/",
-      "published_at": "2026-10-24T11:30:14+00:00"
-    },
-    {
-      "title": "Archaeologists Find an Ancient Campsite in Alaska With 80,000 Relics and a Mysterious Wolf Jawbone",
-      "url": "https://indiandefencereview.com/archaeologists-find-an-ancient-campsite/",
-      "published_at": "2026-10-24T11:30:00+00:00"
-    },
-    {
-      "title": "Zelensky imposes sanctions on Russian ballistic weapons makers and defense industry component suppliers",
-      "url": "https://www.ukrinform.net/rubric-polytics/4177785-zelensky-imposes-sanctions-on-russian-ballistic-weapons-makers-and-defense-industry-component-suppliers.html",
-      "published_at": "2026-10-24T11:03:00+00:00"
-    },
-    {
-      "title": "Deadly Fungi Are Wiping Out Species Across the Globe. Now Scientists Warn They Could Threaten Humans",
-      "url": "https://indiandefencereview.com/fungi-wiping-species-threaten-humans/",
-      "published_at": "2026-10-24T11:00:24+00:00"
-    },
-    {
-      "title": "Type 31 costs rising in labour and the supply chain",
-      "url": "https://ukdefencejournal.org.uk/type-31-costs-rising-in-labour-and-the-supply-chain/",
-      "published_at": "2026-10-24T11:00:22+00:00"
-    },
-    {
-      "title": "Indonesia  Pakistan  Qatar  Turkey Sign Defense Cooperation MoU",
-      "url": "https://www.defensemirror.com/news/42248",
-      "published_at": "2026-10-24T10:43:14+00:00"
-    },
-    {
-      "title": "Two Filipino SF-260 Training Aircraft Collide Mid-Air  4 Pilots Killed",
-      "url": "https://www.defensemirror.com/news/42249",
-      "published_at": "2026-10-24T10:43:14+00:00"
-    },
-    {
-      "title": "Two more Lockheed Martin F-35A Lightning II fighters arrive in Rovaniemi, Finland",
-      "url": "https://defence-industry.eu/two-more-lockheed-martin-f-35a-lightning-ii-fighters-arrive-in-rovaniemi-finland/",
-      "published_at": "2026-10-24T10:39:15+00:00"
-    },
-    {
-      "title": "Stefanchuk discusses bilateral cooperation with Hungarian partners",
-      "url": "https://www.ukrinform.net/rubric-polytics/4177775-stefanchuk-discusses-bilateral-cooperation-with-hungarian-partners.html",
-      "published_at": "2026-10-24T10:33:00+00:00"
-    },
-    {
-      "title": "Army seeks new ways to power troops on the battlefield",
-      "url": "https://ukdefencejournal.org.uk/army-seeks-new-ways-to-power-troops-on-the-battlefield/",
-      "published_at": "2026-10-24T10:30:58+00:00"
-    },
-    {
-      "title": "Le ministère allemand de la Défense plaide en faveur d’une coopération avec la Suède pour développer un nouvel avion de combat",
-      "url": "https://www.opex360.com/2026/10/24/le-ministere-allemand-de-la-defense-plaide-en-faveur-dune-cooperation-avec-la-suede-pour-developper-un-nouvel-avion-de-combat/",
-      "published_at": "2026-10-24T10:18:11+00:00"
-    },
-    {
-      "title": "Russia running sabotage campaign across Europe",
-      "url": "https://ukdefencejournal.org.uk/russia-running-sabotage-campaign-across-europe/",
-      "published_at": "2026-10-24T10:15:16+00:00"
-    },
-    {
-      "title": "RAF Typhoons join French nuclear exercise for first time, escorting Rafale strike mission",
-      "url": "https://defence-industry.eu/raf-typhoons-join-french-nuclear-exercise-for-first-time-escorting-rafale-strike-mission/",
-      "published_at": "2026-10-24T10:09:32+00:00"
-    },
-    {
-      "title": "Date no longer given for DragonFire on Royal Navy destroyers",
-      "url": "https://ukdefencejournal.org.uk/date-no-longer-given-for-dragonfire-on-royal-navy-destroyers/",
-      "published_at": "2026-10-24T10:00:11+00:00"
-    },
-    {
-      "title": "Bahrain and the Fifth Fleet. Who protects the host state?",
-      "url": "https://defence24.com/geopolitics/bahrain-and-the-fifth-fleet-who-protects-the-host-state",
-      "published_at": "2026-10-24T10:00:00+00:00"
-    },
-    {
-      "title": "Russian forces attack critical and civilian infrastructure in Zhytomyr region",
-      "url": "https://www.ukrinform.net/rubric-ato/4177767-russian-forces-attack-critical-and-civilian-infrastructure-in-zhytomyr-region.html",
-      "published_at": "2026-10-24T09:58:00+00:00"
-    },
-    {
-      "title": "France  U A E  Sign MoU on Rafale F5 Standard",
-      "url": "https://www.defensemirror.com/news/42247",
-      "published_at": "2026-10-24T09:48:04+00:00"
-    },
-    {
-      "title": "Petraeus says U.S. can’t be ‘held hostage’ on aluminum as domestic smelting revives",
-      "url": "https://defence-industry.eu/petraeus-says-u-s-cant-be-held-hostage-on-aluminum-as-domestic-smelting-revives/",
-      "published_at": "2026-10-24T09:38:50+00:00"
-    },
-    {
-      "title": "Defense Forces strike Tolyattikauchuk and Proton-Elektrotex plants, and aircraft at Yeysk airfield in Russia",
-      "url": "https://www.ukrinform.net/rubric-ato/4177765-defense-forces-strike-tolyattikauchuk-and-protonelektrotex-plants-and-aircraft-at-yeysk-airfield-in-russia.html",
-      "published_at": "2026-10-24T09:28:00+00:00"
-    },
-    {
-      "title": "British ships defy Chinese warnings in South China Sea",
-      "url": "https://ukdefencejournal.org.uk/british-ships-defy-chinese-warnings-in-south-china-sea/",
-      "published_at": "2026-10-24T09:27:12+00:00"
-    },
-    {
-      "title": "Le futur missile balistique terrestre devrait finalement être mis en œuvre par l’armée de Terre",
-      "url": "https://www.opex360.com/2026/10/24/le-futur-missile-balistique-terrestre-devrait-finalement-etre-mis-en-oeuvre-par-larmee-de-terre/",
-      "published_at": "2026-10-24T09:22:27+00:00"
-    },
-    {
-      "title": "Ukraine genehmigt Abfangdrohne von Phantom Defense",
-      "url": "https://militaeraktuell.at/ukraine-genehmigt-abfangdrohne-phantom-defense/",
-      "published_at": "2026-10-24T09:05:04+00:00"
-    },
-    {
-      "title": "Thirty-three British warships left service since 2010",
-      "url": "https://ukdefencejournal.org.uk/thirty-three-british-warships-left-service-since-2010/",
-      "published_at": "2026-10-24T09:01:44+00:00"
-    },
-    {
-      "title": "Khmara: Starlink and Starshield speeds above 400 km/h have resumed, says DM",
-      "url": "https://www.ukrinform.net/rubric-ato/4177752-khmara-starlink-and-starshield-speeds-above-400-kmh-have-resumed-says-dm.html",
-      "published_at": "2026-10-24T08:58:00+00:00"
-    },
-    {
-      "title": "Satellitenunabhängige Kommunikation: Tragbare Troposcatter-Systeme sollen TaWAN ergänzen",
-      "url": "https://www.hartpunkt.de/satellitenunabhaengige-kommunikation-tragbare-troposcatter-systeme-sollen-tawan-ergaenzen/",
-      "published_at": "2026-10-24T08:41:29+00:00"
-    },
-    {
-      "title": "Fire extinguished in Kyiv’s Obolon district following Russian attack",
-      "url": "https://www.ukrinform.net/rubric-ato/4177750-fire-extinguished-in-kyivs-obolon-district-following-russian-attack.html",
-      "published_at": "2026-10-24T08:28:00+00:00"
-    },
-    {
-      "title": "USS McFaul completes 11-month deployment after combat operations with three carrier groups",
-      "url": "https://defence-industry.eu/uss-mcfaul-completes-11-month-deployment-after-combat-operations-with-three-carrier-groups/",
-      "published_at": "2026-10-24T08:18:21+00:00"
-    },
-    {
-      "title": "Marine from Mykolaiv region returns from Russian captivity after more than four years",
-      "url": "https://www.ukrinform.net/rubric-society/4177748-marine-from-mykolaiv-region-returns-from-russian-captivity-after-more-than-four-years.html",
-      "published_at": "2026-10-24T08:02:00+00:00"
     }
   ]
 }
