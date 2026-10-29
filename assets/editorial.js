@@ -68,8 +68,16 @@
     }
   }
 
-  fetch('/feed/editorial-v1.json', { cache: 'no-store' })
-    .then((r) => (r.ok ? r.json() : Promise.reject(new Error('HTTP ' + r.status))))
-    .then(render)
+  // Editorial materials first, then owner-approved machine syntheses; either file may be missing.
+  const load = (url) =>
+    fetch(url, { cache: 'no-store' })
+      .then((r) => (r.ok ? r.json() : Promise.reject(new Error('HTTP ' + r.status))))
+      .catch(() => ({ items: [] }));
+  Promise.all([load('/feed/editorial-v1.json'), load('/feed/synthesis-feed.json')])
+    .then(([editorial, synthesis]) => {
+      const items = [...(Array.isArray(editorial.items) ? editorial.items : []), ...(Array.isArray(synthesis.items) ? synthesis.items : [])];
+      const notice = [editorial.items?.length ? editorial.notice : '', synthesis.items?.length ? synthesis.notice : ''].filter(Boolean).join(' ');
+      render({ notice, items });
+    })
     .catch(() => {}); // on failure the existing empty-state message stays
 })();
