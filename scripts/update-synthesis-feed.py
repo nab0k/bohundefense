@@ -25,8 +25,10 @@ except Exception as e:
 if not isinstance(rows,list):
     sys.exit("Unexpected synthesis RPC shape; old feed preserved")
 
+REF=re.compile(r"\s*\[\d+(?:,\s*\d+)*\]")  # research footnote marks like [2] have no target on the site
+
 def text(value, limit):
-    return value.strip()[:limit] if isinstance(value,str) and value.strip() else None
+    return REF.sub("",value).strip()[:limit] if isinstance(value,str) and value.strip() else None
 
 items=[]
 for x in rows:
@@ -39,18 +41,20 @@ for x in rows:
         if not u or u.scheme!="https" or not u.netloc:continue
         sources.append({"n":len(sources)+1,"title":text(s.get("outlet"),120) or u.netloc,"url":link})
     if not sources:continue  # a synthesis is never shown without its source
-    # The Editorial tab hides the teaser when an item is opened, so the full text is the first paragraph.
-    teaser=re.split(r"(?<=[a-z0-9)])\.\s+(?=[A-Z])",lead,maxsplit=1)[0].rstrip(".")+"."  # not inside "U.S."
-    paragraphs=[lead]
-    for label,field in (("Context","context"),("Policy direction","policy_direction"),
-                        ("The bigger picture","bigger_picture"),("Down the supply chain","supply_chain"),
-                        ("Why it matters","why_it_matters")):
-        value=text(x.get(field),2000)
-        if value:paragraphs.append(label+": "+value)
-    paragraphs.append(text(x.get("label"),120) or "Prepared by machine. Check the sources.")
+    teaser=" ".join(lead.split())[:400]  # the list clamps it to two lines
+    # Sections for the details panel: one line per step (the pilot keeps chronology and supply chain as lines).
+    sections=[{"label":"What happened","lines":lead.split("\n")}]
+    for label,field,as_list in (("Context","context",True),("Policy direction","policy_direction",False),
+                                ("The bigger picture","bigger_picture",False),("Down the supply chain","supply_chain",True),
+                                ("Why it matters","why_it_matters",False)):
+        value=text(x.get(field),4000)
+        if value:sections.append({"label":label,"lines":[l.strip() for l in value.split("\n") if l.strip()],"list":as_list})
+    label=text(x.get("label"),120) or "Prepared by machine. Check the sources."
+    paragraphs=[lead]+[s["label"]+": "+" ".join(s["lines"]) for s in sections[1:]]+[label]
     day=(x.get("first_published_at") or x.get("published_at") or "")[:10]
     items.append({"id":"syn-"+str(x["synthesis_id"]),"status":"approved","kind":"Synthesis","date":day,
-                  "title":title,"summary":teaser,"paragraphs":paragraphs,"sources":sources})
+                  "title":title,"summary":teaser,"sections":sections,"label":label,"paragraphs":paragraphs,
+                  "sources":sources})
 target=Path("feed/synthesis-feed.json")
 target.parent.mkdir(parents=True,exist_ok=True)
 old=json.loads(target.read_text()) if target.exists() else {}
