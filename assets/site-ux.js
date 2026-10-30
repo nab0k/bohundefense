@@ -201,6 +201,7 @@ export function mountWorkspace(doc = document, win = window) {
     try { url = new URL(link.href); if (url.protocol !== 'https:') return; } catch { return; }
     trigger = link;
     const content = doc.querySelector('#p0-dossier-body');
+    details.querySelector('.ux-panel-head h2').textContent = 'Source details';
     const title = doc.createElement('h2'); title.textContent = link.textContent;
     const meta = doc.createElement('p'); meta.className = 'ux-meta';
     meta.textContent = link.parentElement.querySelector('.wire-meta')?.textContent || url.hostname;
@@ -209,6 +210,17 @@ export function mountWorkspace(doc = document, win = window) {
     const original = doc.createElement('a'); original.href = url.href;
     original.textContent = 'Read original ↗'; original.target = '_blank'; original.rel = 'noopener noreferrer';
     content.replaceChildren(title, meta, note, original);
+    selectPanel(details);
+  });
+  // Editorial and syntheses (assets/editorial.js) open their full text in the same details panel.
+  doc.addEventListener('bohun:open-detail', event => {
+    const { heading, nodes, trigger: from, hash } = event.detail || {};
+    if (!Array.isArray(nodes)) return;
+    trigger = from || null;
+    details.querySelector('.ux-panel-head h2').textContent = heading || 'Details';
+    doc.querySelector('#p0-dossier-body').replaceChildren(...nodes);
+    details.scrollTop = 0;
+    if (hash) win.history.replaceState(null, '', '#' + hash);
     selectPanel(details);
   });
   // Atlas still owns company/object selection and its HTML; coordinate panel visibility only.
