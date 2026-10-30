@@ -25,8 +25,10 @@ except Exception as e:
 if not isinstance(rows,list):
     sys.exit("Unexpected synthesis RPC shape; old feed preserved")
 
+REF=re.compile(r"\s*\[\d+(?:,\s*\d+)*\]")  # research footnote marks like [2] have no target on the site
+
 def text(value, limit):
-    return value.strip()[:limit] if isinstance(value,str) and value.strip() else None
+    return REF.sub("",value).strip()[:limit] if isinstance(value,str) and value.strip() else None
 
 items=[]
 for x in rows:
