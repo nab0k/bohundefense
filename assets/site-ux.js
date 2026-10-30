@@ -180,6 +180,7 @@ export function mountWorkspace(doc = document, win = window) {
     doc.querySelector('#ux-editorial-tab').setAttribute('aria-pressed', String(editorial));
     doc.querySelector('#ux-source-tab').setAttribute('aria-pressed', String(!editorial));
   }
+  setFeed('editorial');  // syntheses first (owner 30.10); source headlines stay one tab away
   doc.querySelector('#ux-filter-open').addEventListener('click', () => filters.showModal());
   doc.querySelector('#ux-filter-close').addEventListener('click', () => filters.close());
   filters.addEventListener('close', () => doc.querySelector('#ux-filter-open').focus());

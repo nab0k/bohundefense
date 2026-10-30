@@ -10,7 +10,7 @@ base=os.environ.get("SUPABASE_URL","https://tecrucawzukxqtchpxrh.supabase.co").r
 key=os.environ.get("SUPABASE_PUBLISHABLE_KEY","")
 if not key:
     sys.exit("SUPABASE_PUBLISHABLE_KEY not configured; existing feed preserved")
-url=base+"/rest/v1/rpc/export_synthesis_feed"
+url=base+"/rest/v1/rpc/export_synthesis_feed_v2"  # v2: with the place of the event (map)
 headers={"apikey":key,"Content-Type":"application/json"}
 if key.startswith("eyJ"):
     headers["Authorization"]="Bearer "+key
@@ -52,9 +52,13 @@ for x in rows:
     label=text(x.get("label"),120) or "Prepared by machine. Check the sources."
     paragraphs=[lead]+[s["label"]+": "+" ".join(s["lines"]) for s in sections[1:]]+[label]
     day=(x.get("first_published_at") or x.get("published_at") or "")[:10]
+    place=None
+    lat,lon=x.get("place_lat"),x.get("place_lon")
+    if isinstance(lat,(int,float)) and isinstance(lon,(int,float)) and -90<=lat<=90 and -180<=lon<=180:
+        place={"label":text(x.get("place_label"),120) or "","lat":round(lat,4),"lon":round(lon,4)}
     items.append({"id":"syn-"+str(x["synthesis_id"]),"status":"approved","kind":"Synthesis","date":day,
                   "title":title,"summary":teaser,"sections":sections,"label":label,"paragraphs":paragraphs,
-                  "sources":sources})
+                  "sources":sources,"place":place})
 target=Path("feed/synthesis-feed.json")
 target.parent.mkdir(parents=True,exist_ok=True)
 old=json.loads(target.read_text()) if target.exists() else {}

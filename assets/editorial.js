@@ -61,7 +61,82 @@
       nodes.push(ol);
     }
     if (x.label) nodes.push(el('p', 'ux-ed-label', String(x.label)));
+    const p = placeOf(x);
+    if (p) {
+      const b = el('button', 'ux-ed-map', 'Show on map' + (p.label ? ' · ' + p.label : ''));
+      b.type = 'button';
+      b.addEventListener('click', () => showOnMap(x));
+      nodes.splice(2, 0, b);
+    }
     return nodes;
+  }
+
+  // Syntheses on the map (owner 30.10): a gold point per synthesis with a place; a click opens it. The map belongs
+  // to the Atlas (window.__map, MapLibre); layers are added again after every style reload.
+  const narrow = window.matchMedia('(max-width: 900px)');
+  let mapItems = [], byKey = {}, selected = '';
+
+  function placeOf(x) {
+    const p = x && x.place;
+    return p && Number.isFinite(p.lat) && Number.isFinite(p.lon) ? p : null;
+  }
+
+  // The basemap may take long on slow links (site-ux gives up its own controls after 15 s); wait for the map's
+  // idle event, with a slow poll as a fallback, for up to five minutes.
+  function whenMap(fn, tries = 300) {
+    const map = window.__map;
+    if (map && map.isStyleLoaded && map.isStyleLoaded()) return fn(map);
+    if (tries <= 0) return;
+    if (map && map.once && !map.__bohunWaiting) {
+      map.__bohunWaiting = true;
+      map.once('idle', () => { map.__bohunWaiting = false; whenMap(fn, tries - 1); });
+    }
+    setTimeout(() => whenMap(fn, tries - 1), 1000);
+  }
+
+  function drawLayer(map) {
+    const data = { type: 'FeatureCollection', features: mapItems.map((x) => ({
+      type: 'Feature', geometry: { type: 'Point', coordinates: [x.place.lon, x.place.lat] },
+      properties: { key: x.key, title: x.title } })) };
+    try {
+      if (map.getSource('bohun-syntheses')) map.getSource('bohun-syntheses').setData(data);
+      else map.addSource('bohun-syntheses', { type: 'geojson', data });
+      if (!map.getLayer('bohun-syntheses')) {
+        map.addLayer({ id: 'bohun-syntheses', type: 'circle', source: 'bohun-syntheses', paint: {
+          'circle-radius': 7, 'circle-color': '#dfc58d', 'circle-stroke-color': '#101b18', 'circle-stroke-width': 2 } });
+        map.addLayer({ id: 'bohun-syntheses-selected', type: 'circle', source: 'bohun-syntheses',
+          filter: ['==', ['get', 'key'], selected], paint: {
+            'circle-radius': 12, 'circle-color': 'rgba(223,197,141,0.25)', 'circle-stroke-color': '#dfc58d',
+            'circle-stroke-width': 2 } });
+      } else {
+        map.setFilter('bohun-syntheses-selected', ['==', ['get', 'key'], selected]);
+      }
+    } catch { /* a style without sources yet: the next style.load draws again */ }
+  }
+
+  function bindMap(map) {
+    if (map.__bohunSyntheses) return drawLayer(map);
+    map.__bohunSyntheses = true;
+    drawLayer(map);
+    map.on('style.load', () => map.once('idle', () => drawLayer(map)));
+    map.on('click', 'bohun-syntheses', (e) => {
+      const x = byKey[e.features && e.features[0] && e.features[0].properties.key];
+      if (x) open(x, null);
+    });
+    map.on('mouseenter', 'bohun-syntheses', () => { map.getCanvas().style.cursor = 'pointer'; });
+    map.on('mouseleave', 'bohun-syntheses', () => { map.getCanvas().style.cursor = ''; });
+  }
+
+  function showOnMap(x) {
+    const p = placeOf(x);
+    if (!p) return;
+    selected = x.key;
+    if (narrow.matches) document.querySelector('button[data-ux-view="map"]')?.click();
+    whenMap((map) => {
+      drawLayer(map);
+      map.flyTo({ center: [p.lon, p.lat], zoom: Math.max(map.getZoom(), 5),
+        duration: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 0 : 1200 });
+    });
   }
 
   function open(x, trigger) {
@@ -78,7 +153,7 @@
     const frag = document.createDocumentFragment();
     frag.append(el('p', 'ux-ed-intro', data.notice || ''));
     if (preview) frag.append(el('p', 'ux-ed-preview', 'Preview mode: drafts awaiting editorial approval are visible. They are not shown on the public page.'));
-    const byKey = {};
+    byKey = {};
     for (const x of items) {
       x.key = String(x.id || '').replace(/[^a-z0-9-]/gi, '');
       byKey[x.key] = x;
@@ -93,6 +168,8 @@
       frag.append(row);
     }
     panel.replaceChildren(frag);
+    mapItems = items.filter((x) => placeOf(x));
+    if (mapItems.length) whenMap(bindMap);
     const wanted = byKey[location.hash.replace(/^#ed-/, '')];
     if (location.hash.startsWith('#ed-') && wanted) open(wanted, document.getElementById('ed-' + wanted.key));
   }
