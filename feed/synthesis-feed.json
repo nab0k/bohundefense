@@ -1,5 +1,357 @@
 {
   "schema": "bohun-synthesis-v1",
   "notice": "Syntheses prepared by machine from open sources and approved by the editor. Check the sources.",
-  "items": []
+  "items": [
+    {
+      "id": "syn-208",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-10-30",
+      "title": "Boeing Secures $32M FMS Contract to Support Heavy Airlift Wing C-17 Fleet",
+      "summary": "Boeing signed a contract worth up to $32 million, with an initial $23 million committed at signing, to support the Heavy Airlift Wing's C-17 fleet and training simulators at Pápa Air Base.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Boeing signed a contract worth up to $32 million, with an initial $23 million committed at signing, to support the Heavy Airlift Wing's C-17 fleet and training simulators at Pápa Air Base."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "15 Sep 1991: The prototype C-17 Globemaster III completes its maiden flight, initiating the development and production lifecycle under McDonnell Douglas (later Boeing) (delivered).",
+            "27 Jul 2009: The first Boeing C-17 for the multinational Strategic Airlift Capability (SAC) arrives at Pápa Air Base in Hungary to support the Heavy Airlift Wing (delivered).",
+            "29 Nov 2015: The final C-17 transport aircraft is completed and flown from the Long Beach assembly plant, closing production (delivered).",
+            "1 Apr 2025: The Air Force Life Cycle Management Center issues Phase II award modifications under the C-17 Globemaster III Sustainment Contract (G3) to Boeing (contract).",
+            "9 Feb 2026: Boeing secures a contract from the U.S. Air Force for the Flight Deck Obsolescence and Technology Refresh (FDOTR) program to modernize the C-17 fleet through 2075 (contract).",
+            "20 Apr 2026: Boeing receives a $166.8 million contract modification for C-17 sustainment, covering landing gear spares via FMS for international partners (contract, USD 166.8 million).",
+            "29 Oct 2026: Boeing signs a contract worth up to $32 million ($23 million committed at signing) through FMS to support the Heavy Airlift Wing's C-17 fleet and training system (contract, USD 32 million)."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following the conclusion of C-17 production in November 2015, ongoing fleet management has increasingly relied on long-term sustainment awards, such as the April 2025 G3 modifications, the February 2026 FDOTR modernization contract, and recent FMS agreements extending operational support toward 2075."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Boeing depends on C-17 Flight Deck Training Simulators / Training Systems — Maintained via Boeing-supported infrastructure for the Heavy Airlift Wing at Pápa Air Base.",
+            "Curtiss-Wright Corporation depends on Modular Open Systems Architecture (MOSA) Mission Computers — Supplied by vendors such as Curtiss-Wright Corporation for ongoing cockpit and avionics overhauls."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense contractors and subsystem suppliers providing maintenance, spares, or training infrastructure for transport aircraft should monitor FMS sustainment awards for long-term fleet servicing opportunities."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Boeing signed a contract worth up to $32 million, with an initial $23 million committed at signing, to support the Heavy Airlift Wing's C-17 fleet and training simulators at Pápa Air Base.",
+        "Context: 15 Sep 1991: The prototype C-17 Globemaster III completes its maiden flight, initiating the development and production lifecycle under McDonnell Douglas (later Boeing) (delivered). 27 Jul 2009: The first Boeing C-17 for the multinational Strategic Airlift Capability (SAC) arrives at Pápa Air Base in Hungary to support the Heavy Airlift Wing (delivered). 29 Nov 2015: The final C-17 transport aircraft is completed and flown from the Long Beach assembly plant, closing production (delivered). 1 Apr 2025: The Air Force Life Cycle Management Center issues Phase II award modifications under the C-17 Globemaster III Sustainment Contract (G3) to Boeing (contract). 9 Feb 2026: Boeing secures a contract from the U.S. Air Force for the Flight Deck Obsolescence and Technology Refresh (FDOTR) program to modernize the C-17 fleet through 2075 (contract). 20 Apr 2026: Boeing receives a $166.8 million contract modification for C-17 sustainment, covering landing gear spares via FMS for international partners (contract, USD 166.8 million). 29 Oct 2026: Boeing signs a contract worth up to $32 million ($23 million committed at signing) through FMS to support the Heavy Airlift Wing's C-17 fleet and training system (contract, USD 32 million).",
+        "The bigger picture: Following the conclusion of C-17 production in November 2015, ongoing fleet management has increasingly relied on long-term sustainment awards, such as the April 2025 G3 modifications, the February 2026 FDOTR modernization contract, and recent FMS agreements extending operational support toward 2075.",
+        "Down the supply chain: Boeing depends on C-17 Flight Deck Training Simulators / Training Systems — Maintained via Boeing-supported infrastructure for the Heavy Airlift Wing at Pápa Air Base. Curtiss-Wright Corporation depends on Modular Open Systems Architecture (MOSA) Mission Computers — Supplied by vendors such as Curtiss-Wright Corporation for ongoing cockpit and avionics overhauls.",
+        "Why it matters: Defense contractors and subsystem suppliers providing maintenance, spares, or training infrastructure for transport aircraft should monitor FMS sustainment awards for long-term fleet servicing opportunities.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/boeing-signs-contract-worth-up-to-32-million-to-support-heavy-airlift-wings-c-17-globemaster-iii-fleet/"
+        }
+      ]
+    },
+    {
+      "id": "syn-213",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-10-30",
+      "title": "Rheinmetall to debut Kraken K3 USV and MASS Nova at Euronaval",
+      "summary": "Rheinmetall announced its exhibition lineup for Euronaval 2026, featuring the first public display of the series-produced Kraken K3 uncrewed surface vessel manufactured at its Hamburg site. The company is also debuting the MASS Nova decoy launcher and presenting a standalone configuration of the Millennium gun system.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Rheinmetall announced its exhibition lineup for Euronaval 2026, featuring the first public display of the series-produced Kraken K3 uncrewed surface vessel manufactured at its Hamburg site. The company is also debuting the MASS Nova decoy launcher and presenting a standalone configuration of the Millennium gun system."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "22 Aug 2025: Kraken Technology Group and NVL (Lürssen) establish an Anglo-German alliance to fast-track development and scale production of autonomous maritime systems (plan).",
+            "20 Apr 2026: Rheinmetall Naval Systems and Kraken Technology Group formalize their joint venture under the name Rheinmetall Kraken GmbH and launch series production of the Kraken K3 Scout uncrewed surface vessel (USV) at the Blohm+Voss site in Hamburg, with initial capacity planned for around 200 units per year (plan).",
+            "10 Jun 2026: Rheinmetall showcases the Kraken K3 Scout USV at Eurosatory 2026 as part of its cross-domain systems integration framework (framework).",
+            "7 Oct 2026: Rheinmetall announces a contract to supply Kuwaiti Naval Forces with MASS (Multi Ammunition Softkill System) decoy launchers for the first time (contract).",
+            "30 Oct 2026: Rheinmetall announces its exhibition lineup for Euronaval 2026, featuring the first public exhibition of the series-produced Kraken K3 naval drone, the standalone Millennium gun system configuration, and the debut of the MASS Nova decoy launcher."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following joint venture formations and showcase events through 2025 and 2026, suppliers are increasingly packaging uncrewed surface vessels with independent weapon and soft-kill systems to meet hybrid fleet demands, signaling a rapid transition toward scalable autonomous naval capabilities."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Millennium Gun System depends on Oerlikon AMMR active electronically scanned array (AESA) S-band surveillance radar, tracking units, and fire-control components.",
+            "MASS Nova Decoy Ammunition depends on 81mm Omni-Trap multi-effect ammunition payloads."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Naval procurement and business development professionals should track these modular systems for upcoming modernization programs requiring platform-independent integration."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Rheinmetall announced its exhibition lineup for Euronaval 2026, featuring the first public display of the series-produced Kraken K3 uncrewed surface vessel manufactured at its Hamburg site. The company is also debuting the MASS Nova decoy launcher and presenting a standalone configuration of the Millennium gun system.",
+        "Context: 22 Aug 2025: Kraken Technology Group and NVL (Lürssen) establish an Anglo-German alliance to fast-track development and scale production of autonomous maritime systems (plan). 20 Apr 2026: Rheinmetall Naval Systems and Kraken Technology Group formalize their joint venture under the name Rheinmetall Kraken GmbH and launch series production of the Kraken K3 Scout uncrewed surface vessel (USV) at the Blohm+Voss site in Hamburg, with initial capacity planned for around 200 units per year (plan). 10 Jun 2026: Rheinmetall showcases the Kraken K3 Scout USV at Eurosatory 2026 as part of its cross-domain systems integration framework (framework). 7 Oct 2026: Rheinmetall announces a contract to supply Kuwaiti Naval Forces with MASS (Multi Ammunition Softkill System) decoy launchers for the first time (contract). 30 Oct 2026: Rheinmetall announces its exhibition lineup for Euronaval 2026, featuring the first public exhibition of the series-produced Kraken K3 naval drone, the standalone Millennium gun system configuration, and the debut of the MASS Nova decoy launcher.",
+        "The bigger picture: Following joint venture formations and showcase events through 2025 and 2026, suppliers are increasingly packaging uncrewed surface vessels with independent weapon and soft-kill systems to meet hybrid fleet demands, signaling a rapid transition toward scalable autonomous naval capabilities.",
+        "Down the supply chain: Millennium Gun System depends on Oerlikon AMMR active electronically scanned array (AESA) S-band surveillance radar, tracking units, and fire-control components. MASS Nova Decoy Ammunition depends on 81mm Omni-Trap multi-effect ammunition payloads.",
+        "Why it matters: Naval procurement and business development professionals should track these modular systems for upcoming modernization programs requiring platform-independent integration.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/rheinmetall-to-present-kraken-k3-naval-drone-millennium-gun-system-and-mass-nova-decoys-at-euronaval-2026/"
+        }
+      ]
+    },
+    {
+      "id": "syn-214",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-10-30",
+      "title": "Kongsberg Secures $54M DIU Contract Modification for AUV Deliveries",
+      "summary": "Kongsberg Gruppen ASA was awarded a $54 million modification to its DIU Prototype Other Transaction Agreement for autonomous underwater vehicles and subsea components.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Kongsberg Gruppen ASA was awarded a $54 million modification to its DIU Prototype Other Transaction Agreement for autonomous underwater vehicles and subsea components."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1 Feb 2024: DIU awarded prototype Other Transaction (OT) agreements to Kongsberg Discovery, Oceaneering International, and Anduril Industries for large-diameter/displacement unmanned underwater vehicle initiatives alongside the U.S. Navy (contract).",
+            "24 Feb 2025: Kongsberg completed acceptance testing for the first HUGIN Superior AUV delivered under the DIU initiative framework in Norway (delivered).",
+            "1 Jul 2026: Kongsberg and Oceaneering were selected to support the Combat Autonomous Maritime Platform (CAMP) program for future U.S. Navy XLUUV missions (framework).",
+            "30 Oct 2026: Kongsberg announced a $54 million contract modification to its DIU Prototype Other Transaction Agreement for extensive AUV deliveries and subsea components (contract, USD 54 million)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "US — Unleashing U.S. Military Drone Dominance (Secretary of Defense memorandum) (2025-07-10): Ramp up US production and fielding of low-cost drones: buy American-made drones and parts, equip combat units, and delegate drone procurement authority down to commanders."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following initial DIU prototype awards in February 2024 and subsequent AUV deliveries, ongoing integration efforts like the CAMP program are scaling up autonomous undersea capabilities toward a $54 million contract modification by October 2026."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Kongsberg depends on HUGIN AUV Guidance, Navigation, and Control (GNC) Systems & Inertial Measurement Units (IMUs) — Sole/proprietary source provided via Kongsberg/internal divisions.",
+            "Kongsberg depends on Synthetic Aperture Sonar (SAS) and High-Resolution Multibeam Echo Sounders — Integrated acoustic payloads sourced from specialized marine electronics suppliers.",
+            "Kongsberg depends on Advanced Lithium-ion Battery Energy Storage Systems — Providing extended operational endurance (up to 70 hours to 15 days)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense industry supply chain and procurement professionals should monitor Kongsberg's reliance on specialized acoustic payloads and battery systems as AUV production scales under U.S. Navy initiatives."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Kongsberg Gruppen ASA was awarded a $54 million modification to its DIU Prototype Other Transaction Agreement for autonomous underwater vehicles and subsea components.",
+        "Context: 1 Feb 2024: DIU awarded prototype Other Transaction (OT) agreements to Kongsberg Discovery, Oceaneering International, and Anduril Industries for large-diameter/displacement unmanned underwater vehicle initiatives alongside the U.S. Navy (contract). 24 Feb 2025: Kongsberg completed acceptance testing for the first HUGIN Superior AUV delivered under the DIU initiative framework in Norway (delivered). 1 Jul 2026: Kongsberg and Oceaneering were selected to support the Combat Autonomous Maritime Platform (CAMP) program for future U.S. Navy XLUUV missions (framework). 30 Oct 2026: Kongsberg announced a $54 million contract modification to its DIU Prototype Other Transaction Agreement for extensive AUV deliveries and subsea components (contract, USD 54 million).",
+        "Policy direction: US — Unleashing U.S. Military Drone Dominance (Secretary of Defense memorandum) (2025-07-10): Ramp up US production and fielding of low-cost drones: buy American-made drones and parts, equip combat units, and delegate drone procurement authority down to commanders.",
+        "The bigger picture: Following initial DIU prototype awards in February 2024 and subsequent AUV deliveries, ongoing integration efforts like the CAMP program are scaling up autonomous undersea capabilities toward a $54 million contract modification by October 2026.",
+        "Down the supply chain: Kongsberg depends on HUGIN AUV Guidance, Navigation, and Control (GNC) Systems & Inertial Measurement Units (IMUs) — Sole/proprietary source provided via Kongsberg/internal divisions. Kongsberg depends on Synthetic Aperture Sonar (SAS) and High-Resolution Multibeam Echo Sounders — Integrated acoustic payloads sourced from specialized marine electronics suppliers. Kongsberg depends on Advanced Lithium-ion Battery Energy Storage Systems — Providing extended operational endurance (up to 70 hours to 15 days).",
+        "Why it matters: Defense industry supply chain and procurement professionals should monitor Kongsberg's reliance on specialized acoustic payloads and battery systems as AUV production scales under U.S. Navy initiatives.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "KONGSBERG secures US government contract for underwater capabilities",
+          "url": "https://www.navalnews.com/naval-news/2026/10/kongsberg-secures-us-government-contract-for-underwater-capabilities/"
+        }
+      ]
+    },
+    {
+      "id": "syn-215",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-10-30",
+      "title": "Hanwha Philly Shipyard Wins $269M US Navy LSM Contract",
+      "summary": "TOTE Services selected Hanwha Defense USA to build the first Medium Landing Ship for the U.S. Navy and Marine Corps in a $269 million deal at Hanwha Philly Shipyard.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "TOTE Services selected Hanwha Defense USA to build the first Medium Landing Ship for the U.S. Navy and Marine Corps in a $269 million deal at Hanwha Philly Shipyard."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "5 Dec 2025: The U.S. Navy and Marine Corps selected Damen Shipyards’ LST-100 design as the baseline platform for the Medium Landing Ship (LSM) program (plan).",
+            "15 Feb 2026: The U.S. Navy issued a Request for Proposals (RFP) for the LSM program procurement layout (plan).",
+            "12 Apr 2026: Fincantieri Marinette Marine secured an initial contract for early long-lead material procurement and production preparation (contract).",
+            "13 Jul 2026: TOTE Services was awarded a $2.2 billion Vessel Construction Manager (VCM) prime contract by PAE Maritime to oversee the LSM construction program (contract, USD 2.2 billion).",
+            "7 Aug 2026: TOTE Services hosted an LSM Industry Day in Washington, convening over 30 shipbuilders, equipment manufacturers, and defense suppliers to establish the nationwide supply chain (plan).",
+            "30 Oct 2026: TOTE Services selected Hanwha Defense USA / Hanwha Philly Shipyard to build an LSM in a $269 million deal with options for three more ships (contract, USD 269 million)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "US — NSPM: Rebuilding the United States Navy and America's Shipbuilding Industrial Base (2026-08-13): Fix long-term problems in Navy shipbuilding and repair: a fifth Naval shipyard, a submarine Component Repair Center, reorganisation of NAVSEA and direct investment in shipyards on the 'Finland model'."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following the selection of Damen Shipyards' LST-100 design in December 2025 and TOTE Services' $2.2 billion VCM prime contract in July 2026, the Navy is expanding its production lines across commercial shipyards to build a 35-ship fleet, pointing toward diversified industrial capacity."
+          ],
+          "list": false
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Shipbuilders and defense suppliers should monitor the VCM procurement model and upcoming subcontracts to engage with the expanding nationwide supply chain for the 35-ship LSM program."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "TOTE Services selected Hanwha Defense USA to build the first Medium Landing Ship for the U.S. Navy and Marine Corps in a $269 million deal at Hanwha Philly Shipyard.",
+        "Context: 5 Dec 2025: The U.S. Navy and Marine Corps selected Damen Shipyards’ LST-100 design as the baseline platform for the Medium Landing Ship (LSM) program (plan). 15 Feb 2026: The U.S. Navy issued a Request for Proposals (RFP) for the LSM program procurement layout (plan). 12 Apr 2026: Fincantieri Marinette Marine secured an initial contract for early long-lead material procurement and production preparation (contract). 13 Jul 2026: TOTE Services was awarded a $2.2 billion Vessel Construction Manager (VCM) prime contract by PAE Maritime to oversee the LSM construction program (contract, USD 2.2 billion). 7 Aug 2026: TOTE Services hosted an LSM Industry Day in Washington, convening over 30 shipbuilders, equipment manufacturers, and defense suppliers to establish the nationwide supply chain (plan). 30 Oct 2026: TOTE Services selected Hanwha Defense USA / Hanwha Philly Shipyard to build an LSM in a $269 million deal with options for three more ships (contract, USD 269 million).",
+        "Policy direction: US — NSPM: Rebuilding the United States Navy and America's Shipbuilding Industrial Base (2026-08-13): Fix long-term problems in Navy shipbuilding and repair: a fifth Naval shipyard, a submarine Component Repair Center, reorganisation of NAVSEA and direct investment in shipyards on the 'Finland model'.",
+        "The bigger picture: Following the selection of Damen Shipyards' LST-100 design in December 2025 and TOTE Services' $2.2 billion VCM prime contract in July 2026, the Navy is expanding its production lines across commercial shipyards to build a 35-ship fleet, pointing toward diversified industrial capacity.",
+        "Why it matters: Shipbuilders and defense suppliers should monitor the VCM procurement model and upcoming subcontracts to engage with the expanding nationwide supply chain for the 35-ship LSM program.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Naval News",
+          "url": "https://www.navalnews.com/naval-news/2026/10/30/hanwha-philly-shipyard-selected-to-build-us-navy-medium-landing-ship-lsm/"
+        },
+        {
+          "n": 2,
+          "title": "Naval News",
+          "url": "https://www.navalnews.com/naval-news/2026/10/hanwha-philly-shipyard-selected-to-build-us-navy-medium-landing-ship-lsm/"
+        }
+      ]
+    },
+    {
+      "id": "syn-216",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-10-30",
+      "title": "Ukraine Completes Freyja Air Defense Base Work",
+      "summary": "Ukrainian President Volodymyr Zelenskyy announced that Ukraine has completed its share of work on the Freyja air defense system. Attention now turns to European partners to deliver remaining components like sensors and seekers for initial testing.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Ukrainian President Volodymyr Zelenskyy announced that Ukraine has completed its share of work on the Freyja air defense system. Attention now turns to European partners to deliver remaining components like sensors and seekers for initial testing."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1 May 2026: Fire Point unveils the Freyja system and the FP-7.X interceptor design concept, aiming to bypass long development cycles (plan).",
+            "1 Jun 2026: Fire Point signs an agreement with Germany's Hensoldt to supply radars such as the TRML-4D as prime contractor and design authority (contract).",
+            "13 Jul 2026: Ukraine and ten European partners officially launch the Freyja coalition at the Coalition of the Willing Summit in Paris, France (framework).",
+            "1 Sep 2026: Poland joins the Freyja coalition cohort, expanding European multinational participation (framework).",
+            "10 Sep 2026: Canada expresses readiness to contribute technologies to the Freyja system following a meeting between Ukrainian and Canadian leadership (plan).",
+            "17 Oct 2026: Ukrainian President Volodymyr Zelenskyy announces that Ukraine has completed its share of the Freyja system work, placing focus on European partners to finish the remaining components for initial tests by the end of the year."
+          ],
+          "list": true
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "EU — White Paper for European Defence – Readiness 2030 and ReArm Europe Plan (2025-03-19): Close critical capability gaps in seven priority areas (including air and missile defence and artillery) and build a stronger European defence industrial base; ReArm Europe enables over €800 billion of defence spending.",
+            "EU — Council Regulation establishing the Security Action for Europe (SAFE) instrument (2025-05-27): Up to €150 billion in EU loans for member states investing in defence industrial production through common procurement of priority capabilities."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following the May 2026 unveiling and July 2026 coalition launch, the program advanced through Polish membership in September 2026 and Ukrainian completion in October 2026, signaling a rapid multinational push for independent European air defense capabilities."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Fire Point (Ukraine) depends on FP-7.X Interceptor and Launcher — primary supplier and design authority.",
+            "Hensoldt (Germany), Saab (Sweden), Thales (France) depends on Long-range Radars.",
+            "Kongsberg (Norway) and European partners depends on Command Center and Data Link."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "European partner delivery timelines for integration components are critical for the broader air‑defence coalition."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Ukrainian President Volodymyr Zelenskyy announced that Ukraine has completed its share of work on the Freyja air defense system. Attention now turns to European partners to deliver remaining components like sensors and seekers for initial testing.",
+        "Context: 1 May 2026: Fire Point unveils the Freyja system and the FP-7.X interceptor design concept, aiming to bypass long development cycles (plan). 1 Jun 2026: Fire Point signs an agreement with Germany's Hensoldt to supply radars such as the TRML-4D as prime contractor and design authority (contract). 13 Jul 2026: Ukraine and ten European partners officially launch the Freyja coalition at the Coalition of the Willing Summit in Paris, France (framework). 1 Sep 2026: Poland joins the Freyja coalition cohort, expanding European multinational participation (framework). 10 Sep 2026: Canada expresses readiness to contribute technologies to the Freyja system following a meeting between Ukrainian and Canadian leadership (plan). 17 Oct 2026: Ukrainian President Volodymyr Zelenskyy announces that Ukraine has completed its share of the Freyja system work, placing focus on European partners to finish the remaining components for initial tests by the end of the year.",
+        "Policy direction: EU — White Paper for European Defence – Readiness 2030 and ReArm Europe Plan (2025-03-19): Close critical capability gaps in seven priority areas (including air and missile defence and artillery) and build a stronger European defence industrial base; ReArm Europe enables over €800 billion of defence spending. EU — Council Regulation establishing the Security Action for Europe (SAFE) instrument (2025-05-27): Up to €150 billion in EU loans for member states investing in defence industrial production through common procurement of priority capabilities.",
+        "The bigger picture: Following the May 2026 unveiling and July 2026 coalition launch, the program advanced through Polish membership in September 2026 and Ukrainian completion in October 2026, signaling a rapid multinational push for independent European air defense capabilities.",
+        "Down the supply chain: Fire Point (Ukraine) depends on FP-7.X Interceptor and Launcher — primary supplier and design authority. Hensoldt (Germany), Saab (Sweden), Thales (France) depends on Long-range Radars. Kongsberg (Norway) and European partners depends on Command Center and Data Link.",
+        "Why it matters: European partner delivery timelines for integration components are critical for the broader air‑defence coalition.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Ukraine completes work on new missile defense system, awaits European partner components",
+          "url": "https://www.defensenews.com/global/europe/2026/10/30/ukraine-completes-work-on-new-missile-defense-system-awaits-european-partner-components/"
+        }
+      ]
+    }
+  ]
 }
