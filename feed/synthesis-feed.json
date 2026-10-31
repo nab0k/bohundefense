@@ -3,6 +3,538 @@
   "notice": "Syntheses prepared by machine from open sources and approved by the editor. Check the sources.",
   "items": [
     {
+      "id": "syn-251",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-10-31",
+      "title": "Australia advances AUKUS submarine maintenance ahead of 2027 rotation",
+      "summary": "Australian personnel conducted in-hull maintenance and shore-supported repairs on allied nuclear-powered submarines at HMAS Stirling, demonstrating growing sovereign industrial capability.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Australian personnel conducted in-hull maintenance and shore-supported repairs on allied nuclear-powered submarines at HMAS Stirling, demonstrating growing sovereign industrial capability."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "15 Sep 2021: Australia, the United Kingdom, and the United States announced the creation of the AUKUS trilateral security partnership, initiating plans for Australia to acquire nuclear-powered attack submarines (plan).",
+            "8 Feb 2022: The Exchange of Naval Nuclear Propulsion Information Agreement (ENNPIA) entered into force, enabling the trilateral sharing of restricted naval nuclear propulsion data (framework).",
+            "13 Mar 2023: AUKUS leaders announced the \"Optimal Pathway\" at San Diego, outlining the phased rollout of rotational submarine forces starting in 2027 and future delivery of SSN-AUKUS submarines (plan).",
+            "1 Jul 2023: The Australian Submarine Agency (ASA) was officially established to oversee the acquisition, delivery, and sustainment of Australia's nuclear-powered submarine fleet (plan).",
+            "8 Aug 2024: The formal agreement between the US, UK, and Australia for cooperation related to naval nuclear propulsion was submitted and published, cementing legal frameworks for technology transfer (framework).",
+            "15 Aug 2024: Australian civilian maintenance technicians began hands-on integration training at U.S. naval shipyards to prepare for sovereign submarine maintenance roles (funded)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "US — NSPM: Rebuilding the United States Navy and America's Shipbuilding Industrial Base (2026-08-13): Fix long-term problems in Navy shipbuilding and repair: a fifth Naval shipyard, a submarine Component Repair Center, reorganisation of NAVSEA and direct investment in shipyards on the 'Finland model'."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following the 2021 AUKUS announcement, subsequent legal frameworks, the 2023 Optimal Pathway rollout, agency formation, and formal nuclear propulsion agreements, Australia has steadily progressed from basic technician training to executing complex shore-based maintenance operations, signaling a mature trajectory toward sovereign nuclear submarine sustainment capability."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "U.S. Government: export ban on Atomic Energy Act / U.S. Title 42 (in_force)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense industry procurement and supply chain professionals should monitor expanding Australian industrial participation and local component integration opportunities as AUKUS maintenance requirements scale up toward 2027."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Australian personnel conducted in-hull maintenance and shore-supported repairs on allied nuclear-powered submarines at HMAS Stirling, demonstrating growing sovereign industrial capability.",
+        "Context: 15 Sep 2021: Australia, the United Kingdom, and the United States announced the creation of the AUKUS trilateral security partnership, initiating plans for Australia to acquire nuclear-powered attack submarines (plan). 8 Feb 2022: The Exchange of Naval Nuclear Propulsion Information Agreement (ENNPIA) entered into force, enabling the trilateral sharing of restricted naval nuclear propulsion data (framework). 13 Mar 2023: AUKUS leaders announced the \"Optimal Pathway\" at San Diego, outlining the phased rollout of rotational submarine forces starting in 2027 and future delivery of SSN-AUKUS submarines (plan). 1 Jul 2023: The Australian Submarine Agency (ASA) was officially established to oversee the acquisition, delivery, and sustainment of Australia's nuclear-powered submarine fleet (plan). 8 Aug 2024: The formal agreement between the US, UK, and Australia for cooperation related to naval nuclear propulsion was submitted and published, cementing legal frameworks for technology transfer (framework). 15 Aug 2024: Australian civilian maintenance technicians began hands-on integration training at U.S. naval shipyards to prepare for sovereign submarine maintenance roles (funded).",
+        "Policy direction: US — NSPM: Rebuilding the United States Navy and America's Shipbuilding Industrial Base (2026-08-13): Fix long-term problems in Navy shipbuilding and repair: a fifth Naval shipyard, a submarine Component Repair Center, reorganisation of NAVSEA and direct investment in shipyards on the 'Finland model'.",
+        "The bigger picture: Following the 2021 AUKUS announcement, subsequent legal frameworks, the 2023 Optimal Pathway rollout, agency formation, and formal nuclear propulsion agreements, Australia has steadily progressed from basic technician training to executing complex shore-based maintenance operations, signaling a mature trajectory toward sovereign nuclear submarine sustainment capability.",
+        "Down the supply chain: U.S. Government: export ban on Atomic Energy Act / U.S. Title 42 (in_force).",
+        "Why it matters: Defense industry procurement and supply chain professionals should monitor expanding Australian industrial participation and local component integration opportunities as AUKUS maintenance requirements scale up toward 2027.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/australia-strengthens-aukus-submarine-maintenance-capability-ahead-of-rotational-force-launch-in-2027/"
+        }
+      ],
+      "place": {
+        "label": "Australia",
+        "lat": -25.2744,
+        "lon": 133.7751
+      }
+    },
+    {
+      "id": "syn-252",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-10-31",
+      "title": "UK Confirms Aster Block 1 Missile Deliveries and Upgrades",
+      "summary": "The UK Ministry of Defence announced that deliveries of new Aster Block 1 missiles will commence later this year alongside progress on upgrading existing stock.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "The UK Ministry of Defence announced that deliveries of new Aster Block 1 missiles will commence later this year alongside progress on upgrading existing stock."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "6 Jul 2021: The UK Ministry of Defence announced a £500 million contract package with MBDA and Eurosam for the Sea Viper Mid-Life Refresh and CAMM integration (contract, GBP 500 million).",
+            "31 May 2022: The UK MoD gave MBDA approval to proceed with the Demonstration and Manufacture phase of Sea Viper Evolution Capability 1 (approval).",
+            "22 Jan 2024: The UK MoD confirmed a £405 million contract expansion with MBDA UK for Sea Viper enhancements following operational usage in the Red Sea (contract, GBP 405 million).",
+            "20 Feb 2026: The Ministry of Defence confirmed that Initial Operating Capability for Sea Viper Evolution Capability 1 is scheduled for February 2028 (plan).",
+            "31 Oct 2026: The UK government reported that new Aster Block 1 missile deliveries will begin later this year, with substantial progress achieved on mid-life refresh conversions (funded)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "NATO — The Hague Summit Declaration (2025-06-25): Allies commit to 5% of GDP a year by 2035: at least 3.5% on core defence requirements and up to 1.5% on broader security spending, including the defence industrial base."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following initial contracts in July 2021 and subsequent expansions in January 2024, the UK MoD scheduled Initial Operating Capability for Sea Viper Evolution Capability 1 for February 2028, culminating in funded missile deliveries and upgrades by October 2026."
+          ],
+          "list": false
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense procurement and supply chain professionals should monitor MBDA production schedules and munitions pipeline investments to align with ongoing Royal Navy stock replenishment."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "The UK Ministry of Defence announced that deliveries of new Aster Block 1 missiles will commence later this year alongside progress on upgrading existing stock.",
+        "Context: 6 Jul 2021: The UK Ministry of Defence announced a £500 million contract package with MBDA and Eurosam for the Sea Viper Mid-Life Refresh and CAMM integration (contract, GBP 500 million). 31 May 2022: The UK MoD gave MBDA approval to proceed with the Demonstration and Manufacture phase of Sea Viper Evolution Capability 1 (approval). 22 Jan 2024: The UK MoD confirmed a £405 million contract expansion with MBDA UK for Sea Viper enhancements following operational usage in the Red Sea (contract, GBP 405 million). 20 Feb 2026: The Ministry of Defence confirmed that Initial Operating Capability for Sea Viper Evolution Capability 1 is scheduled for February 2028 (plan). 31 Oct 2026: The UK government reported that new Aster Block 1 missile deliveries will begin later this year, with substantial progress achieved on mid-life refresh conversions (funded).",
+        "Policy direction: NATO — The Hague Summit Declaration (2025-06-25): Allies commit to 5% of GDP a year by 2035: at least 3.5% on core defence requirements and up to 1.5% on broader security spending, including the defence industrial base.",
+        "The bigger picture: Following initial contracts in July 2021 and subsequent expansions in January 2024, the UK MoD scheduled Initial Operating Capability for Sea Viper Evolution Capability 1 for February 2028, culminating in funded missile deliveries and upgrades by October 2026.",
+        "Why it matters: Defense procurement and supply chain professionals should monitor MBDA production schedules and munitions pipeline investments to align with ongoing Royal Navy stock replenishment.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Advanced new naval anti-air missiles to arrive later this year",
+          "url": "https://ukdefencejournal.org.uk/advanced-new-naval-anti-air-missiles-to-arrive-later-this-year/"
+        }
+      ],
+      "place": {
+        "label": "United Kingdom",
+        "lat": 55.3781,
+        "lon": -3.436
+      }
+    },
+    {
+      "id": "syn-253",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-10-31",
+      "title": "DGA Conducts Shock Trials on Ex-Frigate Latouche-Tréville",
+      "summary": "The DGA performed an underwater explosion shock trial on the hull of the decommissioned frigate Latouche-Tréville.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "The DGA performed an underwater explosion shock trial on the hull of the decommissioned frigate Latouche-Tréville."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "10 Apr 2008: DCNS (now Naval Group) and WASS awarded contract to develop the F17 heavyweight torpedo replacement under the Artémis programme (contract).",
+            "22 Jun 2017: DCNS announces successful qualification firings of the F21 heavy torpedo under DGA authority in the Mediterranean (funded).",
+            "12 Jul 2019: First Barracuda-class nuclear attack submarine (Suffren) launched by Naval Group, designed as a primary platform for the F21 (delivered).",
+            "1 Nov 2019: F21 Artémis enters operational service, progressively replacing the legacy DTCN F17 mod 2 aboard French SSNs and SNLEs (delivered).",
+            "16 Sep 2025: Latouche-Tréville is towed from Brest to Toulon to prepare for DGA structural shock evaluations (site_selection).",
+            "26 Oct 2026: Prefecture Maritime de la Méditerranée issues navigation and safety exclusion zones off Saint-Mandrier-sur-Mer (Pointe du Cannier) for the DGA pyrotechnic and shock resistance trials (approval)."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Ongoing naval trials like the Latouche-Tréville tests continue DGA shock evaluations."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Naval Group depends on F21 Torpedo & Integration.",
+            "Atlas Elektronik depends on Propulsion & Component.",
+            "DGA Techniques navales, Safran Electronics & Defense depends on Instrumentation & Shock Analysis."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense contractors and equipment suppliers should monitor updated shock-qualification metrics to align future naval subsystem designs with DGA survivability standards."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "The DGA performed an underwater explosion shock trial on the hull of the decommissioned frigate Latouche-Tréville.",
+        "Context: 10 Apr 2008: DCNS (now Naval Group) and WASS awarded contract to develop the F17 heavyweight torpedo replacement under the Artémis programme (contract). 22 Jun 2017: DCNS announces successful qualification firings of the F21 heavy torpedo under DGA authority in the Mediterranean (funded). 12 Jul 2019: First Barracuda-class nuclear attack submarine (Suffren) launched by Naval Group, designed as a primary platform for the F21 (delivered). 1 Nov 2019: F21 Artémis enters operational service, progressively replacing the legacy DTCN F17 mod 2 aboard French SSNs and SNLEs (delivered). 16 Sep 2025: Latouche-Tréville is towed from Brest to Toulon to prepare for DGA structural shock evaluations (site_selection). 26 Oct 2026: Prefecture Maritime de la Méditerranée issues navigation and safety exclusion zones off Saint-Mandrier-sur-Mer (Pointe du Cannier) for the DGA pyrotechnic and shock resistance trials (approval).",
+        "The bigger picture: Ongoing naval trials like the Latouche-Tréville tests continue DGA shock evaluations.",
+        "Down the supply chain: Naval Group depends on F21 Torpedo & Integration. Atlas Elektronik depends on Propulsion & Component. DGA Techniques navales, Safran Electronics & Defense depends on Instrumentation & Shock Analysis.",
+        "Why it matters: Defense contractors and equipment suppliers should monitor updated shock-qualification metrics to align future naval subsystem designs with DGA survivability standards.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Zone Militaire",
+          "url": "https://www.opex360.com/2026/10/31/desarmee-en-2022-lex-fregate-latouche-treville-est-desormais-utilisee-par-la-dga-pour-des-essais-de-choc/"
+        }
+      ],
+      "place": {
+        "label": "France",
+        "lat": 46.6034,
+        "lon": 1.8883
+      }
+    },
+    {
+      "id": "syn-254",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-10-31",
+      "title": "Northrop Grumman targets doubled international sales by 2031 amid rising demand",
+      "summary": "Northrop Grumman CEO Warden announced that rising allied defense budgets and multiyear demand support the goal of doubling international sales by 2031.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Northrop Grumman CEO Warden announced that rising allied defense budgets and multiyear demand support the goal of doubling international sales by 2031."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "28 Aug 2023: North Korea reportedly explored repurposing aging Soviet-origin fighter jets into unmanned kamikaze systems as part of early asymmetric drone expansion initiatives (plan).",
+            "24 Aug 2024: Kim Jong Un oversaw performance tests of newly developed suicide attack drones modeled after systems like the Israeli Harop or Russian Lancet, calling for broader integration (funded).",
+            "15 Nov 2024: State media reported that Kim Jong Un officially ordered the full-scale mass production of self-detonating suicide drones following successful guided tests (approval).",
+            "27 Mar 2025: North Korean state media revealed tests of new AI-equipped suicide drones designed to autonomously identify and strike tactical objectives (delivered).",
+            "19 Sep 2026: Rodong Sinmun published unprecedented photographs of interior munitions factories revealing active production lines for Saetbyol-4 and Saetbyol-9 drones as well as one-way attack munitions (delivered).",
+            "30 Oct 2026: North Korea held the “Unmanned Aeronautical Technology Development-2026” exhibition, introducing a conceptual large stealth flying-wing UCAV mockup and staging live-fire drone strikes."
+          ],
+          "list": true
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base.",
+            "US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "As autonomous aircraft and air-defense demand grows, global suppliers are pivoting to counter-drone and autonomous solutions. Signal: increased international focus on scalable autonomous aircraft and gun-based air defense."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "United Nations Security Council: sanction on North Korea (in_force)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense industry business development and supply chain professionals should monitor international procurement timelines for autonomous aircraft and air-defense munitions to align production scaling."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Northrop Grumman CEO Warden announced that rising allied defense budgets and multiyear demand support the goal of doubling international sales by 2031.",
+        "Context: 28 Aug 2023: North Korea reportedly explored repurposing aging Soviet-origin fighter jets into unmanned kamikaze systems as part of early asymmetric drone expansion initiatives (plan). 24 Aug 2024: Kim Jong Un oversaw performance tests of newly developed suicide attack drones modeled after systems like the Israeli Harop or Russian Lancet, calling for broader integration (funded). 15 Nov 2024: State media reported that Kim Jong Un officially ordered the full-scale mass production of self-detonating suicide drones following successful guided tests (approval). 27 Mar 2025: North Korean state media revealed tests of new AI-equipped suicide drones designed to autonomously identify and strike tactical objectives (delivered). 19 Sep 2026: Rodong Sinmun published unprecedented photographs of interior munitions factories revealing active production lines for Saetbyol-4 and Saetbyol-9 drones as well as one-way attack munitions (delivered). 30 Oct 2026: North Korea held the “Unmanned Aeronautical Technology Development-2026” exhibition, introducing a conceptual large stealth flying-wing UCAV mockup and staging live-fire drone strikes.",
+        "Policy direction: US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base. US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress.",
+        "The bigger picture: As autonomous aircraft and air-defense demand grows, global suppliers are pivoting to counter-drone and autonomous solutions. Signal: increased international focus on scalable autonomous aircraft and gun-based air defense.",
+        "Down the supply chain: United Nations Security Council: sanction on North Korea (in_force).",
+        "Why it matters: Defense industry business development and supply chain professionals should monitor international procurement timelines for autonomous aircraft and air-defense munitions to align production scaling.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/northrop-grumman-ceo-says-rising-defense-demand-supports-doubling-overseas-sales-by-2031/"
+        }
+      ],
+      "place": {
+        "label": "United States",
+        "lat": 37.0902,
+        "lon": -95.7129
+      }
+    },
+    {
+      "id": "syn-255",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-10-31",
+      "title": "Airbus U.S. demonstrates remote control handover for unmanned UH-72",
+      "summary": "Airbus U.S. Space & Defense demonstrated remote control handover for the unmanned UH-72 Logistics Connector using a Man-Packable Control System tablet.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Airbus U.S. Space & Defense demonstrated remote control handover for the unmanned UH-72 Logistics Connector using a Man-Packable Control System tablet."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1 Apr 2024: Naval Air Systems Command (NAVAIR) awarded Airbus U.S. Space & Defense a Phase I Other Transaction Authority (OTA) agreement through the Naval Aviation Systems Consortium for the unmanned UH-72 Logistics Connector concept (approval).",
+            "1 Oct 2024: Airbus completed its first program demonstration for the ALC program at MCAS New River and MCB Camp Lejeune, evaluating UH-72B Lakota cargo capabilities.",
+            "1 Apr 2025: Airbus U.S. Space & Defense and Shield AI announced a teaming agreement to integrate Shield AI’s Hivemind autonomy software on the MQ-72C Logistics Connector (plan).",
+            "1 May 2025: L3Harris Technologies joined the team to provide digital backbone and command-and-control systems integration (plan).",
+            "1 Aug 2025: Airbus and Shield AI completed the first autonomous flight test of the testbed helicopter using Hivemind autonomy in Grand Prairie, Texas.",
+            "1 Apr 2026: The team completed its fourth autonomous flight test, featuring refined landing zone perception and obstacle avoidance.",
+            "31 Oct 2026: Airbus executed the program's seventh flight test, demonstrating remote control handover across teams more than 20 kilometers apart."
+          ],
+          "list": true
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "US — Unleashing U.S. Military Drone Dominance (Secretary of Defense memorandum) (2025-07-10): Ramp up US production and fielding of low-cost drones: buy American-made drones and parts, equip combat units, and delegate drone procurement authority down to commanders."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following initial concept approval in April 2024 and autonomy integration in 2025, the UH-72 Logistics Connector program progressed through flight testing to demonstrate remote control handover over 20 kilometers apart in October 2026, aligning with military goals for distributed logistics."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Leonardo depends on Shield AI.",
+            "Airbus Helicopters / Airbus U.S. Space & Defense depends on UH-72 Lakota / H145 commercial variant baseline — Airframe & Platform."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense industry business development and procurement professionals should monitor this rapid prototyping program as an indicator of Marine Corps autonomous resupply requirements."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Airbus U.S. Space & Defense demonstrated remote control handover for the unmanned UH-72 Logistics Connector using a Man-Packable Control System tablet.",
+        "Context: 1 Apr 2024: Naval Air Systems Command (NAVAIR) awarded Airbus U.S. Space & Defense a Phase I Other Transaction Authority (OTA) agreement through the Naval Aviation Systems Consortium for the unmanned UH-72 Logistics Connector concept (approval). 1 Oct 2024: Airbus completed its first program demonstration for the ALC program at MCAS New River and MCB Camp Lejeune, evaluating UH-72B Lakota cargo capabilities. 1 Apr 2025: Airbus U.S. Space & Defense and Shield AI announced a teaming agreement to integrate Shield AI’s Hivemind autonomy software on the MQ-72C Logistics Connector (plan). 1 May 2025: L3Harris Technologies joined the team to provide digital backbone and command-and-control systems integration (plan). 1 Aug 2025: Airbus and Shield AI completed the first autonomous flight test of the testbed helicopter using Hivemind autonomy in Grand Prairie, Texas. 1 Apr 2026: The team completed its fourth autonomous flight test, featuring refined landing zone perception and obstacle avoidance. 31 Oct 2026: Airbus executed the program's seventh flight test, demonstrating remote control handover across teams more than 20 kilometers apart.",
+        "Policy direction: US — Unleashing U.S. Military Drone Dominance (Secretary of Defense memorandum) (2025-07-10): Ramp up US production and fielding of low-cost drones: buy American-made drones and parts, equip combat units, and delegate drone procurement authority down to commanders.",
+        "The bigger picture: Following initial concept approval in April 2024 and autonomy integration in 2025, the UH-72 Logistics Connector program progressed through flight testing to demonstrate remote control handover over 20 kilometers apart in October 2026, aligning with military goals for distributed logistics.",
+        "Down the supply chain: Leonardo depends on Shield AI. Airbus Helicopters / Airbus U.S. Space & Defense depends on UH-72 Lakota / H145 commercial variant baseline — Airframe & Platform.",
+        "Why it matters: Defense industry business development and procurement professionals should monitor this rapid prototyping program as an indicator of Marine Corps autonomous resupply requirements.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/airbus-u-s-demonstrates-remote-control-handover-for-unmanned-uh-72-in-marine-corps-logistics-program/"
+        }
+      ],
+      "place": {
+        "label": "Grand Prairie, Texas",
+        "lat": 32.746,
+        "lon": -96.9978
+      }
+    },
+    {
+      "id": "syn-256",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-10-31",
+      "title": "INLEAP Photonics launches serial production of laser-based C-UAS in Hanover",
+      "summary": "INLEAP Photonics inaugurated its new production facility in Hanover on 30 October 2026 to launch serial manufacturing of its FASTLIGHT HELD laser-based counter-unmanned aircraft systems using a one-piece flow line.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "INLEAP Photonics inaugurated its new production facility in Hanover on 30 October 2026 to launch serial manufacturing of its FASTLIGHT HELD laser-based counter-unmanned aircraft systems using a one-piece flow line."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1 Jan 2023: INLEAP Photonics is founded as a spin-off from the Laser Zentrum Hannover e.V. by Dr.-Ing. Marius Lammers and Dr.-Ing. Felix Wellmann to develop ultra-fast precision laser beam steering technology (plan).",
+            "1 Jan 2025: INLEAP Photonics secures a pre-seed funding round of €2 million to accelerate early laser technology development (funded, EUR 2 million).",
+            "15 Feb 2026: INLEAP Photonics announces a strategic partnership with STARK Defence during Hannover Messe 2026 for joint integration in the C-UAS market (framework).",
+            "28 May 2026: INLEAP Photonics deploys its laser-based drone defence system on an unmanned ground platform for the first time under the FASTLIGHT framework (delivered).",
+            "23 Jun 2026: INLEAP Photonics leads a German Federal Ministry of Defence (BMVg) project study regarding the safe deployment of laser technology on Bundeswehr sites (contract).",
+            "1 Sep 2026: INLEAP Photonics closes a seed funding round of approximately €20 million led by UVC Partners, with participation from HTGF, Balnord, Sentris, and Scale Capital, to finance the scaling of serial production for FASTLIGHT HELD and SHIELD (funded, EUR 20 million).",
+            "30 Oct 2026: INLEAP Photonics inaugurates its new production facility in Hanover using a one-piece flow manufacturing line, launching serial production of INLEAP FASTLIGHT HELD systems (site_selection)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "EU — Preserving Peace – Defence Readiness Roadmap 2030 (2025-10-16): Milestones towards full EU defence readiness by 2030, with four flagships: European Drone Defence Initiative, Eastern Flank Watch, European Air Shield and European Space Shield."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following its founding in January 2023 and subsequent pre-seed, seed funding, and BMVg project studies, INLEAP Photonics has transitioned from research to serial production by October 2026, signaling a rapid scale-up of sovereign European laser effector manufacturing."
+          ],
+          "list": false
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense procurement and supply chain professionals should monitor INLEAP's scaling capacity as a potential sourcing option for mobile C-UAS effectors."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "INLEAP Photonics inaugurated its new production facility in Hanover on 30 October 2026 to launch serial manufacturing of its FASTLIGHT HELD laser-based counter-unmanned aircraft systems using a one-piece flow line.",
+        "Context: 1 Jan 2023: INLEAP Photonics is founded as a spin-off from the Laser Zentrum Hannover e.V. by Dr.-Ing. Marius Lammers and Dr.-Ing. Felix Wellmann to develop ultra-fast precision laser beam steering technology (plan). 1 Jan 2025: INLEAP Photonics secures a pre-seed funding round of €2 million to accelerate early laser technology development (funded, EUR 2 million). 15 Feb 2026: INLEAP Photonics announces a strategic partnership with STARK Defence during Hannover Messe 2026 for joint integration in the C-UAS market (framework). 28 May 2026: INLEAP Photonics deploys its laser-based drone defence system on an unmanned ground platform for the first time under the FASTLIGHT framework (delivered). 23 Jun 2026: INLEAP Photonics leads a German Federal Ministry of Defence (BMVg) project study regarding the safe deployment of laser technology on Bundeswehr sites (contract). 1 Sep 2026: INLEAP Photonics closes a seed funding round of approximately €20 million led by UVC Partners, with participation from HTGF, Balnord, Sentris, and Scale Capital, to finance the scaling of serial production for FASTLIGHT HELD and SHIELD (funded, EUR 20 million). 30 Oct 2026: INLEAP Photonics inaugurates its new production facility in Hanover using a one-piece flow manufacturing line, launching serial production of INLEAP FASTLIGHT HELD systems (site_selection).",
+        "Policy direction: EU — Preserving Peace – Defence Readiness Roadmap 2030 (2025-10-16): Milestones towards full EU defence readiness by 2030, with four flagships: European Drone Defence Initiative, Eastern Flank Watch, European Air Shield and European Space Shield.",
+        "The bigger picture: Following its founding in January 2023 and subsequent pre-seed, seed funding, and BMVg project studies, INLEAP Photonics has transitioned from research to serial production by October 2026, signaling a rapid scale-up of sovereign European laser effector manufacturing.",
+        "Why it matters: Defense procurement and supply chain professionals should monitor INLEAP's scaling capacity as a potential sourcing option for mobile C-UAS effectors.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Der Monitor für Defence und Sicherheitspolitik",
+          "url": "https://www.hartpunkt.de/inleap-photonics-startet-serienproduktion-fuer-drohnenabwehrlaser-in-hannover/"
+        }
+      ],
+      "place": {
+        "label": "Hanover",
+        "lat": 52.3759,
+        "lon": 9.732
+      }
+    },
+    {
+      "id": "syn-257",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-10-31",
+      "title": "Leonardo selects Shield AI to integrate Hivemind SDK into Proteus uncrewed helicopter",
+      "summary": "Leonardo selected Shield AI on 29 October 2026 to integrate the Hivemind Software Development Kit into the Proteus uncrewed helicopter for advanced mission autonomy.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Leonardo selected Shield AI on 29 October 2026 to integrate the Hivemind Software Development Kit into the Proteus uncrewed helicopter for advanced mission autonomy."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1 Aug 2013: UK Ministry of Defence places a two-year contract with AgustaWestland (now Leonardo Helicopters) for RWUAS concept development under the Anti-Submarine Warfare Spearhead programme (contract, GBP 2.3).",
+            "13 Aug 2025: Leonardo provides a comprehensive progress update on the RWUAS Phase 3A programme ahead of flight tests (funded).",
+            "2 Dec 2025: Ground-running trials commence at Leonardo's Yeovil facility to validate propulsion, sensors, and control systems (site_selection).",
+            "16 Jan 2026: Proteus successfully performs its maiden flight at Predannack airfield in Cornwall with initial Leonardo-designed autonomy embedded (delivered).",
+            "3 Mar 2026: Phase 3a flight tests conclude, with Leonardo awaiting MoD decisions on the follow-on technology maturation roadmap (plan).",
+            "24 Jul 2026: Leonardo confirms at the Farnborough International Airshow that funding for the Proteus uncrewed helicopter demonstrator has been extended through mid-2027 (funded).",
+            "29 Oct 2026: Leonardo selects Shield AI to integrate the Hivemind Software Development Kit (SDK) into Proteus for advanced mission autonomy."
+          ],
+          "list": true
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "EU — Preserving Peace – Defence Readiness Roadmap 2030 (2025-10-16): Milestones towards full EU defence readiness by 2030, with four flagships: European Drone Defence Initiative, Eastern Flank Watch, European Air Shield and European Space Shield.",
+            "FR — Actualisation de la loi de programmation militaire 2024-2030 (2026-08-16): €36 billion extra for the armed forces in 2026–2030 on top of the €413 billion LPM: nuclear deterrence, air defence, counter-drone, deep strike, munitions, drones, space and electromagnetic warfare."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following ground trials and maiden flights in early 2026, the Proteus programme has secured funding extensions through mid-2027 and is now incorporating advanced US autonomy software, signalling a rapid move towards integrated uncrewed rotorcraft capabilities."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Hivemind Software Development Kit (SDK) depends on Shield AI (Primary Software Provider).",
+            "Airframe & Dynamic Components depends on Kopter AW09 single-engine light helicopter architecture (Leonardo Helicopters, Yeovil, UK).",
+            "Modular Payload Bay depends on Integration infrastructure for ASW, ISR, and logistics payloads.",
+            "United States: export licensing on US ITAR / EAR export controls and licensing governing the transfer of AI-powered military autonomy software (Hivemind SDK) to foreign defense primes. (in_force)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Business development and supply chain professionals in uncrewed systems must monitor US ITAR export controls governing the transfer of AI software like the Hivemind SDK to foreign defense primes."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Leonardo selected Shield AI on 29 October 2026 to integrate the Hivemind Software Development Kit into the Proteus uncrewed helicopter for advanced mission autonomy.",
+        "Context: 1 Aug 2013: UK Ministry of Defence places a two-year contract with AgustaWestland (now Leonardo Helicopters) for RWUAS concept development under the Anti-Submarine Warfare Spearhead programme (contract, GBP 2.3). 13 Aug 2025: Leonardo provides a comprehensive progress update on the RWUAS Phase 3A programme ahead of flight tests (funded). 2 Dec 2025: Ground-running trials commence at Leonardo's Yeovil facility to validate propulsion, sensors, and control systems (site_selection). 16 Jan 2026: Proteus successfully performs its maiden flight at Predannack airfield in Cornwall with initial Leonardo-designed autonomy embedded (delivered). 3 Mar 2026: Phase 3a flight tests conclude, with Leonardo awaiting MoD decisions on the follow-on technology maturation roadmap (plan). 24 Jul 2026: Leonardo confirms at the Farnborough International Airshow that funding for the Proteus uncrewed helicopter demonstrator has been extended through mid-2027 (funded). 29 Oct 2026: Leonardo selects Shield AI to integrate the Hivemind Software Development Kit (SDK) into Proteus for advanced mission autonomy.",
+        "Policy direction: EU — Preserving Peace – Defence Readiness Roadmap 2030 (2025-10-16): Milestones towards full EU defence readiness by 2030, with four flagships: European Drone Defence Initiative, Eastern Flank Watch, European Air Shield and European Space Shield. FR — Actualisation de la loi de programmation militaire 2024-2030 (2026-08-16): €36 billion extra for the armed forces in 2026–2030 on top of the €413 billion LPM: nuclear deterrence, air defence, counter-drone, deep strike, munitions, drones, space and electromagnetic warfare.",
+        "The bigger picture: Following ground trials and maiden flights in early 2026, the Proteus programme has secured funding extensions through mid-2027 and is now incorporating advanced US autonomy software, signalling a rapid move towards integrated uncrewed rotorcraft capabilities.",
+        "Down the supply chain: Hivemind Software Development Kit (SDK) depends on Shield AI (Primary Software Provider). Airframe & Dynamic Components depends on Kopter AW09 single-engine light helicopter architecture (Leonardo Helicopters, Yeovil, UK). Modular Payload Bay depends on Integration infrastructure for ASW, ISR, and logistics payloads. United States: export licensing on US ITAR / EAR export controls and licensing governing the transfer of AI-powered military autonomy software (Hivemind SDK) to foreign defense primes. (in_force).",
+        "Why it matters: Business development and supply chain professionals in uncrewed systems must monitor US ITAR export controls governing the transfer of AI software like the Hivemind SDK to foreign defense primes.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Zone Militaire",
+          "url": "https://www.opex360.com/2026/10/31/la-section-technique-de-larmee-de-terre-developpe-deja-le-standard-3-du-systeme-antidrone-proteus/"
+        }
+      ],
+      "place": {
+        "label": "France",
+        "lat": 46.6034,
+        "lon": 1.8883
+      }
+    },
+    {
       "id": "syn-240",
       "status": "approved",
       "kind": "Synthesis",
@@ -806,76 +1338,6 @@
       }
     },
     {
-      "id": "syn-213",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-10-30",
-      "title": "Rheinmetall to debut Kraken K3 USV and MASS Nova at Euronaval",
-      "summary": "Rheinmetall announced its exhibition lineup for Euronaval 2026, featuring the first public display of the series-produced Kraken K3 uncrewed surface vessel manufactured at its Hamburg site. The company is also debuting the MASS Nova decoy launcher and presenting a standalone configuration of the Millennium gun system.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Rheinmetall announced its exhibition lineup for Euronaval 2026, featuring the first public display of the series-produced Kraken K3 uncrewed surface vessel manufactured at its Hamburg site. The company is also debuting the MASS Nova decoy launcher and presenting a standalone configuration of the Millennium gun system."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "22 Aug 2025: Kraken Technology Group and NVL (Lürssen) establish an Anglo-German alliance to fast-track development and scale production of autonomous maritime systems (plan).",
-            "20 Apr 2026: Rheinmetall Naval Systems and Kraken Technology Group formalize their joint venture under the name Rheinmetall Kraken GmbH and launch series production of the Kraken K3 Scout uncrewed surface vessel (USV) at the Blohm+Voss site in Hamburg, with initial capacity planned for around 200 units per year (plan).",
-            "10 Jun 2026: Rheinmetall showcases the Kraken K3 Scout USV at Eurosatory 2026 as part of its cross-domain systems integration framework (framework).",
-            "7 Oct 2026: Rheinmetall announces a contract to supply Kuwaiti Naval Forces with MASS (Multi Ammunition Softkill System) decoy launchers for the first time (contract).",
-            "30 Oct 2026: Rheinmetall announces its exhibition lineup for Euronaval 2026, featuring the first public exhibition of the series-produced Kraken K3 naval drone, the standalone Millennium gun system configuration, and the debut of the MASS Nova decoy launcher."
-          ],
-          "list": true
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following joint venture formations and showcase events through 2025 and 2026, suppliers are increasingly packaging uncrewed surface vessels with independent weapon and soft-kill systems to meet hybrid fleet demands, signaling a rapid transition toward scalable autonomous naval capabilities."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Millennium Gun System depends on Oerlikon AMMR active electronically scanned array (AESA) S-band surveillance radar, tracking units, and fire-control components.",
-            "MASS Nova Decoy Ammunition depends on 81mm Omni-Trap multi-effect ammunition payloads."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Naval procurement and business development professionals should track these modular systems for upcoming modernization programs requiring platform-independent integration."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Rheinmetall announced its exhibition lineup for Euronaval 2026, featuring the first public display of the series-produced Kraken K3 uncrewed surface vessel manufactured at its Hamburg site. The company is also debuting the MASS Nova decoy launcher and presenting a standalone configuration of the Millennium gun system.",
-        "Context: 22 Aug 2025: Kraken Technology Group and NVL (Lürssen) establish an Anglo-German alliance to fast-track development and scale production of autonomous maritime systems (plan). 20 Apr 2026: Rheinmetall Naval Systems and Kraken Technology Group formalize their joint venture under the name Rheinmetall Kraken GmbH and launch series production of the Kraken K3 Scout uncrewed surface vessel (USV) at the Blohm+Voss site in Hamburg, with initial capacity planned for around 200 units per year (plan). 10 Jun 2026: Rheinmetall showcases the Kraken K3 Scout USV at Eurosatory 2026 as part of its cross-domain systems integration framework (framework). 7 Oct 2026: Rheinmetall announces a contract to supply Kuwaiti Naval Forces with MASS (Multi Ammunition Softkill System) decoy launchers for the first time (contract). 30 Oct 2026: Rheinmetall announces its exhibition lineup for Euronaval 2026, featuring the first public exhibition of the series-produced Kraken K3 naval drone, the standalone Millennium gun system configuration, and the debut of the MASS Nova decoy launcher.",
-        "The bigger picture: Following joint venture formations and showcase events through 2025 and 2026, suppliers are increasingly packaging uncrewed surface vessels with independent weapon and soft-kill systems to meet hybrid fleet demands, signaling a rapid transition toward scalable autonomous naval capabilities.",
-        "Down the supply chain: Millennium Gun System depends on Oerlikon AMMR active electronically scanned array (AESA) S-band surveillance radar, tracking units, and fire-control components. MASS Nova Decoy Ammunition depends on 81mm Omni-Trap multi-effect ammunition payloads.",
-        "Why it matters: Naval procurement and business development professionals should track these modular systems for upcoming modernization programs requiring platform-independent integration.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Defence Industry Europe",
-          "url": "https://defence-industry.eu/rheinmetall-to-present-kraken-k3-naval-drone-millennium-gun-system-and-mass-nova-decoys-at-euronaval-2026/"
-        }
-      ],
-      "place": {
-        "label": "Hamburg",
-        "lat": 53.5511,
-        "lon": 9.9937
-      }
-    },
-    {
       "id": "syn-208",
       "status": "approved",
       "kind": "Synthesis",
@@ -945,6 +1407,76 @@
         "label": "Pápa Air Base, Hungary",
         "lat": 47.3636,
         "lon": 17.5006
+      }
+    },
+    {
+      "id": "syn-213",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-10-30",
+      "title": "Rheinmetall to debut Kraken K3 USV and MASS Nova at Euronaval",
+      "summary": "Rheinmetall announced its exhibition lineup for Euronaval 2026, featuring the first public display of the series-produced Kraken K3 uncrewed surface vessel manufactured at its Hamburg site. The company is also debuting the MASS Nova decoy launcher and presenting a standalone configuration of the Millennium gun system.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Rheinmetall announced its exhibition lineup for Euronaval 2026, featuring the first public display of the series-produced Kraken K3 uncrewed surface vessel manufactured at its Hamburg site. The company is also debuting the MASS Nova decoy launcher and presenting a standalone configuration of the Millennium gun system."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "22 Aug 2025: Kraken Technology Group and NVL (Lürssen) establish an Anglo-German alliance to fast-track development and scale production of autonomous maritime systems (plan).",
+            "20 Apr 2026: Rheinmetall Naval Systems and Kraken Technology Group formalize their joint venture under the name Rheinmetall Kraken GmbH and launch series production of the Kraken K3 Scout uncrewed surface vessel (USV) at the Blohm+Voss site in Hamburg, with initial capacity planned for around 200 units per year (plan).",
+            "10 Jun 2026: Rheinmetall showcases the Kraken K3 Scout USV at Eurosatory 2026 as part of its cross-domain systems integration framework (framework).",
+            "7 Oct 2026: Rheinmetall announces a contract to supply Kuwaiti Naval Forces with MASS (Multi Ammunition Softkill System) decoy launchers for the first time (contract).",
+            "30 Oct 2026: Rheinmetall announces its exhibition lineup for Euronaval 2026, featuring the first public exhibition of the series-produced Kraken K3 naval drone, the standalone Millennium gun system configuration, and the debut of the MASS Nova decoy launcher."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following joint venture formations and showcase events through 2025 and 2026, suppliers are increasingly packaging uncrewed surface vessels with independent weapon and soft-kill systems to meet hybrid fleet demands, signaling a rapid transition toward scalable autonomous naval capabilities."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Millennium Gun System depends on Oerlikon AMMR active electronically scanned array (AESA) S-band surveillance radar, tracking units, and fire-control components.",
+            "MASS Nova Decoy Ammunition depends on 81mm Omni-Trap multi-effect ammunition payloads."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Naval procurement and business development professionals should track these modular systems for upcoming modernization programs requiring platform-independent integration."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Rheinmetall announced its exhibition lineup for Euronaval 2026, featuring the first public display of the series-produced Kraken K3 uncrewed surface vessel manufactured at its Hamburg site. The company is also debuting the MASS Nova decoy launcher and presenting a standalone configuration of the Millennium gun system.",
+        "Context: 22 Aug 2025: Kraken Technology Group and NVL (Lürssen) establish an Anglo-German alliance to fast-track development and scale production of autonomous maritime systems (plan). 20 Apr 2026: Rheinmetall Naval Systems and Kraken Technology Group formalize their joint venture under the name Rheinmetall Kraken GmbH and launch series production of the Kraken K3 Scout uncrewed surface vessel (USV) at the Blohm+Voss site in Hamburg, with initial capacity planned for around 200 units per year (plan). 10 Jun 2026: Rheinmetall showcases the Kraken K3 Scout USV at Eurosatory 2026 as part of its cross-domain systems integration framework (framework). 7 Oct 2026: Rheinmetall announces a contract to supply Kuwaiti Naval Forces with MASS (Multi Ammunition Softkill System) decoy launchers for the first time (contract). 30 Oct 2026: Rheinmetall announces its exhibition lineup for Euronaval 2026, featuring the first public exhibition of the series-produced Kraken K3 naval drone, the standalone Millennium gun system configuration, and the debut of the MASS Nova decoy launcher.",
+        "The bigger picture: Following joint venture formations and showcase events through 2025 and 2026, suppliers are increasingly packaging uncrewed surface vessels with independent weapon and soft-kill systems to meet hybrid fleet demands, signaling a rapid transition toward scalable autonomous naval capabilities.",
+        "Down the supply chain: Millennium Gun System depends on Oerlikon AMMR active electronically scanned array (AESA) S-band surveillance radar, tracking units, and fire-control components. MASS Nova Decoy Ammunition depends on 81mm Omni-Trap multi-effect ammunition payloads.",
+        "Why it matters: Naval procurement and business development professionals should track these modular systems for upcoming modernization programs requiring platform-independent integration.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/rheinmetall-to-present-kraken-k3-naval-drone-millennium-gun-system-and-mass-nova-decoys-at-euronaval-2026/"
+        }
+      ],
+      "place": {
+        "label": "Hamburg",
+        "lat": 53.5511,
+        "lon": 9.9937
       }
     },
     {
