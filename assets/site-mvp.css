@@ -38,3 +38,5 @@
 .ux-ed-lines li { margin: 4px 0; overflow-wrap: anywhere; }
 .ux-ed-label { color: var(--ux-muted); font: italic 12px/1.6 system-ui; margin-top: 18px; }
 #p0-dossier-body .ux-ed-sources { margin-bottom: 8px; }
+#p0-dossier-body .ux-ed-map { margin: 4px 0 8px; padding: 6px 10px; border: 1px solid var(--ux-gold); border-radius: 6px; background: none; color: var(--ux-gold); font: 600 12px/1.4 system-ui; letter-spacing: 0; text-transform: none; cursor: pointer; }
+#p0-dossier-body .ux-ed-map:hover, #p0-dossier-body .ux-ed-map:focus-visible { background: rgba(223,197,141,.12); outline: none; }
