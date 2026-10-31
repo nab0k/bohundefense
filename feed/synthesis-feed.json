@@ -72,7 +72,12 @@
           "title": "Militär Aktuell – Sicherheit im Fokus",
           "url": "https://militaeraktuell.at/eurofighter-trainieren-ueberschallbereich/"
         }
-      ]
+      ],
+      "place": {
+        "label": "Austria",
+        "lat": 47.5162,
+        "lon": 14.5501
+      }
     },
     {
       "id": "syn-208",
@@ -139,7 +144,12 @@
           "title": "Defence Industry Europe",
           "url": "https://defence-industry.eu/boeing-signs-contract-worth-up-to-32-million-to-support-heavy-airlift-wings-c-17-globemaster-iii-fleet/"
         }
-      ]
+      ],
+      "place": {
+        "label": "Pápa Air Base, Hungary",
+        "lat": 47.3636,
+        "lon": 17.5006
+      }
     },
     {
       "id": "syn-213",
@@ -204,7 +214,12 @@
           "title": "Defence Industry Europe",
           "url": "https://defence-industry.eu/rheinmetall-to-present-kraken-k3-naval-drone-millennium-gun-system-and-mass-nova-decoys-at-euronaval-2026/"
         }
-      ]
+      ],
+      "place": {
+        "label": "Hamburg",
+        "lat": 53.5511,
+        "lon": 9.9937
+      }
     },
     {
       "id": "syn-214",
@@ -277,7 +292,12 @@
           "title": "KONGSBERG secures US government contract for underwater capabilities",
           "url": "https://www.navalnews.com/naval-news/2026/10/kongsberg-secures-us-government-contract-for-underwater-capabilities/"
         }
-      ]
+      ],
+      "place": {
+        "label": "Kongsberg",
+        "lat": 59.6,
+        "lon": 9.65
+      }
     },
     {
       "id": "syn-215",
@@ -347,7 +367,12 @@
           "title": "Naval News",
           "url": "https://www.navalnews.com/naval-news/2026/10/hanwha-philly-shipyard-selected-to-build-us-navy-medium-landing-ship-lsm/"
         }
-      ]
+      ],
+      "place": {
+        "label": "Philadelphia",
+        "lat": 39.9526,
+        "lon": -75.1652
+      }
     },
     {
       "id": "syn-216",
@@ -423,7 +448,12 @@
           "title": "Ukraine completes work on new missile defense system, awaits European partner components",
           "url": "https://www.defensenews.com/global/europe/2026/10/30/ukraine-completes-work-on-new-missile-defense-system-awaits-european-partner-components/"
         }
-      ]
+      ],
+      "place": {
+        "label": "Kyiv",
+        "lat": 50.4501,
+        "lon": 30.5234
+      }
     }
   ]
 }
