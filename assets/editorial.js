@@ -139,6 +139,21 @@
     });
   }
 
+  // Moving the pointer along the list turns the map or globe to the synthesis under it (owner 31.10, as in the
+  // knowledge pilot preview): a short dwell avoids spinning while the pointer just passes by.
+  let hoverTimer = null;
+  function lookAt(x) {
+    const p = placeOf(x);
+    if (!p || narrow.matches || window.matchMedia('(hover: none)').matches) return;
+    clearTimeout(hoverTimer);
+    hoverTimer = setTimeout(() => whenMap((map) => {
+      selected = x.key;
+      drawLayer(map);
+      map.easeTo({ center: [p.lon, p.lat], duration: window.matchMedia('(prefers-reduced-motion: reduce)').matches
+        ? 0 : 900 });
+    }, 1), 220);
+  }
+
   function open(x, trigger) {
     document.dispatchEvent(new CustomEvent('bohun:open-detail', {
       detail: { heading: x.kind || 'Analysis', nodes: fullView(x), trigger, hash: 'ed-' + x.key },
@@ -165,6 +180,9 @@
       row.append(meta, el('span', 'ux-ed-title', x.title));
       if (x.summary) row.append(el('span', 'ux-ed-lead', x.summary));
       row.addEventListener('click', () => open(x, row));
+      row.addEventListener('mouseenter', () => lookAt(x));
+      row.addEventListener('focus', () => lookAt(x));
+      row.addEventListener('mouseleave', () => clearTimeout(hoverTimer));
       frag.append(row);
     }
     panel.replaceChildren(frag);
