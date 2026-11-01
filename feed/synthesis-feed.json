@@ -3,6 +3,374 @@
   "notice": "Syntheses prepared by machine from open sources and approved by the editor. Check the sources.",
   "items": [
     {
+      "id": "syn-279",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-01",
+      "title": "NATO DiBaX 2026 Tests 5G and Satellite Links for Resilient Communications",
+      "summary": "Held from 19 to 30 October 2026, NATO's DiBaX 2026 in Latvia evaluated private 5G network slices, jammed environment communications switching, and 5G passive object detection with technical integrator LMT Defence and over 60 technology partners.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Held from 19 to 30 October 2026, NATO's DiBaX 2026 in Latvia evaluated private 5G network slices, jammed environment communications switching, and 5G passive object detection with technical integrator LMT Defence and over 60 technology partners."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "27 Oct 2025: The fourth annual DiBaX 2025 runs through November 7 at Ādaži, featuring over 100 industry partners testing 5G interoperability, tactical links, and AI command-and-control software (framework).",
+            "19 Oct 2026: DiBaX 2026 commences in Latvia as the largest edition to date, running through October 30 with technical integrator LMT Defence and over 60 technology partners (contract).",
+            "30 Oct 2026: Conclusion of DiBaX 2026 featuring live-fire demonstrations of cross-border counter-drone engagements, 5G network slicing, and AI-enabled data linking (such as Maven integration via Agentic AI) (delivered)."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following 2025 trials, DiBaX 2026 progressed to live-fire demonstrations of cross-border counter-drone engagements and AI-enabled data linking by October 2026, signaling a shift toward operationalizing resilient tactical networks."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "5G direct-to-device and cellular infrastructure chipsets depends on Gallium metal — Foundational for compound semiconductor radio-frequency chipsets deployed in 5G direct-to-device and cellular infrastructure."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense procurement and supply chain professionals should monitor gallium supply chains for 5G chipsets and engage with NATO's emerging testing frameworks for resilient tactical communications."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Held from 19 to 30 October 2026, NATO's DiBaX 2026 in Latvia evaluated private 5G network slices, jammed environment communications switching, and 5G passive object detection with technical integrator LMT Defence and over 60 technology partners.",
+        "Context: 27 Oct 2025: The fourth annual DiBaX 2025 runs through November 7 at Ādaži, featuring over 100 industry partners testing 5G interoperability, tactical links, and AI command-and-control software (framework). 19 Oct 2026: DiBaX 2026 commences in Latvia as the largest edition to date, running through October 30 with technical integrator LMT Defence and over 60 technology partners (contract). 30 Oct 2026: Conclusion of DiBaX 2026 featuring live-fire demonstrations of cross-border counter-drone engagements, 5G network slicing, and AI-enabled data linking (such as Maven integration via Agentic AI) (delivered).",
+        "The bigger picture: Following 2025 trials, DiBaX 2026 progressed to live-fire demonstrations of cross-border counter-drone engagements and AI-enabled data linking by October 2026, signaling a shift toward operationalizing resilient tactical networks.",
+        "Down the supply chain: 5G direct-to-device and cellular infrastructure chipsets depends on Gallium metal — Foundational for compound semiconductor radio-frequency chipsets deployed in 5G direct-to-device and cellular infrastructure.",
+        "Why it matters: Defense procurement and supply chain professionals should monitor gallium supply chains for 5G chipsets and engage with NATO's emerging testing frameworks for resilient tactical communications.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "NATO’s DiBaX 2026 explores 5G and satellite links to keep forces connected under disruption",
+          "url": "https://defence-industry.eu/natos-dibax-2026-explores-5g-and-satellite-links-to-keep-forces-connected-under-precision/"
+        },
+        {
+          "n": 2,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/natos-dibax-2026-explores-5g-and-satellite-links-to-keep-forces-connected-under-disruption/"
+        }
+      ],
+      "place": {
+        "label": "Latvia",
+        "lat": 56.9496,
+        "lon": 24.1052
+      }
+    },
+    {
+      "id": "syn-280",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-01",
+      "title": "U.S. Secretly Tapped Soviet Cables for Years Until Betrayal",
+      "summary": "The NSA, U.S. Navy, and CIA authorized a joint operation in 1971 to place non-destructive wiretaps on Soviet underwater communication lines in the Sea of Okhotsk. Submarines deployed divers to install advanced recording pods that gathered valuable intelligence until the system was compromised in 1981.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "The NSA, U.S. Navy, and CIA authorized a joint operation in 1971 to place non-destructive wiretaps on Soviet underwater communication lines in the Sea of Okhotsk. Submarines deployed divers to install advanced recording pods that gathered valuable intelligence until the system was compromised in 1981."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1970: Concept conceived by Captain James Bradley, Director of Undersea Warfare at the Office of Naval Intelligence, to place non-destructive wiretaps on Soviet underwater communication lines (plan).",
+            "1 Oct 1971: Programme formally authorized as a joint venture involving the NSA, U.S. Navy, and CIA, utilizing funds covertly diverted from the Deep Submergence Rescue Vehicle (DSRV) budget (funded).",
+            "1 Jul 1972: USS Halibut (SSGN-587) enters the Sea of Okhotsk, deploying Navy saturation divers to locate and clamp an initial, rudimentary listening device onto the 3-inch Soviet underwater cable at a depth of 400 feet (delivered).",
+            "1973: Bell Laboratories commissioned by the U.S. Navy to design a significantly advanced, large-scale cylindrical recording pod capable of long-term data capture (contract).",
+            "1974: Advanced Bell Laboratories/AT&T recording pod deployed via modified submarine and installed on the Sea of Okhotsk cable line (delivered).",
+            "1975: Regular monthly/quarterly submarine retrieval cycles established by USS Halibut and supporting nuclear attack submarines to exchange magnetic tapes and deliver raw intercept data to the NSA (funded).",
+            "1980: Former NSA civilian employee Ronald Pelton faces severe financial distress, visits the Soviet Embassy in Washington, D.C., and agrees to sell classified details of U.S. signals intelligence operations, including Ivy Bells, for 35,000 USD (USD 35000)."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Beginning as a conceived concept in 1970 and progressing through device deployments and regular retrieval cycles in the 1970s, deep-sea signals intelligence operations ultimately faced severe human intelligence vulnerabilities when former employees sold classified details in 1980, signaling the critical need for insider threat mitigation."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "United States Congress: sanction on Espionage Act of 1917 (18 U.S.C. § 793 et seq.) (in_force)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense contractors and procurement professionals must maintain rigorous personnel security and insider threat programs to protect sensitive intelligence assets from espionage."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "The NSA, U.S. Navy, and CIA authorized a joint operation in 1971 to place non-destructive wiretaps on Soviet underwater communication lines in the Sea of Okhotsk. Submarines deployed divers to install advanced recording pods that gathered valuable intelligence until the system was compromised in 1981.",
+        "Context: 1970: Concept conceived by Captain James Bradley, Director of Undersea Warfare at the Office of Naval Intelligence, to place non-destructive wiretaps on Soviet underwater communication lines (plan). 1 Oct 1971: Programme formally authorized as a joint venture involving the NSA, U.S. Navy, and CIA, utilizing funds covertly diverted from the Deep Submergence Rescue Vehicle (DSRV) budget (funded). 1 Jul 1972: USS Halibut (SSGN-587) enters the Sea of Okhotsk, deploying Navy saturation divers to locate and clamp an initial, rudimentary listening device onto the 3-inch Soviet underwater cable at a depth of 400 feet (delivered). 1973: Bell Laboratories commissioned by the U.S. Navy to design a significantly advanced, large-scale cylindrical recording pod capable of long-term data capture (contract). 1974: Advanced Bell Laboratories/AT&T recording pod deployed via modified submarine and installed on the Sea of Okhotsk cable line (delivered). 1975: Regular monthly/quarterly submarine retrieval cycles established by USS Halibut and supporting nuclear attack submarines to exchange magnetic tapes and deliver raw intercept data to the NSA (funded). 1980: Former NSA civilian employee Ronald Pelton faces severe financial distress, visits the Soviet Embassy in Washington, D.C., and agrees to sell classified details of U.S. signals intelligence operations, including Ivy Bells, for 35,000 USD (USD 35000).",
+        "The bigger picture: Beginning as a conceived concept in 1970 and progressing through device deployments and regular retrieval cycles in the 1970s, deep-sea signals intelligence operations ultimately faced severe human intelligence vulnerabilities when former employees sold classified details in 1980, signaling the critical need for insider threat mitigation.",
+        "Down the supply chain: United States Congress: sanction on Espionage Act of 1917 (18 U.S.C. § 793 et seq.) (in_force).",
+        "Why it matters: Defense contractors and procurement professionals must maintain rigorous personnel security and insider threat programs to protect sensitive intelligence assets from espionage.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Indian Defence Review",
+          "url": "https://indiandefencereview.com/u-s-tapped-soviet-underwater-cable-man/"
+        }
+      ],
+      "place": {
+        "label": "Kamchatka Peninsula",
+        "lat": 56.1322,
+        "lon": 159.6369
+      }
+    },
+    {
+      "id": "syn-281",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-01",
+      "title": "UK Unveils Mandatory Offset Policy for Foreign Defence Contracts",
+      "summary": "Defence Secretary Wes Streeting and Chancellor John Healey officially unveiled the mandatory offset policy during a visit to BAE Systems' Scotstoun shipyard in Glasgow. Under the new framework, foreign contractors winning UK deals above £50 million must deliver investments, technology transfers, or job support valued up to the full contract amount.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Defence Secretary Wes Streeting and Chancellor John Healey officially unveiled the mandatory offset policy during a visit to BAE Systems' Scotstoun shipyard in Glasgow. Under the new framework, foreign contractors winning UK deals above £50 million must deliver investments, technology transfers, or job support valued up to the full contract amount."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "26 Oct 2023: The Procurement Act 2023 received Royal Assent, modernizing public sector procurement rules and laying a modernized legal foundation for future domestic preference frameworks (approval).",
+            "23 Oct 2025: The MOD launched a 12-week formal written consultation on introducing a dedicated defence offsets regime to support the Defence Industrial Strategy (plan).",
+            "25 Mar 2026: Minister for Defence Readiness and Industry Luke Pollard reconfirmed government intent to proceed with an offset policy during a keynote address at DPRTE 2026 (plan).",
+            "29 Oct 2026: The UK government sets out its broader £298 billion four-year Defence Investment Plan and Defence Footprint report, forecasting nearly 60,000 new jobs (plan, GBP 298 billion).",
+            "30 Oct 2026: Defence Secretary Wes Streeting and Chancellor John Healey officially unveil the mandatory offset policy during a visit to BAE Systems’ Scotstoun shipyard in Glasgow (framework)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "NATO — The Hague Summit Declaration (2025-06-25): Allies commit to 5% of GDP a year by 2035: at least 3.5% on core defence requirements and up to 1.5% on broader security spending, including the defence industrial base."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following the Procurement Act 2023 and the £298 billion Defence Investment Plan, the UK has evolved from initial consultations in late 2025 to officially establishing a mandatory offset framework in October 2026, signaling a permanent shift toward domestic economic returns on foreign procurements."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Specialist Marine Steel & Plate depends on domestic and allied European specialized metallurgy mills — High-yield steel utilized for hull fabrication.",
+            "Combat Management Systems & Electronics depends on global tier-1 defence contractors — Integrated software and radar components subject to technology transfer stipulations under the new offset rules.",
+            "Procurement Act 2023 / Treaty State Rules: sanction on non-discriminatory treatment for international suppliers under trade agreements (such as the WTO Government Procurement Agreement) (in_force)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "International prime contractors bidding on UK equipment programmes above £50 million must restructure their supply chains and partnership models to incorporate UK industrial participation ahead of April 2027."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Defence Secretary Wes Streeting and Chancellor John Healey officially unveiled the mandatory offset policy during a visit to BAE Systems' Scotstoun shipyard in Glasgow. Under the new framework, foreign contractors winning UK deals above £50 million must deliver investments, technology transfers, or job support valued up to the full contract amount.",
+        "Context: 26 Oct 2023: The Procurement Act 2023 received Royal Assent, modernizing public sector procurement rules and laying a modernized legal foundation for future domestic preference frameworks (approval). 23 Oct 2025: The MOD launched a 12-week formal written consultation on introducing a dedicated defence offsets regime to support the Defence Industrial Strategy (plan). 25 Mar 2026: Minister for Defence Readiness and Industry Luke Pollard reconfirmed government intent to proceed with an offset policy during a keynote address at DPRTE 2026 (plan). 29 Oct 2026: The UK government sets out its broader £298 billion four-year Defence Investment Plan and Defence Footprint report, forecasting nearly 60,000 new jobs (plan, GBP 298 billion). 30 Oct 2026: Defence Secretary Wes Streeting and Chancellor John Healey officially unveil the mandatory offset policy during a visit to BAE Systems’ Scotstoun shipyard in Glasgow (framework).",
+        "Policy direction: NATO — The Hague Summit Declaration (2025-06-25): Allies commit to 5% of GDP a year by 2035: at least 3.5% on core defence requirements and up to 1.5% on broader security spending, including the defence industrial base.",
+        "The bigger picture: Following the Procurement Act 2023 and the £298 billion Defence Investment Plan, the UK has evolved from initial consultations in late 2025 to officially establishing a mandatory offset framework in October 2026, signaling a permanent shift toward domestic economic returns on foreign procurements.",
+        "Down the supply chain: Specialist Marine Steel & Plate depends on domestic and allied European specialized metallurgy mills — High-yield steel utilized for hull fabrication. Combat Management Systems & Electronics depends on global tier-1 defence contractors — Integrated software and radar components subject to technology transfer stipulations under the new offset rules. Procurement Act 2023 / Treaty State Rules: sanction on non-discriminatory treatment for international suppliers under trade agreements (such as the WTO Government Procurement Agreement) (in_force).",
+        "Why it matters: International prime contractors bidding on UK equipment programmes above £50 million must restructure their supply chains and partnership models to incorporate UK industrial participation ahead of April 2027.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "UK Defence Journal",
+          "url": "https://ukdefencejournal.org.uk/norwegian-frigate-deal-shaped-new-offset-policy/"
+        }
+      ],
+      "place": {
+        "label": "Glasgow",
+        "lat": 55.8642,
+        "lon": -4.2518
+      }
+    },
+    {
+      "id": "syn-282",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-01",
+      "title": "Mehler Systems Acquires Majority Stake in Bulgaria's MARS Armor",
+      "summary": "Mehler Systems signed an agreement to acquire a majority stake in Bulgaria-based MARS Armor to broaden its portfolio with NIJ-standard protection systems and demining equipment.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Mehler Systems signed an agreement to acquire a majority stake in Bulgaria-based MARS Armor to broaden its portfolio with NIJ-standard protection systems and demining equipment."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1986: Mehler Vario System is founded in Germany as a specialist in body armour and personal protective solutions for law enforcement and military personnel (plan).",
+            "2004: MARS Armor is established in Bulgaria, starting its trajectory in the design and production of personal ballistic protection equipment (plan).",
+            "2022: DPE Deutsche Private Equity acquires a portfolio stake in Mehler Systems to back its ongoing international expansion and buy-and-build strategy (contract).",
+            "2023: Mehler Vario System rebrands internationally as Mehler Systems to unify its specialized tactical brands under a single corporate umbrella (plan).",
+            "2024: Mehler Systems expands its global footprint by acquiring Australian ballistic protection provider Craig International Ballistics (contract).",
+            "29 Oct 2026: Mehler Systems reaches a formal agreement to acquire a majority stake in Bulgaria-based MARS Armor, incorporating in-house testing and demining protection capabilities into the group (approval)."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following private equity backing in 2022, Mehler Systems has pursued an active buy-and-build strategy, adding Australia's Craig International Ballistics in 2024 and now MARS Armor in 2026 to scale its global footprint."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Mehler Systems depends on Ballistic inserts and hard/soft armor panels: High-performance aramid fibers (e.g., Kevlar, Twaron) and Ultra-High-Molecular-Weight Polyethylene (UHMWPE) — High-performance aramid fibers and UHMWPE.",
+            "Mehler Systems depends on Ballistic helmets and rigid shields: Composite materials, ballistic resins, and thermoplastic aramid matrices — Composite materials, ballistic resins, and thermoplastic aramid matrices.",
+            "Mehler Systems depends on Demining and EOD protection suits: Multi-layer ballistic fabrics, ceramic or flexible armor plates, and impact-mitigating textiles — Multi-layer ballistic fabrics, ceramic or flexible armor plates, and impact-mitigating textiles.",
+            "European Union and Bulgaria: export licensing on military-grade personal protection equipment and ballistic inserts outside the EU (in_force)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence procurement and supply chain professionals should monitor how this Eastern European expansion affects regional sourcing of ballistic inserts and demining suits under EU export controls."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Mehler Systems signed an agreement to acquire a majority stake in Bulgaria-based MARS Armor to broaden its portfolio with NIJ-standard protection systems and demining equipment.",
+        "Context: 1986: Mehler Vario System is founded in Germany as a specialist in body armour and personal protective solutions for law enforcement and military personnel (plan). 2004: MARS Armor is established in Bulgaria, starting its trajectory in the design and production of personal ballistic protection equipment (plan). 2022: DPE Deutsche Private Equity acquires a portfolio stake in Mehler Systems to back its ongoing international expansion and buy-and-build strategy (contract). 2023: Mehler Vario System rebrands internationally as Mehler Systems to unify its specialized tactical brands under a single corporate umbrella (plan). 2024: Mehler Systems expands its global footprint by acquiring Australian ballistic protection provider Craig International Ballistics (contract). 29 Oct 2026: Mehler Systems reaches a formal agreement to acquire a majority stake in Bulgaria-based MARS Armor, incorporating in-house testing and demining protection capabilities into the group (approval).",
+        "The bigger picture: Following private equity backing in 2022, Mehler Systems has pursued an active buy-and-build strategy, adding Australia's Craig International Ballistics in 2024 and now MARS Armor in 2026 to scale its global footprint.",
+        "Down the supply chain: Mehler Systems depends on Ballistic inserts and hard/soft armor panels: High-performance aramid fibers (e.g., Kevlar, Twaron) and Ultra-High-Molecular-Weight Polyethylene (UHMWPE) — High-performance aramid fibers and UHMWPE. Mehler Systems depends on Ballistic helmets and rigid shields: Composite materials, ballistic resins, and thermoplastic aramid matrices — Composite materials, ballistic resins, and thermoplastic aramid matrices. Mehler Systems depends on Demining and EOD protection suits: Multi-layer ballistic fabrics, ceramic or flexible armor plates, and impact-mitigating textiles — Multi-layer ballistic fabrics, ceramic or flexible armor plates, and impact-mitigating textiles. European Union and Bulgaria: export licensing on military-grade personal protection equipment and ballistic inserts outside the EU (in_force).",
+        "Why it matters: Defence procurement and supply chain professionals should monitor how this Eastern European expansion affects regional sourcing of ballistic inserts and demining suits under EU export controls.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/mehler-systems-agrees-to-buy-majority-stake-in-bulgarias-mars-armor/"
+        }
+      ],
+      "place": {
+        "label": "Kostinbrod",
+        "lat": 42.8225,
+        "lon": 23.2164
+      }
+    },
+    {
+      "id": "syn-283",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-01",
+      "title": "Sweden's Baltic Submarine Expertise Bolsters NATO Undersea Defence",
+      "summary": "Sweden shares its regional expertise through exercises and operations to strengthen NATO's ability to operate in the Baltic Sea.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Sweden shares its regional expertise through exercises and operations to strengthen NATO's ability to operate in the Baltic Sea."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1 Jul 1904: The Swedish Navy receives its first submarine, Hajen, establishing the foundation of the Swedish submarine service (delivered).",
+            "2017: Poland’s Base Group signs its initial framework agreement with Saab to supply specialized welded metal structures for the A26 submarine programme (framework).",
+            "2019: The Swedish Defence Materiel Administration (FMV) formally names the two ordered A26 submarines HMS Blekinge and HMS Skåne (site_selection).",
+            "30 Jun 2022: The keel-laying ceremony for the lead boat HMS Blekinge takes place at Saab Kockums in Karlskrona (site_selection).",
+            "15 Oct 2025: Saab receives a SEK 9.6 billion production contract from the FMV for final manufacturing and additional material supplies for the two A26 boats, bringing total programme cost scaling towards SEK 25 billion (contract, SEK 9.6 billion).",
+            "29 Jun 2026: Poland signs a major defence contract with Saab for three A26-derived submarines under the Orka programme, valuing the export agreement at SEK 47 billion ($4.8 billion) (contract, SEK 47 billion).",
+            "19 Oct 2026: Jeumont Electric announces a contract to supply main low-signature electric propulsion systems for the Polish Navy’s A26 submarines, matching the architecture used on Sweden’s Blekinge-class (contract)."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Building on a submarine heritage dating back to 1904, Sweden is advancing the A26 programme for concealed operations, underlined by Poland's contract for three A26-derived submarines in June 2026."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Jeumont Electric depends on Blekinge-class and export variants.",
+            "Saab Kockums depends on Blekinge-class — Kockums MkV V4-275R Stirling auxiliary engines manufactured directly by Saab Kockums (Sweden).",
+            "Base Group depends on A26 submarine programme — Base Group (Poland) provides precision-welded structural metal sub-components under multi-year supplier frameworks."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence contractors and suppliers should monitor expanding A26 production timelines and export opportunities across the Baltic region."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Sweden shares its regional expertise through exercises and operations to strengthen NATO's ability to operate in the Baltic Sea.",
+        "Context: 1 Jul 1904: The Swedish Navy receives its first submarine, Hajen, establishing the foundation of the Swedish submarine service (delivered). 2017: Poland’s Base Group signs its initial framework agreement with Saab to supply specialized welded metal structures for the A26 submarine programme (framework). 2019: The Swedish Defence Materiel Administration (FMV) formally names the two ordered A26 submarines HMS Blekinge and HMS Skåne (site_selection). 30 Jun 2022: The keel-laying ceremony for the lead boat HMS Blekinge takes place at Saab Kockums in Karlskrona (site_selection). 15 Oct 2025: Saab receives a SEK 9.6 billion production contract from the FMV for final manufacturing and additional material supplies for the two A26 boats, bringing total programme cost scaling towards SEK 25 billion (contract, SEK 9.6 billion). 29 Jun 2026: Poland signs a major defence contract with Saab for three A26-derived submarines under the Orka programme, valuing the export agreement at SEK 47 billion ($4.8 billion) (contract, SEK 47 billion). 19 Oct 2026: Jeumont Electric announces a contract to supply main low-signature electric propulsion systems for the Polish Navy’s A26 submarines, matching the architecture used on Sweden’s Blekinge-class (contract).",
+        "The bigger picture: Building on a submarine heritage dating back to 1904, Sweden is advancing the A26 programme for concealed operations, underlined by Poland's contract for three A26-derived submarines in June 2026.",
+        "Down the supply chain: Jeumont Electric depends on Blekinge-class and export variants. Saab Kockums depends on Blekinge-class — Kockums MkV V4-275R Stirling auxiliary engines manufactured directly by Saab Kockums (Sweden). Base Group depends on A26 submarine programme — Base Group (Poland) provides precision-welded structural metal sub-components under multi-year supplier frameworks.",
+        "Why it matters: Defence contractors and suppliers should monitor expanding A26 production timelines and export opportunities across the Baltic region.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/how-swedens-baltic-submarine-expertise-supports-natos-undersea-defence-capabilities/"
+        }
+      ],
+      "place": {
+        "label": "Baltic Sea",
+        "lat": 59.3293,
+        "lon": 18.0686
+      }
+    },
+    {
       "id": "syn-267",
       "status": "approved",
       "kind": "Synthesis",
