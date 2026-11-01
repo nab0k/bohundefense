@@ -3,6 +3,736 @@
   "notice": "Syntheses prepared by machine from open sources and approved by the editor. Check the sources.",
   "items": [
     {
+      "id": "syn-267",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-10-31",
+      "title": "Dreadnought reactor core upgrades delivered",
+      "summary": "Major facility upgrades required for Dreadnought reactor core production have been delivered, with activity now focused on final commissioning and manufacturing.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Major facility upgrades required for Dreadnought reactor core production have been delivered, with activity now focused on final commissioning and manufacturing."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1 Mar 2007: Work begins on the concept phase of the successor ballistic missile submarine programme (later named Dreadnought), following parliamentary approval (plan).",
+            "2023: HMS Vanguard emerged from a refit at Devonport in 2023 that took around seven and a half years against a planned three and a half (delivered).",
+            "1 Oct 2023: The UK government awards contracts worth £4 billion to BAE Systems, Rolls-Royce, and Babcock to support SSN-AUKUS design, infrastructure, and long-lead items (contract, GBP 4 billion).",
+            "1 Jan 2025: Rolls-Royce is awarded an 8-year contract (named \"Unity\") valued at approximately £9 billion by the UK Ministry of Defence for naval reactor design, manufacture, and support (contract, GBP 9 billion).",
+            "1 May 2025: Ministry of Defence notes that £3.37 billion of the £10 billion contingency set aside for the Dreadnought class (£31 billion base cost, up to £41 billion total ceiling) had been accessed as of March 2024 (ceiling, GBP 41 billion).",
+            "1 Jul 2026: The Ministry of Defence announces Delivery Phase 4 (DP4) for the Dreadnought programme, funding the first boat through final build, sea trials, and certification (funded).",
+            "30 Oct 2026: The Submarine Delivery Agency publishes its Annual Report and Accounts 2025/2026, announcing the formation of the Submarine Production Alliance and the ambition to double production rates for up to 12 SSN-AUKUS submarines (plan)."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "The submarine programme has evolved from initial concept approval in 2007 through multi-billion pound design and production contracts to current manufacturing expansions for Dreadnought and SSN-AUKUS."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Rolls-Royce Submarines depends on Nuclear Reactor Plant / Nuclear Steam Raising Plant — Sole-source provider of UK naval nuclear reactors."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence suppliers should monitor sole-source capacity expansions at Rolls-Royce as manufacturing scales up to support both UK and Australian submarine programmes."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Major facility upgrades required for Dreadnought reactor core production have been delivered, with activity now focused on final commissioning and manufacturing.",
+        "Context: 1 Mar 2007: Work begins on the concept phase of the successor ballistic missile submarine programme (later named Dreadnought), following parliamentary approval (plan). 2023: HMS Vanguard emerged from a refit at Devonport in 2023 that took around seven and a half years against a planned three and a half (delivered). 1 Oct 2023: The UK government awards contracts worth £4 billion to BAE Systems, Rolls-Royce, and Babcock to support SSN-AUKUS design, infrastructure, and long-lead items (contract, GBP 4 billion). 1 Jan 2025: Rolls-Royce is awarded an 8-year contract (named \"Unity\") valued at approximately £9 billion by the UK Ministry of Defence for naval reactor design, manufacture, and support (contract, GBP 9 billion). 1 May 2025: Ministry of Defence notes that £3.37 billion of the £10 billion contingency set aside for the Dreadnought class (£31 billion base cost, up to £41 billion total ceiling) had been accessed as of March 2024 (ceiling, GBP 41 billion). 1 Jul 2026: The Ministry of Defence announces Delivery Phase 4 (DP4) for the Dreadnought programme, funding the first boat through final build, sea trials, and certification (funded). 30 Oct 2026: The Submarine Delivery Agency publishes its Annual Report and Accounts 2025/2026, announcing the formation of the Submarine Production Alliance and the ambition to double production rates for up to 12 SSN-AUKUS submarines (plan).",
+        "The bigger picture: The submarine programme has evolved from initial concept approval in 2007 through multi-billion pound design and production contracts to current manufacturing expansions for Dreadnought and SSN-AUKUS.",
+        "Down the supply chain: Rolls-Royce Submarines depends on Nuclear Reactor Plant / Nuclear Steam Raising Plant — Sole-source provider of UK naval nuclear reactors.",
+        "Why it matters: Defence suppliers should monitor sole-source capacity expansions at Rolls-Royce as manufacturing scales up to support both UK and Australian submarine programmes.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "UK Defence Journal",
+          "url": "https://ukdefencejournal.org.uk/reactor-core-plant-upgrades-for-dreadnought-delivered/"
+        }
+      ],
+      "place": {
+        "label": "London",
+        "lat": 51.5074,
+        "lon": -0.1278
+      }
+    },
+    {
+      "id": "syn-268",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-01",
+      "title": "Russian Navy Cancels Modernization of Pyotr Velikiy",
+      "summary": "On November 1, 2026, official reporting confirmed the permanent cancellation of the modernization plans for the nuclear battlecruiser Pyotr Velikiy due to vessel wear and high costs.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "On November 1, 2026, official reporting confirmed the permanent cancellation of the modernization plans for the nuclear battlecruiser Pyotr Velikiy due to vessel wear and high costs."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "26 Mar 1986: The fourth Kirov-class hull, later named *Pyotr Velikiy* (ex-*Yuri Andropov*), is laid down at the Baltic Shipyard in Leningrad (plan).",
+            "1 Oct 2022: *Pyotr Velikiy* docks at Severomorsk for the final time before being laid up, awaiting scheduled modernization (site_selection).",
+            "2023: Nuclear refueling and reactivation of *Admiral Nakhimov*'s twin KN-3 reactors begin at Sevmash (funded).",
+            "18 Aug 2025: *Admiral Nakhimov* puts to sea to conduct initial factory sea trials in the White Sea.",
+            "1 Jun 2026: *Admiral Nakhimov* completes final phases of trials, returning to home port.",
+            "30 Oct 2026: A special commission provisionally decides to cancel modernization plans for *Pyotr Velikiy* due to prohibitive costs and vessel wear (approval).",
+            "1 Nov 2026: Official reporting confirms the permanent cancellation of *Pyotr Velikiy*'s upgrade, leaving the vessel's future pending between reserve limbo and scrapping (plan)."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following the 2023 reactivation of Admiral Nakhimov's reactors and its 2026 sea trials, severe budget constraints and prolonged refit delays have forced the Russian Navy to abandon upgrades for older surface combatants, signaling a contraction of its blue-water surface fleet."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Russian Navy depends on NPO Mashinostroyeniya.",
+            "US, EU, UK, and allies: sanction on Russia (in_force)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense supply chain and procurement professionals should monitor shifting Russian naval priorities away from surface fleet capital ship overhauls toward submarine programs."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "On November 1, 2026, official reporting confirmed the permanent cancellation of the modernization plans for the nuclear battlecruiser Pyotr Velikiy due to vessel wear and high costs.",
+        "Context: 26 Mar 1986: The fourth Kirov-class hull, later named *Pyotr Velikiy* (ex-*Yuri Andropov*), is laid down at the Baltic Shipyard in Leningrad (plan). 1 Oct 2022: *Pyotr Velikiy* docks at Severomorsk for the final time before being laid up, awaiting scheduled modernization (site_selection). 2023: Nuclear refueling and reactivation of *Admiral Nakhimov*'s twin KN-3 reactors begin at Sevmash (funded). 18 Aug 2025: *Admiral Nakhimov* puts to sea to conduct initial factory sea trials in the White Sea. 1 Jun 2026: *Admiral Nakhimov* completes final phases of trials, returning to home port. 30 Oct 2026: A special commission provisionally decides to cancel modernization plans for *Pyotr Velikiy* due to prohibitive costs and vessel wear (approval). 1 Nov 2026: Official reporting confirms the permanent cancellation of *Pyotr Velikiy*'s upgrade, leaving the vessel's future pending between reserve limbo and scrapping (plan).",
+        "The bigger picture: Following the 2023 reactivation of Admiral Nakhimov's reactors and its 2026 sea trials, severe budget constraints and prolonged refit delays have forced the Russian Navy to abandon upgrades for older surface combatants, signaling a contraction of its blue-water surface fleet.",
+        "Down the supply chain: Russian Navy depends on NPO Mashinostroyeniya. US, EU, UK, and allies: sanction on Russia (in_force).",
+        "Why it matters: Defense supply chain and procurement professionals should monitor shifting Russian naval priorities away from surface fleet capital ship overhauls toward submarine programs.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Naval News",
+          "url": "https://www.navalnews.com/naval-news/2026/11/pyotr-velikiy-modernization-canceled/"
+        }
+      ],
+      "place": {
+        "label": "Moscow",
+        "lat": 55.7558,
+        "lon": 37.6173
+      }
+    },
+    {
+      "id": "syn-269",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-01",
+      "title": "Netherlands to Procure Additional CV90 Vehicles via Joint Nordic Initiative",
+      "summary": "State Secretary for Defence Derk Boswijk informed the Dutch parliament in writing on 26 October 2026 about the finalized purchase parameters to acquire more CV90 infantry fighting vehicles and supporting engineering variants.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "State Secretary for Defence Derk Boswijk informed the Dutch parliament in writing on 26 October 2026 about the finalized purchase parameters to acquire more CV90 infantry fighting vehicles and supporting engineering variants."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1 Nov 1993: First production CV90 rolled off the assembly line following development by BAE Systems Hägglunds and Bofors for the Swedish Army.",
+            "2021: The Dutch Ministry of Defence initiated a mid-life upgrade (MLU) programme for its existing operational CV90 fleet to modernize them to the CV9035NL MkIIIC standard.",
+            "1 Dec 2023: Denmark and Sweden established a joint funding framework to procure additional CV90 vehicles, paving the way for expanded regional cooperation (framework).",
+            "7 Jun 2024: The Netherlands contributed €400 million to a Swedish-administered fund to build CV90 vehicles, with provisions for a significant portion to involve Dutch industrial facilities (funded, EUR 400 million).",
+            "21 Nov 2025: The Netherlands, Sweden, Finland, Norway, Lithuania, and Estonia signed a technical framework agreement for the joint procurement, development, and maintenance of the CV90 system under the Nordic initiative (framework).",
+            "28 Apr 2026: BAE Systems Hägglunds announced a $450 million expansion of its Örnsköldsvik production capacity to accommodate the large upcoming Nordic CV90 order (plan, USD 450 million).",
+            "26 Oct 2026: State Secretary Derk Boswijk formally notified the Dutch parliament of the finalized purchase parameters for additional CV90s and supporting engineering variants (contract)."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following joint procurement frameworks established by Denmark and Sweden in December 2023, a multi-nation technical framework agreement in November 2025, and a capacity expansion by BAE Systems Hägglunds in April 2026, regional cooperation has scaled up to accelerate equipment delivery."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Van Halteren Technologies (Netherlands) depends on Domestic assembly, maintenance, and lifecycle support partner for companion support platforms.",
+            "Neways Electronics (Netherlands) depends on Electronic component supply.",
+            "Avient Protective Materials (Netherlands) depends on High-performance fibers for vehicle armor and structural ballistic protection."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense industry business development and supply chain professionals should monitor Dutch and Nordic industrial participation opportunities tied to the expanded CV90 production programs."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "State Secretary for Defence Derk Boswijk informed the Dutch parliament in writing on 26 October 2026 about the finalized purchase parameters to acquire more CV90 infantry fighting vehicles and supporting engineering variants.",
+        "Context: 1 Nov 1993: First production CV90 rolled off the assembly line following development by BAE Systems Hägglunds and Bofors for the Swedish Army. 2021: The Dutch Ministry of Defence initiated a mid-life upgrade (MLU) programme for its existing operational CV90 fleet to modernize them to the CV9035NL MkIIIC standard. 1 Dec 2023: Denmark and Sweden established a joint funding framework to procure additional CV90 vehicles, paving the way for expanded regional cooperation (framework). 7 Jun 2024: The Netherlands contributed €400 million to a Swedish-administered fund to build CV90 vehicles, with provisions for a significant portion to involve Dutch industrial facilities (funded, EUR 400 million). 21 Nov 2025: The Netherlands, Sweden, Finland, Norway, Lithuania, and Estonia signed a technical framework agreement for the joint procurement, development, and maintenance of the CV90 system under the Nordic initiative (framework). 28 Apr 2026: BAE Systems Hägglunds announced a $450 million expansion of its Örnsköldsvik production capacity to accommodate the large upcoming Nordic CV90 order (plan, USD 450 million). 26 Oct 2026: State Secretary Derk Boswijk formally notified the Dutch parliament of the finalized purchase parameters for additional CV90s and supporting engineering variants (contract).",
+        "The bigger picture: Following joint procurement frameworks established by Denmark and Sweden in December 2023, a multi-nation technical framework agreement in November 2025, and a capacity expansion by BAE Systems Hägglunds in April 2026, regional cooperation has scaled up to accelerate equipment delivery.",
+        "Down the supply chain: Van Halteren Technologies (Netherlands) depends on Domestic assembly, maintenance, and lifecycle support partner for companion support platforms. Neways Electronics (Netherlands) depends on Electronic component supply. Avient Protective Materials (Netherlands) depends on High-performance fibers for vehicle armor and structural ballistic protection.",
+        "Why it matters: Defense industry business development and supply chain professionals should monitor Dutch and Nordic industrial participation opportunities tied to the expanded CV90 production programs.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/netherlands-to-acquire-more-cv90infantry-fighting-vehicles-defence-ministry-says/"
+        },
+        {
+          "n": 2,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/netherlands-to-acquire-more-cv90-infantry-fighting-vehicles-defence-ministry-says/"
+        }
+      ],
+      "place": {
+        "label": "Budel",
+        "lat": 51.2725,
+        "lon": 5.5714
+      }
+    },
+    {
+      "id": "syn-270",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-01",
+      "title": "HMS Venturer delivery delayed to 2028",
+      "summary": "Babcock confirmed that lead ship HMS Venturer is now expected to be delivered to the Royal Navy in 2028, roughly two years later than anticipated at its float-out.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Babcock confirmed that lead ship HMS Venturer is now expected to be delivered to the Royal Navy in 2028, roughly two years later than anticipated at its float-out."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "15 Nov 2019: Babcock International awarded a fixed-price contract valued at £1.25 billion to build five Type 31 general-purpose frigates for the Royal Navy (contract, GBP 1.25 billion).",
+            "24 Sep 2021: First cut of steel for the lead ship, HMS Venturer, at Babcock’s Rosyth dockyard (funded).",
+            "26 Apr 2022: Keel laying ceremony held for HMS Venturer in the new Venturer Building assembly hall at Rosyth (site_selection).",
+            "12 Apr 2024: Construction milestones advance as superstructure assembly proceeds on HMS Venturer ahead of final outfitting (plan).",
+            "11 Apr 2025: Babcock secures an additional contract amendment worth approximately $84 million (£65 million equivalent) covering capability insertion planning for the class (contract, GBP 65 million).",
+            "16 Jun 2025: HMS Venturer is floated out/waterborne at Rosyth for post-launch outfitting and system integration (delivered).",
+            "13 May 2026: Babcock books a £140 million non-recurring cost charge against the Type 31 contract due to design changes and out-of-sequence build rework (GBP 140 million)."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Since the £1.25 billion contract was awarded in November 2019, the Type 31 programme progressed through steel cutting in September 2021 and a float-out in June 2025, before hitting a £140 million cost charge in May 2026 due to design changes and rework Signal: fixed-price margin pressure."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Rolls-Royce / MTU depends on Series 8000 engines — sole-source provider for main propulsion.",
+            "Thales Nederland depends on TACTICOS system — sole-source integration for command and control.",
+            "Thales depends on Thales NS110 3D AESA Surveillance Radar — supplied by Thales."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Naval procurement and supply chain professionals should monitor supplier schedules for sole-source components like Rolls-Royce engines and Thales radar systems to mitigate cascading integration delays."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Babcock confirmed that lead ship HMS Venturer is now expected to be delivered to the Royal Navy in 2028, roughly two years later than anticipated at its float-out.",
+        "Context: 15 Nov 2019: Babcock International awarded a fixed-price contract valued at £1.25 billion to build five Type 31 general-purpose frigates for the Royal Navy (contract, GBP 1.25 billion). 24 Sep 2021: First cut of steel for the lead ship, HMS Venturer, at Babcock’s Rosyth dockyard (funded). 26 Apr 2022: Keel laying ceremony held for HMS Venturer in the new Venturer Building assembly hall at Rosyth (site_selection). 12 Apr 2024: Construction milestones advance as superstructure assembly proceeds on HMS Venturer ahead of final outfitting (plan). 11 Apr 2025: Babcock secures an additional contract amendment worth approximately $84 million (£65 million equivalent) covering capability insertion planning for the class (contract, GBP 65 million). 16 Jun 2025: HMS Venturer is floated out/waterborne at Rosyth for post-launch outfitting and system integration (delivered). 13 May 2026: Babcock books a £140 million non-recurring cost charge against the Type 31 contract due to design changes and out-of-sequence build rework (GBP 140 million).",
+        "The bigger picture: Since the £1.25 billion contract was awarded in November 2019, the Type 31 programme progressed through steel cutting in September 2021 and a float-out in June 2025, before hitting a £140 million cost charge in May 2026 due to design changes and rework Signal: fixed-price margin pressure.",
+        "Down the supply chain: Rolls-Royce / MTU depends on Series 8000 engines — sole-source provider for main propulsion. Thales Nederland depends on TACTICOS system — sole-source integration for command and control. Thales depends on Thales NS110 3D AESA Surveillance Radar — supplied by Thales.",
+        "Why it matters: Naval procurement and supply chain professionals should monitor supplier schedules for sole-source components like Rolls-Royce engines and Thales radar systems to mitigate cascading integration delays.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Navy Lookout",
+          "url": "https://www.navylookout.com/hms-venturer-to-be-delivered-to-the-royal-navy-in-2028/"
+        }
+      ],
+      "place": {
+        "label": "Rosyth",
+        "lat": 56.0366,
+        "lon": -3.4419
+      }
+    },
+    {
+      "id": "syn-271",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-01",
+      "title": "Ukraine conducts world's first heavy drone medical evacuations",
+      "summary": "Ukraine carried out the world's first medical evacuations using heavy uncrewed aircraft to lift wounded soldiers out of inaccessible positions.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Ukraine carried out the world's first medical evacuations using heavy uncrewed aircraft to lift wounded soldiers out of inaccessible positions."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1 Jan 2024: Brave1, alongside the Ukrainian Ministry of Defence and front-line military commands, formally established operational requirements and technical criteria for dedicated military evacuation drones (plan).",
+            "1 Oct 2026: Gurzuf Defence and participating Brave1 engineers finalized software and hardware modifications for the Heavy Shot Ayudag-6 hexacopter, integrating winches and anti-jamming communication links.",
+            "15 Oct 2026: The 30th Separate Mechanised Brigade executed the world's first recorded heavy-drone medical evacuation, lifting an injured infantryman using the Heavy Shot Ayudag-6 platform (delivered).",
+            "20 Oct 2026: CODE 9.2 (475th Separate Assault Regiment) successfully deployed the SkyFall StarGate system to perform back-to-back frontline medical evacuations under intense electronic warfare interference (delivered).",
+            "1 Nov 2026: Official public announcement and dissemination by the Ukrainian Ministry of Defence regarding the scaling of uncrewed evacuation platforms and tripled contracting volume through the Defence Procurement Agency (funded)."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following initial requirement settings in January 2024, engineering modifications in October 2026, and successful front-line deployments in October 2026, the Ukrainian Ministry of Defence announced tripled contracting volumes for uncrewed platforms in November 2026, signaling a rapid transition toward scaled automated casualty evacuation."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "International Regulators: export licensing on microelectronics, thermal/optical sensors, and high-discharge battery components (in_force)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence procurement and supply chain professionals should monitor rising demand for microelectronics, sensors, and high-discharge batteries as uncrewed evacuation scaling accelerates."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Ukraine carried out the world's first medical evacuations using heavy uncrewed aircraft to lift wounded soldiers out of inaccessible positions.",
+        "Context: 1 Jan 2024: Brave1, alongside the Ukrainian Ministry of Defence and front-line military commands, formally established operational requirements and technical criteria for dedicated military evacuation drones (plan). 1 Oct 2026: Gurzuf Defence and participating Brave1 engineers finalized software and hardware modifications for the Heavy Shot Ayudag-6 hexacopter, integrating winches and anti-jamming communication links. 15 Oct 2026: The 30th Separate Mechanised Brigade executed the world's first recorded heavy-drone medical evacuation, lifting an injured infantryman using the Heavy Shot Ayudag-6 platform (delivered). 20 Oct 2026: CODE 9.2 (475th Separate Assault Regiment) successfully deployed the SkyFall StarGate system to perform back-to-back frontline medical evacuations under intense electronic warfare interference (delivered). 1 Nov 2026: Official public announcement and dissemination by the Ukrainian Ministry of Defence regarding the scaling of uncrewed evacuation platforms and tripled contracting volume through the Defence Procurement Agency (funded).",
+        "The bigger picture: Following initial requirement settings in January 2024, engineering modifications in October 2026, and successful front-line deployments in October 2026, the Ukrainian Ministry of Defence announced tripled contracting volumes for uncrewed platforms in November 2026, signaling a rapid transition toward scaled automated casualty evacuation.",
+        "Down the supply chain: International Regulators: export licensing on microelectronics, thermal/optical sensors, and high-discharge battery components (in_force).",
+        "Why it matters: Defence procurement and supply chain professionals should monitor rising demand for microelectronics, sensors, and high-discharge batteries as uncrewed evacuation scaling accelerates.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Ukraine flies the first drone rescues of wounded troops",
+          "url": "https://ukdefencejournal.org.uk/ukraine-flies-the-first-drone-rescues-of-wounded-troops/"
+        }
+      ],
+      "place": {
+        "label": "Kyiv",
+        "lat": 50.4501,
+        "lon": 30.5234
+      }
+    },
+    {
+      "id": "syn-272",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-01",
+      "title": "UK restricts Saudi air missions to defence",
+      "summary": "Parliamentary answers on 1 November 2026 confirmed that UK air deployments are restricted to defensive operations with offensive strike authorization explicitly withheld.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Parliamentary answers on 1 November 2026 confirmed that UK air deployments are restricted to defensive operations with offensive strike authorization explicitly withheld."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "11 Jan 2024: UK Ministry of Defence deploys assets to conduct coordinated strikes against Houthi military targets in Yemen (delivered).",
+            "30 Apr 2025: UK Ministry of Defence issues a statement detailing follow-up air strikes against Houthi military facilities in Yemen.",
+            "22 Sep 2026: UK government announces initial deployments and enhanced military support arrangements for the Kingdom of Saudi Arabia (plan).",
+            "20 Oct 2026: Defence Secretary Wes Streeting issues a written ministerial statement (HCWS394) confirming the deployment of RAF Typhoon aircraft, an A400M transport, and extended air-to-air refuelling to defend Saudi cities and critical infrastructure against Houthi attacks (framework).",
+            "1 Nov 2026: Parliamentary answers confirm that UK air missions in Saudi Arabia remain strictly constrained to defensive umbrellas over cities and critical national infrastructure, explicitly withholding offensive strike authorization."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following initial strikes against Houthi targets in Yemen starting in January 2024 and subsequent follow-up actions, UK military involvement evolved through a September 2026 support plan into an October 2026 framework deploying RAF Typhoon and A400M assets for defensive tasks, signaling a shift toward protecting regional allies from recurring drone and missile threats."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Eurofighter Typhoon Combat Aircraft (Platform) depends on Front Fuselage and Tail Assemblies — Manufactured by BAE Systems (Warton / Samlesbury sites)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence contractors and supply chain managers supporting RAF platforms should monitor ongoing operational tempos and maintenance requirements for deployed assets."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Parliamentary answers on 1 November 2026 confirmed that UK air deployments are restricted to defensive operations with offensive strike authorization explicitly withheld.",
+        "Context: 11 Jan 2024: UK Ministry of Defence deploys assets to conduct coordinated strikes against Houthi military targets in Yemen (delivered). 30 Apr 2025: UK Ministry of Defence issues a statement detailing follow-up air strikes against Houthi military facilities in Yemen. 22 Sep 2026: UK government announces initial deployments and enhanced military support arrangements for the Kingdom of Saudi Arabia (plan). 20 Oct 2026: Defence Secretary Wes Streeting issues a written ministerial statement (HCWS394) confirming the deployment of RAF Typhoon aircraft, an A400M transport, and extended air-to-air refuelling to defend Saudi cities and critical infrastructure against Houthi attacks (framework). 1 Nov 2026: Parliamentary answers confirm that UK air missions in Saudi Arabia remain strictly constrained to defensive umbrellas over cities and critical national infrastructure, explicitly withholding offensive strike authorization.",
+        "The bigger picture: Following initial strikes against Houthi targets in Yemen starting in January 2024 and subsequent follow-up actions, UK military involvement evolved through a September 2026 support plan into an October 2026 framework deploying RAF Typhoon and A400M assets for defensive tasks, signaling a shift toward protecting regional allies from recurring drone and missile threats.",
+        "Down the supply chain: Eurofighter Typhoon Combat Aircraft (Platform) depends on Front Fuselage and Tail Assemblies — Manufactured by BAE Systems (Warton / Samlesbury sites).",
+        "Why it matters: Defence contractors and supply chain managers supporting RAF platforms should monitor ongoing operational tempos and maintenance requirements for deployed assets.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Britain’s Saudi air missions limited to defence of cities",
+          "url": "https://ukdefencejournal.org.uk/britains-saudi-air-missions-limited-to-defence-of-cities/"
+        }
+      ],
+      "place": {
+        "label": "Riyadh",
+        "lat": 24.7136,
+        "lon": 46.6753
+      }
+    },
+    {
+      "id": "syn-273",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-01",
+      "title": "Slovakia begins F-16 air policing",
+      "summary": "Slovakia has commenced national air policing duties using its F-16 Block 70 fleet after previous reliance on allied air cover.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Slovakia has commenced national air policing duties using its F-16 Block 70 fleet after previous reliance on allied air cover."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "4 Apr 2018: The U.S. Defense Security Cooperation Agency (DSCA) notified Congress of a potential Foreign Military Sale (FMS) of 14 F-16 Block 70/72 aircraft and associated weapons/support to Slovakia (plan).",
+            "22 Jul 2024: The first F-16 Block 70 fighters arrived physically in Slovakia at Malacky Air Base after initial pilot training utilization in the United States (delivered).",
+            "31 Dec 2025: Lockheed Martin announced the completion of production for all 14 Slovak F-16 Block 70 aircraft (delivered).",
+            "5 Feb 2026: Three additional F-16s landed at Kuchyňa Air Base, bringing the in-country total to ten aircraft, while four remained in the U.S. for maintenance and crew training (delivered).",
+            "16 Apr 2026: Slovakia accepted the final batch of its initial 14-jet order at Morris Air National Guard Base in Tucson, Arizona (delivered).",
+            "9 Sep 2026: The Slovak government approved an expansion agreement to procure four additional two-seat F-16 Block 70 aircraft (approval, EUR 390 million).",
+            "28 Oct 2026: Slovakia officially commenced national air policing duties using its new F-16 Block 70 fleet (delivered)."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following initial plans in 2018 and subsequent aircraft deliveries culminating in 2026, Slovakia is expanding its fleet with an additional four jets."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Lockheed Martin Corporation depends on F-16 Block 70 Airframe & Final Assembly.",
+            "Northrop Grumman Corporation depends on AN/APG-83 Active Electronically Scanned Array (AESA) Radar.",
+            "Lockheed Martin / U.S. Air Force Research Laboratory depends on Automatic Ground Collision Avoidance System (Auto GCAS)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence procurement and maintenance professionals should monitor continued training schedules and fleet operations."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Slovakia has commenced national air policing duties using its F-16 Block 70 fleet after previous reliance on allied air cover.",
+        "Context: 4 Apr 2018: The U.S. Defense Security Cooperation Agency (DSCA) notified Congress of a potential Foreign Military Sale (FMS) of 14 F-16 Block 70/72 aircraft and associated weapons/support to Slovakia (plan). 22 Jul 2024: The first F-16 Block 70 fighters arrived physically in Slovakia at Malacky Air Base after initial pilot training utilization in the United States (delivered). 31 Dec 2025: Lockheed Martin announced the completion of production for all 14 Slovak F-16 Block 70 aircraft (delivered). 5 Feb 2026: Three additional F-16s landed at Kuchyňa Air Base, bringing the in-country total to ten aircraft, while four remained in the U.S. for maintenance and crew training (delivered). 16 Apr 2026: Slovakia accepted the final batch of its initial 14-jet order at Morris Air National Guard Base in Tucson, Arizona (delivered). 9 Sep 2026: The Slovak government approved an expansion agreement to procure four additional two-seat F-16 Block 70 aircraft (approval, EUR 390 million). 28 Oct 2026: Slovakia officially commenced national air policing duties using its new F-16 Block 70 fleet (delivered).",
+        "The bigger picture: Following initial plans in 2018 and subsequent aircraft deliveries culminating in 2026, Slovakia is expanding its fleet with an additional four jets.",
+        "Down the supply chain: Lockheed Martin Corporation depends on F-16 Block 70 Airframe & Final Assembly. Northrop Grumman Corporation depends on AN/APG-83 Active Electronically Scanned Array (AESA) Radar. Lockheed Martin / U.S. Air Force Research Laboratory depends on Automatic Ground Collision Avoidance System (Auto GCAS).",
+        "Why it matters: Defence procurement and maintenance professionals should monitor continued training schedules and fleet operations.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/slovakias-defence-mutex-says-f-16-block-70-fighters-have-begun-national-air-policing-duties/"
+        },
+        {
+          "n": 2,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/slovakias-defence-ministry-says-f-16-block-70-fighters-have-begun-national-air-policing-duties/"
+        }
+      ],
+      "place": {
+        "label": "Bratislava",
+        "lat": 48.1486,
+        "lon": 17.1077
+      }
+    },
+    {
+      "id": "syn-274",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-01",
+      "title": "Italy Eyes Airbus A400M",
+      "summary": "Bilateral air mobility talks revealed an official document explicitly titled Airbus A400M for Italy.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Bilateral air mobility talks revealed an official document explicitly titled Airbus A400M for Italy."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1 Jan 1993: Seven European nations sign an intergovernmental MoU and European Staff Target for the Future Large Aircraft (FLA) (framework).",
+            "26 Oct 2001: Italy officially withdraws from the A400M/FLA development programme due to industrial and budgetary shifts.",
+            "27 May 2003: Launch contract is signed between OCCAR and Airbus Military for 180 aircraft (contract, 180).",
+            "11 Dec 2009: Prototype Grizzly 1 successfully completes its maiden flight in Seville (delivered).",
+            "1 Jun 2026: Media reports indicate renewed Italian Air Force interest in acquiring 8 to 10 A400M aircraft to replace C-130Js (plan, 10).",
+            "7 Jul 2026: NATO nations launch a High Visibility Project to build a multinational A400M fleet initiative (framework).",
+            "29 Oct 2026: Bilateral UK-Italy air mobility talks display an official document explicitly titled Airbus A400M for Italy."
+          ],
+          "list": true
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Premium Aerotec and Dassault Aviation depends on Structural Fuselage Panels."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence procurement professionals should monitor Italian defense budget allocations regarding potential transport aircraft fleet replacements."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Bilateral air mobility talks revealed an official document explicitly titled Airbus A400M for Italy.",
+        "Context: 1 Jan 1993: Seven European nations sign an intergovernmental MoU and European Staff Target for the Future Large Aircraft (FLA) (framework). 26 Oct 2001: Italy officially withdraws from the A400M/FLA development programme due to industrial and budgetary shifts. 27 May 2003: Launch contract is signed between OCCAR and Airbus Military for 180 aircraft (contract, 180). 11 Dec 2009: Prototype Grizzly 1 successfully completes its maiden flight in Seville (delivered). 1 Jun 2026: Media reports indicate renewed Italian Air Force interest in acquiring 8 to 10 A400M aircraft to replace C-130Js (plan, 10). 7 Jul 2026: NATO nations launch a High Visibility Project to build a multinational A400M fleet initiative (framework). 29 Oct 2026: Bilateral UK-Italy air mobility talks display an official document explicitly titled Airbus A400M for Italy.",
+        "Down the supply chain: Premium Aerotec and Dassault Aviation depends on Structural Fuselage Panels.",
+        "Why it matters: Defence procurement professionals should monitor Italian defense budget allocations regarding potential transport aircraft fleet replacements.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Zone Militaire",
+          "url": "https://www.opex360.com/2026/11/01/un-document-confirme-linteret-de-la-force-aerienne-italienne-pour-lavion-de-transport-a400m-atlas-dairbus/"
+        }
+      ],
+      "place": {
+        "label": "Rome",
+        "lat": 41.9028,
+        "lon": 12.4964
+      }
+    },
+    {
+      "id": "syn-275",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-01",
+      "title": "DGA tenders SMOKers kamikaze drone series manufacturing",
+      "summary": "The DGA issued a competitive tender to industrialize and transition the SMOKERS kamikaze drone to series manufacturing.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "The DGA issued a competitive tender to industrialize and transition the SMOKERS kamikaze drone to series manufacturing."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1 Apr 2026: The DGA initiates the SMOKERS project under CERDAN (Centre Expert Référent sur les Drones Navals) at DGA Naval Techniques in Toulon (plan).",
+            "1 May 2026: DGA Naval Techniques completes the “SMOKERS V0” prototype and develops the dronization control suite (funded).",
+            "1 Jul 2026: DGA Hydrodynamic Techniques develops the SMOKERS V1.0 platform utilizing an in-house small-scale composite manufacturing process (funded).",
+            "26 Oct 2026: The DGA successfully transitions the SMOKERS uncrewed surface vessel from concept to sea trials within six months, deploying three prototypes during the French Navy's WildFire exercise (delivered).",
+            "1 Nov 2026: The DGA issues a competitive tender (appel d’offres) to industrialize and transition the SMOKERS kamikaze drone to series manufacturing (contract)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "EU — Preserving Peace – Defence Readiness Roadmap 2030 (2025-10-16): Milestones towards full EU defence readiness by 2030, with four flagships: European Drone Defence Initiative, Eastern Flank Watch, European Air Shield and European Space Shield.",
+            "FR — Actualisation de la loi de programmation militaire 2024-2030 (2026-08-16): €36 billion extra for the armed forces in 2026–2030 on top of the €413 billion LPM: nuclear deterrence, air defence, counter-drone, deep strike, munitions, drones, space and electromagnetic warfare."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Driven by rapid prototyping efforts since April 2026 and reinforced by national military programming updates, naval drone development is shifting rapidly toward scalable industrial series production."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "SMOKERS depends on Composite Hulls — Manufactured using epoxy resin and fibreglass reinforcement."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense contractors specializing in composite hulls and autonomous maritime systems should review the tender to position for series manufacturing contracts."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "The DGA issued a competitive tender to industrialize and transition the SMOKERS kamikaze drone to series manufacturing.",
+        "Context: 1 Apr 2026: The DGA initiates the SMOKERS project under CERDAN (Centre Expert Référent sur les Drones Navals) at DGA Naval Techniques in Toulon (plan). 1 May 2026: DGA Naval Techniques completes the “SMOKERS V0” prototype and develops the dronization control suite (funded). 1 Jul 2026: DGA Hydrodynamic Techniques develops the SMOKERS V1.0 platform utilizing an in-house small-scale composite manufacturing process (funded). 26 Oct 2026: The DGA successfully transitions the SMOKERS uncrewed surface vessel from concept to sea trials within six months, deploying three prototypes during the French Navy's WildFire exercise (delivered). 1 Nov 2026: The DGA issues a competitive tender (appel d’offres) to industrialize and transition the SMOKERS kamikaze drone to series manufacturing (contract).",
+        "Policy direction: EU — Preserving Peace – Defence Readiness Roadmap 2030 (2025-10-16): Milestones towards full EU defence readiness by 2030, with four flagships: European Drone Defence Initiative, Eastern Flank Watch, European Air Shield and European Space Shield. FR — Actualisation de la loi de programmation militaire 2024-2030 (2026-08-16): €36 billion extra for the armed forces in 2026–2030 on top of the €413 billion LPM: nuclear deterrence, air defence, counter-drone, deep strike, munitions, drones, space and electromagnetic warfare.",
+        "The bigger picture: Driven by rapid prototyping efforts since April 2026 and reinforced by national military programming updates, naval drone development is shifting rapidly toward scalable industrial series production.",
+        "Down the supply chain: SMOKERS depends on Composite Hulls — Manufactured using epoxy resin and fibreglass reinforcement.",
+        "Why it matters: Defense contractors specializing in composite hulls and autonomous maritime systems should review the tender to position for series manufacturing contracts.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "La Direction générale de l’armement lance un appel d’offres pour industrialiser son drone naval kamikaze «SMOKERS»",
+          "url": "https://www.opex360.com/"
+        },
+        {
+          "n": 2,
+          "title": "Zone Militaire",
+          "url": "https://www.opex360.com/2026/11/01/la-direction-generale-de-larmement-lance-un-appel-doffres-pour-industrialiser-son-drone-naval-kamikaze-smokers/"
+        }
+      ],
+      "place": {
+        "label": "Paris",
+        "lat": 48.8566,
+        "lon": 2.3522
+      }
+    },
+    {
+      "id": "syn-276",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-01",
+      "title": "Kongsberg Tests Containerised Naval Strike Missile Launcher",
+      "summary": "Kongsberg tested a prototype containerised Naval Strike Missile launcher in Norway in early October, firing an NSM Ballistic Test Vehicle from a 20-foot ISO container.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Kongsberg tested a prototype containerised Naval Strike Missile launcher in Norway in early October, firing an NSM Ballistic Test Vehicle from a 20-foot ISO container."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1996: Norwegian government awards Kongsberg a contract for the full-scale development of the Nytt sjømålsmissil (New Sea Target Missile), later named the Naval Strike Missile (contract).",
+            "Jun 2013: Kongsberg and the Norwegian Navy successfully complete a live-warhead sinking test against the decommissioned frigate HNoMS Trondheim (site_selection).",
+            "May 2018: U.S. Navy selects the NSM as the Over-the-Horizon Weapon System (OTH-WS) for Littoral Combat Ships (approval).",
+            "Oct 2019: U.S. Navy successfully conducts its first operational NSM firing from the Independence-variant LCS USS Gabrielle Giffords (delivered).",
+            "23 Nov 2022: United Kingdom selects the NSM as an interim surface-to-surface guided weapon for Royal Navy frigates and destroyers (framework).",
+            "12 Nov 2024: U.S. Naval Sea Systems Command awards Kongsberg a definitive contract (N00024-25-C-5434) worth up to $1.6 billion for Launcher Missile Modules and encanistered missiles for the USMC (ceiling, USD 1.6 billion).",
+            "Oct 2026: Kongsberg successfully tests a containerised Naval Strike Missile launcher holding up to four missiles inside a 20-foot ISO container in Norway, firing an NSM Ballistic Test Vehicle (funded)."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following initial development contracts in 1996 and subsequent adoption by international navies, the Naval Strike Missile has evolved through shipboard and coastal deployments toward flexible containerised land and maritime concepts."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Naval Strike Missile depends on Microturbo TRI-40 turbojet engine (Safran Helicopter Engines), providing propulsion.",
+            "Naval Strike Missile depends on Composite materials and radar-absorbent structural elements for stealth shaping.",
+            "Naval Strike Missile depends on 20-foot ISO standard shipping containers configured with hydraulic lift-and-retract mechanisms.",
+            "Norwegian government and United States: export licensing on Naval Strike Missile guidance and sensor subsystems (in_force)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence procurement and supply chain professionals should evaluate how standard 20-foot ISO container logistics can integrate modular strike capabilities into existing transport networks."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Kongsberg tested a prototype containerised Naval Strike Missile launcher in Norway in early October, firing an NSM Ballistic Test Vehicle from a 20-foot ISO container.",
+        "Context: 1996: Norwegian government awards Kongsberg a contract for the full-scale development of the Nytt sjømålsmissil (New Sea Target Missile), later named the Naval Strike Missile (contract). Jun 2013: Kongsberg and the Norwegian Navy successfully complete a live-warhead sinking test against the decommissioned frigate HNoMS Trondheim (site_selection). May 2018: U.S. Navy selects the NSM as the Over-the-Horizon Weapon System (OTH-WS) for Littoral Combat Ships (approval). Oct 2019: U.S. Navy successfully conducts its first operational NSM firing from the Independence-variant LCS USS Gabrielle Giffords (delivered). 23 Nov 2022: United Kingdom selects the NSM as an interim surface-to-surface guided weapon for Royal Navy frigates and destroyers (framework). 12 Nov 2024: U.S. Naval Sea Systems Command awards Kongsberg a definitive contract (N00024-25-C-5434) worth up to $1.6 billion for Launcher Missile Modules and encanistered missiles for the USMC (ceiling, USD 1.6 billion). Oct 2026: Kongsberg successfully tests a containerised Naval Strike Missile launcher holding up to four missiles inside a 20-foot ISO container in Norway, firing an NSM Ballistic Test Vehicle (funded).",
+        "The bigger picture: Following initial development contracts in 1996 and subsequent adoption by international navies, the Naval Strike Missile has evolved through shipboard and coastal deployments toward flexible containerised land and maritime concepts.",
+        "Down the supply chain: Naval Strike Missile depends on Microturbo TRI-40 turbojet engine (Safran Helicopter Engines), providing propulsion. Naval Strike Missile depends on Composite materials and radar-absorbent structural elements for stealth shaping. Naval Strike Missile depends on 20-foot ISO standard shipping containers configured with hydraulic lift-and-retract mechanisms. Norwegian government and United States: export licensing on Naval Strike Missile guidance and sensor subsystems (in_force).",
+        "Why it matters: Defence procurement and supply chain professionals should evaluate how standard 20-foot ISO container logistics can integrate modular strike capabilities into existing transport networks.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/kongsberg-tests-containerised-naval-strike-missile-launcher-for-land-and-maritime-platforms/"
+        }
+      ],
+      "place": {
+        "label": "Kongsberg",
+        "lat": 59.6596,
+        "lon": 9.6593
+      }
+    },
+    {
       "id": "syn-251",
       "status": "approved",
       "kind": "Synthesis",
