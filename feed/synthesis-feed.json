@@ -3,6 +3,743 @@
   "notice": "Syntheses prepared by machine from open sources and approved by the editor. Check the sources.",
   "items": [
     {
+      "id": "syn-292",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-01",
+      "title": "Hintsteiner Launches €3.5M Mobile Service and Logistics Hub",
+      "summary": "Hintsteiner Defence launched a €3.5 million infrastructure and mobile service initiative combining a Gföllner-built maintenance truck with a new 2,000-pallet high-bay warehouse at St Barbara im Mürztal.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Hintsteiner Defence launched a €3.5 million infrastructure and mobile service initiative combining a Gföllner-built maintenance truck with a new 2,000-pallet high-bay warehouse at St Barbara im Mürztal."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "21 Sep 2026: Gföllner Fahrzeugbau und Containertechnik completes the custom vehicle integration for the Hintsteiner mobile service truck (contract).",
+            "30 Oct 2026: Industry reporting highlights Hintsteiner Defence's expansion into mobile maintenance and upgraded spare parts logistics to support military clients without requiring complex cross-border transport back to stationary plants (plan).",
+            "1 Nov 2026: Hintsteiner Defence officially launches its €3.5 million infrastructure and mobile service initiative, combining the Gföllner-built maintenance truck with a new 2,000-pallet high-bay warehouse at St. Barbara im Mürztal (funded, EUR 3.5 million)."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Defense suppliers are increasingly shifting from pure manufacturing to localized maintenance, repair, and overhaul (MRO) capabilities to bypass complex cross-border logistics and reduce military vehicle downtime."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Hintsteiner Defence depends on Carbon Fiber Reinforced Polymers (CFRP) / Prepregs — Structural raw materials for lightweight military panels and protective enclosures.",
+            "Hintsteiner Defence depends on Glass Fiber Reinforced Plastics (GFRP) — Alternative resin-matrix composites used for corrosion-resistant tanks, structural masts, and housing."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Procurement and supply chain professionals should evaluate localized mobile MRO solutions to accelerate turnaround times for composite and spare parts maintenance."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Hintsteiner Defence launched a €3.5 million infrastructure and mobile service initiative combining a Gföllner-built maintenance truck with a new 2,000-pallet high-bay warehouse at St Barbara im Mürztal.",
+        "Context: 21 Sep 2026: Gföllner Fahrzeugbau und Containertechnik completes the custom vehicle integration for the Hintsteiner mobile service truck (contract). 30 Oct 2026: Industry reporting highlights Hintsteiner Defence's expansion into mobile maintenance and upgraded spare parts logistics to support military clients without requiring complex cross-border transport back to stationary plants (plan). 1 Nov 2026: Hintsteiner Defence officially launches its €3.5 million infrastructure and mobile service initiative, combining the Gföllner-built maintenance truck with a new 2,000-pallet high-bay warehouse at St. Barbara im Mürztal (funded, EUR 3.5 million).",
+        "The bigger picture: Defense suppliers are increasingly shifting from pure manufacturing to localized maintenance, repair, and overhaul (MRO) capabilities to bypass complex cross-border logistics and reduce military vehicle downtime.",
+        "Down the supply chain: Hintsteiner Defence depends on Carbon Fiber Reinforced Polymers (CFRP) / Prepregs — Structural raw materials for lightweight military panels and protective enclosures. Hintsteiner Defence depends on Glass Fiber Reinforced Plastics (GFRP) — Alternative resin-matrix composites used for corrosion-resistant tanks, structural masts, and housing.",
+        "Why it matters: Procurement and supply chain professionals should evaluate localized mobile MRO solutions to accelerate turnaround times for composite and spare parts maintenance.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Militär Aktuell – Sicherheit im Fokus",
+          "url": "https://militaeraktuell.at/oesterreich-hat-wieder-neun-black-hawks/"
+        }
+      ],
+      "place": {
+        "label": "Langenlebarn",
+        "lat": 48.3278,
+        "lon": 16.1283
+      }
+    },
+    {
+      "id": "syn-293",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-01",
+      "title": "U.S. Army Partners with Private Sector and Academia for Industrial Modernization",
+      "summary": "Acting Army Secretary Adam Telle visited Arkansas to review Pine Bluff Arsenal's sole-source manufacturing capabilities and advance the ARSENAL READY campaign. The Army formalized strategic priorities incorporating Walmart's supply-chain disruption management and the University of Arkansas's advanced materials research.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Acting Army Secretary Adam Telle visited Arkansas to review Pine Bluff Arsenal's sole-source manufacturing capabilities and advance the ARSENAL READY campaign. The Army formalized strategic priorities incorporating Walmart's supply-chain disruption management and the University of Arkansas's advanced materials research."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "11 Jan 2024: The U.S. Department of Defense officially published the 2024 National Defense Industrial Strategy (NDIS) to build long-term industrial resilience (framework).",
+            "15 Jan 2025: Pine Bluff Arsenal launched the ARSENAL READY campaign to modernize its industrial park infrastructure through public-private partnerships (plan).",
+            "30 Oct 2026: Acting Army Secretary Adam Telle initiated high-level meetings in Arkansas to review Pine Bluff Arsenal's sole-source manufacturing capabilities (site_selection).",
+            "1 Nov 2026: U.S. Army formally publicized strategic priorities integrating commercial supply chain practices (Walmart) and academic research (University of Arkansas) (contract)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base.",
+            "US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following the 2024 National Defense Industrial Strategy framework and the 2026 National Defense Strategy, the military continues to supercharge the domestic defense industrial base through long-term modernization plans and strategic partnerships, signaling a decisive shift toward integrated commercial resilience."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Silicon Carbide Substrates depends on University of Arkansas Multi-User Silicon Carbide Research and Fabrication Facility.",
+            "U.S. Government: export licensing on chemical munitions and advanced semiconductor materials development (in_force)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense industry business development and supply chain professionals should monitor these public-private initiatives to align manufacturing capabilities with evolving U.S. Army industrial readiness requirements."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Acting Army Secretary Adam Telle visited Arkansas to review Pine Bluff Arsenal's sole-source manufacturing capabilities and advance the ARSENAL READY campaign. The Army formalized strategic priorities incorporating Walmart's supply-chain disruption management and the University of Arkansas's advanced materials research.",
+        "Context: 11 Jan 2024: The U.S. Department of Defense officially published the 2024 National Defense Industrial Strategy (NDIS) to build long-term industrial resilience (framework). 15 Jan 2025: Pine Bluff Arsenal launched the ARSENAL READY campaign to modernize its industrial park infrastructure through public-private partnerships (plan). 30 Oct 2026: Acting Army Secretary Adam Telle initiated high-level meetings in Arkansas to review Pine Bluff Arsenal's sole-source manufacturing capabilities (site_selection). 1 Nov 2026: U.S. Army formally publicized strategic priorities integrating commercial supply chain practices (Walmart) and academic research (University of Arkansas) (contract).",
+        "Policy direction: US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base. US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress.",
+        "The bigger picture: Following the 2024 National Defense Industrial Strategy framework and the 2026 National Defense Strategy, the military continues to supercharge the domestic defense industrial base through long-term modernization plans and strategic partnerships, signaling a decisive shift toward integrated commercial resilience.",
+        "Down the supply chain: Silicon Carbide Substrates depends on University of Arkansas Multi-User Silicon Carbide Research and Fabrication Facility. U.S. Government: export licensing on chemical munitions and advanced semiconductor materials development (in_force).",
+        "Why it matters: Defense industry business development and supply chain professionals should monitor these public-private initiatives to align manufacturing capabilities with evolving U.S. Army industrial readiness requirements.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "U.S. Army prioritizes industrial modernization, supply-chain resilience and research partnerships",
+          "url": "https://defence-industry.eu/u-s-armys-hades-prototype-completes-first-flight-in-aerial-intelligence-modernization-program"
+        },
+        {
+          "n": 2,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/u-s-army-prioritizes-industrial-modernization-supply-chain-resilience-and-research-partnerships/"
+        }
+      ],
+      "place": {
+        "label": "Pine Bluff",
+        "lat": 34.2284,
+        "lon": -92.0032
+      }
+    },
+    {
+      "id": "syn-294",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-01",
+      "title": "Belgium Weighs F-35 Fleet Expansion to 45 Jets",
+      "summary": "Belgian authorities are considering increasing their F-35 fleet to 45 aircraft as part of a defense strategy, with F-16s to be phased out by 2028.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Belgian authorities are considering increasing their F-35 fleet to 45 aircraft as part of a defense strategy, with F-16s to be phased out by 2028."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "26 Oct 2001: Lockheed Martin selected as the prime contractor for the Joint Strike Fighter program following the X-35 concept demonstration phase (contract).",
+            "15 Dec 2006: The first F-35 Lightning II conventional takeoff and landing (CTOL) variant successfully completed its maiden flight (delivered).",
+            "14 Jul 2011: The first operational F-35A was delivered to the United States Air Force at Eglin Air Force Base (delivered).",
+            "7 Oct 2015: Alcoa secured a nine-year contract valued at approximately $1.1 billion to supply titanium plate, billet, and forged bulkheads for all variants of the F-35 program (contract, USD 1.1 billion).",
+            "17 Jul 2019: Following Turkey's acquisition of the Russian S-400 air defense system, the U.S. formally removed Turkey from the F-35 partnership and initiated a supply chain transition.",
+            "1 Aug 2023: The F-35 Joint Program Office and Lockheed Martin agreed on terms for Lot 15-17 production contracts, establishing baseline pricing for up to 398 jets (contract).",
+            "22 Oct 2026: Lockheed Martin and the Pentagon announced a 10-year framework agreement for 850 U.S. F-35 aircraft and sustainment integration (framework)."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following decades of foundational development and long-term framework agreements such as the October 2026 U.S. Pentagon deal, the F-35 program continues to expand its global user base amid heightened security demands."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Lockheed Martin depends on Alcoa / RTI International Metals — supplier of structural titanium plate, billet, and heavy structural bulkheads.",
+            "U.S. Government: sanction on Turkey from 2019-07-17 (in_force)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense procurement and supply chain professionals should monitor potential tier-supplier opportunities as Belgium looks to integrate further industrial participation and early munitions orders."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Belgian authorities are considering increasing their F-35 fleet to 45 aircraft as part of a defense strategy, with F-16s to be phased out by 2028.",
+        "Context: 26 Oct 2001: Lockheed Martin selected as the prime contractor for the Joint Strike Fighter program following the X-35 concept demonstration phase (contract). 15 Dec 2006: The first F-35 Lightning II conventional takeoff and landing (CTOL) variant successfully completed its maiden flight (delivered). 14 Jul 2011: The first operational F-35A was delivered to the United States Air Force at Eglin Air Force Base (delivered). 7 Oct 2015: Alcoa secured a nine-year contract valued at approximately $1.1 billion to supply titanium plate, billet, and forged bulkheads for all variants of the F-35 program (contract, USD 1.1 billion). 17 Jul 2019: Following Turkey's acquisition of the Russian S-400 air defense system, the U.S. formally removed Turkey from the F-35 partnership and initiated a supply chain transition. 1 Aug 2023: The F-35 Joint Program Office and Lockheed Martin agreed on terms for Lot 15-17 production contracts, establishing baseline pricing for up to 398 jets (contract). 22 Oct 2026: Lockheed Martin and the Pentagon announced a 10-year framework agreement for 850 U.S. F-35 aircraft and sustainment integration (framework).",
+        "The bigger picture: Following decades of foundational development and long-term framework agreements such as the October 2026 U.S. Pentagon deal, the F-35 program continues to expand its global user base amid heightened security demands.",
+        "Down the supply chain: Lockheed Martin depends on Alcoa / RTI International Metals — supplier of structural titanium plate, billet, and heavy structural bulkheads. U.S. Government: sanction on Turkey from 2019-07-17 (in_force).",
+        "Why it matters: Defense procurement and supply chain professionals should monitor potential tier-supplier opportunities as Belgium looks to integrate further industrial participation and early munitions orders.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Militär Aktuell – Sicherheit im Fokus",
+          "url": "https://militaeraktuell.at/belgien-f-35-flotte-45-kampfjets-aufstocken/"
+        }
+      ],
+      "place": {
+        "label": "Brussels",
+        "lat": 50.8503,
+        "lon": 4.3517
+      }
+    },
+    {
+      "id": "syn-295",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-02",
+      "title": "Saab Launches Ocean Barrier for Maritime Border Protection",
+      "summary": "Saab formally launched the Ocean Barrier system, featuring a modular, sensor-agnostic architecture with Detect, Prevent, and Protect perimeters.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Saab formally launched the Ocean Barrier system, featuring a modular, sensor-agnostic architecture with Detect, Prevent, and Protect perimeters."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "17 Oct 2023: Saab participates with underwater systems in NATO's maritime exercises involving unmanned architectures.",
+            "18 Sep 2025: Optics11 and MacArtney detail subsea fibre-optic sensor pods (OptiBarrier) integrated with Saab's broader command and control ecosystems.",
+            "1 Sep 2026: Saab tests and demonstrates early software iterations and data-fusing constructs for Ocean Barrier during NATO's REPMUS 2026 (Robotic Experimentation and Prototyping with Maritime Unmanned Systems) exercise in Tróia, Portugal (site_selection).",
+            "28 Oct 2026: Saab formally launches the Ocean Barrier system, featuring a modular, sensor-agnostic architecture with Detect, Prevent, and Protect perimeters (contract).",
+            "29 Oct 2026: Media briefings and technical breakdowns outline Ocean Barrier's three defensive layers (hydroacoustic passive arrays, tripod-mounted fibre-optic sensor pods, and active coastal sonars).",
+            "2027: Saab unveils the Ocean Barrier solution, which was recently demonstrated during the international REPMUS 2026 exercise and is expected to be ready in 2027 (plan)."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following early tests during NATO's REPMUS 2026 exercise, the system is expected to be ready in 2027, signalling a shift toward integrated unmanned subsea defense networks."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Fibre-optic acoustic sensors depends on Optics11 — OptiBarrier technology providing passive subsea acoustic sensing layers.",
+            "Seabed mounting pods and housing protection depends on MacArtney Underwater Technology — subsea pod construction for fibre-optic hydrophones.",
+            "Hydroacoustic arrays & active sonar elements depends on Saab Underwater Systems (Sweden/UK) — Hydroacoustic arrays & active sonar elements."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Naval supply chain and procurement professionals should monitor partnerships with sensor and pod providers as modular subsea architectures scale."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Saab formally launched the Ocean Barrier system, featuring a modular, sensor-agnostic architecture with Detect, Prevent, and Protect perimeters.",
+        "Context: 17 Oct 2023: Saab participates with underwater systems in NATO's maritime exercises involving unmanned architectures. 18 Sep 2025: Optics11 and MacArtney detail subsea fibre-optic sensor pods (OptiBarrier) integrated with Saab's broader command and control ecosystems. 1 Sep 2026: Saab tests and demonstrates early software iterations and data-fusing constructs for Ocean Barrier during NATO's REPMUS 2026 (Robotic Experimentation and Prototyping with Maritime Unmanned Systems) exercise in Tróia, Portugal (site_selection). 28 Oct 2026: Saab formally launches the Ocean Barrier system, featuring a modular, sensor-agnostic architecture with Detect, Prevent, and Protect perimeters (contract). 29 Oct 2026: Media briefings and technical breakdowns outline Ocean Barrier's three defensive layers (hydroacoustic passive arrays, tripod-mounted fibre-optic sensor pods, and active coastal sonars). 2027: Saab unveils the Ocean Barrier solution, which was recently demonstrated during the international REPMUS 2026 exercise and is expected to be ready in 2027 (plan).",
+        "The bigger picture: Following early tests during NATO's REPMUS 2026 exercise, the system is expected to be ready in 2027, signalling a shift toward integrated unmanned subsea defense networks.",
+        "Down the supply chain: Fibre-optic acoustic sensors depends on Optics11 — OptiBarrier technology providing passive subsea acoustic sensing layers. Seabed mounting pods and housing protection depends on MacArtney Underwater Technology — subsea pod construction for fibre-optic hydrophones. Hydroacoustic arrays & active sonar elements depends on Saab Underwater Systems (Sweden/UK) — Hydroacoustic arrays & active sonar elements.",
+        "Why it matters: Naval supply chain and procurement professionals should monitor partnerships with sensor and pod providers as modular subsea architectures scale.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "APDR",
+          "url": "https://asiapacificdefencereporter.com/saab-launches-ocean-barrier-for-maritime-border-protection/"
+        }
+      ],
+      "place": {
+        "label": "Stockholm",
+        "lat": 59.3293,
+        "lon": 18.0686
+      }
+    },
+    {
+      "id": "syn-296",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-02",
+      "title": "AFI KLM E&M and Exail deliver E-3F AWACS simulator",
+      "summary": "AFI KLM E&M and Exail announced the operational delivery of the E-3F Full Flight Simulator to the DGA for the 36th Airborne Command and Control Wing at Avord.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "AFI KLM E&M and Exail announced the operational delivery of the E-3F Full Flight Simulator to the DGA for the 36th Airborne Command and Control Wing at Avord."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "13 Mar 2023: AFI KLM E&M awards a contract to Exail (formerly ECA Group) to design and manufacture the E-3F Full Flight Simulator as part of the DGA's cockpit renovation and fleet support initiative (contract).",
+            "4 Jun 2026: Exail hosts the official presentation and unveiling ceremony of the E-3F AWACS simulator at its Lannion facility with DGA and AFI KLM E&M representatives (site_selection).",
+            "1 Sep 2026: Exail completes factory assembly and delivers the 3D flight training device to the French Air and Space Force (delivered).",
+            "29 Oct 2026: AFI KLM E&M and Exail formally announce the operational delivery of the E-3F Full Flight Simulator to the DGA for the 36th Airborne Command and Control Wing at Avord (delivered)."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following the March 2023 contract award, the program has culminated in operational deployment to support the AWACS aircraft through 2035."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Atlantique 2 depends on Searchmaster."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense contractors and training providers should monitor how prime integrators leverage industrial partnerships for synthetic training solutions."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "AFI KLM E&M and Exail announced the operational delivery of the E-3F Full Flight Simulator to the DGA for the 36th Airborne Command and Control Wing at Avord.",
+        "Context: 13 Mar 2023: AFI KLM E&M awards a contract to Exail (formerly ECA Group) to design and manufacture the E-3F Full Flight Simulator as part of the DGA's cockpit renovation and fleet support initiative (contract). 4 Jun 2026: Exail hosts the official presentation and unveiling ceremony of the E-3F AWACS simulator at its Lannion facility with DGA and AFI KLM E&M representatives (site_selection). 1 Sep 2026: Exail completes factory assembly and delivers the 3D flight training device to the French Air and Space Force (delivered). 29 Oct 2026: AFI KLM E&M and Exail formally announce the operational delivery of the E-3F Full Flight Simulator to the DGA for the 36th Airborne Command and Control Wing at Avord (delivered).",
+        "The bigger picture: Following the March 2023 contract award, the program has culminated in operational deployment to support the AWACS aircraft through 2035.",
+        "Down the supply chain: Atlantique 2 depends on Searchmaster.",
+        "Why it matters: Defense contractors and training providers should monitor how prime integrators leverage industrial partnerships for synthetic training solutions.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "APDR",
+          "url": "https://asiapacificdefencereporter.com/afi-klm-em-and-exail-deliver-new-e-3f-awacs-flight-simulator/"
+        }
+      ],
+      "place": {
+        "label": "Lannion",
+        "lat": 48.7333,
+        "lon": -3.45
+      }
+    },
+    {
+      "id": "syn-299",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-02",
+      "title": "Saab and General Atomics Complete MQ-9B Airborne Early Warning Flight Tests",
+      "summary": "Saab and General Atomics Aeronautical Systems completed advanced flight testing of the LoyalEye radar integrated on an MQ-9B uncrewed aerial system, demonstrating simultaneous tracking of airborne and maritime targets.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Saab and General Atomics Aeronautical Systems completed advanced flight testing of the LoyalEye radar integrated on an MQ-9B uncrewed aerial system, demonstrating simultaneous tracking of airborne and maritime targets."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1 Jan 2025: Saab and General Atomics announce partnership to integrate an airborne early warning sensor onto the MQ-9B (plan).",
+            "May 2026: The flight test is part of an evaluation programme that began with the system’s first flight in May 2026, underscoring the rapid progress of the capability (test).",
+            "19 May 2026: Saab's LoyalEye airborne early warning radar completes its successful maiden flight on an uncrewed MQ-9B at GA-ASI's Desert Horizon facility in Southern California, initiating a multi-month flight test campaign (delivered).",
+            "28 Oct 2026: GA-ASI and Saab announce the successful completion of advanced flight testing, demonstrating simultaneous long-range tracking of airborne and maritime targets.",
+            "29 Oct 2026: Industry analysts and trade publications report on the completion of the operational demonstration phase, highlighting payload pod architecture comprising two under-wing radar array pods and a centerline processing unit (evaluation)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "EU — Preserving Peace – Defence Readiness Roadmap 2030 (2025-10-16): Milestones towards full EU defence readiness by 2030, with four flagships: European Drone Defence Initiative, Eastern Flank Watch, European Air Shield and European Space Shield.",
+            "US — Unleashing U.S. Military Drone Dominance (Secretary of Defense memorandum) (2025-07-10): Ramp up US production and fielding of low-cost drones: buy American-made drones and parts, equip combat units, and delegate drone procurement authority down to commanders."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following an initial partnership announcement in January 2025 and a maiden flight in May 2026, the successful October 2026 operational demonstrations signal a rapid shift toward uncrewed airborne early warning capabilities."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Active Electronically Scanned Array (AESA) Radar Modules and Transmit/Receive Modules depends on Saab Surveillance — Active Electronically Scanned Array (AESA) Radar Modules and Transmit/Receive Modules.",
+            "Unmanned Aerial System (MQ-9B SkyGuardian/SeaGuardian airframe and payload integration pods) depends on General Atomics Aeronautical Systems, Inc. — Unmanned Aerial System (MQ-9B SkyGuardian/SeaGuardian airframe and payload integration pods).",
+            "Composite Payload Pods for Radar Enclosure depends on GA-ASI supply chain — Composite Payload Pods for Radar Enclosure."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense procurement and business development professionals should monitor this architecture for long-endurance surveillance requirements."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Saab and General Atomics Aeronautical Systems completed advanced flight testing of the LoyalEye radar integrated on an MQ-9B uncrewed aerial system, demonstrating simultaneous tracking of airborne and maritime targets.",
+        "Context: 1 Jan 2025: Saab and General Atomics announce partnership to integrate an airborne early warning sensor onto the MQ-9B (plan). May 2026: The flight test is part of an evaluation programme that began with the system’s first flight in May 2026, underscoring the rapid progress of the capability (test). 19 May 2026: Saab's LoyalEye airborne early warning radar completes its successful maiden flight on an uncrewed MQ-9B at GA-ASI's Desert Horizon facility in Southern California, initiating a multi-month flight test campaign (delivered). 28 Oct 2026: GA-ASI and Saab announce the successful completion of advanced flight testing, demonstrating simultaneous long-range tracking of airborne and maritime targets. 29 Oct 2026: Industry analysts and trade publications report on the completion of the operational demonstration phase, highlighting payload pod architecture comprising two under-wing radar array pods and a centerline processing unit (evaluation).",
+        "Policy direction: EU — Preserving Peace – Defence Readiness Roadmap 2030 (2025-10-16): Milestones towards full EU defence readiness by 2030, with four flagships: European Drone Defence Initiative, Eastern Flank Watch, European Air Shield and European Space Shield. US — Unleashing U.S. Military Drone Dominance (Secretary of Defense memorandum) (2025-07-10): Ramp up US production and fielding of low-cost drones: buy American-made drones and parts, equip combat units, and delegate drone procurement authority down to commanders.",
+        "The bigger picture: Following an initial partnership announcement in January 2025 and a maiden flight in May 2026, the successful October 2026 operational demonstrations signal a rapid shift toward uncrewed airborne early warning capabilities.",
+        "Down the supply chain: Active Electronically Scanned Array (AESA) Radar Modules and Transmit/Receive Modules depends on Saab Surveillance — Active Electronically Scanned Array (AESA) Radar Modules and Transmit/Receive Modules. Unmanned Aerial System (MQ-9B SkyGuardian/SeaGuardian airframe and payload integration pods) depends on General Atomics Aeronautical Systems, Inc. — Unmanned Aerial System (MQ-9B SkyGuardian/SeaGuardian airframe and payload integration pods). Composite Payload Pods for Radar Enclosure depends on GA-ASI supply chain — Composite Payload Pods for Radar Enclosure.",
+        "Why it matters: Defense procurement and business development professionals should monitor this architecture for long-endurance surveillance requirements.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Militär Aktuell – Sicherheit im Fokus",
+          "url": "https://militaeraktuell.at/saab-general-atomics-fruehwarnradar-mq-9b/"
+        }
+      ],
+      "place": {
+        "label": "Southern California",
+        "lat": 34.0522,
+        "lon": -118.2437
+      }
+    },
+    {
+      "id": "syn-300",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-02",
+      "title": "Rafale M Completes Maiden Carrier Trials on INS Vikrant",
+      "summary": "A French-piloted Rafale M successfully completed its maiden landing and recovery trials on the indigenous Indian aircraft carrier INS Vikrant using a STOBAR ski-jump and arrestor wire configuration.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "A French-piloted Rafale M successfully completed its maiden landing and recovery trials on the indigenous Indian aircraft carrier INS Vikrant using a STOBAR ski-jump and arrestor wire configuration."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "4 Jul 1986: The Rafale A technology demonstrator performed its first flight, validating the delta-canard configuration (delivered).",
+            "1 Jan 2023: The Indian Navy officially selected the Rafale M over the Boeing F/A-18E/F Super Hornet following trials at the Shore Based Test Facility (SBTF) in Goa (approval).",
+            "30 Dec 2023: The French DGA awarded Dassault Aviation the Tranche 5 contract for 42 Rafale aircraft for the French Air and Space Force, incorporating baseline network enhancements toward F4 and F5 standards (contract, EUR 5 billion).",
+            "28 Apr 2025: India and France formally signed an Inter-Governmental Agreement (IGA) and procurement contract for 26 Rafale Marine jets (22 single-seat, 4 twin-seat) (contract, INR 64 billion).",
+            "15 Feb 2026: Media reports noted that the Indian Navy began evaluating a follow-on option for an additional 31 Rafale M units (plan).",
+            "13 Jul 2026: Dassault Aviation and Harmattan AI conducted collaborative flight trials of the new NAMIB embedded electronic warfare product developed for the upcoming Rafale F5 standard (funded).",
+            "29 Oct 2026: A French-piloted Rafale M successfully completed its maiden landing and recovery trials on the indigenous Indian aircraft carrier INS Vikrant using a STOBAR ski-jump and arrestor wire configuration (delivered)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Dassault Rafale depends on Thales RBE2 AA Active Electronically Scanned Array (AESA) Radar — Primary fire-control and tracking radar system supplied by Thales."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence procurement and supply chain professionals should monitor upcoming carrier modifications, fuselage production facilities, and maintenance infrastructure integration."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "A French-piloted Rafale M successfully completed its maiden landing and recovery trials on the indigenous Indian aircraft carrier INS Vikrant using a STOBAR ski-jump and arrestor wire configuration.",
+        "Context: 4 Jul 1986: The Rafale A technology demonstrator performed its first flight, validating the delta-canard configuration (delivered). 1 Jan 2023: The Indian Navy officially selected the Rafale M over the Boeing F/A-18E/F Super Hornet following trials at the Shore Based Test Facility (SBTF) in Goa (approval). 30 Dec 2023: The French DGA awarded Dassault Aviation the Tranche 5 contract for 42 Rafale aircraft for the French Air and Space Force, incorporating baseline network enhancements toward F4 and F5 standards (contract, EUR 5 billion). 28 Apr 2025: India and France formally signed an Inter-Governmental Agreement (IGA) and procurement contract for 26 Rafale Marine jets (22 single-seat, 4 twin-seat) (contract, INR 64 billion). 15 Feb 2026: Media reports noted that the Indian Navy began evaluating a follow-on option for an additional 31 Rafale M units (plan). 13 Jul 2026: Dassault Aviation and Harmattan AI conducted collaborative flight trials of the new NAMIB embedded electronic warfare product developed for the upcoming Rafale F5 standard (funded). 29 Oct 2026: A French-piloted Rafale M successfully completed its maiden landing and recovery trials on the indigenous Indian aircraft carrier INS Vikrant using a STOBAR ski-jump and arrestor wire configuration (delivered).",
+        "Down the supply chain: Dassault Rafale depends on Thales RBE2 AA Active Electronically Scanned Array (AESA) Radar — Primary fire-control and tracking radar system supplied by Thales.",
+        "Why it matters: Defence procurement and supply chain professionals should monitor upcoming carrier modifications, fuselage production facilities, and maintenance infrastructure integration.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Naval News",
+          "url": "https://www.navalnews.com/naval-news/2026/11/rafale-m-conducts-maiden-trials-onboard-indian-aircraft-carrier-ins-vikrant/"
+        }
+      ],
+      "place": {
+        "label": "New Delhi",
+        "lat": 28.6139,
+        "lon": 77.209
+      }
+    },
+    {
+      "id": "syn-302",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-02",
+      "title": "Australia Unveils Ghost Shark XLAUV Payloads",
+      "summary": "Australia revealed three modular payloads for the Ghost Shark extra-large autonomous underwater vehicle, including sea mines, Altius-600 loitering munitions, and logistics supply caches.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Australia revealed three modular payloads for the Ghost Shark extra-large autonomous underwater vehicle, including sea mines, Altius-600 loitering munitions, and logistics supply caches."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1 Aug 2013: UK Ministry of Defence places a two-year contract with AgustaWestland (now Leonardo Helicopters) for RWUAS concept development under the Anti-Submarine Warfare Spearhead programme (contract, GBP 2.3).",
+            "13 Aug 2025: Leonardo provides a comprehensive progress update on the RWUAS Phase 3A programme ahead of flight tests (funded).",
+            "2 Dec 2025: Ground-running trials commence at Leonardo's Yeovil facility to validate propulsion, sensors, and control systems (site_selection).",
+            "16 Jan 2026: Proteus successfully performs its maiden flight at Predannack airfield in Cornwall with initial Leonardo-designed autonomy embedded (delivered).",
+            "3 Mar 2026: Phase 3a flight tests conclude, with Leonardo awaiting MoD decisions on the follow-on technology maturation roadmap (plan).",
+            "24 Jul 2026: Leonardo confirms at the Farnborough International Airshow that funding for the Proteus uncrewed helicopter demonstrator has been extended through mid-2027 (funded).",
+            "29 Oct 2026: Leonardo selects Shield AI to integrate the Hivemind Software Development Kit (SDK) into Proteus for advanced mission autonomy."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "The Royal Australian Navy is rapidly fielding uncrewed underwater systems funded at A$1.7 billion to offset delays in nuclear-powered submarines and enhance sea denial."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Hivemind Software Development Kit (SDK) depends on Shield AI (Primary Software Provider).",
+            "Airframe & Dynamic Components depends on Kopter AW09 single-engine light helicopter architecture (Leonardo Helicopters, Yeovil, UK).",
+            "Modular Payload Bay depends on Integration infrastructure for ASW, ISR, and logistics payloads.",
+            "United States: export licensing on US ITAR / EAR export controls and licensing governing the transfer of AI-powered military autonomy software (Hivemind SDK) to foreign defense primes. (in_force)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Naval procurement professionals should track modular XLAUV payload integration trends to identify emerging sub-surface defense opportunities."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Australia revealed three modular payloads for the Ghost Shark extra-large autonomous underwater vehicle, including sea mines, Altius-600 loitering munitions, and logistics supply caches.",
+        "Context: 1 Aug 2013: UK Ministry of Defence places a two-year contract with AgustaWestland (now Leonardo Helicopters) for RWUAS concept development under the Anti-Submarine Warfare Spearhead programme (contract, GBP 2.3). 13 Aug 2025: Leonardo provides a comprehensive progress update on the RWUAS Phase 3A programme ahead of flight tests (funded). 2 Dec 2025: Ground-running trials commence at Leonardo's Yeovil facility to validate propulsion, sensors, and control systems (site_selection). 16 Jan 2026: Proteus successfully performs its maiden flight at Predannack airfield in Cornwall with initial Leonardo-designed autonomy embedded (delivered). 3 Mar 2026: Phase 3a flight tests conclude, with Leonardo awaiting MoD decisions on the follow-on technology maturation roadmap (plan). 24 Jul 2026: Leonardo confirms at the Farnborough International Airshow that funding for the Proteus uncrewed helicopter demonstrator has been extended through mid-2027 (funded). 29 Oct 2026: Leonardo selects Shield AI to integrate the Hivemind Software Development Kit (SDK) into Proteus for advanced mission autonomy.",
+        "The bigger picture: The Royal Australian Navy is rapidly fielding uncrewed underwater systems funded at A$1.7 billion to offset delays in nuclear-powered submarines and enhance sea denial.",
+        "Down the supply chain: Hivemind Software Development Kit (SDK) depends on Shield AI (Primary Software Provider). Airframe & Dynamic Components depends on Kopter AW09 single-engine light helicopter architecture (Leonardo Helicopters, Yeovil, UK). Modular Payload Bay depends on Integration infrastructure for ASW, ISR, and logistics payloads. United States: export licensing on US ITAR / EAR export controls and licensing governing the transfer of AI-powered military autonomy software (Hivemind SDK) to foreign defense primes. (in_force).",
+        "Why it matters: Naval procurement professionals should track modular XLAUV payload integration trends to identify emerging sub-surface defense opportunities.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defense News",
+          "url": "https://www.defensenews.com/naval/2026/11/02/australia-unveils-secretive-ghost-shark-underwater-drone-payloads/"
+        }
+      ],
+      "place": {
+        "label": "Sydney",
+        "lat": -33.8688,
+        "lon": 151.2093
+      }
+    },
+    {
+      "id": "syn-304",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-02",
+      "title": "Arcanus and NeuralDrones Partner for AI Wildfire Monitoring",
+      "summary": "Arcanus Aerial Systems and NeuralDrones announced a five-year exclusive partnership to integrate Arcanus aircraft into NeuralDrones' PreFire and AfterFire systems.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Arcanus Aerial Systems and NeuralDrones announced a five-year exclusive partnership to integrate Arcanus aircraft into NeuralDrones' PreFire and AfterFire systems."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1 Jan 2026: Project CTRL-F (Cross-border Technologies for Rapid Localisation of Fire) officially launches under the EU Interreg Bavaria–Czechia program, backed by regional development funds (funded).",
+            "30 Mar 2026: Arcanus Aerial Systems secures a major strategic investment round to scale Canadian sovereign manufacturing of its uncrewed platforms and expand its allied market pipeline (funded).",
+            "19 Aug 2026: Project CTRL-F demonstrates its first operational Drone-in-a-Box (DiaB) station in the Neubäuer Forest near Roding, Germany, successfully validating automated gas-sensor alerts and autonomous drone verification (delivered).",
+            "22 Oct 2026: Arcanus and NeuralDrones formalize their five-year exclusive industrial partnership linking Canadian long-endurance airframes with German emergency-response AI (contract).",
+            "1 Jan 2027: Scheduled operational deployment phase for four automated drone stations across the Bavarian Forest and Šumava (Bohemian Forest) region (plan)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "EU — Preserving Peace – Defence Readiness Roadmap 2030 (2025-10-16): Milestones towards full EU defence readiness by 2030, with four flagships: European Drone Defence Initiative, Eastern Flank Watch, European Air Shield and European Space Shield."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following the January 2026 launch of Project CTRL-F and its August 2026 drone station demonstration in Roding, cross-border automated surveillance initiatives are advancing toward a scheduled regional deployment across the Bavarian Forest and Šumava region in January 2027, signalling growing demand for allied dual-use autonomous infrastructure."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Drone-in-a-Box (DiaB) Weatherproof Docking Stations depends on automated mechanical housing, precision landing guidance systems, and local power/telemetry links — Drone-in-a-Box (DiaB) Weatherproof Docking Stations."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence procurement and supply chain professionals should track allied uncrewed platform integrations for dual-use civil protection markets."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Arcanus Aerial Systems and NeuralDrones announced a five-year exclusive partnership to integrate Arcanus aircraft into NeuralDrones' PreFire and AfterFire systems.",
+        "Context: 1 Jan 2026: Project CTRL-F (Cross-border Technologies for Rapid Localisation of Fire) officially launches under the EU Interreg Bavaria–Czechia program, backed by regional development funds (funded). 30 Mar 2026: Arcanus Aerial Systems secures a major strategic investment round to scale Canadian sovereign manufacturing of its uncrewed platforms and expand its allied market pipeline (funded). 19 Aug 2026: Project CTRL-F demonstrates its first operational Drone-in-a-Box (DiaB) station in the Neubäuer Forest near Roding, Germany, successfully validating automated gas-sensor alerts and autonomous drone verification (delivered). 22 Oct 2026: Arcanus and NeuralDrones formalize their five-year exclusive industrial partnership linking Canadian long-endurance airframes with German emergency-response AI (contract). 1 Jan 2027: Scheduled operational deployment phase for four automated drone stations across the Bavarian Forest and Šumava (Bohemian Forest) region (plan).",
+        "Policy direction: EU — Preserving Peace – Defence Readiness Roadmap 2030 (2025-10-16): Milestones towards full EU defence readiness by 2030, with four flagships: European Drone Defence Initiative, Eastern Flank Watch, European Air Shield and European Space Shield.",
+        "The bigger picture: Following the January 2026 launch of Project CTRL-F and its August 2026 drone station demonstration in Roding, cross-border automated surveillance initiatives are advancing toward a scheduled regional deployment across the Bavarian Forest and Šumava region in January 2027, signalling growing demand for allied dual-use autonomous infrastructure.",
+        "Down the supply chain: Drone-in-a-Box (DiaB) Weatherproof Docking Stations depends on automated mechanical housing, precision landing guidance systems, and local power/telemetry links — Drone-in-a-Box (DiaB) Weatherproof Docking Stations.",
+        "Why it matters: Defence procurement and supply chain professionals should track allied uncrewed platform integrations for dual-use civil protection markets.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "DRONES",
+          "url": "https://www.drones-magazin.de/presse/partnerschaft-zur-waldbranderkennung-und-brandnachwache/"
+        }
+      ],
+      "place": {
+        "label": "Munich",
+        "lat": 48.1351,
+        "lon": 11.582
+      }
+    },
+    {
+      "id": "syn-305",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-02",
+      "title": "Naval Group demonstrates armed SEAQUEST-S USV at Euronaval 2026",
+      "summary": "During Euronaval 2026, Naval Group and Sirehna demonstrated the armed SEAQUEST-S multi-role combat USV equipped with RAMPART rocket launcher modules.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "During Euronaval 2026, Naval Group and Sirehna demonstrated the armed SEAQUEST-S multi-role combat USV equipped with RAMPART rocket launcher modules."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1 Jul 2024: The first production-standard SEAQUEST-S hull is launched following rapid prototyping development (delivered).",
+            "1 Sep 2025: Naval Group demonstrates the SEAQUEST-S USV to international delegations, including the Indian Defence Attaché, highlighting integration flexibility.",
+            "2 Oct 2026: Naval Group highlights the FDI frigate and STEERIS mission system integration concept, showcasing SEAQUEST-S as a native surface escort.",
+            "28 Oct 2026: HII marked construction progress on the first vessel on October 28 with the ceremonial installation of a hull plaque (delivered).",
+            "2 Nov 2026: Naval Group and Sirehna conduct a live demonstration of the armed SEAQUEST-S integration featuring RAMPART rocket launcher modules during Euronaval 2026."
+          ],
+          "list": true
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "EU — Preserving Peace – Defence Readiness Roadmap 2030 (2025-10-16): Milestones towards full EU defence readiness by 2030, with four flagships: European Drone Defence Initiative, Eastern Flank Watch, European Air Shield and European Space Shield.",
+            "FR — Actualisation de la loi de programmation militaire 2024-2030 (2026-08-16): €36 billion extra for the armed forces in 2026–2030 on top of the €413 billion LPM: nuclear deterrence, air defence, counter-drone, deep strike, munitions, drones, space and electromagnetic warfare."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following initial hull launches and international presentations between 2024 and 2025, naval integration concepts progressed toward native surface escort pairings with FDI frigates in late 2026, pointing to broader adoption of hybrid uncrewed fleets."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "SEAQUEST-S USV depends on Composite Hull Structures — Manufactured by Chantier Naval Couach (Couach-CNC) in Gujan-Mestras, France.",
+            "SEAQUEST-S USV depends on Waterjet Propulsion System & Engine — 475hp/350hp marine diesel engines coupled with waterjet propulsion units.",
+            "SEAQUEST-S USV depends on Navigation & Guidance Suite — Integrated Inertial Navigation Systems (INS), Global Navigation Satellite Systems (GNSS), and Doppler Velocity Logs (DVL)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense procurement and business development teams should monitor modular USV integration trends for upcoming surface combatant upgrades."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "During Euronaval 2026, Naval Group and Sirehna demonstrated the armed SEAQUEST-S multi-role combat USV equipped with RAMPART rocket launcher modules.",
+        "Context: 1 Jul 2024: The first production-standard SEAQUEST-S hull is launched following rapid prototyping development (delivered). 1 Sep 2025: Naval Group demonstrates the SEAQUEST-S USV to international delegations, including the Indian Defence Attaché, highlighting integration flexibility. 2 Oct 2026: Naval Group highlights the FDI frigate and STEERIS mission system integration concept, showcasing SEAQUEST-S as a native surface escort. 28 Oct 2026: HII marked construction progress on the first vessel on October 28 with the ceremonial installation of a hull plaque (delivered). 2 Nov 2026: Naval Group and Sirehna conduct a live demonstration of the armed SEAQUEST-S integration featuring RAMPART rocket launcher modules during Euronaval 2026.",
+        "Policy direction: EU — Preserving Peace – Defence Readiness Roadmap 2030 (2025-10-16): Milestones towards full EU defence readiness by 2030, with four flagships: European Drone Defence Initiative, Eastern Flank Watch, European Air Shield and European Space Shield. FR — Actualisation de la loi de programmation militaire 2024-2030 (2026-08-16): €36 billion extra for the armed forces in 2026–2030 on top of the €413 billion LPM: nuclear deterrence, air defence, counter-drone, deep strike, munitions, drones, space and electromagnetic warfare.",
+        "The bigger picture: Following initial hull launches and international presentations between 2024 and 2025, naval integration concepts progressed toward native surface escort pairings with FDI frigates in late 2026, pointing to broader adoption of hybrid uncrewed fleets.",
+        "Down the supply chain: SEAQUEST-S USV depends on Composite Hull Structures — Manufactured by Chantier Naval Couach (Couach-CNC) in Gujan-Mestras, France. SEAQUEST-S USV depends on Waterjet Propulsion System & Engine — 475hp/350hp marine diesel engines coupled with waterjet propulsion units. SEAQUEST-S USV depends on Navigation & Guidance Suite — Integrated Inertial Navigation Systems (INS), Global Navigation Satellite Systems (GNSS), and Doppler Velocity Logs (DVL).",
+        "Why it matters: Defense procurement and business development teams should monitor modular USV integration trends for upcoming surface combatant upgrades.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Naval News",
+          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/video-naval-group-demonstrates-armed-seaquest-s-usv/"
+        }
+      ],
+      "place": {
+        "label": "Paris",
+        "lat": 48.8566,
+        "lon": 2.3522
+      }
+    },
+    {
       "id": "syn-279",
       "status": "approved",
       "kind": "Synthesis",
