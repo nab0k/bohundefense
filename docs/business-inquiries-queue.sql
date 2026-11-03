@@ -8,6 +8,8 @@ create index if not exists business_inquiries_queue_idx
   on bohun_private.business_inquiries(notification_next_attempt_at,created_at)
   where notification_status='pending';
 -- Functions intentionally live in a non-exposed private schema.
+-- Operational caveat: claims exhausted during repeated worker crashes remain
+-- pending but unclaimable; add an approved dead-letter reconciliation job.
 -- The owner must be a trusted migration role. Never grant EXECUTE to PUBLIC/anon/authenticated.
 create or replace function bohun_private.claim_inquiry_notifications(p_batch integer default 10)
 returns table (
@@ -22,6 +24,7 @@ as $$
     select q.id
     from bohun_private.business_inquiries q
     where q.notification_status='pending'
+      and q.notification_attempts < 5
       and q.notification_next_attempt_at <= now()
       and (q.notification_lease_until is null or q.notification_lease_until < now())
     order by q.created_at
@@ -58,7 +61,8 @@ begin
       notified_at=case when p_sent then now() else q.notified_at end,
       updated_at=now()
   where q.id=p_id and q.notification_claim_token=p_token
-    and q.notification_status='pending';
+    and q.notification_status='pending'
+    and q.notification_lease_until > now();
   get diagnostics changed=row_count;
   return changed=1;
 end;
