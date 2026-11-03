@@ -45,6 +45,13 @@ Deno.serve(async (req) => {
   });
   let processed = 0, sent = 0, failed = 0;
   try {
+    // Reconcile exhausted leases before claiming fresh notifications.
+    const reconciliation = await sql<{ reconciled: number }[]>`
+      select bohun_private.reconcile_exhausted_inquiry_notifications(100)
+        as reconciled
+    `;
+    const reconciled = reconciliation[0]?.reconciled ?? 0;
+    if (reconciled > 0) console.error("Exhausted notifications reconciled", reconciled);
     const rows = await sql<ClaimedInquiry[]>`
       select * from bohun_private.claim_inquiry_notifications(10)
     `;
@@ -108,7 +115,7 @@ Deno.serve(async (req) => {
         failed++;
       }
     }
-    return json(200, { processed, sent, failed });
+    return json(200, { processed, sent, failed, reconciled });
   } catch {
     console.error("Private notification queue unavailable");
     return json(503, { error: "Queue unavailable" });
