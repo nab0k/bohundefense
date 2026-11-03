@@ -32,7 +32,7 @@ print('PASS Pages CNAME, eight routes, local asset references and current shell 
 BASE = 'http://127.0.0.1:8765'
 DESTINATIONS = (
     ('/about-project.html', 'About the project', 'About BOHUN Defence Intelligence'),
-    ('/services.html', 'Services', 'Services'),
+    ('/services.html', 'Services', 'From market intelligence to a concrete business opportunity.'),
 )
 
 
