@@ -106,6 +106,10 @@ Deno.serve(async (req) => {
   catch { /* fail closed */ }
   if (!human) return reply(403, { error: "Verification failed" }, origin);
 
+  // Deployment safety gate: remain disabled until durable rate limiting and E2E checks pass.
+  if (env("INQUIRY_INTAKE_ENABLED") !== "true") {
+    return reply(503, { error: "Enquiry intake is not yet available" }, origin);
+  }
   if (!env("DATABASE_URL")) return reply(503, { error: "Service unavailable" }, origin);
   const sql = postgres(env("DATABASE_URL"), {
     max: 1, idle_timeout: 5, connect_timeout: 5, ssl: "require", prepare: false,
