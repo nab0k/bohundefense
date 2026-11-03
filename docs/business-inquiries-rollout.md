@@ -49,3 +49,15 @@ Intake uses `INQUIRY_INTAKE_DATABASE_URL` and `INQUIRY_RATE_HMAC_KEY`; worker us
 The rate counter uses fixed one-hour windows (five successful Turnstile attempts per identity), not a sliding window. Do not claim production abuse protection until concurrency, spoofing, IPv6, error and recovery tests pass. Rate-limit identity is HMAC-hashed; define retention/cleanup before enabling.
 
 This branch has NOT been deployed or end-to-end tested. Database, mail, public website and main branch remain unchanged.
+
+## SQL static audit checkpoint (2026-11-03)
+
+Reviewed the three draft SQL files without applying them. Changes:
+- Removed a schema-wide `REVOKE` from the enquiry table draft. The `bohun_private` schema already serves other BOHUN processes; changing schema grants globally could break them.
+- Restricted the worker's direct table `SELECT` and `UPDATE` grants to notification-related columns (and minimal email context); it should not be able to overwrite enquiry messages.
+- Queue claim now excludes rows after five attempts; finishing requires a still-valid lease. **Open issue:** a worker that repeatedly crashes can strand a pending row at five attempts. An operator-only dead-letter recovery/reconciliation mechanism must be designed and tested.
+- The rate counter uses a fixed hour window, not a sliding window. Its SECURITY DEFINER owner and RLS policy are not yet resolved; it is NOT ready to apply.
+- The `INQUIRY_RATE_HMAC_KEY` hash cannot be treated as proof of a trustworthy client identity until the ingress header provenance is verified. No production spam-protection claim is warranted.
+- Review the SQL for role creation idempotence, login role provisioning, queue concurrency, row-level permissions, and negative tests before authorizing any migration.
+
+**Audit scope:** static code review only. No real database query, migration, function execution, end-to-end test or email was performed in this checkpoint.
