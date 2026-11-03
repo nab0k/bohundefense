@@ -14,12 +14,18 @@ let safeUrl='';try{const u=new URL(url,location.origin);if(['http:','https:'].in
 q('#context-url').value=safeUrl;
 if(id||title){const box=q('#context-box');box.hidden=false;box.textContent='Regarding: '+(title||id)}
 const cfg=window.BOHUN_INQUIRY_CONFIG||{};
-const enabled=cfg.enabled===true && typeof cfg.endpoint==='string' && /^https:\/\//.test(cfg.endpoint) && typeof cfg.turnstileSiteKey==='string' && cfg.turnstileSiteKey.length>0 && typeof window.turnstile?.render==='function';
+const enabled=cfg.enabled===true && typeof cfg.endpoint==='string' && /^https:\/\//.test(cfg.endpoint) && typeof cfg.turnstileSiteKey==='string' && cfg.turnstileSiteKey.length>0;
 let widgetId=null;
 if(enabled){
   const slot=q('#turnstile-slot');
-  if(slot){widgetId=window.turnstile.render(slot,{sitekey:cfg.turnstileSiteKey,theme:'auto'});}
-  if(widgetId!==null){submit.disabled=false;submit.textContent='Send enquiry';status.textContent='';}
+  let tries=0;
+  const start=()=>{
+    if(!slot||!window.turnstile?.render){if(++tries<30)setTimeout(start,100);return;}
+    try{widgetId=window.turnstile.render(slot,{sitekey:cfg.turnstileSiteKey,theme:'auto'});}
+    catch{status.textContent='Verification unavailable. Please use email.';return;}
+    if(widgetId!==null){submit.disabled=false;submit.textContent='Send enquiry';status.textContent='';}
+  };
+  start();
 }
 form.addEventListener('submit',async e=>{
   e.preventDefault();
