@@ -43,11 +43,8 @@ create table if not exists bohun_private.inquiry_rate_limits (
 );
 alter table bohun_private.inquiry_rate_limits enable row level security;
 revoke all on bohun_private.inquiry_rate_limits from public,anon,authenticated;
--- SECURITY DEFINER is intentional: the caller must not have direct counter
--- table privileges. The function MUST be owned by a dedicated limited owner
--- with INSERT/UPDATE/SELECT rights and an explicit RLS policy, or a narrowly
--- scoped BYPASSRLS role after a separate security review. Do not deploy with
--- an unreviewed superuser function owner.
+-- SECURITY INVOKER: atomic upsert runs with the intake role's limited grants.
+-- The counter remains in the non-exposed private schema.
 create or replace function bohun_private.allow_inquiry_attempt(
   p_hash text, p_max integer default 5
 ) returns boolean
@@ -83,5 +80,5 @@ commit;
 -- REVIEW CHECKS: ensure anon/authenticated cannot USAGE private schema,
 -- SELECT/INSERT enquiries, or EXECUTE private RPCs; test actual role sessions.
 -- IMPORTANT: no grants to existing login roles are made by this file.
--- SECURITY REVIEW: a definer-owned function must be audited for ownership,
--- search_path, function EXECUTE grants, and database role inheritance.
+-- SECURITY REVIEW: verify invoker privileges, RLS, function EXECUTE grants,
+-- schema isolation, and role inheritance before any migration.
