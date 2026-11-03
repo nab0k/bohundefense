@@ -51,7 +51,7 @@ revoke all on bohun_private.inquiry_rate_limits from public,anon,authenticated;
 create or replace function bohun_private.allow_inquiry_attempt(
   p_hash text, p_max integer default 5
 ) returns boolean
-language plpgsql security definer set search_path=''
+language plpgsql security invoker set search_path=''
 as $$
 declare n integer;
 begin
@@ -70,7 +70,13 @@ revoke all on function bohun_private.allow_inquiry_attempt(text,integer)
   from public,anon,authenticated;
 grant execute on function bohun_private.allow_inquiry_attempt(text,integer)
   to bohun_inquiry_intake;
--- RLS on rate-limit table intentionally has no client policies.
+grant select, insert, update on bohun_private.inquiry_rate_limits to bohun_inquiry_intake;
+create policy inquiry_rate_limit_select on bohun_private.inquiry_rate_limits
+  for select to bohun_inquiry_intake using (true);
+create policy inquiry_rate_limit_insert on bohun_private.inquiry_rate_limits
+  for insert to bohun_inquiry_intake with check (true);
+create policy inquiry_rate_limit_update on bohun_private.inquiry_rate_limits
+  for update to bohun_inquiry_intake using (true) with check (true);
 -- Retention: schedule trusted cleanup of expired counters (e.g. older than 48h).
 commit;
 
