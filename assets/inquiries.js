@@ -16,6 +16,8 @@ if(id||title){const box=q('#context-box');box.hidden=false;box.textContent='Rega
 const cfg=window.BOHUN_INQUIRY_CONFIG||{};
 const enabled=cfg.enabled===true && typeof cfg.endpoint==='string' && /^https:\/\//.test(cfg.endpoint) && typeof cfg.turnstileSiteKey==='string' && cfg.turnstileSiteKey.length>0;
 let widgetId=null;
+let submitting=false;
+let receiptConfirmed=false;
 if(enabled){
   const slot=q('#turnstile-slot');
   let tries=0;
@@ -29,6 +31,7 @@ if(enabled){
 }
 form.addEventListener('submit',async e=>{
   e.preventDefault();
+  if(submitting||receiptConfirmed)return;
   if(!enabled||widgetId===null){status.textContent='Online submissions are not active yet. Please email nabok@bohundefence.com.';return;}
   if(!form.reportValidity())return;
   const token=window.turnstile.getResponse(widgetId);
@@ -36,17 +39,18 @@ form.addEventListener('submit',async e=>{
   const body=Object.fromEntries(new FormData(form).entries());
   body.acknowledged=form.elements.acknowledged.checked;
   body.turnstile_token=token;
-  submit.disabled=true;status.textContent='Sending your enquiry…';
+  submitting=true;submit.disabled=true;status.textContent='Sending your enquiry…';
   try{
     const response=await fetch(cfg.endpoint,{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify(body),signal:AbortSignal.timeout(15000)});
     if(!response.ok)throw new Error('Submission failed');
     const result=await response.json();
     if(result.ok!==true||!result.id)throw new Error('Receipt missing');
     status.textContent='Enquiry received. Reference: '+result.id+'. Thank you.';
+    receiptConfirmed=true;
     form.reset();window.turnstile.reset(widgetId);
   }catch{
     status.textContent='We could not confirm receipt. Please avoid resending repeatedly; contact nabok@bohundefence.com if needed.';
     window.turnstile.reset(widgetId);
-  }finally{submit.disabled=false;}
+  }finally{submitting=false;if(!receiptConfirmed)submit.disabled=false;}
 });
 })();
