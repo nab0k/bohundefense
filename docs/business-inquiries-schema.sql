@@ -22,7 +22,8 @@ create table if not exists bohun_private.business_inquiries (
   updated_at timestamptz not null default now()
 );
 alter table bohun_private.business_inquiries enable row level security;
-revoke all on schema bohun_private from public, anon, authenticated;
+-- Do NOT revoke schema-wide privileges here: bohun_private is shared with
+-- existing workflows. Audit its grants separately before any schema changes.
 revoke all on bohun_private.business_inquiries from public, anon, authenticated;
 create index if not exists business_inquiries_status_created_idx on bohun_private.business_inquiries (status, created_at desc);
 comment on table bohun_private.business_inquiries is 'Private inbound BOHUN enquiries. Access through trusted server only. Retention policy to be established before activation.';
