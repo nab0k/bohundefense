@@ -47,6 +47,13 @@ Deno.serve(async (req) => {
     },
   });
   if (req.method !== "POST") return reply(405, { error: "Method not allowed" }, origin);
+  // Deployment safety gate: remain disabled until durable rate limiting and E2E checks pass.
+  if (env("INQUIRY_INTAKE_ENABLED") !== "true") {
+    return reply(503, { error: "Enquiry intake is not yet available" }, origin);
+  }
+  if (!env("INQUIRY_INTAKE_DATABASE_URL") || !env("INQUIRY_RATE_HMAC_KEY")) {
+    return reply(503, { error: "Service unavailable" }, origin);
+  }
   if (!(req.headers.get("content-type") || "").toLowerCase().startsWith("application/json")) {
     return reply(415, { error: "JSON required" }, origin);
   }
@@ -106,13 +113,6 @@ Deno.serve(async (req) => {
   catch { /* fail closed */ }
   if (!human) return reply(403, { error: "Verification failed" }, origin);
 
-  // Deployment safety gate: remain disabled until durable rate limiting and E2E checks pass.
-  if (env("INQUIRY_INTAKE_ENABLED") !== "true") {
-    return reply(503, { error: "Enquiry intake is not yet available" }, origin);
-  }
-  if (!env("INQUIRY_INTAKE_DATABASE_URL") || !env("INQUIRY_RATE_HMAC_KEY")) {
-    return reply(503, { error: "Service unavailable" }, origin);
-  }
   // Rate limit before Turnstile verification requires an additional check
   // earlier in the request lifecycle; currently it limits only verified attempts.
   // Fail closed when trusted client identity is unavailable.
