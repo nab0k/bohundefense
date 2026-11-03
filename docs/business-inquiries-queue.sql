@@ -8,8 +8,7 @@ create index if not exists business_inquiries_queue_idx
   on bohun_private.business_inquiries(notification_next_attempt_at,created_at)
   where notification_status='pending';
 -- Functions intentionally live in a non-exposed private schema.
--- Operational caveat: claims exhausted during repeated worker crashes remain
--- pending but unclaimable; add an approved dead-letter reconciliation job.
+-- Expired fifth claims are reconciled to failed by a separate worker-only RPC.
 -- The owner must be a trusted migration role. Never grant EXECUTE to PUBLIC/anon/authenticated.
 create or replace function bohun_private.claim_inquiry_notifications(p_batch integer default 10)
 returns table (
@@ -69,3 +68,35 @@ end;
 $$;
 revoke all on function bohun_private.claim_inquiry_notifications(integer) from public,anon,authenticated;
 revoke all on function bohun_private.finish_inquiry_notification(uuid,uuid,boolean) from public,anon,authenticated;
+
+-- Recover rows whose last lease expired without a completion callback.
+-- This never retries exhausted rows or changes successfully sent notifications.
+create or replace function bohun_private.reconcile_exhausted_inquiry_notifications(
+  p_batch integer default 100
+) returns integer
+language plpgsql security invoker set search_path = ''
+as $$
+declare changed integer;
+begin
+  with expired as (
+    select q.id
+    from bohun_private.business_inquiries q
+    where q.notification_status = 'pending'
+      and q.notification_attempts >= 5
+      and q.notification_lease_until < now()
+    order by q.created_at
+    for update skip locked
+    limit least(greatest(p_batch,1),200)
+  )
+  update bohun_private.business_inquiries q
+  set notification_status='failed',
+      notification_claim_token=null,
+      notification_lease_until=null,
+      updated_at=now()
+  from expired where q.id=expired.id;
+  get diagnostics changed = row_count;
+  return changed;
+end;
+$$;
+revoke all on function bohun_private.reconcile_exhausted_inquiry_notifications(integer)
+  from public, anon, authenticated;
