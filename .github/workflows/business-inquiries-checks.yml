@@ -1,0 +1,37 @@
+name: Business enquiries staging checks (NO DEPLOY)
+on:
+  pull_request:
+    paths:
+      - 'inquiry.html'
+      - 'assets/inquiries.*'
+      - 'assets/inquiry-entrypoints.js'
+      - 'assets/company-map.js'
+      - 'assets/atmo22/shell.js'
+      - 'supabase/functions/business-inquiries/**'
+      - 'supabase/functions/inquiry-notifications/**'
+      - 'scripts/test-business-inquiries.py'
+      - '.github/workflows/business-inquiries-checks.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  staging-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Static enquiry checks
+        run: python scripts/test-business-inquiries.py
+      - name: JavaScript syntax
+        run: |
+          node --check assets/inquiries.js
+          node --check assets/inquiry-entrypoints.js
+          node --check assets/company-map.js
+      - name: Ensure no secrets in client code
+        run: |
+          ! grep -E 'RESEND_API_KEY|SUPABASE_SERVICE_ROLE_KEY|TURNSTILE_SECRET_KEY' assets/inquiries.js assets/inquiry-entrypoints.js inquiry.html
