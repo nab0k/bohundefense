@@ -28,3 +28,14 @@ No email, database schema change or production deployment has been performed.
 The submit button stays disabled in committed HTML and the client fails closed when config is missing. Test successful receipt, timeout ambiguity, missing challenge, validation, accessibility and reset behavior before release. A successful POST means the row was stored, **not** that email delivery succeeded.
 
 Resend domain verification and API key creation have been reported by the owner; the key has **not** been transferred to Supabase secrets, and no sending-domain or provider API status has been independently checked.
+
+
+## Implementation update (draft branch, 2026-11-03)
+
+- Both Edge Functions now use a server-only `DATABASE_URL` connection to PostgreSQL and the non-exposed `bohun_private` schema. No REST schema exposure is required.
+- The notification worker calls `bohun_private.claim_inquiry_notifications` and `bohun_private.finish_inquiry_notification` from the review-only queue SQL. The queue migration has NOT been applied.
+- Both functions remain disabled by default: `INQUIRY_INTAKE_ENABLED=true` and `INQUIRY_NOTIFICATION_WORKER_ENABLED=true` are separate explicit server-side gates. Do not enable either before tests and approvals.
+- `DATABASE_URL` must be provisioned only as an Edge Function secret, using a restricted database role. That role should have USAGE on `bohun_private`, INSERT and narrowly scoped SELECT on the enquiry table for intake, and EXECUTE on the queue functions for the worker. Prefer separate intake and worker database roles/connection secrets before production; the current shared `DATABASE_URL` is a staging simplification, NOT a least-privilege production setup.
+- Critical outstanding work: durable rate limiting with trusted client-IP handling, restricted database roles and SQL grants, Turnstile client widget and keys, Resend verified sender and secrets, privacy/retention, negative permission tests, concurrency tests, and real end-to-end tests.
+- A 2-minute lease plus Resend idempotency reduces duplicate delivery but does not guarantee exactly-once notifications. Verify behavior on timeout and lease expiry.
+- No database migration, function deployment, mail send, merge or publication has occurred.
