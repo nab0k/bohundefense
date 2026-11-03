@@ -30,7 +30,7 @@ Deno.serve(async (req) => {
   if (env("INQUIRY_NOTIFICATION_WORKER_ENABLED") !== "true") {
     return json(503, { error: "Worker disabled" });
   }
-  if (!env("DATABASE_URL") || !env("RESEND_API_KEY") || !env("RESEND_FROM_EMAIL")) {
+  if (!env("INQUIRY_WORKER_DATABASE_URL") || !env("RESEND_API_KEY") || !env("RESEND_FROM_EMAIL")) {
     return json(503, { error: "Not configured" });
   }
 
