@@ -110,8 +110,24 @@ Deno.serve(async (req) => {
   if (env("INQUIRY_INTAKE_ENABLED") !== "true") {
     return reply(503, { error: "Enquiry intake is not yet available" }, origin);
   }
-  if (!env("DATABASE_URL")) return reply(503, { error: "Service unavailable" }, origin);
-  const sql = postgres(env("DATABASE_URL"), {
+  if (!env("INQUIRY_INTAKE_DATABASE_URL") || !env("INQUIRY_RATE_HMAC_KEY")) {
+    return reply(503, { error: "Service unavailable" }, origin);
+  }
+  // Rate limit before Turnstile verification requires an additional check
+  // earlier in the request lifecycle; currently it limits only verified attempts.
+  // Fail closed when trusted client identity is unavailable.
+  const trustedIp = req.headers.get("cf-connecting-ip") || "";
+  if (!trustedIp) return reply(503, { error: "Verification unavailable" }, origin);
+  const hmacKey = await crypto.subtle.importKey(
+    "raw", new TextEncoder().encode(env("INQUIRY_RATE_HMAC_KEY")),
+    { name: "HMAC", hash: "SHA-256" }, false, ["sign"],
+  );
+  const digest = await crypto.subtle.sign(
+    "HMAC", hmacKey, new TextEncoder().encode(trustedIp),
+  );
+  const identityHash = Array.from(new Uint8Array(digest))
+    .map(v => v.toString(16).padStart(2, "0")).join("");
+  const sql = postgres(env("INQUIRY_INTAKE_DATABASE_URL"), {
     max: 1, idle_timeout: 5, connect_timeout: 5, ssl: "require", prepare: false,
   });
   try {
