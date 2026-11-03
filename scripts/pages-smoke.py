@@ -119,12 +119,19 @@ with sync_playwright() as p:
                 assert urlparse(page.url).path == path
                 expect(page.locator('main h1')).to_have_count(1)
                 expect(page.locator('main h1')).to_have_text(heading)
-                expect(page.locator('main a[href="/contact.html"]')).to_be_visible()
                 if path == '/services.html':
-                    for title in ('Buyers and new business', 'Suppliers and qualification',
+                    for title in ('Buyers & new business', 'Suppliers & qualification',
                                   'Technology partnerships', 'Private investment opportunities'):
                         expect(page.get_by_role('heading', name=title, exact=True)).to_be_visible()
+                    page.locator('main a[href="/inquiry.html?type=partner"]').first.click()
+                    page.wait_for_url(BASE + '/inquiry.html?type=partner', timeout=15000)
+                    expect(page.locator('main h1')).to_have_text('Find a Partner')
+                    expect(page.locator('#submit')).to_be_disabled()
+                    expect(page.locator('#inquiry input[name="email"]')).to_be_visible()
+                    expect(page.locator('#inquiry textarea[name="message"]')).to_be_visible()
+                    page.goto(BASE + '/services.html', wait_until='domcontentloaded')
                 else:
+                    expect(page.locator('main a[href="/contact.html"]')).to_be_visible()
                     expect(page.locator('#data')).to_have_text('Sources and coverage')
                 page.screenshot(path=f'/tmp/{name}-{Path(path).stem}.png', full_page=True)
             assert not errors, f'{name} page JavaScript errors: {errors}'
