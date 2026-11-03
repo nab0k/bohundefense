@@ -1,7 +1,8 @@
 from pathlib import Path
 from html.parser import HTMLParser
 from urllib.parse import urlparse
-from playwright.sync_api import sync_playwright
+import re
+from playwright.sync_api import sync_playwright, expect
 
 ROOT=Path(__file__).resolve().parents[1]
 PAGES=['index.html','about.html','services.html','about-project.html','support-project.html','contact.html','privacy.html','404.html']
@@ -19,66 +20,105 @@ for p in PAGES:
     parser=PageAudit();parser.feed((ROOT/p).read_text())
     missing.update(x for x in parser.links if x!='/' and not (ROOT/x.lstrip('/')).exists())
 assert not missing,f'broken local refs {sorted(missing)}'
+
+# The current Atmosphere shell renders navigation dynamically. A legacy empty
+# feed banner or a removed details menu is not the server's publication gate.
 html=(ROOT/'index.html').read_text()
-for x in ['id="map"','id="side"','id="q"','id="cat-chips"','class="m1-mobile-menu"','id="companies"']:
-    assert x in html,f'critical production control missing {x}'
+for selector in ('id="map"', 'id="sidebar"', 'id="topbar"'):
+    assert selector in html, f'current shell control missing {selector}'
 assert 'notion-atlas-at34-review-only' not in html
-assert 'No independently QA-approved events available' in html
-assert 'data-public-release-only="true"' in html
-print('PASS Pages CNAME routes assets and structural selectors')
+print('PASS Pages CNAME, eight routes, local asset references and current shell roots')
+
+BASE = 'http://127.0.0.1:8765'
+DESTINATIONS = (
+    ('/about-project.html', 'About the project', 'About BOHUN Defence Intelligence'),
+    ('/services.html', 'Services', 'Services'),
+)
+
+
+def load_home(page):
+    response = page.goto(BASE + '/', wait_until='domcontentloaded', timeout=30000)
+    assert response and response.status == 200
+    expect(page.locator('#map')).to_have_count(1)
+    expect(page.locator('#sidebar')).to_have_count(1)
+    expect(page.locator('#topbar')).to_have_count(1)
+    expect(page.locator('#global-search')).to_be_visible(timeout=15000)
+    expect(page.locator('#global-search')).to_be_editable()
+    for path, label, _ in DESTINATIONS:
+        for parent in ('#topbar .hd-nav', '#sidebar .sb-foot'):
+            link = page.locator(f'{parent} a[href="{path}"]')
+            expect(link).to_have_count(1)
+            expect(link).to_have_text(label)
+
+
+def check_mobile_menu(page):
+    menu = page.locator('#topbar .hd-menu')
+    close = page.locator('#sidebar .sb-close')
+    expect(menu).to_be_visible()
+    expect(menu).to_have_attribute('aria-expanded', 'false')
+    expect(page.locator('#topbar .hd-nav')).not_to_be_visible()
+    # Off-screen translated drawers are still "visible" to Playwright: test
+    # their position as well as the application's open state.
+    page.wait_for_function("document.querySelector('#sidebar').getBoundingClientRect().right <= 1")
+    menu.click()
+    expect(menu).to_have_attribute('aria-expanded', 'true')
+    expect(page.locator('body')).to_have_class(re.compile(r'\bsb-open\b'))
+    page.wait_for_function("Math.abs(document.querySelector('#sidebar').getBoundingClientRect().left) <= 1")
+    for path, _, _ in DESTINATIONS:
+        expect(page.locator(f'#sidebar .sb-foot a[href="{path}"]')).to_be_visible()
+    page.keyboard.press('Escape')
+    expect(menu).to_have_attribute('aria-expanded', 'false')
+    expect(page.locator('body')).not_to_have_class(re.compile(r'\bsb-open\b'))
+    expect(menu).to_be_focused()
+    menu.click()
+    close.click()
+    expect(menu).to_have_attribute('aria-expanded', 'false')
+    expect(page.locator('body')).not_to_have_class(re.compile(r'\bsb-open\b'))
+    expect(menu).to_be_focused()
+
 
 with sync_playwright() as p:
-    browser=p.chromium.launch(headless=True,args=['--no-sandbox','--disable-dev-shm-usage'])
-    for name,width,height in [('desktop',1440,900),('mobile',390,844)]:
-        page=browser.new_page(viewport={'width':width,'height':height},device_scale_factor=1)
-        errors=[]
-        page.on('pageerror',lambda exc:errors.append(str(exc)))
-        page.goto('http://127.0.0.1:8765/',wait_until='domcontentloaded',timeout=30000)
-        page.locator('#map').wait_for(timeout=15000)
-        assert page.locator('#q').count()==1
-        assert page.locator('#side').count()==1
-        assert page.locator('#cat-chips').count()==1
-        assert page.locator('#p0-feed').count()==1
-        assert page.locator('#p0-dossier').count()==1
-        assert page.locator('#p0-dossier .atlas-window-bar').count()==1
-        assert page.locator('#p0-feed .atlas-window-bar').count()==1
-        assert page.locator('#notion-index-panel').count()==0
-        assert page.locator('#p1-category-rail').count()==1
-        assert page.locator('#p1-category-query').count()==1
-        assert page.locator('.layers').evaluate('(el)=>getComputedStyle(el).display')=='none'
-        assert page.locator('#p0-feed').evaluate('(el)=>el.parentElement.id')=='side'
+    browser = p.chromium.launch(headless=True, args=['--no-sandbox', '--disable-dev-shm-usage'])
+    for name, width, height in [('desktop', 1440, 900), ('mobile', 390, 844)]:
+        page = browser.new_page(viewport={'width': width, 'height': height}, device_scale_factor=1)
+        errors = []
+        page.on('pageerror', lambda exc: errors.append(str(exc)))
         try:
-            page.wait_for_function("document.querySelectorAll('#p1-rail-chips button').length>0",timeout=15000)
+            load_home(page)
+            if name == 'mobile':
+                check_mobile_menu(page)
+            else:
+                expect(page.locator('#topbar .hd-menu')).not_to_be_visible()
+                for path, _, _ in DESTINATIONS:
+                    expect(page.locator(f'#topbar .hd-nav a[href="{path}"]')).to_be_visible()
+            page.screenshot(path=f'/tmp/atlas-{name}.png', full_page=True)
+            for index, (path, _, heading) in enumerate(DESTINATIONS):
+                if index:
+                    load_home(page)
+                parent = '#topbar .hd-nav'
+                if name == 'mobile':
+                    page.locator('#topbar .hd-menu').click()
+                    expect(page.locator('#topbar .hd-menu')).to_have_attribute('aria-expanded', 'true')
+                    parent = '#sidebar .sb-foot'
+                page.locator(f'{parent} a[href="{path}"]').click()
+                page.wait_for_url(BASE + path, timeout=15000)
+                assert urlparse(page.url).path == path
+                expect(page.locator('main h1')).to_have_count(1)
+                expect(page.locator('main h1')).to_have_text(heading)
+                expect(page.locator('main a[href="/contact.html"]')).to_be_visible()
+                if path == '/services.html':
+                    for title in ('Buyers and new business', 'Suppliers and qualification',
+                                  'Technology partnerships', 'Private investment opportunities'):
+                        expect(page.get_by_role('heading', name=title, exact=True)).to_be_visible()
+                else:
+                    expect(page.locator('#data')).to_have_text('Sources and coverage')
+                page.screenshot(path=f'/tmp/{name}-{Path(path).stem}.png', full_page=True)
+            assert not errors, f'{name} page JavaScript errors: {errors}'
+            print(f'PASS {name}: current shell, project/services navigation, page content and contact links; JS errors=0')
         except Exception:
-            print('RAIL_DIAGNOSTICS',errors,page.locator('#cat-chips').evaluate('(el)=>el.innerHTML.slice(0,400)'),page.locator('#p1-category-bind').count())
+            print('SMOKE_DIAGNOSTICS', name, page.url, errors)
+            page.screenshot(path=f'/tmp/atlas-{name}.png', full_page=True)
             raise
-        before=page.locator('#p1-rail-chips button').count()
-        assert before>=2
-        assert page.locator('#p1-rail-chips .dock-icon').count()==before
-        assert page.locator('#p1-rail-chips .dock-label').count()==before
-        assert page.locator('#p1-rail-chips .dock-count').count()==0
-        assert page.locator('#p1-rail-chips .dock-label').first.inner_text()=='Components'
-        page.locator('#p1-category-query').evaluate('(e)=>{e.value="zzzz-not-a-category";e.dispatchEvent(new Event("input",{bubbles:true}))}')
-        assert page.locator('#p1-rail-chips button:not([hidden])').count()==0
-        page.locator('#p1-category-query').evaluate('(e)=>{e.value="";e.dispatchEvent(new Event("input",{bubbles:true}))}')
-        assert page.locator('#p1-rail-chips button:not([hidden])').count()==before
-        assert 'QA-approved events' in page.locator('#p0-feed').inner_text()
-        assert page.locator('#p0-feed').evaluate('(el)=>el.parentElement.id')=='side'
-        assert page.locator('#p0-feed').evaluate('(el)=>getComputedStyle(el).position')=='fixed'
-        page.locator('#p0-feed .atlas-window-bar button').click()
-        assert page.locator('#p0-feed').evaluate('(el)=>getComputedStyle(el).display')=='none'
-        page.locator('#atlas-window-restore button').first.click()
-        assert page.locator('#p0-feed').is_visible()
-        assert page.locator('a[href="/about.html"]').count()>=1
-        if name=='mobile':
-            assert page.locator('details.m1-mobile-menu').count()==1
-            page.evaluate("document.body.classList.add('p0-panels-open');document.querySelector('#p0-dossier').classList.remove('atlas-no-selection')")
-            assert page.locator('#p0-dossier').is_visible()
-            page.locator('details.m1-mobile-menu summary').click()
-            assert page.locator('details.m1-mobile-menu').evaluate('(e)=>e.open')
-        page.locator('#q').fill('zzzz-p0-nonexistent-company')
-        page.screenshot(path=f'/tmp/atlas-{name}.png',full_page=True)
-        assert not any('notion-atlas-at34' in x for x in errors)
-        print(f'PASS {name}: map DOM, search, navigation, responsive menu, screenshot; page JS errors={len(errors)}')
-        page.close()
+        finally:
+            page.close()
     browser.close()
