@@ -19,3 +19,12 @@ The function in `supabase/functions/business-inquiries/index.ts` performs strict
 9. Review PR and obtain separate publication approval.
 
 No email, database schema change or production deployment has been performed.
+
+
+## Frontend integration staged
+
+`assets/inquiries.js` now has a real asynchronous POST handler and Turnstile challenge integration. **Submission remains disabled by default.** It is enabled only when `window.BOHUN_INQUIRY_CONFIG` explicitly contains `{enabled:true, endpoint:"https://<approved-edge-function>", turnstileSiteKey:"<public-site-key>"}` before `inquiries.js` loads, and the Turnstile client is available. Do not set `enabled:true` until the database, API, rate limiting, queue, Resend sender and privacy review are complete. The public Turnstile site key is not a secret; its secret verification key must stay server-side. No live config file is committed.
+
+The submit button stays disabled in committed HTML and the client fails closed when config is missing. Test successful receipt, timeout ambiguity, missing challenge, validation, accessibility and reset behavior before release. A successful POST means the row was stored, **not** that email delivery succeeded.
+
+Resend domain verification and API key creation have been reported by the owner; the key has **not** been transferred to Supabase secrets, and no sending-domain or provider API status has been independently checked.
