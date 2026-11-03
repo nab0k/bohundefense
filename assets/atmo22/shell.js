@@ -11,7 +11,7 @@ const NAV = [
   ['Programmes', 'briefcase'], ['Tenders', 'file-text'], ['Investments', 'coins'], ['Countries', 'flag'],
   ['Technologies', 'cpu'], ['Events', 'calendar'], ['Analysis', 'chart-line'],
 ];
-const TOP = [['Today', '/?view=today', 'today'], ['Atlas', '/?view=map', 'atlas'], ['Companies', '/companies.html', 'companies'], ['Tenders'], ['Programmes'], ['Investments'], ['Countries']];
+const TOP = [['Today', '/?view=today', 'today'], ['Atlas', '/?view=map', 'atlas'], ['Companies', '/companies.html', 'companies'], ['About the project', '/about-project.html', 'project'], ['Services', '/services.html', 'services']];
 const LAYERS = [['Companies', 'building', true, true], ['Source headlines', 'newspaper', true, true], ['Programmes', 'briefcase'], ['Tenders', 'file-text'], ['Investments', 'coins'], ['R&D / Grants', 'book-open'], ['Policy & Regulation', 'landmark'], ['Events', 'calendar'], ['Industrial clusters', 'factory']];
 const REGION_ICON = { World: 'globe', Europe: 'earth', 'North America': 'compass', Asia: 'compass', 'Middle East': 'compass', Africa: 'compass', 'South America': 'compass' };
 const VIEW_OF = { today: 'today', atlas: 'map' };
@@ -75,7 +75,8 @@ export async function mountShell(o = {}) {
       ${categoriesSection(o)}
     </div>
     <nav class="sb-foot" aria-label="About">
-      <a class="sb-item" href="/about-project.html">${icon('book-open')}<span>Methodology v1.0</span></a>
+      <a class="sb-item" href="/about-project.html">${icon('book-open')}<span>About the project</span></a>
+      <a class="sb-item" href="/services.html">${icon('briefcase')}<span>Services</span></a>
       <a class="sb-item" href="/about-project.html#data">${icon('database')}<span>Data sources</span></a>
       <a class="sb-item" href="/about.html">${icon('info')}<span>About BOHUN</span></a>
     </nav>`;
@@ -86,7 +87,7 @@ export async function mountShell(o = {}) {
       <input id="global-search" type="search" placeholder="Search companies, cities, countries…" autocomplete="off" aria-label="Search the public research index" aria-controls="global-results" aria-expanded="false">
       <div id="global-results" class="hd-results" role="listbox" hidden></div>
     </div>
-    <nav class="hd-nav" aria-label="Main">${TOP.map(t => topItem(t, o)).join('')}<span class="hd-more" ${soon}>More ${icon('chevron-down')}</span></nav>`;
+    <nav class="hd-nav" aria-label="Main">${TOP.map(t => topItem(t, o)).join('')}</nav>`;
 
   // Mobile drawer
   const menu = hd.querySelector('.hd-menu'), close = sb.querySelector('.sb-close');
