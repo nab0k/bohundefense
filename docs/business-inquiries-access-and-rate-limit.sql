@@ -10,7 +10,14 @@ grant usage on schema bohun_private to bohun_inquiry_intake, bohun_inquiry_worke
 grant insert on bohun_private.business_inquiries to bohun_inquiry_intake;
 -- INSERT ... RETURNING id requires SELECT on id.
 grant select (id) on bohun_private.business_inquiries to bohun_inquiry_intake;
-grant select, update on bohun_private.business_inquiries to bohun_inquiry_worker;
+grant select (id,type,name,organization,email,context_url,notification_attempts,
+  notification_status,notification_next_attempt_at,notification_lease_until,
+  notification_claim_token,created_at) on bohun_private.business_inquiries
+  to bohun_inquiry_worker;
+grant update (notification_claim_token,notification_lease_until,
+  notification_attempts,notification_status,notification_next_attempt_at,
+  notified_at,updated_at) on bohun_private.business_inquiries
+  to bohun_inquiry_worker;
 grant execute on function bohun_private.claim_inquiry_notifications(integer) to bohun_inquiry_worker;
 grant execute on function bohun_private.finish_inquiry_notification(uuid,uuid,boolean) to bohun_inquiry_worker;
 -- RLS must permit ONLY these server-only roles. No anon/authenticated policies.
@@ -23,7 +30,7 @@ create policy inquiry_worker_select on bohun_private.business_inquiries
 create policy inquiry_worker_update on bohun_private.business_inquiries
   for update to bohun_inquiry_worker using (true) with check (true);
 
--- Durable, privacy-minimized sliding fixed-window rate counter.
+-- Durable, privacy-minimized fixed-hour-window rate counter.
 -- The caller supplies a server-side HMAC-SHA256 of trusted client identity,
 -- never a raw IP. The HMAC key must be an Edge Function secret.
 create table if not exists bohun_private.inquiry_rate_limits (
@@ -36,9 +43,11 @@ create table if not exists bohun_private.inquiry_rate_limits (
 );
 alter table bohun_private.inquiry_rate_limits enable row level security;
 revoke all on bohun_private.inquiry_rate_limits from public,anon,authenticated;
--- SECURITY DEFINER is intentional here: counter writes must be atomic, but the
--- caller must never receive table privileges. Own this function with a dedicated
--- tightly scoped database owner before deployment, NOT a broad superuser.
+-- SECURITY DEFINER is intentional: the caller must not have direct counter
+-- table privileges. The function MUST be owned by a dedicated limited owner
+-- with INSERT/UPDATE/SELECT rights and an explicit RLS policy, or a narrowly
+-- scoped BYPASSRLS role after a separate security review. Do not deploy with
+-- an unreviewed superuser function owner.
 create or replace function bohun_private.allow_inquiry_attempt(
   p_hash text, p_max integer default 5
 ) returns boolean
