@@ -90,11 +90,31 @@ export async function mountShell(o = {}) {
 
   // Mobile drawer
   const menu = hd.querySelector('.hd-menu'), close = sb.querySelector('.sb-close');
-  const setOpen = open => { document.body.classList.toggle('sb-open', open); menu.setAttribute('aria-expanded', String(open)); if (open) close.focus(); else menu.focus(); };
+  const setOpen = (open, restoreFocus = false) => {
+    document.body.classList.toggle('sb-open', open);
+    menu.setAttribute('aria-expanded', String(open));
+    if (open) close.focus();
+    else if (restoreFocus) menu.focus();
+  };
   menu.addEventListener('click', () => setOpen(true));
-  close.addEventListener('click', () => setOpen(false));
-  closeDrawer = () => setOpen(false);
-  if (!keyBound) { keyBound = true; document.addEventListener('keydown', e => { if (e.key === 'Escape' && document.body.classList.contains('sb-open')) closeDrawer(); }); }
+  close.addEventListener('click', () => setOpen(false, true));
+  document.addEventListener('pointerdown', e => {
+    if (document.body.classList.contains('sb-open') &&
+        !sb.contains(e.target) && !menu.contains(e.target)) setOpen(false);
+  });
+  sb.addEventListener('click', e => {
+    if (e.target.closest('a[href], button[data-ux-view], button[data-region]')) setOpen(false);
+  });
+  closeDrawer = () => setOpen(false, true);
+  if (!keyBound) {
+    keyBound = true;
+    document.addEventListener('keydown', e => {
+      if (e.key === 'Escape' && document.body.classList.contains('sb-open')) closeDrawer();
+    });
+  }
+  matchMedia('(min-width: 1024px)').addEventListener('change', e => {
+    if (e.matches && document.body.classList.contains('sb-open')) setOpen(false);
+  });
 
   let items = [];
   try { items = await directory(); } catch { /* counts stay as dashes */ }
