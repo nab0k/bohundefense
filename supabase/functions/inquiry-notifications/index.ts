@@ -10,6 +10,7 @@ Deno.serve(async(req)=>{
   const token=env("NOTIFICATION_WORKER_TOKEN");
   if(!token||req.headers.get("authorization")!=="Bearer "+token)return json(401,{error:"Unauthorized"});
   if(!env("RESEND_API_KEY")||!env("RESEND_FROM_EMAIL")||!env("SUPABASE_SERVICE_ROLE_KEY")||!env("SUPABASE_URL"))return json(503,{error:"Not configured"});
+  if(env("INQUIRY_NOTIFICATION_WORKER_ENABLED")!=="true") return json(503,{error:"Worker disabled until atomic queue is integrated"});
   // NOTE: This simple prototype is not concurrency-safe. Use atomic DB claiming
   // and a lease before enabling scheduled/repeated production runs.
   const r=await api("business_inquiries?select=id,type,name,organization,email,context_url,notification_attempts&notification_status=eq.pending&order=created_at.asc&limit=10");
