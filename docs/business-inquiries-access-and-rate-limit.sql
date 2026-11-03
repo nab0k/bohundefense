@@ -20,6 +20,7 @@ grant update (notification_claim_token,notification_lease_until,
   to bohun_inquiry_worker;
 grant execute on function bohun_private.claim_inquiry_notifications(integer) to bohun_inquiry_worker;
 grant execute on function bohun_private.finish_inquiry_notification(uuid,uuid,boolean) to bohun_inquiry_worker;
+grant execute on function bohun_private.reconcile_exhausted_inquiry_notifications(integer) to bohun_inquiry_worker;
 -- RLS must permit ONLY these server-only roles. No anon/authenticated policies.
 create policy inquiry_intake_insert on bohun_private.business_inquiries
   for insert to bohun_inquiry_intake with check (true);
