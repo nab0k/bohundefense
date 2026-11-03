@@ -77,12 +77,26 @@ def check_mobile_menu(page):
     expect(menu).to_be_focused()
 
 
+def safe_diagnostic(value):
+    # Public script locations are useful; query strings/fragments are not.
+    return re.sub(r'https?://[^\s)]+', lambda m: m.group(0).split('?')[0].split('#')[0], str(value))[:2400]
+
+
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=True, args=['--no-sandbox', '--disable-dev-shm-usage'])
     for name, width, height in [('desktop', 1440, 900), ('mobile', 390, 844)]:
         page = browser.new_page(viewport={'width': width, 'height': height}, device_scale_factor=1)
-        errors = []
-        page.on('pageerror', lambda exc: errors.append(str(exc)))
+        errors, failed_requests = [], []
+        page.on('pageerror', lambda exc: errors.append({
+            'message': safe_diagnostic(exc),
+            'stack': safe_diagnostic(getattr(exc, 'stack', '')),
+            'page_path': urlparse(page.url).path,
+        }))
+        page.on('requestfailed', lambda request: failed_requests.append({
+            'host': urlparse(request.url).hostname,
+            'resource_type': request.resource_type,
+            'failure': safe_diagnostic(request.failure),
+        }))
         try:
             load_home(page)
             if name == 'mobile':
@@ -116,7 +130,7 @@ with sync_playwright() as p:
             assert not errors, f'{name} page JavaScript errors: {errors}'
             print(f'PASS {name}: current shell, project/services navigation, page content and contact links; JS errors=0')
         except Exception:
-            print('SMOKE_DIAGNOSTICS', name, page.url, errors)
+            print('SMOKE_DIAGNOSTICS', name, urlparse(page.url).path, errors, 'FAILED_REQUESTS', failed_requests)
             page.screenshot(path=f'/tmp/atlas-{name}.png', full_page=True)
             raise
         finally:
