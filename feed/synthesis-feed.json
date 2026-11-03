@@ -3,6 +3,754 @@
   "notice": "Syntheses prepared by machine from open sources and approved by the editor. Check the sources.",
   "items": [
     {
+      "id": "syn-378",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-02",
+      "title": "Leonardo DRS to Support AeroVironment LOCUST X3 Production",
+      "summary": "Leonardo DRS will support AeroVironment's production of the LOCUST X3 system for the U.S. Army's first high-energy laser weapon production program.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Leonardo DRS will support AeroVironment's production of the LOCUST X3 system for the U.S. Army's first high-energy laser weapon production program."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "28 Aug 2023: North Korea reportedly explored repurposing aging Soviet-origin fighter jets into unmanned kamikaze systems as part of early asymmetric drone expansion initiatives (plan).",
+            "24 Aug 2024: Kim Jong Un oversaw performance tests of newly developed suicide attack drones modeled after systems like the Israeli Harop or Russian Lancet, calling for broader integration (funded).",
+            "15 Nov 2024: State media reported that Kim Jong Un officially ordered the full-scale mass production of self-detonating suicide drones following successful guided tests (approval).",
+            "27 Mar 2025: North Korean state media revealed tests of new AI-equipped suicide drones designed to autonomously identify and strike tactical objectives (delivered).",
+            "19 Sep 2026: Rodong Sinmun published unprecedented photographs of interior munitions factories revealing active production lines for Saetbyol-4 and Saetbyol-9 drones as well as one-way attack munitions (delivered).",
+            "30 Oct 2026: North Korea held the “Unmanned Aeronautical Technology Development-2026” exhibition, introducing a conceptual large stealth flying-wing UCAV mockup and staging live-fire drone strikes."
+          ],
+          "list": true
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base.",
+            "US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "As asymmetric drone threats have expanded from early plans in August 2023 through mass production and AI integration tests by March 2025 to recent 2026 exhibitions, industry demand for counter-UAS directed-energy solutions has accelerated."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "United Nations Security Council: sanction on North Korea (in_force)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense contractors specializing in vehicle integration, power, and thermal management should monitor mobile counter-UAS programs for subcontracting opportunities."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Leonardo DRS will support AeroVironment's production of the LOCUST X3 system for the U.S. Army's first high-energy laser weapon production program.",
+        "Context: 28 Aug 2023: North Korea reportedly explored repurposing aging Soviet-origin fighter jets into unmanned kamikaze systems as part of early asymmetric drone expansion initiatives (plan). 24 Aug 2024: Kim Jong Un oversaw performance tests of newly developed suicide attack drones modeled after systems like the Israeli Harop or Russian Lancet, calling for broader integration (funded). 15 Nov 2024: State media reported that Kim Jong Un officially ordered the full-scale mass production of self-detonating suicide drones following successful guided tests (approval). 27 Mar 2025: North Korean state media revealed tests of new AI-equipped suicide drones designed to autonomously identify and strike tactical objectives (delivered). 19 Sep 2026: Rodong Sinmun published unprecedented photographs of interior munitions factories revealing active production lines for Saetbyol-4 and Saetbyol-9 drones as well as one-way attack munitions (delivered). 30 Oct 2026: North Korea held the “Unmanned Aeronautical Technology Development-2026” exhibition, introducing a conceptual large stealth flying-wing UCAV mockup and staging live-fire drone strikes.",
+        "Policy direction: US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base. US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress.",
+        "The bigger picture: As asymmetric drone threats have expanded from early plans in August 2023 through mass production and AI integration tests by March 2025 to recent 2026 exhibitions, industry demand for counter-UAS directed-energy solutions has accelerated.",
+        "Down the supply chain: United Nations Security Council: sanction on North Korea (in_force).",
+        "Why it matters: Defense contractors specializing in vehicle integration, power, and thermal management should monitor mobile counter-UAS programs for subcontracting opportunities.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/leonardo-drs-to-support-aerovironments-locust-x3-production-for-u-s-armys-first-high-energy-laser-weapon-production-program/"
+        }
+      ],
+      "place": {
+        "label": "United States",
+        "lat": 38.8951,
+        "lon": -77.0364
+      }
+    },
+    {
+      "id": "syn-379",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-02",
+      "title": "Maritime Launch Services Secures TSX Uplist",
+      "summary": "Maritime Launch Services announced final approval from the Toronto Stock Exchange to list its common shares, transitioning from Cboe Canada to trade under the symbol MAXQ starting November 3, 2026.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Maritime Launch Services announced final approval from the Toronto Stock Exchange to list its common shares, transitioning from Cboe Canada to trade under the symbol MAXQ starting November 3, 2026."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "2016: Maritime Launch Services (MLS) founded to develop a commercial spaceport in Canada (plan).",
+            "12 Aug 2025: MLS and Reaction Dynamics signed a pathfinder launch agreement and equity investment (contract, CAD 1.026 million).",
+            "24 Oct 2025: Export Development Canada (EDC) committed a senior credit facility to advance Spaceport Nova Scotia (approval, CAD 10 million).",
+            "16 Mar 2026: Government of Canada signed a 10-year agreement with MLS to lease a dedicated launch pad for the Department of National Defence (DND) (contract, CAD 200 million).",
+            "2 Jul 2026: MLS announced the tender for the Utility Hub and finalization of site entrance infrastructure design packages with Lindsay Construction (funded).",
+            "1 Sep 2026: Isar Aerospace finalized its partnership statement of work with MLS to construct a dedicated launch complex for Spectrum rockets (contract).",
+            "14 Oct 2026: MLS announced conditional approval from the Toronto Stock Exchange for its upcoming uplist (approval)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "CA — Enhanced Satellite Communications Project – Polar (ESCP-P): Mil-Ka contract to Telesat (2026-08-04): Defence Investment Agency awards Telesat about C$2.3 billion (plus options of about C$214 million and C$218 million) for sovereign Arctic military satellite communications, as the BUILD component of the Defence Industrial Strategy."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Since its 2016 founding, Maritime Launch Services progressed through launch agreements and credit facilities in 2025, a 2026 Department of National Defence pad lease contract, infrastructure tenders, and an Isar Aerospace partnership, culminating in the 2026 TSX uplist approval."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Spaceport Nova Scotia depends on Nova Construction / Lindsay Construction — Launch Infrastructure Construction and utility packages executed for pads and hubs.",
+            "Maritime Launch Services depends on Isar Aerospace — Launch Vehicle Integration utilizing internal manufacturing for carbon-composite primary structures and Aquila liquid-propellant rocket engines."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "The TSX listing provides a platform to broaden visibility and engagement with the investment community for Canada's sovereign launch infrastructure providers."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Maritime Launch Services announced final approval from the Toronto Stock Exchange to list its common shares, transitioning from Cboe Canada to trade under the symbol MAXQ starting November 3, 2026.",
+        "Context: 2016: Maritime Launch Services (MLS) founded to develop a commercial spaceport in Canada (plan). 12 Aug 2025: MLS and Reaction Dynamics signed a pathfinder launch agreement and equity investment (contract, CAD 1.026 million). 24 Oct 2025: Export Development Canada (EDC) committed a senior credit facility to advance Spaceport Nova Scotia (approval, CAD 10 million). 16 Mar 2026: Government of Canada signed a 10-year agreement with MLS to lease a dedicated launch pad for the Department of National Defence (DND) (contract, CAD 200 million). 2 Jul 2026: MLS announced the tender for the Utility Hub and finalization of site entrance infrastructure design packages with Lindsay Construction (funded). 1 Sep 2026: Isar Aerospace finalized its partnership statement of work with MLS to construct a dedicated launch complex for Spectrum rockets (contract). 14 Oct 2026: MLS announced conditional approval from the Toronto Stock Exchange for its upcoming uplist (approval).",
+        "Policy direction: CA — Enhanced Satellite Communications Project – Polar (ESCP-P): Mil-Ka contract to Telesat (2026-08-04): Defence Investment Agency awards Telesat about C$2.3 billion (plus options of about C$214 million and C$218 million) for sovereign Arctic military satellite communications, as the BUILD component of the Defence Industrial Strategy.",
+        "The bigger picture: Since its 2016 founding, Maritime Launch Services progressed through launch agreements and credit facilities in 2025, a 2026 Department of National Defence pad lease contract, infrastructure tenders, and an Isar Aerospace partnership, culminating in the 2026 TSX uplist approval.",
+        "Down the supply chain: Spaceport Nova Scotia depends on Nova Construction / Lindsay Construction — Launch Infrastructure Construction and utility packages executed for pads and hubs. Maritime Launch Services depends on Isar Aerospace — Launch Vehicle Integration utilizing internal manufacturing for carbon-composite primary structures and Aquila liquid-propellant rocket engines.",
+        "Why it matters: The TSX listing provides a platform to broaden visibility and engagement with the investment community for Canada's sovereign launch infrastructure providers.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Canadian Defence Review",
+          "url": "https://canadiandefencereview.com/maritime-launch-services-to-begin-trading-on-tsx/"
+        }
+      ],
+      "place": {
+        "label": "Toronto",
+        "lat": 43.6532,
+        "lon": -79.3832
+      }
+    },
+    {
+      "id": "syn-380",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-02",
+      "title": "L3Harris wins TKMS contracts for German and Norwegian Type 212CD mast systems",
+      "summary": "L3Harris Technologies announced on November 2, 2026, that it received two multi-million-dollar contracts from thyssenkrupp Marine Systems to provide submarine mast-raising equipment and electronic control units for German and Norwegian fleets.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "L3Harris Technologies announced on November 2, 2026, that it received two multi-million-dollar contracts from thyssenkrupp Marine Systems to provide submarine mast-raising equipment and electronic control units for German and Norwegian fleets."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1 Sep 2019: Germany and Norway sign a joint intent agreement outlining co-development and shared lifecycle management for the Type 212CD class (framework).",
+            "19 Dec 2024: Germany's budget committee and procurement office approve the acquisition of four additional Type 212CD submarines, expanding the German order from 2 to 6 boats (contract).",
+            "27 Jun 2025: TKMS receives an $800 million (€800 million) contract to modernize earlier German Navy Type 212A submarines and align subsystem configurations where applicable (contract, EUR 800 million).",
+            "19 Dec 2025: TKMS and BAAINBw sign a major framework agreement for DM2A5 heavyweight torpedoes for the Type 212CD program (framework).",
+            "30 Jan 2026: The Norwegian government formally approves the acquisition of two additional Type 212CD submarines, bringing Norway's total to six and completing the core 12-boat bilateral programme requirement (approval).",
+            "6 Jul 2026: Canada selects TKMS and the Type 212CD design as preferred supplier for the Canadian Patrol Submarine Project (CPSP) for up to 12 submarines (plan).",
+            "2 Nov 2026: L3Harris announces two multi-million-dollar contracts from TKMS to provide mast-raising equipment and electronic control units for the German and Norwegian Type 212CD fleets (contract)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "US — NSPM: Rebuilding the United States Navy and America's Shipbuilding Industrial Base (2026-08-13): Fix long-term problems in Navy shipbuilding and repair: a fifth Naval shipyard, a submarine Component Repair Center, reorganisation of NAVSEA and direct investment in shipyards on the 'Finland model'."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following the 2019 joint intent agreement, the Type 212CD programme expanded through additional German and Norwegian approvals, culminating in L3Harris's November 2026 contract awards."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "L3Harris Technologies (Maritime, Space & Mission Systems / former Calzoni, Bologna, Italy) depends on Submarine Mast-Raising Assemblies & Electronic Control Units.",
+            "Hensoldt Optronics depends on Optronic Masts & Panoramic Surveillance Systems.",
+            "Indra Sistemas depends on Navigation and Digital Electronic Warfare Systems."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense supply chain professionals should monitor sub-tier equipment providers like L3Harris as European submarine manufacturing scales up across the 12-boat Type 212CD baseline."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "L3Harris Technologies announced on November 2, 2026, that it received two multi-million-dollar contracts from thyssenkrupp Marine Systems to provide submarine mast-raising equipment and electronic control units for German and Norwegian fleets.",
+        "Context: 1 Sep 2019: Germany and Norway sign a joint intent agreement outlining co-development and shared lifecycle management for the Type 212CD class (framework). 19 Dec 2024: Germany's budget committee and procurement office approve the acquisition of four additional Type 212CD submarines, expanding the German order from 2 to 6 boats (contract). 27 Jun 2025: TKMS receives an $800 million (€800 million) contract to modernize earlier German Navy Type 212A submarines and align subsystem configurations where applicable (contract, EUR 800 million). 19 Dec 2025: TKMS and BAAINBw sign a major framework agreement for DM2A5 heavyweight torpedoes for the Type 212CD program (framework). 30 Jan 2026: The Norwegian government formally approves the acquisition of two additional Type 212CD submarines, bringing Norway's total to six and completing the core 12-boat bilateral programme requirement (approval). 6 Jul 2026: Canada selects TKMS and the Type 212CD design as preferred supplier for the Canadian Patrol Submarine Project (CPSP) for up to 12 submarines (plan). 2 Nov 2026: L3Harris announces two multi-million-dollar contracts from TKMS to provide mast-raising equipment and electronic control units for the German and Norwegian Type 212CD fleets (contract).",
+        "Policy direction: US — NSPM: Rebuilding the United States Navy and America's Shipbuilding Industrial Base (2026-08-13): Fix long-term problems in Navy shipbuilding and repair: a fifth Naval shipyard, a submarine Component Repair Center, reorganisation of NAVSEA and direct investment in shipyards on the 'Finland model'.",
+        "The bigger picture: Following the 2019 joint intent agreement, the Type 212CD programme expanded through additional German and Norwegian approvals, culminating in L3Harris's November 2026 contract awards.",
+        "Down the supply chain: L3Harris Technologies (Maritime, Space & Mission Systems / former Calzoni, Bologna, Italy) depends on Submarine Mast-Raising Assemblies & Electronic Control Units. Hensoldt Optronics depends on Optronic Masts & Panoramic Surveillance Systems. Indra Sistemas depends on Navigation and Digital Electronic Warfare Systems.",
+        "Why it matters: Defense supply chain professionals should monitor sub-tier equipment providers like L3Harris as European submarine manufacturing scales up across the 12-boat Type 212CD baseline.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/l3harris-to-equip-german-and-norwegian-submarines-with-mast-systems-under-tkms-contracts/"
+        }
+      ],
+      "place": {
+        "label": "Germany",
+        "lat": 51.1657,
+        "lon": 10.4515
+      }
+    },
+    {
+      "id": "syn-381",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-02",
+      "title": "CODE380 Fields D-Vision SDR Drone Receiver",
+      "summary": "CODE380 developed the pocket-sized D-Vision SDR to sweep frequencies from 500 MHz to 8.7 GHz and intercept unencrypted analog video feeds from Russian unmanned systems in real time.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "CODE380 developed the pocket-sized D-Vision SDR to sweep frequencies from 500 MHz to 8.7 GHz and intercept unencrypted analog video feeds from Russian unmanned systems in real time."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1 Apr 2025: Engineering and design work on the D·Vision SDR hardware and software architecture initiates in Kyiv by a core team of developers (plan).",
+            "1 Jun 2026: Russian forces introduce Molniya strike drones transmitting video on the 4.1 to 4.5 GHz band, exposing blind spots in legacy analog detectors.",
+            "17 Oct 2026: CODE380 developers publicly detail the D·Vision SDR capabilities—weighing approximately 290 grams and covering 500 MHz to 8.7 GHz—to Ukrainian tech outlet DOU.",
+            "2 Nov 2026: Defense News and international trade media report on the operational fielding and combat trial results of the device on the frontline (delivered)."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following architectural planning in April 2025 and the tactical emergence of Molniya drones on new frequencies in June 2026, developers detailed the 290-gram system in October 2026 prior to frontline fielding reports in November 2026, signaling an ongoing shift toward lightweight passive RF sensors."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "CODE380 depends on Software-Defined Radio (SDR) Integrated Circuits & Baseband Processors — Utilized for digitizing wideband radio frequency streams; sourced internationally from commercial semiconductor manufacturers."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense procurement and supply chain professionals should monitor international commercial semiconductor sourcing for wideband SDR components as demand for passive detection units accelerates."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "CODE380 developed the pocket-sized D-Vision SDR to sweep frequencies from 500 MHz to 8.7 GHz and intercept unencrypted analog video feeds from Russian unmanned systems in real time.",
+        "Context: 1 Apr 2025: Engineering and design work on the D·Vision SDR hardware and software architecture initiates in Kyiv by a core team of developers (plan). 1 Jun 2026: Russian forces introduce Molniya strike drones transmitting video on the 4.1 to 4.5 GHz band, exposing blind spots in legacy analog detectors. 17 Oct 2026: CODE380 developers publicly detail the D·Vision SDR capabilities—weighing approximately 290 grams and covering 500 MHz to 8.7 GHz—to Ukrainian tech outlet DOU. 2 Nov 2026: Defense News and international trade media report on the operational fielding and combat trial results of the device on the frontline (delivered).",
+        "The bigger picture: Following architectural planning in April 2025 and the tactical emergence of Molniya drones on new frequencies in June 2026, developers detailed the 290-gram system in October 2026 prior to frontline fielding reports in November 2026, signaling an ongoing shift toward lightweight passive RF sensors.",
+        "Down the supply chain: CODE380 depends on Software-Defined Radio (SDR) Integrated Circuits & Baseband Processors — Utilized for digitizing wideband radio frequency streams; sourced internationally from commercial semiconductor manufacturers.",
+        "Why it matters: Defense procurement and supply chain professionals should monitor international commercial semiconductor sourcing for wideband SDR components as demand for passive detection units accelerates.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defense News",
+          "url": "https://www.defensenews.com/industry/techwatch/2026/11/02/tiny-ukrainian-receiver-intercepts-russian-drone-feeds-in-real-time/"
+        }
+      ],
+      "place": {
+        "label": "Kyiv",
+        "lat": 50.4501,
+        "lon": 30.5234
+      }
+    },
+    {
+      "id": "syn-382",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-02",
+      "title": "US Approves $2.1B Patriot Sale to Ukraine",
+      "summary": "The U.S. State Department approved the sale of 500 Patriot PAC-3 missiles to Ukraine for an estimated $2.1 billion, funded through allied contributions and EU loans. Lockheed Martin serves as the principal contractor for the sale, though actual deliveries are not expected until a couple of years into the 2030s due to manufacturing backlogs.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "The U.S. State Department approved the sale of 500 Patriot PAC-3 missiles to Ukraine for an estimated $2.1 billion, funded through allied contributions and EU loans. Lockheed Martin serves as the principal contractor for the sale, though actual deliveries are not expected until a couple of years into the 2030s due to manufacturing backlogs."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "2014: Production decision reached for the PAC-3 MSE interceptor (plan).",
+            "30 Jan 2026: State Department approves a possible FMS to Saudi Arabia for PAC-3 MSE missiles and related equipment (approval, USD 9 billion).",
+            "7 Jul 2026: United States, Germany, the Netherlands, Poland, and Sweden sign a joint government-to-government agreement at the NATO Summit Defense Industry Forum in Ankara to explore a regional PAC-3 maintenance facility in Europe (framework).",
+            "27 Jul 2026: Department of War, L3Harris, and Lockheed Martin ink framework agreements to expand solid rocket motor and propulsion output for PAC-3 MSE (contract).",
+            "29 Jul 2026: Lockheed Martin secures a 7-year multiyear contract modification worth up to $53.86 billion from the U.S. Government to triple PAC-3 MSE production (contract, USD 53.86 billion).",
+            "6 Oct 2026: Boeing locks in a 7-year undefinitized contract valued at $14.7 billion to triple PAC-3 MSE seeker production at Huntsville, Alabama (contract, USD 14.7 billion).",
+            "27 Oct 2026: Poland is officially announced as the host nation for the European PAC-3 Missile Maintenance Facility (MMF) on the margins of the NATO CNAD meeting (site_selection)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "NATO — The Hague Summit Declaration (2025-06-25): Allies commit to 5% of GDP a year by 2035: at least 3.5% on core defence requirements and up to 1.5% on broader security spending, including the defence industrial base."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following multi-billion dollar contracts awarded to Lockheed Martin and Boeing in mid-2026 to triple PAC-3 MSE production, the defense industrial base continues scaling output to meet surging global demand, signaled by ongoing capacity expansion agreements."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "PAC-3 MSE depends on Lockheed Martin — All-Up Round Integration & Final Assembly — Camden, Arkansas facility.",
+            "PAC-3 MSE depends on Boeing — Guidance & Seeker Subsystem — Huntsville, Alabama facility."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense supply chain and procurement professionals should monitor component lead times and advocacy for inventory backfilling as prime contractors ramp up manufacturing lines."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "The U.S. State Department approved the sale of 500 Patriot PAC-3 missiles to Ukraine for an estimated $2.1 billion, funded through allied contributions and EU loans. Lockheed Martin serves as the principal contractor for the sale, though actual deliveries are not expected until a couple of years into the 2030s due to manufacturing backlogs.",
+        "Context: 2014: Production decision reached for the PAC-3 MSE interceptor (plan). 30 Jan 2026: State Department approves a possible FMS to Saudi Arabia for PAC-3 MSE missiles and related equipment (approval, USD 9 billion). 7 Jul 2026: United States, Germany, the Netherlands, Poland, and Sweden sign a joint government-to-government agreement at the NATO Summit Defense Industry Forum in Ankara to explore a regional PAC-3 maintenance facility in Europe (framework). 27 Jul 2026: Department of War, L3Harris, and Lockheed Martin ink framework agreements to expand solid rocket motor and propulsion output for PAC-3 MSE (contract). 29 Jul 2026: Lockheed Martin secures a 7-year multiyear contract modification worth up to $53.86 billion from the U.S. Government to triple PAC-3 MSE production (contract, USD 53.86 billion). 6 Oct 2026: Boeing locks in a 7-year undefinitized contract valued at $14.7 billion to triple PAC-3 MSE seeker production at Huntsville, Alabama (contract, USD 14.7 billion). 27 Oct 2026: Poland is officially announced as the host nation for the European PAC-3 Missile Maintenance Facility (MMF) on the margins of the NATO CNAD meeting (site_selection).",
+        "Policy direction: NATO — The Hague Summit Declaration (2025-06-25): Allies commit to 5% of GDP a year by 2035: at least 3.5% on core defence requirements and up to 1.5% on broader security spending, including the defence industrial base.",
+        "The bigger picture: Following multi-billion dollar contracts awarded to Lockheed Martin and Boeing in mid-2026 to triple PAC-3 MSE production, the defense industrial base continues scaling output to meet surging global demand, signaled by ongoing capacity expansion agreements.",
+        "Down the supply chain: PAC-3 MSE depends on Lockheed Martin — All-Up Round Integration & Final Assembly — Camden, Arkansas facility. PAC-3 MSE depends on Boeing — Guidance & Seeker Subsystem — Huntsville, Alabama facility.",
+        "Why it matters: Defense supply chain and procurement professionals should monitor component lead times and advocacy for inventory backfilling as prime contractors ramp up manufacturing lines.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defense News",
+          "url": "https://www.defensenews.com/global/europe/2026/11/02/us-approves-2-1-billion-patriot-missile-sale-to-ukraine/"
+        }
+      ],
+      "place": {
+        "label": "Kyiv",
+        "lat": 50.4501,
+        "lon": 30.5234
+      }
+    },
+    {
+      "id": "syn-383",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-02",
+      "title": "Thales Subsidiary Awarded $53.9M U.S. Navy Mine Hunting Contract",
+      "summary": "Advanced Acoustic Concepts received a $53.9 million contract from the U.S. Navy for two Remote Mine Hunting modules and engineering support.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Advanced Acoustic Concepts received a $53.9 million contract from the U.S. Navy for two Remote Mine Hunting modules and engineering support."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1 Jun 2025: U.S. 7th Fleet establishes Task Force 77 in Sasebo, Japan, to coordinate regional mine countermeasures operations.",
+            "11 Apr 2026: USCENTCOM initiates mine clearance preparations in the Strait of Hormuz, heightening operational demand for advanced stand-off mine hunting.",
+            "2 Nov 2026: Advanced Acoustic Concepts (AAC)—a U.S. subsidiary of Thales—is awarded a $53.9 million USD contract by the U.S. Navy for two Remote Mine Hunting (RMH) modules and engineering support, with options raising the total potential ceiling to $196.2 million USD (contract, USD 53.9 million)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "US — NSPM: Rebuilding the United States Navy and America's Shipbuilding Industrial Base (2026-08-13): Fix long-term problems in Navy shipbuilding and repair: a fifth Naval shipyard, a submarine Component Repair Center, reorganisation of NAVSEA and direct investment in shipyards on the 'Finland model'."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Regional mine countermeasures operations and clearance preparations in the Strait of Hormuz have driven operational demand for advanced stand-off mine hunting since mid-2025."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Thales depends on multiview towed synthetic aperture sonar (SAS) / SAMDIS technology.",
+            "US/France: export licensing on defense tech transfers between France and the United States for localized subsidiary integration (in_force)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense supply chain professionals should monitor technology integration and export licensing pathways for localized subsidiaries operating in the U.S. market."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Advanced Acoustic Concepts received a $53.9 million contract from the U.S. Navy for two Remote Mine Hunting modules and engineering support.",
+        "Context: 1 Jun 2025: U.S. 7th Fleet establishes Task Force 77 in Sasebo, Japan, to coordinate regional mine countermeasures operations. 11 Apr 2026: USCENTCOM initiates mine clearance preparations in the Strait of Hormuz, heightening operational demand for advanced stand-off mine hunting. 2 Nov 2026: Advanced Acoustic Concepts (AAC)—a U.S. subsidiary of Thales—is awarded a $53.9 million USD contract by the U.S. Navy for two Remote Mine Hunting (RMH) modules and engineering support, with options raising the total potential ceiling to $196.2 million USD (contract, USD 53.9 million).",
+        "Policy direction: US — NSPM: Rebuilding the United States Navy and America's Shipbuilding Industrial Base (2026-08-13): Fix long-term problems in Navy shipbuilding and repair: a fifth Naval shipyard, a submarine Component Repair Center, reorganisation of NAVSEA and direct investment in shipyards on the 'Finland model'.",
+        "The bigger picture: Regional mine countermeasures operations and clearance preparations in the Strait of Hormuz have driven operational demand for advanced stand-off mine hunting since mid-2025.",
+        "Down the supply chain: Thales depends on multiview towed synthetic aperture sonar (SAS) / SAMDIS technology. US/France: export licensing on defense tech transfers between France and the United States for localized subsidiary integration (in_force).",
+        "Why it matters: Defense supply chain professionals should monitor technology integration and export licensing pathways for localized subsidiaries operating in the U.S. market.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Zone Militaire",
+          "url": "https://www.opex360.com/2026/11/02/une-filiale-du-groupe-francais-thales-va-livrer-des-modules-de-lutte-contre-les-mines-a-la-marine-americaine/"
+        }
+      ],
+      "place": {
+        "label": "United States",
+        "lat": 38.8951,
+        "lon": -77.0364
+      }
+    },
+    {
+      "id": "syn-384",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-02",
+      "title": "Russia Scales Up Jam-Resistant Drone Antennas",
+      "summary": "Russia is equipping its drones and missiles with larger jam-resistant Kometa navigation modules featuring up to 32-element antenna arrays.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Russia is equipping its drones and missiles with larger jam-resistant Kometa navigation modules featuring up to 32-element antenna arrays."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "17 Jul 2026: The Council of the European Union places sanctions on VNIIR-Progress and parent ABS Electro group over military electronic components development (framework).",
+            "19 Oct 2026: Ukraine’s military intelligence agency (HUR) reports that Russian defense firms ordered over 100,000 Kometa modules this year, scaling up 16-element arrays and initiating production of 20-element versions (contract).",
+            "2 Nov 2026: Ukrainian EW specialists confirm that 32-element Kometa configurations (combining dual bands) are actively deployed on Shahed/Geran drones attacking Kyiv (delivered)."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "As the Council of the European Union sanctioned VNIIR-Progress on July 17, 2026, Russian defense firms ordered over 100,000 Kometa modules by October 19, 2026, culminating in the deployment of 32-element configurations against Kyiv by November 2, 2026."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Receiver chains depends on Analog Devices and Linear Technology microcircuits — Analog Devices and Linear Technology brand microcircuits used in receiver chains."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense procurement and supply chain professionals should monitor microcircuit sourcing for navigation arrays to anticipate electronic warfare adaptations."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Russia is equipping its drones and missiles with larger jam-resistant Kometa navigation modules featuring up to 32-element antenna arrays.",
+        "Context: 17 Jul 2026: The Council of the European Union places sanctions on VNIIR-Progress and parent ABS Electro group over military electronic components development (framework). 19 Oct 2026: Ukraine’s military intelligence agency (HUR) reports that Russian defense firms ordered over 100,000 Kometa modules this year, scaling up 16-element arrays and initiating production of 20-element versions (contract). 2 Nov 2026: Ukrainian EW specialists confirm that 32-element Kometa configurations (combining dual bands) are actively deployed on Shahed/Geran drones attacking Kyiv (delivered).",
+        "The bigger picture: As the Council of the European Union sanctioned VNIIR-Progress on July 17, 2026, Russian defense firms ordered over 100,000 Kometa modules by October 19, 2026, culminating in the deployment of 32-element configurations against Kyiv by November 2, 2026.",
+        "Down the supply chain: Receiver chains depends on Analog Devices and Linear Technology microcircuits — Analog Devices and Linear Technology brand microcircuits used in receiver chains.",
+        "Why it matters: Defense procurement and supply chain professionals should monitor microcircuit sourcing for navigation arrays to anticipate electronic warfare adaptations.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defense News",
+          "url": "https://www.defensenews.com/global/europe/2026/11/02/russia-is-giving-its-drones-bigger-antennas-to-beat-ukrainian-jamming/"
+        }
+      ],
+      "place": {
+        "label": "Kyiv",
+        "lat": 50.4501,
+        "lon": 30.5234
+      }
+    },
+    {
+      "id": "syn-386",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-02",
+      "title": "NASA to Unveil New X-Plane at Max Power",
+      "summary": "NASA Administrator Jared Isaacman stated on a podcast that a new X-plane will be announced at the Max Power event at Kennedy Space Center, while deflecting questions regarding the status of a retired SR-71 Blackbird.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "NASA Administrator Jared Isaacman stated on a podcast that a new X-plane will be announced at the Max Power event at Kennedy Space Center, while deflecting questions regarding the status of a retired SR-71 Blackbird."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1 Dec 1944: The joint X-plane program officially comes into being under NACA, the U.S. Army Air Forces, and the U.S. Navy to pursue high-speed flight research (plan).",
+            "5 Oct 2023: NASA highlights completion and integration progress for the Lockheed Martin X-59 QueSST quiet supersonic low-boom flight demonstrator (delivered).",
+            "2 Dec 2025: Jared Isaacman takes office as NASA Administrator and pledges a major revitalization of the agency's X-plane portfolio during staff town halls (plan).",
+            "23 Apr 2026: NASA's Aeronautics Research Mission Directorate (ARMD) hosts an Industry Day at the Ohio Aerospace Institute for the new Aeronautics Flight Accelerator (AFA) initiative to speed up flight validation (plan).",
+            "23 Jun 2026: ARMD issues formal partnership solicitations under the AFA initiative targeting cost-shared maturation and flight testing within a three-year horizon (framework).",
+            "1 Sep 2026: NASA Administrator Isaacman teases upcoming high-speed flight initiatives and displays a cryptic high-speed aircraft silhouette during a public presentation (plan).",
+            "2 Nov 2026: NASA Administrator Isaacman announces that a brand new X-plane will be unveiled at the Max Power airshow event at Kennedy Space Center (plan)."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Since Administrator Isaacman pledged to revitalize NASA's X-plane portfolio in December 2025, the agency has pursued high-speed flight initiatives, signaling a renewed push into high-speed aeronautics."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "aerospace defense primes depends on Advanced military-derivative turbofan or hybrid rocket propulsion units."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Aerospace defense primes should monitor these upcoming vehicle disclosures to align technologies with NASA's flight roadmap."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "NASA Administrator Jared Isaacman stated on a podcast that a new X-plane will be announced at the Max Power event at Kennedy Space Center, while deflecting questions regarding the status of a retired SR-71 Blackbird.",
+        "Context: 1 Dec 1944: The joint X-plane program officially comes into being under NACA, the U.S. Army Air Forces, and the U.S. Navy to pursue high-speed flight research (plan). 5 Oct 2023: NASA highlights completion and integration progress for the Lockheed Martin X-59 QueSST quiet supersonic low-boom flight demonstrator (delivered). 2 Dec 2025: Jared Isaacman takes office as NASA Administrator and pledges a major revitalization of the agency's X-plane portfolio during staff town halls (plan). 23 Apr 2026: NASA's Aeronautics Research Mission Directorate (ARMD) hosts an Industry Day at the Ohio Aerospace Institute for the new Aeronautics Flight Accelerator (AFA) initiative to speed up flight validation (plan). 23 Jun 2026: ARMD issues formal partnership solicitations under the AFA initiative targeting cost-shared maturation and flight testing within a three-year horizon (framework). 1 Sep 2026: NASA Administrator Isaacman teases upcoming high-speed flight initiatives and displays a cryptic high-speed aircraft silhouette during a public presentation (plan). 2 Nov 2026: NASA Administrator Isaacman announces that a brand new X-plane will be unveiled at the Max Power airshow event at Kennedy Space Center (plan).",
+        "The bigger picture: Since Administrator Isaacman pledged to revitalize NASA's X-plane portfolio in December 2025, the agency has pursued high-speed flight initiatives, signaling a renewed push into high-speed aeronautics.",
+        "Down the supply chain: aerospace defense primes depends on Advanced military-derivative turbofan or hybrid rocket propulsion units.",
+        "Why it matters: Aerospace defense primes should monitor these upcoming vehicle disclosures to align technologies with NASA's flight roadmap.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "The War Zone",
+          "url": "https://www.twz.com/air/new-x-plane-to-be-announced-at-max-power-airshow-nasa-administrator-isaacman"
+        }
+      ],
+      "place": {
+        "label": "Kennedy Space Center",
+        "lat": 28.5729,
+        "lon": -80.649
+      }
+    },
+    {
+      "id": "syn-387",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-02",
+      "title": "Safran Invests €120M in Gyroscope Tech for French Nuclear Deterrence",
+      "summary": "Safran announced a €120 million investment in French industrial capabilities to produce Hemispherical Resonator Gyroscope technology for third-generation SSBNs, M51.4 missiles, and Rafale fighters.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Safran announced a €120 million investment in French industrial capabilities to produce Hemispherical Resonator Gyroscope technology for third-generation SSBNs, M51.4 missiles, and Rafale fighters."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1 Jan 1972: Direction Générale de l'Armement (DGA) initiates long-term collaboration with Safran for navigation and timing solutions supporting national deterrence.",
+            "13 Sep 2026: France awards early risk-reduction contracts to Safran and Dassault for very-low-drift Hemispherical Resonator Gyroscope (HRG) navigation units ahead of the Rafale F5 development phase (contract).",
+            "6 Oct 2026: The French Navy successfully test-fires an M51.3 missile from the SSBN Le Vigilant off Brittany, guided by Safran inertial navigation units and supported by Safran timing clocks.",
+            "2 Nov 2026: Safran announces a €120 million investment in French industrial capabilities to produce Hemispherical Resonator Gyroscope (HRG) technology for three major nuclear deterrence programmes: third-generation SSBNs, M51.4 missiles, and Rafale F4/F5 fighters (plan, EUR 120 million)."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Building on long-term collaboration with the DGA since 1972 and recent risk-reduction contracts, France is integrating HRG navigation units into its strategic platforms such as third-generation SSBNs, M51.4 missiles and Rafale fighters."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Hemispherical Resonator Gyroscope (HRG) Dual Core sensor core depends on Safran Electronics & Defense in France."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence procurement and supply chain professionals should monitor Safran's production plans for HRG navigation units to identify potential capacity opportunities and constraints in high-precision inertial systems."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Safran announced a €120 million investment in French industrial capabilities to produce Hemispherical Resonator Gyroscope technology for third-generation SSBNs, M51.4 missiles, and Rafale fighters.",
+        "Context: 1 Jan 1972: Direction Générale de l'Armement (DGA) initiates long-term collaboration with Safran for navigation and timing solutions supporting national deterrence. 13 Sep 2026: France awards early risk-reduction contracts to Safran and Dassault for very-low-drift Hemispherical Resonator Gyroscope (HRG) navigation units ahead of the Rafale F5 development phase (contract). 6 Oct 2026: The French Navy successfully test-fires an M51.3 missile from the SSBN Le Vigilant off Brittany, guided by Safran inertial navigation units and supported by Safran timing clocks. 2 Nov 2026: Safran announces a €120 million investment in French industrial capabilities to produce Hemispherical Resonator Gyroscope (HRG) technology for three major nuclear deterrence programmes: third-generation SSBNs, M51.4 missiles, and Rafale F4/F5 fighters (plan, EUR 120 million).",
+        "The bigger picture: Building on long-term collaboration with the DGA since 1972 and recent risk-reduction contracts, France is integrating HRG navigation units into its strategic platforms such as third-generation SSBNs, M51.4 missiles and Rafale fighters.",
+        "Down the supply chain: Hemispherical Resonator Gyroscope (HRG) Dual Core sensor core depends on Safran Electronics & Defense in France.",
+        "Why it matters: Defence procurement and supply chain professionals should monitor Safran's production plans for HRG navigation units to identify potential capacity opportunities and constraints in high-precision inertial systems.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/safran-says-its-navigation-technology-will-support-three-french-nuclear-deterrence-programmes/"
+        }
+      ],
+      "place": {
+        "label": "France",
+        "lat": 46.6033,
+        "lon": 1.8883
+      }
+    },
+    {
+      "id": "syn-388",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-02",
+      "title": "Saab unveils larger, optionally crewed CB90 CX for Sweden",
+      "summary": "Saab officially unveiled the larger CB90 CX variant featuring anti-ship, ISR, and short-range air defense capabilities, confirming 36 craft under contract for Sweden.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Saab officially unveiled the larger CB90 CX variant featuring anti-ship, ISR, and short-range air defense capabilities, confirming 36 craft under contract for Sweden."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1 Dec 1988: Dockstavarvet wins a competition to design a replacement for Sweden's Tpbs 200 class patrol boats (plan).",
+            "1 Jan 1989: Two prototype CB90 vessels (pennants 801 and 802) are delivered for trials (delivered).",
+            "1 Jun 1990: The Swedish Navy signs a major purchase order for 120 baseline CB90 combat boats (contract).",
+            "1 Jan 2002: The Swedish Navy orders an additional 27 variant boats (contract).",
+            "24 Oct 2019: Saab announces and delivers the first batch of the upgraded CB90 HSM (Next Generation) variant to the Swedish Defence Materiel Administration (FMV) (delivered).",
+            "30 Oct 2026: Saab briefs media on the new larger, optionally crewed CB90 CX variant ahead of Euronaval 2026 (plan).",
+            "2 Nov 2026: Saab officially unveils the CB90 CX variant with anti-ship, ISR, and SHORAD capabilities, confirming 36 craft under contract for Sweden (contract)."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "From the initial 1990 baseline procurement and 2002 orders to the 2019 NG deliveries and the latest 2026 contract for 36 CB90 CX units, the platform has evolved into an autonomous-ready multi-mission combat boat."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Combat Boat 90 depends on MJP (Marine Jet Power) waterjet propulsion systems.",
+            "Combat Boat 90 depends on Saab Sea Giraffe 1X 3D surveillance radar.",
+            "Combat Boat 90 depends on Saab Trackfire Remote Weapon Station (RWS)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Naval procurement and supply chain professionals should monitor Saab's expanded Docksta production and autonomous integration as distributed lethality and USV capabilities shape future littoral contracting."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Saab officially unveiled the larger CB90 CX variant featuring anti-ship, ISR, and short-range air defense capabilities, confirming 36 craft under contract for Sweden.",
+        "Context: 1 Dec 1988: Dockstavarvet wins a competition to design a replacement for Sweden's Tpbs 200 class patrol boats (plan). 1 Jan 1989: Two prototype CB90 vessels (pennants 801 and 802) are delivered for trials (delivered). 1 Jun 1990: The Swedish Navy signs a major purchase order for 120 baseline CB90 combat boats (contract). 1 Jan 2002: The Swedish Navy orders an additional 27 variant boats (contract). 24 Oct 2019: Saab announces and delivers the first batch of the upgraded CB90 HSM (Next Generation) variant to the Swedish Defence Materiel Administration (FMV) (delivered). 30 Oct 2026: Saab briefs media on the new larger, optionally crewed CB90 CX variant ahead of Euronaval 2026 (plan). 2 Nov 2026: Saab officially unveils the CB90 CX variant with anti-ship, ISR, and SHORAD capabilities, confirming 36 craft under contract for Sweden (contract).",
+        "The bigger picture: From the initial 1990 baseline procurement and 2002 orders to the 2019 NG deliveries and the latest 2026 contract for 36 CB90 CX units, the platform has evolved into an autonomous-ready multi-mission combat boat.",
+        "Down the supply chain: Combat Boat 90 depends on MJP (Marine Jet Power) waterjet propulsion systems. Combat Boat 90 depends on Saab Sea Giraffe 1X 3D surveillance radar. Combat Boat 90 depends on Saab Trackfire Remote Weapon Station (RWS).",
+        "Why it matters: Naval procurement and supply chain professionals should monitor Saab's expanded Docksta production and autonomous integration as distributed lethality and USV capabilities shape future littoral contracting.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Zone Militaire",
+          "url": "https://www.opex360.com/2026/11/02/saab-etend-les-capacites-de-sa-vedette-rapide-de-combat-cb90-a-la-lutte-antinavire-et-a-la-defense-aerienne/"
+        },
+        {
+          "n": 2,
+          "title": "The War Zone",
+          "url": "https://www.twz.com/sea/new-cb90-cx-is-bigger-optionally-crewed-evolution-of-saabs-proven-combat-boat"
+        }
+      ],
+      "place": {
+        "label": "Stockholm",
+        "lat": 59.3293,
+        "lon": 18.0686
+      }
+    },
+    {
       "id": "syn-359",
       "status": "approved",
       "kind": "Synthesis",
@@ -2991,735 +3739,6 @@
         "label": "Grand Prairie, Texas",
         "lat": 32.746,
         "lon": -96.9978
-      }
-    },
-    {
-      "id": "syn-256",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-10-31",
-      "title": "INLEAP Photonics launches serial production of laser-based C-UAS in Hanover",
-      "summary": "INLEAP Photonics inaugurated its new production facility in Hanover on 30 October 2026 to launch serial manufacturing of its FASTLIGHT HELD laser-based counter-unmanned aircraft systems using a one-piece flow line.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "INLEAP Photonics inaugurated its new production facility in Hanover on 30 October 2026 to launch serial manufacturing of its FASTLIGHT HELD laser-based counter-unmanned aircraft systems using a one-piece flow line."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "1 Jan 2023: INLEAP Photonics is founded as a spin-off from the Laser Zentrum Hannover e.V. by Dr.-Ing. Marius Lammers and Dr.-Ing. Felix Wellmann to develop ultra-fast precision laser beam steering technology (plan).",
-            "1 Jan 2025: INLEAP Photonics secures a pre-seed funding round of €2 million to accelerate early laser technology development (funded, EUR 2 million).",
-            "15 Feb 2026: INLEAP Photonics announces a strategic partnership with STARK Defence during Hannover Messe 2026 for joint integration in the C-UAS market (framework).",
-            "28 May 2026: INLEAP Photonics deploys its laser-based drone defence system on an unmanned ground platform for the first time under the FASTLIGHT framework (delivered).",
-            "23 Jun 2026: INLEAP Photonics leads a German Federal Ministry of Defence (BMVg) project study regarding the safe deployment of laser technology on Bundeswehr sites (contract).",
-            "1 Sep 2026: INLEAP Photonics closes a seed funding round of approximately €20 million led by UVC Partners, with participation from HTGF, Balnord, Sentris, and Scale Capital, to finance the scaling of serial production for FASTLIGHT HELD and SHIELD (funded, EUR 20 million).",
-            "30 Oct 2026: INLEAP Photonics inaugurates its new production facility in Hanover using a one-piece flow manufacturing line, launching serial production of INLEAP FASTLIGHT HELD systems (site_selection)."
-          ],
-          "list": true
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "EU — Preserving Peace – Defence Readiness Roadmap 2030 (2025-10-16): Milestones towards full EU defence readiness by 2030, with four flagships: European Drone Defence Initiative, Eastern Flank Watch, European Air Shield and European Space Shield."
-          ],
-          "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following its founding in January 2023 and subsequent pre-seed, seed funding, and BMVg project studies, INLEAP Photonics has transitioned from research to serial production by October 2026, signaling a rapid scale-up of sovereign European laser effector manufacturing."
-          ],
-          "list": false
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense procurement and supply chain professionals should monitor INLEAP's scaling capacity as a potential sourcing option for mobile C-UAS effectors."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "INLEAP Photonics inaugurated its new production facility in Hanover on 30 October 2026 to launch serial manufacturing of its FASTLIGHT HELD laser-based counter-unmanned aircraft systems using a one-piece flow line.",
-        "Context: 1 Jan 2023: INLEAP Photonics is founded as a spin-off from the Laser Zentrum Hannover e.V. by Dr.-Ing. Marius Lammers and Dr.-Ing. Felix Wellmann to develop ultra-fast precision laser beam steering technology (plan). 1 Jan 2025: INLEAP Photonics secures a pre-seed funding round of €2 million to accelerate early laser technology development (funded, EUR 2 million). 15 Feb 2026: INLEAP Photonics announces a strategic partnership with STARK Defence during Hannover Messe 2026 for joint integration in the C-UAS market (framework). 28 May 2026: INLEAP Photonics deploys its laser-based drone defence system on an unmanned ground platform for the first time under the FASTLIGHT framework (delivered). 23 Jun 2026: INLEAP Photonics leads a German Federal Ministry of Defence (BMVg) project study regarding the safe deployment of laser technology on Bundeswehr sites (contract). 1 Sep 2026: INLEAP Photonics closes a seed funding round of approximately €20 million led by UVC Partners, with participation from HTGF, Balnord, Sentris, and Scale Capital, to finance the scaling of serial production for FASTLIGHT HELD and SHIELD (funded, EUR 20 million). 30 Oct 2026: INLEAP Photonics inaugurates its new production facility in Hanover using a one-piece flow manufacturing line, launching serial production of INLEAP FASTLIGHT HELD systems (site_selection).",
-        "Policy direction: EU — Preserving Peace – Defence Readiness Roadmap 2030 (2025-10-16): Milestones towards full EU defence readiness by 2030, with four flagships: European Drone Defence Initiative, Eastern Flank Watch, European Air Shield and European Space Shield.",
-        "The bigger picture: Following its founding in January 2023 and subsequent pre-seed, seed funding, and BMVg project studies, INLEAP Photonics has transitioned from research to serial production by October 2026, signaling a rapid scale-up of sovereign European laser effector manufacturing.",
-        "Why it matters: Defense procurement and supply chain professionals should monitor INLEAP's scaling capacity as a potential sourcing option for mobile C-UAS effectors.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Der Monitor für Defence und Sicherheitspolitik",
-          "url": "https://www.hartpunkt.de/inleap-photonics-startet-serienproduktion-fuer-drohnenabwehrlaser-in-hannover/"
-        }
-      ],
-      "place": {
-        "label": "Hanover",
-        "lat": 52.3759,
-        "lon": 9.732
-      }
-    },
-    {
-      "id": "syn-257",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-10-31",
-      "title": "Leonardo selects Shield AI to integrate Hivemind SDK into Proteus uncrewed helicopter",
-      "summary": "Leonardo selected Shield AI on 29 October 2026 to integrate the Hivemind Software Development Kit into the Proteus uncrewed helicopter for advanced mission autonomy.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Leonardo selected Shield AI on 29 October 2026 to integrate the Hivemind Software Development Kit into the Proteus uncrewed helicopter for advanced mission autonomy."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "1 Aug 2013: UK Ministry of Defence places a two-year contract with AgustaWestland (now Leonardo Helicopters) for RWUAS concept development under the Anti-Submarine Warfare Spearhead programme (contract, GBP 2.3).",
-            "13 Aug 2025: Leonardo provides a comprehensive progress update on the RWUAS Phase 3A programme ahead of flight tests (funded).",
-            "2 Dec 2025: Ground-running trials commence at Leonardo's Yeovil facility to validate propulsion, sensors, and control systems (site_selection).",
-            "16 Jan 2026: Proteus successfully performs its maiden flight at Predannack airfield in Cornwall with initial Leonardo-designed autonomy embedded (delivered).",
-            "3 Mar 2026: Phase 3a flight tests conclude, with Leonardo awaiting MoD decisions on the follow-on technology maturation roadmap (plan).",
-            "24 Jul 2026: Leonardo confirms at the Farnborough International Airshow that funding for the Proteus uncrewed helicopter demonstrator has been extended through mid-2027 (funded).",
-            "29 Oct 2026: Leonardo selects Shield AI to integrate the Hivemind Software Development Kit (SDK) into Proteus for advanced mission autonomy."
-          ],
-          "list": true
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "EU — Preserving Peace – Defence Readiness Roadmap 2030 (2025-10-16): Milestones towards full EU defence readiness by 2030, with four flagships: European Drone Defence Initiative, Eastern Flank Watch, European Air Shield and European Space Shield.",
-            "FR — Actualisation de la loi de programmation militaire 2024-2030 (2026-08-16): €36 billion extra for the armed forces in 2026–2030 on top of the €413 billion LPM: nuclear deterrence, air defence, counter-drone, deep strike, munitions, drones, space and electromagnetic warfare."
-          ],
-          "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following ground trials and maiden flights in early 2026, the Proteus programme has secured funding extensions through mid-2027 and is now incorporating advanced US autonomy software, signalling a rapid move towards integrated uncrewed rotorcraft capabilities."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Hivemind Software Development Kit (SDK) depends on Shield AI (Primary Software Provider).",
-            "Airframe & Dynamic Components depends on Kopter AW09 single-engine light helicopter architecture (Leonardo Helicopters, Yeovil, UK).",
-            "Modular Payload Bay depends on Integration infrastructure for ASW, ISR, and logistics payloads.",
-            "United States: export licensing on US ITAR / EAR export controls and licensing governing the transfer of AI-powered military autonomy software (Hivemind SDK) to foreign defense primes. (in_force)."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Business development and supply chain professionals in uncrewed systems must monitor US ITAR export controls governing the transfer of AI software like the Hivemind SDK to foreign defense primes."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Leonardo selected Shield AI on 29 October 2026 to integrate the Hivemind Software Development Kit into the Proteus uncrewed helicopter for advanced mission autonomy.",
-        "Context: 1 Aug 2013: UK Ministry of Defence places a two-year contract with AgustaWestland (now Leonardo Helicopters) for RWUAS concept development under the Anti-Submarine Warfare Spearhead programme (contract, GBP 2.3). 13 Aug 2025: Leonardo provides a comprehensive progress update on the RWUAS Phase 3A programme ahead of flight tests (funded). 2 Dec 2025: Ground-running trials commence at Leonardo's Yeovil facility to validate propulsion, sensors, and control systems (site_selection). 16 Jan 2026: Proteus successfully performs its maiden flight at Predannack airfield in Cornwall with initial Leonardo-designed autonomy embedded (delivered). 3 Mar 2026: Phase 3a flight tests conclude, with Leonardo awaiting MoD decisions on the follow-on technology maturation roadmap (plan). 24 Jul 2026: Leonardo confirms at the Farnborough International Airshow that funding for the Proteus uncrewed helicopter demonstrator has been extended through mid-2027 (funded). 29 Oct 2026: Leonardo selects Shield AI to integrate the Hivemind Software Development Kit (SDK) into Proteus for advanced mission autonomy.",
-        "Policy direction: EU — Preserving Peace – Defence Readiness Roadmap 2030 (2025-10-16): Milestones towards full EU defence readiness by 2030, with four flagships: European Drone Defence Initiative, Eastern Flank Watch, European Air Shield and European Space Shield. FR — Actualisation de la loi de programmation militaire 2024-2030 (2026-08-16): €36 billion extra for the armed forces in 2026–2030 on top of the €413 billion LPM: nuclear deterrence, air defence, counter-drone, deep strike, munitions, drones, space and electromagnetic warfare.",
-        "The bigger picture: Following ground trials and maiden flights in early 2026, the Proteus programme has secured funding extensions through mid-2027 and is now incorporating advanced US autonomy software, signalling a rapid move towards integrated uncrewed rotorcraft capabilities.",
-        "Down the supply chain: Hivemind Software Development Kit (SDK) depends on Shield AI (Primary Software Provider). Airframe & Dynamic Components depends on Kopter AW09 single-engine light helicopter architecture (Leonardo Helicopters, Yeovil, UK). Modular Payload Bay depends on Integration infrastructure for ASW, ISR, and logistics payloads. United States: export licensing on US ITAR / EAR export controls and licensing governing the transfer of AI-powered military autonomy software (Hivemind SDK) to foreign defense primes. (in_force).",
-        "Why it matters: Business development and supply chain professionals in uncrewed systems must monitor US ITAR export controls governing the transfer of AI software like the Hivemind SDK to foreign defense primes.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Zone Militaire",
-          "url": "https://www.opex360.com/2026/10/31/la-section-technique-de-larmee-de-terre-developpe-deja-le-standard-3-du-systeme-antidrone-proteus/"
-        }
-      ],
-      "place": {
-        "label": "France",
-        "lat": 46.6034,
-        "lon": 1.8883
-      }
-    },
-    {
-      "id": "syn-240",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-10-30",
-      "title": "Rheinmetall Delivers First Caracal Vehicles to Germany and Netherlands",
-      "summary": "Rheinmetall formally handed over the first production-series Caracal vehicles, designated as Einsatzsystem Luftlandeplattform, to the Bundeswehr and Dutch forces during a ceremony in Ede, Netherlands.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Rheinmetall formally handed over the first production-series Caracal vehicles, designated as Einsatzsystem Luftlandeplattform, to the Bundeswehr and Dutch forces during a ceremony in Ede, Netherlands."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "1 Oct 2022: A fast-track binational competitive tendering process begins between Germany and the Netherlands to replace airborne vehicle fleets (plan).",
-            "10 Jul 2023: Germany's BAAINBw and Rheinmetall sign a multi-year framework agreement worth up to €1.9 billion for up to 3,058 Caracal 4x4 vehicles, alongside a firm initial call-off of 1,508 vehicles (1,004 for Germany, 504 for the Netherlands) valued at approximately €870 million (framework, EUR 870 million).",
-            "1 Mar 2024: Initial trial models and test vehicles are scheduled for delivery to evaluate performance ahead of serial manufacturing (funded).",
-            "12 Jun 2024: Rheinmetall showcases multiple production variants of the Caracal air assault vehicle at Eurosatory 2024 (funded).",
-            "29 Sep 2026: The Dutch Ministry of Defence receives its very first driver-training vehicle variant (delivered).",
-            "30 Oct 2026: Rheinmetall formally hands over the first production-series Caracal vehicles (designated officially as \"Einsatzsystem Luftlandeplattform\") to the Bundeswehr and Dutch forces during a ceremony in Ede, Netherlands (delivered)."
-          ],
-          "list": true
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Rheinmetall Caracal depends on Mercedes-Benz G-Class (Baureihe 464 militarised chassis), manufactured in Graz, Austria.",
-            "Rheinmetall Caracal depends on Armoured Car Systems GmbH (ACS).",
-            "Rheinmetall Caracal depends on Mercedes-Benz OM 642 V6 diesel engine."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense procurement and supply chain professionals managing light utility vehicle programs should monitor chassis and engine suppliers like Mercedes-Benz and Armoured Car Systems to track production scaling."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Rheinmetall formally handed over the first production-series Caracal vehicles, designated as Einsatzsystem Luftlandeplattform, to the Bundeswehr and Dutch forces during a ceremony in Ede, Netherlands.",
-        "Context: 1 Oct 2022: A fast-track binational competitive tendering process begins between Germany and the Netherlands to replace airborne vehicle fleets (plan). 10 Jul 2023: Germany's BAAINBw and Rheinmetall sign a multi-year framework agreement worth up to €1.9 billion for up to 3,058 Caracal 4x4 vehicles, alongside a firm initial call-off of 1,508 vehicles (1,004 for Germany, 504 for the Netherlands) valued at approximately €870 million (framework, EUR 870 million). 1 Mar 2024: Initial trial models and test vehicles are scheduled for delivery to evaluate performance ahead of serial manufacturing (funded). 12 Jun 2024: Rheinmetall showcases multiple production variants of the Caracal air assault vehicle at Eurosatory 2024 (funded). 29 Sep 2026: The Dutch Ministry of Defence receives its very first driver-training vehicle variant (delivered). 30 Oct 2026: Rheinmetall formally hands over the first production-series Caracal vehicles (designated officially as \"Einsatzsystem Luftlandeplattform\") to the Bundeswehr and Dutch forces during a ceremony in Ede, Netherlands (delivered).",
-        "Down the supply chain: Rheinmetall Caracal depends on Mercedes-Benz G-Class (Baureihe 464 militarised chassis), manufactured in Graz, Austria. Rheinmetall Caracal depends on Armoured Car Systems GmbH (ACS). Rheinmetall Caracal depends on Mercedes-Benz OM 642 V6 diesel engine.",
-        "Why it matters: Defense procurement and supply chain professionals managing light utility vehicle programs should monitor chassis and engine suppliers like Mercedes-Benz and Armoured Car Systems to track production scaling.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Militär Aktuell – Sicherheit im Fokus",
-          "url": "https://militaeraktuell.at/rheinmetall-liefert-caracal-serienfahrzeuge-aus/"
-        }
-      ],
-      "place": {
-        "label": "Ede",
-        "lat": 52.0492,
-        "lon": 5.6608
-      }
-    },
-    {
-      "id": "syn-241",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-10-30",
-      "title": "GA-ASI Opens North Dakota RSO Facility for AFRICOM MQ-9A Flights",
-      "summary": "General Atomics Aeronautical Systems, Inc. opened a new Remote Split Operation facility near Grand Forks, North Dakota, to execute contractor-operated MQ-9A flights supporting the U.S. Africa Command.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "General Atomics Aeronautical Systems, Inc. opened a new Remote Split Operation facility near Grand Forks, North Dakota, to execute contractor-operated MQ-9A flights supporting the U.S. Africa Command."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "2 Feb 2001: General Atomics' Predator B (later designated MQ-9 Reaper) prototype makes its first flight, developed initially with private company funding (plan).",
-            "1 Dec 2018: Air Force Special Operations Command begins operational fielding of unified operational flight program software updates for Block 1 and Block 5 fleets (delivered).",
-            "17 Sep 2020: The Air Force Life Cycle Management Center awards a $7.4 billion ceiling Agile Reaper Enterprise Solution (ARES) indefinite-delivery/indefinite-quantity contract to General Atomics (contract, USD 7.4 billion).",
-            "1 Jan 2022: GA-ASI introduces the MQ-9A-25 Multi-Domain Operations ready variant integrating Open Mission Systems and advanced sensor packages (framework).",
-            "29 Apr 2025: The U.S. Marine Corps announces integration of advanced smart sensor systems and electronic warfare payloads onto its fleet of 18 fielded MQ-9As (delivered).",
-            "23 Sep 2026: Congressional reports highlight ongoing U.S. inventory management and legislative debates regarding the phased divestment and future replacement architectures (such as the Massed Modular Aircraft) for the MQ-9A fleet (plan).",
-            "30 Oct 2026: GA-ASI officially opens the North Dakota RSO facility near Grand Forks to execute remote MQ-9A flights for AFRICOM (delivered)."
-          ],
-          "list": true
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "General Atomics MQ-9 Reaper depends on Honeywell Aerospace TPE331-10 turboprop engine.",
-            "General Atomics MQ-9 Reaper depends on Spirit AeroSystems and GA-ASI prime manufacturing — Composite Fuselage and Wing Structures: Spirit AeroSystems (Wichita, Kansas, USA) and GA-ASI prime manufacturing (Poway, California, USA).",
-            "General Atomics MQ-9 Reaper depends on Hartzell Propeller Inc. 4-blade carbon-fiber propeller — Propeller System: Hartzell Propeller Inc. (Piqua, Ohio, USA) 4-blade carbon-fiber propeller.",
-            "U.S. Government: export licensing on MQ-9 Reaper and related articles (in_force)."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense contractors and supply chain partners should monitor how shifts toward domestic remote operations impact ongoing contractor-operated service models and long-term sustainment planning."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "General Atomics Aeronautical Systems, Inc. opened a new Remote Split Operation facility near Grand Forks, North Dakota, to execute contractor-operated MQ-9A flights supporting the U.S. Africa Command.",
-        "Context: 2 Feb 2001: General Atomics' Predator B (later designated MQ-9 Reaper) prototype makes its first flight, developed initially with private company funding (plan). 1 Dec 2018: Air Force Special Operations Command begins operational fielding of unified operational flight program software updates for Block 1 and Block 5 fleets (delivered). 17 Sep 2020: The Air Force Life Cycle Management Center awards a $7.4 billion ceiling Agile Reaper Enterprise Solution (ARES) indefinite-delivery/indefinite-quantity contract to General Atomics (contract, USD 7.4 billion). 1 Jan 2022: GA-ASI introduces the MQ-9A-25 Multi-Domain Operations ready variant integrating Open Mission Systems and advanced sensor packages (framework). 29 Apr 2025: The U.S. Marine Corps announces integration of advanced smart sensor systems and electronic warfare payloads onto its fleet of 18 fielded MQ-9As (delivered). 23 Sep 2026: Congressional reports highlight ongoing U.S. inventory management and legislative debates regarding the phased divestment and future replacement architectures (such as the Massed Modular Aircraft) for the MQ-9A fleet (plan). 30 Oct 2026: GA-ASI officially opens the North Dakota RSO facility near Grand Forks to execute remote MQ-9A flights for AFRICOM (delivered).",
-        "Down the supply chain: General Atomics MQ-9 Reaper depends on Honeywell Aerospace TPE331-10 turboprop engine. General Atomics MQ-9 Reaper depends on Spirit AeroSystems and GA-ASI prime manufacturing — Composite Fuselage and Wing Structures: Spirit AeroSystems (Wichita, Kansas, USA) and GA-ASI prime manufacturing (Poway, California, USA). General Atomics MQ-9 Reaper depends on Hartzell Propeller Inc. 4-blade carbon-fiber propeller — Propeller System: Hartzell Propeller Inc. (Piqua, Ohio, USA) 4-blade carbon-fiber propeller. U.S. Government: export licensing on MQ-9 Reaper and related articles (in_force).",
-        "Why it matters: Defense contractors and supply chain partners should monitor how shifts toward domestic remote operations impact ongoing contractor-operated service models and long-term sustainment planning.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Defence Industry Europe",
-          "url": "https://defence-industry.eu/general-atomics-opens-north-dakota-facility-for-remote-mq-9a-operations-supporting-u-s-africa-command/"
-        }
-      ],
-      "place": {
-        "label": "Grand Forks",
-        "lat": 47.9253,
-        "lon": -97.0329
-      }
-    },
-    {
-      "id": "syn-242",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-10-30",
-      "title": "Naval Group Delivers Second FDI Frigate to Hellenic Navy",
-      "summary": "Naval Group delivered the second FDI frigate, HS Nearchos, to the Hellenic Navy on October 30, 2026, following the delivery of the lead ship HS Kimon in December 2025.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Naval Group delivered the second FDI frigate, HS Nearchos, to the Hellenic Navy on October 30, 2026, following the delivery of the lead ship HS Kimon in December 2025."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "28 Sep 2021: Greece signs a Memorandum of Understanding (MoU) with Naval Group and MBDA to begin formal negotiations for the acquisition of three FDI frigates plus an option for a fourth (plan).",
-            "19 Sep 2024: Naval Group floats out and launches the second frigate, HS Nearchos, at Lorient (site_selection).",
-            "5 Jun 2025: Naval Group hosts the launching ceremony for the third FDI frigate, HS Formion, incorporating pre-outfitted hull blocks built by Salamis Shipyards in Greece (site_selection).",
-            "14 Nov 2025: Greece signs a formal contract amendment with Naval Group to acquire a fourth FDI frigate (HS Themistocles) along with fleet-wide capability extensions (contract, EUR 982 million).",
-            "18 Dec 2025: Naval Group delivers the lead ship, HS Kimon, to the Hellenic Navy (delivered).",
-            "1 Feb 2026: HS Nearchos commences its initial contractor sea trials (funded).",
-            "30 Oct 2026: Naval Group delivers the second FDI frigate, HS Nearchos, to the Hellenic Navy (delivered)."
-          ],
-          "list": true
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Thales depends on Sea Fire Active Electronically Scanned Array (AESA) Multi-Function Radar.",
-            "MBDA depends on Aster 15/30 Air Defense Missiles and Exocet MM40 Block 3c Anti-Ship Missiles.",
-            "Naval Group Hellas depends on Electronic Navigation Charts and Combat Management Software Sub-components."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defence contractors and suppliers should monitor upcoming in-service support opportunities as over 75 Greek companies participate in maintenance, upgrades, and local sub-component manufacturing."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Naval Group delivered the second FDI frigate, HS Nearchos, to the Hellenic Navy on October 30, 2026, following the delivery of the lead ship HS Kimon in December 2025.",
-        "Context: 28 Sep 2021: Greece signs a Memorandum of Understanding (MoU) with Naval Group and MBDA to begin formal negotiations for the acquisition of three FDI frigates plus an option for a fourth (plan). 19 Sep 2024: Naval Group floats out and launches the second frigate, HS Nearchos, at Lorient (site_selection). 5 Jun 2025: Naval Group hosts the launching ceremony for the third FDI frigate, HS Formion, incorporating pre-outfitted hull blocks built by Salamis Shipyards in Greece (site_selection). 14 Nov 2025: Greece signs a formal contract amendment with Naval Group to acquire a fourth FDI frigate (HS Themistocles) along with fleet-wide capability extensions (contract, EUR 982 million). 18 Dec 2025: Naval Group delivers the lead ship, HS Kimon, to the Hellenic Navy (delivered). 1 Feb 2026: HS Nearchos commences its initial contractor sea trials (funded). 30 Oct 2026: Naval Group delivers the second FDI frigate, HS Nearchos, to the Hellenic Navy (delivered).",
-        "Down the supply chain: Thales depends on Sea Fire Active Electronically Scanned Array (AESA) Multi-Function Radar. MBDA depends on Aster 15/30 Air Defense Missiles and Exocet MM40 Block 3c Anti-Ship Missiles. Naval Group Hellas depends on Electronic Navigation Charts and Combat Management Software Sub-components.",
-        "Why it matters: Defence contractors and suppliers should monitor upcoming in-service support opportunities as over 75 Greek companies participate in maintenance, upgrades, and local sub-component manufacturing.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Defence Industry Europe",
-          "url": "https://defence-industry.eu/naval-group-delivers-second-fdi-frigate-hs-nearchos-to-the-hellenic-navy/"
-        }
-      ],
-      "place": {
-        "label": "Athens",
-        "lat": 37.9838,
-        "lon": 23.7275
-      }
-    },
-    {
-      "id": "syn-243",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-10-30",
-      "title": "UK Submarine Delivery Agency aims to double production for up to 12 SSN-AUKUS boats",
-      "summary": "The Submarine Delivery Agency announced the formation of the Submarine Production Alliance to coordinate design and manufacturing across the Dreadnought and SSN-AUKUS programmes.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "The Submarine Delivery Agency announced the formation of the Submarine Production Alliance to coordinate design and manufacturing across the Dreadnought and SSN-AUKUS programmes."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "1 Mar 2007: Work begins on the concept phase of the successor ballistic missile submarine programme (later named Dreadnought), following parliamentary approval (plan).",
-            "2023: HMS Vanguard emerged from a refit at Devonport in 2023 that took around seven and a half years against a planned three and a half (delivered).",
-            "1 Oct 2023: The UK government awards contracts worth £4 billion to BAE Systems, Rolls-Royce, and Babcock to support SSN-AUKUS design, infrastructure, and long-lead items (contract, GBP 4 billion).",
-            "1 Jan 2025: Rolls-Royce is awarded an 8-year contract (named \"Unity\") valued at approximately £9 billion by the UK Ministry of Defence for naval reactor design, manufacture, and support (contract, GBP 9 billion).",
-            "1 May 2025: Ministry of Defence notes that £3.37 billion of the £10 billion contingency set aside for the Dreadnought class (£31 billion base cost, up to £41 billion total ceiling) had been accessed as of March 2024 (ceiling, GBP 41 billion).",
-            "1 Jul 2026: The Ministry of Defence announces Delivery Phase 4 (DP4) for the Dreadnought programme, funding the first boat through final build, sea trials, and certification (funded).",
-            "30 Oct 2026: The Submarine Delivery Agency publishes its Annual Report and Accounts 2025/2026, announcing the formation of the Submarine Production Alliance and the ambition to double production rates for up to 12 SSN-AUKUS submarines (plan)."
-          ],
-          "list": true
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following initial concept approval, the UK nuclear enterprise is now expanding industrial capacity through Delivery Phase 4 and the newly announced production alliance, signaling a long-term push for continuous submarine manufacturing."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Rolls-Royce Submarines depends on Nuclear Reactor Plant / Nuclear Steam Raising Plant — Sole-source provider of UK naval nuclear reactors."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defence supply chain professionals should monitor upcoming demand signals and supplier diversification efforts to align component manufacturing capacity with expanded build schedules."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "The Submarine Delivery Agency announced the formation of the Submarine Production Alliance to coordinate design and manufacturing across the Dreadnought and SSN-AUKUS programmes.",
-        "Context: 1 Mar 2007: Work begins on the concept phase of the successor ballistic missile submarine programme (later named Dreadnought), following parliamentary approval (plan). 2023: HMS Vanguard emerged from a refit at Devonport in 2023 that took around seven and a half years against a planned three and a half (delivered). 1 Oct 2023: The UK government awards contracts worth £4 billion to BAE Systems, Rolls-Royce, and Babcock to support SSN-AUKUS design, infrastructure, and long-lead items (contract, GBP 4 billion). 1 Jan 2025: Rolls-Royce is awarded an 8-year contract (named \"Unity\") valued at approximately £9 billion by the UK Ministry of Defence for naval reactor design, manufacture, and support (contract, GBP 9 billion). 1 May 2025: Ministry of Defence notes that £3.37 billion of the £10 billion contingency set aside for the Dreadnought class (£31 billion base cost, up to £41 billion total ceiling) had been accessed as of March 2024 (ceiling, GBP 41 billion). 1 Jul 2026: The Ministry of Defence announces Delivery Phase 4 (DP4) for the Dreadnought programme, funding the first boat through final build, sea trials, and certification (funded). 30 Oct 2026: The Submarine Delivery Agency publishes its Annual Report and Accounts 2025/2026, announcing the formation of the Submarine Production Alliance and the ambition to double production rates for up to 12 SSN-AUKUS submarines (plan).",
-        "The bigger picture: Following initial concept approval, the UK nuclear enterprise is now expanding industrial capacity through Delivery Phase 4 and the newly announced production alliance, signaling a long-term push for continuous submarine manufacturing.",
-        "Down the supply chain: Rolls-Royce Submarines depends on Nuclear Reactor Plant / Nuclear Steam Raising Plant — Sole-source provider of UK naval nuclear reactors.",
-        "Why it matters: Defence supply chain professionals should monitor upcoming demand signals and supplier diversification efforts to align component manufacturing capacity with expanded build schedules.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Defence Industry Europe",
-          "url": "https://defence-industry.eu/britains-submarine-delivery-agency-says-uk-aims-to-double-production-for-up-to-12-ssn-aukus-submarines/"
-        },
-        {
-          "n": 2,
-          "title": "UK Defence Journal",
-          "url": "https://ukdefencejournal.org.uk/britains-most-powerful-nuclear-sub-enters-final-build-phase/"
-        }
-      ],
-      "place": {
-        "label": "London",
-        "lat": 51.5074,
-        "lon": -0.1278
-      }
-    },
-    {
-      "id": "syn-244",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-10-31",
-      "title": "Chess Dynamics secures £3M contract for Indonesian frigate sensor upgrade",
-      "summary": "Chess Dynamics secured a £3 million contract from PT Len Industri to supply SeaEagle Fire Control Electro-Optical systems for two Indonesian Navy Bung Tomo-class frigates. The new systems will replace legacy equipment and integrate with the ships' 76 mm OTO Melara naval guns and Thales TACTICOS Combat Management System.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Chess Dynamics secured a £3 million contract from PT Len Industri to supply SeaEagle Fire Control Electro-Optical systems for two Indonesian Navy Bung Tomo-class frigates. The new systems will replace legacy equipment and integrate with the ships' 76 mm OTO Melara naval guns and Thales TACTICOS Combat Management System."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "1 Nov 2020: PT Len and Thales signed the original contract for the complete mission systems modernisation of the lead ship, KRI Usman Harun (359), including TACTICOS CMS, SMART-S Mk2 radar, and STIR EO Mk2 (contract).",
-            "2023: Chess Dynamics secures an initial contract from PT Len to supply its SeaEagle FCEO system for the first vessel in the Bung Tomo-class upgrade programme (contract).",
-            "1 Nov 2025: The modernization scope officially expanded to include the remaining two sister ships, KRI Bung Tomo (357) and KRI John Lie (358) (contract).",
-            "28 Oct 2026: Chess Dynamics announced a follow-up contract worth approximately £3 million for two additional SeaEagle FCEO systems to cover the remaining ships, completing the class-wide sensor standardization (contract, GBP 3 million)."
-          ],
-          "list": true
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following the initial 2020 modernisation contract for the lead ship and the November 2025 scope expansion to the remaining sister ships, the October 2026 follow-up contract completes class-wide sensor standardization, signaling continued defense modernization in Southeast Asia."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "SeaEagle Fire Control Electro-Optical (FCEO) System depends on Chess Dynamics (Cohort plc).",
-            "Combat Management System Integration depends on Thales TACTICOS system and OTO Melara 76 mm naval guns."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Naval defense suppliers and prime contractors should monitor this standardization effort for future maintenance and upgrade opportunities in the Asia-Pacific region."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Chess Dynamics secured a £3 million contract from PT Len Industri to supply SeaEagle Fire Control Electro-Optical systems for two Indonesian Navy Bung Tomo-class frigates. The new systems will replace legacy equipment and integrate with the ships' 76 mm OTO Melara naval guns and Thales TACTICOS Combat Management System.",
-        "Context: 1 Nov 2020: PT Len and Thales signed the original contract for the complete mission systems modernisation of the lead ship, KRI Usman Harun (359), including TACTICOS CMS, SMART-S Mk2 radar, and STIR EO Mk2 (contract). 2023: Chess Dynamics secures an initial contract from PT Len to supply its SeaEagle FCEO system for the first vessel in the Bung Tomo-class upgrade programme (contract). 1 Nov 2025: The modernization scope officially expanded to include the remaining two sister ships, KRI Bung Tomo (357) and KRI John Lie (358) (contract). 28 Oct 2026: Chess Dynamics announced a follow-up contract worth approximately £3 million for two additional SeaEagle FCEO systems to cover the remaining ships, completing the class-wide sensor standardization (contract, GBP 3 million).",
-        "The bigger picture: Following the initial 2020 modernisation contract for the lead ship and the November 2025 scope expansion to the remaining sister ships, the October 2026 follow-up contract completes class-wide sensor standardization, signaling continued defense modernization in Southeast Asia.",
-        "Down the supply chain: SeaEagle Fire Control Electro-Optical (FCEO) System depends on Chess Dynamics (Cohort plc). Combat Management System Integration depends on Thales TACTICOS system and OTO Melara 76 mm naval guns.",
-        "Why it matters: Naval defense suppliers and prime contractors should monitor this standardization effort for future maintenance and upgrade opportunities in the Asia-Pacific region.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Naval News",
-          "url": "https://www.navalnews.com/naval-news/2026/10/chess-dynamics-wins-3m-contract-for-indonesian-bung-tomo-class-frigates/"
-        }
-      ],
-      "place": {
-        "label": "Jakarta",
-        "lat": -6.2088,
-        "lon": 106.8456
-      }
-    },
-    {
-      "id": "syn-245",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-10-31",
-      "title": "Galvion Wins Latvian Helmet Framework Under EU SAFE Programme",
-      "summary": "Latvia awarded Galvion a framework agreement for high-cut and mid/full-cut helmets, spare parts, and lifecycle maintenance under the EU SAFE programme.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Latvia awarded Galvion a framework agreement for high-cut and mid/full-cut helmets, spare parts, and lifecycle maintenance under the EU SAFE programme."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "20 May 2025: Council Regulation (EU) 7926/25 formally established the Security Action for Europe (SAFE) instrument to offer up to €150 billion in long-term loans for joint defence procurement (approval).",
-            "27 May 2025: The Council of the European Union officially adopted the SAFE financial framework (approval).",
-            "30 Jul 2025: Eighteen EU member states submitted formal expressions of interest, requesting a combined €127 billion in indicative loan amounts under SAFE (plan).",
-            "9 Dec 2025: Analysis on non-EU suppliers highlighted strict local content requirements (minimum 65% European components) and mechanisms for closely aligned third countries within SAFE.",
-            "1 Jun 2026: Canada formally finalized terms to become an associate participant in the EU SAFE defence procurement program (framework).",
-            "29 Oct 2026: The European Commission invited member states to apply for an additional €21.3 billion under the second round of SAFE funding (plan)."
-          ],
-          "list": true
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following the establishment of the SAFE instrument in May 2025 and Canada's accession as an associate participant in June 2026, cross-border procurement frameworks are operationalizing regional industrial cooperation; signal: expanding cross-border contracts under EU funding mechanisms."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "European Union: export licensing on defense procurement rules under SAFE (in_force)."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defence contractors in non-EU associate countries should review local content thresholds and regional hub investments to capitalize on upcoming SAFE funding rounds."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Latvia awarded Galvion a framework agreement for high-cut and mid/full-cut helmets, spare parts, and lifecycle maintenance under the EU SAFE programme.",
-        "Context: 20 May 2025: Council Regulation (EU) 7926/25 formally established the Security Action for Europe (SAFE) instrument to offer up to €150 billion in long-term loans for joint defence procurement (approval). 27 May 2025: The Council of the European Union officially adopted the SAFE financial framework (approval). 30 Jul 2025: Eighteen EU member states submitted formal expressions of interest, requesting a combined €127 billion in indicative loan amounts under SAFE (plan). 9 Dec 2025: Analysis on non-EU suppliers highlighted strict local content requirements (minimum 65% European components) and mechanisms for closely aligned third countries within SAFE. 1 Jun 2026: Canada formally finalized terms to become an associate participant in the EU SAFE defence procurement program (framework). 29 Oct 2026: The European Commission invited member states to apply for an additional €21.3 billion under the second round of SAFE funding (plan).",
-        "The bigger picture: Following the establishment of the SAFE instrument in May 2025 and Canada's accession as an associate participant in June 2026, cross-border procurement frameworks are operationalizing regional industrial cooperation; signal: expanding cross-border contracts under EU funding mechanisms.",
-        "Down the supply chain: European Union: export licensing on defense procurement rules under SAFE (in_force).",
-        "Why it matters: Defence contractors in non-EU associate countries should review local content thresholds and regional hub investments to capitalize on upcoming SAFE funding rounds.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Canada’s Galvion awarded Latvian helmet supply framework under EU SAFE programme",
-          "url": "https://canadiandefencereview.com/galvion-wins-up-to-e27-8m-safe-helmet-contract-from-latvia/"
-        },
-        {
-          "n": 2,
-          "title": "Defence Industry Europe",
-          "url": "https://defence-industry.eu/canadas-galvion-awarded-latvian-helmet-supply-framework-under-eu-safe-programme/"
-        }
-      ],
-      "place": {
-        "label": "Riga",
-        "lat": 56.9496,
-        "lon": 24.1052
-      }
-    },
-    {
-      "id": "syn-247",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-10-31",
-      "title": "UK Defence Secretary Criticises SNP Nuclear Policy",
-      "summary": "The Defence Secretary criticised the Scottish National Party's opposition to nuclear weapons, terming it a white flag policy that contradicts membership in a nuclear alliance.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "The Defence Secretary criticised the Scottish National Party's opposition to nuclear weapons, terming it a white flag policy that contradicts membership in a nuclear alliance."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "24 Mar 1958: The US-UK Mutual Defence Agreement is signed, facilitating deep cooperation on nuclear propulsion and weapon technology (framework).",
-            "1 Jul 1998: The Strategic Defence Review (SDR) sets the operational warhead ceiling at 215 and confirms a four-boat fleet structure (ceiling, 215).",
-            "4 Dec 2006: A White Paper is published outlining plans to initiate the Successor (later Dreadnought-class) submarine programme and extend the life of the Vanguard fleet (plan).",
-            "1 Oct 2012: The SNP alters its long-standing absolute opposition to NATO at its annual conference, voting to support alliance membership while maintaining opposition to nuclear weapons and the stationing of Trident at Faslane.",
-            "18 Jul 2016: Parliament votes overwhelmingly in favor of renewing the UK's nuclear deterrent through the construction of four Dreadnought-class ballistic missile submarines (approval).",
-            "16 Mar 2021: The Government publishes the Integrated Review, reversing previous reduction targets and raising the cap on the UK's nuclear stockpile ceiling to 260 warheads (ceiling, 260).",
-            "12 Aug 2025: The House of Commons Library publishes an updated research briefing evaluating the expanding costs of the Defence Nuclear Enterprise and the Trident system."
-          ],
-          "list": true
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Since the 1958 US-UK Mutual Defence Agreement, the UK's nuclear deterrent has evolved through programs like Polaris and Trident, culminating in the 2016 parliamentary approval for Dreadnought-class submarines and a 2021 stockpile cap increase to 260 warheads, maintaining continuous at-sea deterrence despite ongoing political debates over Scottish basing and alliance commitments."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "UK Nuclear Deterrent Programme depends on Trident II D5 Ballistic Missiles — Manufactured by Lockheed Martin Space (Sunnyvale, California, USA) and supplied via the US Navy Strategic Systems Programs under the Polaris Sales Agreement.",
-            "UK Nuclear Deterrent Programme depends on Nuclear Reactor Propulsion Plants — Powered by Rolls-Royce PWR3 reactors designed and built by Rolls-Royce subsidiary operations (Derby, UK).",
-            "UK Nuclear Deterrent Programme depends on Submarine Hulls and Integration — Constructed by BAE Systems Submarines at Barrow-in-Furness (Cumbria, UK).",
-            "United Kingdom: sanction on Treaty on the Non-Proliferation of Nuclear Weapons (NPT) (in_force).",
-            "United States: export licensing on US International Traffic in Arms Regulations (ITAR) (in_force)."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defence contractors involved in the UK Nuclear Deterrent Programme should monitor political stability around naval basing and alliance support."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "The Defence Secretary criticised the Scottish National Party's opposition to nuclear weapons, terming it a white flag policy that contradicts membership in a nuclear alliance.",
-        "Context: 24 Mar 1958: The US-UK Mutual Defence Agreement is signed, facilitating deep cooperation on nuclear propulsion and weapon technology (framework). 1 Jul 1998: The Strategic Defence Review (SDR) sets the operational warhead ceiling at 215 and confirms a four-boat fleet structure (ceiling, 215). 4 Dec 2006: A White Paper is published outlining plans to initiate the Successor (later Dreadnought-class) submarine programme and extend the life of the Vanguard fleet (plan). 1 Oct 2012: The SNP alters its long-standing absolute opposition to NATO at its annual conference, voting to support alliance membership while maintaining opposition to nuclear weapons and the stationing of Trident at Faslane. 18 Jul 2016: Parliament votes overwhelmingly in favor of renewing the UK's nuclear deterrent through the construction of four Dreadnought-class ballistic missile submarines (approval). 16 Mar 2021: The Government publishes the Integrated Review, reversing previous reduction targets and raising the cap on the UK's nuclear stockpile ceiling to 260 warheads (ceiling, 260). 12 Aug 2025: The House of Commons Library publishes an updated research briefing evaluating the expanding costs of the Defence Nuclear Enterprise and the Trident system.",
-        "The bigger picture: Since the 1958 US-UK Mutual Defence Agreement, the UK's nuclear deterrent has evolved through programs like Polaris and Trident, culminating in the 2016 parliamentary approval for Dreadnought-class submarines and a 2021 stockpile cap increase to 260 warheads, maintaining continuous at-sea deterrence despite ongoing political debates over Scottish basing and alliance commitments.",
-        "Down the supply chain: UK Nuclear Deterrent Programme depends on Trident II D5 Ballistic Missiles — Manufactured by Lockheed Martin Space (Sunnyvale, California, USA) and supplied via the US Navy Strategic Systems Programs under the Polaris Sales Agreement. UK Nuclear Deterrent Programme depends on Nuclear Reactor Propulsion Plants — Powered by Rolls-Royce PWR3 reactors designed and built by Rolls-Royce subsidiary operations (Derby, UK). UK Nuclear Deterrent Programme depends on Submarine Hulls and Integration — Constructed by BAE Systems Submarines at Barrow-in-Furness (Cumbria, UK). United Kingdom: sanction on Treaty on the Non-Proliferation of Nuclear Weapons (NPT) (in_force). United States: export licensing on US International Traffic in Arms Regulations (ITAR) (in_force).",
-        "Why it matters: Defence contractors involved in the UK Nuclear Deterrent Programme should monitor political stability around naval basing and alliance support.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "SNP defence policy attacked by UK Defence Secretary",
-          "url": "https://ukdefencejournal.org.uk/snp-defence-policy-attacked-by-uk-defence-secretary/"
-        }
-      ],
-      "place": {
-        "label": "Glasgow",
-        "lat": 55.8642,
-        "lon": -4.2518
-      }
-    },
-    {
-      "id": "syn-248",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-10-31",
-      "title": "Belgium transfers first Tripartite minehunter to Bulgaria",
-      "summary": "Belgium officially transferred the first of four Tripartite-class minehunters, BNS Bellis, to the Bulgarian Navy on October 30, 2026.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Belgium officially transferred the first of four Tripartite-class minehunters, BNS Bellis, to the Bulgarian Navy on October 30, 2026."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "9 Feb 1984: Keel is laid for the lead Belgian Tripartite ship BNS Bellis at the Mercantile-Belyard shipyard in Rupelmonde (contract).",
-            "1 Sep 2023: France, Belgium, and the Netherlands sign a tripartite agreement formalizing cooperation in naval mine warfare and next-generation system rollouts (framework).",
-            "13 Sep 2025: The Belgian government approves a €24 million contract framework for transferring four decommissioned Belgian Tripartite minehunters to Bulgaria (approval, EUR 24).",
-            "8 Jul 2026: Defense ministers of Belgium, the Netherlands, and Bulgaria formally sign the trilateral MoU covering the transfer of seven total minehunters (framework).",
-            "26 Aug 2026: The Bulgarian National Assembly ratifies the sale and transfer agreements for acquiring four Belgian and three Dutch minehunters (approval).",
-            "1 Oct 2026: According to news publications , the French Aquitaine-class frigate FS Languedoc intercepted a drone on 01 October 2026 in the Strait of Bab el-Mandeb, which was heading towards a Liquefied Natural Gas-powered vessel, later identified as the Champs Elysées (delivered).",
-            "30 Oct 2026: Official transfer and flag-raising ceremony for BNS Bellis (Breeze) takes place at Zeebrugge Naval Base, marking its handover to the Bulgarian Navy (delivered)."
-          ],
-          "list": true
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "NL — Defensienota 2024: Sterk, slim en samen (2024-09-05): Structural €2.4 billion a year more for Defence so the Netherlands meets the NATO 2% norm; €1.5 billion extra for combat power, including two ASW frigates, extra NH90 helicopters and uncrewed vessels."
-          ],
-          "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "As Belgium and the Netherlands phase out their Tripartite fleets under the rMCM program starting in September 2023, surplus vessels are being transferred to allies like Bulgaria to maintain regional capabilities, signaling a broader NATO fleet recapitalization."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Tripartite-class minehunter depends on Main Propulsion (Diesel Engine) — Powered by Werkspoor RUB 215 V12 marine diesel engines.",
-            "Tripartite-class minehunter depends on Remote Disposal Vehicles — SAAB Bofors Double Eagle Mk III / Atlas Elektronik Seafox ROVs for remote identification and destruction of mines."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense procurement and maintenance professionals should track upcoming platform transfers and refit packages for the remaining six Tripartite minehunters designated for Bulgaria."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Belgium officially transferred the first of four Tripartite-class minehunters, BNS Bellis, to the Bulgarian Navy on October 30, 2026.",
-        "Context: 9 Feb 1984: Keel is laid for the lead Belgian Tripartite ship BNS Bellis at the Mercantile-Belyard shipyard in Rupelmonde (contract). 1 Sep 2023: France, Belgium, and the Netherlands sign a tripartite agreement formalizing cooperation in naval mine warfare and next-generation system rollouts (framework). 13 Sep 2025: The Belgian government approves a €24 million contract framework for transferring four decommissioned Belgian Tripartite minehunters to Bulgaria (approval, EUR 24). 8 Jul 2026: Defense ministers of Belgium, the Netherlands, and Bulgaria formally sign the trilateral MoU covering the transfer of seven total minehunters (framework). 26 Aug 2026: The Bulgarian National Assembly ratifies the sale and transfer agreements for acquiring four Belgian and three Dutch minehunters (approval). 1 Oct 2026: According to news publications , the French Aquitaine-class frigate FS Languedoc intercepted a drone on 01 October 2026 in the Strait of Bab el-Mandeb, which was heading towards a Liquefied Natural Gas-powered vessel, later identified as the Champs Elysées (delivered). 30 Oct 2026: Official transfer and flag-raising ceremony for BNS Bellis (Breeze) takes place at Zeebrugge Naval Base, marking its handover to the Bulgarian Navy (delivered).",
-        "Policy direction: NL — Defensienota 2024: Sterk, slim en samen (2024-09-05): Structural €2.4 billion a year more for Defence so the Netherlands meets the NATO 2% norm; €1.5 billion extra for combat power, including two ASW frigates, extra NH90 helicopters and uncrewed vessels.",
-        "The bigger picture: As Belgium and the Netherlands phase out their Tripartite fleets under the rMCM program starting in September 2023, surplus vessels are being transferred to allies like Bulgaria to maintain regional capabilities, signaling a broader NATO fleet recapitalization.",
-        "Down the supply chain: Tripartite-class minehunter depends on Main Propulsion (Diesel Engine) — Powered by Werkspoor RUB 215 V12 marine diesel engines. Tripartite-class minehunter depends on Remote Disposal Vehicles — SAAB Bofors Double Eagle Mk III / Atlas Elektronik Seafox ROVs for remote identification and destruction of mines.",
-        "Why it matters: Defense procurement and maintenance professionals should track upcoming platform transfers and refit packages for the remaining six Tripartite minehunters designated for Bulgaria.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Naval News",
-          "url": "https://www.navalnews.com/naval-news/2026/10/31/belgium-transfers-first-tripartite-minehunter-bns-bellis-to-bulgarian-navy/"
-        },
-        {
-          "n": 2,
-          "title": "Naval News",
-          "url": "https://www.navalnews.com/naval-news/2026/10/belgium-transfers-first-tripartite-minehunter-bns-bellis-to-bulgarian-navy/"
-        }
-      ],
-      "place": {
-        "label": "Sofia",
-        "lat": 42.6977,
-        "lon": 23.3219
       }
     }
   ]
