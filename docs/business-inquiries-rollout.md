@@ -61,3 +61,11 @@ Reviewed the three draft SQL files without applying them. Changes:
 - Review the SQL for role creation idempotence, login role provisioning, queue concurrency, row-level permissions, and negative tests before authorizing any migration.
 
 **Audit scope:** static code review only. No real database query, migration, function execution, end-to-end test or email was performed in this checkpoint.
+
+## Rate-limit privilege correction
+
+The draft rate-limit function now uses `SECURITY INVOKER` with explicit counter-table RLS policies and narrowly scoped intake-role grants, rather than a privileged `SECURITY DEFINER` owner. This avoids the unresolved function-owner privilege escalation path. Review the full table grants and test the function as the actual intake login role before applying.
+
+**Still blocked:** current code enforces the DB counter only after Turnstile verification. Abuse can therefore still consume Turnstile verification resources; verify trusted ingress identity and add pre-verification rate controls before enabling. A rate limit on verified requests alone is not comprehensive abuse protection.
+
+**Migration review:** SQL files are drafts, not production-ready migrations. In particular, test role creation and policy creation on a disposable database, verify role inheritance and actual RLS behavior, check queue retry exhaustion, and inspect the existing `bohun_private` schema dependencies. No production database writes are authorized.
