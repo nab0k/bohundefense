@@ -31,6 +31,7 @@
     if (locationNote) out.push(el('p', 'ux-company-map-note', locationNote));
     if (c.category) out.push(el('p', '', 'Category: ' + c.category));
     if (c.about) out.push(el('p', '', c.about));
+    const update = el('a', 'ux-company-map-note', 'Suggest a company update ↗'); update.href = '/inquiry.html?' + new URLSearchParams({type:'company', id:String(c.id || c.name || ''), title:String(c.name || '')}); out.push(update);
     const web = httpsUrl(c.website);
     if (web) { const a = el('a', '', new URL(web).hostname.replace(/^www\./, '') + ' ↗'); a.href = web; a.target = '_blank'; a.rel = 'noopener noreferrer'; out.push(el('p')); out[out.length - 1].append(a); }
     const dir = el('a', '', 'Open in company directory');
