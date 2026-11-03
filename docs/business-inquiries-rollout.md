@@ -39,3 +39,13 @@ Resend domain verification and API key creation have been reported by the owner;
 - Critical outstanding work: durable rate limiting with trusted client-IP handling, restricted database roles and SQL grants, Turnstile client widget and keys, Resend verified sender and secrets, privacy/retention, negative permission tests, concurrency tests, and real end-to-end tests.
 - A 2-minute lease plus Resend idempotency reduces duplicate delivery but does not guarantee exactly-once notifications. Verify behavior on timeout and lease expiry.
 - No database migration, function deployment, mail send, merge or publication has occurred.
+
+## Security implementation checkpoint
+
+Staged SQL: `docs/business-inquiries-access-and-rate-limit.sql`. It creates NOLOGIN capability roles, RLS policies and an atomic hourly counter. **Not applied**. The SQL is a review draft: role creation and policy creation are not idempotent, role ownership and grants need testing, and the SECURITY DEFINER rate function must be owned by a narrowly privileged role before deployment.
+
+Intake uses `INQUIRY_INTAKE_DATABASE_URL` and `INQUIRY_RATE_HMAC_KEY`; worker uses `INQUIRY_WORKER_DATABASE_URL`. All are server-only secrets. The code currently reads `cf-connecting-ip`, but the Supabase Edge ingress trust boundary has NOT been verified: a forged client header could defeat per-IP limiting. **Do not enable intake until a trusted identity source or edge-enforced rate limit is verified.** The counter currently runs after Turnstile, so unverified attempts are not counted. A separate pre-verification edge limit is still required.
+
+The rate counter uses fixed one-hour windows (five successful Turnstile attempts per identity), not a sliding window. Do not claim production abuse protection until concurrency, spoofing, IPv6, error and recovery tests pass. Rate-limit identity is HMAC-hashed; define retention/cleanup before enabling.
+
+This branch has NOT been deployed or end-to-end tested. Database, mail, public website and main branch remain unchanged.
