@@ -15,3 +15,12 @@
 **Privacy:** Notifications deliberately omit the enquiry message body; read it only in the private database. Sender address is not a reply inbox unless separately configured.
 
 **Important:** The inbound form remains disabled until Turnstile, rate limits, queue worker, database, privacy text and all three scenarios pass tests.
+
+
+## Queue hardening staged on 2026-11-03
+
+`docs/business-inquiries-queue.sql` now specifies an atomic `FOR UPDATE SKIP LOCKED` claim with two-minute leases, per-row claim tokens, up to five attempts and exponential backoff. It is **review-only**, not applied.
+
+The existing `inquiry-notifications/index.ts` is still a prototype that polls directly; **do not deploy or schedule it**. Before launch, replace its polling and updates with an authenticated server-side DB adapter that invokes these private functions with restricted privileges. Avoid exposing the private schema or privileged RPCs to public roles. Add tests for concurrent claims, lease expiry, worker crash, Resend timeout, retry after 24 hours and duplicate suppression. A 2-minute lease must be longer than the configured send timeout and bounded worker processing; provider idempotency is not permanent.
+
+**Remaining prerequisites:** account, verified sender domain, API key, and delivery test, all explicitly deferred.
