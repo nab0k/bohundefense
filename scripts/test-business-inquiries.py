@@ -62,6 +62,16 @@ def run():
     assert "reconcile_exhausted_inquiry_notifications" in grants
     assert "security invoker" in grants.lower()
     assert "security definer" not in grants.lower()
+    assert "grant select, update on bohun_private.business_inquiries" not in grants.lower()
+    assert "grant update (notification_claim_token" in grants.lower()
+    schema = (ROOT / "docs/business-inquiries-schema.sql").read_text().lower()
+    assert "revoke all on schema bohun_private" not in schema
+    assert "revoke all on bohun_private.business_inquiries" in schema
+    assert "create policy inquiry_rate_limit_insert" in grants.lower()
+    assert "create policy inquiry_rate_limit_update" in grants.lower()
+    assert "allow_inquiry_attempt" in grants
+    assert "notification_attempts < 5" in queue
+    assert "notification_status='failed'" in queue
     print("Staged enquiry static checks passed. This is NOT an end-to-end test.")
 
 if __name__ == "__main__":
