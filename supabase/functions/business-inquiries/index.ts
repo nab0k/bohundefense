@@ -131,6 +131,12 @@ Deno.serve(async (req) => {
     max: 1, idle_timeout: 5, connect_timeout: 5, ssl: "require", prepare: false,
   });
   try {
+    const limits = await sql<{ allowed: boolean }[]>`
+      select bohun_private.allow_inquiry_attempt(${identityHash}, 5) as allowed
+    `;
+    if (limits[0]?.allowed !== true) {
+      return reply(429, { error: "Too many requests. Try again later." }, origin);
+    }
     const rows = await sql<{ id: string }[]>`
       insert into bohun_private.business_inquiries
         (type, name, organization, email, message, relationship, region,
