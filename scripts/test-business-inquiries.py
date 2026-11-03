@@ -37,12 +37,31 @@ def run():
     assert "about-project.html" in (ROOT / "assets/atmo22/shell.js").read_text()
     assert "Suggest a company update" in (ROOT / "assets/company-map.js").read_text()
     api = (ROOT / "supabase/functions/business-inquiries/index.ts").read_text()
-    assert 'TURNSTILE_SECRET_KEY' in api and 'SUPABASE_SERVICE_ROLE_KEY' in api
+    assert "TURNSTILE_SECRET_KEY" in api
+    assert "INQUIRY_INTAKE_DATABASE_URL" in api
+    assert "INQUIRY_INTAKE_ENABLED" in api
+    assert "allow_inquiry_attempt" in api
+    assert "INQUIRY_RATE_HMAC_KEY" in api
+    assert 'env("DATABASE_URL")' not in api
+    assert "SUPABASE_SERVICE_ROLE_KEY" not in api
     assert 'RESEND_API_KEY' not in (ROOT / "assets/inquiries.js").read_text()
     assert 'SUPABASE_SERVICE_ROLE_KEY' not in (ROOT / "assets/inquiries.js").read_text()
     worker = (ROOT / "supabase/functions/inquiry-notifications/index.ts").read_text()
     assert "nabok@bohundefence.com" in worker
     assert "NOTIFICATION_WORKER_TOKEN" in worker
+    assert "INQUIRY_WORKER_DATABASE_URL" in worker
+    assert "claim_inquiry_notifications" in worker
+    assert "finish_inquiry_notification" in worker
+    assert "reconcile_exhausted_inquiry_notifications" in worker
+    assert 'env("DATABASE_URL")' not in worker
+    queue = (ROOT / "docs/business-inquiries-queue.sql").read_text()
+    grants = (ROOT / "docs/business-inquiries-access-and-rate-limit.sql").read_text()
+    assert "notification_attempts < 5" in queue
+    assert "notification_lease_until > now()" in queue
+    assert "reconcile_exhausted_inquiry_notifications" in queue
+    assert "reconcile_exhausted_inquiry_notifications" in grants
+    assert "security invoker" in grants.lower()
+    assert "security definer" not in grants.lower()
     print("Staged enquiry static checks passed. This is NOT an end-to-end test.")
 
 if __name__ == "__main__":
