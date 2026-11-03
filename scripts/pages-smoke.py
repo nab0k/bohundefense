@@ -20,7 +20,7 @@ for p in PAGES:
     missing.update(x for x in parser.links if x!='/' and not (ROOT/x.lstrip('/')).exists())
 assert not missing,f'broken local refs {sorted(missing)}'
 html=(ROOT/'index.html').read_text()
-for x in ['id="map"','id="side"','id="q"','id="cat-chips"','class="m1-mobile-menu"','id="companies"']:
+for x in ['id="map"','id="side"','id="q"','id="cat-chips"','id="sidebar"','id="topbar"','id="companies"']:
     assert x in html,f'critical production control missing {x}'
 assert 'notion-atlas-at34-review-only' not in html
 assert 'No independently QA-approved events available' in html
@@ -71,11 +71,13 @@ with sync_playwright() as p:
         assert page.locator('#p0-feed').is_visible()
         assert page.locator('a[href="/about.html"]').count()>=1
         if name=='mobile':
-            assert page.locator('details.m1-mobile-menu').count()==1
+            assert page.locator('.hd-menu').count()==1
             page.evaluate("document.body.classList.add('p0-panels-open');document.querySelector('#p0-dossier').classList.remove('atlas-no-selection')")
             assert page.locator('#p0-dossier').is_visible()
-            page.locator('details.m1-mobile-menu summary').click()
-            assert page.locator('details.m1-mobile-menu').evaluate('(e)=>e.open')
+            page.locator('.hd-menu').click()
+            assert page.locator('body').evaluate('(e)=>e.classList.contains("sb-open")')
+            page.locator('.sb-close').click()
+            assert not page.locator('body').evaluate('(e)=>e.classList.contains("sb-open")')
         page.locator('#q').fill('zzzz-p0-nonexistent-company')
         page.screenshot(path=f'/tmp/atlas-{name}.png',full_page=True)
         assert not any('notion-atlas-at34' in x for x in errors)
