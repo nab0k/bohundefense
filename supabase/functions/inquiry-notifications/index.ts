@@ -1,6 +1,6 @@
 // STAGED ONLY. No deployment or scheduler until migration, secrets and tests are approved.
 // Uses direct server-side PostgreSQL access to the non-exposed bohun_private schema.
-// DATABASE_URL must be a server-only, least-privilege connection string.
+// INQUIRY_WORKER_DATABASE_URL must be a server-only, least-privilege connection string.
 import postgres from "npm:postgres@3.4.5";
 
 const env = (name: string) => Deno.env.get(name) || "";
@@ -36,7 +36,7 @@ Deno.serve(async (req) => {
 
   // Private RPCs run with the database connection role's privileges.
   // Do not use an exposed REST schema or grant access to anon/authenticated.
-  const sql = postgres(env("DATABASE_URL"), {
+  const sql = postgres(env("INQUIRY_WORKER_DATABASE_URL"), {
     max: 1,
     idle_timeout: 5,
     connect_timeout: 5,
