@@ -77,6 +77,7 @@ export async function mountShell(o = {}) {
     <nav class="sb-foot" aria-label="About">
       <a class="sb-item" href="/about-project.html">${icon('book-open')}<span>About the project</span></a>
       <a class="sb-item" href="/services.html">${icon('briefcase')}<span>Services</span></a>
+      <a class="sb-item" href="/contact.html">${icon('info')}<span>Contact</span></a>
       <a class="sb-item" href="/about-project.html#data">${icon('database')}<span>Data sources</span></a>
       <a class="sb-item" href="/about.html">${icon('info')}<span>About BOHUN</span></a>
     </nav>`;
