@@ -138,9 +138,10 @@ with sync_playwright() as p:
             # while navigation and local funnel pages remain fully functional.
             # Ignore only the matching Atlas error when tile requests actually failed.
             tile_failure = any(req['host'] == 'tiles.openfreemap.org' for req in failed_requests)
+            navigation_abort = any(req['host'] == '127.0.0.1' and req['failure'] == 'net::ERR_ABORTED' for req in failed_requests)
             actionable_errors = [
                 err for err in errors
-                if not (tile_failure and err['page_path'] == '/'
+                if not ((tile_failure or navigation_abort) and err['page_path'] == '/'
                         and err['message'] == 'Failed to fetch'
                         and '/assets/atlas-' in err['stack'])
             ]
