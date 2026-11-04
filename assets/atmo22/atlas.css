@@ -134,3 +134,8 @@ body.atmo22-atlas #map{position:fixed;top:var(--top);left:var(--sidebar-w);right
   .atmo22-atlas{--foot:44px}
   .atmo22-atlas .demo{font-size:9.5px;padding:3px 10px;line-height:1.35}
 }
+
+/* Contextual advisory enquiry: distinct from independent research content. */
+.atmo22-atlas #p0-dossier .bohun-enquiry-entry{display:inline-flex;align-items:center;min-height:34px;margin:14px 0 4px;padding:8px 12px;border:1px solid var(--line);border-radius:var(--r-chip);background:var(--panel-solid);color:var(--link);font:600 12px/1.35 var(--font-ui);text-decoration:none}
+.atmo22-atlas #p0-dossier .bohun-enquiry-entry:hover{background:var(--nav-active);border-color:var(--focus)}
+.atmo22-atlas #p0-dossier .bohun-enquiry-entry::before{content:"BOHUN advisory";margin-right:10px;padding-right:10px;border-right:1px solid var(--line);font-size:10px;font-weight:600;color:var(--accent)}
