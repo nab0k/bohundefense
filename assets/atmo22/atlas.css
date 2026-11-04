@@ -131,6 +131,11 @@ body.atmo22-atlas #map{position:fixed;top:var(--top);left:var(--sidebar-w);right
   .atmo22-atlas #p0-dossier,.atmo22-atlas #ind-card,.atmo22-atlas #card,.atmo22-atlas #panel{left:0;right:0;top:auto;bottom:0;width:auto;max-height:64vh;border-radius:14px 14px 0 0;z-index:16}
   .atmo22-atlas[data-ux-reading=true] .ux-map-toolbar{right:12px}
   .atmo22-atlas[data-ux-view=today] .ux-map-toolbar,.atmo22-atlas[data-ux-view=today] .legends{display:none}
-  .atmo22-atlas{--foot:44px}
-  .atmo22-atlas .demo{font-size:9.5px;padding:3px 10px;line-height:1.35}
+  .atmo22-atlas{--foot:30px}
+  .atmo22-atlas .demo{display:block;font-size:11px;padding:6px 12px;line-height:1.35;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .atmo22-atlas .demo-long{display:none}
 }
+
+.atmo22-atlas .demo-short{display:none}
+@media (max-width:900px){.atmo22-atlas .demo-short{display:inline}}
+@media (max-width:900px){.atmo22-atlas #ux-map-status{top:calc(var(--top) + 58px)}}

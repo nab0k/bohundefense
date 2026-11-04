@@ -160,15 +160,44 @@
     }));
   }
 
+  // BOHUN's own messages in the feed: labelled and styled apart from the materials, never presented as news.
+  const OFFER_EVERY = 6;
+  const OFFERS = [
+    ['Selling a defence or dual-use product?', 'We help find buyers and commercial partners.', '/services.html#buyers'],
+    ['Looking for a manufacturer or components?', 'We help find and qualify suppliers.', '/services.html#suppliers'],
+    ['Need partners to test or integrate a technology?', 'We help shape and advance the collaboration.', '/services.html#partners'],
+    ['Selling a stake or looking to invest?', 'Opportunities are discussed discreetly with selected counterparties.', '/services.html#investment'],
+  ];
+  function offerCard([title, text, href]) {
+    const card = el('a', 'ux-ed-offer');
+    card.href = href;
+    card.append(el('span', 'ux-ed-offer-tag', 'BOHUN services'), el('strong', '', title), el('span', '', text));
+    return card;
+  }
+  function offerIntro() {
+    const box = el('section', 'ux-ed-welcome');
+    const title = el('strong', '', 'Defence market intelligence, and a team that helps you act on it');
+    const text = el('span', '', 'Follow the industry here. Our team works with clients from different countries on buyers, suppliers, partnerships and investment.');
+    const links = el('span', 'ux-ed-welcome-links');
+    const services = el('a', '', 'Our services'); services.href = '/services.html';
+    const contact = el('a', '', 'Discuss a project'); contact.href = '/contact.html';
+    const about = el('a', '', 'About the project'); about.href = '/about-project.html';
+    links.append(services, contact, about);
+    box.append(title, text, links);
+    return box;
+  }
+
   function render(data) {
     const items = (Array.isArray(data.items) ? data.items : []).filter(
       (x) => x && typeof x.title === 'string' && (x.status === 'approved' || (preview && x.status === 'draft'))
     );
     if (!items.length) return; // keep the existing "No published materials yet" message
     const frag = document.createDocumentFragment();
+    frag.append(offerIntro());
     frag.append(el('p', 'ux-ed-intro', data.notice || ''));
     if (preview) frag.append(el('p', 'ux-ed-preview', 'Preview mode: drafts awaiting editorial approval are visible. They are not shown on the public page.'));
     byKey = {};
+    let shown = 0, offer = 0;
     for (const x of items) {
       x.key = String(x.id || '').replace(/[^a-z0-9-]/gi, '');
       byKey[x.key] = x;
@@ -184,6 +213,8 @@
       row.addEventListener('focus', () => lookAt(x));
       row.addEventListener('mouseleave', () => clearTimeout(hoverTimer));
       frag.append(row);
+      shown += 1;
+      if (shown % OFFER_EVERY === 0 && OFFERS[offer]) frag.append(offerCard(OFFERS[offer++]));
     }
     panel.replaceChildren(frag);
     mapItems = items.filter((x) => placeOf(x));
