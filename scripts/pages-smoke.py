@@ -31,8 +31,8 @@ print('PASS Pages CNAME, eight routes, local asset references and current shell 
 
 BASE = 'http://127.0.0.1:8765'
 DESTINATIONS = (
-    ('/about-project.html', 'About the project', 'About BOHUN Defence Intelligence'),
-    ('/services.html', 'Services', 'Services'),
+    ('/about-project.html', 'About the project', 'A defence market intelligence project, growing every day'),
+    ('/services.html', 'Services', 'We help defence and dual-use companies move a specific opportunity forward'),
 )
 
 
@@ -121,11 +121,11 @@ with sync_playwright() as p:
                 expect(page.locator('main h1')).to_have_text(heading)
                 expect(page.locator('main a[href="/contact.html"]')).to_be_visible()
                 if path == '/services.html':
-                    for title in ('Buyers and new business', 'Suppliers and qualification',
-                                  'Technology partnerships', 'Private investment opportunities'):
+                    for title in ('Find buyers and new business', 'Find and qualify suppliers',
+                                  'Build technology partnerships', 'Explore private investment opportunities'):
                         expect(page.get_by_role('heading', name=title, exact=True)).to_be_visible()
                 else:
-                    expect(page.locator('#data')).to_have_text('Sources and coverage')
+                    expect(page.locator('#data h2')).to_have_text('Sources and coverage')
                 page.screenshot(path=f'/tmp/{name}-{Path(path).stem}.png', full_page=True)
             assert not errors, f'{name} page JavaScript errors: {errors}'
             print(f'PASS {name}: current shell, project/services navigation, page content and contact links; JS errors=0')
