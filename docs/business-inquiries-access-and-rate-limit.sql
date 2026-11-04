@@ -12,7 +12,7 @@ grant insert on bohun_private.business_inquiries to bohun_inquiry_intake;
 grant select (id) on bohun_private.business_inquiries to bohun_inquiry_intake;
 grant select (id,type,name,organization,email,context_url,notification_attempts,
   notification_status,notification_next_attempt_at,notification_lease_until,
-  notification_claim_token,created_at) on bohun_private.business_inquiries
+  notification_claim_token,created_at,notified_at) on bohun_private.business_inquiries
   to bohun_inquiry_worker;
 grant update (notification_claim_token,notification_lease_until,
   notification_attempts,notification_status,notification_next_attempt_at,
