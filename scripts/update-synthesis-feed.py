@@ -14,7 +14,7 @@ url=base+"/rest/v1/rpc/export_synthesis_feed_v2"  # v2: with the place of the ev
 headers={"apikey":key,"Content-Type":"application/json"}
 if key.startswith("eyJ"):
     headers["Authorization"]="Bearer "+key
-req=urllib.request.Request(url,data=json.dumps({"p_limit":50}).encode(),headers=headers,method="POST")
+req=urllib.request.Request(url,data=json.dumps({"p_limit":100}).encode(),headers=headers,method="POST")
 try:
     with urllib.request.urlopen(req,timeout=40) as response:
         rows=json.load(response)
