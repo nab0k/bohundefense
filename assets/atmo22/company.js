@@ -28,7 +28,7 @@ async function buildReal(c) {
   const developments = re ? items.filter(i => re.test(i.title)).slice(0, 5).map(i => ({ date: fmtDate(i.published_at), title: i.title, tags: ['Publisher headline', hostOf(i.url)], color: 'grey', href: safeUrl(i.url) })) : [];
   const site = safeUrl(c.website);
   const evidence = [
-    { claim: 'Listed in the BOHUN public research index', sources: 1, status: 'Unverified', source: 'BOHUN research index', href: SOURCES.directory },
+    { claim: 'Listed in the BOHUN public research index', sources: 1, status: 'Unverified', source: 'BOHUN research index', href: '/companies.html?q=' + encodeURIComponent(c.name) },
   ];
   if (site) evidence.push({ claim: 'Official company website', sources: 1, status: 'Unverified', source: hostOf(site), href: site });
   if (wd?.source) evidence.push({ claim: 'Headquarters city', sources: 1, status: 'Unverified', source: 'Wikidata (CC0)', href: safeUrl(wd.source) });
@@ -76,7 +76,7 @@ function panel(id, num, title, sub, body, more, extra = '') {
   const ws = state.view === 'workspace';
   return `<section class="panel ${extra}" id="p-${id}" aria-labelledby="h-${id}">
     <header class="p-head"><h2 id="h-${id}">${ws && num ? `<span class="p-num">${num}.</span> ` : ''}${title}</h2>${demoTag()}<span class="p-go" aria-hidden="true">${icon('chevron-right')}</span><p>${sub}</p></header>
-    <div class="p-body">${body}</div>${more ? `<a class="p-more" href="${more[1] || '#'}">${more[0]} ${icon('arrow-right', 'ico ico-s')}</a>` : ''}</section>`;
+    <div class="p-body">${body}</div>${more && more[1] && more[1] !== '#' ? `<a class="p-more" href="${more[1] || '#'}">${more[0]} ${icon('arrow-right', 'ico ico-s')}</a>` : ''}</section>`;
 }
 const chip = (code, label, on, ic) => `<span class="chip${on ? ' is-on' : ''}" title="${esc(code)}">${ic ? icon(ic, 'ico ico-s') : ''}${esc(label)}</span>`;
 
@@ -173,7 +173,11 @@ function classification(vm, ws) {
   const domainsList = demoMode && !ws ? TAXONOMY.domains.filter(d => t.domainsShown?.includes(d[0])) : TAXONOMY.domains;
   const capItems = demoMode ? (ws ? t.capabilityLabels.map(([c, l]) => [c, l]) : t.overviewCapabilities) : TAXONOMY.capabilities.map(([c, l]) => [c, l]);
   const capActive = demoMode ? (ws ? t.capabilityLabels.filter(x => x[2]).map(x => x[0]) : []) : [];
-  const note = demoMode ? '' : '<p class="tax-note">BOHUN TAXONOMY v1 reference lists. No evidence-backed assignment has been published for this company yet; legacy directory categories are not mapped to A/B/C.</p>';
+  const note = '';
+  if (!demoMode && ![t.domains, t.roles, t.levels, t.defence].some(x => x.length)) {
+    const none = empty('circle-dot', 'Not classified yet. Domains, capabilities and industrial role appear here once they are backed by sources.');
+    return ws ? panel('classification', '01', 'Industrial classification (A / B / C)', '', none) : `<div class="ov-class">${none}</div>`;
+  }
   if (ws) {
     const body = `<div class="tax-grid tax-ws">
       ${taxCol('A. Domains', domainsList, t.domains, { icons: true })}
@@ -278,20 +282,39 @@ function footprint(vm) {
   return panel('footprint', '', 'Geographic footprint', 'Locations, facilities and key activities.', body, ['View all locations', atlasHref(vm)]);
 }
 
+/* ---------- what we know ---------- */
+function coverage(vm) {
+  if (vm.mode === 'demo') return '';
+  const t = vm.taxonomy, rows = [
+    ['Identity', !!vm.name], ['Location', !!(vm.city || vm.countryName)], ['Website', !!vm.website],
+    ['Classification', [t.domains, t.roles, t.levels, t.defence].some(x => x.length)], ['Products', vm.productTree.length > 0],
+    ['Technologies', vm.technologies.length > 0], ['Programmes & tenders', vm.programmes.workspace.length > 0],
+    ['News & events', vm.developments.length > 0], ['Relationships', vm.relationships.workspace.length > 0], ['Sources', vm.evidence.length > 1],
+  ];
+  const known = rows.filter(r => r[1]).length;
+  const add = '/support-project.html?topic=' + encodeURIComponent(known > 3 ? 'Correct company data' : 'Add a company') + '&company=' + encodeURIComponent(vm.name);
+  return `<section class="coverage" aria-label="What we know about this company">
+    <div class="cov-head"><b>What we know: ${known} of ${rows.length}</b><a href="${add}">Add or correct data</a></div>
+    <ul class="cov-list">${rows.map(([l, on]) => `<li class="${on ? 'is-on' : ''}">${icon(on ? 'circle-check' : 'circle-dot', 'ico ico-s')}<span>${esc(l)}</span><small>${on ? 'Available' : 'Not researched yet'}</small></li>`).join('')}</ul>
+  </section>`;
+}
+
 /* ---------- page ---------- */
 function render() {
   const vm = state.vm, ws = state.view === 'workspace';
   document.body.dataset.view = state.view;
   document.title = `${vm.name} | Company Intelligence | Bohun Defence`;
+  if (vm.mode !== 'demo') for (const k of ['workspace', 'overview']) vm.facts[k] = vm.facts[k].filter(f => f[0] !== '—');
   content.innerHTML = ws
-    ? `${heroWorkspace(vm)}
+    ? `${heroWorkspace(vm)}${coverage(vm)}
        <div class="row ws-r1">${classification(vm, true)}${developments(vm, true)}${programmes(vm, true)}</div>
        <div class="row ws-r2">${productTree(vm)}${technologies(vm)}${relationships(vm, true)}${evidence(vm, true)}</div>`
-    : `${heroOverview(vm)}
+    : `${heroOverview(vm)}${coverage(vm)}
        <section class="panel ov-r1" aria-label="Summary and classification">${demoTag()}<div class="ov-summary"><p class="about">${vm.about.overview ? esc(vm.about.overview) : '<span class="muted">No public description available.</span>'}</p>${vm.mode !== 'demo' ? '<p class="caption">From the public research index · not independently verified</p>' : ''}${facts(vm.facts.overview)}</div>${classification(vm, false)}</section>
        <div class="row ov-r2">${developments(vm, false)}${productAccordion(vm)}${relationships(vm, false)}</div>
        <div class="row ov-r3">${programmes(vm, false)}${evidence(vm, false)}${footprint(vm)}</div>`;
   content.insertAdjacentHTML('beforeend', `<footer class="page-foot">Public beta · Research index coverage is incomplete · Companies are not Bohun Defence clients or partners · City-centre markers are not facility addresses · <a href="/about-project.html">Methodology &amp; limitations</a></footer>`);
+  content.querySelectorAll('.panel').forEach(p => p.classList.toggle('is-empty', !!p.querySelector('.p-body .empty')));
   bind();
   drawMaps();
 }
