@@ -17,38 +17,12 @@
           ]
         },
         {
-          "label": "Context",
-          "lines": [
-            "28 Aug 2023: North Korea reportedly explored repurposing aging Soviet-origin fighter jets into unmanned kamikaze systems as part of early asymmetric drone expansion initiatives (plan).",
-            "24 Aug 2024: Kim Jong Un oversaw performance tests of newly developed suicide attack drones modeled after systems like the Israeli Harop or Russian Lancet, calling for broader integration (funded).",
-            "15 Nov 2024: State media reported that Kim Jong Un officially ordered the full-scale mass production of self-detonating suicide drones following successful guided tests (approval).",
-            "27 Mar 2025: North Korean state media revealed tests of new AI-equipped suicide drones designed to autonomously identify and strike tactical objectives (delivered).",
-            "19 Sep 2026: Rodong Sinmun published unprecedented photographs of interior munitions factories revealing active production lines for Saetbyol-4 and Saetbyol-9 drones as well as one-way attack munitions (delivered).",
-            "30 Oct 2026: North Korea held the “Unmanned Aeronautical Technology Development-2026” exhibition, introducing a conceptual large stealth flying-wing UCAV mockup and staging live-fire drone strikes."
-          ],
-          "list": true
-        },
-        {
           "label": "Policy direction",
           "lines": [
             "US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base.",
             "US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress."
           ],
           "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "As asymmetric drone threats have expanded from early plans in August 2023 through mass production and AI integration tests by March 2025 to recent 2026 exhibitions, industry demand for counter-UAS directed-energy solutions has accelerated."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "United Nations Security Council: sanction on North Korea (in_force)."
-          ],
-          "list": true
         },
         {
           "label": "Why it matters",
@@ -61,10 +35,7 @@
       "label": "Prepared by machine. Check the sources.",
       "paragraphs": [
         "Leonardo DRS will support AeroVironment's production of the LOCUST X3 system for the U.S. Army's first high-energy laser weapon production program.",
-        "Context: 28 Aug 2023: North Korea reportedly explored repurposing aging Soviet-origin fighter jets into unmanned kamikaze systems as part of early asymmetric drone expansion initiatives (plan). 24 Aug 2024: Kim Jong Un oversaw performance tests of newly developed suicide attack drones modeled after systems like the Israeli Harop or Russian Lancet, calling for broader integration (funded). 15 Nov 2024: State media reported that Kim Jong Un officially ordered the full-scale mass production of self-detonating suicide drones following successful guided tests (approval). 27 Mar 2025: North Korean state media revealed tests of new AI-equipped suicide drones designed to autonomously identify and strike tactical objectives (delivered). 19 Sep 2026: Rodong Sinmun published unprecedented photographs of interior munitions factories revealing active production lines for Saetbyol-4 and Saetbyol-9 drones as well as one-way attack munitions (delivered). 30 Oct 2026: North Korea held the “Unmanned Aeronautical Technology Development-2026” exhibition, introducing a conceptual large stealth flying-wing UCAV mockup and staging live-fire drone strikes.",
         "Policy direction: US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base. US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress.",
-        "The bigger picture: As asymmetric drone threats have expanded from early plans in August 2023 through mass production and AI integration tests by March 2025 to recent 2026 exhibitions, industry demand for counter-UAS directed-energy solutions has accelerated.",
-        "Down the supply chain: United Nations Security Council: sanction on North Korea (in_force).",
         "Why it matters: Defense contractors specializing in vehicle integration, power, and thermal management should monitor mobile counter-UAS programs for subcontracting opportunities.",
         "Prepared by machine. Check the sources."
       ],
@@ -765,34 +736,6 @@
           ]
         },
         {
-          "label": "Context",
-          "lines": [
-            "28 Jul 2023: L3Harris Technologies completed its acquisition of Aerojet Rocketdyne, turning it into the Missile Solutions segment to scale up propulsion and energetics manufacturing (funded, USD 4.7 billion).",
-            "1 Jan 2024: GKN Aerospace invested over SEK 600 million in a new factory facility in Trollhättan dedicated to the industrialisation of metal additive manufacturing (funded, SEK 600 million).",
-            "1 Feb 2026: Hypersonica successfully flight-tested its HS-1 prototype, achieving speeds above Mach 6 over a range exceeding 300 kilometres from the Andøya Space site in Norway (delivered).",
-            "10 Feb 2026: The company closed a €23.3 million Series A funding round led by Plural to advance prototype development and expand its engineering team (contract, EUR 23.3 million).",
-            "1 Jul 2026: A NATO-led multinational initiative was announced, envisaging £37 billion of investment in deep precision strike capabilities over the next decade (framework, GBP 37 billion).",
-            "20 Oct 2026: L3Harris opened its 60,000-square-foot \"Arsenal of Freedom\" solid rocket motor manufacturing facility in Camden, Arkansas, designed to double GMLRS production capacity and cut lead times (site_selection, USD 216 million).",
-            "30 Oct 2026: L3Harris reported a record $53.2 billion backlog driven by high book-to-bill ratios in Missile Solutions (11.8) alongside multi-billion-dollar undefinitized propulsion contracts for THAAD and PAC-3 (contract, USD 53.2 billion)."
-          ],
-          "list": true
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Defense investment increasingly prioritizes unmanned tactical logistics and strike systems, signaling a broader push toward automated and resilient frontline capabilities."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Hypersonic deep-strike systems depends on Advanced guidance, navigation, and control (GNC) avionics architectures supporting high-speed manoeuvring flight.",
-            "United States: export ban on Hypersonica systems (in_force)."
-          ],
-          "list": true
-        },
-        {
           "label": "Why it matters",
           "lines": [
             "Defense procurement and supply chain professionals should monitor the integration of domestic UGV components and armored medical modules for potential scalability in contested environments."
@@ -803,9 +746,6 @@
       "label": "Prepared by machine. Check the sources.",
       "paragraphs": [
         "The Ukrainian firm Robotergesteuerte Komplexe has presented the Caseevak evacuation module designed for its Ameise tracked UGV to safely extract wounded personnel from frontlines under constant threat.",
-        "Context: 28 Jul 2023: L3Harris Technologies completed its acquisition of Aerojet Rocketdyne, turning it into the Missile Solutions segment to scale up propulsion and energetics manufacturing (funded, USD 4.7 billion). 1 Jan 2024: GKN Aerospace invested over SEK 600 million in a new factory facility in Trollhättan dedicated to the industrialisation of metal additive manufacturing (funded, SEK 600 million). 1 Feb 2026: Hypersonica successfully flight-tested its HS-1 prototype, achieving speeds above Mach 6 over a range exceeding 300 kilometres from the Andøya Space site in Norway (delivered). 10 Feb 2026: The company closed a €23.3 million Series A funding round led by Plural to advance prototype development and expand its engineering team (contract, EUR 23.3 million). 1 Jul 2026: A NATO-led multinational initiative was announced, envisaging £37 billion of investment in deep precision strike capabilities over the next decade (framework, GBP 37 billion). 20 Oct 2026: L3Harris opened its 60,000-square-foot \"Arsenal of Freedom\" solid rocket motor manufacturing facility in Camden, Arkansas, designed to double GMLRS production capacity and cut lead times (site_selection, USD 216 million). 30 Oct 2026: L3Harris reported a record $53.2 billion backlog driven by high book-to-bill ratios in Missile Solutions (11.8) alongside multi-billion-dollar undefinitized propulsion contracts for THAAD and PAC-3 (contract, USD 53.2 billion).",
-        "The bigger picture: Defense investment increasingly prioritizes unmanned tactical logistics and strike systems, signaling a broader push toward automated and resilient frontline capabilities.",
-        "Down the supply chain: Hypersonic deep-strike systems depends on Advanced guidance, navigation, and control (GNC) avionics architectures supporting high-speed manoeuvring flight. United States: export ban on Hypersonica systems (in_force).",
         "Why it matters: Defense procurement and supply chain professionals should monitor the integration of domestic UGV components and armored medical modules for potential scalability in contested environments.",
         "Prepared by machine. Check the sources."
       ],
@@ -837,40 +777,12 @@
           ]
         },
         {
-          "label": "Context",
-          "lines": [
-            "28 Jul 2023: L3Harris Technologies completed its acquisition of Aerojet Rocketdyne, turning it into the Missile Solutions segment to scale up propulsion and energetics manufacturing (funded, USD 4.7 billion).",
-            "1 Jan 2024: GKN Aerospace invested over SEK 600 million in a new factory facility in Trollhättan dedicated to the industrialisation of metal additive manufacturing (funded, SEK 600 million).",
-            "1 Feb 2026: Hypersonica successfully flight-tested its HS-1 prototype, achieving speeds above Mach 6 over a range exceeding 300 kilometres from the Andøya Space site in Norway (delivered).",
-            "10 Feb 2026: The company closed a €23.3 million Series A funding round led by Plural to advance prototype development and expand its engineering team (contract, EUR 23.3 million).",
-            "1 Jul 2026: A NATO-led multinational initiative was announced, envisaging £37 billion of investment in deep precision strike capabilities over the next decade (framework, GBP 37 billion).",
-            "20 Oct 2026: L3Harris opened its 60,000-square-foot \"Arsenal of Freedom\" solid rocket motor manufacturing facility in Camden, Arkansas, designed to double GMLRS production capacity and cut lead times (site_selection, USD 216 million).",
-            "30 Oct 2026: L3Harris reported a record $53.2 billion backlog driven by high book-to-bill ratios in Missile Solutions (11.8) alongside multi-billion-dollar undefinitized propulsion contracts for THAAD and PAC-3 (contract, USD 53.2 billion)."
-          ],
-          "list": true
-        },
-        {
           "label": "Policy direction",
           "lines": [
             "US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base.",
             "US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress."
           ],
           "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "International cooperation and multi-billion-dollar investments are scaling up munitions production across allied industrial bases, exemplified by L3Harris expanding solid rocket motor manufacturing on 20 October 2026 and reporting a $53.2 billion backlog on 30 October 2026, signaling sustained demand for advanced tactical missiles."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Hypersonic deep-strike systems depends on Advanced guidance, navigation, and control (GNC) avionics architectures supporting high-speed manoeuvring flight.",
-            "United States: export ban on Hypersonica systems (in_force)."
-          ],
-          "list": true
         },
         {
           "label": "Why it matters",
@@ -883,10 +795,7 @@
       "label": "Prepared by machine. Check the sources.",
       "paragraphs": [
         "The U.S. Navy announced that deliveries of the ESSM Block 2 surface-to-air missile have reached 1,000 units for the 12-nation NATO SeaSparrow Consortium Raytheon serves as the prime contractor, manufacturing the ship self-defense missiles alongside a multinational industrial base.",
-        "Context: 28 Jul 2023: L3Harris Technologies completed its acquisition of Aerojet Rocketdyne, turning it into the Missile Solutions segment to scale up propulsion and energetics manufacturing (funded, USD 4.7 billion). 1 Jan 2024: GKN Aerospace invested over SEK 600 million in a new factory facility in Trollhättan dedicated to the industrialisation of metal additive manufacturing (funded, SEK 600 million). 1 Feb 2026: Hypersonica successfully flight-tested its HS-1 prototype, achieving speeds above Mach 6 over a range exceeding 300 kilometres from the Andøya Space site in Norway (delivered). 10 Feb 2026: The company closed a €23.3 million Series A funding round led by Plural to advance prototype development and expand its engineering team (contract, EUR 23.3 million). 1 Jul 2026: A NATO-led multinational initiative was announced, envisaging £37 billion of investment in deep precision strike capabilities over the next decade (framework, GBP 37 billion). 20 Oct 2026: L3Harris opened its 60,000-square-foot \"Arsenal of Freedom\" solid rocket motor manufacturing facility in Camden, Arkansas, designed to double GMLRS production capacity and cut lead times (site_selection, USD 216 million). 30 Oct 2026: L3Harris reported a record $53.2 billion backlog driven by high book-to-bill ratios in Missile Solutions (11.8) alongside multi-billion-dollar undefinitized propulsion contracts for THAAD and PAC-3 (contract, USD 53.2 billion).",
         "Policy direction: US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base. US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress.",
-        "The bigger picture: International cooperation and multi-billion-dollar investments are scaling up munitions production across allied industrial bases, exemplified by L3Harris expanding solid rocket motor manufacturing on 20 October 2026 and reporting a $53.2 billion backlog on 30 October 2026, signaling sustained demand for advanced tactical missiles.",
-        "Down the supply chain: Hypersonic deep-strike systems depends on Advanced guidance, navigation, and control (GNC) avionics architectures supporting high-speed manoeuvring flight. United States: export ban on Hypersonica systems (in_force).",
         "Why it matters: Defense supply chain professionals should monitor multinational consortia milestones and prime contractor capacity expansions to identify subcontracting opportunities in naval air defense systems.",
         "Prepared by machine. Check the sources."
       ],
@@ -918,39 +827,11 @@
           ]
         },
         {
-          "label": "Context",
-          "lines": [
-            "28 Jul 2023: L3Harris Technologies completed its acquisition of Aerojet Rocketdyne, turning it into the Missile Solutions segment to scale up propulsion and energetics manufacturing (funded, USD 4.7 billion).",
-            "1 Jan 2024: GKN Aerospace invested over SEK 600 million in a new factory facility in Trollhättan dedicated to the industrialisation of metal additive manufacturing (funded, SEK 600 million).",
-            "1 Feb 2026: Hypersonica successfully flight-tested its HS-1 prototype, achieving speeds above Mach 6 over a range exceeding 300 kilometres from the Andøya Space site in Norway (delivered).",
-            "10 Feb 2026: The company closed a €23.3 million Series A funding round led by Plural to advance prototype development and expand its engineering team (contract, EUR 23.3 million).",
-            "1 Jul 2026: A NATO-led multinational initiative was announced, envisaging £37 billion of investment in deep precision strike capabilities over the next decade (framework, GBP 37 billion).",
-            "20 Oct 2026: L3Harris opened its 60,000-square-foot \"Arsenal of Freedom\" solid rocket motor manufacturing facility in Camden, Arkansas, designed to double GMLRS production capacity and cut lead times (site_selection, USD 216 million).",
-            "30 Oct 2026: L3Harris reported a record $53.2 billion backlog driven by high book-to-bill ratios in Missile Solutions (11.8) alongside multi-billion-dollar undefinitized propulsion contracts for THAAD and PAC-3 (contract, USD 53.2 billion)."
-          ],
-          "list": true
-        },
-        {
           "label": "Policy direction",
           "lines": [
             "NATO — The Hague Summit Declaration (2025-06-25): Allies commit to 5% of GDP a year by 2035: at least 3.5% on core defence requirements and up to 1.5% on broader security spending, including the defence industrial base."
           ],
           "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "As defense modernization efforts accelerate under expanded allied commitments, industrial investments are increasingly channelled into scalable directed-energy and precision strike capabilities."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Hypersonic deep-strike systems depends on Advanced guidance, navigation, and control (GNC) avionics architectures supporting high-speed manoeuvring flight.",
-            "United States: export ban on Hypersonica systems (in_force)."
-          ],
-          "list": true
         },
         {
           "label": "Why it matters",
@@ -963,10 +844,7 @@
       "label": "Prepared by machine. Check the sources.",
       "paragraphs": [
         "AeroVironment selected Leonardo DRS to provide power management and environmental control integration expertise for the U.S. Army's Enduring-High Energy Laser production program.",
-        "Context: 28 Jul 2023: L3Harris Technologies completed its acquisition of Aerojet Rocketdyne, turning it into the Missile Solutions segment to scale up propulsion and energetics manufacturing (funded, USD 4.7 billion). 1 Jan 2024: GKN Aerospace invested over SEK 600 million in a new factory facility in Trollhättan dedicated to the industrialisation of metal additive manufacturing (funded, SEK 600 million). 1 Feb 2026: Hypersonica successfully flight-tested its HS-1 prototype, achieving speeds above Mach 6 over a range exceeding 300 kilometres from the Andøya Space site in Norway (delivered). 10 Feb 2026: The company closed a €23.3 million Series A funding round led by Plural to advance prototype development and expand its engineering team (contract, EUR 23.3 million). 1 Jul 2026: A NATO-led multinational initiative was announced, envisaging £37 billion of investment in deep precision strike capabilities over the next decade (framework, GBP 37 billion). 20 Oct 2026: L3Harris opened its 60,000-square-foot \"Arsenal of Freedom\" solid rocket motor manufacturing facility in Camden, Arkansas, designed to double GMLRS production capacity and cut lead times (site_selection, USD 216 million). 30 Oct 2026: L3Harris reported a record $53.2 billion backlog driven by high book-to-bill ratios in Missile Solutions (11.8) alongside multi-billion-dollar undefinitized propulsion contracts for THAAD and PAC-3 (contract, USD 53.2 billion).",
         "Policy direction: NATO — The Hague Summit Declaration (2025-06-25): Allies commit to 5% of GDP a year by 2035: at least 3.5% on core defence requirements and up to 1.5% on broader security spending, including the defence industrial base.",
-        "The bigger picture: As defense modernization efforts accelerate under expanded allied commitments, industrial investments are increasingly channelled into scalable directed-energy and precision strike capabilities.",
-        "Down the supply chain: Hypersonic deep-strike systems depends on Advanced guidance, navigation, and control (GNC) avionics architectures supporting high-speed manoeuvring flight. United States: export ban on Hypersonica systems (in_force).",
         "Why it matters: Subcontractors specializing in vehicle integration and power management should monitor prime contractor awards for emerging counter-UAS production opportunities.",
         "Prepared by machine. Check the sources."
       ],
@@ -998,40 +876,12 @@
           ]
         },
         {
-          "label": "Context",
-          "lines": [
-            "28 Jul 2023: L3Harris Technologies completed its acquisition of Aerojet Rocketdyne, turning it into the Missile Solutions segment to scale up propulsion and energetics manufacturing (funded, USD 4.7 billion).",
-            "1 Jan 2024: GKN Aerospace invested over SEK 600 million in a new factory facility in Trollhättan dedicated to the industrialisation of metal additive manufacturing (funded, SEK 600 million).",
-            "1 Feb 2026: Hypersonica successfully flight-tested its HS-1 prototype, achieving speeds above Mach 6 over a range exceeding 300 kilometres from the Andøya Space site in Norway (delivered).",
-            "10 Feb 2026: The company closed a €23.3 million Series A funding round led by Plural to advance prototype development and expand its engineering team (contract, EUR 23.3 million).",
-            "1 Jul 2026: A NATO-led multinational initiative was announced, envisaging £37 billion of investment in deep precision strike capabilities over the next decade (framework, GBP 37 billion).",
-            "20 Oct 2026: L3Harris opened its 60,000-square-foot \"Arsenal of Freedom\" solid rocket motor manufacturing facility in Camden, Arkansas, designed to double GMLRS production capacity and cut lead times (site_selection, USD 216 million).",
-            "30 Oct 2026: L3Harris reported a record $53.2 billion backlog driven by high book-to-bill ratios in Missile Solutions (11.8) alongside multi-billion-dollar undefinitized propulsion contracts for THAAD and PAC-3 (contract, USD 53.2 billion)."
-          ],
-          "list": true
-        },
-        {
           "label": "Policy direction",
           "lines": [
             "EU — White Paper for European Defence – Readiness 2030 and ReArm Europe Plan (2025-03-19): Close critical capability gaps in seven priority areas (including air and missile defence and artillery) and build a stronger European defence industrial base; ReArm Europe enables over €800 billion of defence spending.",
             "EU — Council Regulation establishing the Security Action for Europe (SAFE) instrument (2025-05-27): Up to €150 billion in EU loans for member states investing in defence industrial production through common procurement of priority capabilities."
           ],
           "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "As NATO and European initiatives drive billions into deep precision strike and air defense capabilities, suppliers are scaling up advanced weapon technologies."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Hypersonic deep-strike systems depends on Advanced guidance, navigation, and control (GNC) avionics architectures supporting high-speed manoeuvring flight.",
-            "United States: export ban on Hypersonica systems (in_force)."
-          ],
-          "list": true
         },
         {
           "label": "Why it matters",
@@ -1044,10 +894,7 @@
       "label": "Prepared by machine. Check the sources.",
       "paragraphs": [
         "MBDA Deutschland received a contract from the German procurement office BAAINBw to build an airborne laser demonstrator pod.",
-        "Context: 28 Jul 2023: L3Harris Technologies completed its acquisition of Aerojet Rocketdyne, turning it into the Missile Solutions segment to scale up propulsion and energetics manufacturing (funded, USD 4.7 billion). 1 Jan 2024: GKN Aerospace invested over SEK 600 million in a new factory facility in Trollhättan dedicated to the industrialisation of metal additive manufacturing (funded, SEK 600 million). 1 Feb 2026: Hypersonica successfully flight-tested its HS-1 prototype, achieving speeds above Mach 6 over a range exceeding 300 kilometres from the Andøya Space site in Norway (delivered). 10 Feb 2026: The company closed a €23.3 million Series A funding round led by Plural to advance prototype development and expand its engineering team (contract, EUR 23.3 million). 1 Jul 2026: A NATO-led multinational initiative was announced, envisaging £37 billion of investment in deep precision strike capabilities over the next decade (framework, GBP 37 billion). 20 Oct 2026: L3Harris opened its 60,000-square-foot \"Arsenal of Freedom\" solid rocket motor manufacturing facility in Camden, Arkansas, designed to double GMLRS production capacity and cut lead times (site_selection, USD 216 million). 30 Oct 2026: L3Harris reported a record $53.2 billion backlog driven by high book-to-bill ratios in Missile Solutions (11.8) alongside multi-billion-dollar undefinitized propulsion contracts for THAAD and PAC-3 (contract, USD 53.2 billion).",
         "Policy direction: EU — White Paper for European Defence – Readiness 2030 and ReArm Europe Plan (2025-03-19): Close critical capability gaps in seven priority areas (including air and missile defence and artillery) and build a stronger European defence industrial base; ReArm Europe enables over €800 billion of defence spending. EU — Council Regulation establishing the Security Action for Europe (SAFE) instrument (2025-05-27): Up to €150 billion in EU loans for member states investing in defence industrial production through common procurement of priority capabilities.",
-        "The bigger picture: As NATO and European initiatives drive billions into deep precision strike and air defense capabilities, suppliers are scaling up advanced weapon technologies.",
-        "Down the supply chain: Hypersonic deep-strike systems depends on Advanced guidance, navigation, and control (GNC) avionics architectures supporting high-speed manoeuvring flight. United States: export ban on Hypersonica systems (in_force).",
         "Why it matters: Defence contractors in directed energy should monitor this development to align subsystem offerings with upcoming German and European air defense requirements.",
         "Prepared by machine. Check the sources."
       ],
@@ -1079,39 +926,11 @@
           ]
         },
         {
-          "label": "Context",
-          "lines": [
-            "28 Jul 2023: L3Harris Technologies completed its acquisition of Aerojet Rocketdyne, turning it into the Missile Solutions segment to scale up propulsion and energetics manufacturing (funded, USD 4.7 billion).",
-            "1 Jan 2024: GKN Aerospace invested over SEK 600 million in a new factory facility in Trollhättan dedicated to the industrialisation of metal additive manufacturing (funded, SEK 600 million).",
-            "1 Feb 2026: Hypersonica successfully flight-tested its HS-1 prototype, achieving speeds above Mach 6 over a range exceeding 300 kilometres from the Andøya Space site in Norway (delivered).",
-            "10 Feb 2026: The company closed a €23.3 million Series A funding round led by Plural to advance prototype development and expand its engineering team (contract, EUR 23.3 million).",
-            "1 Jul 2026: A NATO-led multinational initiative was announced, envisaging £37 billion of investment in deep precision strike capabilities over the next decade (framework, GBP 37 billion).",
-            "20 Oct 2026: L3Harris opened its 60,000-square-foot \"Arsenal of Freedom\" solid rocket motor manufacturing facility in Camden, Arkansas, designed to double GMLRS production capacity and cut lead times (site_selection, USD 216 million).",
-            "30 Oct 2026: L3Harris reported a record $53.2 billion backlog driven by high book-to-bill ratios in Missile Solutions (11.8) alongside multi-billion-dollar undefinitized propulsion contracts for THAAD and PAC-3 (contract, USD 53.2 billion)."
-          ],
-          "list": true
-        },
-        {
           "label": "Policy direction",
           "lines": [
             "US — Unleashing U.S. Military Drone Dominance (Secretary of Defense memorandum) (2025-07-10): Ramp up US production and fielding of low-cost drones: buy American-made drones and parts, equip combat units, and delegate drone procurement authority down to commanders."
           ],
           "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Defense initiatives are increasingly pushing to expand the domestic industrial base and ramp up production for future conflicts, supported by campaigns like the Arsenal of Freedom."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Hypersonic deep-strike systems depends on Advanced guidance, navigation, and control (GNC) avionics architectures supporting high-speed manoeuvring flight.",
-            "United States: export ban on Hypersonica systems (in_force)."
-          ],
-          "list": true
         },
         {
           "label": "Why it matters",
@@ -1124,10 +943,7 @@
       "label": "Prepared by machine. Check the sources.",
       "paragraphs": [
         "Oshkosh Defense announced a partnership with Grid Aero to manufacture the Lifter, a Group 4 or Group 5 autonomous aircraft. The arrangement aims to scale production using Oshkosh's manufacturing experience and metal construction capabilities.",
-        "Context: 28 Jul 2023: L3Harris Technologies completed its acquisition of Aerojet Rocketdyne, turning it into the Missile Solutions segment to scale up propulsion and energetics manufacturing (funded, USD 4.7 billion). 1 Jan 2024: GKN Aerospace invested over SEK 600 million in a new factory facility in Trollhättan dedicated to the industrialisation of metal additive manufacturing (funded, SEK 600 million). 1 Feb 2026: Hypersonica successfully flight-tested its HS-1 prototype, achieving speeds above Mach 6 over a range exceeding 300 kilometres from the Andøya Space site in Norway (delivered). 10 Feb 2026: The company closed a €23.3 million Series A funding round led by Plural to advance prototype development and expand its engineering team (contract, EUR 23.3 million). 1 Jul 2026: A NATO-led multinational initiative was announced, envisaging £37 billion of investment in deep precision strike capabilities over the next decade (framework, GBP 37 billion). 20 Oct 2026: L3Harris opened its 60,000-square-foot \"Arsenal of Freedom\" solid rocket motor manufacturing facility in Camden, Arkansas, designed to double GMLRS production capacity and cut lead times (site_selection, USD 216 million). 30 Oct 2026: L3Harris reported a record $53.2 billion backlog driven by high book-to-bill ratios in Missile Solutions (11.8) alongside multi-billion-dollar undefinitized propulsion contracts for THAAD and PAC-3 (contract, USD 53.2 billion).",
         "Policy direction: US — Unleashing U.S. Military Drone Dominance (Secretary of Defense memorandum) (2025-07-10): Ramp up US production and fielding of low-cost drones: buy American-made drones and parts, equip combat units, and delegate drone procurement authority down to commanders.",
-        "The bigger picture: Defense initiatives are increasingly pushing to expand the domestic industrial base and ramp up production for future conflicts, supported by campaigns like the Arsenal of Freedom.",
-        "Down the supply chain: Hypersonic deep-strike systems depends on Advanced guidance, navigation, and control (GNC) avionics architectures supporting high-speed manoeuvring flight. United States: export ban on Hypersonica systems (in_force).",
         "Why it matters: Defense supply chain professionals should monitor how traditional vehicle manufacturers scale unmanned aerial vehicle production.",
         "Prepared by machine. Check the sources."
       ],
@@ -1159,39 +975,11 @@
           ]
         },
         {
-          "label": "Context",
-          "lines": [
-            "28 Jul 2023: L3Harris Technologies completed its acquisition of Aerojet Rocketdyne, turning it into the Missile Solutions segment to scale up propulsion and energetics manufacturing (funded, USD 4.7 billion).",
-            "1 Jan 2024: GKN Aerospace invested over SEK 600 million in a new factory facility in Trollhättan dedicated to the industrialisation of metal additive manufacturing (funded, SEK 600 million).",
-            "1 Feb 2026: Hypersonica successfully flight-tested its HS-1 prototype, achieving speeds above Mach 6 over a range exceeding 300 kilometres from the Andøya Space site in Norway (delivered).",
-            "10 Feb 2026: The company closed a €23.3 million Series A funding round led by Plural to advance prototype development and expand its engineering team (contract, EUR 23.3 million).",
-            "1 Jul 2026: A NATO-led multinational initiative was announced, envisaging £37 billion of investment in deep precision strike capabilities over the next decade (framework, GBP 37 billion).",
-            "20 Oct 2026: L3Harris opened its 60,000-square-foot \"Arsenal of Freedom\" solid rocket motor manufacturing facility in Camden, Arkansas, designed to double GMLRS production capacity and cut lead times (site_selection, USD 216 million).",
-            "30 Oct 2026: L3Harris reported a record $53.2 billion backlog driven by high book-to-bill ratios in Missile Solutions (11.8) alongside multi-billion-dollar undefinitized propulsion contracts for THAAD and PAC-3 (contract, USD 53.2 billion)."
-          ],
-          "list": true
-        },
-        {
           "label": "Policy direction",
           "lines": [
             "US — Unleashing U.S. Military Drone Dominance (Secretary of Defense memorandum) (2025-07-10): Ramp up US production and fielding of low-cost drones: buy American-made drones and parts, equip combat units, and delegate drone procurement authority down to commanders."
           ],
           "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Defense acquisition increasingly prioritizes rapid prototyping and fielding of autonomous maritime countermeasure capabilities to address immediate operational chokepoint threats, signaling a sustained shift toward agile unmanned system integration."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Hypersonic deep-strike systems depends on Advanced guidance, navigation, and control (GNC) avionics architectures supporting high-speed manoeuvring flight.",
-            "United States: export ban on Hypersonica systems (in_force)."
-          ],
-          "list": true
         },
         {
           "label": "Why it matters",
@@ -1204,10 +992,7 @@
       "label": "Prepared by machine. Check the sources.",
       "paragraphs": [
         "Aevex secured $41.6 million across two Navy contracts for its Fisher and SightGlass mine countermeasure systems deployed from unmanned surface vessels.",
-        "Context: 28 Jul 2023: L3Harris Technologies completed its acquisition of Aerojet Rocketdyne, turning it into the Missile Solutions segment to scale up propulsion and energetics manufacturing (funded, USD 4.7 billion). 1 Jan 2024: GKN Aerospace invested over SEK 600 million in a new factory facility in Trollhättan dedicated to the industrialisation of metal additive manufacturing (funded, SEK 600 million). 1 Feb 2026: Hypersonica successfully flight-tested its HS-1 prototype, achieving speeds above Mach 6 over a range exceeding 300 kilometres from the Andøya Space site in Norway (delivered). 10 Feb 2026: The company closed a €23.3 million Series A funding round led by Plural to advance prototype development and expand its engineering team (contract, EUR 23.3 million). 1 Jul 2026: A NATO-led multinational initiative was announced, envisaging £37 billion of investment in deep precision strike capabilities over the next decade (framework, GBP 37 billion). 20 Oct 2026: L3Harris opened its 60,000-square-foot \"Arsenal of Freedom\" solid rocket motor manufacturing facility in Camden, Arkansas, designed to double GMLRS production capacity and cut lead times (site_selection, USD 216 million). 30 Oct 2026: L3Harris reported a record $53.2 billion backlog driven by high book-to-bill ratios in Missile Solutions (11.8) alongside multi-billion-dollar undefinitized propulsion contracts for THAAD and PAC-3 (contract, USD 53.2 billion).",
         "Policy direction: US — Unleashing U.S. Military Drone Dominance (Secretary of Defense memorandum) (2025-07-10): Ramp up US production and fielding of low-cost drones: buy American-made drones and parts, equip combat units, and delegate drone procurement authority down to commanders.",
-        "The bigger picture: Defense acquisition increasingly prioritizes rapid prototyping and fielding of autonomous maritime countermeasure capabilities to address immediate operational chokepoint threats, signaling a sustained shift toward agile unmanned system integration.",
-        "Down the supply chain: Hypersonic deep-strike systems depends on Advanced guidance, navigation, and control (GNC) avionics architectures supporting high-speed manoeuvring flight. United States: export ban on Hypersonica systems (in_force).",
         "Why it matters: Unmanned systems manufacturers should monitor how evolving maritime countermeasure requirements shape ongoing contract opportunities.",
         "Prepared by machine. Check the sources."
       ],
@@ -1239,40 +1024,12 @@
           ]
         },
         {
-          "label": "Context",
-          "lines": [
-            "28 Jul 2023: L3Harris Technologies completed its acquisition of Aerojet Rocketdyne, turning it into the Missile Solutions segment to scale up propulsion and energetics manufacturing (funded, USD 4.7 billion).",
-            "1 Jan 2024: GKN Aerospace invested over SEK 600 million in a new factory facility in Trollhättan dedicated to the industrialisation of metal additive manufacturing (funded, SEK 600 million).",
-            "1 Feb 2026: Hypersonica successfully flight-tested its HS-1 prototype, achieving speeds above Mach 6 over a range exceeding 300 kilometres from the Andøya Space site in Norway (delivered).",
-            "10 Feb 2026: The company closed a €23.3 million Series A funding round led by Plural to advance prototype development and expand its engineering team (contract, EUR 23.3 million).",
-            "1 Jul 2026: A NATO-led multinational initiative was announced, envisaging £37 billion of investment in deep precision strike capabilities over the next decade (framework, GBP 37 billion).",
-            "20 Oct 2026: L3Harris opened its 60,000-square-foot \"Arsenal of Freedom\" solid rocket motor manufacturing facility in Camden, Arkansas, designed to double GMLRS production capacity and cut lead times (site_selection, USD 216 million).",
-            "30 Oct 2026: L3Harris reported a record $53.2 billion backlog driven by high book-to-bill ratios in Missile Solutions (11.8) alongside multi-billion-dollar undefinitized propulsion contracts for THAAD and PAC-3 (contract, USD 53.2 billion)."
-          ],
-          "list": true
-        },
-        {
           "label": "Policy direction",
           "lines": [
             "EU — White Paper for European Defence – Readiness 2030 and ReArm Europe Plan (2025-03-19): Close critical capability gaps in seven priority areas (including air and missile defence and artillery) and build a stronger European defence industrial base; ReArm Europe enables over €800 billion of defence spending.",
             "EU — Council Regulation establishing the Security Action for Europe (SAFE) instrument (2025-05-27): Up to €150 billion in EU loans for member states investing in defence industrial production through common procurement of priority capabilities."
           ],
           "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "As European defense initiatives like the ReArm Europe Plan and NATO-led precision strike frameworks drive investments into advanced capabilities, firms are bolstering executive leadership to scale production, signaling a shift toward structured industrial scaling."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Hypersonic deep-strike systems depends on Advanced guidance, navigation, and control (GNC) avionics architectures supporting high-speed manoeuvring flight.",
-            "United States: export ban on Hypersonica systems (in_force)."
-          ],
-          "list": true
         },
         {
           "label": "Why it matters",
@@ -1285,10 +1042,7 @@
       "label": "Prepared by machine. Check the sources.",
       "paragraphs": [
         "Destinus appointed Dirk Zimper as Chief Future Capabilities Officer and Managing Director Germany.",
-        "Context: 28 Jul 2023: L3Harris Technologies completed its acquisition of Aerojet Rocketdyne, turning it into the Missile Solutions segment to scale up propulsion and energetics manufacturing (funded, USD 4.7 billion). 1 Jan 2024: GKN Aerospace invested over SEK 600 million in a new factory facility in Trollhättan dedicated to the industrialisation of metal additive manufacturing (funded, SEK 600 million). 1 Feb 2026: Hypersonica successfully flight-tested its HS-1 prototype, achieving speeds above Mach 6 over a range exceeding 300 kilometres from the Andøya Space site in Norway (delivered). 10 Feb 2026: The company closed a €23.3 million Series A funding round led by Plural to advance prototype development and expand its engineering team (contract, EUR 23.3 million). 1 Jul 2026: A NATO-led multinational initiative was announced, envisaging £37 billion of investment in deep precision strike capabilities over the next decade (framework, GBP 37 billion). 20 Oct 2026: L3Harris opened its 60,000-square-foot \"Arsenal of Freedom\" solid rocket motor manufacturing facility in Camden, Arkansas, designed to double GMLRS production capacity and cut lead times (site_selection, USD 216 million). 30 Oct 2026: L3Harris reported a record $53.2 billion backlog driven by high book-to-bill ratios in Missile Solutions (11.8) alongside multi-billion-dollar undefinitized propulsion contracts for THAAD and PAC-3 (contract, USD 53.2 billion).",
         "Policy direction: EU — White Paper for European Defence – Readiness 2030 and ReArm Europe Plan (2025-03-19): Close critical capability gaps in seven priority areas (including air and missile defence and artillery) and build a stronger European defence industrial base; ReArm Europe enables over €800 billion of defence spending. EU — Council Regulation establishing the Security Action for Europe (SAFE) instrument (2025-05-27): Up to €150 billion in EU loans for member states investing in defence industrial production through common procurement of priority capabilities.",
-        "The bigger picture: As European defense initiatives like the ReArm Europe Plan and NATO-led precision strike frameworks drive investments into advanced capabilities, firms are bolstering executive leadership to scale production, signaling a shift toward structured industrial scaling.",
-        "Down the supply chain: Hypersonic deep-strike systems depends on Advanced guidance, navigation, and control (GNC) avionics architectures supporting high-speed manoeuvring flight. United States: export ban on Hypersonica systems (in_force).",
         "Why it matters: Defense industry business development and supply chain professionals should monitor Destinus's German expansion for partnership opportunities in European missile technology.",
         "Prepared by machine. Check the sources."
       ],
@@ -1320,34 +1074,6 @@
           ]
         },
         {
-          "label": "Context",
-          "lines": [
-            "28 Jul 2023: L3Harris Technologies completed its acquisition of Aerojet Rocketdyne, turning it into the Missile Solutions segment to scale up propulsion and energetics manufacturing (funded, USD 4.7 billion).",
-            "1 Jan 2024: GKN Aerospace invested over SEK 600 million in a new factory facility in Trollhättan dedicated to the industrialisation of metal additive manufacturing (funded, SEK 600 million).",
-            "1 Feb 2026: Hypersonica successfully flight-tested its HS-1 prototype, achieving speeds above Mach 6 over a range exceeding 300 kilometres from the Andøya Space site in Norway (delivered).",
-            "10 Feb 2026: The company closed a €23.3 million Series A funding round led by Plural to advance prototype development and expand its engineering team (contract, EUR 23.3 million).",
-            "1 Jul 2026: A NATO-led multinational initiative was announced, envisaging £37 billion of investment in deep precision strike capabilities over the next decade (framework, GBP 37 billion).",
-            "20 Oct 2026: L3Harris opened its 60,000-square-foot \"Arsenal of Freedom\" solid rocket motor manufacturing facility in Camden, Arkansas, designed to double GMLRS production capacity and cut lead times (site_selection, USD 216 million).",
-            "30 Oct 2026: L3Harris reported a record $53.2 billion backlog driven by high book-to-bill ratios in Missile Solutions (11.8) alongside multi-billion-dollar undefinitized propulsion contracts for THAAD and PAC-3 (contract, USD 53.2 billion)."
-          ],
-          "list": true
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "As NATO initiatives drive billions into deep precision strike capabilities, industrial suppliers continue expanding production footprints, signaling an industry-wide push for scaled munitions delivery."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Hypersonic deep-strike systems depends on Advanced guidance, navigation, and control (GNC) avionics architectures supporting high-speed manoeuvring flight.",
-            "United States: export ban on Hypersonica systems (in_force)."
-          ],
-          "list": true
-        },
-        {
           "label": "Why it matters",
           "lines": [
             "Procurement and supply chain professionals managing European missile inventories should monitor stock reallocations and verify component availability for integration."
@@ -1358,9 +1084,6 @@
       "label": "Prepared by machine. Check the sources.",
       "paragraphs": [
         "The Swedish armed forces received an unquantified number of TAURUS cruise missiles from German military stocks, as confirmed by the Swedish procurement agency FMV.",
-        "Context: 28 Jul 2023: L3Harris Technologies completed its acquisition of Aerojet Rocketdyne, turning it into the Missile Solutions segment to scale up propulsion and energetics manufacturing (funded, USD 4.7 billion). 1 Jan 2024: GKN Aerospace invested over SEK 600 million in a new factory facility in Trollhättan dedicated to the industrialisation of metal additive manufacturing (funded, SEK 600 million). 1 Feb 2026: Hypersonica successfully flight-tested its HS-1 prototype, achieving speeds above Mach 6 over a range exceeding 300 kilometres from the Andøya Space site in Norway (delivered). 10 Feb 2026: The company closed a €23.3 million Series A funding round led by Plural to advance prototype development and expand its engineering team (contract, EUR 23.3 million). 1 Jul 2026: A NATO-led multinational initiative was announced, envisaging £37 billion of investment in deep precision strike capabilities over the next decade (framework, GBP 37 billion). 20 Oct 2026: L3Harris opened its 60,000-square-foot \"Arsenal of Freedom\" solid rocket motor manufacturing facility in Camden, Arkansas, designed to double GMLRS production capacity and cut lead times (site_selection, USD 216 million). 30 Oct 2026: L3Harris reported a record $53.2 billion backlog driven by high book-to-bill ratios in Missile Solutions (11.8) alongside multi-billion-dollar undefinitized propulsion contracts for THAAD and PAC-3 (contract, USD 53.2 billion).",
-        "The bigger picture: As NATO initiatives drive billions into deep precision strike capabilities, industrial suppliers continue expanding production footprints, signaling an industry-wide push for scaled munitions delivery.",
-        "Down the supply chain: Hypersonic deep-strike systems depends on Advanced guidance, navigation, and control (GNC) avionics architectures supporting high-speed manoeuvring flight. United States: export ban on Hypersonica systems (in_force).",
         "Why it matters: Procurement and supply chain professionals managing European missile inventories should monitor stock reallocations and verify component availability for integration.",
         "Prepared by machine. Check the sources."
       ],
@@ -1462,40 +1185,12 @@
           ]
         },
         {
-          "label": "Context",
-          "lines": [
-            "28 Jul 2023: L3Harris Technologies completed its acquisition of Aerojet Rocketdyne, turning it into the Missile Solutions segment to scale up propulsion and energetics manufacturing (funded, USD 4.7 billion).",
-            "1 Jan 2024: GKN Aerospace invested over SEK 600 million in a new factory facility in Trollhättan dedicated to the industrialisation of metal additive manufacturing (funded, SEK 600 million).",
-            "1 Feb 2026: Hypersonica successfully flight-tested its HS-1 prototype, achieving speeds above Mach 6 over a range exceeding 300 kilometres from the Andøya Space site in Norway (delivered).",
-            "10 Feb 2026: The company closed a €23.3 million Series A funding round led by Plural to advance prototype development and expand its engineering team (contract, EUR 23.3 million).",
-            "1 Jul 2026: A NATO-led multinational initiative was announced, envisaging £37 billion of investment in deep precision strike capabilities over the next decade (framework, GBP 37 billion).",
-            "20 Oct 2026: L3Harris opened its 60,000-square-foot \"Arsenal of Freedom\" solid rocket motor manufacturing facility in Camden, Arkansas, designed to double GMLRS production capacity and cut lead times (site_selection, USD 216 million).",
-            "30 Oct 2026: L3Harris reported a record $53.2 billion backlog driven by high book-to-bill ratios in Missile Solutions (11.8) alongside multi-billion-dollar undefinitized propulsion contracts for THAAD and PAC-3 (contract, USD 53.2 billion)."
-          ],
-          "list": true
-        },
-        {
           "label": "Policy direction",
           "lines": [
             "EU — White Paper for European Defence – Readiness 2030 and ReArm Europe Plan (2025-03-19): Close critical capability gaps in seven priority areas (including air and missile defence and artillery) and build a stronger European defence industrial base; ReArm Europe enables over €800 billion of defence spending.",
             "EU — Council Regulation establishing the Security Action for Europe (SAFE) instrument (2025-05-27): Up to €150 billion in EU loans for member states investing in defence industrial production through common procurement of priority capabilities."
           ],
           "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "As defense investments scale up globally, such as L3Harris expanding solid rocket motor manufacturing in October 2026, suppliers continue to face regulatory bottlenecks."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Hypersonic deep-strike systems depends on Advanced guidance, navigation, and control (GNC) avionics architectures supporting high-speed manoeuvring flight.",
-            "United States: export ban on Hypersonica systems (in_force)."
-          ],
-          "list": true
         },
         {
           "label": "Why it matters",
@@ -1508,10 +1203,7 @@
       "label": "Prepared by machine. Check the sources.",
       "paragraphs": [
         "Many Austrian industrial companies possess the technical capability to enter the defence sector, but unclear responsibilities, lengthy export procedures, and reluctant banks hinder their market access.",
-        "Context: 28 Jul 2023: L3Harris Technologies completed its acquisition of Aerojet Rocketdyne, turning it into the Missile Solutions segment to scale up propulsion and energetics manufacturing (funded, USD 4.7 billion). 1 Jan 2024: GKN Aerospace invested over SEK 600 million in a new factory facility in Trollhättan dedicated to the industrialisation of metal additive manufacturing (funded, SEK 600 million). 1 Feb 2026: Hypersonica successfully flight-tested its HS-1 prototype, achieving speeds above Mach 6 over a range exceeding 300 kilometres from the Andøya Space site in Norway (delivered). 10 Feb 2026: The company closed a €23.3 million Series A funding round led by Plural to advance prototype development and expand its engineering team (contract, EUR 23.3 million). 1 Jul 2026: A NATO-led multinational initiative was announced, envisaging £37 billion of investment in deep precision strike capabilities over the next decade (framework, GBP 37 billion). 20 Oct 2026: L3Harris opened its 60,000-square-foot \"Arsenal of Freedom\" solid rocket motor manufacturing facility in Camden, Arkansas, designed to double GMLRS production capacity and cut lead times (site_selection, USD 216 million). 30 Oct 2026: L3Harris reported a record $53.2 billion backlog driven by high book-to-bill ratios in Missile Solutions (11.8) alongside multi-billion-dollar undefinitized propulsion contracts for THAAD and PAC-3 (contract, USD 53.2 billion).",
         "Policy direction: EU — White Paper for European Defence – Readiness 2030 and ReArm Europe Plan (2025-03-19): Close critical capability gaps in seven priority areas (including air and missile defence and artillery) and build a stronger European defence industrial base; ReArm Europe enables over €800 billion of defence spending. EU — Council Regulation establishing the Security Action for Europe (SAFE) instrument (2025-05-27): Up to €150 billion in EU loans for member states investing in defence industrial production through common procurement of priority capabilities.",
-        "The bigger picture: As defense investments scale up globally, such as L3Harris expanding solid rocket motor manufacturing in October 2026, suppliers continue to face regulatory bottlenecks.",
-        "Down the supply chain: Hypersonic deep-strike systems depends on Advanced guidance, navigation, and control (GNC) avionics architectures supporting high-speed manoeuvring flight. United States: export ban on Hypersonica systems (in_force).",
         "Why it matters: Business development professionals in supply chain management must carefully navigate local export compliance and banking hurdles when engaging with regional industrial suppliers.",
         "Prepared by machine. Check the sources."
       ],
@@ -2049,34 +1741,11 @@
           ]
         },
         {
-          "label": "Context",
-          "lines": [
-            "1 Aug 2013: UK Ministry of Defence places a two-year contract with AgustaWestland (now Leonardo Helicopters) for RWUAS concept development under the Anti-Submarine Warfare Spearhead programme (contract, GBP 2.3).",
-            "13 Aug 2025: Leonardo provides a comprehensive progress update on the RWUAS Phase 3A programme ahead of flight tests (funded).",
-            "2 Dec 2025: Ground-running trials commence at Leonardo's Yeovil facility to validate propulsion, sensors, and control systems (site_selection).",
-            "16 Jan 2026: Proteus successfully performs its maiden flight at Predannack airfield in Cornwall with initial Leonardo-designed autonomy embedded (delivered).",
-            "3 Mar 2026: Phase 3a flight tests conclude, with Leonardo awaiting MoD decisions on the follow-on technology maturation roadmap (plan).",
-            "24 Jul 2026: Leonardo confirms at the Farnborough International Airshow that funding for the Proteus uncrewed helicopter demonstrator has been extended through mid-2027 (funded).",
-            "29 Oct 2026: Leonardo selects Shield AI to integrate the Hivemind Software Development Kit (SDK) into Proteus for advanced mission autonomy."
-          ],
-          "list": true
-        },
-        {
           "label": "The bigger picture",
           "lines": [
             "The Royal Australian Navy is rapidly fielding uncrewed underwater systems funded at A$1.7 billion to offset delays in nuclear-powered submarines and enhance sea denial."
           ],
           "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Hivemind Software Development Kit (SDK) depends on Shield AI (Primary Software Provider).",
-            "Airframe & Dynamic Components depends on Kopter AW09 single-engine light helicopter architecture (Leonardo Helicopters, Yeovil, UK).",
-            "Modular Payload Bay depends on Integration infrastructure for ASW, ISR, and logistics payloads.",
-            "United States: export licensing on US ITAR / EAR export controls and licensing governing the transfer of AI-powered military autonomy software (Hivemind SDK) to foreign defense primes. (in_force)."
-          ],
-          "list": true
         },
         {
           "label": "Why it matters",
@@ -2089,9 +1758,7 @@
       "label": "Prepared by machine. Check the sources.",
       "paragraphs": [
         "Australia revealed three modular payloads for the Ghost Shark extra-large autonomous underwater vehicle, including sea mines, Altius-600 loitering munitions, and logistics supply caches.",
-        "Context: 1 Aug 2013: UK Ministry of Defence places a two-year contract with AgustaWestland (now Leonardo Helicopters) for RWUAS concept development under the Anti-Submarine Warfare Spearhead programme (contract, GBP 2.3). 13 Aug 2025: Leonardo provides a comprehensive progress update on the RWUAS Phase 3A programme ahead of flight tests (funded). 2 Dec 2025: Ground-running trials commence at Leonardo's Yeovil facility to validate propulsion, sensors, and control systems (site_selection). 16 Jan 2026: Proteus successfully performs its maiden flight at Predannack airfield in Cornwall with initial Leonardo-designed autonomy embedded (delivered). 3 Mar 2026: Phase 3a flight tests conclude, with Leonardo awaiting MoD decisions on the follow-on technology maturation roadmap (plan). 24 Jul 2026: Leonardo confirms at the Farnborough International Airshow that funding for the Proteus uncrewed helicopter demonstrator has been extended through mid-2027 (funded). 29 Oct 2026: Leonardo selects Shield AI to integrate the Hivemind Software Development Kit (SDK) into Proteus for advanced mission autonomy.",
         "The bigger picture: The Royal Australian Navy is rapidly fielding uncrewed underwater systems funded at A$1.7 billion to offset delays in nuclear-powered submarines and enhance sea denial.",
-        "Down the supply chain: Hivemind Software Development Kit (SDK) depends on Shield AI (Primary Software Provider). Airframe & Dynamic Components depends on Kopter AW09 single-engine light helicopter architecture (Leonardo Helicopters, Yeovil, UK). Modular Payload Bay depends on Integration infrastructure for ASW, ISR, and logistics payloads. United States: export licensing on US ITAR / EAR export controls and licensing governing the transfer of AI-powered military autonomy software (Hivemind SDK) to foreign defense primes. (in_force).",
         "Why it matters: Naval procurement professionals should track modular XLAUV payload integration trends to identify emerging sub-surface defense opportunities.",
         "Prepared by machine. Check the sources."
       ],
@@ -3597,38 +3264,12 @@
           ]
         },
         {
-          "label": "Context",
-          "lines": [
-            "28 Aug 2023: North Korea reportedly explored repurposing aging Soviet-origin fighter jets into unmanned kamikaze systems as part of early asymmetric drone expansion initiatives (plan).",
-            "24 Aug 2024: Kim Jong Un oversaw performance tests of newly developed suicide attack drones modeled after systems like the Israeli Harop or Russian Lancet, calling for broader integration (funded).",
-            "15 Nov 2024: State media reported that Kim Jong Un officially ordered the full-scale mass production of self-detonating suicide drones following successful guided tests (approval).",
-            "27 Mar 2025: North Korean state media revealed tests of new AI-equipped suicide drones designed to autonomously identify and strike tactical objectives (delivered).",
-            "19 Sep 2026: Rodong Sinmun published unprecedented photographs of interior munitions factories revealing active production lines for Saetbyol-4 and Saetbyol-9 drones as well as one-way attack munitions (delivered).",
-            "30 Oct 2026: North Korea held the “Unmanned Aeronautical Technology Development-2026” exhibition, introducing a conceptual large stealth flying-wing UCAV mockup and staging live-fire drone strikes."
-          ],
-          "list": true
-        },
-        {
           "label": "Policy direction",
           "lines": [
             "US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base.",
             "US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress."
           ],
           "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "As autonomous aircraft and air-defense demand grows, global suppliers are pivoting to counter-drone and autonomous solutions. Signal: increased international focus on scalable autonomous aircraft and gun-based air defense."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "United Nations Security Council: sanction on North Korea (in_force)."
-          ],
-          "list": true
         },
         {
           "label": "Why it matters",
@@ -3641,10 +3282,7 @@
       "label": "Prepared by machine. Check the sources.",
       "paragraphs": [
         "Northrop Grumman CEO Warden announced that rising allied defense budgets and multiyear demand support the goal of doubling international sales by 2031.",
-        "Context: 28 Aug 2023: North Korea reportedly explored repurposing aging Soviet-origin fighter jets into unmanned kamikaze systems as part of early asymmetric drone expansion initiatives (plan). 24 Aug 2024: Kim Jong Un oversaw performance tests of newly developed suicide attack drones modeled after systems like the Israeli Harop or Russian Lancet, calling for broader integration (funded). 15 Nov 2024: State media reported that Kim Jong Un officially ordered the full-scale mass production of self-detonating suicide drones following successful guided tests (approval). 27 Mar 2025: North Korean state media revealed tests of new AI-equipped suicide drones designed to autonomously identify and strike tactical objectives (delivered). 19 Sep 2026: Rodong Sinmun published unprecedented photographs of interior munitions factories revealing active production lines for Saetbyol-4 and Saetbyol-9 drones as well as one-way attack munitions (delivered). 30 Oct 2026: North Korea held the “Unmanned Aeronautical Technology Development-2026” exhibition, introducing a conceptual large stealth flying-wing UCAV mockup and staging live-fire drone strikes.",
         "Policy direction: US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base. US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress.",
-        "The bigger picture: As autonomous aircraft and air-defense demand grows, global suppliers are pivoting to counter-drone and autonomous solutions. Signal: increased international focus on scalable autonomous aircraft and gun-based air defense.",
-        "Down the supply chain: United Nations Security Council: sanction on North Korea (in_force).",
         "Why it matters: Defense industry business development and supply chain professionals should monitor international procurement timelines for autonomous aircraft and air-defense munitions to align production scaling.",
         "Prepared by machine. Check the sources."
       ],
@@ -4699,6 +4337,76 @@
       }
     },
     {
+      "id": "syn-213",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-10-30",
+      "title": "Rheinmetall to debut Kraken K3 USV and MASS Nova at Euronaval",
+      "summary": "Rheinmetall announced its exhibition lineup for Euronaval 2026, featuring the first public display of the series-produced Kraken K3 uncrewed surface vessel manufactured at its Hamburg site. The company is also debuting the MASS Nova decoy launcher and presenting a standalone configuration of the Millennium gun system.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Rheinmetall announced its exhibition lineup for Euronaval 2026, featuring the first public display of the series-produced Kraken K3 uncrewed surface vessel manufactured at its Hamburg site. The company is also debuting the MASS Nova decoy launcher and presenting a standalone configuration of the Millennium gun system."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "22 Aug 2025: Kraken Technology Group and NVL (Lürssen) establish an Anglo-German alliance to fast-track development and scale production of autonomous maritime systems (plan).",
+            "20 Apr 2026: Rheinmetall Naval Systems and Kraken Technology Group formalize their joint venture under the name Rheinmetall Kraken GmbH and launch series production of the Kraken K3 Scout uncrewed surface vessel (USV) at the Blohm+Voss site in Hamburg, with initial capacity planned for around 200 units per year (plan).",
+            "10 Jun 2026: Rheinmetall showcases the Kraken K3 Scout USV at Eurosatory 2026 as part of its cross-domain systems integration framework (framework).",
+            "7 Oct 2026: Rheinmetall announces a contract to supply Kuwaiti Naval Forces with MASS (Multi Ammunition Softkill System) decoy launchers for the first time (contract).",
+            "30 Oct 2026: Rheinmetall announces its exhibition lineup for Euronaval 2026, featuring the first public exhibition of the series-produced Kraken K3 naval drone, the standalone Millennium gun system configuration, and the debut of the MASS Nova decoy launcher."
+          ],
+          "list": true
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following joint venture formations and showcase events through 2025 and 2026, suppliers are increasingly packaging uncrewed surface vessels with independent weapon and soft-kill systems to meet hybrid fleet demands, signaling a rapid transition toward scalable autonomous naval capabilities."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Millennium Gun System depends on Oerlikon AMMR active electronically scanned array (AESA) S-band surveillance radar, tracking units, and fire-control components.",
+            "MASS Nova Decoy Ammunition depends on 81mm Omni-Trap multi-effect ammunition payloads."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Naval procurement and business development professionals should track these modular systems for upcoming modernization programs requiring platform-independent integration."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Rheinmetall announced its exhibition lineup for Euronaval 2026, featuring the first public display of the series-produced Kraken K3 uncrewed surface vessel manufactured at its Hamburg site. The company is also debuting the MASS Nova decoy launcher and presenting a standalone configuration of the Millennium gun system.",
+        "Context: 22 Aug 2025: Kraken Technology Group and NVL (Lürssen) establish an Anglo-German alliance to fast-track development and scale production of autonomous maritime systems (plan). 20 Apr 2026: Rheinmetall Naval Systems and Kraken Technology Group formalize their joint venture under the name Rheinmetall Kraken GmbH and launch series production of the Kraken K3 Scout uncrewed surface vessel (USV) at the Blohm+Voss site in Hamburg, with initial capacity planned for around 200 units per year (plan). 10 Jun 2026: Rheinmetall showcases the Kraken K3 Scout USV at Eurosatory 2026 as part of its cross-domain systems integration framework (framework). 7 Oct 2026: Rheinmetall announces a contract to supply Kuwaiti Naval Forces with MASS (Multi Ammunition Softkill System) decoy launchers for the first time (contract). 30 Oct 2026: Rheinmetall announces its exhibition lineup for Euronaval 2026, featuring the first public exhibition of the series-produced Kraken K3 naval drone, the standalone Millennium gun system configuration, and the debut of the MASS Nova decoy launcher.",
+        "The bigger picture: Following joint venture formations and showcase events through 2025 and 2026, suppliers are increasingly packaging uncrewed surface vessels with independent weapon and soft-kill systems to meet hybrid fleet demands, signaling a rapid transition toward scalable autonomous naval capabilities.",
+        "Down the supply chain: Millennium Gun System depends on Oerlikon AMMR active electronically scanned array (AESA) S-band surveillance radar, tracking units, and fire-control components. MASS Nova Decoy Ammunition depends on 81mm Omni-Trap multi-effect ammunition payloads.",
+        "Why it matters: Naval procurement and business development professionals should track these modular systems for upcoming modernization programs requiring platform-independent integration.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/rheinmetall-to-present-kraken-k3-naval-drone-millennium-gun-system-and-mass-nova-decoys-at-euronaval-2026/"
+        }
+      ],
+      "place": {
+        "label": "Hamburg",
+        "lat": 53.5511,
+        "lon": 9.9937
+      }
+    },
+    {
       "id": "syn-208",
       "status": "approved",
       "kind": "Synthesis",
@@ -4768,76 +4476,6 @@
         "label": "Pápa Air Base, Hungary",
         "lat": 47.3636,
         "lon": 17.5006
-      }
-    },
-    {
-      "id": "syn-213",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-10-30",
-      "title": "Rheinmetall to debut Kraken K3 USV and MASS Nova at Euronaval",
-      "summary": "Rheinmetall announced its exhibition lineup for Euronaval 2026, featuring the first public display of the series-produced Kraken K3 uncrewed surface vessel manufactured at its Hamburg site. The company is also debuting the MASS Nova decoy launcher and presenting a standalone configuration of the Millennium gun system.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Rheinmetall announced its exhibition lineup for Euronaval 2026, featuring the first public display of the series-produced Kraken K3 uncrewed surface vessel manufactured at its Hamburg site. The company is also debuting the MASS Nova decoy launcher and presenting a standalone configuration of the Millennium gun system."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "22 Aug 2025: Kraken Technology Group and NVL (Lürssen) establish an Anglo-German alliance to fast-track development and scale production of autonomous maritime systems (plan).",
-            "20 Apr 2026: Rheinmetall Naval Systems and Kraken Technology Group formalize their joint venture under the name Rheinmetall Kraken GmbH and launch series production of the Kraken K3 Scout uncrewed surface vessel (USV) at the Blohm+Voss site in Hamburg, with initial capacity planned for around 200 units per year (plan).",
-            "10 Jun 2026: Rheinmetall showcases the Kraken K3 Scout USV at Eurosatory 2026 as part of its cross-domain systems integration framework (framework).",
-            "7 Oct 2026: Rheinmetall announces a contract to supply Kuwaiti Naval Forces with MASS (Multi Ammunition Softkill System) decoy launchers for the first time (contract).",
-            "30 Oct 2026: Rheinmetall announces its exhibition lineup for Euronaval 2026, featuring the first public exhibition of the series-produced Kraken K3 naval drone, the standalone Millennium gun system configuration, and the debut of the MASS Nova decoy launcher."
-          ],
-          "list": true
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following joint venture formations and showcase events through 2025 and 2026, suppliers are increasingly packaging uncrewed surface vessels with independent weapon and soft-kill systems to meet hybrid fleet demands, signaling a rapid transition toward scalable autonomous naval capabilities."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Millennium Gun System depends on Oerlikon AMMR active electronically scanned array (AESA) S-band surveillance radar, tracking units, and fire-control components.",
-            "MASS Nova Decoy Ammunition depends on 81mm Omni-Trap multi-effect ammunition payloads."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Naval procurement and business development professionals should track these modular systems for upcoming modernization programs requiring platform-independent integration."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Rheinmetall announced its exhibition lineup for Euronaval 2026, featuring the first public display of the series-produced Kraken K3 uncrewed surface vessel manufactured at its Hamburg site. The company is also debuting the MASS Nova decoy launcher and presenting a standalone configuration of the Millennium gun system.",
-        "Context: 22 Aug 2025: Kraken Technology Group and NVL (Lürssen) establish an Anglo-German alliance to fast-track development and scale production of autonomous maritime systems (plan). 20 Apr 2026: Rheinmetall Naval Systems and Kraken Technology Group formalize their joint venture under the name Rheinmetall Kraken GmbH and launch series production of the Kraken K3 Scout uncrewed surface vessel (USV) at the Blohm+Voss site in Hamburg, with initial capacity planned for around 200 units per year (plan). 10 Jun 2026: Rheinmetall showcases the Kraken K3 Scout USV at Eurosatory 2026 as part of its cross-domain systems integration framework (framework). 7 Oct 2026: Rheinmetall announces a contract to supply Kuwaiti Naval Forces with MASS (Multi Ammunition Softkill System) decoy launchers for the first time (contract). 30 Oct 2026: Rheinmetall announces its exhibition lineup for Euronaval 2026, featuring the first public exhibition of the series-produced Kraken K3 naval drone, the standalone Millennium gun system configuration, and the debut of the MASS Nova decoy launcher.",
-        "The bigger picture: Following joint venture formations and showcase events through 2025 and 2026, suppliers are increasingly packaging uncrewed surface vessels with independent weapon and soft-kill systems to meet hybrid fleet demands, signaling a rapid transition toward scalable autonomous naval capabilities.",
-        "Down the supply chain: Millennium Gun System depends on Oerlikon AMMR active electronically scanned array (AESA) S-band surveillance radar, tracking units, and fire-control components. MASS Nova Decoy Ammunition depends on 81mm Omni-Trap multi-effect ammunition payloads.",
-        "Why it matters: Naval procurement and business development professionals should track these modular systems for upcoming modernization programs requiring platform-independent integration.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Defence Industry Europe",
-          "url": "https://defence-industry.eu/rheinmetall-to-present-kraken-k3-naval-drone-millennium-gun-system-and-mass-nova-decoys-at-euronaval-2026/"
-        }
-      ],
-      "place": {
-        "label": "Hamburg",
-        "lat": 53.5511,
-        "lon": 9.9937
       }
     },
     {
