@@ -18,6 +18,8 @@ if (form) {
   const topic = form.elements.topic;
   const wanted = new URLSearchParams(location.search).get('topic');
   if (wanted && [...topic.options].some((o) => o.value === wanted)) topic.value = wanted;
+  const company = new URLSearchParams(location.search).get('company');
+  if (company && form.elements.company) form.elements.company.value = company.slice(0, 200);
   const status = document.getElementById('enquiry-status');
   const send = form.querySelector('button[type=submit]');
   form.addEventListener('submit', async (event) => {
