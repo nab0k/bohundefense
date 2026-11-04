@@ -90,6 +90,8 @@ function metaRow(vm) {
   if (vm.city || vm.mode === 'demo') parts.push(`<span>${icon('map-pin', 'ico ico-s')}${esc([vm.city, vm.countryName].filter(Boolean).join(', '))}</span>`);
   else parts.push(`<span>${icon('map-pin', 'ico ico-s')}${esc(vm.countryName)} · location withheld</span>`);
   if (vm.website) parts.push(`<a href="${esc(vm.website)}" target="_blank" rel="noopener noreferrer">${icon('link', 'ico ico-s')}${esc(hostOf(vm.website))}${icon('external-link', 'ico ico-xs')}</a>`);
+  const editHref = '/support-project.html?topic=Correct%20company%20data&company=' + encodeURIComponent(vm.name || '');
+  parts.push(`<a href="${esc(editHref)}">${icon('wrench', 'ico ico-s')}Correct company data</a>`);
   return `<div class="meta">${parts.join('')}</div>`;
 }
 const TABS = [['Overview', 'top'], ['Products & Technologies', 'products'], ['Programmes & Tenders', 'programmes'], ['News & Events', 'developments'], ['Relationships', 'relationships'], ['Financials'], ['Sources', 'evidence'], ['Research Notes']];

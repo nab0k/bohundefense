@@ -36,6 +36,9 @@
     const dir = el('a', '', 'Open in company directory');
     dir.href = '/companies.html?q=' + encodeURIComponent(c.name || '');
     out.push(el('p')); out[out.length - 1].append(dir);
+    const corr = el('a', '', 'Correct company data');
+    corr.href = '/support-project.html?topic=Correct%20company%20data&company=' + encodeURIComponent(c.name || '');
+    out.push(el('p')); out[out.length - 1].append(corr);
     out.push(el('p', 'ux-company-map-note', 'Research index entry. Unverified candidates are not independently validated suppliers, partners or customers.'));
     return out;
   }
