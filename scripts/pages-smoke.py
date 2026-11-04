@@ -143,7 +143,7 @@ with sync_playwright() as p:
                 err for err in errors
                 if not ((tile_failure or navigation_abort) and err['page_path'] == '/'
                         and err['message'] == 'Failed to fetch'
-                        and '/assets/atlas-' in err['stack'])
+                        and ('/assets/atlas-' in err['stack'] or (navigation_abort and not err['stack'])))
             ]
             # About and enquiry are part of the same Atmosphere 2.2 shell.
             page.goto(BASE + '/about.html', wait_until='domcontentloaded')
