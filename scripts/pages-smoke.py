@@ -5,7 +5,7 @@ import re
 from playwright.sync_api import sync_playwright, expect
 
 ROOT=Path(__file__).resolve().parents[1]
-PAGES=['index.html','about.html','services.html','about-project.html','support-project.html','contact.html','privacy.html','404.html']
+PAGES=['index.html','about.html','services.html','about-project.html','support-project.html','contact.html','privacy.html','inquiry.html','404.html']
 class PageAudit(HTMLParser):
     def __init__(self):
         super().__init__();self.links=[]
@@ -27,7 +27,7 @@ html=(ROOT/'index.html').read_text()
 for selector in ('id="map"', 'id="sidebar"', 'id="topbar"'):
     assert selector in html, f'current shell control missing {selector}'
 assert 'notion-atlas-at34-review-only' not in html
-print('PASS Pages CNAME, eight routes, local asset references and current shell roots')
+print('PASS Pages CNAME, nine routes, local asset references and current shell roots')
 
 BASE = 'http://127.0.0.1:8765'
 DESTINATIONS = (
@@ -154,6 +154,21 @@ with sync_playwright() as p:
             expect(page.locator('#heading')).to_have_text('Find a Partner')
             expect(page.locator('#submit')).to_be_disabled()
             expect(page.locator('#global-search')).to_be_visible(timeout=15000)
+            # Three enquiry intents, context handoff and fail-closed submission.
+            for kind, heading in (
+                ('opportunity', 'Discuss an Opportunity'),
+                ('partner', 'Find a Partner'),
+                ('company', 'Suggest a Company Update'),
+            ):
+                page.goto(BASE + '/inquiry.html?type=' + kind + '&id=example-123&title=Public%20report', wait_until='domcontentloaded')
+                expect(page.locator('#heading')).to_have_text(heading)
+                expect(page.locator('#kind')).to_have_value(kind)
+                expect(page.locator('#context-id')).to_have_value('example-123')
+                expect(page.locator('#context-box')).to_contain_text('Public report')
+                expect(page.locator('#submit')).to_be_disabled()
+                expect(page.locator('#global-search')).to_be_visible(timeout=15000)
+                expect(page.locator('#role-wrap')).to_be_visible() if kind == 'company' else expect(page.locator('#role-wrap')).to_be_hidden()
+                expect(page.locator('#region-wrap')).to_be_visible() if kind == 'partner' else expect(page.locator('#region-wrap')).to_be_hidden()
             assert not actionable_errors, f'{name} page JavaScript errors: {actionable_errors}'
             print(f'PASS {name}: current shell, project/services navigation, page content and contact links; JS errors=0')
         except Exception:
