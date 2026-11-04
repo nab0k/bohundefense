@@ -145,6 +145,15 @@ with sync_playwright() as p:
                         and err['message'] == 'Failed to fetch'
                         and '/assets/atlas-' in err['stack'])
             ]
+            # About and enquiry are part of the same Atmosphere 2.2 shell.
+            page.goto(BASE + '/about.html', wait_until='domcontentloaded')
+            expect(page.locator('main h1')).to_contain_text('Intelligence that supports decisions.')
+            expect(page.locator('#global-search')).to_be_visible(timeout=15000)
+            page.locator('main a[href="/inquiry.html?type=partner"]').click()
+            page.wait_for_url(BASE + '/inquiry.html?type=partner')
+            expect(page.locator('#heading')).to_have_text('Find a Partner')
+            expect(page.locator('#submit')).to_be_disabled()
+            expect(page.locator('#global-search')).to_be_visible(timeout=15000)
             assert not actionable_errors, f'{name} page JavaScript errors: {actionable_errors}'
             print(f'PASS {name}: current shell, project/services navigation, page content and contact links; JS errors=0')
         except Exception:
