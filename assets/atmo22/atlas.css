@@ -138,3 +138,4 @@ body.atmo22-atlas #map{position:fixed;top:var(--top);left:var(--sidebar-w);right
 
 .atmo22-atlas .demo-short{display:none}
 @media (max-width:900px){.atmo22-atlas .demo-short{display:inline}}
+@media (max-width:900px){.atmo22-atlas #ux-map-status{top:calc(var(--top) + 58px)}}
