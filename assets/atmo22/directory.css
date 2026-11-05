@@ -50,5 +50,10 @@
   .d-table tbody th,.d-table td{display:block;padding:0;border:0}
   .d-table tbody th{grid-column:1/-1;min-width:0}
   .d-actions{grid-column:1/-1;text-align:left!important;padding-top:4px!important}
-  .d-actions a{margin:0 14px 0 0}
+  .d-actions a{margin:0 14px 0 0;min-height:40px}
+  .d-table,.d-table tbody{display:block;width:100%}
+  .d-table tr{grid-template-columns:minmax(0,1fr) minmax(0,auto)}
+  .d-table td{min-width:0}
+  .d-pill{height:auto;min-height:20px;padding:3px 7px;white-space:normal;line-height:1.2}
+  .d-cat{white-space:normal}
 }

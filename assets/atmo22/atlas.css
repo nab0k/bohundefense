@@ -107,6 +107,7 @@ body.atmo22-atlas #map{position:fixed;top:var(--top);left:var(--sidebar-w);right
 .atmo22-atlas #note{position:fixed;left:calc(var(--sidebar-w) + 50%);transform:translateX(-50%);bottom:calc(var(--foot) + 14px);z-index:14;margin:0;padding:0;font:500 12px/1.4 var(--font-ui);color:var(--ink)}
 .atmo22-atlas #note:not(:empty){padding:6px 10px;border-radius:8px;background:rgba(255,255,255,.92);border:1px solid var(--line)}
 .atmo22-atlas .demo{position:fixed;left:var(--sidebar-w);right:0;bottom:0;z-index:13;margin:0;min-height:var(--foot);display:flex;align-items:center;padding:4px 14px;background:rgba(246,248,250,.92);border-top:1px solid var(--line);font:400 10.5px/1.4 var(--font-ui);color:var(--ink-3);text-shadow:none;white-space:normal}
+.atmo22-atlas .demo{pointer-events:auto}
 .atmo22-atlas .demo a{color:var(--ink-2)}
 
 /* Filters dialog (kept for keyboard users of the engine rail; light look) */
@@ -139,3 +140,15 @@ body.atmo22-atlas #map{position:fixed;top:var(--top);left:var(--sidebar-w);right
 .atmo22-atlas .demo-short{display:none}
 @media (max-width:900px){.atmo22-atlas .demo-short{display:inline}}
 @media (max-width:900px){.atmo22-atlas #ux-map-status{top:calc(var(--top) + 58px)}}
+/* Phone reader: #side (which holds the feed) is its own stacking layer above the panels, so lower it while a panel is open. */
+@media (max-width:900px){
+  body.atmo22-atlas[data-ux-reading=true] #side{z-index:14}
+  .atmo22-atlas #p0-dossier{top:var(--top);max-height:none;border-radius:0;background:var(--panel-solid);backdrop-filter:none}
+  .atmo22-atlas .ux-feed-tabs button{height:40px}
+  .atmo22-atlas #ux-feed-close{min-height:40px}
+}
+/* Narrowest phones: the footer links wrap instead of being cut off. */
+@media (max-width:360px){
+  .atmo22-atlas{--foot:46px}
+  .atmo22-atlas .demo{white-space:normal}
+}
