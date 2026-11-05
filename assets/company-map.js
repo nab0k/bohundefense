@@ -8,6 +8,11 @@
   const GROUP_SRC = 'bohun-company-countries', GROUP_LAYER = 'bohun-company-country-groups';
   const STATUS = { unverified_candidate: 'Unverified candidate', research_publishable: 'Research record', published_dataset: 'Published dataset' };
   let directory = null;
+  let ui = null; // flags, names, category icons and the small map; the card still works as plain text without them
+  const uiReady = Promise.all([import('/assets/atmo22/flags.js'), import('/assets/atmo22/data.js'), import('/assets/atmo22/halftone.js')])
+    .then(([flags, data, halftone]) => { ui = { flag: flags.flag, data, halftone }; })
+    .catch((err) => console.warn('Company card details unavailable:', err));
+  let outlines = null;
 
   const el = (tag, cls, text) => { const n = document.createElement(tag); if (cls) n.className = cls; if (text !== undefined) n.textContent = text; return n; };
   const norm = (s) => String(s || '').normalize('NFKC').trim().toLocaleLowerCase();
@@ -23,19 +28,70 @@
     card.hidden = false; // SITE UX v1 observes `hidden` and opens the panel
   }
 
-  function companyNodes(c, locationNote) {
+  // A small piece of the map, drawn only from a known point; it stays out of the card when there is none.
+  function miniMap(c, point) {
+    if (!ui || !point) return null;
+    const box = el('div', 'ux-company-mini');
+    box.setAttribute('aria-hidden', 'true');
+    const canvas = el('canvas');
+    box.append(canvas);
+    const [lon, lat] = point.coordinates;
+    const draw = async (tries) => {
+      if (!canvas.isConnected) { if (tries > 0) setTimeout(() => draw(tries - 1), 50); return; }
+      if (!canvas.clientWidth) { if (tries > 0) setTimeout(() => draw(tries - 1), 50); return; }
+      try {
+        outlines = outlines || await ui.data.countries();
+        ui.halftone.drawHalftone(canvas, {
+          features: outlines, style: 'card', highlight: ui.data.COUNTRY[c.country]?.[1],
+          bbox: ui.halftone.bboxAround(lon, lat, point.city ? 9 : 34, canvas.clientWidth, canvas.clientHeight),
+          markers: point.city ? [{ lon, lat, kind: 'company', color: '#e39a55' }] : [],
+        });
+      } catch (err) { box.remove(); console.warn('Company card map unavailable:', err); }
+    };
+    setTimeout(() => draw(40), 0);
+    return box;
+  }
+
+  function placeRow(c) {
+    const place = [c.city, c.country].filter(Boolean).join(', ');
+    if (!place) return null;
+    if (!ui || !/^[A-Z]{2}$/.test(c.country || '')) return el('p', 'muted', place);
+    const row = el('p', 'muted ux-company-row');
+    row.insertAdjacentHTML('afterbegin', ui.flag(c.country));
+    Object.assign(row.firstElementChild.style, { width: '16px', height: '16px', flex: 'none' });
+    row.append(el('span', '', [c.city, ui.data.countryName(c.country)].filter(Boolean).join(', ')));
+    return row;
+  }
+
+  function categoryRow(c) {
+    if (!c.category) return null;
+    const known = ui && ui.data.CATEGORY[c.category];
+    if (!known) return el('p', '', 'Category: ' + c.category);
+    const row = el('p', 'ux-company-row');
+    row.insertAdjacentHTML('afterbegin', `<svg class="ico" width="15" height="15" aria-hidden="true"><use href="/assets/atmo22/icons.svg#i-${known[1]}"/></svg>`);
+    row.append(el('span', '', known[0]));
+    return row;
+  }
+
+  function companyNodes(c, locationNote, point) {
     const out = [];
     if (c.status && c.status !== 'published_dataset') out.push(el('span', 'status-badge status-' + c.status, STATUS[c.status] || c.status));
-    const place = [c.city, c.country].filter(Boolean).join(', ');
-    if (place) out.push(el('p', 'muted', place));
+    const mini = miniMap(c, point);
+    if (mini) out.push(mini);
+    const place = placeRow(c);
+    if (place) out.push(place);
     if (locationNote) out.push(el('p', 'ux-company-map-note', locationNote));
-    if (c.category) out.push(el('p', '', 'Category: ' + c.category));
+    const category = categoryRow(c);
+    if (category) out.push(category);
     if (c.about) out.push(el('p', '', c.about));
     const web = httpsUrl(c.website);
     if (web) { const a = el('a', '', new URL(web).hostname.replace(/^www\./, '') + ' ↗'); a.href = web; a.target = '_blank'; a.rel = 'noopener noreferrer'; out.push(el('p')); out[out.length - 1].append(a); }
     const dir = el('a', '', 'Open in company directory');
     dir.href = '/companies.html?q=' + encodeURIComponent(c.name || '');
     out.push(el('p')); out[out.length - 1].append(dir);
+    const corr = el('a', '', 'Correct company data');
+    corr.href = '/support-project.html?topic=Correct%20company%20data&company=' + encodeURIComponent(c.name || '');
+    out.push(el('p')); out[out.length - 1].append(corr);
     out.push(el('p', 'ux-company-map-note', 'Research index entry. Unverified candidates are not independently validated suppliers, partners or customers.'));
     return out;
   }
@@ -76,7 +132,7 @@
     map.on('click', CITY_LAYER, (e) => {
       const p = e.features && e.features[0] && e.features[0].properties; if (!p) return;
       const full = directory && directory.find((c) => norm(c.name) === norm(p.name) && (c.country || '') === (p.country || ''));
-      openCard(p.name, companyNodes(full || p, 'Approximate city context · not a facility address.'));
+      openCard(p.name, companyNodes(full || p, 'Approximate city context · not a facility address.', { coordinates: e.features[0].geometry.coordinates, city: true }));
     });
     map.on('click', GROUP_LAYER, (e) => {
       const p = e.features && e.features[0] && e.features[0].properties; if (!p) return;
@@ -99,13 +155,13 @@
     const point = layers.cities.features.find((f) => norm(f.properties.name) === norm(c.name) && (f.properties.country || '') === c.country);
     if (point) {
       map.flyTo({ center: point.geometry.coordinates, zoom: 7, duration: 900 });
-      openCard(c.name, companyNodes(c, 'Approximate city context · not a facility address.'));
+      openCard(c.name, companyNodes(c, 'Approximate city context · not a facility address.', { coordinates: point.geometry.coordinates, city: true }));
       return;
     }
     const group = layers.groups.features.find((f) => f.properties.country === c.country);
     if (group) {
       map.flyTo({ center: group.geometry.coordinates, zoom: 4.5, duration: 900 });
-      openCard(c.name, companyNodes(c, 'No city location yet — shown in the ' + (group.properties.country_name || c.country) + ' country group.'));
+      openCard(c.name, companyNodes(c, 'No city location yet — shown in the ' + (group.properties.country_name || c.country) + ' country group.', { coordinates: group.geometry.coordinates, city: false }));
       return;
     }
     openCard(c.name, companyNodes(c, 'No location on the map yet.'));
@@ -115,7 +171,7 @@
   (function wait() {
     const map = window.__map;
     if (map && map.isStyleLoaded && map.isStyleLoaded()) {
-      Promise.all([attach(map), getJSON('/atlas/companies-directory-v1.json').then((j) => { directory = Array.isArray(j.companies) ? j.companies : []; })])
+      Promise.all([attach(map), getJSON('/atlas/companies-directory-v1.json').then((j) => { directory = Array.isArray(j.companies) ? j.companies : []; }), uiReady])
         .then(([layers]) => openRequested(map, layers))
         .catch((err) => console.warn('Company map layers unavailable:', err));
     } else if (Date.now() - started < 120000) setTimeout(wait, 250);

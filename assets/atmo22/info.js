@@ -1,5 +1,6 @@
 /* Shell for the info pages, live counts, and the enquiry form (sent through the existing Formspree form). */
-import { mountShell } from './shell.js';
+import { mountShell, icon } from './shell.js';
+import { enhanceSelects } from './select.js';
 
 const active = document.body.dataset.active || '';
 mountShell({ variant: 'directory', active }).catch(() => {});
@@ -20,6 +21,24 @@ if (form) {
   if (wanted && [...topic.options].some((o) => o.value === wanted)) topic.value = wanted;
   const company = new URLSearchParams(location.search).get('company');
   if (company && form.elements.company) form.elements.company.value = company.slice(0, 200);
+  enhanceSelects(form);
+
+  // Forms are often reached from a company card: give a way back without the browser's own controls.
+  const wrap = document.querySelector('.info-wrap');
+  if (wrap) {
+    const close = document.createElement('button');
+    close.type = 'button';
+    close.className = 'info-close';
+    close.setAttribute('aria-label', 'Close and go back');
+    close.innerHTML = icon('x');
+    close.addEventListener('click', () => {
+      let sameSite = false;
+      try { sameSite = new URL(document.referrer).origin === location.origin; } catch { /* opened directly */ }
+      if (sameSite && history.length > 1) history.back();
+      else location.assign('/');
+    });
+    wrap.prepend(close);
+  }
   const status = document.getElementById('enquiry-status');
   const send = form.querySelector('button[type=submit]');
   form.addEventListener('submit', async (event) => {
