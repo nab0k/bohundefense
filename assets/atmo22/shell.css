@@ -93,3 +93,17 @@ button.sb-item:hover{background:rgba(230,236,243,.7)}
 .hd-group{margin:6px 10px 2px;font:600 10.5px/1 var(--font-ui);letter-spacing:.04em;text-transform:uppercase;color:var(--ink-3)}
 .hd-results button.hd-place{display:flex;width:100%;justify-content:space-between;gap:12px;padding:8px 10px;border:0;border-radius:7px;background:none;text-align:left;cursor:pointer;font:400 12.5px/1.3 var(--font-ui);color:var(--ink);letter-spacing:normal;min-height:0}
 .hd-results button.hd-place:hover,.hd-results button.hd-place:focus{background:var(--nav-active);outline:none}
+.ui-select-native{display:none!important}
+.ui-select-btn{display:inline-flex;align-items:center;justify-content:space-between;gap:10px;box-sizing:border-box;max-width:100%;border:1px solid var(--line);border-radius:8px;background:#fff;color:var(--ink);cursor:pointer;text-align:left}
+.ui-select-btn:hover{border-color:#c3ccd6}
+.ui-select-btn:focus-visible,.ui-select-btn[aria-expanded=true]{outline:none;border-color:var(--link);box-shadow:0 0 0 3px rgba(47,95,158,.14)}
+.ui-select-text{min-width:0;overflow:hidden;white-space:nowrap;text-overflow:ellipsis}
+.ui-select-chevron{width:10px;height:6px;flex:none;color:#667085;transition:transform .12s}
+.ui-select-btn[aria-expanded=true] .ui-select-chevron{transform:rotate(180deg)}
+.ui-select-list{position:fixed;z-index:60;box-sizing:border-box;margin:0;padding:4px;list-style:none;overflow-y:auto;border:1px solid var(--line);border-radius:10px;background:#fff;box-shadow:0 12px 32px rgba(16,24,40,.16);font:400 13.5px/1.3 var(--font-ui);color:var(--ink);outline:none}
+.ui-select-list[hidden]{display:none}
+.ui-select-list li{display:flex;align-items:center;gap:8px;min-height:34px;padding:6px 12px 6px 8px;border-radius:7px;cursor:pointer}
+.ui-select-list li.is-active{background:var(--nav-active)}
+.ui-select-list li[aria-selected=true]{font-weight:600}
+.ui-select-check{width:16px;height:16px;flex:none;color:var(--link);visibility:hidden}
+.ui-select-list li[aria-selected=true] .ui-select-check{visibility:visible}

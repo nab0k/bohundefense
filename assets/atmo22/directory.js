@@ -4,12 +4,14 @@
 import { mountShell, icon } from './shell.js';
 import { directory, countryName, regionOf, REGIONS, CATEGORY, STATUS_LABEL, esc, norm, safeUrl, hostOf, companyHref } from './data.js';
 import { flag } from './flags.js';
+import { enhanceSelects } from './select.js';
 
 const $ = s => document.querySelector(s);
 const F = ['q', 'country', 'region', 'category', 'status'];
 const state = { items: [], shown: 60 };
 const read = () => Object.fromEntries(F.map(k => [k, new URL(location.href).searchParams.get(k) || '']));
 const mapHref = c => '/?view=map&projection=mercator&company=' + encodeURIComponent(c.name) + (c.country ? '&country=' + encodeURIComponent(c.country) : '');
+const correctHref = c => '/support-project.html?topic=Correct%20company%20data&company=' + encodeURIComponent(c.name || '');
 
 function write(f, push) {
   const u = new URL(location.href);
@@ -51,7 +53,7 @@ function render() {
       <td>${esc(c.country === 'UA' ? 'Withheld' : (c.city || '—'))}</td>
       <td>${cat ? `<span class="d-cat">${icon(cat[1], 'ico ico-s')}${esc(cat[0])}</span>` : '<span class="d-muted">—</span>'}</td>
       <td>${status}</td>
-      <td class="d-actions"><a href="${companyHref(c)}">Profile</a><a href="${mapHref(c)}">Map</a>${site ? `<a href="${esc(site)}" target="_blank" rel="noopener noreferrer" title="${esc(hostOf(site))}" aria-label="Website ${esc(hostOf(site))} (opens in a new tab)">${icon('external-link', 'ico ico-s')}</a>` : ''}</td>
+      <td class="d-actions"><a href="${companyHref(c)}">Profile</a><a href="${mapHref(c)}">Map</a><a href="${esc(correctHref(c))}">Correct company data</a>${site ? `<a href="${esc(site)}" target="_blank" rel="noopener noreferrer" title="${esc(hostOf(site))}" aria-label="Website ${esc(hostOf(site))} (opens in a new tab)">${icon('external-link', 'ico ico-s')}</a>` : ''}</td>
     </tr>`;
   }).join('') : `<tr><td colspan="6" class="d-empty">${icon('search', 'ico')} No companies match these filters.</td></tr>`;
   const more = $('#d-more');
@@ -77,6 +79,6 @@ async function main() {
     $('#d-count').textContent = 'The public research index is temporarily unavailable. No substitute data is shown.';
     $('#d-rows').innerHTML = ''; return;
   }
-  controls(read()); bind(); render();
+  controls(read()); enhanceSelects(document.querySelector('.d-filters')); bind(); render();
 }
 main();

@@ -44,6 +44,9 @@
   .d-head h1{font-size:28px}
   .d-filters select{flex:1 1 45%}
   .d-count{margin-left:0;width:100%}
+}
+/* Below this width the table with its action links no longer fits: rows become cards. */
+@media (max-width:1279px){
   .d-table-wrap{max-height:none}
   .d-table thead{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
   .d-table tr{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:10px 14px;border-bottom:1px solid var(--line-soft)}
@@ -57,3 +60,5 @@
   .d-pill{height:auto;min-height:20px;padding:3px 7px;white-space:normal;line-height:1.2}
   .d-cat{white-space:normal}
 }
+.d-filters .ui-select-btn{height:32px;padding:0 10px;font:500 12.5px/1 var(--font-ui)}
+@media (max-width:767px){.d-filters label{flex:1 1 45%;min-width:0}.d-filters .ui-select-btn{width:100%;min-width:0!important}}
