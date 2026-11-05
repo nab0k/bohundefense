@@ -66,6 +66,24 @@ def clean_context_line(line):
     return line + (" (%s)" % ", ".join(labels) if labels else "") + "."
 
 
+REF = re.compile(r"\s*\[\d+(?:,\s*\d+)*\]")  # the same footnote marks the exporter strips from the text
+
+
+def line_key(line):
+    """A context line as the reader sees it: footnote marks and extra spaces do not separate two lines."""
+    return " ".join(REF.sub("", str(line)).split())
+
+
+def line_sources(context_sources):
+    """{line: url} from the context_sources column (v21); entries without an https address are ignored."""
+    out = {}
+    for s in context_sources or []:
+        if isinstance(s, dict) and isinstance(s.get("line"), str) and isinstance(s.get("url"), str) \
+                and s["url"].startswith("https://"):
+            out[line_key(s["line"])] = s["url"]
+    return out
+
+
 def split_sources(sources):
     """(sources listed under the material, {line text: url} for its context lines)."""
     listed, by_line = [], {}
@@ -82,5 +100,5 @@ def context_links(lines, by_line):
     """[(line, url)]. A material published with line sources shows no line without one; older ones have none yet."""
     if not by_line:
         return [(line, None) for line in lines]
-    pairs = [(line, by_line.get(" ".join(line.split()))) for line in lines]
+    pairs = [(line, by_line.get(line_key(line))) for line in lines]
     return [pair for pair in pairs if pair[1]]

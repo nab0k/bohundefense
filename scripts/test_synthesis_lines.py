@@ -72,5 +72,18 @@ class Links(unittest.TestCase):
         self.assertEqual(context_links(["2020: One."], {}), [("2020: One.", None)])
 
 
+class ColumnLinks(unittest.TestCase):
+    def test_line_sources_from_column(self):
+        from synthesis_lines import line_sources
+        got = line_sources([{"line": "2025: B [2].", "url": "https://b.example/2"},
+                            {"line": "2026: C.", "url": "http://insecure.example"}, "junk"])
+        self.assertEqual(got, {"2025: B.": "https://b.example/2"})
+
+    def test_footnote_mark_does_not_hide_a_linked_line(self):
+        from synthesis_lines import line_sources
+        by_line = line_sources([{"line": "2025: B [2].", "url": "https://b.example/2"}])
+        self.assertEqual(context_links(["2025: B."], by_line), [("2025: B.", "https://b.example/2")])
+
+
 if __name__ == "__main__":
     unittest.main()
