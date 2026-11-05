@@ -36,7 +36,18 @@
         if (s.label) nodes.push(el('h3', 'ux-ed-sec-head', String(s.label)));
         if (s.list && lines.length > 1) {
           const ul = el('ul', 'ux-ed-lines');
-          for (const line of lines) ul.append(el('li', '', line));
+          lines.forEach((line, i) => {
+            const li = el('li', '', line);
+            const link = Array.isArray(s.links) ? safeUrl(s.links[i]) : null;
+            if (link) {
+              const a = el('a', 'ux-ed-line-src', 'source');
+              a.href = link;
+              a.target = '_blank';
+              a.rel = 'noopener noreferrer';
+              li.append(' ', a);
+            }
+            ul.append(li);
+          });
           nodes.push(ul);
         } else {
           for (const line of lines) nodes.push(el('p', 'ux-ed-text', line));

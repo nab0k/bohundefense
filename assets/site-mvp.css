@@ -36,6 +36,7 @@
 .ux-ed-text { color: var(--ux-text); font: 14px/1.65 system-ui; margin: 8px 0; overflow-wrap: anywhere; }
 .ux-ed-lines { margin: 6px 0; padding-left: 18px; color: var(--ux-text); font: 13px/1.6 system-ui; }
 .ux-ed-lines li { margin: 4px 0; overflow-wrap: anywhere; }
+.ux-ed-line-src { color: var(--ux-gold); font-size: .85em; white-space: nowrap; }
 .ux-ed-label { color: var(--ux-muted); font: italic 12px/1.6 system-ui; margin-top: 18px; }
 #p0-dossier-body .ux-ed-sources { margin-bottom: 8px; }
 #p0-dossier-body .ux-ed-map { margin: 4px 0 8px; padding: 6px 10px; border: 1px solid var(--ux-gold); border-radius: 6px; background: none; color: var(--ux-gold); font: 600 12px/1.4 system-ui; letter-spacing: 0; text-transform: none; cursor: pointer; }
