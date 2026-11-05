@@ -93,11 +93,19 @@ export async function mountShell(o = {}) {
 
   // Mobile drawer
   const menu = hd.querySelector('.hd-menu'), close = sb.querySelector('.sb-close');
-  const setOpen = open => { document.body.classList.toggle('sb-open', open); menu.setAttribute('aria-expanded', String(open)); if (open) close.focus(); else menu.focus(); };
+  const setOpen = (open, restoreFocus = true) => { document.body.classList.toggle('sb-open', open); menu.setAttribute('aria-expanded', String(open)); if (open) close.focus(); else if (restoreFocus) menu.focus(); };
   menu.addEventListener('click', () => setOpen(true));
   close.addEventListener('click', () => setOpen(false));
-  closeDrawer = () => setOpen(false);
-  if (!keyBound) { keyBound = true; document.addEventListener('keydown', e => { if (e.key === 'Escape' && document.body.classList.contains('sb-open')) closeDrawer(); }); }
+  sb.addEventListener('click', e => { if (e.target.closest('a[href], button[data-ux-view], button[data-region]')) setOpen(false, false); });
+  closeDrawer = (restoreFocus = true) => setOpen(false, restoreFocus);
+  if (!keyBound) {
+    keyBound = true;
+    document.addEventListener('keydown', e => { if (e.key === 'Escape' && document.body.classList.contains('sb-open')) closeDrawer(); });
+    // Tap outside the drawer closes it; focus stays where the tap landed.
+    document.addEventListener('pointerdown', e => {
+      if (document.body.classList.contains('sb-open') && !e.target.closest('.sidebar, .hd-menu')) closeDrawer(false);
+    });
+  }
 
   let items = [];
   try { items = await directory(); } catch { /* counts stay as dashes */ }
