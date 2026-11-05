@@ -3,8 +3,10 @@
 create schema if not exists bohun_private;
 create table if not exists bohun_private.business_inquiries (
   id uuid primary key default gen_random_uuid(),
-  type text not null check (type in ('opportunity','partner','company')),
+  idempotency_key uuid not null unique,
+  type text not null check (type in ('opportunity','partner','company','general')),
   name text not null check (char_length(name) between 1 and 120),
+  topic text not null check (char_length(topic) between 1 and 120),
   organization text not null check (char_length(organization) between 1 and 160),
   email text not null check (char_length(email) between 3 and 254),
   message text not null check (char_length(message) between 1 and 4000),
