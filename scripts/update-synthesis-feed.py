@@ -6,6 +6,7 @@ key and writes feed/synthesis-feed.json in the editorial item format read by ass
 """
 import json, os, re, sys, urllib.request, urllib.parse
 from pathlib import Path
+from synthesis_lines import clean_context_line, context_links, split_sources
 base=os.environ.get("SUPABASE_URL","https://tecrucawzukxqtchpxrh.supabase.co").rstrip("/")
 key=os.environ.get("SUPABASE_PUBLISHABLE_KEY","")
 if not key:
@@ -35,7 +36,8 @@ for x in rows:
     title=text(x.get("headline"),200); lead=text(x.get("what_happened"),4000)
     if not title or not lead or not isinstance(x.get("synthesis_id"),int):continue
     sources=[]
-    for s in x.get("sources") or []:
+    listed,line_sources=split_sources(x.get("sources"))
+    for s in listed:
         link=s.get("url") if isinstance(s,dict) else None
         u=urllib.parse.urlparse(link) if isinstance(link,str) else None
         if not u or u.scheme!="https" or not u.netloc:continue
@@ -48,7 +50,13 @@ for x in rows:
                                 ("The bigger picture","bigger_picture",False),("Down the supply chain","supply_chain",True),
                                 ("Why it matters","why_it_matters",False)):
         value=text(x.get(field),4000)
-        if value:sections.append({"label":label,"lines":[l.strip() for l in value.split("\n") if l.strip()],"list":as_list})
+        if not value:continue
+        section={"label":label,"lines":[l.strip() for l in value.split("\n") if l.strip()],"list":as_list}
+        if field=="context":  # stage and date as the line supports them, the source of each line when known
+            kept=context_links(section["lines"],line_sources)
+            section["lines"]=[clean_context_line(l) for l,_ in kept]
+            if line_sources:section["links"]=[link for _,link in kept]
+        if section["lines"]:sections.append(section)
     label=text(x.get("label"),120) or "Prepared by machine. Check the sources."
     paragraphs=[lead]+[s["label"]+": "+" ".join(s["lines"]) for s in sections[1:]]+[label]
     day=(x.get("first_published_at") or x.get("published_at") or "")[:10]
