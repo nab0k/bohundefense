@@ -3,6 +3,70 @@
   "notice": "Syntheses prepared by machine from open sources and approved by the editor. Check the sources.",
   "items": [
     {
+      "id": "syn-428",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-04",
+      "title": "General Atomics pushes NextGen hybrid‑electric flying wing, boosting drone endurance",
+      "summary": "General Atomics said its NextGen hybrid‑electric flying wing will deliver over 60‑hour endurance and can operate remotely, autonomously or semi‑autonomously. The XQ‑67A prototype has already flown and the $99.3 m GHOST contract awarded in 2025 funds the development of this capability.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "General Atomics said its NextGen hybrid‑electric flying wing will deliver over 60‑hour endurance and can operate remotely, autonomously or semi‑autonomously. The XQ‑67A prototype has already flown and the $99.3 m GHOST contract awarded in 2025 funds the development of this capability."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1 Sep 2021: General Atomics revealed early concepts for its \"MQ-Next\" family of hybrid-electric uncrewed aircraft systems to succeed the MQ-9 Reaper (plan).",
+            "1 Mar 2022: General Atomics introduced the \"Gambit\" modular concept series, envisioning a common chassis architecture for various autonomous drone variants (plan).",
+            "12 Jan 2024: General Atomics officially unveiled the XQ-67A Off-Board Sensing Station (OBSS) prototype built for the Air Force Research Laboratory (delivered).",
+            "28 Feb 2024: The XQ-67A successfully completed its maiden flight at Palmdale, California, validating the common-chassis \"genus\" approach (delivered).",
+            "24 Apr 2024: General Atomics was selected as a prime contractor for Phase 1 of the U.S. Air Force Collaborative Combat Aircraft (CCA) programme, designating its derivative as the YFQ-42 (contract).",
+            "27 May 2025: AFRL awarded General Atomics a $99,292,613 sole-source, cost-plus-fixed-fee contract for the GHOST autonomous hybrid-electric flying-wing project (contract, USD 99.293 million)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "NextGen uncrewed flying-wing depends on Hybrid-electric propulsion systems and ducted fan assemblies — Bottleneck / Critical Subsystem.",
+            "NextGen uncrewed flying-wing depends on Composite stealth airframe structures and low-observable skins — Material / Structural Component."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Procurement officers and supply‑chain managers should monitor hybrid‑electric propulsion and stealth composite supply risks to secure components for next‑gen drones."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "General Atomics said its NextGen hybrid‑electric flying wing will deliver over 60‑hour endurance and can operate remotely, autonomously or semi‑autonomously. The XQ‑67A prototype has already flown and the $99.3 m GHOST contract awarded in 2025 funds the development of this capability.",
+        "Context: 1 Sep 2021: General Atomics revealed early concepts for its \"MQ-Next\" family of hybrid-electric uncrewed aircraft systems to succeed the MQ-9 Reaper (plan). 1 Mar 2022: General Atomics introduced the \"Gambit\" modular concept series, envisioning a common chassis architecture for various autonomous drone variants (plan). 12 Jan 2024: General Atomics officially unveiled the XQ-67A Off-Board Sensing Station (OBSS) prototype built for the Air Force Research Laboratory (delivered). 28 Feb 2024: The XQ-67A successfully completed its maiden flight at Palmdale, California, validating the common-chassis \"genus\" approach (delivered). 24 Apr 2024: General Atomics was selected as a prime contractor for Phase 1 of the U.S. Air Force Collaborative Combat Aircraft (CCA) programme, designating its derivative as the YFQ-42 (contract). 27 May 2025: AFRL awarded General Atomics a $99,292,613 sole-source, cost-plus-fixed-fee contract for the GHOST autonomous hybrid-electric flying-wing project (contract, USD 99.293 million).",
+        "Down the supply chain: NextGen uncrewed flying-wing depends on Hybrid-electric propulsion systems and ducted fan assemblies — Bottleneck / Critical Subsystem. NextGen uncrewed flying-wing depends on Composite stealth airframe structures and low-observable skins — Material / Structural Component.",
+        "Why it matters: Procurement officers and supply‑chain managers should monitor hybrid‑electric propulsion and stealth composite supply risks to secure components for next‑gen drones.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "General Atomics and the Air Force Research Laboratory (AFRL) outlined next steps for autonomous drone concepts, highligh",
+          "url": "https://www.airandspaceforces.com/general-atomics-afrl-autonomous-drone-concepts-nextgen/"
+        },
+        {
+          "n": 2,
+          "title": "Air & Space Forces Magazine",
+          "url": "https://www.airandspaceforces.com/general-atomics-afrl-next-steps-autonomous-drones/"
+        }
+      ],
+      "place": null
+    },
+    {
       "id": "syn-394",
       "status": "approved",
       "kind": "Synthesis",
