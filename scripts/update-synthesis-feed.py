@@ -6,19 +6,28 @@ key and writes feed/synthesis-feed.json in the editorial item format read by ass
 """
 import json, os, re, sys, urllib.request, urllib.parse
 from pathlib import Path
-from synthesis_lines import clean_context_line, context_links, split_sources
+from synthesis_lines import clean_context_line, context_links, line_sources, split_sources
 base=os.environ.get("SUPABASE_URL","https://tecrucawzukxqtchpxrh.supabase.co").rstrip("/")
 key=os.environ.get("SUPABASE_PUBLISHABLE_KEY","")
 if not key:
     sys.exit("SUPABASE_PUBLISHABLE_KEY not configured; existing feed preserved")
-url=base+"/rest/v1/rpc/export_synthesis_feed_v2"  # v2: with the place of the event (map)
 headers={"apikey":key,"Content-Type":"application/json"}
 if key.startswith("eyJ"):
     headers["Authorization"]="Bearer "+key
-req=urllib.request.Request(url,data=json.dumps({"p_limit":100}).encode(),headers=headers,method="POST")
-try:
+
+def rpc(name):
+    req=urllib.request.Request(base+"/rest/v1/rpc/"+name,data=json.dumps({"p_limit":100}).encode(),headers=headers,method="POST")
     with urllib.request.urlopen(req,timeout=40) as response:
-        rows=json.load(response)
+        return json.load(response)
+
+# v3 adds the source of each context line (C3-11); v2 (place of the event for the map) stays the fallback,
+# so the feed keeps working before the migration and after its rollback.
+try:
+    try:
+        rows=rpc("export_synthesis_feed_v3")
+    except urllib.error.HTTPError as e:
+        print("Synthesis RPC v3 unavailable, HTTP status "+str(e.code)+"; using v2")
+        rows=rpc("export_synthesis_feed_v2")
 except urllib.error.HTTPError as e:
     sys.exit("Synthesis RPC request failed, HTTP status "+str(e.code)+"; no credentials logged")
 except Exception as e:
@@ -36,7 +45,8 @@ for x in rows:
     title=text(x.get("headline"),200); lead=text(x.get("what_happened"),4000)
     if not title or not lead or not isinstance(x.get("synthesis_id"),int):continue
     sources=[]
-    listed,line_sources=split_sources(x.get("sources"))
+    listed,by_line=split_sources(x.get("sources"))
+    by_line.update(line_sources(x.get("context_sources")))  # v21: the source of each context line
     for s in listed:
         link=s.get("url") if isinstance(s,dict) else None
         u=urllib.parse.urlparse(link) if isinstance(link,str) else None
@@ -53,9 +63,9 @@ for x in rows:
         if not value:continue
         section={"label":label,"lines":[l.strip() for l in value.split("\n") if l.strip()],"list":as_list}
         if field=="context":  # stage and date as the line supports them, the source of each line when known
-            kept=context_links(section["lines"],line_sources)
+            kept=context_links(section["lines"],by_line)
             section["lines"]=[clean_context_line(l) for l,_ in kept]
-            if line_sources:section["links"]=[link for _,link in kept]
+            if by_line:section["links"]=[link for _,link in kept]
         if section["lines"]:sections.append(section)
     label=text(x.get("label"),120) or "Prepared by machine. Check the sources."
     paragraphs=[lead]+[s["label"]+": "+" ".join(s["lines"]) for s in sections[1:]]+[label]
