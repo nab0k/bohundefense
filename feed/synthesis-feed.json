@@ -3,6 +3,240 @@
   "notice": "Syntheses prepared by machine from open sources and approved by the editor. Check the sources.",
   "items": [
     {
+      "id": "syn-602",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-08",
+      "title": "U.S. Air Force Trains F-35 Crews for Hot-Pit Refueling and Rearming",
+      "summary": "The 388th Maintenance Group and 75th Air Base Wing are practicing simultaneous refueling and rearming with F-35A engines running to enable rapid redeployment.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "The 388th Maintenance Group and 75th Air Base Wing are practicing simultaneous refueling and rearming with F-35A engines running to enable rapid redeployment."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "26 Oct 2001: Lockheed Martin selected as the prime contractor for the Joint Strike Fighter program following the X-35 concept demonstration phase.",
+            "15 Dec 2006: The first F-35 Lightning II conventional takeoff and landing (CTOL) variant successfully completed its maiden flight (Testing).",
+            "14 Jul 2011: The first operational F-35A was delivered to the United States Air Force at Eglin Air Force Base (Delivered).",
+            "7 Oct 2015: Alcoa secured a nine-year contract valued at approximately $1.1 billion to supply titanium plate, billet, and forged bulkheads for all variants of the F-35 program (Contract, USD 1.1 billion).",
+            "17 Jul 2019: Following Turkey's acquisition of the Russian S-400 air defense system, the U.S. formally removed Turkey from the F-35 partnership and initiated a supply chain transition.",
+            "Aug 2023: The F-35 Joint Program Office and Lockheed Martin agreed on terms for Lot 15-17 production contracts, establishing baseline pricing for up to 398 jets (Contract).",
+            "22 Oct 2026: Lockheed Martin and the Pentagon announced a 10-year framework agreement for 850 U.S. F-35 aircraft and sustainment integration (Agreement)."
+          ],
+          "list": true,
+          "links": [
+            "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement",
+            "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement",
+            "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement",
+            "https://www.marketforecast.com/industrynews/alcoa-wins-titanium-contract-with-lockheed-martin-for-f-35-joint-strike-fighter-13141",
+            "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement",
+            "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement",
+            "https://news.lockheedmartin.com/2026-10-22-New-Framework-Agreement-for-Multiyear-F-35-Production-and-Sustainment"
+          ]
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Lockheed Martin depends on Alcoa / RTI International Metals — supplier of structural titanium plate, billet, and heavy structural bulkheads.",
+            "U.S. Government: sanction on Turkey from 2019-07-17 (in_force)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense procurement and sustainment professionals should monitor how faster turnaround procedures impact maintenance planning and lifecycle support demands."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "The 388th Maintenance Group and 75th Air Base Wing are practicing simultaneous refueling and rearming with F-35A engines running to enable rapid redeployment.",
+        "Context: 26 Oct 2001: Lockheed Martin selected as the prime contractor for the Joint Strike Fighter program following the X-35 concept demonstration phase. 15 Dec 2006: The first F-35 Lightning II conventional takeoff and landing (CTOL) variant successfully completed its maiden flight (Testing). 14 Jul 2011: The first operational F-35A was delivered to the United States Air Force at Eglin Air Force Base (Delivered). 7 Oct 2015: Alcoa secured a nine-year contract valued at approximately $1.1 billion to supply titanium plate, billet, and forged bulkheads for all variants of the F-35 program (Contract, USD 1.1 billion). 17 Jul 2019: Following Turkey's acquisition of the Russian S-400 air defense system, the U.S. formally removed Turkey from the F-35 partnership and initiated a supply chain transition. Aug 2023: The F-35 Joint Program Office and Lockheed Martin agreed on terms for Lot 15-17 production contracts, establishing baseline pricing for up to 398 jets (Contract). 22 Oct 2026: Lockheed Martin and the Pentagon announced a 10-year framework agreement for 850 U.S. F-35 aircraft and sustainment integration (Agreement).",
+        "Down the supply chain: Lockheed Martin depends on Alcoa / RTI International Metals — supplier of structural titanium plate, billet, and heavy structural bulkheads. U.S. Government: sanction on Turkey from 2019-07-17 (in_force).",
+        "Why it matters: Defense procurement and sustainment professionals should monitor how faster turnaround procedures impact maintenance planning and lifecycle support demands.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/u-s-air-force-trains-crews-to-refuel-and-rearm-f-35a-fighters-simultaneously-with-engines-running/"
+        }
+      ],
+      "place": {
+        "label": "United States",
+        "lat": 38.8951,
+        "lon": -77.0364
+      }
+    },
+    {
+      "id": "syn-603",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-08",
+      "title": "GE T901 Engine Cleared for Qualification Flights",
+      "summary": "GE Aerospace received a Preliminary Flight Rating for the T901 engine from the U.S. Army, clearing it for formal qualification flights after over 2,900 hours of factory tests.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "GE Aerospace received a Preliminary Flight Rating for the T901 engine from the U.S. Army, clearing it for formal qualification flights after over 2,900 hours of factory tests."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "Sep 2016: The U.S. Army awarded GE Aviation a $102 million contract for the T901 preliminary design review (PDR) under ITEP (Contract, USD 102 million).",
+            "14 Sep 2020: The ITEP product office announced the completion of the Critical Design Review (CDR) for the T901 engine.",
+            "22 Mar 2022: GE Aerospace conducted the first \"light off\" and bench testing of the initial T901 engine to test at its Lynn, Massachusetts facility.",
+            "15 Oct 2023: GE Aerospace officially delivered and the U.S. Army accepted the first two T901 flight test engines at the Lynn facility (Delivered).",
+            "2025: GE Aerospace initiated ground and hover testing of the T901 integrated into a UH-60 Black Hawk test bed in Florida.",
+            "12 Mar 2025: GE Aerospace announced a broader manufacturing investment of over $200 million across U.S. plants (including Kentucky and Massachusetts) dedicated to T901 production lines (USD 200 million).",
+            "24 Jun 2026: The T901 engine achieved its Preliminary Flight Rating (PFR) from the U.S. Army, clearing formal qualification flight testing."
+          ],
+          "list": true,
+          "links": [
+            "https://en.wikipedia.org/wiki/General_Electric_T901",
+            "https://www.army.mil/article/238996/improved_turbine_engine_program_completes_latest_milestone_ahead_of_schedule",
+            "https://en.wikipedia.org/wiki/General_Electric_T901",
+            "https://verticalmag.com/press-releases/ge-aerospace-t901-engines-accepted-by-u-s-army-in-support-of-improved-turbine-engine-program/",
+            "https://theaviationist.com/2026/08/17/ge-t901-engine-preliminary-flight-rating/",
+            "https://avi-go.com/news/articles/263c619861e603a98c47e34067a5ed6a",
+            "https://www.dvidshub.net/news/572245/cleared-takeoff-t901s-historic-run-pfr"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following initial design review awards in 2016 and critical design review completion in 2020, the program progressed through bench testing in 2022, engine deliveries in 2023, and flight testing in 2025 toward achieving its preliminary flight rating in 2026, signaling readiness for scale manufacturing."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Turbine section depends on Ceramic Matrix Composites (CMCs) — High-temperature structural composite components utilized in the turbine section to reduce weight and increase thermal efficiency.",
+            "Engine's front frame depends on Additive Manufacturing (3D Printing) Feedstock — Specialty metal powders used to print single-piece structural parts like the engine's front frame, reducing component counts and joints.",
+            "Production plants in Lynn, Massachusetts and Madisonville, Kentucky depends on Advanced Machining Tooling — Specialized industrial equipment required for shaping high-temperature aerospace superalloys at scale in production plants located in Lynn, Massachusetts and Madisonville, Kentucky."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense procurement and supply chain professionals should monitor GE Aerospace's scaling efforts across its manufacturing plants as demand climbs up to 200 engines annually."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "GE Aerospace received a Preliminary Flight Rating for the T901 engine from the U.S. Army, clearing it for formal qualification flights after over 2,900 hours of factory tests.",
+        "Context: Sep 2016: The U.S. Army awarded GE Aviation a $102 million contract for the T901 preliminary design review (PDR) under ITEP (Contract, USD 102 million). 14 Sep 2020: The ITEP product office announced the completion of the Critical Design Review (CDR) for the T901 engine. 22 Mar 2022: GE Aerospace conducted the first \"light off\" and bench testing of the initial T901 engine to test at its Lynn, Massachusetts facility. 15 Oct 2023: GE Aerospace officially delivered and the U.S. Army accepted the first two T901 flight test engines at the Lynn facility (Delivered). 2025: GE Aerospace initiated ground and hover testing of the T901 integrated into a UH-60 Black Hawk test bed in Florida. 12 Mar 2025: GE Aerospace announced a broader manufacturing investment of over $200 million across U.S. plants (including Kentucky and Massachusetts) dedicated to T901 production lines (USD 200 million). 24 Jun 2026: The T901 engine achieved its Preliminary Flight Rating (PFR) from the U.S. Army, clearing formal qualification flight testing.",
+        "The bigger picture: Following initial design review awards in 2016 and critical design review completion in 2020, the program progressed through bench testing in 2022, engine deliveries in 2023, and flight testing in 2025 toward achieving its preliminary flight rating in 2026, signaling readiness for scale manufacturing.",
+        "Down the supply chain: Turbine section depends on Ceramic Matrix Composites (CMCs) — High-temperature structural composite components utilized in the turbine section to reduce weight and increase thermal efficiency. Engine's front frame depends on Additive Manufacturing (3D Printing) Feedstock — Specialty metal powders used to print single-piece structural parts like the engine's front frame, reducing component counts and joints. Production plants in Lynn, Massachusetts and Madisonville, Kentucky depends on Advanced Machining Tooling — Specialized industrial equipment required for shaping high-temperature aerospace superalloys at scale in production plants located in Lynn, Massachusetts and Madisonville, Kentucky.",
+        "Why it matters: Defense procurement and supply chain professionals should monitor GE Aerospace's scaling efforts across its manufacturing plants as demand climbs up to 200 engines annually.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "GE Aerospace’s T901 engine for U.S. Army Black Hawks and Apaches cleared for qualification flights",
+          "url": "https://defence-industry.eu/ge-aerospaces-t901-engine-for-u-s-army-black-hawks-and-apaches-cleared-for-qualification flights/"
+        },
+        {
+          "n": 2,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/ge-aerospaces-t901-engine-for-u-s-army-black-hawks-and-apaches-cleared-for-qualification-flights/"
+        }
+      ],
+      "place": {
+        "label": "United States",
+        "lat": 38.8951,
+        "lon": -77.0364
+      }
+    },
+    {
+      "id": "syn-605",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-08",
+      "title": "Zelensky directs government to establish free public transport and bus reserves for Kyiv",
+      "summary": "President Zelensky instructed the Prime Minister to present a program for free travel on Kyiv's surface public transport and to ensure an adequate reserve of buses following recent infrastructure strikes.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "President Zelensky instructed the Prime Minister to present a program for free travel on Kyiv's surface public transport and to ensure an adequate reserve of buses following recent infrastructure strikes."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "15 Jan 2025: Early 2025 proposals by government officials regarding nationwide transit support packages spark public debate over populist winter relief schemes.",
+            "27 Oct 2026: Ballistic missile strikes target critical transport nodes in Kyiv, highlighting vulnerabilities in cross-Dnipro transit links.",
+            "7 Nov 2026: Massive Russian missile barrage (involving 36 missiles) severely damages Kyiv’s North Bridge and disrupts electrical grid stability, forcing emergency rerouting and exposing a lack of localized contingency plans.",
+            "8 Nov 2026: President Zelensky formally instructs the Prime Minister, NSDC, and Ministry of Internal Affairs to formulate an official free surface public transport programme and establish a dedicated reserve bus fleet for Kyiv."
+          ],
+          "list": true,
+          "links": [
+            "https://kyivindependent.com/zelensky-tasks-pm-with-creating-free-transportation-program-in-kyiv-as-russias-bridge-attacks-hinder-travel/",
+            "https://kyivindependent.com/zelensky-tasks-pm-with-creating-free-transportation-program-in-kyiv-as-russias-bridge-attacks-hinder-travel/",
+            "https://kyivindependent.com/zelensky-tasks-pm-with-creating-free-transportation-program-in-kyiv-as-russias-bridge-attacks-hinder-travel/",
+            "https://www.ukrinform.net/rubric-ato/4182702-zelensky-instructs-government-to-introduce-free-public-transport-programme-in-kyiv.html"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following missile attacks that targeted critical transport nodes in October and severely damaged Kyiv's North Bridge in November 2026, authorities are shifting from ad-hoc crisis management to formalized contingency transit planning."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "International: export ban on Russian or Belarusian automotive components (in_force)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense industry supply chain and procurement professionals dealing with municipal vehicles should monitor upcoming tender requirements for reserve bus fleets in Kyiv."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "President Zelensky instructed the Prime Minister to present a program for free travel on Kyiv's surface public transport and to ensure an adequate reserve of buses following recent infrastructure strikes.",
+        "Context: 15 Jan 2025: Early 2025 proposals by government officials regarding nationwide transit support packages spark public debate over populist winter relief schemes. 27 Oct 2026: Ballistic missile strikes target critical transport nodes in Kyiv, highlighting vulnerabilities in cross-Dnipro transit links. 7 Nov 2026: Massive Russian missile barrage (involving 36 missiles) severely damages Kyiv’s North Bridge and disrupts electrical grid stability, forcing emergency rerouting and exposing a lack of localized contingency plans. 8 Nov 2026: President Zelensky formally instructs the Prime Minister, NSDC, and Ministry of Internal Affairs to formulate an official free surface public transport programme and establish a dedicated reserve bus fleet for Kyiv.",
+        "The bigger picture: Following missile attacks that targeted critical transport nodes in October and severely damaged Kyiv's North Bridge in November 2026, authorities are shifting from ad-hoc crisis management to formalized contingency transit planning.",
+        "Down the supply chain: International: export ban on Russian or Belarusian automotive components (in_force).",
+        "Why it matters: Defense industry supply chain and procurement professionals dealing with municipal vehicles should monitor upcoming tender requirements for reserve bus fleets in Kyiv.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Ukrinform",
+          "url": "https://www.ukrinform.net/rubric-ato/4182702-zelensky-instructs-government-to-introduce-free-public-transport-programme-in-kyiv.html"
+        }
+      ],
+      "place": {
+        "label": "Kyiv",
+        "lat": 50.4501,
+        "lon": 30.5234
+      }
+    },
+    {
       "id": "syn-578",
       "status": "approved",
       "kind": "Synthesis",
@@ -7965,239 +8199,6 @@
         "lat": 38.89,
         "lon": -77.03
       }
-    },
-    {
-      "id": "syn-516",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-06",
-      "title": "MSM North America joins $4.2B U.S. Army ammunition modernization program",
-      "summary": "CSG's subsidiary MSM North America was named a qualified multi-awardee under the $4.2 billion Army Ammunition Plants Modernization MATOC programme. The selection builds upon the company's prior award for the Future Artillery Complex at the Iowa Army Ammunition Plant in 2025.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "CSG's subsidiary MSM North America was named a qualified multi-awardee under the $4.2 billion Army Ammunition Plants Modernization MATOC programme. The selection builds upon the company's prior award for the Future Artillery Complex at the Iowa Army Ammunition Plant in 2025."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "Aug 2025: MSM North America awarded a framework agreement valued up to $635 million for the design, construction, and commissioning of the Future Artillery Complex (FAC) at the Iowa Army Ammunition Plant (Contract).",
-            "23 Jan 2026: Publication of the 2026 National Defense Strategy emphasizing the Supercharge the U.S. Defense Industrial Base pillar.",
-            "6 Nov 2026: CSG's MSM North America named as a qualified multi-awardee under the $4.2 billion Army Ammunition Plants Modernization MATOC programme."
-          ],
-          "list": true,
-          "links": [
-            "https://www.msm.sk/en/csg-secures-u-s-army-framework-contract-for-ammunition-plant-modernization/",
-            "https://www.msm.sk/en/csg-secures-u-s-army-framework-contract-for-ammunition-plant-modernization/",
-            "https://www.msm.sk/en/csg-secures-u-s-army-framework-contract-for-ammunition-plant-modernization/"
-          ]
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base.",
-            "US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress."
-          ],
-          "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following the 2025 contract award for the Future Artillery Complex and the 2026 National Defense Strategy emphasis on industrial base expansion, the inclusion of MSM North America in the $4.2 billion MATOC framework signals a sustained U.S. push to scale ammunition output through private-sector GOCO partnerships."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Radford Army Ammunition Plant and Holston Army Ammunition Plant depends on Energetic Materials & Propellants — Nitrocellulose, RDX, and propellant grains manufactured at Radford Army Ammunition Plant and Holston Army Ammunition Plant."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense contractors and supply chain partners should monitor upcoming task order competitions under the MATOC framework to position for facility upgrade and manufacturing technology bids."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "CSG's subsidiary MSM North America was named a qualified multi-awardee under the $4.2 billion Army Ammunition Plants Modernization MATOC programme. The selection builds upon the company's prior award for the Future Artillery Complex at the Iowa Army Ammunition Plant in 2025.",
-        "Context: Aug 2025: MSM North America awarded a framework agreement valued up to $635 million for the design, construction, and commissioning of the Future Artillery Complex (FAC) at the Iowa Army Ammunition Plant (Contract). 23 Jan 2026: Publication of the 2026 National Defense Strategy emphasizing the Supercharge the U.S. Defense Industrial Base pillar. 6 Nov 2026: CSG's MSM North America named as a qualified multi-awardee under the $4.2 billion Army Ammunition Plants Modernization MATOC programme.",
-        "Policy direction: US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base. US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress.",
-        "The bigger picture: Following the 2025 contract award for the Future Artillery Complex and the 2026 National Defense Strategy emphasis on industrial base expansion, the inclusion of MSM North America in the $4.2 billion MATOC framework signals a sustained U.S. push to scale ammunition output through private-sector GOCO partnerships.",
-        "Down the supply chain: Radford Army Ammunition Plant and Holston Army Ammunition Plant depends on Energetic Materials & Propellants — Nitrocellulose, RDX, and propellant grains manufactured at Radford Army Ammunition Plant and Holston Army Ammunition Plant.",
-        "Why it matters: Defense contractors and supply chain partners should monitor upcoming task order competitions under the MATOC framework to position for facility upgrade and manufacturing technology bids.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Msm.sk",
-          "url": "https://www.msm.sk/csg-ziskala-ramcovy-kontrakt-americkej-armady-na-modernizaciu-municnych-zavodov/"
-        }
-      ],
-      "place": {
-        "label": "Washington",
-        "lat": 38.89,
-        "lon": -77.03
-      }
-    },
-    {
-      "id": "syn-429",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-05",
-      "title": "Space Force Seeks End-Strength Growth for Combatant Command Components",
-      "summary": "Douglas Schiess announced plans to add 2,800 Guardians and 2,000 civilians in fiscal 2027 to expand Space Force combatant command components.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Douglas Schiess announced plans to add 2,800 Guardians and 2,000 civilians in fiscal 2027 to expand Space Force combatant command components."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "20 Dec 2019: United States Space Force established via the National Defense Authorization Act for Fiscal Year 2020, redesignating Air Force Space Command.",
-            "12 Feb 2025: Secretary of the Air Force publishes Space Force Instruction 84-105 governing provisional organizations and combat deltas for component field commands.",
-            "30 Jan 2026: Space Force activates its component for U.S. Northern Command (SPACEFOR-NORTH) to bolster homeland defense space architecture.",
-            "7 Oct 2026: Space Force officially activates its ninth component command, U.S. Space Forces - Special Operations Command (SPACEFOR-SOC)."
-          ],
-          "list": true,
-          "links": [
-            "https://www.spaceforce.com/history",
-            "https://www.airandspaceforces.com/space-force-activates-special-forces-command-component/",
-            "https://www.airandspaceforces.com/space-force-activates-northcom-component/",
-            "https://www.airandspaceforces.com/space-force-activates-northcom-component/"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Since the establishment of the United States Space Force, the service has activated component commands, signaling an ongoing expansion into joint and regional architectures."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "International Traffic in Arms Regulations (ITAR) and Export Administration Regulations (EAR): export licensing on defense-space hardware, cryptographic gear, and tactical electronic warfare components (in_force)."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense contractors specializing in electronic warfare and space hardware should monitor fiscal 2027 budget developments and anticipated capability procurements."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Douglas Schiess announced plans to add 2,800 Guardians and 2,000 civilians in fiscal 2027 to expand Space Force combatant command components.",
-        "Context: 20 Dec 2019: United States Space Force established via the National Defense Authorization Act for Fiscal Year 2020, redesignating Air Force Space Command. 12 Feb 2025: Secretary of the Air Force publishes Space Force Instruction 84-105 governing provisional organizations and combat deltas for component field commands. 30 Jan 2026: Space Force activates its component for U.S. Northern Command (SPACEFOR-NORTH) to bolster homeland defense space architecture. 7 Oct 2026: Space Force officially activates its ninth component command, U.S. Space Forces - Special Operations Command (SPACEFOR-SOC).",
-        "The bigger picture: Since the establishment of the United States Space Force, the service has activated component commands, signaling an ongoing expansion into joint and regional architectures.",
-        "Down the supply chain: International Traffic in Arms Regulations (ITAR) and Export Administration Regulations (EAR): export licensing on defense-space hardware, cryptographic gear, and tactical electronic warfare components (in_force).",
-        "Why it matters: Defense contractors specializing in electronic warfare and space hardware should monitor fiscal 2027 budget developments and anticipated capability procurements.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Space Force Chief Eyes Growth in Components to Meet Operational Demand",
-          "url": "https://www.airandspaceforces.com/space-force-chief-eyes-growth-in-components-to-meet-operational-demand/"
-        },
-        {
-          "n": 2,
-          "title": "Air & Space Forces Magazine",
-          "url": "https://www.airandspaceforces.com/space-force-chief-component-growth-operational-demand/"
-        }
-      ],
-      "place": null
-    },
-    {
-      "id": "syn-430",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-05",
-      "title": "RIAT to move from RAF Fairford to MOD Boscombe Down",
-      "summary": "Organizers announced on Nov. 4, 2026, that the Royal International Air Tattoo will move from RAF Fairford to MOD Boscombe Down starting July 2027 (N1, P1, T12) The relocation follows security concerns and the hasty evacuation of USAF B-1B bombers from RAF Fairford on Oct. 4, 2026, due to a suspected Iranian-backed security threat.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Organizers announced on Nov. 4, 2026, that the Royal International Air Tattoo will move from RAF Fairford to MOD Boscombe Down starting July 2027 (N1, P1, T12) The relocation follows security concerns and the hasty evacuation of USAF B-1B bombers from RAF Fairford on Oct. 4, 2026, due to a suspected Iranian-backed security threat."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "19 Sep 1971: First Air Tattoo staged at North Weald Airfield with over 100 aircraft.",
-            "19 Jul 2003: Sets Guinness World Record for the largest military airshow with 535 aircraft.",
-            "12 Jul 2008: Public air show cancelled last-minute due to severe waterlogging and heavy rainfall.",
-            "May 2020: 2020 and 2021 editions cancelled due to the COVID-19 pandemic.",
-            "14 Jul 2023: RIAT returns at full scale, hosting international military delegations and displays.",
-            "4 Oct 2026: USAF B-1B bombers hastily evacuate RAF Fairford following a suspected Iranian-backed security threat.",
-            "4 Nov 2026: Organizers officially announce the permanent relocation of RIAT to MOD Boscombe Down beginning in July 2027."
-          ],
-          "list": true,
-          "links": [
-            "https://en.wikipedia.org/wiki/Royal_International_Air_Tattoo",
-            "https://en.wikipedia.org/wiki/Royal_International_Air_Tattoo",
-            "https://www.raf-fairford.co.uk/air-tattoo/",
-            "https://www.raf-fairford.co.uk/air-tattoo/",
-            "https://www.europeanairshows.co.uk/news/raf-fairford-moved-to-new-base",
-            "https://www.airandspaceforces.com/riat-air-show-moves-away-raf-fairford/",
-            "https://www.airandspaceforces.com/riat-air-show-moves-away-raf-fairford/"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "After decades at RAF Fairford and a return to full scale in 2023, the event is shifting to a site focused on military testing and evaluation to ensure long-term growth Signal: permanent relocation."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Airshow Infrastructure & Logistics depends on QinetiQ — operates MOD Boscombe Down on behalf of the UK Ministry of Defence.",
-            "National Security Act 2023: sanction on perimeter security incidents and foreign intelligence surveillance investigations near RAF Fairford (in_force)."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense industry participants should note the shift in logistics and infrastructure requirements to MOD Boscombe Down, which is operated by QinetiQ on behalf of the UK Ministry of Defence (S1)."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Organizers announced on Nov. 4, 2026, that the Royal International Air Tattoo will move from RAF Fairford to MOD Boscombe Down starting July 2027 (N1, P1, T12) The relocation follows security concerns and the hasty evacuation of USAF B-1B bombers from RAF Fairford on Oct. 4, 2026, due to a suspected Iranian-backed security threat.",
-        "Context: 19 Sep 1971: First Air Tattoo staged at North Weald Airfield with over 100 aircraft. 19 Jul 2003: Sets Guinness World Record for the largest military airshow with 535 aircraft. 12 Jul 2008: Public air show cancelled last-minute due to severe waterlogging and heavy rainfall. May 2020: 2020 and 2021 editions cancelled due to the COVID-19 pandemic. 14 Jul 2023: RIAT returns at full scale, hosting international military delegations and displays. 4 Oct 2026: USAF B-1B bombers hastily evacuate RAF Fairford following a suspected Iranian-backed security threat. 4 Nov 2026: Organizers officially announce the permanent relocation of RIAT to MOD Boscombe Down beginning in July 2027.",
-        "The bigger picture: After decades at RAF Fairford and a return to full scale in 2023, the event is shifting to a site focused on military testing and evaluation to ensure long-term growth Signal: permanent relocation.",
-        "Down the supply chain: Airshow Infrastructure & Logistics depends on QinetiQ — operates MOD Boscombe Down on behalf of the UK Ministry of Defence. National Security Act 2023: sanction on perimeter security incidents and foreign intelligence surveillance investigations near RAF Fairford (in_force).",
-        "Why it matters: Defense industry participants should note the shift in logistics and infrastructure requirements to MOD Boscombe Down, which is operated by QinetiQ on behalf of the UK Ministry of Defence (S1).",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Air & Space Forces Magazine",
-          "url": "https://www.airandspaceforces.com/riat-air-show-moves-away-raf-fairford/"
-        }
-      ],
-      "place": null
     }
   ]
 }
