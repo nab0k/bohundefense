@@ -9,7 +9,7 @@ create role bohun_inquiry_worker nologin;
 grant usage on schema bohun_private to bohun_inquiry_intake, bohun_inquiry_worker;
 grant insert on bohun_private.business_inquiries to bohun_inquiry_intake;
 -- INSERT ... RETURNING id requires SELECT on id.
-grant select (id, idempotency_key) on bohun_private.business_inquiries to bohun_inquiry_intake;
+grant select (id, idempotency_key, payload_fingerprint) on bohun_private.business_inquiries to bohun_inquiry_intake;
 grant select (id,type,topic,name,organization,email,context_url,notification_attempts,
   notification_status,notification_next_attempt_at,notification_lease_until,
   notification_claim_token,created_at,notified_at) on bohun_private.business_inquiries
