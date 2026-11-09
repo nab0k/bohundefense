@@ -130,6 +130,12 @@ Deno.serve(async (req) => {
   );
   const identityHash = Array.from(new Uint8Array(digest))
     .map(v => v.toString(16).padStart(2, "0")).join("");
+  const fingerprintFields = [topic, name, organization, email, message, relationship, region,
+    source_url, context_type, context_id, context_url];
+  const fingerprintBytes = await crypto.subtle.digest("SHA-256",
+    new TextEncoder().encode(JSON.stringify(fingerprintFields)));
+  const fingerprint = Array.from(new Uint8Array(fingerprintBytes))
+    .map(v => v.toString(16).padStart(2, "0")).join("");
   const sql = postgres(env("INQUIRY_INTAKE_DATABASE_URL"), {
     max: 1, idle_timeout: 5, connect_timeout: 5, ssl: "require", prepare: false,
   });
@@ -142,16 +148,25 @@ Deno.serve(async (req) => {
     }
     const rows = await sql<{ id: string }[]>`
       insert into bohun_private.business_inquiries
-        (idempotency_key, type, topic, name, organization, email, message, relationship, region,
+        (idempotency_key, payload_fingerprint, type, topic, name, organization, email, message, relationship, region,
          source_url, context_type, context_id, context_url)
       values
-        (${submissionKey}::uuid, ${inquiryType}, ${topic}, ${name}, ${organization}, ${email}, ${message},
+        (${submissionKey}::uuid, ${fingerprint}, ${inquiryType}, ${topic}, ${name}, ${organization}, ${email}, ${message},
          ${relationship}, ${region}, ${source_url}, ${context_type},
          ${context_id}, ${context_url})
       on conflict (idempotency_key) do nothing
       returning id
     `;
-    if (!rows[0]?.id) return reply(200, { ok: true, duplicate: true, notification: "already_queued" }, origin);
+    if (!rows[0]?.id) {
+      const existing = await sql<{ payload_fingerprint: string }[]>`
+        select payload_fingerprint from bohun_private.business_inquiries
+        where idempotency_key = ${submissionKey}::uuid
+      `;
+      if (existing[0]?.payload_fingerprint !== fingerprint) {
+        return reply(409, { error: "Submission key already used for different content" }, origin);
+      }
+      return reply(200, { ok: true, duplicate: true, notification: "already_queued" }, origin);
+    }
     // Receipt confirms durable storage, not successful mail delivery.
     return reply(201, { ok: true, id: rows[0].id, notification: "queued" }, origin);
   } catch {
