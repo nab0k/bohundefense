@@ -88,14 +88,17 @@ Deno.serve(async (req) => {
     return reply(400, { error: "Invalid payload" }, origin);
   }
   const b = raw as Record<string, unknown>;
-  if (b.website) return reply(200, { ok: true }, origin);
-  const name = str(b.name, 120), organization = str(b.organization, 160);
+  if (b.website || b._gotcha) return reply(200, { ok: true }, origin);
+  const name = str(b.name, 120), organization = str(b.organisation, 160);
+  const topic = str(b.topic, 120);
+  const submissionKey = str(b.idempotency_key, 36);
+  const validKey = /^[0-9a-f]{8}-[0-9a-f]{4}-[1-8][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i.test(submissionKey);
   const email = str(b.email, 254), message = str(b.message, 4000);
-  const inquiryType = str(b.type, 30);
+  const inquiryType = "general";
   const relationship = str(b.relationship, 120), region = str(b.region, 120);
   const source_url = str(b.source_url, 500), context_type = str(b.context_type, 30);
   const context_id = str(b.context_id, 200), context_url = str(b.context_url, 800);
-  if (!["opportunity", "partner", "company"].includes(inquiryType) ||
+  if (!validKey || !topic || topic.length > 120 ||
       !name || !organization || !message ||
       name.length > 120 || organization.length > 160 || message.length > 4000 ||
       email.length > 254 || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email) ||
@@ -139,15 +142,16 @@ Deno.serve(async (req) => {
     }
     const rows = await sql<{ id: string }[]>`
       insert into bohun_private.business_inquiries
-        (type, name, organization, email, message, relationship, region,
+        (idempotency_key, type, topic, name, organization, email, message, relationship, region,
          source_url, context_type, context_id, context_url)
       values
-        (${inquiryType}, ${name}, ${organization}, ${email}, ${message},
+        (${submissionKey}::uuid, ${inquiryType}, ${topic}, ${name}, ${organization}, ${email}, ${message},
          ${relationship}, ${region}, ${source_url}, ${context_type},
          ${context_id}, ${context_url})
+      on conflict (idempotency_key) do nothing
       returning id
     `;
-    if (!rows[0]?.id) return reply(503, { error: "Could not confirm enquiry" }, origin);
+    if (!rows[0]?.id) return reply(200, { ok: true, duplicate: true, notification: "already_queued" }, origin);
     // Receipt confirms durable storage, not successful mail delivery.
     return reply(201, { ok: true, id: rows[0].id, notification: "queued" }, origin);
   } catch {
