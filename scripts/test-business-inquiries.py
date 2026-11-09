@@ -33,6 +33,12 @@ def run():
     assert 'INQUIRY_INTAKE_DATABASE_URL' in api
     assert 'TURNSTILE_SECRET_KEY' in api
     assert 'allow_inquiry_attempt' in api
+    for token in ("b.organisation", "b.topic", "b.idempotency_key",
+                  "on conflict (idempotency_key) do nothing", "b._gotcha"):
+        assert token in api, token
+    schema = (ROOT / "docs/business-inquiries-schema.sql").read_text()
+    assert "idempotency_key uuid not null unique" in schema
+    assert "topic text not null" in schema
     worker = (ROOT / "supabase/functions/inquiry-notifications/index.ts").read_text()
     for name in ("RESEND_API_KEY", "INQUIRY_WORKER_DATABASE_URL",
                  "NOTIFICATION_WORKER_TOKEN", "claim_inquiry_notifications",
@@ -40,6 +46,7 @@ def run():
         assert name in worker, name
     grants = (ROOT / "docs/business-inquiries-access-and-rate-limit.sql").read_text().lower()
     assert "security invoker" in grants
+    assert "grant select (id, idempotency_key)" in grants
     assert "grant select, update on bohun_private.business_inquiries" not in grants
     print("PASS PR37 Formspree contract preserved; PR35 backend files present.")
     print("NOTE Static checks only: not a staging integration or delivery test.")
