@@ -3,6 +3,505 @@
   "notice": "Syntheses prepared by machine from open sources and approved by the editor. Check the sources.",
   "items": [
     {
+      "id": "syn-722",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-10",
+      "title": "Ukraine and Poland form drone working groups in technology exchange deal",
+      "summary": "Ukraine and Poland will establish joint working groups to develop drone and counter-drone technologies The two nations are also finalizing the transfer of Polish MiG-29 fighter jets to Ukraine in exchange for access to Ukrainian unmanned systems technologies.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Ukraine and Poland will establish joint working groups to develop drone and counter-drone technologies The two nations are also finalizing the transfer of Polish MiG-29 fighter jets to Ukraine in exchange for access to Ukrainian unmanned systems technologies."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "29 Oct 2022: Ukraine executes the world's first major coordinated naval drone strike using uncrewed surface vessels against Russian warships in the Port of Sevastopol, damaging the flagship Admiral Makarov.",
+            "16 Aug 2024: HUR confirms cumulative strikes by Magura V5 units against 18 major Russian naval assets over an 18-month operational window.",
+            "3 May 2025: Ukrainian intelligence reports a world-first aerial interception where a modified sea drone successfully deployed an onboard heat-seeking missile to shoot down a Russian combat aircraft.",
+            "24 Jun 2025: Ukrainian naval forces use a Magura V5 drone carrying over 300kg of explosives to destroy a Russian landing ship near Kherson.",
+            "17 Mar 2026: Advanced maritime drone variants equipped with integrated electronic systems undergo simulated strike evaluations during multinational exercises.",
+            "18 Oct 2026: U.S. Army testing evaluations highlight Ukrainian-built uncrewed surface platforms (such as the UFORCE MV7) configured as launch platforms for aerial reconnaissance drones.",
+            "30 Oct 2026: Ukraine’s Ministry of Defence publishes its comprehensive 2026 tally of 1,039 Russian military boats destroyed or disabled."
+          ],
+          "list": true,
+          "links": [
+            "https://cmuplr.org/2025/10/07/a-history-and-analysis-of-ukrainian-naval-drones/",
+            "https://cmuplr.org/2025/10/07/a-history-and-analysis-of-ukrainian-naval-drones/",
+            "https://en.wikipedia.org/wiki/MAGURA_V5",
+            "https://cmuplr.org/2025/10/07/a-history-and-analysis-of-ukrainian-naval-drones/",
+            "https://en.wikipedia.org/wiki/MAGURA_V5",
+            "https://defence-blog.com/u-s-army-tests-ukrainian-uncrewed-surface-vessels-as-drone-carriers/",
+            "https://defence-industry.eu/ukraines-defence-ministry-says-drones-destroyed-or-disabled-1039-russian-military-boats/"
+          ]
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "EU — Preserving Peace – Defence Readiness Roadmap 2030 (2025-10-16): Milestones towards full EU defence readiness by 2030, with four flagships: European Drone Defence Initiative, Eastern Flank Watch, European Air Shield and European Space Shield.",
+            "PL — Narodowy Program Odstraszania i Obrony – Tarcza Wschód (2024-07-10): Deterrence infrastructure on the eastern border: fortifications, reconnaissance and drone and counter-drone systems as a layer of air defence."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "The establishment of joint working groups and the planned MiG‑29 transfer reflect growing cooperation in drone and counter‑drone capabilities between Ukraine and Poland."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "International: export licensing on High-bandwidth satellite communication modules, advanced thermal sensors, and high-performance microprocessors (in_force)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "These bilateral technology exchanges involve drone and counter‑drone development and a MiG‑29 transfer, which may be of interest to defence industry stakeholders."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Ukraine and Poland will establish joint working groups to develop drone and counter-drone technologies The two nations are also finalizing the transfer of Polish MiG-29 fighter jets to Ukraine in exchange for access to Ukrainian unmanned systems technologies.",
+        "Context: 29 Oct 2022: Ukraine executes the world's first major coordinated naval drone strike using uncrewed surface vessels against Russian warships in the Port of Sevastopol, damaging the flagship Admiral Makarov. 16 Aug 2024: HUR confirms cumulative strikes by Magura V5 units against 18 major Russian naval assets over an 18-month operational window. 3 May 2025: Ukrainian intelligence reports a world-first aerial interception where a modified sea drone successfully deployed an onboard heat-seeking missile to shoot down a Russian combat aircraft. 24 Jun 2025: Ukrainian naval forces use a Magura V5 drone carrying over 300kg of explosives to destroy a Russian landing ship near Kherson. 17 Mar 2026: Advanced maritime drone variants equipped with integrated electronic systems undergo simulated strike evaluations during multinational exercises. 18 Oct 2026: U.S. Army testing evaluations highlight Ukrainian-built uncrewed surface platforms (such as the UFORCE MV7) configured as launch platforms for aerial reconnaissance drones. 30 Oct 2026: Ukraine’s Ministry of Defence publishes its comprehensive 2026 tally of 1,039 Russian military boats destroyed or disabled.",
+        "Policy direction: EU — Preserving Peace – Defence Readiness Roadmap 2030 (2025-10-16): Milestones towards full EU defence readiness by 2030, with four flagships: European Drone Defence Initiative, Eastern Flank Watch, European Air Shield and European Space Shield. PL — Narodowy Program Odstraszania i Obrony – Tarcza Wschód (2024-07-10): Deterrence infrastructure on the eastern border: fortifications, reconnaissance and drone and counter-drone systems as a layer of air defence.",
+        "The bigger picture: The establishment of joint working groups and the planned MiG‑29 transfer reflect growing cooperation in drone and counter‑drone capabilities between Ukraine and Poland.",
+        "Down the supply chain: International: export licensing on High-bandwidth satellite communication modules, advanced thermal sensors, and high-performance microprocessors (in_force).",
+        "Why it matters: These bilateral technology exchanges involve drone and counter‑drone development and a MiG‑29 transfer, which may be of interest to defence industry stakeholders.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Ukrinform",
+          "url": "https://www.ukrinform.net/rubric-ato/4183535-ukraine-and-poland-to-establish-joint-working-groups-on-drone-and-counterdrone-technologies.html"
+        }
+      ],
+      "place": {
+        "label": "Kyiv",
+        "lat": 50.4501,
+        "lon": 30.5234
+      }
+    },
+    {
+      "id": "syn-723",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-10",
+      "title": "Diehl Defence opens new 155mm artillery shell body line in Germany",
+      "summary": "Diehl Defence officially opened a new 7,000 square metre production line in Röthenbach, Germany, for DiNa 155mm artillery shell bodies following an investment in the mid double-digit millions of euros. The project builds on the ARGE DiNa joint venture established by Diehl Defence and Nammo in 2019, with Diehl Metal Forgings manufacturing the shell bodies and Nammo providing design and technology e",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Diehl Defence officially opened a new 7,000 square metre production line in Röthenbach, Germany, for DiNa 155mm artillery shell bodies following an investment in the mid double-digit millions of euros. The project builds on the ARGE DiNa joint venture established by Diehl Defence and Nammo in 2019, with Diehl Metal Forgings manufacturing the shell bodies and Nammo providing design and technology expertise."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "2019: Diehl Defence and Nammo established the ARGE DiNa joint venture to serve the German market with DiNa 155mm artillery rounds.",
+            "Jun 2024: The project to convert a production hall at Röthenbach for DiNa shell body manufacturing began.",
+            "Oct 2026: Pilot production started on the new 7,000 square metre production line following an investment in the mid double-digit millions of euros.",
+            "10 Nov 2026: Diehl Defence officially opened the new production line for DiNa 155mm artillery shell bodies in Röthenbach, Germany."
+          ],
+          "list": true,
+          "links": [
+            "https://defence-industry.eu/diehl-defence-opens-new-production-line-in-germany-for-dina-155mm-artillery-shell-bodies/",
+            "https://defence-industry.eu/diehl-defence-opens-new-production-line-in-germany-for-dina-155mm-artillery-shell-bodies/",
+            "https://defence-industry.eu/diehl-defence-opens-new-production-line-in-germany-for-dina-155mm-artillery-shell-bodies/",
+            "https://defence-industry.eu/diehl-defence-opens-new-production-line-in-germany-for-dina-155mm-artillery-shell-bodies/"
+          ]
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "EU — White Paper for European Defence – Readiness 2030 and ReArm Europe Plan (2025-03-19): Close critical capability gaps in seven priority areas (including air and missile defence and artillery) and build a stronger European defence industrial base; ReArm Europe enables over €800 billion of defence spending."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following the establishment of the ARGE DiNa joint venture in January 2019 and the launch of the conversion project in June 2024, pilot production began in October 2026 and culminated in the opening of the new line in November 2026, aligning with EU objectives to close critical artillery gaps and strengthen the European defence industrial base."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "DiNa 155mm artillery shell bodies depends on forging presses and forming equipment — Shell bodies manufactured by Diehl Metal Forgings.",
+            "DiNa 155mm artillery shell bodies depends on DiNa round design, technology, and manufacturing expertise — supplied by Nammo."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Procurement and supply chain professionals in European defence should monitor this expansion as a benchmark for scaling domestic artillery manufacturing capacity through cross-border industrial partnerships."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Diehl Defence officially opened a new 7,000 square metre production line in Röthenbach, Germany, for DiNa 155mm artillery shell bodies following an investment in the mid double-digit millions of euros. The project builds on the ARGE DiNa joint venture established by Diehl Defence and Nammo in 2019, with Diehl Metal Forgings manufacturing the shell bodies and Nammo providing design and technology expertise.",
+        "Context: 2019: Diehl Defence and Nammo established the ARGE DiNa joint venture to serve the German market with DiNa 155mm artillery rounds. Jun 2024: The project to convert a production hall at Röthenbach for DiNa shell body manufacturing began. Oct 2026: Pilot production started on the new 7,000 square metre production line following an investment in the mid double-digit millions of euros. 10 Nov 2026: Diehl Defence officially opened the new production line for DiNa 155mm artillery shell bodies in Röthenbach, Germany.",
+        "Policy direction: EU — White Paper for European Defence – Readiness 2030 and ReArm Europe Plan (2025-03-19): Close critical capability gaps in seven priority areas (including air and missile defence and artillery) and build a stronger European defence industrial base; ReArm Europe enables over €800 billion of defence spending.",
+        "The bigger picture: Following the establishment of the ARGE DiNa joint venture in January 2019 and the launch of the conversion project in June 2024, pilot production began in October 2026 and culminated in the opening of the new line in November 2026, aligning with EU objectives to close critical artillery gaps and strengthen the European defence industrial base.",
+        "Down the supply chain: DiNa 155mm artillery shell bodies depends on forging presses and forming equipment — Shell bodies manufactured by Diehl Metal Forgings. DiNa 155mm artillery shell bodies depends on DiNa round design, technology, and manufacturing expertise — supplied by Nammo.",
+        "Why it matters: Procurement and supply chain professionals in European defence should monitor this expansion as a benchmark for scaling domestic artillery manufacturing capacity through cross-border industrial partnerships.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Diehl Defence opens new production line in Germany for DiNa 155mm artillery shell bodies",
+          "url": "https://defence-industry.eu/diehl-defence-opens-new-production-line-in-germany-for-dina-155mm-artillery-shell-bodies/"
+        }
+      ],
+      "place": {
+        "label": "Germany",
+        "lat": 51.1657,
+        "lon": 10.4515
+      }
+    },
+    {
+      "id": "syn-724",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-10",
+      "title": "BlackSky Secures Seven-Figure MoD Assured Contract for Gen-3 Tasking",
+      "summary": "BlackSky Technology secured a seven-figure Assured subscription contract with an unidentified international ministry of defence for priority Gen-3 tasking and Spectra AI analytics.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "BlackSky Technology secured a seven-figure Assured subscription contract with an unidentified international ministry of defence for priority Gen-3 tasking and Spectra AI analytics."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "7 Sep 2021: BlackSky went public via a merger with Osprey Technology Acquisition Corp., trading on the NYSE under the ticker BKSY.",
+            "19 Feb 2025: Rocket Lab successfully launched the first BlackSky Gen-3 Earth imaging satellite on an Electron rocket from Mahia, New Zealand.",
+            "4 Nov 2025: BlackSky announced more than $30 million in multi-year contract wins for its constellation capabilities (Contract).",
+            "25 Nov 2025: BlackSky launched and rapidly commissioned its third Gen-3 satellite to expand constellation capacity (Delivered).",
+            "12 Aug 2026: BlackSky secured a multi-year international defense contract expansion integrating Gen-2 and Gen-3 satellite intelligence (Contract).",
+            "14 Sep 2026: BlackSky announced its fifth Gen-3 satellite achieved \"first light\" imagery within 20 hours of launch, expanding tactical revisit capacity.",
+            "10 Nov 2026: BlackSky announced a seven-figure \"Assured\" subscription contract with a new unidentified international ministry of defense for priority Gen-3 tasking and Spectra AI analytics (Contract)."
+          ],
+          "list": true,
+          "links": [
+            "https://www.eoportal.org/satellite-missions/blacksky-constellation",
+            "https://aiaa.org/about-aiaa/history-heritage/aerospace-history-timeline/",
+            "https://blacksky.com/gen-3/",
+            "https://blacksky.com/gen-3/",
+            "https://satnews.com/2026/08/12/blacksky-awarded-multi-year-international-defense-contract-combining-gen-2-and-gen-3-satellite-intelligence/",
+            "https://blacksky.com/press-releases/blackskys-fifth-gen-3-attains-first-light-in-hours-expanding-constellation-capacity-and-decision-making-speed-for-customers/",
+            "https://www.stocktitan.net/news/BKSY/black-sky-to-participate-at-three-upcoming-investor-45wbrjdosz7x.html"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following multi-year contract expansions in August 2026 and fifth Gen-3 satellite deployment in September 2026, BlackSky's recent November 2026 MoD subscription highlights accelerating global adoption of rapid tactical ISR capabilities."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Spacecraft Bus & Structural Components depends on BlackSky Technology — In-house designed and manufactured structures (Sole source / Vertically integrated).",
+            "Optical Imager Payloads (35 cm Gen-3) depends on Very high-resolution optical telescope assemblies and focal plane arrays — Optical Imager Payloads (35 cm Gen-3).",
+            "Short-Wave Infrared (SWIR) Sensors depends on Specialized detectors for low-light and tactical camouflage-penetration imaging — Short-Wave Infrared (SWIR) Sensors.",
+            "Department of Commerce (Bureau of Industry and Security): export licensing on Commercial satellite imagery exports and high-resolution sensor payloads (in_force)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense procurement officers should monitor BlackSky's expanding constellation capacity to benchmark commercial high-resolution imagery and AI-enabled analytics for time-sensitive missions."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "BlackSky Technology secured a seven-figure Assured subscription contract with an unidentified international ministry of defence for priority Gen-3 tasking and Spectra AI analytics.",
+        "Context: 7 Sep 2021: BlackSky went public via a merger with Osprey Technology Acquisition Corp., trading on the NYSE under the ticker BKSY. 19 Feb 2025: Rocket Lab successfully launched the first BlackSky Gen-3 Earth imaging satellite on an Electron rocket from Mahia, New Zealand. 4 Nov 2025: BlackSky announced more than $30 million in multi-year contract wins for its constellation capabilities (Contract). 25 Nov 2025: BlackSky launched and rapidly commissioned its third Gen-3 satellite to expand constellation capacity (Delivered). 12 Aug 2026: BlackSky secured a multi-year international defense contract expansion integrating Gen-2 and Gen-3 satellite intelligence (Contract). 14 Sep 2026: BlackSky announced its fifth Gen-3 satellite achieved \"first light\" imagery within 20 hours of launch, expanding tactical revisit capacity. 10 Nov 2026: BlackSky announced a seven-figure \"Assured\" subscription contract with a new unidentified international ministry of defense for priority Gen-3 tasking and Spectra AI analytics (Contract).",
+        "The bigger picture: Following multi-year contract expansions in August 2026 and fifth Gen-3 satellite deployment in September 2026, BlackSky's recent November 2026 MoD subscription highlights accelerating global adoption of rapid tactical ISR capabilities.",
+        "Down the supply chain: Spacecraft Bus & Structural Components depends on BlackSky Technology — In-house designed and manufactured structures (Sole source / Vertically integrated). Optical Imager Payloads (35 cm Gen-3) depends on Very high-resolution optical telescope assemblies and focal plane arrays — Optical Imager Payloads (35 cm Gen-3). Short-Wave Infrared (SWIR) Sensors depends on Specialized detectors for low-light and tactical camouflage-penetration imaging — Short-Wave Infrared (SWIR) Sensors. Department of Commerce (Bureau of Industry and Security): export licensing on Commercial satellite imagery exports and high-resolution sensor payloads (in_force).",
+        "Why it matters: Defense procurement officers should monitor BlackSky's expanding constellation capacity to benchmark commercial high-resolution imagery and AI-enabled analytics for time-sensitive missions.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "APDR",
+          "url": "https://asiapacificdefencereporter.com/blacksky-technology-wins-major-deal-with-unidentified-mod/"
+        }
+      ],
+      "place": {
+        "label": "Herndon",
+        "lat": 38.9696,
+        "lon": -77.3833
+      }
+    },
+    {
+      "id": "syn-725",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-10",
+      "title": "Congress Weighs Defense Budget Cuts as $1.5 Trillion Plan Fades",
+      "summary": "As the December 11 funding deadline approaches, consensus grows that the White House's $1.5 trillion defense plan is dead, prompting analysts to game out alternative budgets ranging from $1 trillion to $1.25 trillion.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "As the December 11 funding deadline approaches, consensus grows that the White House's $1.5 trillion defense plan is dead, prompting analysts to game out alternative budgets ranging from $1 trillion to $1.25 trillion."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "23 Jan 2026: Publication of the 2026 National Defense Strategy setting defense priorities.",
+            "6 Nov 2026: AEI publishes \"FY 2027 Defense Budget End Game\" detailing cuts across $1 trillion, $1.1 trillion, and $1.25 trillion toplines.",
+            "10 Nov 2026: Defense Secretary Pete Hegseth stresses the critical nature of the lame-duck period for department funding as consensus grows that the $1.5 trillion plan is dead."
+          ],
+          "list": true,
+          "links": [
+            "https://www.airandspaceforces.com/congress-pentagons-defense-budget-drills-think-tanks/",
+            "https://www.airandspaceforces.com/congress-pentagons-defense-budget-drills-think-tanks/",
+            "https://www.airandspaceforces.com/congress-pentagons-defense-budget-drills-think-tanks/"
+          ]
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base.",
+            "US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "While the 2026 National Defense Strategy initially prioritized major modernization and industrial base expansion, subsequent budget end-game analyses and Defense Secretary Pete Hegseth's warnings in late 2026 highlight imminent fiscal constraints and forced capability tradeoffs."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "ITAR and EAR: export licensing on defense articles and dual-use microelectronics components across prime munitions and aircraft supply chains (in_force)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense contractors and supply chain partners should prepare for potential reductions or delays in major aircraft and missile programs and adjust long-term production planning accordingly."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "As the December 11 funding deadline approaches, consensus grows that the White House's $1.5 trillion defense plan is dead, prompting analysts to game out alternative budgets ranging from $1 trillion to $1.25 trillion.",
+        "Context: 23 Jan 2026: Publication of the 2026 National Defense Strategy setting defense priorities. 6 Nov 2026: AEI publishes \"FY 2027 Defense Budget End Game\" detailing cuts across $1 trillion, $1.1 trillion, and $1.25 trillion toplines. 10 Nov 2026: Defense Secretary Pete Hegseth stresses the critical nature of the lame-duck period for department funding as consensus grows that the $1.5 trillion plan is dead.",
+        "Policy direction: US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base. US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress.",
+        "The bigger picture: While the 2026 National Defense Strategy initially prioritized major modernization and industrial base expansion, subsequent budget end-game analyses and Defense Secretary Pete Hegseth's warnings in late 2026 highlight imminent fiscal constraints and forced capability tradeoffs.",
+        "Down the supply chain: ITAR and EAR: export licensing on defense articles and dual-use microelectronics components across prime munitions and aircraft supply chains (in_force).",
+        "Why it matters: Defense contractors and supply chain partners should prepare for potential reductions or delays in major aircraft and missile programs and adjust long-term production planning accordingly.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Air & Space Forces Magazine",
+          "url": "https://www.airandspaceforces.com/congress-pentagons-defense-budget-drills-think-tanks/"
+        }
+      ],
+      "place": {
+        "label": "Washington, D.C.",
+        "lat": 38.8951,
+        "lon": -77.0364
+      }
+    },
+    {
+      "id": "syn-726",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-10",
+      "title": "House Republicans Delay Hegseth Impeachment Vote",
+      "summary": "House Republicans voted 211 to 204 to send Rep Thomas Massie’s proposed impeachment resolution against Defense Secretary Pete Hegseth to the Judiciary Committee. The procedural move effectively delays any potential floor vote on the matter until January.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "House Republicans voted 211 to 204 to send Rep Thomas Massie’s proposed impeachment resolution against Defense Secretary Pete Hegseth to the Judiciary Committee. The procedural move effectively delays any potential floor vote on the matter until January."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "Feb 2026: U.S. forces initiate military operations against Iran without explicit congressional authorization, later designated by critics as Operation Epic Fury.",
+            "Oct 2026: A survey by the advocacy group Common Defense reveals active-duty and family dissatisfaction with the perceived politicization of the armed forces under current leadership.",
+            "10 Nov 2026: House Republicans successfully maneuver to send Rep. Thomas Massie’s impeachment resolution to the Judiciary Committee, delaying any potential floor vote until the new congressional term."
+          ],
+          "list": true,
+          "links": [
+            "https://www.militarytimes.com/news/pentagon-congress/2026/11/10/house-republicans-sidestep-effort-to-impeach-hegseth/",
+            "https://www.militarytimes.com/news/pentagon-congress/2026/11/10/house-republicans-sidestep-effort-to-impeach-hegseth/",
+            "https://www.militarytimes.com/news/pentagon-congress/2026/11/10/house-republicans-sidestep-effort-to-impeach-hegseth/"
+          ]
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base.",
+            "US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following military actions against Iran in February 2026 and growing service member dissatisfaction revealed in October 2026, legislative maneuvers in November 2026 have postponed leadership accountability battles, signaling ongoing friction between executive military strategy and congressional oversight."
+          ],
+          "list": false
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense contractors and procurement professionals should monitor shifting congressional oversight and committee control for potential impacts on long-term defense acquisition policy."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "House Republicans voted 211 to 204 to send Rep Thomas Massie’s proposed impeachment resolution against Defense Secretary Pete Hegseth to the Judiciary Committee. The procedural move effectively delays any potential floor vote on the matter until January.",
+        "Context: Feb 2026: U.S. forces initiate military operations against Iran without explicit congressional authorization, later designated by critics as Operation Epic Fury. Oct 2026: A survey by the advocacy group Common Defense reveals active-duty and family dissatisfaction with the perceived politicization of the armed forces under current leadership. 10 Nov 2026: House Republicans successfully maneuver to send Rep. Thomas Massie’s impeachment resolution to the Judiciary Committee, delaying any potential floor vote until the new congressional term.",
+        "Policy direction: US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base. US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress.",
+        "The bigger picture: Following military actions against Iran in February 2026 and growing service member dissatisfaction revealed in October 2026, legislative maneuvers in November 2026 have postponed leadership accountability battles, signaling ongoing friction between executive military strategy and congressional oversight.",
+        "Why it matters: Defense contractors and procurement professionals should monitor shifting congressional oversight and committee control for potential impacts on long-term defense acquisition policy.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defense News",
+          "url": "https://www.defensenews.com/congress/2026/11/10/house-republicans-sidestep-effort-to-impeach-hegseth/"
+        }
+      ],
+      "place": {
+        "label": "Washington, D.C.",
+        "lat": 38.8951,
+        "lon": -77.0364
+      }
+    },
+    {
+      "id": "syn-727",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-10",
+      "title": "US Army targets 2029 for palletized M-SHORAD Increment 4 deployment",
+      "summary": "The U.S. Army intends to reach the First Unit Equipped milestone for M-SHORAD Increment 4 in the first quarter of Fiscal Year 2030, targeting deployment by the end of 2029.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "The U.S. Army intends to reach the First Unit Equipped milestone for M-SHORAD Increment 4 in the first quarter of Fiscal Year 2030, targeting deployment by the end of 2029."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "Sep 2020: General Dynamics Land Systems is awarded a contract modification for M-SHORAD Increment 1 prototyping and integration on Stryker vehicles (Contract).",
+            "May 2021: The U.S. Army begins fielding M-SHORAD Increment 1 (Sgt. Stout) utilizing Stryker platforms and Moog RIwP turrets.",
+            "8 May 2024: The U.S. Army issues a Request for Information (RFI) for M-SHORAD Increment 4 to protect light and dismounted maneuver forces.",
+            "27 Jul 2025: U.S. and U.K. forces evaluate counter-drone technologies under Project Flytrap to feed light air-defense requirements.",
+            "26 Mar 2026: The U.S. Army refines its M-SHORAD Increment 4 specifications around a Self-Loading Equipment Dock (SLED) or vehicle-agnostic pallet format.",
+            "8 Oct 2026: The U.S. Army schedules an Industry Day for M-SHORAD Increment 4 in Huntsville, Alabama, for late October.",
+            "27 Oct 2026: General Dynamics Land Systems and MSI Defense Solutions demonstrate a proposed M-SHORAD Increment 4 system on a Ford Ranger at AUSA 2026 (Plan)."
+          ],
+          "list": true,
+          "links": [
+            "https://www.highergov.com/contract-opportunity/industry-day-maneuver-short-range-air-defense-inc-w31p4q-27-rfi-0001-s-0c219/",
+            "https://www.moog.com/news/blog/sdg/lightweight-riwp-army-mshorad-increment-4.html",
+            "https://www.twz.com/land/army-wants-new-palletized-short-range-air-defenses-in-service-by-the-end-of-2029",
+            "https://www.twz.com/land/army-wants-new-palletized-short-range-air-defenses-in-service-by-the-end-of-2029",
+            "https://www.defensenews.com/land/2026/03/26/us-army-seeks-sled-mounted-air-defense-for-light-infantry/",
+            "https://www.highergov.com/contract-opportunity/industry-day-maneuver-short-range-air-defense-inc-w31p4q-27-rfi-0001-s-0c219/",
+            "https://www.armyrecognition.com/news/army-news/2026/u-s-army-requirement-prompts-general-dynamics-to-develop-new-short-range-air-defense-system"
+          ]
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "NATO — The Hague Summit Declaration (2025-06-25): Allies commit to 5% of GDP a year by 2035: at least 3.5% on core defence requirements and up to 1.5% on broader security spending, including the defence industrial base."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "The M-SHORAD program is evolving from Stryker-based Increment 1 systems toward vehicle-agnostic, palletized Increment 4 solutions designed for light tactical vehicles and uncrewed platforms The program includes modular mounting decks, compact radar sensors, and integration with light tactical vehicles."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Palletized Frame / Self-Loading Equipment Dock (SLED) depends on MSI Defense Solutions — modular mounting deck provider.",
+            "Radar Sensors depends on Echodyne — compact radar architectures for short-range detection.",
+            "Host Light Tactical Vehicles depends on GM Defense — Infantry Squad Vehicle / Infantry Utility Vehicle."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "The program involves modular mounting decks provided by MSI Defense Solutions, compact radar sensors from Echodyne, and light tactical vehicles from GM Defense."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "The U.S. Army intends to reach the First Unit Equipped milestone for M-SHORAD Increment 4 in the first quarter of Fiscal Year 2030, targeting deployment by the end of 2029.",
+        "Context: Sep 2020: General Dynamics Land Systems is awarded a contract modification for M-SHORAD Increment 1 prototyping and integration on Stryker vehicles (Contract). May 2021: The U.S. Army begins fielding M-SHORAD Increment 1 (Sgt. Stout) utilizing Stryker platforms and Moog RIwP turrets. 8 May 2024: The U.S. Army issues a Request for Information (RFI) for M-SHORAD Increment 4 to protect light and dismounted maneuver forces. 27 Jul 2025: U.S. and U.K. forces evaluate counter-drone technologies under Project Flytrap to feed light air-defense requirements. 26 Mar 2026: The U.S. Army refines its M-SHORAD Increment 4 specifications around a Self-Loading Equipment Dock (SLED) or vehicle-agnostic pallet format. 8 Oct 2026: The U.S. Army schedules an Industry Day for M-SHORAD Increment 4 in Huntsville, Alabama, for late October. 27 Oct 2026: General Dynamics Land Systems and MSI Defense Solutions demonstrate a proposed M-SHORAD Increment 4 system on a Ford Ranger at AUSA 2026 (Plan).",
+        "Policy direction: NATO — The Hague Summit Declaration (2025-06-25): Allies commit to 5% of GDP a year by 2035: at least 3.5% on core defence requirements and up to 1.5% on broader security spending, including the defence industrial base.",
+        "The bigger picture: The M-SHORAD program is evolving from Stryker-based Increment 1 systems toward vehicle-agnostic, palletized Increment 4 solutions designed for light tactical vehicles and uncrewed platforms The program includes modular mounting decks, compact radar sensors, and integration with light tactical vehicles.",
+        "Down the supply chain: Palletized Frame / Self-Loading Equipment Dock (SLED) depends on MSI Defense Solutions — modular mounting deck provider. Radar Sensors depends on Echodyne — compact radar architectures for short-range detection. Host Light Tactical Vehicles depends on GM Defense — Infantry Squad Vehicle / Infantry Utility Vehicle.",
+        "Why it matters: The program involves modular mounting decks provided by MSI Defense Solutions, compact radar sensors from Echodyne, and light tactical vehicles from GM Defense.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "The War Zone",
+          "url": "https://www.twz.com/land/army-wants-new-palletized-short-range-air-defenses-in-service-by-the-end-of-2029"
+        }
+      ],
+      "place": {
+        "label": "Washington, D.C.",
+        "lat": 38.8951,
+        "lon": -77.0364
+      }
+    },
+    {
       "id": "syn-679",
       "status": "approved",
       "kind": "Synthesis",
@@ -7641,510 +8140,6 @@
         "label": "United States",
         "lat": 38.8951,
         "lon": -77.0364
-      }
-    },
-    {
-      "id": "syn-603",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-08",
-      "title": "GE T901 Engine Cleared for Qualification Flights",
-      "summary": "GE Aerospace received a Preliminary Flight Rating for the T901 engine from the U.S. Army, clearing it for formal qualification flights after over 2,900 hours of factory tests.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "GE Aerospace received a Preliminary Flight Rating for the T901 engine from the U.S. Army, clearing it for formal qualification flights after over 2,900 hours of factory tests."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "Sep 2016: The U.S. Army awarded GE Aviation a $102 million contract for the T901 preliminary design review (PDR) under ITEP (Contract, USD 102 million).",
-            "14 Sep 2020: The ITEP product office announced the completion of the Critical Design Review (CDR) for the T901 engine.",
-            "22 Mar 2022: GE Aerospace conducted the first \"light off\" and bench testing of the initial T901 engine to test at its Lynn, Massachusetts facility.",
-            "15 Oct 2023: GE Aerospace officially delivered and the U.S. Army accepted the first two T901 flight test engines at the Lynn facility (Delivered).",
-            "2025: GE Aerospace initiated ground and hover testing of the T901 integrated into a UH-60 Black Hawk test bed in Florida.",
-            "12 Mar 2025: GE Aerospace announced a broader manufacturing investment of over $200 million across U.S. plants (including Kentucky and Massachusetts) dedicated to T901 production lines (USD 200 million).",
-            "24 Jun 2026: The T901 engine achieved its Preliminary Flight Rating (PFR) from the U.S. Army, clearing formal qualification flight testing."
-          ],
-          "list": true,
-          "links": [
-            "https://en.wikipedia.org/wiki/General_Electric_T901",
-            "https://www.army.mil/article/238996/improved_turbine_engine_program_completes_latest_milestone_ahead_of_schedule",
-            "https://en.wikipedia.org/wiki/General_Electric_T901",
-            "https://verticalmag.com/press-releases/ge-aerospace-t901-engines-accepted-by-u-s-army-in-support-of-improved-turbine-engine-program/",
-            "https://theaviationist.com/2026/08/17/ge-t901-engine-preliminary-flight-rating/",
-            "https://avi-go.com/news/articles/263c619861e603a98c47e34067a5ed6a",
-            "https://www.dvidshub.net/news/572245/cleared-takeoff-t901s-historic-run-pfr"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following initial design review awards in 2016 and critical design review completion in 2020, the program progressed through bench testing in 2022, engine deliveries in 2023, and flight testing in 2025 toward achieving its preliminary flight rating in 2026, signaling readiness for scale manufacturing."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Turbine section depends on Ceramic Matrix Composites (CMCs) — High-temperature structural composite components utilized in the turbine section to reduce weight and increase thermal efficiency.",
-            "Engine's front frame depends on Additive Manufacturing (3D Printing) Feedstock — Specialty metal powders used to print single-piece structural parts like the engine's front frame, reducing component counts and joints.",
-            "Production plants in Lynn, Massachusetts and Madisonville, Kentucky depends on Advanced Machining Tooling — Specialized industrial equipment required for shaping high-temperature aerospace superalloys at scale in production plants located in Lynn, Massachusetts and Madisonville, Kentucky."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense procurement and supply chain professionals should monitor GE Aerospace's scaling efforts across its manufacturing plants as demand climbs up to 200 engines annually."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "GE Aerospace received a Preliminary Flight Rating for the T901 engine from the U.S. Army, clearing it for formal qualification flights after over 2,900 hours of factory tests.",
-        "Context: Sep 2016: The U.S. Army awarded GE Aviation a $102 million contract for the T901 preliminary design review (PDR) under ITEP (Contract, USD 102 million). 14 Sep 2020: The ITEP product office announced the completion of the Critical Design Review (CDR) for the T901 engine. 22 Mar 2022: GE Aerospace conducted the first \"light off\" and bench testing of the initial T901 engine to test at its Lynn, Massachusetts facility. 15 Oct 2023: GE Aerospace officially delivered and the U.S. Army accepted the first two T901 flight test engines at the Lynn facility (Delivered). 2025: GE Aerospace initiated ground and hover testing of the T901 integrated into a UH-60 Black Hawk test bed in Florida. 12 Mar 2025: GE Aerospace announced a broader manufacturing investment of over $200 million across U.S. plants (including Kentucky and Massachusetts) dedicated to T901 production lines (USD 200 million). 24 Jun 2026: The T901 engine achieved its Preliminary Flight Rating (PFR) from the U.S. Army, clearing formal qualification flight testing.",
-        "The bigger picture: Following initial design review awards in 2016 and critical design review completion in 2020, the program progressed through bench testing in 2022, engine deliveries in 2023, and flight testing in 2025 toward achieving its preliminary flight rating in 2026, signaling readiness for scale manufacturing.",
-        "Down the supply chain: Turbine section depends on Ceramic Matrix Composites (CMCs) — High-temperature structural composite components utilized in the turbine section to reduce weight and increase thermal efficiency. Engine's front frame depends on Additive Manufacturing (3D Printing) Feedstock — Specialty metal powders used to print single-piece structural parts like the engine's front frame, reducing component counts and joints. Production plants in Lynn, Massachusetts and Madisonville, Kentucky depends on Advanced Machining Tooling — Specialized industrial equipment required for shaping high-temperature aerospace superalloys at scale in production plants located in Lynn, Massachusetts and Madisonville, Kentucky.",
-        "Why it matters: Defense procurement and supply chain professionals should monitor GE Aerospace's scaling efforts across its manufacturing plants as demand climbs up to 200 engines annually.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "GE Aerospace’s T901 engine for U.S. Army Black Hawks and Apaches cleared for qualification flights",
-          "url": "https://defence-industry.eu/ge-aerospaces-t901-engine-for-u-s-army-black-hawks-and-apaches-cleared-for-qualification flights/"
-        },
-        {
-          "n": 2,
-          "title": "Defence Industry Europe",
-          "url": "https://defence-industry.eu/ge-aerospaces-t901-engine-for-u-s-army-black-hawks-and-apaches-cleared-for-qualification-flights/"
-        }
-      ],
-      "place": {
-        "label": "United States",
-        "lat": 38.8951,
-        "lon": -77.0364
-      }
-    },
-    {
-      "id": "syn-605",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-08",
-      "title": "Zelensky directs government to establish free public transport and bus reserves for Kyiv",
-      "summary": "President Zelensky instructed the Prime Minister to present a program for free travel on Kyiv's surface public transport and to ensure an adequate reserve of buses following recent infrastructure strikes.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "President Zelensky instructed the Prime Minister to present a program for free travel on Kyiv's surface public transport and to ensure an adequate reserve of buses following recent infrastructure strikes."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "15 Jan 2025: Early 2025 proposals by government officials regarding nationwide transit support packages spark public debate over populist winter relief schemes.",
-            "27 Oct 2026: Ballistic missile strikes target critical transport nodes in Kyiv, highlighting vulnerabilities in cross-Dnipro transit links.",
-            "7 Nov 2026: Massive Russian missile barrage (involving 36 missiles) severely damages Kyiv’s North Bridge and disrupts electrical grid stability, forcing emergency rerouting and exposing a lack of localized contingency plans.",
-            "8 Nov 2026: President Zelensky formally instructs the Prime Minister, NSDC, and Ministry of Internal Affairs to formulate an official free surface public transport programme and establish a dedicated reserve bus fleet for Kyiv."
-          ],
-          "list": true,
-          "links": [
-            "https://kyivindependent.com/zelensky-tasks-pm-with-creating-free-transportation-program-in-kyiv-as-russias-bridge-attacks-hinder-travel/",
-            "https://kyivindependent.com/zelensky-tasks-pm-with-creating-free-transportation-program-in-kyiv-as-russias-bridge-attacks-hinder-travel/",
-            "https://kyivindependent.com/zelensky-tasks-pm-with-creating-free-transportation-program-in-kyiv-as-russias-bridge-attacks-hinder-travel/",
-            "https://www.ukrinform.net/rubric-ato/4182702-zelensky-instructs-government-to-introduce-free-public-transport-programme-in-kyiv.html"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following missile attacks that targeted critical transport nodes in October and severely damaged Kyiv's North Bridge in November 2026, authorities are shifting from ad-hoc crisis management to formalized contingency transit planning."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "International: export ban on Russian or Belarusian automotive components (in_force)."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense industry supply chain and procurement professionals dealing with municipal vehicles should monitor upcoming tender requirements for reserve bus fleets in Kyiv."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "President Zelensky instructed the Prime Minister to present a program for free travel on Kyiv's surface public transport and to ensure an adequate reserve of buses following recent infrastructure strikes.",
-        "Context: 15 Jan 2025: Early 2025 proposals by government officials regarding nationwide transit support packages spark public debate over populist winter relief schemes. 27 Oct 2026: Ballistic missile strikes target critical transport nodes in Kyiv, highlighting vulnerabilities in cross-Dnipro transit links. 7 Nov 2026: Massive Russian missile barrage (involving 36 missiles) severely damages Kyiv’s North Bridge and disrupts electrical grid stability, forcing emergency rerouting and exposing a lack of localized contingency plans. 8 Nov 2026: President Zelensky formally instructs the Prime Minister, NSDC, and Ministry of Internal Affairs to formulate an official free surface public transport programme and establish a dedicated reserve bus fleet for Kyiv.",
-        "The bigger picture: Following missile attacks that targeted critical transport nodes in October and severely damaged Kyiv's North Bridge in November 2026, authorities are shifting from ad-hoc crisis management to formalized contingency transit planning.",
-        "Down the supply chain: International: export ban on Russian or Belarusian automotive components (in_force).",
-        "Why it matters: Defense industry supply chain and procurement professionals dealing with municipal vehicles should monitor upcoming tender requirements for reserve bus fleets in Kyiv.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Ukrinform",
-          "url": "https://www.ukrinform.net/rubric-ato/4182702-zelensky-instructs-government-to-introduce-free-public-transport-programme-in-kyiv.html"
-        }
-      ],
-      "place": {
-        "label": "Kyiv",
-        "lat": 50.4501,
-        "lon": 30.5234
-      }
-    },
-    {
-      "id": "syn-578",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-07",
-      "title": "Second Type 26 Frigate HMS Cardiff Receives Twin Masts",
-      "summary": "HMS Cardiff, the second Type 26 frigate, was fitted with its twin 17-metre pole masts by STS Defence at Scotstoun.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "HMS Cardiff, the second Type 26 frigate, was fitted with its twin 17-metre pole masts by STS Defence at Scotstoun."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "20 Jul 2017: Steel was cut for the first-of-class, HMS Glasgow, at the Govan shipyard.",
-            "23 Jul 2020: BAE Systems awarded additional major supply chain contracts exceeding £100 million for the programme (Contract).",
-            "2022: The composite main mast for HMS Cardiff, built by Umoe Mandal in Norway, arrived in Glasgow.",
-            "15 Nov 2022: A £4.2 billion contract was awarded by DE&S to BAE Systems for the final five ships of the eight-vessel batch (Contract).",
-            "4 Apr 2023: Construction officially began on the fourth ship, HMS Birmingham.",
-            "Apr 2026: HMS Cardiff was floated up in dry dock two at Scotstoun for final outfitting.",
-            "7 Nov 2026: HMS Cardiff was fitted with its twin 17-metre pole masts by STS Defence, establishing its final external profile."
-          ],
-          "list": true,
-          "links": [
-            "https://ukdefencejournal.org.uk/more-type-26-frigate-supply-chain-contracts-awarded/",
-            "https://ukdefencejournal.org.uk/more-type-26-frigate-supply-chain-contracts-awarded/",
-            "https://des.mod.uk/british-shipyard-second-batch-type-26-frigates/",
-            "https://des.mod.uk/british-shipyard-second-batch-type-26-frigates/",
-            "https://en.wikipedia.org/wiki/Hunter-class_frigate",
-            "https://des.mod.uk/british-shipyard-second-batch-type-26-frigates/",
-            "https://ukdefencejournal.org.uk/more-type-26-frigate-supply-chain-contracts-awarded/"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Since steel was cut for lead ship HMS Glasgow in July 2017, the Type 26 programme has progressed through major contract awards and construction milestones toward a mid-2030s completion for all eight vessels."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "HMS Cardiff depends on Rolls-Royce — Gas Turbine Propulsion (MT30 marine gas turbine)."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Naval procurement and supply chain professionals should monitor integration milestones across the eight-vessel batch to anticipate component delivery schedules."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "HMS Cardiff, the second Type 26 frigate, was fitted with its twin 17-metre pole masts by STS Defence at Scotstoun.",
-        "Context: 20 Jul 2017: Steel was cut for the first-of-class, HMS Glasgow, at the Govan shipyard. 23 Jul 2020: BAE Systems awarded additional major supply chain contracts exceeding £100 million for the programme (Contract). 2022: The composite main mast for HMS Cardiff, built by Umoe Mandal in Norway, arrived in Glasgow. 15 Nov 2022: A £4.2 billion contract was awarded by DE&S to BAE Systems for the final five ships of the eight-vessel batch (Contract). 4 Apr 2023: Construction officially began on the fourth ship, HMS Birmingham. Apr 2026: HMS Cardiff was floated up in dry dock two at Scotstoun for final outfitting. 7 Nov 2026: HMS Cardiff was fitted with its twin 17-metre pole masts by STS Defence, establishing its final external profile.",
-        "The bigger picture: Since steel was cut for lead ship HMS Glasgow in July 2017, the Type 26 programme has progressed through major contract awards and construction milestones toward a mid-2030s completion for all eight vessels.",
-        "Down the supply chain: HMS Cardiff depends on Rolls-Royce — Gas Turbine Propulsion (MT30 marine gas turbine).",
-        "Why it matters: Naval procurement and supply chain professionals should monitor integration milestones across the eight-vessel batch to anticipate component delivery schedules.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "UK Defence Journal",
-          "url": "https://ukdefencejournal.org.uk/second-type-26-frigate-takes-final-shape-with-twin-masts/"
-        }
-      ],
-      "place": {
-        "label": "Scotstoun",
-        "lat": 55.882,
-        "lon": -4.364
-      }
-    },
-    {
-      "id": "syn-581",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-07",
-      "title": "MOD Probes Armed Forces Pension Errors for Potential Contract Breaches",
-      "summary": "Investigations are examining the root causes of Armed Forces pension errors and whether contracts held by Sopra Steria Ltd were breached.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Investigations are examining the root causes of Armed Forces pension errors and whether contracts held by Sopra Steria Ltd were breached."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "May 2014: DGA launches the European call for tenders for the Arme Individuelle Future (AIF) programme to replace the FAMAS.",
-            "17 Jul 2018: DGA awards Aimpoint and Heckler & Koch France a contract to supply up to 120,000 CompM5 red dot sights for the HK416F (Contract).",
-            "Dec 2020: DGA places a fresh order for 12,000 HK416F rifles to continue phasing out the FAMAS (Contract).",
-            "21 Dec 2022: DGA receives the final batch out of 12,000 units due for 2022, bringing total deliveries to 69,340 rifles.",
-            "30 Oct 2026: Zone Militaire reports that the Gendarmerie nationale must continue to wait for its FAMAS replacement as the legacy systems face definitive obsolescence by 2030 under Ministry of Interior administration.",
-            "2028:.",
-            "May 2029: Ministry of Defence contract for Armed Forces pension administration held by Sopra Steria Ltd expires, with the Future Shared Services Programme preparing an Outline Business Case for subsequent delivery arrangements (Contract)."
-          ],
-          "list": true,
-          "links": [
-            "https://www.ifrap.org/etat-et-collectivites/famas-les-enjeux-de-larme-individuelle-future",
-            "https://www.alloutdoor.com/2018/07/20/aimpoint-wins-contract-supply-french-army-compm5-new-hk416f-assault-rifles/",
-            "https://fr.wikipedia.org/wiki/FAMAS",
-            "https://www.joint-forces.com/defence-equipment-news/60676-french-dga-hk416-rifles-received-and-ordered",
-            "https://fr.wikipedia.org/wiki/FAMAS",
-            "https://defence-industry.eu/honeywell-aerospace-says-it-will-invest-500-million-in-a-new-production-facility-in-arizona/",
-            "https://armedforcespensioncalculator.co.uk/news/armed-forces-pension-administration-contract-2029"
-          ]
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "NATO — The Hague Summit Declaration (2025-06-25): Allies commit to 5% of GDP a year by 2035: at least 3.5% on core defence requirements and up to 1.5% on broader security spending, including the defence industrial base."
-          ],
-          "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "As the Ministry of Defence contract for Armed Forces pension administration held by Sopra Steria Ltd expires on 1 May 2029, the Future Shared Services Programme is preparing an Outline Business Case for subsequent delivery arrangements."
-          ],
-          "list": false
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defence contractors providing business process outsourcing services should review quality assurance frameworks and compliance mechanisms to mitigate liability risks."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Investigations are examining the root causes of Armed Forces pension errors and whether contracts held by Sopra Steria Ltd were breached.",
-        "Context: May 2014: DGA launches the European call for tenders for the Arme Individuelle Future (AIF) programme to replace the FAMAS. 17 Jul 2018: DGA awards Aimpoint and Heckler & Koch France a contract to supply up to 120,000 CompM5 red dot sights for the HK416F (Contract). Dec 2020: DGA places a fresh order for 12,000 HK416F rifles to continue phasing out the FAMAS (Contract). 21 Dec 2022: DGA receives the final batch out of 12,000 units due for 2022, bringing total deliveries to 69,340 rifles. 30 Oct 2026: Zone Militaire reports that the Gendarmerie nationale must continue to wait for its FAMAS replacement as the legacy systems face definitive obsolescence by 2030 under Ministry of Interior administration. 2028:. May 2029: Ministry of Defence contract for Armed Forces pension administration held by Sopra Steria Ltd expires, with the Future Shared Services Programme preparing an Outline Business Case for subsequent delivery arrangements (Contract).",
-        "Policy direction: NATO — The Hague Summit Declaration (2025-06-25): Allies commit to 5% of GDP a year by 2035: at least 3.5% on core defence requirements and up to 1.5% on broader security spending, including the defence industrial base.",
-        "The bigger picture: As the Ministry of Defence contract for Armed Forces pension administration held by Sopra Steria Ltd expires on 1 May 2029, the Future Shared Services Programme is preparing an Outline Business Case for subsequent delivery arrangements.",
-        "Why it matters: Defence contractors providing business process outsourcing services should review quality assurance frameworks and compliance mechanisms to mitigate liability risks.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "UK Defence Journal",
-          "url": "https://ukdefencejournal.org.uk/forces-pension-errors-probed-for-possible-contract-breeches/"
-        },
-        {
-          "n": 2,
-          "title": "UK Defence Journal",
-          "url": "https://ukdefencejournal.org.uk/forces-pension-errors-probed-for-possible-contract-breaches/"
-        }
-      ],
-      "place": {
-        "label": "London",
-        "lat": 51.507,
-        "lon": -0.128
-      }
-    },
-    {
-      "id": "syn-582",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-07",
-      "title": "RTX targets over 1,000 Tomahawks yearly as Germany weighs acquisitions",
-      "summary": "Raytheon secured a $22.9 billion multiyear framework agreement on August 17, 2026, to support a production ramp to over 1,000 Tomahawk missiles annually. German firms are being scouted as potential suppliers while Berlin considers acquiring up to 400 Tomahawks and Typhon launchers.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Raytheon secured a $22.9 billion multiyear framework agreement on August 17, 2026, to support a production ramp to over 1,000 Tomahawk missiles annually. German firms are being scouted as potential suppliers while Berlin considers acquiring up to 400 Tomahawks and Typhon launchers."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "1983: The Tomahawk cruise missile officially enters operational service with the U.S. Navy (Delivered).",
-            "2004: Block IV (Tactical Tomahawk) enters operational testing and evaluation phase.",
-            "2013: Operational test launch program for Block IV concludes, with the Tomahawk Weapon System cleared from DOT&E operational oversight following high reliability records.",
-            "2020: Raytheon secures major production contracts to transition legacy blocks into modern Block V configurations (Contract).",
-            "17 Aug 2026: Raytheon received a seven-year Tomahawk contract supporting a production ramp to over 1,000 missiles a year (Contract, USD 22.9 billion).",
-            "22 Oct 2026: Nikon Advanced Manufacturing announces a U.S. Department of War Cornerstone Other Transaction Authority (COTA) contract under the Industrial Base Analysis and Sustainment programme to supply large-format laser powder bed fusion (L-PBF) systems (based on the Nikon SLM Solutions NXG-E platform with 2-meter build heights) for printing Tomahawk mid-bodies in Long Beach, California (Contract).",
-            "29 Oct 2026: German defense media reported that German additive manufacturing technology (via Nikon SLM Solutions based in Lübeck) is being directly deployed for U.S. Tomahawk missile production following a contract awarded to Nikon Advanced Manufacturing."
-          ],
-          "list": true,
-          "links": [
-            "https://en.wikipedia.org/wiki/Tomahawk_missile",
-            "https://en.wikipedia.org/wiki/Tomahawk_missile",
-            "https://en.wikipedia.org/wiki/Tomahawk_missile",
-            "https://en.wikipedia.org/wiki/Tomahawk_missile",
-            "https://addithive.com/2026/10/24/am-bottleneck-brief-7-qualified-large-format-lpbf-munitions-gate/",
-            "https://manufacturingdigital.com/news/inside-nikon-ams-department-of-war-tomahawk-contract",
-            "https://www.hartpunkt.de/additive-fertigungstechnologie-aus-deutschland-kommt-bei-tomahawk-produktion-zum-einsatz/"
-          ]
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base.",
-            "US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress."
-          ],
-          "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following decades of incremental block upgrades from operational introduction in 1983 through the Block IV and Block V transitions, current multiyear contracting aims to supercharge the U.S. defense industrial base and expand long-range strike capacity to meet rising allied demand."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Tomahawk Land Attack Missile depends on Nikon Advanced Manufacturing.",
-            "Tomahawk Land Attack Missile depends on Williams International.",
-            "Tomahawk Land Attack Missile depends on Defense contractors — Warhead Assemblies: WDU-36/B unitary high-explosive payloads containing PBXN-107 fill.",
-            "United States and Germany: export licensing on Export controls under ITAR and EAR governing defense articles, technical data, and dual-use additive manufacturing machinery components between Germany and the United States. (in_force)."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense supply chain and procurement professionals should monitor upcoming European supplier selections and capital investments as RTX expands production capacity toward four times historical levels."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Raytheon secured a $22.9 billion multiyear framework agreement on August 17, 2026, to support a production ramp to over 1,000 Tomahawk missiles annually. German firms are being scouted as potential suppliers while Berlin considers acquiring up to 400 Tomahawks and Typhon launchers.",
-        "Context: 1983: The Tomahawk cruise missile officially enters operational service with the U.S. Navy (Delivered). 2004: Block IV (Tactical Tomahawk) enters operational testing and evaluation phase. 2013: Operational test launch program for Block IV concludes, with the Tomahawk Weapon System cleared from DOT&E operational oversight following high reliability records. 2020: Raytheon secures major production contracts to transition legacy blocks into modern Block V configurations (Contract). 17 Aug 2026: Raytheon received a seven-year Tomahawk contract supporting a production ramp to over 1,000 missiles a year (Contract, USD 22.9 billion). 22 Oct 2026: Nikon Advanced Manufacturing announces a U.S. Department of War Cornerstone Other Transaction Authority (COTA) contract under the Industrial Base Analysis and Sustainment programme to supply large-format laser powder bed fusion (L-PBF) systems (based on the Nikon SLM Solutions NXG-E platform with 2-meter build heights) for printing Tomahawk mid-bodies in Long Beach, California (Contract). 29 Oct 2026: German defense media reported that German additive manufacturing technology (via Nikon SLM Solutions based in Lübeck) is being directly deployed for U.S. Tomahawk missile production following a contract awarded to Nikon Advanced Manufacturing.",
-        "Policy direction: US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base. US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress.",
-        "The bigger picture: Following decades of incremental block upgrades from operational introduction in 1983 through the Block IV and Block V transitions, current multiyear contracting aims to supercharge the U.S. defense industrial base and expand long-range strike capacity to meet rising allied demand.",
-        "Down the supply chain: Tomahawk Land Attack Missile depends on Nikon Advanced Manufacturing. Tomahawk Land Attack Missile depends on Williams International. Tomahawk Land Attack Missile depends on Defense contractors — Warhead Assemblies: WDU-36/B unitary high-explosive payloads containing PBXN-107 fill. United States and Germany: export licensing on Export controls under ITAR and EAR governing defense articles, technical data, and dual-use additive manufacturing machinery components between Germany and the United States. (in_force).",
-        "Why it matters: Defense supply chain and procurement professionals should monitor upcoming European supplier selections and capital investments as RTX expands production capacity toward four times historical levels.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Defence Industry Europe",
-          "url": "https://defence-industry.eu/rtx-ramps-up-tomahawk-amraam-and-standard-missile-production-under-four-pentagon-contracts/"
-        },
-        {
-          "n": 2,
-          "title": "Defence Industry Europe",
-          "url": "https://defence-industry.eu/rtx-scouts-german-suppliers-aims-to-build-more-than-1000-tomahawk-missiles-a-year/"
-        }
-      ],
-      "place": {
-        "label": "Washington",
-        "lat": 38.895,
-        "lon": -77.036
-      }
-    },
-    {
-      "id": "syn-583",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-07",
-      "title": "AIRO Group Secures First U.S. Government Drone Order",
-      "summary": "AIRO Group Holdings announced a U.S. government order for the RQ-35 Heidrun and RQ-70 Dainn drones built by Sky-Watch.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "AIRO Group Holdings announced a U.S. government order for the RQ-35 Heidrun and RQ-70 Dainn drones built by Sky-Watch."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "Mar 2022: Sky-Watch RQ-35 Heidrun systems enter active operational deployment with the Armed Forces of Ukraine.",
-            "12 Sep 2025: Sky-Watch demonstrates the electronic warfare-resilient configuration of the RQ-35 Heidrun at DSEI 2025.",
-            "2 Jul 2026: The Netherlands Ministry of Defence (via COMMIT) selects the RQ-35 Heidrun for company-level ISR operations under a multi-year delivery and support agreement (Agreement).",
-            "14 Jul 2026: AIRO Group Holdings announces that the RQ-35 Heidrun has achieved U.S. Defense Contract Management Agency (DCMA) \"Blue UAS\" status (Contract).",
-            "28 Oct 2026: Sky-Watch announces its inclusion in the NSPA procurement framework for the RQ-35 Heidrun reconnaissance drone on behalf of the UAS Partnership (Agreement)."
-          ],
-          "list": true,
-          "links": [
-            "https://www.armyrecognition.com/archives/archives-aerospace-defense/defense-news-aerospace-2025/dsei-2025-danish-rq-35-heidrun-uav-delivers-frontline-intelligence-with-long-endurance-and-ew-resilience",
-            "https://www.armyrecognition.com/archives/archives-aerospace-defense/defense-news-aerospace-2025/dsei-2025-danish-rq-35-heidrun-uav-delivers-frontline-intelligence-with-long-endurance-and-ew-resilience",
-            "https://nordicdefencesector.com/en/article/netherlands-selects-danish-rq-35-heidrun-for-istar",
-            "https://defence-industry.eu/denmarks-sky-watch-joins-nspa-procurement-framework-for-rq-35-heidrun-reconnaissance-drone/",
-            "https://defence-industry.eu/denmarks-sky-watch-joins-nspa-procurement-framework-for-rq-35-heidrun-reconnaissance-drone/"
-          ]
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "US — Unleashing U.S. Military Drone Dominance (Secretary of Defense memorandum) (2025-07-10): Ramp up US production and fielding of low-cost drones: buy American-made drones and parts, equip combat units, and delegate drone procurement authority down to commanders."
-          ],
-          "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following operational use in Ukraine and selection by the Netherlands, the RQ-35 Heidrun gained Blue UAS status and NSPA framework inclusion, signaling broader allied and U.S. adoption."
-          ],
-          "list": false
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense industry business development teams should leverage these regulatory approvals to target expanded sales across U.S. and NATO procurement pathways."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "AIRO Group Holdings announced a U.S. government order for the RQ-35 Heidrun and RQ-70 Dainn drones built by Sky-Watch.",
-        "Context: Mar 2022: Sky-Watch RQ-35 Heidrun systems enter active operational deployment with the Armed Forces of Ukraine. 12 Sep 2025: Sky-Watch demonstrates the electronic warfare-resilient configuration of the RQ-35 Heidrun at DSEI 2025. 2 Jul 2026: The Netherlands Ministry of Defence (via COMMIT) selects the RQ-35 Heidrun for company-level ISR operations under a multi-year delivery and support agreement (Agreement). 14 Jul 2026: AIRO Group Holdings announces that the RQ-35 Heidrun has achieved U.S. Defense Contract Management Agency (DCMA) \"Blue UAS\" status (Contract). 28 Oct 2026: Sky-Watch announces its inclusion in the NSPA procurement framework for the RQ-35 Heidrun reconnaissance drone on behalf of the UAS Partnership (Agreement).",
-        "Policy direction: US — Unleashing U.S. Military Drone Dominance (Secretary of Defense memorandum) (2025-07-10): Ramp up US production and fielding of low-cost drones: buy American-made drones and parts, equip combat units, and delegate drone procurement authority down to commanders.",
-        "The bigger picture: Following operational use in Ukraine and selection by the Netherlands, the RQ-35 Heidrun gained Blue UAS status and NSPA framework inclusion, signaling broader allied and U.S. adoption.",
-        "Why it matters: Defense industry business development teams should leverage these regulatory approvals to target expanded sales across U.S. and NATO procurement pathways.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "AIRO Group Receives First U.S. Drone Order",
-          "url": "https://defence-industry.eu/airo-group-receives-first-u-s-drone-order-for-sky-watchs-rq-35-and-rq-70-from-government-buyer"
-        },
-        {
-          "n": 2,
-          "title": "Defence Industry Europe",
-          "url": "https://defence-industry.eu/airo-group-receives-first-u-s-drone-order-for-sky-watchs-rq-35-and-rq-70-from-government-buyer/"
-        }
-      ],
-      "place": {
-        "label": "Washington",
-        "lat": 38.895,
-        "lon": -77.036
       }
     }
   ]
