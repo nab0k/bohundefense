@@ -3,6 +3,305 @@
   "notice": "Syntheses prepared by machine from open sources and approved by the editor. Check the sources.",
   "items": [
     {
+      "id": "syn-779",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-12",
+      "title": "SeaOwl and KNDS partner to develop Tracus kamikaze USV",
+      "summary": "At Euronaval 2026, SeaOwl and KNDS announced a strategic cooperation agreement to develop and field the Tracus kamikaze USV equipped with a 30kg precision warhead.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "At Euronaval 2026, SeaOwl and KNDS announced a strategic cooperation agreement to develop and field the Tracus kamikaze USV equipped with a 30kg precision warhead."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "Nov 2024: SeaOwl presented the initial Tracus concept at Euronaval 2024 as a target drone and training solution using modified hulls to simulate asymmetric swarm threats for the French Navy.",
+            "26 Apr 2025: The French Navy publicly demonstrated a one-way attack USV strike against a decommissioned landing craft off Toulon using a jet-ski-derived hull architecture similar to SeaOwl's target platforms (Testing).",
+            "9 Oct 2026: The French DGA selected initial contenders, including SeaOwl-linked solutions, for the second phase of the DANAE program aimed at vessel escort and infrastructure protection USVs.",
+            "3 Nov 2026: KNDS and SeaOwl signed a formal strategic cooperation agreement at Euronaval 2026 in Paris to develop and test the operational Tracus Combat kamikaze USV (Agreement)."
+          ],
+          "list": true,
+          "links": [
+            "https://defensewarroom.com/2026/11/04/knds-seaowl-usv-naval-loitering-munition/",
+            "https://defensewarroom.com/2026/11/04/knds-seaowl-usv-naval-loitering-munition/",
+            "https://www.edrmagazine.eu/naval-groups-sirenha-seaquest-s-down-selected-for-danae-program-after-two-year-testing-while-ready-for-firing-after-euronaval",
+            "https://live.deutsche-boerse.com/news/EURONAVAL-2026-KNDS-AND-SEAOWL-PARTNER-TO-DEVELOP-A-SURFACE-DRONE-EQUIPPED-WITH-A-NEXT-GENERATION-NAVAL-LOITERING-MUNITION-bf276d65-e2de-468f-a229-a43635ef9f93"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following initial concept presentations at Euronaval 2024 and subsequent French Navy demonstrations in 2025, maritime robotics are progressing toward operational armed systems selected for frameworks like the DGA's DANAE program."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "None depends on KNDS (France / Germany) — Precision Warhead & Fragmentation Charge.",
+            "French defense equipment regulations (CGI / Defense Security regulations) and EU dual-use/military technology frameworks: export licensing on cross-border components and munitions integration (in_force)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense industry business development and supply chain professionals should monitor cross-border munition integration and export compliance under French and EU regulations."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "At Euronaval 2026, SeaOwl and KNDS announced a strategic cooperation agreement to develop and field the Tracus kamikaze USV equipped with a 30kg precision warhead.",
+        "Context: Nov 2024: SeaOwl presented the initial Tracus concept at Euronaval 2024 as a target drone and training solution using modified hulls to simulate asymmetric swarm threats for the French Navy. 26 Apr 2025: The French Navy publicly demonstrated a one-way attack USV strike against a decommissioned landing craft off Toulon using a jet-ski-derived hull architecture similar to SeaOwl's target platforms (Testing). 9 Oct 2026: The French DGA selected initial contenders, including SeaOwl-linked solutions, for the second phase of the DANAE program aimed at vessel escort and infrastructure protection USVs. 3 Nov 2026: KNDS and SeaOwl signed a formal strategic cooperation agreement at Euronaval 2026 in Paris to develop and test the operational Tracus Combat kamikaze USV (Agreement).",
+        "The bigger picture: Following initial concept presentations at Euronaval 2024 and subsequent French Navy demonstrations in 2025, maritime robotics are progressing toward operational armed systems selected for frameworks like the DGA's DANAE program.",
+        "Down the supply chain: None depends on KNDS (France / Germany) — Precision Warhead & Fragmentation Charge. French defense equipment regulations (CGI / Defense Security regulations) and EU dual-use/military technology frameworks: export licensing on cross-border components and munitions integration (in_force).",
+        "Why it matters: Defense industry business development and supply chain professionals should monitor cross-border munition integration and export compliance under French and EU regulations.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "SeaOwl and KNDS announced a strategic cooperation agreement at Euronaval 2026 to jointly develop and test the Tracus Com",
+          "url": "https://knds.com/"
+        },
+        {
+          "n": 2,
+          "title": "Naval News",
+          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/euronaval-2026-seaowl-and-knds-unveil-tracus-kamikaze-usv/"
+        }
+      ],
+      "place": null
+    },
+    {
+      "id": "syn-780",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-12",
+      "title": "MV Glen Rosa begins sea trials ahead of scheduled February 2027 handover",
+      "summary": "MV Glen Rosa has departed on builder's sea trials on the Firth of Clyde following outfitting and dry docking at Dales Marine Services.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "MV Glen Rosa has departed on builder's sea trials on the Firth of Clyde following outfitting and dry docking at Dales Marine Services."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "16 Oct 2015: CMAL awards a £97 million fixed-price contract to Ferguson Marine Engineering Limited (FMEL) to design and build two dual-fuel ferries (Hull 801 and Hull 802), with scheduled deliveries in May and July 2018 (Plan, GBP 97 million).",
+            "18 Dec 2019: Following FMEL entering administration, the Scottish Government brings the shipyard into public ownership under Ferguson Marine (Port Glasgow) Ltd to complete the vessels.",
+            "30 Aug 2023: Following a public ballot, Hull 802 is officially named MV Glen Rosa.",
+            "9 Apr 2024: MV Glen Rosa is successfully launched into the Clyde from the Port Glasgow shipyard.",
+            "13 Jan 2025: Sister ship MV Glen Sannox officially enters passenger service with CalMac after extensive completion and trials.",
+            "17 Jun 2026: MV Glen Rosa is transferred to Dales Marine Services in Greenock for its final pre-trial dry docking, hull cleaning, and outfitting (Testing).",
+            "12 Nov 2026: MV Glen Rosa departs on builder’s sea trials on the Firth of Clyde ahead of a scheduled February 2027 handover (Testing)."
+          ],
+          "list": true,
+          "links": [
+            "https://www.ship-technology.com/projects/mv-glen-sannox-class-dual-fuel-ferries/",
+            "https://ukdefencejournal.org.uk/ferry-glen-rosa-heads-out-on-the-clyde-for-sea-trials/",
+            "https://en.wikipedia.org/wiki/MV_Glen_Rosa",
+            "https://en.wikipedia.org/wiki/MV_Glen_Rosa",
+            "https://en.wikipedia.org/wiki/MV_Glen_Sannox_(2017)",
+            "https://ukdefencejournal.org.uk/ferry-glen-rosa-heads-out-on-the-clyde-for-sea-trials/",
+            "https://ukdefencejournal.org.uk/ferry-glen-rosa-heads-out-on-the-clyde-for-sea-trials/"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following the 2015 contract award and subsequent nationalisation of the shipyard in 2019, the delivery of MV Glen Rosa marks the final phase of completing the dual-fuel ferry programme ahead of its scheduled February 2027 handover."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Dual-Fuel Marine Engines depends on Wärtsilä 34DF medium-speed engines — capable of operating on Marine Gas Oil (MGO) and Liquefied Natural Gas (LNG).",
+            "Propulsion Systems depends on Controllable pitch propellers and bow thrusters — Propulsion Systems."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Shipbuilding and marine engineering supply chain professionals should monitor the final trials and propulsion system testing as Ferguson Marine prepares for vessel handover."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "MV Glen Rosa has departed on builder's sea trials on the Firth of Clyde following outfitting and dry docking at Dales Marine Services.",
+        "Context: 16 Oct 2015: CMAL awards a £97 million fixed-price contract to Ferguson Marine Engineering Limited (FMEL) to design and build two dual-fuel ferries (Hull 801 and Hull 802), with scheduled deliveries in May and July 2018 (Plan, GBP 97 million). 18 Dec 2019: Following FMEL entering administration, the Scottish Government brings the shipyard into public ownership under Ferguson Marine (Port Glasgow) Ltd to complete the vessels. 30 Aug 2023: Following a public ballot, Hull 802 is officially named MV Glen Rosa. 9 Apr 2024: MV Glen Rosa is successfully launched into the Clyde from the Port Glasgow shipyard. 13 Jan 2025: Sister ship MV Glen Sannox officially enters passenger service with CalMac after extensive completion and trials. 17 Jun 2026: MV Glen Rosa is transferred to Dales Marine Services in Greenock for its final pre-trial dry docking, hull cleaning, and outfitting (Testing). 12 Nov 2026: MV Glen Rosa departs on builder’s sea trials on the Firth of Clyde ahead of a scheduled February 2027 handover (Testing).",
+        "The bigger picture: Following the 2015 contract award and subsequent nationalisation of the shipyard in 2019, the delivery of MV Glen Rosa marks the final phase of completing the dual-fuel ferry programme ahead of its scheduled February 2027 handover.",
+        "Down the supply chain: Dual-Fuel Marine Engines depends on Wärtsilä 34DF medium-speed engines — capable of operating on Marine Gas Oil (MGO) and Liquefied Natural Gas (LNG). Propulsion Systems depends on Controllable pitch propellers and bow thrusters — Propulsion Systems.",
+        "Why it matters: Shipbuilding and marine engineering supply chain professionals should monitor the final trials and propulsion system testing as Ferguson Marine prepares for vessel handover.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Ferguson Marine announced that dual-fuel ferry MV Glen Rosa has headed out onto the Firth of Clyde to begin builder’s se",
+          "url": "https://ukdefencejournal.org.uk/ferry-glen-rosa-heads-out-on-the-clyde-for-sea-trials/"
+        }
+      ],
+      "place": null
+    },
+    {
+      "id": "syn-782",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-12",
+      "title": "UK is already on the front line of hybrid warfare, warns Lord Sedwill",
+      "summary": "Speaking on board HMS Prince of Wales in Oslo, Atlantic Future Forum chair Lord Sedwill stated that Britain is actively engaged in hybrid conflict, citing state-backed social media operations that pushed Scottish independence.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Speaking on board HMS Prince of Wales in Oslo, Atlantic Future Forum chair Lord Sedwill stated that Britain is actively engaged in hybrid conflict, citing state-backed social media operations that pushed Scottish independence."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "Sep 2018: The inaugural Atlantic Future Forum takes place to reinforce defense and technology ties between the UK and key democratic allies.",
+            "Jun 2025: Disinformation monitoring identifies coordinated social media bot networks amplifying Scottish independence discourse until interrupted by internet outages in Iran.",
+            "11 Nov 2026: First Sea Lord General Sir Gwyn Jenkins warns at the International Sea Power Conference in Oslo that slowing hybrid navy integration risks leaving Britain unprepared for conflict.",
+            "12 Nov 2026: Lord Sedwill delivers his keynote opening address on board HMS Prince of Wales in Oslo, declaring Britain is on the front line of active hybrid conflict."
+          ],
+          "list": true,
+          "links": [
+            "https://www.atlanticfutureforum.com/EN/pages",
+            "https://ukdefencejournal.org.uk/britain-already-on-hybrid-war-front-line-warns-sedwill/",
+            "https://defence-industry.eu/first-sea-lord-warns-slowing-hybrid-navy-plans-risks-leaving-britain-unprepared-for-war/",
+            "https://ukdefencejournal.org.uk/britain-already-on-hybrid-war-front-line-warns-sedwill/"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Since the inaugural Atlantic Future Forum reinforced UK‑allied technology ties, state‑backed Iranian bot networks have been cited as hybrid interference, and Lord Sedwill warned that Britain is already on the front line of active hybrid conflict."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Digital infrastructure & Information Operations Countermeasures depends on commercial threat intelligence platforms, behavioural analytics algorithms, and sovereign cloud infrastructure — Digital infrastructure & Information Operations Countermeasures."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Digital infrastructure and information operations countermeasures depend on commercial threat intelligence platforms, behavioural analytics algorithms, and sovereign cloud infrastructure."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Speaking on board HMS Prince of Wales in Oslo, Atlantic Future Forum chair Lord Sedwill stated that Britain is actively engaged in hybrid conflict, citing state-backed social media operations that pushed Scottish independence.",
+        "Context: Sep 2018: The inaugural Atlantic Future Forum takes place to reinforce defense and technology ties between the UK and key democratic allies. Jun 2025: Disinformation monitoring identifies coordinated social media bot networks amplifying Scottish independence discourse until interrupted by internet outages in Iran. 11 Nov 2026: First Sea Lord General Sir Gwyn Jenkins warns at the International Sea Power Conference in Oslo that slowing hybrid navy integration risks leaving Britain unprepared for conflict. 12 Nov 2026: Lord Sedwill delivers his keynote opening address on board HMS Prince of Wales in Oslo, declaring Britain is on the front line of active hybrid conflict.",
+        "The bigger picture: Since the inaugural Atlantic Future Forum reinforced UK‑allied technology ties, state‑backed Iranian bot networks have been cited as hybrid interference, and Lord Sedwill warned that Britain is already on the front line of active hybrid conflict.",
+        "Down the supply chain: Digital infrastructure & Information Operations Countermeasures depends on commercial threat intelligence platforms, behavioural analytics algorithms, and sovereign cloud infrastructure — Digital infrastructure & Information Operations Countermeasures.",
+        "Why it matters: Digital infrastructure and information operations countermeasures depend on commercial threat intelligence platforms, behavioural analytics algorithms, and sovereign cloud infrastructure.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "UK Defence Journal",
+          "url": "https://ukdefencejournal.org.uk/britain-already-on-hybrid-war-front-line-warns-sedwill/"
+        }
+      ],
+      "place": null
+    },
+    {
+      "id": "syn-783",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-12",
+      "title": "UFORCE raises $700M Series A at $6B valuation to scale autonomous defense production",
+      "summary": "UFORCE announced a $700 million Series A financing round, bringing its valuation to $6 billion to scale the production of combat-proven autonomous systems for Ukraine and allied nations.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "UFORCE announced a $700 million Series A financing round, bringing its valuation to $6 billion to scale the production of combat-proven autonomous systems for Ukraine and allied nations."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "May 2022: Development of early autonomous maritime drone concepts (MAGURA V1/V2) begins under Ukrainian intelligence and private sector initiatives.",
+            "Mar 2025: UFORCE secures a $50 million seed funding round at a valuation exceeding $1 billion (Funding, USD 50 million).",
+            "May 2025: Operational integration of missile payloads (such as modified R-73 air-to-air missiles) onto MAGURA variants for air defense and anti-air engagements.",
+            "31 Dec 2025: UFORCE records nearly 500% booking growth over the preceding year across its product lines.",
+            "21 Jul 2026: UFORCE announces a strategic partnership and memorandum of understanding with U.S. boatbuilder ReconCraft to manufacture MAGURA maritime drones in the United States (Agreement).",
+            "24 Aug 2026: Public debut of the larger MAGURA MV11 \"drone mothership\" variant designed to deploy vertical-takeoff interceptor drones.",
+            "12 Nov 2026: UFORCE announces a $700 million Series A funding round co-led by Valor Equity Partners and the UK National Wealth Fund, bringing company valuation to $6 billion (Funding, USD 700 million)."
+          ],
+          "list": true,
+          "links": [
+            "https://www.armyrecognition.com/news/navy-news/2026/ukraine-magura-usv-drone-us-production-uforce-reconcraft",
+            "https://www.armyrecognition.com/news/navy-news/2026/ukraine-magura-usv-drone-us-production-uforce-reconcraft",
+            "https://en.wikipedia.org/wiki/MAGURA_V5",
+            "https://dealroom.co/news/172102-drone-maker-uforce-raises-700m-nears-5b-valuation/",
+            "https://www.prnewswire.com/news-releases/world-renowned-magura-usv-manufacturer-uforce-partners-with-reconcraft-to-build-combat-tested-autonomous-maritime-drones-in-the-us-302831197.html",
+            "https://www.armyrecognition.com/news/navy-news/2026/ukraine-magura-usv-drone-us-production-uforce-reconcraft",
+            "https://www.prnewswire.com/news-releases/uforce-raises-700m-at-6-billion-valuation-from-leading-tech-and-sovereign-wealth-funds-to-scale-combat-proven-defence-systems-for-ukraine-and-allied-nations-302937140.html"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Autonomous defense systems have scaled rapidly from early Ukrainian maritime drone initiatives into heavily funded, globally manufactured platforms backed by multi-million-dollar international investments, signalling a permanent shift toward cost-effective uncrewed warfare."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Wartime export control frameworks: export licensing on dual-use defense tech shipments between Ukraine, the United Kingdom, and the United States (in_force)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence procurement and supply chain professionals should monitor UFORCE's scaling and cross-border manufacturing partnerships while navigating applicable dual-use export control frameworks."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "UFORCE announced a $700 million Series A financing round, bringing its valuation to $6 billion to scale the production of combat-proven autonomous systems for Ukraine and allied nations.",
+        "Context: May 2022: Development of early autonomous maritime drone concepts (MAGURA V1/V2) begins under Ukrainian intelligence and private sector initiatives. Mar 2025: UFORCE secures a $50 million seed funding round at a valuation exceeding $1 billion (Funding, USD 50 million). May 2025: Operational integration of missile payloads (such as modified R-73 air-to-air missiles) onto MAGURA variants for air defense and anti-air engagements. 31 Dec 2025: UFORCE records nearly 500% booking growth over the preceding year across its product lines. 21 Jul 2026: UFORCE announces a strategic partnership and memorandum of understanding with U.S. boatbuilder ReconCraft to manufacture MAGURA maritime drones in the United States (Agreement). 24 Aug 2026: Public debut of the larger MAGURA MV11 \"drone mothership\" variant designed to deploy vertical-takeoff interceptor drones. 12 Nov 2026: UFORCE announces a $700 million Series A funding round co-led by Valor Equity Partners and the UK National Wealth Fund, bringing company valuation to $6 billion (Funding, USD 700 million).",
+        "The bigger picture: Autonomous defense systems have scaled rapidly from early Ukrainian maritime drone initiatives into heavily funded, globally manufactured platforms backed by multi-million-dollar international investments, signalling a permanent shift toward cost-effective uncrewed warfare.",
+        "Down the supply chain: Wartime export control frameworks: export licensing on dual-use defense tech shipments between Ukraine, the United Kingdom, and the United States (in_force).",
+        "Why it matters: Defence procurement and supply chain professionals should monitor UFORCE's scaling and cross-border manufacturing partnerships while navigating applicable dual-use export control frameworks.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Der Monitor für Defence und Sicherheitspolitik",
+          "url": "https://www.hartpunkt.de/ukrainischer-drohnenbauer-uforce-erhaelt-finanzierung-von-700-millionen-us-dollar-und-wird-mit-6-milliarden-us-dollar-bewertet/"
+        }
+      ],
+      "place": null
+    },
+    {
       "id": "syn-728",
       "status": "approved",
       "kind": "Synthesis",
@@ -7743,346 +8042,6 @@
         "label": "California",
         "lat": 36.7783,
         "lon": -119.4179
-      }
-    },
-    {
-      "id": "syn-669",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-09",
-      "title": "Optics11 Expands Naval Fiber-Optic Sensing",
-      "summary": "Dutch startup Optics11 announced at Euronaval that it is in talks with dozens of navies and conducting around 35 paid trials this year for its optical-fiber underwater acoustic sensing technology.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Dutch startup Optics11 announced at Euronaval that it is in talks with dozens of navies and conducting around 35 paid trials this year for its optical-fiber underwater acoustic sensing technology."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "1968: The EURONAVAL exhibition was founded for the French naval industry, subsequently evolving into a major international biannual event.",
-            "17 Jun 2024: BAE Systems Bofors unveils the land-based Tridon Mk2 mobile air defense system at Eurosatory 2024, mating the 40 Mk4 turret to a Scania truck.",
-            "15 Oct 2024: BAE Systems and the Swedish FMV sign a letter of intent to develop the Tridon Mk2 demonstrator for ground-based air defense.",
-            "15 Apr 2026: The Swedish FMV awards BAE Systems a $180 million contract for Tridon Mk2 systems to counter drones and aerial threats (Contract, USD 180 million).",
-            "2 Jul 2026: BAE Systems highlights contracts to supply Bofors 40Mk4 cannons to the Brazilian Navy, expanding international adoption (Contract).",
-            "3 Nov 2026: BAE Systems Bofors officially announces the Sea Tridon, Sea Tridon C (containerized), and Sea Trinity close-in weapon system variants at Euronaval 2026 in Paris."
-          ],
-          "list": true,
-          "links": [
-            "https://eddacreative.com/en/euronaval-2026-paris-exhibitors-by-country/",
-            "https://defensewarroom.com/2026/11/04/bae-systems-sea-tridon-naval-gun/",
-            "https://defensewarroom.com/2026/11/04/bae-systems-sea-tridon-naval-gun/",
-            "https://defensewarroom.com/2026/11/04/bae-systems-sea-tridon-naval-gun/",
-            "https://en.clickpetroleoegas.com.br/bae-systems-to-supply-new-bofors-40mk4-cannons-to-the-brazilian-navy-ama01/",
-            "https://defensewarroom.com/2026/11/04/bae-systems-sea-tridon-naval-gun/"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "As naval defense priorities shift toward advanced underwater surveillance, firms like Optics11 are scaling up local delivery models with defense primes."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Electro-Optical and Radar Fire Control Sensors depends on Integrated tracking and guidance suites — Incorporated into the Sea Tridon and Sea Trinity configurations."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Naval procurement and supply chain professionals should monitor Optics11's local prime integrations for potential anti-submarine warfare collaborations."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Dutch startup Optics11 announced at Euronaval that it is in talks with dozens of navies and conducting around 35 paid trials this year for its optical-fiber underwater acoustic sensing technology.",
-        "Context: 1968: The EURONAVAL exhibition was founded for the French naval industry, subsequently evolving into a major international biannual event. 17 Jun 2024: BAE Systems Bofors unveils the land-based Tridon Mk2 mobile air defense system at Eurosatory 2024, mating the 40 Mk4 turret to a Scania truck. 15 Oct 2024: BAE Systems and the Swedish FMV sign a letter of intent to develop the Tridon Mk2 demonstrator for ground-based air defense. 15 Apr 2026: The Swedish FMV awards BAE Systems a $180 million contract for Tridon Mk2 systems to counter drones and aerial threats (Contract, USD 180 million). 2 Jul 2026: BAE Systems highlights contracts to supply Bofors 40Mk4 cannons to the Brazilian Navy, expanding international adoption (Contract). 3 Nov 2026: BAE Systems Bofors officially announces the Sea Tridon, Sea Tridon C (containerized), and Sea Trinity close-in weapon system variants at Euronaval 2026 in Paris.",
-        "The bigger picture: As naval defense priorities shift toward advanced underwater surveillance, firms like Optics11 are scaling up local delivery models with defense primes.",
-        "Down the supply chain: Electro-Optical and Radar Fire Control Sensors depends on Integrated tracking and guidance suites — Incorporated into the Sea Tridon and Sea Trinity configurations.",
-        "Why it matters: Naval procurement and supply chain professionals should monitor Optics11's local prime integrations for potential anti-submarine warfare collaborations.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Defense News",
-          "url": "https://www.defensenews.com/global/europe/2026/11/09/dutch-firm-optics11-in-talks-with-navies-on-secretive-underwater-listening-tech/"
-        }
-      ],
-      "place": {
-        "label": "Paris",
-        "lat": 48.8566,
-        "lon": 2.3522
-      }
-    },
-    {
-      "id": "syn-606",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-08",
-      "title": "U.S. National Defense Strategy Pushes to Supercharge Defense Industrial Base",
-      "summary": "The U.S. National Defense Strategy officially called for national mobilization and supercharging the defense industrial base to scale weapons and ammunition production.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "The U.S. National Defense Strategy officially called for national mobilization and supercharging the defense industrial base to scale weapons and ammunition production."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "11 Jan 2024: The U.S. Department of Defense officially published the 2024 National Defense Industrial Strategy (NDIS) to build long-term industrial resilience.",
-            "15 Jan 2025: Pine Bluff Arsenal launched the ARSENAL READY campaign to modernize its industrial park infrastructure through public-private partnerships.",
-            "30 Oct 2026: Acting Army Secretary Adam Telle initiated high-level meetings in Arkansas to review Pine Bluff Arsenal's sole-source manufacturing capabilities.",
-            "Nov 2026: U.S. Army formally publicized strategic priorities integrating commercial supply chain practices (Walmart) and academic research (University of Arkansas).",
-            "8 Nov 2026: U.S. National Defense Strategy calls for national mobilization and 'supercharging' the defense industrial base to scale weapons and ammunition production."
-          ],
-          "list": true,
-          "links": [
-            "https://rareearthexchanges.com/news/the-war-before-the-war-why-supply-chains-industrial-ecosystems-and-national-renewal-decide-americas-future/",
-            "https://www.army.mil",
-            "https://www.army.mil/article/296499/acting_army_secretary_visits_arkansas_to_strengthen_industrial_base_forge_partnerships",
-            "https://defence-industry.eu/u-s-army-prioritizes-industrial-modernization-supply-chain-resilience-and-research-partnerships/",
-            "https://defence-industry.eu/u-s-national-defense-strategy-calls-for-supercharging-americas-defense-industrial-base/"
-          ]
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base.",
-            "US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress."
-          ],
-          "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Starting with the 2024 National Defense Industrial Strategy, policy has evolved toward long-term industrial resilience, culminating in the 2026 strategy's call to supercharge production and lower trade barriers Signal: expanded reliance on allied manufacturing."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Silicon Carbide Substrates depends on University of Arkansas Multi-User Silicon Carbide Research and Fabrication Facility.",
-            "U.S. Government: export licensing on chemical munitions and advanced semiconductor materials development (in_force).",
-            "US / International: sanction on International Traffic in Arms Regulations (ITAR) and Export Administration Regulations (EAR) controlling defense-related technical data, components, and dual-use manufacturing equipment, subject to proposed transatlantic trade barrier reductions outlined in the 2026 National Defense Strategy. (in_force)."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense industry business development and procurement professionals should monitor changing transatlantic trade barriers and increased demand signals to align supply chains accordingly."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "The U.S. National Defense Strategy officially called for national mobilization and supercharging the defense industrial base to scale weapons and ammunition production.",
-        "Context: 11 Jan 2024: The U.S. Department of Defense officially published the 2024 National Defense Industrial Strategy (NDIS) to build long-term industrial resilience. 15 Jan 2025: Pine Bluff Arsenal launched the ARSENAL READY campaign to modernize its industrial park infrastructure through public-private partnerships. 30 Oct 2026: Acting Army Secretary Adam Telle initiated high-level meetings in Arkansas to review Pine Bluff Arsenal's sole-source manufacturing capabilities. Nov 2026: U.S. Army formally publicized strategic priorities integrating commercial supply chain practices (Walmart) and academic research (University of Arkansas). 8 Nov 2026: U.S. National Defense Strategy calls for national mobilization and 'supercharging' the defense industrial base to scale weapons and ammunition production.",
-        "Policy direction: US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base. US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress.",
-        "The bigger picture: Starting with the 2024 National Defense Industrial Strategy, policy has evolved toward long-term industrial resilience, culminating in the 2026 strategy's call to supercharge production and lower trade barriers Signal: expanded reliance on allied manufacturing.",
-        "Down the supply chain: Silicon Carbide Substrates depends on University of Arkansas Multi-User Silicon Carbide Research and Fabrication Facility. U.S. Government: export licensing on chemical munitions and advanced semiconductor materials development (in_force). US / International: sanction on International Traffic in Arms Regulations (ITAR) and Export Administration Regulations (EAR) controlling defense-related technical data, components, and dual-use manufacturing equipment, subject to proposed transatlantic trade barrier reductions outlined in the 2026 National Defense Strategy. (in_force).",
-        "Why it matters: Defense industry business development and procurement professionals should monitor changing transatlantic trade barriers and increased demand signals to align supply chains accordingly.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "U.S. National Defense Strategy calls for ‘supercharging’ America’s defense industrial base",
-          "url": "https://defence-industry.eu/u-s-national-defense-strategy-calls-for-supercharging-americas-defense-industrial-base"
-        },
-        {
-          "n": 2,
-          "title": "Defence Industry Europe",
-          "url": "https://defence-industry.eu/u-s-national-defense-strategy-calls-for-supercharging-americas-defense-industrial-base/"
-        }
-      ],
-      "place": {
-        "label": "Washington, D.C.",
-        "lat": 38.8951,
-        "lon": -77.0364
-      }
-    },
-    {
-      "id": "syn-607",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-08",
-      "title": "Lockheed Martin Invests Over $8B to Expand Missile Production",
-      "summary": "Lockheed Martin plans to invest over $8 billion and add 2 million square feet of manufacturing space across eight sites over three years.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Lockheed Martin plans to invest over $8 billion and add 2 million square feet of manufacturing space across eight sites over three years."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "2014: Production decision reached for the PAC-3 MSE interceptor.",
-            "30 Jan 2026: State Department approves a possible FMS to Saudi Arabia for PAC-3 MSE missiles and related equipment (Approved, USD 9 billion).",
-            "7 Jul 2026: United States, Germany, the Netherlands, Poland, and Sweden sign a joint government-to-government agreement at the NATO Summit Defense Industry Forum in Ankara to explore a regional PAC-3 maintenance facility in Europe (Agreement).",
-            "27 Jul 2026: Department of War, L3Harris, and Lockheed Martin ink framework agreements to expand solid rocket motor and propulsion output for PAC-3 MSE (Agreement).",
-            "29 Jul 2026: Lockheed Martin secures a 7-year multiyear contract modification worth up to $53.86 billion from the U.S. Government to triple PAC-3 MSE production (Contract, USD 53.86 billion).",
-            "6 Oct 2026: Boeing locks in a 7-year undefinitized contract valued at $14.7 billion to triple PAC-3 MSE seeker production at Huntsville, Alabama (Contract, USD 14.7 billion).",
-            "27 Oct 2026: Poland is officially announced as the host nation for the European PAC-3 Missile Maintenance Facility (MMF) on the margins of the NATO CNAD meeting."
-          ],
-          "list": true,
-          "links": [
-            "https://defence-blog.com/five-nato-nations-plan-a-patriot-missile-repair-hub-inside-europe/",
-            "https://defence-blog.com/five-nato-nations-plan-a-patriot-missile-repair-hub-inside-europe/",
-            "https://defence-blog.com/five-nato-nations-plan-a-patriot-missile-repair-hub-inside-europe/",
-            "https://defence-blog.com/five-nato-nations-plan-a-patriot-missile-repair-hub-inside-europe/",
-            "https://www.army-technology.com/news/lockheed-martin-pac3-missile-contract/",
-            "https://industrialbasealpha.com/article/boeing-secures-14-7b-pac-3-mse-seeker-production-agreement-triples-output",
-            "https://defence-blog.com/five-nato-nations-plan-a-patriot-missile-repair-hub-inside-europe/"
-          ]
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base.",
-            "US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress."
-          ],
-          "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following the 2014 production decision for the PAC-3 MSE, the U.S. government and prime contractors established long-term framework agreements in 2026 to scale output and establish a European maintenance facility in Poland, pointing toward a sustained industrial base expansion."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "PAC-3 MSE depends on Lockheed Martin — All-Up Round Integration & Final Assembly — Camden, Arkansas facility.",
-            "PAC-3 MSE depends on Boeing — Guidance & Seeker Subsystem — Huntsville, Alabama facility."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Procurement and supply chain professionals across the missile tier-1 and tier-2 vendor base should monitor capacity scaling and supplier contract awards to align component deliveries with surging production targets."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Lockheed Martin plans to invest over $8 billion and add 2 million square feet of manufacturing space across eight sites over three years.",
-        "Context: 2014: Production decision reached for the PAC-3 MSE interceptor. 30 Jan 2026: State Department approves a possible FMS to Saudi Arabia for PAC-3 MSE missiles and related equipment (Approved, USD 9 billion). 7 Jul 2026: United States, Germany, the Netherlands, Poland, and Sweden sign a joint government-to-government agreement at the NATO Summit Defense Industry Forum in Ankara to explore a regional PAC-3 maintenance facility in Europe (Agreement). 27 Jul 2026: Department of War, L3Harris, and Lockheed Martin ink framework agreements to expand solid rocket motor and propulsion output for PAC-3 MSE (Agreement). 29 Jul 2026: Lockheed Martin secures a 7-year multiyear contract modification worth up to $53.86 billion from the U.S. Government to triple PAC-3 MSE production (Contract, USD 53.86 billion). 6 Oct 2026: Boeing locks in a 7-year undefinitized contract valued at $14.7 billion to triple PAC-3 MSE seeker production at Huntsville, Alabama (Contract, USD 14.7 billion). 27 Oct 2026: Poland is officially announced as the host nation for the European PAC-3 Missile Maintenance Facility (MMF) on the margins of the NATO CNAD meeting.",
-        "Policy direction: US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base. US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress.",
-        "The bigger picture: Following the 2014 production decision for the PAC-3 MSE, the U.S. government and prime contractors established long-term framework agreements in 2026 to scale output and establish a European maintenance facility in Poland, pointing toward a sustained industrial base expansion.",
-        "Down the supply chain: PAC-3 MSE depends on Lockheed Martin — All-Up Round Integration & Final Assembly — Camden, Arkansas facility. PAC-3 MSE depends on Boeing — Guidance & Seeker Subsystem — Huntsville, Alabama facility.",
-        "Why it matters: Procurement and supply chain professionals across the missile tier-1 and tier-2 vendor base should monitor capacity scaling and supplier contract awards to align component deliveries with surging production targets.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Defence Industry Europe",
-          "url": "https://defence-industry.eu/lockheed-martin-top-managers-say-company-will-invest-over-8-billion-to-expand-missile-production/"
-        }
-      ],
-      "place": {
-        "label": "Troy, Alabama",
-        "lat": 31.8085,
-        "lon": -85.9702
-      }
-    },
-    {
-      "id": "syn-608",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-08",
-      "title": "RYAN AEROSPACE launches T-6 Texan II mixed reality training device",
-      "summary": "RYAN AEROSPACE unveiled its T-6 Texan II Mixed Reality Immersive Training Device, which pairs a physical cockpit with the Varjo XR-4 headset to provide lower-cost training.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "RYAN AEROSPACE unveiled its T-6 Texan II Mixed Reality Immersive Training Device, which pairs a physical cockpit with the Varjo XR-4 headset to provide lower-cost training."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "23 Jan 2023: Navy issues RFI 23-0001 for the UJTS programme targeting an initial operational capability.",
-            "26 Mar 2026: The U.S. Navy released the final Request for Proposals (RFP) for the UJTS program, aiming to acquire 216 aircraft with proposals due initially in June 2026.",
-            "Apr 2026: Lockheed Martin and Korea Aerospace Industries (KAI) formally withdrew their TF-50N offering from the UJTS competition.",
-            "12 Jun 2026: Boeing withdraws its T-7A entry, stating it does not meet UJTS engine qualification rules.",
-            "23 Jun 2026: Boeing withdrew the T-7A Red Hawk from the UJTS race, pointing to engine qualification hurdles and past stress on fixed-price manufacturing.",
-            "9 Sep 2026: Following proposal deadline extensions and pushback over fixed-price metrics, Northrop Grumman pulled out of the SNC-led Team Freedom partnership.",
-            "30 Oct 2026: Proposal submission deadline extended to October 30, with engineering and manufacturing development price ceiling raised to $2,700,000,000 USD (Funding, USD 2.7 billion)."
-          ],
-          "list": true,
-          "links": [
-            "https://theaviationist.com/2024/07/01/ujts-rfi/",
-            "https://aeronauticsmagazine.com/news/the-t-45-goshawks-replacement-race-is-on-navy-sets-2027-contract-award-target",
-            "https://aeronauticsmagazine.com/news/the-t-45-goshawks-replacement-race-is-on-navy-sets-2027-contract-award-target",
-            "https://theaviationist.com/2026/06/12/boeing-will-not-bid-for-ujts/",
-            "https://aeronauticsmagazine.com/news/the-t-45-goshawks-replacement-race-is-on-navy-sets-2027-contract-award-target",
-            "https://aeronauticsmagazine.com/news/the-t-45-goshawks-replacement-race-is-on-navy-sets-2027-contract-award-target",
-            "https://defense.info/re-shaping-defense-security/2026/10/time-is-not-an-independent-variable-why-the-navy-must-hold-the-ujts-award-date/"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Signal: increased adoption of mixed reality training platforms."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Beechcraft M-346N Advanced Jet Trainer depends on Honeywell F124-GA-200 Turbofan Engines (dual powerplant configuration)."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense procurement professionals should evaluate mixed reality alternatives like RYAN AEROSPACE's T-6 ITD to mitigate escalating training costs and hardware bottlenecks."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "RYAN AEROSPACE unveiled its T-6 Texan II Mixed Reality Immersive Training Device, which pairs a physical cockpit with the Varjo XR-4 headset to provide lower-cost training.",
-        "Context: 23 Jan 2023: Navy issues RFI 23-0001 for the UJTS programme targeting an initial operational capability. 26 Mar 2026: The U.S. Navy released the final Request for Proposals (RFP) for the UJTS program, aiming to acquire 216 aircraft with proposals due initially in June 2026. Apr 2026: Lockheed Martin and Korea Aerospace Industries (KAI) formally withdrew their TF-50N offering from the UJTS competition. 12 Jun 2026: Boeing withdraws its T-7A entry, stating it does not meet UJTS engine qualification rules. 23 Jun 2026: Boeing withdrew the T-7A Red Hawk from the UJTS race, pointing to engine qualification hurdles and past stress on fixed-price manufacturing. 9 Sep 2026: Following proposal deadline extensions and pushback over fixed-price metrics, Northrop Grumman pulled out of the SNC-led Team Freedom partnership. 30 Oct 2026: Proposal submission deadline extended to October 30, with engineering and manufacturing development price ceiling raised to $2,700,000,000 USD (Funding, USD 2.7 billion).",
-        "The bigger picture: Signal: increased adoption of mixed reality training platforms.",
-        "Down the supply chain: Beechcraft M-346N Advanced Jet Trainer depends on Honeywell F124-GA-200 Turbofan Engines (dual powerplant configuration).",
-        "Why it matters: Defense procurement professionals should evaluate mixed reality alternatives like RYAN AEROSPACE's T-6 ITD to mitigate escalating training costs and hardware bottlenecks.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "APDR",
-          "url": "https://asiapacificdefencereporter.com/ryan-aerospace-launches-t-6-texan-ii-mixed-reality-training-device/"
-        }
-      ],
-      "place": {
-        "label": "Orlando, Florida",
-        "lat": 28.5383,
-        "lon": -81.3792
       }
     }
   ]
