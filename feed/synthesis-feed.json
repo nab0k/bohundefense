@@ -3,6 +3,165 @@
   "notice": "Syntheses prepared by machine from open sources and approved by the editor. Check the sources.",
   "items": [
     {
+      "id": "syn-813",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-12",
+      "title": "Royal Navy to Trial Northrop Grumman Talon Blue Drones on Carriers",
+      "summary": "The Royal Navy and Northrop Grumman are preparing to sign a Statement of Intent to evaluate the Talon Blue drone under Project Vanquish, following its first autonomous flight in October 2026.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "The Royal Navy and Northrop Grumman are preparing to sign a Statement of Intent to evaluate the Talon Blue drone under Project Vanquish, following its first autonomous flight in October 2026."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "2021: The Royal Navy unveils the \"Vixen\" project under its \"Future Maritime Force\" framework to study fixed-wing carrier-launched combat drones.",
+            "2025: Project Vanquish is established jointly with the Royal Air Force to test autonomous collaborative platforms for carrier operations.",
+            "3 Oct 2026: Northrop Grumman announces the first successful fully autonomous flight of the Talon Blue demonstrator at Mojave Air and Space Port.",
+            "10 Nov 2026: First Sea Lord General Sir Gwyn Jenkins confirms plans for carrier trials during the International Sea Power Conference in Oslo (Testing).",
+            "12 Nov 2026: The Royal Navy and Northrop Grumman formally prepare to sign a Statement of Intent regarding Talon Blue trials under Project Vanquish (Testing).",
+            "2027: Planned demonstration and launch of the Talon Blue drone from the aircraft carrier HMS Prince of Wales in UK waters."
+          ],
+          "list": true,
+          "links": [
+            "https://www.opex360.com/2026/11/12/la-royal-navy-va-tester-le-drone-de-combat-yfq-84a-talon-blue-de-northrop-grumman-depuis-lun-ses-porte-avions/",
+            "https://www.eurasiantimes.com/after-f-35b-first-u-s-jet-powered-cca-drone-talon-blue-to-fly-from-a-british-aircraft-carrier-in-2027/",
+            "https://industrialbasealpha.com/article/royal-navy-to-fly-northrop-grumman-yfq-48a-talon-from-carrier-in-2027",
+            "https://www.eurasiantimes.com/after-f-35b-first-u-s-jet-powered-cca-drone-talon-blue-to-fly-from-a-british-aircraft-carrier-in-2027/",
+            "https://www.eurasiantimes.com/after-f-35b-first-u-s-jet-powered-cca-drone-talon-blue-to-fly-from-a-british-aircraft-carrier-in-2027/",
+            "https://www.eurasiantimes.com/after-f-35b-first-u-s-jet-powered-cca-drone-talon-blue-to-fly-from-a-british-aircraft-carrier-in-2027/"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "The Royal Navy has steadily evolved its uncrewed carrier ambitions from early 2021 feasibility studies into joint RAF-Navy collaborative platform initiatives, culminating in planned 2027 carrier trials for autonomous systems"
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Talon Blue uncrewed combat aircraft depends on Pratt & Whitney PW500 series turbofan engine — commercial turbofan engine adapted for propulsion.",
+            "Talon Blue uncrewed combat aircraft depends on Autonomous flight control computers and artificial intelligence software stack — Proprietary."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "The Royal Navy plans carrier trials of the Talon Blue drone, which uses a Pratt & Whitney PW500 series turbofan engine and proprietary autonomous flight control computers."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "The Royal Navy and Northrop Grumman are preparing to sign a Statement of Intent to evaluate the Talon Blue drone under Project Vanquish, following its first autonomous flight in October 2026.",
+        "Context: 2021: The Royal Navy unveils the \"Vixen\" project under its \"Future Maritime Force\" framework to study fixed-wing carrier-launched combat drones. 2025: Project Vanquish is established jointly with the Royal Air Force to test autonomous collaborative platforms for carrier operations. 3 Oct 2026: Northrop Grumman announces the first successful fully autonomous flight of the Talon Blue demonstrator at Mojave Air and Space Port. 10 Nov 2026: First Sea Lord General Sir Gwyn Jenkins confirms plans for carrier trials during the International Sea Power Conference in Oslo (Testing). 12 Nov 2026: The Royal Navy and Northrop Grumman formally prepare to sign a Statement of Intent regarding Talon Blue trials under Project Vanquish (Testing). 2027: Planned demonstration and launch of the Talon Blue drone from the aircraft carrier HMS Prince of Wales in UK waters.",
+        "The bigger picture: The Royal Navy has steadily evolved its uncrewed carrier ambitions from early 2021 feasibility studies into joint RAF-Navy collaborative platform initiatives, culminating in planned 2027 carrier trials for autonomous systems",
+        "Down the supply chain: Talon Blue uncrewed combat aircraft depends on Pratt & Whitney PW500 series turbofan engine — commercial turbofan engine adapted for propulsion. Talon Blue uncrewed combat aircraft depends on Autonomous flight control computers and artificial intelligence software stack — Proprietary.",
+        "Why it matters: The Royal Navy plans carrier trials of the Talon Blue drone, which uses a Pratt & Whitney PW500 series turbofan engine and proprietary autonomous flight control computers.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Zone Militaire",
+          "url": "https://www.opex360.com/2026/11/12/la-royal-navy-va-tester-le-drone-de-combat-yfq-84a-talon-blue-de-northrop-grumman-depuis-lun-ses-porte-avions/"
+        }
+      ],
+      "place": {
+        "label": "London, United Kingdom",
+        "lat": 51.5074,
+        "lon": -0.1278
+      }
+    },
+    {
+      "id": "syn-814",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-12",
+      "title": "Northrop Grumman and Hermeus Partner on High-Speed Mission Systems",
+      "summary": "Northrop Grumman and Hermeus announced a strategic teaming agreement on November 12, 2026, to integrate Northrop's mission systems into Hermeus' Quarterhorse aircraft.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Northrop Grumman and Hermeus announced a strategic teaming agreement on November 12, 2026, to integrate Northrop's mission systems into Hermeus' Quarterhorse aircraft."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "May 2018: Hermeus is founded in Atlanta, Georgia, to develop high-Mach and hypersonic aircraft, securing initial backing led by Khosla Ventures.",
+            "27 May 2025: Hermeus completes the first flight of the uncrewed Quarterhorse Mk 1 demonstrator powered by a GE J85 engine at Edwards Air Force Base (Testing).",
+            "3 Mar 2026: Hermeus flies the Quarterhorse Mk 2.1 supersonic-capable demonstrator powered by a Pratt & Whitney F100 engine.",
+            "7 Apr 2026: Hermeus closes a $350 million Series C funding round at a $1 billion valuation, led by Khosla Ventures with participation from RTX Ventures and In-Q-Tel (Funding, USD 350 million).",
+            "Sep 2026: Hermeus signs a production license agreement with Pratt & Whitney to manufacture the F100-PW-229 engine (Agreement).",
+            "15 Sep 2026: The Defense Innovation Unit (DIU) awards Hermeus a $159 million contract modification, bringing the total contract ceiling to $219 million for high-Mach payload-release flight tests (Testing, USD 219 million).",
+            "12 Nov 2026: Northrop Grumman and Hermeus announce a strategic teaming agreement to integrate Northrop’s mission systems into Quarterhorse aircraft (Agreement)."
+          ],
+          "list": true,
+          "links": [
+            "https://www.tectonicdefense.com/hermeus-scores-159m-diu-contract-extension/",
+            "https://en.wikipedia.org/wiki/Hermeus",
+            "https://www.ventureatlas.org/product/hermeus-darkhorse",
+            "https://www.tectonicdefense.com/hermeus-scores-159m-diu-contract-extension/",
+            "https://www.ventureatlas.org/product/hermeus-darkhorse",
+            "https://www.ventureatlas.org/product/hermeus-darkhorse",
+            "https://www.prnewswire.com/news-releases/hermeus-and-northrop-grumman-team-up-to-bring-advanced-mission-systems-to-high-mach-aircraft-302937103.html"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following its founding in 2018 and subsequent flight demonstrations of the Quarterhorse series through 2026, Hermeus is increasingly combining its high-speed airframes with established defense electronics suppliers to field operational capabilities rapidly."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Hermeus depends on U.S. Government standard architecture integration — Open Mission Systems / Universal Command and Control Interface (OMS/UCI) and Agile Mission Suite (AMS-GRA) software modules."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense industry business development and supply chain professionals should monitor this partnership as a model for pairing emerging high-Mach airframe developers with prime contractor mission payloads."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Northrop Grumman and Hermeus announced a strategic teaming agreement on November 12, 2026, to integrate Northrop's mission systems into Hermeus' Quarterhorse aircraft.",
+        "Context: May 2018: Hermeus is founded in Atlanta, Georgia, to develop high-Mach and hypersonic aircraft, securing initial backing led by Khosla Ventures. 27 May 2025: Hermeus completes the first flight of the uncrewed Quarterhorse Mk 1 demonstrator powered by a GE J85 engine at Edwards Air Force Base (Testing). 3 Mar 2026: Hermeus flies the Quarterhorse Mk 2.1 supersonic-capable demonstrator powered by a Pratt & Whitney F100 engine. 7 Apr 2026: Hermeus closes a $350 million Series C funding round at a $1 billion valuation, led by Khosla Ventures with participation from RTX Ventures and In-Q-Tel (Funding, USD 350 million). Sep 2026: Hermeus signs a production license agreement with Pratt & Whitney to manufacture the F100-PW-229 engine (Agreement). 15 Sep 2026: The Defense Innovation Unit (DIU) awards Hermeus a $159 million contract modification, bringing the total contract ceiling to $219 million for high-Mach payload-release flight tests (Testing, USD 219 million). 12 Nov 2026: Northrop Grumman and Hermeus announce a strategic teaming agreement to integrate Northrop’s mission systems into Quarterhorse aircraft (Agreement).",
+        "The bigger picture: Following its founding in 2018 and subsequent flight demonstrations of the Quarterhorse series through 2026, Hermeus is increasingly combining its high-speed airframes with established defense electronics suppliers to field operational capabilities rapidly.",
+        "Down the supply chain: Hermeus depends on U.S. Government standard architecture integration — Open Mission Systems / Universal Command and Control Interface (OMS/UCI) and Agile Mission Suite (AMS-GRA) software modules.",
+        "Why it matters: Defense industry business development and supply chain professionals should monitor this partnership as a model for pairing emerging high-Mach airframe developers with prime contractor mission payloads.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/northrop-grumman-says-it-will-integrate-mission-systems-into-hermeus-high-speed-quarterhorse-aircraft/"
+        }
+      ],
+      "place": {
+        "label": "Atlanta, Georgia, USA",
+        "lat": 33.749,
+        "lon": -84.388
+      }
+    },
+    {
       "id": "syn-779",
       "status": "approved",
       "kind": "Synthesis",
@@ -7869,179 +8028,6 @@
         "label": "Birkenhead",
         "lat": 53.3934,
         "lon": -3.0163
-      }
-    },
-    {
-      "id": "syn-667",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-09",
-      "title": "Airbus and Thales Win €1.5B French IRIS Satellite Contract",
-      "summary": "Airbus Defence and Space and Thales Alenia Space secured a contract exceeding €1.5 billion from the French Ministry of Armed Forces to build two IRIS military observation satellites.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Airbus Defence and Space and Thales Alenia Space secured a contract exceeding €1.5 billion from the French Ministry of Armed Forces to build two IRIS military observation satellites."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "5 Dec 2022: Council and European Parliament reach political agreement on boosting secure communications with a new satellite system (IRIS²) (Agreement).",
-            "26 Mar 2026: Norway and Iceland formally join the EU’s GOVSATCOM and IRIS² frameworks.",
-            "21 Jul 2026: Poland boosts its financial contribution to the IRIS² constellation to €656 million under a supplemental agreement (Agreement).",
-            "7 Aug 2026: Formal implementation agreement signed between the European Commission and SpaceRISE, accelerating rollout (Agreement).",
-            "31 Aug 2026: SES awards OHB a €1 billion contract to develop and produce 18 Medium Earth Orbit (MEO) satellites (Contract).",
-            "10 Sep 2026: Eutelsat awards major LEO component contracts totaling over €5.4 billion to Airbus Defence and Space, Aerospacelab, and Thales Alenia Space (Contract).",
-            "30 Oct 2026: MDA Space signs an authorization-to-proceed (ATP) agreement valued at over $100M CAD/USD with Thales Alenia Space to supply AURORA broadband digital phased array antennas for the first 66 Layer 1 IRIS² satellites (Agreement)."
-          ],
-          "list": true,
-          "links": [
-            "https://en.wikipedia.org/wiki/IRIS%C2%B2",
-            "https://en.wikipedia.org/wiki/IRIS%C2%B2",
-            "https://en.wikipedia.org/wiki/IRIS%C2%B2",
-            "https://aitimeline.in/european-space-race-timeline-1979-2030-7462/",
-            "https://aitimeline.in/european-space-race-timeline-1979-2030-7462/",
-            "https://europeanspaceflight.com/aerospacelab-thales-alenia-space-secure-e5-4-billion-in-iris2-contracts/",
-            "https://mda.space/article/iris2-constellation-mda-space-to-provide-thales-alenia-space-with-digital-antenna-subsystems-for-66-early-delivery-satellites"
-          ]
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "EU — Preserving Peace – Defence Readiness Roadmap 2030 (2025-10-16): Milestones towards full EU defence readiness by 2030, with four flagships: European Drone Defence Initiative, Eastern Flank Watch, European Air Shield and European Space Shield.",
-            "FR — Actualisation de la loi de programmation militaire 2024-2030 (2026-08-16): €36 billion extra for the armed forces in 2026–2030 on top of the €413 billion LPM: nuclear deterrence, air defence, counter-drone, deep strike, munitions, drones, space and electromagnetic warfare."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "IRIS² satellites depends on MDA AURORA™ broadband digital phased array antennas and digital antenna controller — Subsystem."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defence contractors and subsystem suppliers should monitor expanding European optical and secure communication satellite programmes for partnership and tier-one supply chain opportunities."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Airbus Defence and Space and Thales Alenia Space secured a contract exceeding €1.5 billion from the French Ministry of Armed Forces to build two IRIS military observation satellites.",
-        "Context: 5 Dec 2022: Council and European Parliament reach political agreement on boosting secure communications with a new satellite system (IRIS²) (Agreement). 26 Mar 2026: Norway and Iceland formally join the EU’s GOVSATCOM and IRIS² frameworks. 21 Jul 2026: Poland boosts its financial contribution to the IRIS² constellation to €656 million under a supplemental agreement (Agreement). 7 Aug 2026: Formal implementation agreement signed between the European Commission and SpaceRISE, accelerating rollout (Agreement). 31 Aug 2026: SES awards OHB a €1 billion contract to develop and produce 18 Medium Earth Orbit (MEO) satellites (Contract). 10 Sep 2026: Eutelsat awards major LEO component contracts totaling over €5.4 billion to Airbus Defence and Space, Aerospacelab, and Thales Alenia Space (Contract). 30 Oct 2026: MDA Space signs an authorization-to-proceed (ATP) agreement valued at over $100M CAD/USD with Thales Alenia Space to supply AURORA broadband digital phased array antennas for the first 66 Layer 1 IRIS² satellites (Agreement).",
-        "Policy direction: EU — Preserving Peace – Defence Readiness Roadmap 2030 (2025-10-16): Milestones towards full EU defence readiness by 2030, with four flagships: European Drone Defence Initiative, Eastern Flank Watch, European Air Shield and European Space Shield. FR — Actualisation de la loi de programmation militaire 2024-2030 (2026-08-16): €36 billion extra for the armed forces in 2026–2030 on top of the €413 billion LPM: nuclear deterrence, air defence, counter-drone, deep strike, munitions, drones, space and electromagnetic warfare.",
-        "Down the supply chain: IRIS² satellites depends on MDA AURORA™ broadband digital phased array antennas and digital antenna controller — Subsystem.",
-        "Why it matters: Defence contractors and subsystem suppliers should monitor expanding European optical and secure communication satellite programmes for partnership and tier-one supply chain opportunities.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Defence Industry Europe",
-          "url": "https://defence-industry.eu/airbus-and-thales-alenia-space-to-build-two-french-military-satellites-in-deal-worth-over-e1-5-billion/"
-        },
-        {
-          "n": 2,
-          "title": "Zone Militaire",
-          "url": "https://www.opex360.com/2026/11/09/le-ministere-des-armees-lance-la-realisation-de-deux-satellites-dobservation-iris-pour-15-milliard-deuros/"
-        }
-      ],
-      "place": {
-        "label": "Paris",
-        "lat": 48.8566,
-        "lon": 2.3522
-      }
-    },
-    {
-      "id": "syn-668",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-09",
-      "title": "Machina Wins $9M Contract for Containerized Drone Micro-Factories",
-      "summary": "Machina received an 18-month contract from the Defense Department’s Organic Industrial Base Modernization Challenge to deploy its RoboCraftsman system for building LUCAS airframes.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Machina received an 18-month contract from the Defense Department’s Organic Industrial Base Modernization Challenge to deploy its RoboCraftsman system for building LUCAS airframes."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "10 Jul 2025: U.S. Secretary of Defense issued a memorandum targeting military drone dominance and accelerated industrial base adoption (Agreement).",
-            "11 Aug 2026: America Makes and the Department of War opened the Organic Industrial Base Modernization Challenge 2026, allocating up to $15 million per award for advanced manufacturing projects.",
-            "12 Aug 2026: Air Force funds added $9 million toward metal printing and robotic manufacturing test initiatives involving Machina Labs (USD 9 million).",
-            "6 Nov 2026: Machina selected for an 18-month contract to demonstrate containerized robotic production of LUCAS airframes using its RoboCraftsman platform (Contract, USD 9 million)."
-          ],
-          "list": true,
-          "links": [
-            "https://www.twz.com/news-features/lucas-drones-to-be-built-in-containerized-robotic-micro-factories-designed-to-be-forward-deployed",
-            "https://machinalabs.ai/resources/machina-selected-by-u.s.-department-of-war-to-deploy-expeditionary-robotic-factories-for-lucas-manufacturing?hs_amp=true",
-            "https://defensewarroom.com/2026/11/09/lucas-drone-airframe-machina-robotic-factories/",
-            "https://machinalabs.ai/resources/machina-selected-by-u.s.-department-of-war-to-deploy-expeditionary-robotic-factories-for-lucas-manufacturing?hs_amp=true"
-          ]
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "US — Unleashing U.S. Military Drone Dominance (Secretary of Defense memorandum) (2025-07-10): Ramp up US production and fielding of low-cost drones: buy American-made drones and parts, equip combat units, and delegate drone procurement authority down to commanders."
-          ],
-          "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following the 2025 Pentagon memorandum on drone dominance and subsequent advanced manufacturing challenges in 2026, defense procurement is increasingly shifting toward forward-deployed, flexible micro-factories."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "RoboCraftsman / RoboForming platform (Machina) depends on Robotic metal-forming hardware & AI cells."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense supply chain and procurement professionals should monitor containerized manufacturing solutions to reduce logistical vulnerabilities near point-of-need operations."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Machina received an 18-month contract from the Defense Department’s Organic Industrial Base Modernization Challenge to deploy its RoboCraftsman system for building LUCAS airframes.",
-        "Context: 10 Jul 2025: U.S. Secretary of Defense issued a memorandum targeting military drone dominance and accelerated industrial base adoption (Agreement). 11 Aug 2026: America Makes and the Department of War opened the Organic Industrial Base Modernization Challenge 2026, allocating up to $15 million per award for advanced manufacturing projects. 12 Aug 2026: Air Force funds added $9 million toward metal printing and robotic manufacturing test initiatives involving Machina Labs (USD 9 million). 6 Nov 2026: Machina selected for an 18-month contract to demonstrate containerized robotic production of LUCAS airframes using its RoboCraftsman platform (Contract, USD 9 million).",
-        "Policy direction: US — Unleashing U.S. Military Drone Dominance (Secretary of Defense memorandum) (2025-07-10): Ramp up US production and fielding of low-cost drones: buy American-made drones and parts, equip combat units, and delegate drone procurement authority down to commanders.",
-        "The bigger picture: Following the 2025 Pentagon memorandum on drone dominance and subsequent advanced manufacturing challenges in 2026, defense procurement is increasingly shifting toward forward-deployed, flexible micro-factories.",
-        "Down the supply chain: RoboCraftsman / RoboForming platform (Machina) depends on Robotic metal-forming hardware & AI cells.",
-        "Why it matters: Defense supply chain and procurement professionals should monitor containerized manufacturing solutions to reduce logistical vulnerabilities near point-of-need operations.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Machina Selected by U.S. Department of War to Deploy Expeditionary Robotic Factories for LUCAS Manufacturing",
-          "url": "https://www.businesswire.com/news/home/20261106297380/en/Machina-Selected-by-U.S.-Department-of-War-to-Deploy-Expeditionary-Robotic-Factories-for-LUCAS-Manufacturing"
-        },
-        {
-          "n": 2,
-          "title": "The War Zone",
-          "url": "https://www.twz.com/news-features/lucas-drones-to-be-built-in-containerized-robotic-micro-factories-designed-to-be-forward-deployed"
-        }
-      ],
-      "place": {
-        "label": "California",
-        "lat": 36.7783,
-        "lon": -119.4179
       }
     }
   ]
