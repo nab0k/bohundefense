@@ -3,6 +3,295 @@
   "notice": "Syntheses prepared by machine from open sources and approved by the editor. Check the sources.",
   "items": [
     {
+      "id": "syn-886",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-14",
+      "title": "Zelenskyy addresses Starshield speed restrictions as U.S. lawmakers launch inquiry",
+      "summary": "Starshield speed restrictions of up to 161 km/h remain in place in Ukraine's temporarily occupied territories, complicating air defense interception capabilities. U.S. Senators demanded that SpaceX preserve documents regarding the disruptions to Ukraine's access.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Starshield speed restrictions of up to 161 km/h remain in place in Ukraine's temporarily occupied territories, complicating air defense interception capabilities. U.S. Senators demanded that SpaceX preserve documents regarding the disruptions to Ukraine's access."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "Feb 2022: SpaceX rapidly activates its Starlink satellite internet service in Ukraine following the Russian invasion to support civilian and military infrastructure.",
+            "Feb 2024: Reports highlight scaling defense integration, with NRO and Space Development Agency multi-billion dollar framework agreements taking shape (Agreement).",
+            "14 Feb 2026: Starlink implements terminal whitelisting across Ukraine to block unauthorized or illicitly acquired Russian military terminals, disrupting enemy frontline communications.",
+            "14 Oct 2026: SpaceX/U.S. administrators impose a sudden speed restriction of 160 km/h (100 mph) on Starshield/Starlink terminals in Ukraine, degrading fast-moving drone guidance and air defense interception capabilities.",
+            "24 Oct 2026: Ukrainian authorities report that restrictions have been lifted and normal terminal operating speeds restored following high-level engagement.",
+            "13 Nov 2026: U.S. Senators Jeanne Shaheen and Chris Coons, alongside House defense leaders, demand that SpaceX and the Pentagon preserve records regarding the restrictions and immediately restore capabilities.",
+            "14 Nov 2026: President Zelenskyy formally addresses the active 161 km/h speed ceilings in occupied zones, prompting immediate congressional letters of inquiry setting a November 30 preservation deadline."
+          ],
+          "list": true,
+          "links": [
+            "https://en.wikipedia.org/wiki/Starlink_in_the_Russo-Ukrainian_war",
+            "https://en.wikipedia.org/wiki/Starlink_in_the_Russo-Ukrainian_war",
+            "https://en.wikipedia.org/wiki/Starlink_in_the_Russo-Ukrainian_war",
+            "https://www.foreign.senate.gov/press/dem/release/ranking-member-shaheen-senator-coons-demand-elon-musk-preserve-documents-regarding-ukraines-access-to-starlink-and-starshield",
+            "https://www.foreign.senate.gov/press/dem/release/ranking-member-shaheen-senator-coons-demand-elon-musk-preserve-documents-regarding-ukraines-access-to-starlink-and-starshield",
+            "https://www.foreign.senate.gov/press/dem/release/ranking-member-shaheen-senator-coons-demand-elon-musk-preserve-documents-regarding-ukraines-access-to-starlink-and-starshield",
+            "https://www.foreign.senate.gov/press/dem/release/ranking-member-shaheen-senator-coons-demand-elon-musk-preserve-documents-regarding-ukraines-access-to-starlink-and-starshield"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Commercial satellite integration has expanded significantly through framework agreements since 2024, but recent terminal speed restrictions in late 2026 have sparked congressional scrutiny regarding operational control and transparency, signaling a shift toward stricter oversight of commercial space assets in conflict zones."
+          ],
+          "list": false
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense procurement and supply chain professionals should monitor potential statutory changes regarding commercial satellite operational controls and contractual accountability."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Starshield speed restrictions of up to 161 km/h remain in place in Ukraine's temporarily occupied territories, complicating air defense interception capabilities. U.S. Senators demanded that SpaceX preserve documents regarding the disruptions to Ukraine's access.",
+        "Context: Feb 2022: SpaceX rapidly activates its Starlink satellite internet service in Ukraine following the Russian invasion to support civilian and military infrastructure. Feb 2024: Reports highlight scaling defense integration, with NRO and Space Development Agency multi-billion dollar framework agreements taking shape (Agreement). 14 Feb 2026: Starlink implements terminal whitelisting across Ukraine to block unauthorized or illicitly acquired Russian military terminals, disrupting enemy frontline communications. 14 Oct 2026: SpaceX/U.S. administrators impose a sudden speed restriction of 160 km/h (100 mph) on Starshield/Starlink terminals in Ukraine, degrading fast-moving drone guidance and air defense interception capabilities. 24 Oct 2026: Ukrainian authorities report that restrictions have been lifted and normal terminal operating speeds restored following high-level engagement. 13 Nov 2026: U.S. Senators Jeanne Shaheen and Chris Coons, alongside House defense leaders, demand that SpaceX and the Pentagon preserve records regarding the restrictions and immediately restore capabilities. 14 Nov 2026: President Zelenskyy formally addresses the active 161 km/h speed ceilings in occupied zones, prompting immediate congressional letters of inquiry setting a November 30 preservation deadline.",
+        "The bigger picture: Commercial satellite integration has expanded significantly through framework agreements since 2024, but recent terminal speed restrictions in late 2026 have sparked congressional scrutiny regarding operational control and transparency, signaling a shift toward stricter oversight of commercial space assets in conflict zones.",
+        "Why it matters: Defense procurement and supply chain professionals should monitor potential statutory changes regarding commercial satellite operational controls and contractual accountability.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Ukrinform",
+          "url": "https://www.ukrinform.net/rubric-polytics/4184661-zelensky-on-starshield-restrictions-in-temporarily-occupied-territories-ukraine-to-raise-this-issue-at-every-level.html"
+        }
+      ],
+      "place": null
+    },
+    {
+      "id": "syn-887",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-14",
+      "title": "Ukrainian drones heavily damage Russian corvette Naro-Fominsk in Baltic Sea",
+      "summary": "Ukrainian Security Service drones executed a multi-hit coordinated attack on the Naro-Fominsk near Gogland Island in the Gulf of Finland on 11 November 2026, causing heavy damage and casualties.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Ukrainian Security Service drones executed a multi-hit coordinated attack on the Naro-Fominsk near Gogland Island in the Gulf of Finland on 11 November 2026, causing heavy damage and casualties."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "9 Dec 2022: The Naro-Fominsk is formally floated out (launched) from Zelenodolsk.",
+            "23 Dec 2023: Naro-Fominsk is officially commissioned and integrated into the Russian Navy's Baltic Fleet (Delivered).",
+            "11 Nov 2026: Ukrainian Security Service (SBU) drones execute a multi-hit coordinated attack on the Naro-Fominsk near Gogland Island in the Gulf of Finland during strikes on Ust-Luga port infrastructure, causing heavy damage and casualties."
+          ],
+          "list": true,
+          "links": [
+            "https://militarnyi.com/en/news/russian-buyan-m-class-missile-ship-naro-fominsk-hit-near-gogland-island/",
+            "https://www.janes.com/defence-intelligence-insights/defence-news/sea/finland-detects-strike-on-russian-warship-ukraine-claims-attack",
+            "https://militarnyi.com/en/news/russian-buyan-m-class-missile-ship-naro-fominsk-hit-near-gogland-island/"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following its launch in December 2022 and commissioning into the Baltic Fleet in December 2023, the Naro-Fominsk has now sustained heavy damage from drone strikes in November 2026, signaling increased vulnerability for Russian naval assets in enclosed maritime approaches."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "PAO Zvezda depends on Propulsion (Diesel Powerplants) — Saint Petersburg, Russia - manufacturer of high-speed M507 / CHD622V20 diesel engines.",
+            "Concern Morinformsystem-Agat depends on Vertical Launch System (VLS) — JSC Novator / 3S14 UKSK VLS launcher family for Kalibr/Oniks.",
+            "JSC Concern Granit-Electron depends on Combat Management & Radar Suite — Pozitiv-M radar and fire control systems."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Naval procurement and supply chain professionals should monitor propulsion and combat system dependencies for potential replacement bottlenecks following combat losses."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Ukrainian Security Service drones executed a multi-hit coordinated attack on the Naro-Fominsk near Gogland Island in the Gulf of Finland on 11 November 2026, causing heavy damage and casualties.",
+        "Context: 9 Dec 2022: The Naro-Fominsk is formally floated out (launched) from Zelenodolsk. 23 Dec 2023: Naro-Fominsk is officially commissioned and integrated into the Russian Navy's Baltic Fleet (Delivered). 11 Nov 2026: Ukrainian Security Service (SBU) drones execute a multi-hit coordinated attack on the Naro-Fominsk near Gogland Island in the Gulf of Finland during strikes on Ust-Luga port infrastructure, causing heavy damage and casualties.",
+        "The bigger picture: Following its launch in December 2022 and commissioning into the Baltic Fleet in December 2023, the Naro-Fominsk has now sustained heavy damage from drone strikes in November 2026, signaling increased vulnerability for Russian naval assets in enclosed maritime approaches.",
+        "Down the supply chain: PAO Zvezda depends on Propulsion (Diesel Powerplants) — Saint Petersburg, Russia - manufacturer of high-speed M507 / CHD622V20 diesel engines. Concern Morinformsystem-Agat depends on Vertical Launch System (VLS) — JSC Novator / 3S14 UKSK VLS launcher family for Kalibr/Oniks. JSC Concern Granit-Electron depends on Combat Management & Radar Suite — Pozitiv-M radar and fire control systems.",
+        "Why it matters: Naval procurement and supply chain professionals should monitor propulsion and combat system dependencies for potential replacement bottlenecks following combat losses.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Zone Militaire",
+          "url": "https://www.zona-militare.com"
+        },
+        {
+          "n": 2,
+          "title": "Zone Militaire",
+          "url": "https://www.opex360.com/2026/11/14/baltique-visee-par-des-drones-ukrainiens-la-corvette-russe-naro-forminsk-aurait-subi-dimportants-degats/"
+        }
+      ],
+      "place": null
+    },
+    {
+      "id": "syn-889",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-14",
+      "title": "EDA Tests Drones and UGVs in Switzerland for Logistics",
+      "summary": "The European Defence Agency and the Swiss Armed Forces tested drones and uncrewed ground vehicles at the Bure military training area to evaluate resupply and casualty evacuation in urban combat.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "The European Defence Agency and the Swiss Armed Forces tested drones and uncrewed ground vehicles at the Bure military training area to evaluate resupply and casualty evacuation in urban combat."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "2022: The European Defence Agency (EDA) establishes the Hub for European Defence Innovation (HEDI) to structure the search for new or underutilized military technologies.",
+            "May 2026: The EDA outlines campaign objectives for upcoming trials in Switzerland focusing on resupply, casualty evacuation, and reconnaissance (Testing).",
+            "25 Sep 2026: The EDA and the Portuguese Army announce the joint launch of the EU OPEX campaign integrated into Portugal's ARTEX 26 exercise at Santa Margarida Military Training Area.",
+            "28 Sep 2026: EU defence ministers approve the formal establishment of the Centre for European Defence Innovation (CEDI) within the EDA.",
+            "19 Oct 2026: The EDA highlights results from OPEX Portugal, identifying key systems including Schiebel heavy-lift UAVs, Beyond Vision attritable UAVs, and ARX Robotics tracked UGVs for follow-on trials (Testing).",
+            "Nov 2026: The Centre for European Defence Innovation (CEDI) formally begins operations within the EDA to accelerate technology adoption.",
+            "10 Nov 2026: The EDA and the Swiss Armed Forces Logistics Organisation launch the Alpine Experiment Logistics (ALPEX LOG) campaign at the Bure military training area in Switzerland, marking the first OPEX campaign conducted outside the EU."
+          ],
+          "list": true,
+          "links": [
+            "https://www.xponential-europe.com/en/Media_News/Magazine/Articles/Cross-Domain_Logistics_European_Defence_Agency_Launches_Test_Campaign_for_UAS_and_UGV",
+            "https://defence-industry.eu/european-defence-agency-tests-drones-and-ground-robots-for-resupply-and-casualty-evacuation-in-urban-combat/",
+            "https://www.marketforecast.com/industrynews/major-european-land-and-air-defence-experimentation-campaign-begins-in-portugal-101009",
+            "https://www.aerospace-and-defence.com/eda-accelerates-defence-innovation-a-3aff52f4489a3ca0ae1c05db8f064673/",
+            "https://www.aerospace-and-defence.com/eda-accelerates-defence-innovation-a-3aff52f4489a3ca0ae1c05db8f064673/",
+            "https://www.aerospace-and-defence.com/eda-accelerates-defence-innovation-a-3aff52f4489a3ca0ae1c05db8f064673/",
+            "https://defensemirror.com/news/42361/EDA__Swiss_Armed_Forces_Test_Drones_and_Ground_Robots_for_Urban_Military_Logistics"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following trials in Italy in 2025 and Portugal in 2026, the EDA launched the ALPEX LOG campaign in Switzerland in November 2026 to integrate uncrewed systems through its new Centre for European Defence Innovation, signalling a push toward rapid technology adoption."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Uncrewed Systems depends on ARX Robotics (Germany), Beyond Vision (Portugal), Schiebel (Austria) — Uncrewed Ground Vehicles (UGVs) & Aerial Drones (UAS)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence contractors and uncrewed systems developers should monitor these EDA operational trials to align product roadmaps with military logistics requirements."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "The European Defence Agency and the Swiss Armed Forces tested drones and uncrewed ground vehicles at the Bure military training area to evaluate resupply and casualty evacuation in urban combat.",
+        "Context: 2022: The European Defence Agency (EDA) establishes the Hub for European Defence Innovation (HEDI) to structure the search for new or underutilized military technologies. May 2026: The EDA outlines campaign objectives for upcoming trials in Switzerland focusing on resupply, casualty evacuation, and reconnaissance (Testing). 25 Sep 2026: The EDA and the Portuguese Army announce the joint launch of the EU OPEX campaign integrated into Portugal's ARTEX 26 exercise at Santa Margarida Military Training Area. 28 Sep 2026: EU defence ministers approve the formal establishment of the Centre for European Defence Innovation (CEDI) within the EDA. 19 Oct 2026: The EDA highlights results from OPEX Portugal, identifying key systems including Schiebel heavy-lift UAVs, Beyond Vision attritable UAVs, and ARX Robotics tracked UGVs for follow-on trials (Testing). Nov 2026: The Centre for European Defence Innovation (CEDI) formally begins operations within the EDA to accelerate technology adoption. 10 Nov 2026: The EDA and the Swiss Armed Forces Logistics Organisation launch the Alpine Experiment Logistics (ALPEX LOG) campaign at the Bure military training area in Switzerland, marking the first OPEX campaign conducted outside the EU.",
+        "The bigger picture: Following trials in Italy in 2025 and Portugal in 2026, the EDA launched the ALPEX LOG campaign in Switzerland in November 2026 to integrate uncrewed systems through its new Centre for European Defence Innovation, signalling a push toward rapid technology adoption.",
+        "Down the supply chain: Uncrewed Systems depends on ARX Robotics (Germany), Beyond Vision (Portugal), Schiebel (Austria) — Uncrewed Ground Vehicles (UGVs) & Aerial Drones (UAS).",
+        "Why it matters: Defence contractors and uncrewed systems developers should monitor these EDA operational trials to align product roadmaps with military logistics requirements.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/european-defence-agency-tests-drones-and-ground-robots-for-resupply-and-casualty-evacuation-in-urban-combat/"
+        }
+      ],
+      "place": null
+    },
+    {
+      "id": "syn-891",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-14",
+      "title": "French Rafale Pilots Use Thales Scorpion HMD in Combat",
+      "summary": "French Rafale pilots employed the Thales Scorpion helmet-mounted display in an active external operation for the first time.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "French Rafale pilots employed the Thales Scorpion helmet-mounted display in an active external operation for the first time."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "Mar 2021: The DGA conducts initial technical evaluations and trial flights of the Thales Scorpion HMD from the Cazaux air base (Testing).",
+            "Jul 2021: Following successful evaluations, the DGA places an official order for 350 Scorpion helmet-mounted display systems with Thales.",
+            "13 Nov 2026: French Rafale pilots employ the Scorpion helmet-mounted display in an active external operation (Opex) for the first time."
+          ],
+          "list": true,
+          "links": [
+            "https://www.opex360.com/2026/11/14/pour-la-premiere-fois-des-pilotes-de-rafale-francais-ont-utilise-le-viseur-de-casques-scorpion-en-operation-exterieure/",
+            "https://www.opex360.com/2026/11/14/pour-la-premiere-fois-des-pilotes-de-rafale-francais-ont-utilise-le-viseur-de-casques-scorpion-en-operation-exterieure/",
+            "https://www.opex360.com/2026/11/14/pour-la-premiere-fois-des-pilotes-de-rafale-francais-ont-utilise-le-viseur-de-casques-scorpion-en-operation-exterieure/"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following initial technical evaluations in March 2021 and an official order for 350 systems by the DGA in July 2021, the integration of helmet-mounted displays across the fleet has culminated in combat deployment by November 2026."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Scorpion Helmet-Mounted Display (HMD) Assembly depends on Thales (Thales Defense & Security / Thales Avionics).",
+            "Hybrid Optical-Inertial Tracker / Head-Tracking Subsystem depends on Thales / Joint venture components.",
+            "Color Display and Visionics Processing Units depends on Thales."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense procurement and supply chain professionals should monitor Thales's delivery schedule as helmet-mounted displays roll out more broadly across the French fighter fleet."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "French Rafale pilots employed the Thales Scorpion helmet-mounted display in an active external operation for the first time.",
+        "Context: Mar 2021: The DGA conducts initial technical evaluations and trial flights of the Thales Scorpion HMD from the Cazaux air base (Testing). Jul 2021: Following successful evaluations, the DGA places an official order for 350 Scorpion helmet-mounted display systems with Thales. 13 Nov 2026: French Rafale pilots employ the Scorpion helmet-mounted display in an active external operation (Opex) for the first time.",
+        "The bigger picture: Following initial technical evaluations in March 2021 and an official order for 350 systems by the DGA in July 2021, the integration of helmet-mounted displays across the fleet has culminated in combat deployment by November 2026.",
+        "Down the supply chain: Scorpion Helmet-Mounted Display (HMD) Assembly depends on Thales (Thales Defense & Security / Thales Avionics). Hybrid Optical-Inertial Tracker / Head-Tracking Subsystem depends on Thales / Joint venture components. Color Display and Visionics Processing Units depends on Thales.",
+        "Why it matters: Defense procurement and supply chain professionals should monitor Thales's delivery schedule as helmet-mounted displays roll out more broadly across the French fighter fleet.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Zone Militaire",
+          "url": "https://www.opex360.com/2026/11/14/pour-la-premiere-fois-des-pilotes-de-rafale-francais-ont-utilise-le-viseur-de-casques-scorpion-en-operation-exterieure/"
+        }
+      ],
+      "place": null
+    },
+    {
       "id": "syn-863",
       "status": "approved",
       "kind": "Synthesis",
@@ -7328,327 +7617,6 @@
         "label": "Kyiv",
         "lat": 50.4501,
         "lon": 30.5234
-      }
-    },
-    {
-      "id": "syn-740",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-11",
-      "title": "U.S. Army Tests Air Mobility for HIMARS in Hawaii",
-      "summary": "The U.S. Army's 25th Infantry Division and the U.S. Air Force's 15th Wing executed a HIMARS rapid infiltration dry-fire mission on Kauai, Hawaii, during JPMRC Rotation 27-01.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "The U.S. Army's 25th Infantry Division and the U.S. Air Force's 15th Wing executed a HIMARS rapid infiltration dry-fire mission on Kauai, Hawaii, during JPMRC Rotation 27-01."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "2005: M142 High Mobility Artillery Rocket System (HIMARS) officially enters active service with the U.S. Army.",
-            "15 Mar 2026: 25th Infantry Division units execute a HIMARS rapid infiltration drill utilizing a C-130J transport lift during Exercise Cobra Gold in Thailand.",
-            "17 Apr 2026: Soldiers from the 17th Field Artillery Brigade perform a multi-day HIRAIN operation from Yakima Training Center, Washington to Dugway Proving Ground, Utah.",
-            "20 Apr 2026: U.S. Army and Philippine forces utilize air and watercraft mobility during Exercise Balikatan to move HIMARS to forward island positions near Luzon and Palawan.",
-            "13 Jun 2026: National Guard troops execute a 2,000-mile HIMARS rapid infiltration movement from Michigan to California under the Minuteman Rotation framework.",
-            "24 Oct 2026: U.S. forces airlift a HIMARS launcher to Ishigaki Island, Japan, demonstrating southwestern island chain reinforcement.",
-            "10 Nov 2026: The 25th Infantry Division’s 2nd Battalion, 11th Field Artillery Regiment, supported by the 15th Wing’s C-17s, executes a HIMARS rapid infiltration dry-fire mission on Kauai, Hawaii, during JPMRC Rotation 27-01."
-          ],
-          "list": true,
-          "links": [
-            "https://www.armyrecognition.com/news/army-news/2026/u-s-army-refines-himars-rocket-artillery-tactics-to-enhance-arctic-long-range-warfare-operations",
-            "https://defence-industry.eu/u-s-army-tests-rapid-himars-deployment-by-air-in-hawaii-ahead-of-philippines-missions/",
-            "https://envantermedya.com/en/en-himars-rapid-airlift-hawaii-jpmrc-27-01/",
-            "https://www.militarytimes.com/news/your-military/2026/10/22/us-army-long-range-fires-make-a-splash-on-the-frontline-with-china/",
-            "https://taskandpurpose.com/news/national-guard-himars-rapid-deployment/",
-            "https://www.armyrecognition.com/news/army-news/2026/u-s-army-airlifts-himars-rocket-launcher-to-japan-in-new-indo-pacific-rapid-deployment-exercise",
-            "https://defence-industry.eu/u-s-army-tests-rapid-himars-deployment-by-air-in-hawaii-ahead-of-philippines-missions/"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "The U.S. military has validated HIMARS rapid infiltration tactics during exercises, signaling an operational focus on island chain reinforcement."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "HIMARS depends on Oshkosh Defense — Family of Medium Tactical Vehicles (FMTV) M1140 six-wheel truck chassis.",
-            "HIMARS depends on Lockheed Martin Missiles and Fire Control (Camden, Arkansas facility) — Launcher-Loader Module (LLM): Structures, mechanical elevation assemblies, and integration.",
-            "HIMARS depends on Lockheed Martin and integrated propulsion/warhead subcontractors — Rocket Munitions (GMLRS / PrSM) families."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense suppliers and contractors supporting the HIMARS ecosystem should anticipate sustained demand for mobile rocket artillery components and platform transportability enhancements."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "The U.S. Army's 25th Infantry Division and the U.S. Air Force's 15th Wing executed a HIMARS rapid infiltration dry-fire mission on Kauai, Hawaii, during JPMRC Rotation 27-01.",
-        "Context: 2005: M142 High Mobility Artillery Rocket System (HIMARS) officially enters active service with the U.S. Army. 15 Mar 2026: 25th Infantry Division units execute a HIMARS rapid infiltration drill utilizing a C-130J transport lift during Exercise Cobra Gold in Thailand. 17 Apr 2026: Soldiers from the 17th Field Artillery Brigade perform a multi-day HIRAIN operation from Yakima Training Center, Washington to Dugway Proving Ground, Utah. 20 Apr 2026: U.S. Army and Philippine forces utilize air and watercraft mobility during Exercise Balikatan to move HIMARS to forward island positions near Luzon and Palawan. 13 Jun 2026: National Guard troops execute a 2,000-mile HIMARS rapid infiltration movement from Michigan to California under the Minuteman Rotation framework. 24 Oct 2026: U.S. forces airlift a HIMARS launcher to Ishigaki Island, Japan, demonstrating southwestern island chain reinforcement. 10 Nov 2026: The 25th Infantry Division’s 2nd Battalion, 11th Field Artillery Regiment, supported by the 15th Wing’s C-17s, executes a HIMARS rapid infiltration dry-fire mission on Kauai, Hawaii, during JPMRC Rotation 27-01.",
-        "The bigger picture: The U.S. military has validated HIMARS rapid infiltration tactics during exercises, signaling an operational focus on island chain reinforcement.",
-        "Down the supply chain: HIMARS depends on Oshkosh Defense — Family of Medium Tactical Vehicles (FMTV) M1140 six-wheel truck chassis. HIMARS depends on Lockheed Martin Missiles and Fire Control (Camden, Arkansas facility) — Launcher-Loader Module (LLM): Structures, mechanical elevation assemblies, and integration. HIMARS depends on Lockheed Martin and integrated propulsion/warhead subcontractors — Rocket Munitions (GMLRS / PrSM) families.",
-        "Why it matters: Defense suppliers and contractors supporting the HIMARS ecosystem should anticipate sustained demand for mobile rocket artillery components and platform transportability enhancements.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Defence Industry Europe",
-          "url": "https://defence-industry.eu/u-s-army-tests-rapid-himars-deployment-by-air-in-hawaii-ahead-of-philippines-missions/"
-        }
-      ],
-      "place": {
-        "label": "Hawaii",
-        "lat": 19.8968,
-        "lon": -155.5828
-      }
-    },
-    {
-      "id": "syn-741",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-11",
-      "title": "Shield AI Hivemind controls multiple CCA drones in coordinated flight",
-      "summary": "The US Air Force and Shield AI achieved a milestone in the Collaborative Combat Aircraft program as the Hivemind AI software controlled multiple uncrewed combat aircraft in a coordinated formation flight and simulated beyond-visual-range combat maneuvers.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "The US Air Force and Shield AI achieved a milestone in the Collaborative Combat Aircraft program as the Hivemind AI software controlled multiple uncrewed combat aircraft in a coordinated formation flight and simulated beyond-visual-range combat maneuvers."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "19 Dec 2022: The Air Force Research Laboratory awarded JetZero an Other Transaction Agreement (OTA) worth up to $240.1 million for advanced aircraft concept development (Contract, USD 240.1 million).",
-            "May 2025: Beale Air Force Base is named the preferred location to host the initial CCA Aircraft Readiness Unit.",
-            "10 May 2025: Air Force officials and industry partners detailed the specific benefits of a future JetZero BWB tanker variant (KC-Z4) capable of delivering significantly greater fuel offloads over extended operational ranges.",
-            "2 Jul 2026: JetZero provided a program update noting that physical assembly of the full-scale demonstrator fuselage was underway at Northrop Grumman’s Scaled Composites facility in Mojave, California, targeting a late 2027 first flight.",
-            "Aug 2026: US Navy funds X-BAT: the Navy committed $50M to the program in August 2026 (funds, USD 50 million).",
-            "15 Sep 2026: U.S. Air Forces in Europe (USAFE) leadership highlights growing European and NATO partner interest in interoperability by design and future participation in the CCA framework (Plan).",
-            "27 Oct 2026: Nominal announced it secured a $71.2 million AFWERX Strategic Funding Increase (STRATFI)."
-          ],
-          "list": true,
-          "links": [
-            "https://www.highergov.com/contract/HQ08452390011/",
-            "https://laserdefenselab.com/en/articles/collaborative-combat-aircraft/",
-            "https://www.airandspaceforces.com/jetzero-air-force-blended-wing-tanker/",
-            "https://en.wikipedia.org/wiki/JetZero",
-            "https://www.tectonicdefense.com/shield-ai-raises-2-5b-to-buy-echodyne-for-5-3b/",
-            "https://migflug.com/afterburner/fr/nato-allied-collaborative-combat-aircraft-usafe-interoperability-2026/",
-            "https://industrialbasealpha.com/article/nominal-secures-71-2m-stratfi-funding-for-cca-testing-expansion"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "The Collaborative Combat Aircraft framework continues to advance from single drone control toward autonomous swarms under human command, with European and NATO partners increasingly interested in interoperability by design."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Scaled Composites (Northrop Grumman subsidiary) depends on Composite Aerostructures and Fuselage Assembly.",
-            "India depends on Shield AI — Shield has inked contracts with India, Taiwan, Poland, and the US Navy for the platform in just the past year.",
-            "Taiwan depends on Shield AI — Shield has inked contracts with India, Taiwan, Poland, and the US Navy for the platform in just the past year."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense contractors and software suppliers should monitor A-GRA standards and rapid software update cycles to align with autonomous wingman integration timelines."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "The US Air Force and Shield AI achieved a milestone in the Collaborative Combat Aircraft program as the Hivemind AI software controlled multiple uncrewed combat aircraft in a coordinated formation flight and simulated beyond-visual-range combat maneuvers.",
-        "Context: 19 Dec 2022: The Air Force Research Laboratory awarded JetZero an Other Transaction Agreement (OTA) worth up to $240.1 million for advanced aircraft concept development (Contract, USD 240.1 million). May 2025: Beale Air Force Base is named the preferred location to host the initial CCA Aircraft Readiness Unit. 10 May 2025: Air Force officials and industry partners detailed the specific benefits of a future JetZero BWB tanker variant (KC-Z4) capable of delivering significantly greater fuel offloads over extended operational ranges. 2 Jul 2026: JetZero provided a program update noting that physical assembly of the full-scale demonstrator fuselage was underway at Northrop Grumman’s Scaled Composites facility in Mojave, California, targeting a late 2027 first flight. Aug 2026: US Navy funds X-BAT: the Navy committed $50M to the program in August 2026 (funds, USD 50 million). 15 Sep 2026: U.S. Air Forces in Europe (USAFE) leadership highlights growing European and NATO partner interest in interoperability by design and future participation in the CCA framework (Plan). 27 Oct 2026: Nominal announced it secured a $71.2 million AFWERX Strategic Funding Increase (STRATFI).",
-        "The bigger picture: The Collaborative Combat Aircraft framework continues to advance from single drone control toward autonomous swarms under human command, with European and NATO partners increasingly interested in interoperability by design.",
-        "Down the supply chain: Scaled Composites (Northrop Grumman subsidiary) depends on Composite Aerostructures and Fuselage Assembly. India depends on Shield AI — Shield has inked contracts with India, Taiwan, Poland, and the US Navy for the platform in just the past year. Taiwan depends on Shield AI — Shield has inked contracts with India, Taiwan, Poland, and the US Navy for the platform in just the past year.",
-        "Why it matters: Defense contractors and software suppliers should monitor A-GRA standards and rapid software update cycles to align with autonomous wingman integration timelines.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Militär Aktuell – Sicherheit im Fokus",
-          "url": "https://militaeraktuell.at/us-air-force-ki-steuert-kampfdrohnen-verbund/"
-        }
-      ],
-      "place": {
-        "label": "United States",
-        "lat": 37.0902,
-        "lon": -95.7129
-      }
-    },
-    {
-      "id": "syn-742",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-11",
-      "title": "Jean Gabin named for FORFUSCO reserve flotilla",
-      "summary": "The Force maritime des fusiliers marins et commandos reserve flotilla is designated to be named after actor Jean Gabin, formerly Second Master Jean Moncorgé.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "The Force maritime des fusiliers marins et commandos reserve flotilla is designated to be named after actor Jean Gabin, formerly Second Master Jean Moncorgé."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "1924: Jean Moncorgé (later known as Jean Gabin) performs his military service in the French Navy as a fusilier marin in Lorient.",
-            "1943: Jean Moncorgé joins the Free French Naval Forces (FNFL) and subsequently the Régiment Blindé de Fusiliers Marins (RBFM) of the 2nd Armored Division (2e DB).",
-            "2024: Establishment of the Flottille de Réserve Maritime (FRM) for the FORFUSCO in Lorient.",
-            "8 Jun 2026: Public commemoration highlighting 170 years of the Fusiliers Marins (1856–2026) and linking the heritage to Second Master Moncorgé.",
-            "11 Nov 2026: Public media notification (Zone Militaire) detailing the formal designation ceremony honoring Jean Gabin (Jean Moncorgé)."
-          ],
-          "list": true,
-          "links": [
-            "https://www.opex360.com/2026/11/11/lacteur-jean-gabin-va-donner-son-nom-a-la-flottille-de-reserve-de-la-force-maritime-des-fusiliers-marins-et-commandos/",
-            "https://www.opex360.com/2026/11/11/lacteur-jean-gabin-va-donner-son-nom-a-la-flottille-de-reserve-de-la-force-maritime-des-fusiliers-marins-et-commandos/",
-            "https://www.opex360.com/2026/11/11/lacteur-jean-gabin-va-donner-son-nom-a-la-flottille-de-reserve-de-la-force-maritime-des-fusiliers-marins-et-commandos/",
-            "https://www.opex360.com/2026/11/11/lacteur-jean-gabin-va-donner-son-nom-a-la-flottille-de-reserve-de-la-force-maritime-des-fusiliers-marins-et-commandos/",
-            "https://www.opex360.com/2026/11/11/lacteur-jean-gabin-va-donner-son-nom-a-la-flottille-de-reserve-de-la-force-maritime-des-fusiliers-marins-et-commandos/"
-          ]
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "EU — White Paper for European Defence – Readiness 2030 and ReArm Europe Plan (2025-03-19): Close critical capability gaps in seven priority areas (including air and missile defence and artillery) and build a stronger European defence industrial base; ReArm Europe enables over €800 billion of defence spending.",
-            "EU — Council Regulation establishing the Security Action for Europe (SAFE) instrument (2025-05-27): Up to €150 billion in EU loans for member states investing in defence industrial production through common procurement of priority capabilities."
-          ],
-          "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Heritage links from the 1856 establishment of the Fusiliers Marins through the 2024 creation of the Flottille de Réserve Maritime in Lorient culminate in this 2026 designation ceremony, signalling continued emphasis on historical unit identity."
-          ],
-          "list": false
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defence contractors and naval suppliers engaging with French maritime heritage initiatives should note the ongoing integration of historical unit traditions into modern reserve structures."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "The Force maritime des fusiliers marins et commandos reserve flotilla is designated to be named after actor Jean Gabin, formerly Second Master Jean Moncorgé.",
-        "Context: 1924: Jean Moncorgé (later known as Jean Gabin) performs his military service in the French Navy as a fusilier marin in Lorient. 1943: Jean Moncorgé joins the Free French Naval Forces (FNFL) and subsequently the Régiment Blindé de Fusiliers Marins (RBFM) of the 2nd Armored Division (2e DB). 2024: Establishment of the Flottille de Réserve Maritime (FRM) for the FORFUSCO in Lorient. 8 Jun 2026: Public commemoration highlighting 170 years of the Fusiliers Marins (1856–2026) and linking the heritage to Second Master Moncorgé. 11 Nov 2026: Public media notification (Zone Militaire) detailing the formal designation ceremony honoring Jean Gabin (Jean Moncorgé).",
-        "Policy direction: EU — White Paper for European Defence – Readiness 2030 and ReArm Europe Plan (2025-03-19): Close critical capability gaps in seven priority areas (including air and missile defence and artillery) and build a stronger European defence industrial base; ReArm Europe enables over €800 billion of defence spending. EU — Council Regulation establishing the Security Action for Europe (SAFE) instrument (2025-05-27): Up to €150 billion in EU loans for member states investing in defence industrial production through common procurement of priority capabilities.",
-        "The bigger picture: Heritage links from the 1856 establishment of the Fusiliers Marins through the 2024 creation of the Flottille de Réserve Maritime in Lorient culminate in this 2026 designation ceremony, signalling continued emphasis on historical unit identity.",
-        "Why it matters: Defence contractors and naval suppliers engaging with French maritime heritage initiatives should note the ongoing integration of historical unit traditions into modern reserve structures.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "L’acteur Jean Gabin va donner son nom à la flottille de réserve de la Force maritime des fusiliers marins et commandos",
-          "url": "https://www.opex360.com/2026/11/11/lacteur-jean-gabin-va donner-son-nom-a-la-flottille-de-reserve-de-la-force-maritime-des-fusiliers-marins-et-commandos/"
-        },
-        {
-          "n": 2,
-          "title": "Zone Militaire",
-          "url": "https://www.opex360.com/2026/11/11/lacteur-jean-gabin-va-donner-son-nom-a-la-flottille-de-reserve-de-la-force-maritime-des-fusiliers-marins-et-commandos/"
-        }
-      ],
-      "place": {
-        "label": "France",
-        "lat": 46.6034,
-        "lon": 1.8883
-      }
-    },
-    {
-      "id": "syn-743",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-11",
-      "title": "CSG Secures US Army Framework Contract",
-      "summary": "The U.S. Army awarded eleven IDIQ contracts under a $4.2 billion MATOC framework for modernizing seven ammunition plants Czechoslovak Group announced that its subsidiary MSM North America is among the eligible prime contract holders.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "The U.S. Army awarded eleven IDIQ contracts under a $4.2 billion MATOC framework for modernizing seven ammunition plants Czechoslovak Group announced that its subsidiary MSM North America is among the eligible prime contract holders."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "Aug 2025: MSM North America secured a contract worth up to $635 million (approx. €570 million) to plan, construct, and commission the Future Artillery Complex (FAC) at the Iowa Army Ammunition Plant (Contract, USD 635 million).",
-            "Mar 2026: Army Contracting Command – Rock Island issued the presolicitation notice for the GOCO Army Ammunition Plant Design, Build, and Commissioning MATOC (Solicitation W519TC26RA020).",
-            "4 Nov 2026: The U.S. Army awarded eleven Indefinite-Delivery, Indefinite-Quantity (IDIQ) contracts under the $4.17 billion / $4.2 billion MATOC framework (including award identifiers like W519TC27DA012 to Hensel Phelps and W519TC27DA007 to J. Kokolakis Contracting) (Contract, USD 4.2 billion).",
-            "6 Nov 2026: CSG publicly announced that its subsidiary MSM North America was selected as one of the prime contract holders eligible to bid on task orders over the five-year ordering period (Contract)."
-          ],
-          "list": true,
-          "links": [
-            "https://www.marketforecast.com/industrynews/csg-secures-us-army-framework-contract-for-ammunition-plant-modernization-under-4-2bn-program-102670",
-            "https://www.cyclonebolt.com/army-4-2-billion-ammunition-plant-modernization-contract/",
-            "https://www.marketforecast.com/industrynews/csg-secures-us-army-framework-contract-for-ammunition-plant-modernization-under-4-2bn-program-102670",
-            "https://www.marketforecast.com/industrynews/csg-secures-us-army-framework-contract-for-ammunition-plant-modernization-under-4-2bn-program-102670"
-          ]
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base.",
-            "US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress."
-          ],
-          "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "As outlined in the 2026 National Defense Strategy to supercharge the US defence industrial base, the Army has advanced from initial facility planning in March 2026 to awarding a $4.2 billion MATOC framework in November 2026, signaling a sustained push to expand domestic ammunition production capacity."
-          ],
-          "list": false
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense contractors and supply chain partners should monitor upcoming task order competitions under the MATOC framework to position themselves for subcontracts across the seven designated ammunition plants."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "The U.S. Army awarded eleven IDIQ contracts under a $4.2 billion MATOC framework for modernizing seven ammunition plants Czechoslovak Group announced that its subsidiary MSM North America is among the eligible prime contract holders.",
-        "Context: Aug 2025: MSM North America secured a contract worth up to $635 million (approx. €570 million) to plan, construct, and commission the Future Artillery Complex (FAC) at the Iowa Army Ammunition Plant (Contract, USD 635 million). Mar 2026: Army Contracting Command – Rock Island issued the presolicitation notice for the GOCO Army Ammunition Plant Design, Build, and Commissioning MATOC (Solicitation W519TC26RA020). 4 Nov 2026: The U.S. Army awarded eleven Indefinite-Delivery, Indefinite-Quantity (IDIQ) contracts under the $4.17 billion / $4.2 billion MATOC framework (including award identifiers like W519TC27DA012 to Hensel Phelps and W519TC27DA007 to J. Kokolakis Contracting) (Contract, USD 4.2 billion). 6 Nov 2026: CSG publicly announced that its subsidiary MSM North America was selected as one of the prime contract holders eligible to bid on task orders over the five-year ordering period (Contract).",
-        "Policy direction: US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base. US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress.",
-        "The bigger picture: As outlined in the 2026 National Defense Strategy to supercharge the US defence industrial base, the Army has advanced from initial facility planning in March 2026 to awarding a $4.2 billion MATOC framework in November 2026, signaling a sustained push to expand domestic ammunition production capacity.",
-        "Why it matters: Defense contractors and supply chain partners should monitor upcoming task order competitions under the MATOC framework to position themselves for subcontracts across the seven designated ammunition plants.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Militär Aktuell – Sicherheit im Fokus",
-          "url": "https://militaeraktuell.at/csg-erhaelt-zugang-milliardenprogramm-us-army/"
-        }
-      ],
-      "place": {
-        "label": "United States",
-        "lat": 37.0902,
-        "lon": -95.7129
       }
     }
   ]
