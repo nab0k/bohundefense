@@ -6,7 +6,7 @@ key and writes feed/synthesis-feed.json in the editorial item format read by ass
 """
 import json, os, re, sys, urllib.request, urllib.parse
 from pathlib import Path
-from synthesis_lines import clean_context_line, context_links, line_sources, split_sources
+from synthesis_lines import clean_context_line, context_links, line_sources, says_something, split_sources, supply_line_ok
 base=os.environ.get("SUPABASE_URL","https://tecrucawzukxqtchpxrh.supabase.co").rstrip("/")
 key=os.environ.get("SUPABASE_PUBLISHABLE_KEY","")
 if not key:
@@ -63,9 +63,12 @@ for x in rows:
         if not value:continue
         section={"label":label,"lines":[l.strip() for l in value.split("\n") if l.strip()],"list":as_list}
         if field=="context":  # stage and date as the line supports them, the source of each line when known
-            kept=context_links(section["lines"],by_line)
-            section["lines"]=[clean_context_line(l) for l,_ in kept]
+            kept=[(clean_context_line(l),link) for l,link in context_links(section["lines"],by_line)]
+            kept=[pair for pair in kept if says_something(pair[0])]  # an empty line is not shown, nor its link
+            section["lines"]=[l for l,_ in kept]
             if by_line:section["links"]=[link for _,link in kept]
+        if field=="supply_chain":  # only a dependency with both sides named; a line without a source is not shown
+            section["lines"]=[l for l in section["lines"] if supply_line_ok(l)]
         if section["lines"]:sections.append(section)
     label=text(x.get("label"),120) or "Prepared by machine. Check the sources."
     paragraphs=[lead]+[s["label"]+": "+" ".join(s["lines"]) for s in sections[1:]]+[label]

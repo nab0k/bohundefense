@@ -12,6 +12,8 @@ RAW_STAGES = ("plan", "framework", "approval", "ceiling", "contract", "funded", 
 TAIL = re.compile(r"\s*\((" + "|".join(RAW_STAGES) + r")?(?:,\s*)?([^()]*)\)\.?\s*$")
 AMOUNT = re.compile(r"^(?:[A-Z]{3} )[\d.,]+ (?:thousand|million|billion|trillion)$")
 FILLER_DAY = re.compile(r"^1 ([A-Z][a-z]{2}) (\d{4}):")
+ISO_DATE = re.compile(r"^(\d{4})-(\d{2})(?:-(\d{2}))?:")  # a date the pipeline left unformatted
+MONTHS = ("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec")
 
 # Only the main clause counts: what follows these words is background, not the step itself.
 BACKGROUND = re.compile(r"\b(?:following|after|targeting|pending|ahead of|in order to|alongside)\b", re.I)
@@ -50,6 +52,10 @@ def stage_of(what):
 def clean_context_line(line):
     """Replace the stored tag with a stage the line supports, and drop a filler day."""
     line = " ".join(str(line).split())
+    iso = ISO_DATE.match(line)
+    if iso and 1 <= int(iso.group(2)) <= 12:  # "2025-09:" reads like its neighbours: "Sep 2025:"
+        month = "%s %s:" % (MONTHS[int(iso.group(2)) - 1], iso.group(1))
+        line = ("%d %s" % (int(iso.group(3)), month) if iso.group(3) else month) + line[iso.end():]
     tag = TAIL.search(line)
     amount = None
     if tag and (tag.group(1) or AMOUNT.match((tag.group(2) or "").strip())):
@@ -64,6 +70,30 @@ def clean_context_line(line):
     what = line.split(":", 1)[1] if ":" in line else line
     labels = [x for x in (stage_of(what), amount) if x]
     return line + (" (%s)" % ", ".join(labels) if labels else "") + "."
+
+
+def says_something(line):
+    """False for a line that is only a date or punctuation: nothing for the reader to check."""
+    return bool(re.search(r"\w", line.split(":", 1)[1] if ":" in line else line))
+
+
+# "Down the supply chain" (D-15, independent audit AUDIT_001): the pipeline builds these lines from extracted links
+# and restrictions that the reviewing model does not read. A link whose side is empty ("None depends on ...") says
+# nothing checkable; a restriction line carries no source of its own, and one of them turned a wind-load requirement
+# into a tariff. Until each such line has a source, only a dependency with both sides named is shown.
+EMPTY_SIDE = r"(?:none|n/?a|null|unknown|tbd|not specified|unspecified|[-—–?]*)"
+DEPENDS = re.compile(r"^(.*?)\s+depends on\s+(.*)$", re.I)
+EMPTY = re.compile(r"^" + EMPTY_SIDE + r"$", re.I)
+
+
+def supply_line_ok(line):
+    """True only for "<who> depends on <what>" with both sides named."""
+    m = DEPENDS.match(" ".join(str(line).split()))
+    if not m:
+        return False
+    who = m.group(1).strip(" .,:;")
+    what = re.split(r"\s+[—–-]\s+", m.group(2), maxsplit=1)[0].strip(" .,:;")
+    return not EMPTY.match(who) and not EMPTY.match(what)
 
 
 REF = re.compile(r"\s*\[\d+(?:,\s*\d+)*\]")  # the same footnote marks the exporter strips from the text

@@ -1,6 +1,6 @@
 """Run: python3 -m unittest discover -s scripts -p 'test_*.py'"""
 import unittest
-from synthesis_lines import clean_context_line, context_links, split_sources, stage_of
+from synthesis_lines import clean_context_line, context_links, says_something, split_sources, stage_of, supply_line_ok
 
 
 class Stage(unittest.TestCase):
@@ -84,6 +84,47 @@ class ColumnLinks(unittest.TestCase):
         by_line = line_sources([{"line": "2025: B [2].", "url": "https://b.example/2"}])
         self.assertEqual(context_links(["2025: B."], by_line), [("2025: B.", "https://b.example/2")])
 
+
+class Leftovers(unittest.TestCase):
+    def test_unformatted_date_reads_like_the_others(self):
+        self.assertEqual(clean_context_line("2025-09: Groundbreaking ceremony held (other)."),
+                         "Sep 2025: Groundbreaking ceremony held.")
+        self.assertEqual(clean_context_line("2025-02-04: BAAINBw signed a framework agreement."),
+                         "4 Feb 2025: BAAINBw signed a framework agreement (Agreement).")
+        self.assertEqual(clean_context_line("2025-03-01: Sea trials commence."), "Mar 2025: Sea trials commence (Testing).")
+        self.assertEqual(clean_context_line("2025-13: no such month."), "2025-13: no such month.")
+        self.assertEqual(clean_context_line("2025-09 was a busy month."), "2025-09 was a busy month.")
+
+    def test_empty_line_is_recognised(self):
+        for raw in (":", ": (other).", "2024: (other).", "  "):
+            self.assertFalse(says_something(clean_context_line(raw)), raw)
+        for raw in ("2024: Work began (other).", "Work began", "5 Nov 2026: 500th missile"):
+            self.assertTrue(says_something(clean_context_line(raw)), raw)
+
+
+class SupplyChain(unittest.TestCase):
+    """Lines found on the site by the independent audit AUDIT_001 (D-15)."""
+
+    def test_dependency_with_both_sides_is_kept(self):
+        for line in ("Callen-Lenz depends on Miniature high-thrust internal micro-turbojet engines — Propulsion.",
+                     "Counter-UAS Netting System depends on Retractable Counter-UAS Netting.",
+                     "Noneco Systems depends on Unknown Soldier Ltd — optics."):
+            self.assertTrue(supply_line_ok(line), line)
+
+    def test_dependency_with_an_empty_side_is_dropped(self):
+        for line in ("None depends on KNDS (France / Germany) — Precision Warhead & Fragmentation Charge.",
+                     "N/A depends on Trailer and deck-mounted pneumatic catapult rail systems — Launch Infrastructure.",
+                     "none  depends on UFORCE.", "Unknown depends on gallium nitride RFICs — RF modules.",
+                     " depends on engines.", "— depends on engines.", "KNDS depends on None.",
+                     "KNDS depends on N/A — warhead."):
+            self.assertFalse(supply_line_ok(line), line)
+
+    def test_restriction_line_without_a_source_is_dropped(self):
+        for line in ("Miami-Dade County: tariff on Installations (in_force).",
+                     "US, EU, and G7: sanction on dual-use microelectronics to the Russian defense sector (in_force).",
+                     "U.S.: export licensing on advanced long-range cruise missile guidance (in_force).",
+                     "French defense equipment regulations and EU dual-use frameworks apply."):
+            self.assertFalse(supply_line_ok(line), line)
 
 if __name__ == "__main__":
     unittest.main()
