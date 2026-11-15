@@ -3,6 +3,909 @@
   "notice": "Syntheses prepared by machine from open sources and approved by the editor. Check the sources.",
   "items": [
     {
+      "id": "syn-894",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-14",
+      "title": "Lead Columbia-Class SSBN Recovers From Delay Risks",
+      "summary": "During the Naval Submarine League Annual Symposium, Vice Admiral Rob Gaucher announced that the lead Columbia-class submarine, USS District of Columbia, has pulled back from severe delay risks that threatened a slip beyond 2030. By doubling weekly work hours and implementing 24-hour shift operations, the program has stabilized and targeted pressure-hull completion for 2027.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "During the Naval Submarine League Annual Symposium, Vice Admiral Rob Gaucher announced that the lead Columbia-class submarine, USS District of Columbia, has pulled back from severe delay risks that threatened a slip beyond 2030. By doubling weekly work hours and implementing 24-hour shift operations, the program has stabilized and targeted pressure-hull completion for 2027."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "2007: U.S. Navy initiates conceptual design studies for the Ohio-replacement ballistic missile submarine.",
+            "21 Sep 2017: General Dynamics Electric Boat awarded a detailed design and construction contract modification (Contract).",
+            "Oct 2020: Formal lead-boat construction officially starts with initial steel cutting for the future USS District of Columbia (SSBN-826).",
+            "Mar 2026: BWXT completes production of the first life-of-the-ship nuclear reactor power unit for SSBN-826.",
+            "14 Nov 2026: VADM Rob Gaucher announces at the Naval Submarine League Symposium that the lead boat has successfully pulled back from deeper delay risks, re-targeting pressure-hull completion in 2027 and delivery in 2028/2030."
+          ],
+          "list": true,
+          "links": [
+            "https://www.ussdc.org/boat/construction",
+            "https://warriormaven.com/news/sea/navy-says-first-nuclear-armed-columbia-class-submarine-on-track-for-2030-deployment",
+            "https://en.wikipedia.org/wiki/Columbia-class_submarine",
+            "https://www.ussdc.org/boat/construction",
+            "https://warriormaven.com/news/sea/navy-says-first-nuclear-armed-columbia-class-submarine-on-track-for-2030-deployment"
+          ]
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "US — NSPM: Rebuilding the United States Navy and America's Shipbuilding Industrial Base (2026-08-13): Fix long-term problems in Navy shipbuilding and repair: a fifth Naval shipyard, a submarine Component Repair Center, reorganisation of NAVSEA and direct investment in shipyards on the 'Finland model'."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Since conceptual design studies began in 2007, the Columbia-class program has evolved through detailed design contracts in 2017, steel cutting in 2020, and recent nuclear power unit deliveries in 2026, pointing toward urgent fleet recapitalization under new industrial base policies."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "BWXT Nuclear Operations Group depends on Nuclear Reactor Core — Manufactured by BWXT Nuclear Operations Group (Lynchburg, VA) as a life-of-the-ship core requiring no mid-life refueling.",
+            "Newport News Shipbuilding (HII) depends on Bow and Stern Modules — Fabricated by Newport News Shipbuilding (HII) and barged to Electric Boat for final assembly."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense procurement and supply chain professionals supporting General Dynamics Electric Boat and major component suppliers must maintain heightened production cadences to ensure the 2028 delivery target is met."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "During the Naval Submarine League Annual Symposium, Vice Admiral Rob Gaucher announced that the lead Columbia-class submarine, USS District of Columbia, has pulled back from severe delay risks that threatened a slip beyond 2030. By doubling weekly work hours and implementing 24-hour shift operations, the program has stabilized and targeted pressure-hull completion for 2027.",
+        "Context: 2007: U.S. Navy initiates conceptual design studies for the Ohio-replacement ballistic missile submarine. 21 Sep 2017: General Dynamics Electric Boat awarded a detailed design and construction contract modification (Contract). Oct 2020: Formal lead-boat construction officially starts with initial steel cutting for the future USS District of Columbia (SSBN-826). Mar 2026: BWXT completes production of the first life-of-the-ship nuclear reactor power unit for SSBN-826. 14 Nov 2026: VADM Rob Gaucher announces at the Naval Submarine League Symposium that the lead boat has successfully pulled back from deeper delay risks, re-targeting pressure-hull completion in 2027 and delivery in 2028/2030.",
+        "Policy direction: US — NSPM: Rebuilding the United States Navy and America's Shipbuilding Industrial Base (2026-08-13): Fix long-term problems in Navy shipbuilding and repair: a fifth Naval shipyard, a submarine Component Repair Center, reorganisation of NAVSEA and direct investment in shipyards on the 'Finland model'.",
+        "The bigger picture: Since conceptual design studies began in 2007, the Columbia-class program has evolved through detailed design contracts in 2017, steel cutting in 2020, and recent nuclear power unit deliveries in 2026, pointing toward urgent fleet recapitalization under new industrial base policies.",
+        "Down the supply chain: BWXT Nuclear Operations Group depends on Nuclear Reactor Core — Manufactured by BWXT Nuclear Operations Group (Lynchburg, VA) as a life-of-the-ship core requiring no mid-life refueling. Newport News Shipbuilding (HII) depends on Bow and Stern Modules — Fabricated by Newport News Shipbuilding (HII) and barged to Electric Boat for final assembly.",
+        "Why it matters: Defense procurement and supply chain professionals supporting General Dynamics Electric Boat and major component suppliers must maintain heightened production cadences to ensure the 2028 delivery target is met.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Naval News",
+          "url": "https://www.navalnews.com/naval-news/2026/11/uss-district-of-columbia-ssbn-826-back-on-track-for-2028-delivery/"
+        }
+      ],
+      "place": {
+        "label": "Washington, D.C.",
+        "lat": 38.8951,
+        "lon": -77.0364
+      }
+    },
+    {
+      "id": "syn-895",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-14",
+      "title": "Dutch CSS Den Helder Serves as SNMG1 Flagship",
+      "summary": "The combat support ship Zr.Ms. Den Helder departed to take over flagship and logistics duties for SNMG1, carrying a French staff element. Den Helder departed to take over flagship and logistics duties for SNMG1, carrying a French staff element.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "The combat support ship Zr.Ms. Den Helder departed to take over flagship and logistics duties for SNMG1, carrying a French staff element. Den Helder departed to take over flagship and logistics duties for SNMG1, carrying a French staff element."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1968: Standing Naval Force Atlantic (STANAVFORLANT) is officially activated following approval by NATO in December 1967, establishing the first permanent peacetime multinational naval squadron.",
+            "2005: STANAVFORLANT is officially re-designated as Standing NATO Maritime Group 1 (SNMG1) under NATO's reorganized Allied Command Operations.",
+            "13 Aug 2007: SNMG1 undertakes its first historical out-of-area deployment circumnavigating Africa under US flagship USS Normandy.",
+            "18 Feb 2022: German Navy reiterates continuous permanent integration and rotation of surface combatants and supply ships into SNMG1 as part of NATO's Very High Readiness Joint Task Force (VJTF).",
+            "15 Jan 2026: Royal Netherlands Navy hands over command of SNMG1 to Spain at Den Helder Naval Base after a year-long leadership cycle (Delivered).",
+            "10 Apr 2026: Royal Navy takes formal command of SNMG1 during a ceremony in Portsmouth, with Commodore Maryla Ingham assuming leadership from the German flagship FGS Sachsen.",
+            "31 Oct 2026: The Dutch combat support ship Zr.Ms. Den Helder departs its namesake home port carrying a French staff element to take over flagship and logistics duties for SNMG1."
+          ],
+          "list": true,
+          "links": [
+            "https://en.wikipedia.org/wiki/Standing_NATO_Maritime_Group_1",
+            "https://en.wikipedia.org/wiki/Standing_NATO_Maritime_Group_1",
+            "https://en.wikipedia.org/wiki/Standing_NATO_Maritime_Group_1",
+            "https://en.wikipedia.org/wiki/Standing_NATO_Maritime_Group_1",
+            "https://en.wikipedia.org/wiki/Standing_NATO_Maritime_Group_1",
+            "https://en.wikipedia.org/wiki/Standing_NATO_Maritime_Group_1",
+            "https://en.wikipedia.org/wiki/Standing_NATO_Maritime_Group_1"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Since STANAVFORLANT was activated in 1968 and later re-designated as SNMG1 in 2005, allied navies have continuously rotated surface combatants and supply ships into the force, culminating in the deployment of support vessels as flagships."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Combat Support Ship (CSS) Platform depends on Damen Shipyards Group (Damen Schelde Naval Shipbuilding) – Vlissingen, Netherlands — Damen press release.",
+            "Marine Diesel Propulsion Engines depends on Wärtsilä Corporation – Helsinki, Finland — Wärtsilä marine references.",
+            "Integrated Bridge and Navigation Systems depends on Thales Netherlands / OSI Maritime Systems — navigation systems."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Naval defense suppliers and procurement professionals should note the growing operational versatility of combat support ships acting as command platforms, requiring robust integrated bridge and combat management systems."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "The combat support ship Zr.Ms. Den Helder departed to take over flagship and logistics duties for SNMG1, carrying a French staff element. Den Helder departed to take over flagship and logistics duties for SNMG1, carrying a French staff element.",
+        "Context: 1968: Standing Naval Force Atlantic (STANAVFORLANT) is officially activated following approval by NATO in December 1967, establishing the first permanent peacetime multinational naval squadron. 2005: STANAVFORLANT is officially re-designated as Standing NATO Maritime Group 1 (SNMG1) under NATO's reorganized Allied Command Operations. 13 Aug 2007: SNMG1 undertakes its first historical out-of-area deployment circumnavigating Africa under US flagship USS Normandy. 18 Feb 2022: German Navy reiterates continuous permanent integration and rotation of surface combatants and supply ships into SNMG1 as part of NATO's Very High Readiness Joint Task Force (VJTF). 15 Jan 2026: Royal Netherlands Navy hands over command of SNMG1 to Spain at Den Helder Naval Base after a year-long leadership cycle (Delivered). 10 Apr 2026: Royal Navy takes formal command of SNMG1 during a ceremony in Portsmouth, with Commodore Maryla Ingham assuming leadership from the German flagship FGS Sachsen. 31 Oct 2026: The Dutch combat support ship Zr.Ms. Den Helder departs its namesake home port carrying a French staff element to take over flagship and logistics duties for SNMG1.",
+        "The bigger picture: Since STANAVFORLANT was activated in 1968 and later re-designated as SNMG1 in 2005, allied navies have continuously rotated surface combatants and supply ships into the force, culminating in the deployment of support vessels as flagships.",
+        "Down the supply chain: Combat Support Ship (CSS) Platform depends on Damen Shipyards Group (Damen Schelde Naval Shipbuilding) – Vlissingen, Netherlands — Damen press release. Marine Diesel Propulsion Engines depends on Wärtsilä Corporation – Helsinki, Finland — Wärtsilä marine references. Integrated Bridge and Navigation Systems depends on Thales Netherlands / OSI Maritime Systems — navigation systems.",
+        "Why it matters: Naval defense suppliers and procurement professionals should note the growing operational versatility of combat support ships acting as command platforms, requiring robust integrated bridge and combat management systems.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "UK Defence Journal",
+          "url": "https://ukdefencejournal.org.uk/on-board-the-dutch-tanker-leading-a-nato-task-force/"
+        }
+      ],
+      "place": {
+        "label": "Baltic Sea",
+        "lat": 55,
+        "lon": 20
+      }
+    },
+    {
+      "id": "syn-896",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-14",
+      "title": "Space Force picks three firms for SEWOL prototype phase",
+      "summary": "The U.S. Space Force picked three firms for Phase I prototype agreements worth approximately $10 million total.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "The U.S. Space Force picked three firms for Phase I prototype agreements worth approximately $10 million total."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "Sep 2021: Air Force Space Systems Command issues initial sources-sought notice (SP-2020-05) for the Space Electromagnetic Warfare Operating Location (SEWOL) concept.",
+            "25 Jun 2024: Space Force outlines SEWOL contracting and fielding strategy, projecting Block 0/Initial Operational Capability and integration with systems like Meadowlands.",
+            "24 Jul 2025: Space Systems Command releases a formal Request for Information (RFI) and draft Statement of Work for SEWOL minimum viable products, targeting remote operations of systems like the Remote Modular Terminal (RMT) and Counter Communications System (CCS).",
+            "14 Nov 2026: U.S. Space Force awards three Phase I prototype agreements worth approximately $10 million total through the Space Enterprise Consortium (SpEC) Other Transaction Authority, setting up a three-month down-select competition (Contract, USD 10 million)."
+          ],
+          "list": true,
+          "links": [
+            "https://www.executivegov.com/articles/anduril-booz-allen-peerless-ssc-sewol-ota-awarded",
+            "https://www.executivegov.com/articles/anduril-booz-allen-peerless-ssc-sewol-ota-awarded",
+            "https://www.highergov.com/contract-opportunity/sewol-request-for-information-07242025-r-e0e14/",
+            "https://defence-industry.eu/u-s-space-force-selects-three-firms-to-compete-to-build-a-command-system-for-space-electromagnetic-warfare/"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Moving from the initial 2021 concept and 2025 RFI stages, the Space Force is now prototyping cloud-based command software under an agile acquisition pathway, signaling a shift toward rapid commercial software integration."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Software Development Kits (SDKs) and Application Programming Interfaces (APIs) depends on Modular Open Systems Approach (MOSA) standards."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense contractors bidding on modular software applications should align their architectures with MOSA standards to compete effectively."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "The U.S. Space Force picked three firms for Phase I prototype agreements worth approximately $10 million total.",
+        "Context: Sep 2021: Air Force Space Systems Command issues initial sources-sought notice (SP-2020-05) for the Space Electromagnetic Warfare Operating Location (SEWOL) concept. 25 Jun 2024: Space Force outlines SEWOL contracting and fielding strategy, projecting Block 0/Initial Operational Capability and integration with systems like Meadowlands. 24 Jul 2025: Space Systems Command releases a formal Request for Information (RFI) and draft Statement of Work for SEWOL minimum viable products, targeting remote operations of systems like the Remote Modular Terminal (RMT) and Counter Communications System (CCS). 14 Nov 2026: U.S. Space Force awards three Phase I prototype agreements worth approximately $10 million total through the Space Enterprise Consortium (SpEC) Other Transaction Authority, setting up a three-month down-select competition (Contract, USD 10 million).",
+        "The bigger picture: Moving from the initial 2021 concept and 2025 RFI stages, the Space Force is now prototyping cloud-based command software under an agile acquisition pathway, signaling a shift toward rapid commercial software integration.",
+        "Down the supply chain: Software Development Kits (SDKs) and Application Programming Interfaces (APIs) depends on Modular Open Systems Approach (MOSA) standards.",
+        "Why it matters: Defense contractors bidding on modular software applications should align their architectures with MOSA standards to compete effectively.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/u-s-space-force-selects-three-firms-to-compete-to-build-a-command-system-for-space-electromagnetic-warfare/"
+        }
+      ],
+      "place": {
+        "label": "Washington, D.C.",
+        "lat": 38.8951,
+        "lon": -77.0364
+      }
+    },
+    {
+      "id": "syn-897",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-14",
+      "title": "U.S. Air Force Details $12.6B Plan for Palletized Cruise Missiles on Cargo Aircraft",
+      "summary": "Air Force leadership detailed a budget request of $355 million for 1,000 FAMM-P rounds and a five-year plan for 28,000 missiles valued at $12.6 billion.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Air Force leadership detailed a budget request of $355 million for 1,000 FAMM-P rounds and a five-year plan for 28,000 missiles valued at $12.6 billion."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "Dec 2019: Air Force Research Laboratory (AFRL) Strategic Development Planning and Experimentation (SDPE) office established the Rapid Dragon campaign to explore airdropping palletized cruise missiles from unmodified cargo aircraft.",
+            "Nov 2022: The Rapid Dragon concept saw its first operational deployment in Europe during exercise ATREUS 22 over the Norwegian Sea using an MC-130J.",
+            "2025: Congress granted a five-year acquisition and authorization framework for low-cost mass missile prototyping and procurement under the FY 2026 National Defense Authorization Act (NDAA).",
+            "Apr 2026: The Air Force Life Cycle Management Center (AFLCMC) formally designated the palletized effort as program of record \"Dragon Cart\".",
+            "15 Jul 2026: The Pentagon announced framework agreements with Anduril Industries, CoAspire, and Zone 5 Technologies to develop and validate the Family of Affordable Mass Missiles (FAMM) under seven-year multi-year structures (Agreement).",
+            "25 Sep 2026: Anduril’s Barracuda family became the Air Force's first large-scale production munition certified compliant with Weapon Open System Architecture (WOSA) standards for FAMM integration.",
+            "6 Nov 2026: Air Force leadership formally briefed the capability shift at the Airlift/Tanker Association symposium, detailing a fiscal 2027 budget request of $355 million for 1,000 FAMM-P rounds and a five-year plan of 28,000 missiles valued at $12.6 billion (USD 12.6 billion)."
+          ],
+          "list": true,
+          "links": [
+            "https://afresearchlab.com/rapid-dragon-delivers-long-range-strike-from-cargo-aircraft/",
+            "https://milmag.pl/en/usaf-launches-dragon-cart-palletized-cruise-missile-program/",
+            "https://milmag.pl/en/usaf-launches-dragon-cart-palletized-cruise-missile-program/",
+            "https://milmag.pl/en/usaf-launches-dragon-cart-palletized-cruise-missile-program/",
+            "https://milmag.pl/en/usaf-launches-dragon-cart-palletized-cruise-missile-program/",
+            "https://industrialbasealpha.com/article/andurils-barracuda-cruise-missile-certified-for-air-forces-open-architecture-sta",
+            "https://www.airandspaceforces.com/air-force-leaders-c-17s-air-drop-cruise-missiles/"
+          ]
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base.",
+            "US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following initial 2019 experiments and operational deployments, the program transitioned into the Dragon Cart program of record and multi-year industry frameworks, signaling a broader shift toward affordable mass munitions."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "FAMM Integration depends on Open-architecture guidance, navigation, and control (GNC) boards and WOSA-compliant seeker domains."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense suppliers should align component development with open-architecture WOSA standards to capture upcoming multi-year production opportunities."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Air Force leadership detailed a budget request of $355 million for 1,000 FAMM-P rounds and a five-year plan for 28,000 missiles valued at $12.6 billion.",
+        "Context: Dec 2019: Air Force Research Laboratory (AFRL) Strategic Development Planning and Experimentation (SDPE) office established the Rapid Dragon campaign to explore airdropping palletized cruise missiles from unmodified cargo aircraft. Nov 2022: The Rapid Dragon concept saw its first operational deployment in Europe during exercise ATREUS 22 over the Norwegian Sea using an MC-130J. 2025: Congress granted a five-year acquisition and authorization framework for low-cost mass missile prototyping and procurement under the FY 2026 National Defense Authorization Act (NDAA). Apr 2026: The Air Force Life Cycle Management Center (AFLCMC) formally designated the palletized effort as program of record \"Dragon Cart\". 15 Jul 2026: The Pentagon announced framework agreements with Anduril Industries, CoAspire, and Zone 5 Technologies to develop and validate the Family of Affordable Mass Missiles (FAMM) under seven-year multi-year structures (Agreement). 25 Sep 2026: Anduril’s Barracuda family became the Air Force's first large-scale production munition certified compliant with Weapon Open System Architecture (WOSA) standards for FAMM integration. 6 Nov 2026: Air Force leadership formally briefed the capability shift at the Airlift/Tanker Association symposium, detailing a fiscal 2027 budget request of $355 million for 1,000 FAMM-P rounds and a five-year plan of 28,000 missiles valued at $12.6 billion (USD 12.6 billion).",
+        "Policy direction: US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base. US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress.",
+        "The bigger picture: Following initial 2019 experiments and operational deployments, the program transitioned into the Dragon Cart program of record and multi-year industry frameworks, signaling a broader shift toward affordable mass munitions.",
+        "Down the supply chain: FAMM Integration depends on Open-architecture guidance, navigation, and control (GNC) boards and WOSA-compliant seeker domains.",
+        "Why it matters: Defense suppliers should align component development with open-architecture WOSA standards to capture upcoming multi-year production opportunities.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/u-s-air-force-says-c-17-and-c-130-cargo-planes-could-soon-take-on-strike-missions-by-launching-palletized-cruise-missiles/"
+        }
+      ],
+      "place": {
+        "label": "Washington, D.C.",
+        "lat": 38.8951,
+        "lon": -77.0364
+      }
+    },
+    {
+      "id": "syn-898",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-14",
+      "title": "Australian Firms Secure US Submarine Contracts and Train Locally",
+      "summary": "ASC personnel who trained in Hawaii have returned to Australia to support the Submarine Maintenance Period for USS Colorado at HMAS Stirling. WA-based VEEM has secured purchase orders to supply specialized components to Huntington Ingalls Industries' Newport News Shipbuilding for US Navy Virginia-class submarines.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "ASC personnel who trained in Hawaii have returned to Australia to support the Submarine Maintenance Period for USS Colorado at HMAS Stirling. WA-based VEEM has secured purchase orders to supply specialized components to Huntington Ingalls Industries' Newport News Shipbuilding for US Navy Virginia-class submarines."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "15 Sep 2021: Australia, the United Kingdom, and the United States announced the creation of the AUKUS trilateral security partnership, initiating plans for Australia to acquire nuclear-powered attack submarines (Agreement).",
+            "8 Feb 2022: The Exchange of Naval Nuclear Propulsion Information Agreement (ENNPIA) entered into force, enabling the trilateral sharing of restricted naval nuclear propulsion data (Agreement).",
+            "13 Mar 2023: AUKUS leaders announced the \"Optimal Pathway\" at San Diego, outlining the phased rollout of rotational submarine forces starting in 2027 and future delivery of SSN-AUKUS submarines.",
+            "Jul 2023: The Australian Submarine Agency (ASA) was officially established to oversee the acquisition, delivery, and sustainment of Australia's nuclear-powered submarine fleet.",
+            "8 Aug 2024: The formal agreement between the US, UK, and Australia for cooperation related to naval nuclear propulsion was submitted and published, cementing legal frameworks for technology transfer (Agreement).",
+            "15 Aug 2024: Australian civilian maintenance technicians began hands-on integration training at U.S. naval shipyards to prepare for sovereign submarine maintenance roles."
+          ],
+          "list": true,
+          "links": [
+            "https://au.usembassy.gov/joint-leaders-statement-on-aukus/",
+            "https://www.presidency.ucsb.edu/documents/fact-sheet-implementation-the-australia-united-kingdom-united-states-partnership-aukus",
+            "https://en.wikipedia.org/wiki/AUKUS",
+            "https://en.wikipedia.org/wiki/AUKUS",
+            "https://2021-2025.state.gov/announcement-of-the-agreement-among-the-government-of-the-united-states-of-america-the-government-of-australia-and-the-government-of-the-united-kingdom-of-great-britain-and-northern-ireland-for-coop/",
+            "https://en.wikipedia.org/wiki/AUKUS"
+          ]
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "US — NSPM: Rebuilding the United States Navy and America's Shipbuilding Industrial Base (2026-08-13): Fix long-term problems in Navy shipbuilding and repair: a fifth Naval shipyard, a submarine Component Repair Center, reorganisation of NAVSEA and direct investment in shipyards on the 'Finland model'."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following the 2021 AUKUS announcement and subsequent establishment of maintenance and training frameworks, Australian industry is actively integrating into the US submarine supply chain ahead of the 2027 SRF-West rotational presence."
+          ],
+          "list": false
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense supply chain and procurement professionals should monitor Australian suppliers entering US submarine programs as sovereign industrial capabilities expand under AUKUS."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "ASC personnel who trained in Hawaii have returned to Australia to support the Submarine Maintenance Period for USS Colorado at HMAS Stirling. WA-based VEEM has secured purchase orders to supply specialized components to Huntington Ingalls Industries' Newport News Shipbuilding for US Navy Virginia-class submarines.",
+        "Context: 15 Sep 2021: Australia, the United Kingdom, and the United States announced the creation of the AUKUS trilateral security partnership, initiating plans for Australia to acquire nuclear-powered attack submarines (Agreement). 8 Feb 2022: The Exchange of Naval Nuclear Propulsion Information Agreement (ENNPIA) entered into force, enabling the trilateral sharing of restricted naval nuclear propulsion data (Agreement). 13 Mar 2023: AUKUS leaders announced the \"Optimal Pathway\" at San Diego, outlining the phased rollout of rotational submarine forces starting in 2027 and future delivery of SSN-AUKUS submarines. Jul 2023: The Australian Submarine Agency (ASA) was officially established to oversee the acquisition, delivery, and sustainment of Australia's nuclear-powered submarine fleet. 8 Aug 2024: The formal agreement between the US, UK, and Australia for cooperation related to naval nuclear propulsion was submitted and published, cementing legal frameworks for technology transfer (Agreement). 15 Aug 2024: Australian civilian maintenance technicians began hands-on integration training at U.S. naval shipyards to prepare for sovereign submarine maintenance roles.",
+        "Policy direction: US — NSPM: Rebuilding the United States Navy and America's Shipbuilding Industrial Base (2026-08-13): Fix long-term problems in Navy shipbuilding and repair: a fifth Naval shipyard, a submarine Component Repair Center, reorganisation of NAVSEA and direct investment in shipyards on the 'Finland model'.",
+        "The bigger picture: Following the 2021 AUKUS announcement and subsequent establishment of maintenance and training frameworks, Australian industry is actively integrating into the US submarine supply chain ahead of the 2027 SRF-West rotational presence.",
+        "Why it matters: Defense supply chain and procurement professionals should monitor Australian suppliers entering US submarine programs as sovereign industrial capabilities expand under AUKUS.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "APDR",
+          "url": "https://asiapacificdefencereporter.com/asc-workers-bring-nuclear-submarine-expertise-home/"
+        },
+        {
+          "n": 2,
+          "title": "APDR",
+          "url": "https://asiapacificdefencereporter.com/veem-wins-first-orders-for-virginia-class-subs/"
+        }
+      ],
+      "place": {
+        "label": "Perth",
+        "lat": -31.9505,
+        "lon": 115.8605
+      }
+    },
+    {
+      "id": "syn-900",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-14",
+      "title": "Defence Trailblazer Showcases 2026 EFD+ Cohort",
+      "summary": "Defence Trailblazer hosted the 2026 Entrepreneurial Foundations for Defence + Showcase in Canberra on 12 November, featuring 15 early-stage companies developing dual-use and defence capabilities. Participants such as Arc Professional Services, Frontier Fluid Systems, and Ignis Hypersonics presented their sovereign technologies to representatives from Defence, industry, and the investment community",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Defence Trailblazer hosted the 2026 Entrepreneurial Foundations for Defence + Showcase in Canberra on 12 November, featuring 15 early-stage companies developing dual-use and defence capabilities. Participants such as Arc Professional Services, Frontier Fluid Systems, and Ignis Hypersonics presented their sovereign technologies to representatives from Defence, industry, and the investment community."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "Apr 2022: The Defence Trailblazer: Concept to Sovereign Capability project is announced under the Australian Government’s Trailblazer Universities Program.",
+            "9 Apr 2025: Applications open for the 2025 iteration of the Defence Trailblazer Entrepreneurial Foundations for Defence program.",
+            "16 Apr 2025: A major funding round is announced to fast-track 35 research and development projects across quantum, hypersonics, cyber, and autonomous systems (Funding, AUD 135 million).",
+            "Aug 2025: Defence Trailblazer hosts the EFD 2025 Showcase at the UNSW Australian Defence Force Academy, featuring 20 early-stage ventures.",
+            "10 Dec 2025: Defence Trailblazer highlights sustainable and clean energy technology ventures supported through its EFD pipeline, including alternative battery and power systems.",
+            "24 Jun 2026: The Defence Industry Growth & Resilience (DIGR) Program concludes, having distributed $3 million in grants across 40 industry partners (AUD 3 million).",
+            "3 Sep 2026: Fifteen early-stage companies are selected to form the cohort for the 2026 Entrepreneurial Foundations for Defence + (EFD+) program."
+          ],
+          "list": true,
+          "links": [
+            "https://www.unsw.edu.au/newsroom/news/2023/07/Defence-Trailblazer-Program-launches-with-runs-on-the-board",
+            "https://dtb.solutions/event-wrap/entrepreneurial-foundations-for-defence-showcase-2025/",
+            "https://www.wsws.org/en/articles/2026/02/25/gkjb-f25.html",
+            "https://dtb.solutions/event-wrap/entrepreneurial-foundations-for-defence-showcase-2025/",
+            "https://www.defenceconnect.com.au/industry/17367-defence-trailblazer-works-with-local-industry-partners-in-sustainable-tech",
+            "https://dtb.solutions/case-studies/defence-trailblazer-wraps-up-industry-growth-and-resilience-program-to-uplift-enterprise-development/",
+            "https://dtb.solutions/case-studies/dinamic/fifteen-australian-companies-join-entrepreneurial-foundations-for-defence-to-accelerate-defence-innovation/"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Defence Trailblazer has progressively expanded its focus on accelerating sovereign innovation through targeted accelerator pipelines and R&D funding rounds."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Liquid Rocket Engines & Rotating Detonation Engines depends on advanced high-temperature superalloys, refractory metals (such as niobium and rhenium), and precision additive manufacturing feedstock."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Business development and procurement professionals in the defence sector should monitor these emerging suppliers for potential capability partnerships and early-stage dual-use technology integration."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Defence Trailblazer hosted the 2026 Entrepreneurial Foundations for Defence + Showcase in Canberra on 12 November, featuring 15 early-stage companies developing dual-use and defence capabilities. Participants such as Arc Professional Services, Frontier Fluid Systems, and Ignis Hypersonics presented their sovereign technologies to representatives from Defence, industry, and the investment community.",
+        "Context: Apr 2022: The Defence Trailblazer: Concept to Sovereign Capability project is announced under the Australian Government’s Trailblazer Universities Program. 9 Apr 2025: Applications open for the 2025 iteration of the Defence Trailblazer Entrepreneurial Foundations for Defence program. 16 Apr 2025: A major funding round is announced to fast-track 35 research and development projects across quantum, hypersonics, cyber, and autonomous systems (Funding, AUD 135 million). Aug 2025: Defence Trailblazer hosts the EFD 2025 Showcase at the UNSW Australian Defence Force Academy, featuring 20 early-stage ventures. 10 Dec 2025: Defence Trailblazer highlights sustainable and clean energy technology ventures supported through its EFD pipeline, including alternative battery and power systems. 24 Jun 2026: The Defence Industry Growth & Resilience (DIGR) Program concludes, having distributed $3 million in grants across 40 industry partners (AUD 3 million). 3 Sep 2026: Fifteen early-stage companies are selected to form the cohort for the 2026 Entrepreneurial Foundations for Defence + (EFD+) program.",
+        "The bigger picture: Defence Trailblazer has progressively expanded its focus on accelerating sovereign innovation through targeted accelerator pipelines and R&D funding rounds.",
+        "Down the supply chain: Liquid Rocket Engines & Rotating Detonation Engines depends on advanced high-temperature superalloys, refractory metals (such as niobium and rhenium), and precision additive manufacturing feedstock.",
+        "Why it matters: Business development and procurement professionals in the defence sector should monitor these emerging suppliers for potential capability partnerships and early-stage dual-use technology integration.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "APDR",
+          "url": "https://asiapacificdefencereporter.com/defence-trailblazer-showcases-new-industry-innovators/"
+        }
+      ],
+      "place": {
+        "label": "Canberra",
+        "lat": -35.2809,
+        "lon": 149.13
+      }
+    },
+    {
+      "id": "syn-901",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-14",
+      "title": "USS North Dakota shifts home port to Pearl Harbor",
+      "summary": "USS North Dakota changed its home port to Pearl Harbor, joining Submarine Squadron 1 as its sixth Virginia-class attack submarine after completing a brief shipyard maintenance availability.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "USS North Dakota changed its home port to Pearl Harbor, joining Submarine Squadron 1 as its sixth Virginia-class attack submarine after completing a brief shipyard maintenance availability."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "9 Oct 1995: USS Columbia (SSN 771) commissioned as the final Los Angeles-class submarine built at Electric Boat’s Groton yard (Delivered).",
+            "May 2022: Portsmouth Naval Shipyard completes the SLEP overhaul for USS Hampton (SSN 767).",
+            "Mar 2024: Portsmouth Naval Shipyard completes the inaugural Los Angeles-class SLEP overhaul for USS Cheyenne (SSN 773).",
+            "16 May 2025: USS Columbia arrives in Yokosuka, Japan, during a western Pacific deployment prior to its scheduled mid-life maintenance cycle (Plan).",
+            "22 Jun 2026: USS Columbia participates in Exercise Rim of the Pacific (RIMPAC) 2026 in Hawaii before heading toward its final operational phase prior to overhaul.",
+            "29 Oct 2026: USS Columbia arrives at Portsmouth Naval Shipyard in Kittery, Maine, to commence its scheduled maintenance and modernization overhaul (Plan)."
+          ],
+          "list": true,
+          "links": [
+            "https://defensewarroom.com/2026/10/30/uss-columbia-ssn-771-life-extension/",
+            "https://defensewarroom.com/2026/10/30/uss-columbia-ssn-771-life-extension/",
+            "https://defensewarroom.com/2026/10/30/uss-columbia-ssn-771-life-extension/",
+            "https://seapowermagazine.org/category/headlines/page/28/?print=print-search",
+            "https://seapowermagazine.org/category/headlines/page/28/?print=print-search",
+            "https://defence-industry.eu/los-angeles-class-submarine-uss-columbia-to-undergo-overhaul-to-extend-its-service-life/"
+          ]
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "US — NSPM: Rebuilding the United States Navy and America's Shipbuilding Industrial Base (2026-08-13): Fix long-term problems in Navy shipbuilding and repair: a fifth Naval shipyard, a submarine Component Repair Center, reorganisation of NAVSEA and direct investment in shipyards on the 'Finland model'."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Virginia-class depends on General Dynamics Electric Boat.",
+            "Virginia-class depends on HII's Newport News Shipbuilding — U.S. nuclear-submarine production currently depends on General Dynamics Electric Boat and HII’s Newport News Shipbuilding, both of which build Virginia-class boats."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense procurement and sustainment professionals supporting Virginia-class platforms should monitor naval base homeporting changes and maintenance schedules to forecast regional repair and logistical support demands."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "USS North Dakota changed its home port to Pearl Harbor, joining Submarine Squadron 1 as its sixth Virginia-class attack submarine after completing a brief shipyard maintenance availability.",
+        "Context: 9 Oct 1995: USS Columbia (SSN 771) commissioned as the final Los Angeles-class submarine built at Electric Boat’s Groton yard (Delivered). May 2022: Portsmouth Naval Shipyard completes the SLEP overhaul for USS Hampton (SSN 767). Mar 2024: Portsmouth Naval Shipyard completes the inaugural Los Angeles-class SLEP overhaul for USS Cheyenne (SSN 773). 16 May 2025: USS Columbia arrives in Yokosuka, Japan, during a western Pacific deployment prior to its scheduled mid-life maintenance cycle (Plan). 22 Jun 2026: USS Columbia participates in Exercise Rim of the Pacific (RIMPAC) 2026 in Hawaii before heading toward its final operational phase prior to overhaul. 29 Oct 2026: USS Columbia arrives at Portsmouth Naval Shipyard in Kittery, Maine, to commence its scheduled maintenance and modernization overhaul (Plan).",
+        "Policy direction: US — NSPM: Rebuilding the United States Navy and America's Shipbuilding Industrial Base (2026-08-13): Fix long-term problems in Navy shipbuilding and repair: a fifth Naval shipyard, a submarine Component Repair Center, reorganisation of NAVSEA and direct investment in shipyards on the 'Finland model'.",
+        "Down the supply chain: Virginia-class depends on General Dynamics Electric Boat. Virginia-class depends on HII's Newport News Shipbuilding — U.S. nuclear-submarine production currently depends on General Dynamics Electric Boat and HII’s Newport News Shipbuilding, both of which build Virginia-class boats.",
+        "Why it matters: Defense procurement and sustainment professionals supporting Virginia-class platforms should monitor naval base homeporting changes and maintenance schedules to forecast regional repair and logistical support demands.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/uss-north-dakota-changes-home-port-to-pearl-harbor-becoming-submarine-squadron-1s-sixth-virginia-class-attack-submarine/"
+        }
+      ],
+      "place": {
+        "label": "Pearl Harbor",
+        "lat": 21.3484,
+        "lon": -157.9625
+      }
+    },
+    {
+      "id": "syn-902",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-14",
+      "title": "Boeing Flies First UK CH-47F Block II Chinook",
+      "summary": "Boeing flew the first of 14 CH-47F Block II helicopters ordered for the UK in Philadelphia, featuring the Active Parallel Actuator System.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Boeing flew the first of 14 CH-47F Block II helicopters ordered for the UK in Philadelphia, featuring the Active Parallel Actuator System."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "27 Jun 2018: Boeing and the U.S. Army load the first CH-47F Block II Engineering and Manufacturing Development (EMD) helicopter into final assembly in Philadelphia.",
+            "Nov 2019: The first CH-47F Block II test aircraft completes initial test flights featuring the Advanced Chinook Rotor Blade (ACRB) baseline configuration.",
+            "24 Jun 2021: Boeing announces a contract award from USSOCOM (acting as contracting agency) valued at over $580 million for the UK’s 14 Chinook Block II aircraft, making the UK the first international customer (Contract, USD 580 million).",
+            "5 Jul 2023: Boeing transitions active assembly lines as part of its modernization pivot toward Block II configuration.",
+            "15 Apr 2026: The UK confirms a broader £879 million Rotary Wing Enterprise contract supporting overarching Apache and Chinook fleet architectures via Boeing Defence UK (BDUK) (Contract, GBP 879 million)."
+          ],
+          "list": true,
+          "links": [
+            "https://boeing.mediaroom.com/2018-06-27-Boeing-Chinook-Block-II-Program-Moves-to-Final-Assembly",
+            "https://boeing.mediaroom.com/2018-06-27-Boeing-Chinook-Block-II-Program-Moves-to-Final-Assembly",
+            "https://www.ainonline.com/aviation-news/defense/2021-06-24/uks-royal-air-force-orders-more-chinook-helicopters",
+            "https://boeing.mediaroom.com/2018-06-27-Boeing-Chinook-Block-II-Program-Moves-to-Final-Assembly",
+            "https://des.mod.uk/our-projects/raf-procurement-support/chinook/"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following initial test flights in 2019 and a 2021 USSOCOM contract award, production has progressed through assembly line modernization toward active delivery for international customers."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Advanced Chinook Rotor Blades (ACRB) depends on Rotor Blades — Featuring composite materials and anhedral swept tips for enhanced lift capacity.",
+            "Digital Advanced Flight Control System (DAFCS) depends on Flight Control Systems — Integrated with the Active Parallel Actuator System (APAS)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence procurement and supply chain professionals should monitor avionics and rotor blade integration milestones as international Block II deliveries scale."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Boeing flew the first of 14 CH-47F Block II helicopters ordered for the UK in Philadelphia, featuring the Active Parallel Actuator System.",
+        "Context: 27 Jun 2018: Boeing and the U.S. Army load the first CH-47F Block II Engineering and Manufacturing Development (EMD) helicopter into final assembly in Philadelphia. Nov 2019: The first CH-47F Block II test aircraft completes initial test flights featuring the Advanced Chinook Rotor Blade (ACRB) baseline configuration. 24 Jun 2021: Boeing announces a contract award from USSOCOM (acting as contracting agency) valued at over $580 million for the UK’s 14 Chinook Block II aircraft, making the UK the first international customer (Contract, USD 580 million). 5 Jul 2023: Boeing transitions active assembly lines as part of its modernization pivot toward Block II configuration. 15 Apr 2026: The UK confirms a broader £879 million Rotary Wing Enterprise contract supporting overarching Apache and Chinook fleet architectures via Boeing Defence UK (BDUK) (Contract, GBP 879 million).",
+        "The bigger picture: Following initial test flights in 2019 and a 2021 USSOCOM contract award, production has progressed through assembly line modernization toward active delivery for international customers.",
+        "Down the supply chain: Advanced Chinook Rotor Blades (ACRB) depends on Rotor Blades — Featuring composite materials and anhedral swept tips for enhanced lift capacity. Digital Advanced Flight Control System (DAFCS) depends on Flight Control Systems — Integrated with the Active Parallel Actuator System (APAS).",
+        "Why it matters: Defence procurement and supply chain professionals should monitor avionics and rotor blade integration milestones as international Block II deliveries scale.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/boeing-flies-britains-first-ch-47f-chinook-block-ii-in-philadelphia-one-of-14-ordered-to-replace-older-heavy-lift-helicopters/"
+        }
+      ],
+      "place": {
+        "label": "Philadelphia",
+        "lat": 39.9526,
+        "lon": -75.1652
+      }
+    },
+    {
+      "id": "syn-904",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-15",
+      "title": "UK Recommits to 138 F-35 Jets",
+      "summary": "Minister for Defence Readiness and Industry Luke Pollard stated that the first F-35 procurement phase is complete with 48 F-35B jets delivered and operational, while confirming an ongoing commitment to 138 aircraft across the programme's life.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Minister for Defence Readiness and Industry Luke Pollard stated that the first F-35 procurement phase is complete with 48 F-35B jets delivered and operational, while confirming an ongoing commitment to 138 aircraft across the programme's life."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "26 Oct 2001: Lockheed Martin selected as the prime contractor for the Joint Strike Fighter program following the X-35 concept demonstration phase.",
+            "17 Jul 2019: Following Turkey's acquisition of the Russian S-400 air defense system, the U.S. formally removed Turkey from the F-35 partnership and initiated a supply chain transition.",
+            "Aug 2023: The F-35 Joint Program Office and Lockheed Martin agreed on terms for Lot 15-17 production contracts, establishing baseline pricing for up to 398 jets (Contract).",
+            "2026: F-35 price : Italy’s F-35 program, which involves the eventual purchase of 115 aircraft, cost Italy €782 million in 2026, less than the the €961 million planners last year forecast it would receive (price, EUR 782 million) (Plan).",
+            "Mar 2026: As of March 2026, this pool comprised approximately 26 million spare parts valued at around $31 billion, the GAO reported (milestone).",
+            "Jul 2026: U.S. Air Force orders Lockheed Martin: The U.S. Air Force awarded Lockheed Martin a $1.6 billion contract for more spare parts in July (Contract, USD 1.6 billion).",
+            "22 Oct 2026: Lockheed Martin and the Pentagon announced a 10-year framework agreement for 850 U.S. F-35 aircraft and sustainment integration (Agreement)."
+          ],
+          "list": true,
+          "links": [
+            "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement",
+            "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement",
+            "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement",
+            "https://www.defensenews.com/global/europe/2026/11/13/italy-boosts-gcap-fighter-spending-as-army-vehicles-take-a-hit-in-budget/",
+            "https://www.defensenews.com/pentagon/2026/11/10/pentagon-cant-track-millions-of-f-35-spare-parts-watchdog-finds/",
+            "https://www.defensenews.com/pentagon/2026/11/10/pentagon-cant-track-millions-of-f-35-spare-parts-watchdog-finds/",
+            "https://news.lockheedmartin.com/2026-10-22-New-Framework-Agreement-for-Multiyear-F-35-Production-and-Sustainment"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Long-term F-35 production and sustainment frameworks continue to expand globally, underscored by recent multi-year U.S. agreements and steady international procurement milestones."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Lockheed Martin depends on Alcoa / RTI International Metals — supplier of structural titanium plate, billet, and heavy structural bulkheads.",
+            "F-35 Joint Program Office depends on Lockheed Martin.",
+            "F-35 Joint Program Office depends on Pratt & Whitney."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence procurement professionals should monitor future UK batch allocations and potential F-35A integration timelines for NATO tasking."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Minister for Defence Readiness and Industry Luke Pollard stated that the first F-35 procurement phase is complete with 48 F-35B jets delivered and operational, while confirming an ongoing commitment to 138 aircraft across the programme's life.",
+        "Context: 26 Oct 2001: Lockheed Martin selected as the prime contractor for the Joint Strike Fighter program following the X-35 concept demonstration phase. 17 Jul 2019: Following Turkey's acquisition of the Russian S-400 air defense system, the U.S. formally removed Turkey from the F-35 partnership and initiated a supply chain transition. Aug 2023: The F-35 Joint Program Office and Lockheed Martin agreed on terms for Lot 15-17 production contracts, establishing baseline pricing for up to 398 jets (Contract). 2026: F-35 price : Italy’s F-35 program, which involves the eventual purchase of 115 aircraft, cost Italy €782 million in 2026, less than the the €961 million planners last year forecast it would receive (price, EUR 782 million) (Plan). Mar 2026: As of March 2026, this pool comprised approximately 26 million spare parts valued at around $31 billion, the GAO reported (milestone). Jul 2026: U.S. Air Force orders Lockheed Martin: The U.S. Air Force awarded Lockheed Martin a $1.6 billion contract for more spare parts in July (Contract, USD 1.6 billion). 22 Oct 2026: Lockheed Martin and the Pentagon announced a 10-year framework agreement for 850 U.S. F-35 aircraft and sustainment integration (Agreement).",
+        "The bigger picture: Long-term F-35 production and sustainment frameworks continue to expand globally, underscored by recent multi-year U.S. agreements and steady international procurement milestones.",
+        "Down the supply chain: Lockheed Martin depends on Alcoa / RTI International Metals — supplier of structural titanium plate, billet, and heavy structural bulkheads. F-35 Joint Program Office depends on Lockheed Martin. F-35 Joint Program Office depends on Pratt & Whitney.",
+        "Why it matters: Defence procurement professionals should monitor future UK batch allocations and potential F-35A integration timelines for NATO tasking.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "UK Defence Journal",
+          "url": "https://ukdefencejournal.org.uk/uk-again-commits-to-138-f-35-jets/"
+        }
+      ],
+      "place": {
+        "label": "London",
+        "lat": 51.5074,
+        "lon": -0.1278
+      }
+    },
+    {
+      "id": "syn-905",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-15",
+      "title": "UK enforces strict domestic sourcing mandates for Skynet 6 WSS",
+      "summary": "Minister for Defence Readiness and Industry Luke Pollard confirmed in Parliament that the live Skynet 6 Wideband Satellite System competition enforces strict sovereign mandates requiring key subsystems to be sourced from British industry and assembled, integrated, and tested domestically.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Minister for Defence Readiness and Industry Luke Pollard confirmed in Parliament that the live Skynet 6 Wideband Satellite System competition enforces strict sovereign mandates requiring key subsystems to be sourced from British industry and assembled, integrated, and tested domestically."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "Jul 2020: The UK Ministry of Defence awarded Airbus Defence and Space a £500 million sole-source contract to build the Skynet 6A communications satellite to secure service continuity (Contract, GBP 500 million).",
+            "May 2023: The procurement process for the Skynet 6 Wideband Satellite System (WSS) officially commenced with initial bidder engagement.",
+            "26 Nov 2023: Airbus Defence and Space signed an 18-year contract to supply advanced, UK-designed secure modems for the Future Protected Modem Type-A (FPMA) project supporting Skynet (Contract).",
+            "8 Aug 2025: The Ministry of Defence formally released the second and final Invitation to Negotiate (ITN) for the Skynet 6 Wideband Satellite System (WSS).",
+            "17 Jul 2026: Industry reporting highlighted final down-select preparations for the WSS competition under a newly transitioned government emphasizing domestic value.",
+            "5 Nov 2026: Media leaks indicated the Ministry of Defence provisionally recommended Lockheed Martin over incumbent Airbus for the £2.4 billion WSS contract, triggering a high-level government review (Contract, GBP 2.4 billion).",
+            "15 Nov 2026: Minister Luke Pollard confirmed in Parliament that the live WSS competition enforces strict sovereign mandates requiring key subsystems to be sourced from British industry and assembled, integrated, and tested domestically (Testing)."
+          ],
+          "list": true,
+          "links": [
+            "https://www.britainsworld.org.uk/p/the-memorandum-44-2025",
+            "https://defencedigital.blog.gov.uk/2025/08/20/securing-the-future-skynet-6-wss-hits-a-landmark-milestone/",
+            "https://www.janes.com/defence-intelligence-insights/defence-news/air/uk-mod-awards-18-year-contract-to-airbus-for-skynet-milsatcom-modems",
+            "https://defencedigital.blog.gov.uk/2025/08/20/securing-the-future-skynet-6-wss-hits-a-landmark-milestone/",
+            "https://en.wikipedia.org/wiki/Skynet_(satellite)",
+            "https://www.adsadvance.co.uk/uk-pm-reviews-skynet-6-satellite-contract/",
+            "https://ukdefencejournal.org.uk/skynet-satellite-bidders-must-source-key-systems-in-britain/"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "The Ministry of Defence advanced the Skynet 6 WSS procurement through a 2025 ITN release and 2026 down-select preparations, culminating in parliamentary confirmation regarding domestic industrial requirements."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Skynet 6 Wideband Satellite System depends on Spacecraft Bus & Core Structure — Primary structural frameworks, composite panels, and mechanical integration managed via domestic facilities in Stevenage and Portsmouth.",
+            "Skynet 6 Wideband Satellite System depends on Secure Communications Payloads (X-band / Mil-Ka band) — High-frequency transponders and anti-jamming processor architectures.",
+            "Skynet 6 Wideband Satellite System depends on Software-Defined Modems — Future Protected Modem Type-A (FPMA) waveforms and cryptographic network control software developed by Airbus UK."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence contractors bidding on UK space programmes must ensure robust domestic supply chains for subsystems and compliance with sovereign assembly requirements."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Minister for Defence Readiness and Industry Luke Pollard confirmed in Parliament that the live Skynet 6 Wideband Satellite System competition enforces strict sovereign mandates requiring key subsystems to be sourced from British industry and assembled, integrated, and tested domestically.",
+        "Context: Jul 2020: The UK Ministry of Defence awarded Airbus Defence and Space a £500 million sole-source contract to build the Skynet 6A communications satellite to secure service continuity (Contract, GBP 500 million). May 2023: The procurement process for the Skynet 6 Wideband Satellite System (WSS) officially commenced with initial bidder engagement. 26 Nov 2023: Airbus Defence and Space signed an 18-year contract to supply advanced, UK-designed secure modems for the Future Protected Modem Type-A (FPMA) project supporting Skynet (Contract). 8 Aug 2025: The Ministry of Defence formally released the second and final Invitation to Negotiate (ITN) for the Skynet 6 Wideband Satellite System (WSS). 17 Jul 2026: Industry reporting highlighted final down-select preparations for the WSS competition under a newly transitioned government emphasizing domestic value. 5 Nov 2026: Media leaks indicated the Ministry of Defence provisionally recommended Lockheed Martin over incumbent Airbus for the £2.4 billion WSS contract, triggering a high-level government review (Contract, GBP 2.4 billion). 15 Nov 2026: Minister Luke Pollard confirmed in Parliament that the live WSS competition enforces strict sovereign mandates requiring key subsystems to be sourced from British industry and assembled, integrated, and tested domestically (Testing).",
+        "The bigger picture: The Ministry of Defence advanced the Skynet 6 WSS procurement through a 2025 ITN release and 2026 down-select preparations, culminating in parliamentary confirmation regarding domestic industrial requirements.",
+        "Down the supply chain: Skynet 6 Wideband Satellite System depends on Spacecraft Bus & Core Structure — Primary structural frameworks, composite panels, and mechanical integration managed via domestic facilities in Stevenage and Portsmouth. Skynet 6 Wideband Satellite System depends on Secure Communications Payloads (X-band / Mil-Ka band) — High-frequency transponders and anti-jamming processor architectures. Skynet 6 Wideband Satellite System depends on Software-Defined Modems — Future Protected Modem Type-A (FPMA) waveforms and cryptographic network control software developed by Airbus UK.",
+        "Why it matters: Defence contractors bidding on UK space programmes must ensure robust domestic supply chains for subsystems and compliance with sovereign assembly requirements.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Skynet satellite bidders must source key systems in Britain",
+          "url": "https://ukdefencejournal.org.uk/skynet-satellite-bidders-must-source-key-systems-in-britain/"
+        }
+      ],
+      "place": {
+        "label": "London",
+        "lat": 51.5074,
+        "lon": -0.1278
+      }
+    },
+    {
+      "id": "syn-906",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-15",
+      "title": "Canada's JEF Membership Bid Undecided",
+      "summary": "Britain and other Joint Expeditionary Force nations are still considering Canada's application to join the grouping without a set timetable. JEF Defence Ministers previously discussed deepening cooperation with Canada during their October 2026 meeting in Iceland.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Britain and other Joint Expeditionary Force nations are still considering Canada's application to join the grouping without a set timetable. JEF Defence Ministers previously discussed deepening cooperation with Canada during their October 2026 meeting in Iceland."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "5 Sep 2014: The Joint Expeditionary Force is formally launched as a UK initiative under NATO’s Framework Nations Concept at the Wales Summit.",
+            "Apr 2021: Iceland joins the JEF, bringing total membership to ten nations.",
+            "Mar 2022: JEF activates a high-readiness response posture in response to the security environment following Russia's invasion of Ukraine.",
+            "15 Nov 2024: JEF leaders hold a summit in Tallinn, Estonia, marking ten years of the force and reviewing regional undersea infrastructure protection.",
+            "9 May 2025: JEF Leaders' Summit takes place in Oslo, focusing on northern security architecture and expanding minilateral defence cooperation.",
+            "Sep 2025: International exercise TARASSIS is hosted by Latvia, involving multi-domain operations across Scandinavia and the Baltic region with Canadian Armed Forces participation.",
+            "15 Oct 2026: JEF Defence Ministers discuss Canada’s application during their meeting in Iceland."
+          ],
+          "list": true,
+          "links": [
+            "https://jefnations.org/about-the-jef/history-of-the-jef/",
+            "https://jefnations.org/about-the-jef/history-of-the-jef/",
+            "https://www.csis.org/analysis/joint-expeditionary-force-northern-europe-ukraine",
+            "https://www.csis.org/analysis/joint-expeditionary-force-northern-europe-ukraine",
+            "https://www.hudson.org/international-organizations/bjef-joint-expeditionary-force-balkans-luke-coffey",
+            "https://www.mil.lv/lv/node/6581",
+            "https://ukdefencejournal.org.uk/canadas-bid-to-join-jef-still-under-consideration/"
+          ]
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "CA — Security, Sovereignty and Prosperity: Canada's Defence Industrial Strategy (2026-02-17): Build, partner, buy: build at home in areas of sovereign capability, partner with allies, buy abroad only when neither is feasible; raise the share of defence acquisitions awarded to Canadian firms to 70%, with the Defence Investment Agency at the centre.",
+            "NATO — The Hague Summit Declaration (2025-06-25): Allies commit to 5% of GDP a year by 2035: at least 3.5% on core defence requirements and up to 1.5% on broader security spending, including the defence industrial base."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "The Joint Expeditionary Force has evolved from its 2014 launch into an active northern security architecture, recently focusing on minilateral defence cooperation and regional integration."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "JEFNet depends on National command elements.",
+            "Northern Navies Initiative depends on Port infrastructure."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence procurement and supply chain professionals should monitor potential integration timelines between Canadian forces and JEF maritime initiatives."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Britain and other Joint Expeditionary Force nations are still considering Canada's application to join the grouping without a set timetable. JEF Defence Ministers previously discussed deepening cooperation with Canada during their October 2026 meeting in Iceland.",
+        "Context: 5 Sep 2014: The Joint Expeditionary Force is formally launched as a UK initiative under NATO’s Framework Nations Concept at the Wales Summit. Apr 2021: Iceland joins the JEF, bringing total membership to ten nations. Mar 2022: JEF activates a high-readiness response posture in response to the security environment following Russia's invasion of Ukraine. 15 Nov 2024: JEF leaders hold a summit in Tallinn, Estonia, marking ten years of the force and reviewing regional undersea infrastructure protection. 9 May 2025: JEF Leaders' Summit takes place in Oslo, focusing on northern security architecture and expanding minilateral defence cooperation. Sep 2025: International exercise TARASSIS is hosted by Latvia, involving multi-domain operations across Scandinavia and the Baltic region with Canadian Armed Forces participation. 15 Oct 2026: JEF Defence Ministers discuss Canada’s application during their meeting in Iceland.",
+        "Policy direction: CA — Security, Sovereignty and Prosperity: Canada's Defence Industrial Strategy (2026-02-17): Build, partner, buy: build at home in areas of sovereign capability, partner with allies, buy abroad only when neither is feasible; raise the share of defence acquisitions awarded to Canadian firms to 70%, with the Defence Investment Agency at the centre. NATO — The Hague Summit Declaration (2025-06-25): Allies commit to 5% of GDP a year by 2035: at least 3.5% on core defence requirements and up to 1.5% on broader security spending, including the defence industrial base.",
+        "The bigger picture: The Joint Expeditionary Force has evolved from its 2014 launch into an active northern security architecture, recently focusing on minilateral defence cooperation and regional integration.",
+        "Down the supply chain: JEFNet depends on National command elements. Northern Navies Initiative depends on Port infrastructure.",
+        "Why it matters: Defence procurement and supply chain professionals should monitor potential integration timelines between Canadian forces and JEF maritime initiatives.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Canada’s bid to join JEF still under consideration",
+          "url": "https://ukdefencejournal.org.uk/canadas-bid-to-join-jef-still-under-consideration/"
+        }
+      ],
+      "place": {
+        "label": "London",
+        "lat": 51.5074,
+        "lon": -0.1278
+      }
+    },
+    {
       "id": "syn-886",
       "status": "approved",
       "kind": "Synthesis",
@@ -6770,854 +7673,6 @@
         }
       ],
       "place": null
-    },
-    {
-      "id": "syn-780",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-12",
-      "title": "MV Glen Rosa begins sea trials ahead of scheduled February 2027 handover",
-      "summary": "MV Glen Rosa has departed on builder's sea trials on the Firth of Clyde following outfitting and dry docking at Dales Marine Services.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "MV Glen Rosa has departed on builder's sea trials on the Firth of Clyde following outfitting and dry docking at Dales Marine Services."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "16 Oct 2015: CMAL awards a £97 million fixed-price contract to Ferguson Marine Engineering Limited (FMEL) to design and build two dual-fuel ferries (Hull 801 and Hull 802), with scheduled deliveries in May and July 2018 (Plan, GBP 97 million).",
-            "18 Dec 2019: Following FMEL entering administration, the Scottish Government brings the shipyard into public ownership under Ferguson Marine (Port Glasgow) Ltd to complete the vessels.",
-            "30 Aug 2023: Following a public ballot, Hull 802 is officially named MV Glen Rosa.",
-            "9 Apr 2024: MV Glen Rosa is successfully launched into the Clyde from the Port Glasgow shipyard.",
-            "13 Jan 2025: Sister ship MV Glen Sannox officially enters passenger service with CalMac after extensive completion and trials.",
-            "17 Jun 2026: MV Glen Rosa is transferred to Dales Marine Services in Greenock for its final pre-trial dry docking, hull cleaning, and outfitting (Testing).",
-            "12 Nov 2026: MV Glen Rosa departs on builder’s sea trials on the Firth of Clyde ahead of a scheduled February 2027 handover (Testing)."
-          ],
-          "list": true,
-          "links": [
-            "https://www.ship-technology.com/projects/mv-glen-sannox-class-dual-fuel-ferries/",
-            "https://ukdefencejournal.org.uk/ferry-glen-rosa-heads-out-on-the-clyde-for-sea-trials/",
-            "https://en.wikipedia.org/wiki/MV_Glen_Rosa",
-            "https://en.wikipedia.org/wiki/MV_Glen_Rosa",
-            "https://en.wikipedia.org/wiki/MV_Glen_Sannox_(2017)",
-            "https://ukdefencejournal.org.uk/ferry-glen-rosa-heads-out-on-the-clyde-for-sea-trials/",
-            "https://ukdefencejournal.org.uk/ferry-glen-rosa-heads-out-on-the-clyde-for-sea-trials/"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following the 2015 contract award and subsequent nationalisation of the shipyard in 2019, the delivery of MV Glen Rosa marks the final phase of completing the dual-fuel ferry programme ahead of its scheduled February 2027 handover."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Dual-Fuel Marine Engines depends on Wärtsilä 34DF medium-speed engines — capable of operating on Marine Gas Oil (MGO) and Liquefied Natural Gas (LNG).",
-            "Propulsion Systems depends on Controllable pitch propellers and bow thrusters — Propulsion Systems."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Shipbuilding and marine engineering supply chain professionals should monitor the final trials and propulsion system testing as Ferguson Marine prepares for vessel handover."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "MV Glen Rosa has departed on builder's sea trials on the Firth of Clyde following outfitting and dry docking at Dales Marine Services.",
-        "Context: 16 Oct 2015: CMAL awards a £97 million fixed-price contract to Ferguson Marine Engineering Limited (FMEL) to design and build two dual-fuel ferries (Hull 801 and Hull 802), with scheduled deliveries in May and July 2018 (Plan, GBP 97 million). 18 Dec 2019: Following FMEL entering administration, the Scottish Government brings the shipyard into public ownership under Ferguson Marine (Port Glasgow) Ltd to complete the vessels. 30 Aug 2023: Following a public ballot, Hull 802 is officially named MV Glen Rosa. 9 Apr 2024: MV Glen Rosa is successfully launched into the Clyde from the Port Glasgow shipyard. 13 Jan 2025: Sister ship MV Glen Sannox officially enters passenger service with CalMac after extensive completion and trials. 17 Jun 2026: MV Glen Rosa is transferred to Dales Marine Services in Greenock for its final pre-trial dry docking, hull cleaning, and outfitting (Testing). 12 Nov 2026: MV Glen Rosa departs on builder’s sea trials on the Firth of Clyde ahead of a scheduled February 2027 handover (Testing).",
-        "The bigger picture: Following the 2015 contract award and subsequent nationalisation of the shipyard in 2019, the delivery of MV Glen Rosa marks the final phase of completing the dual-fuel ferry programme ahead of its scheduled February 2027 handover.",
-        "Down the supply chain: Dual-Fuel Marine Engines depends on Wärtsilä 34DF medium-speed engines — capable of operating on Marine Gas Oil (MGO) and Liquefied Natural Gas (LNG). Propulsion Systems depends on Controllable pitch propellers and bow thrusters — Propulsion Systems.",
-        "Why it matters: Shipbuilding and marine engineering supply chain professionals should monitor the final trials and propulsion system testing as Ferguson Marine prepares for vessel handover.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Ferguson Marine announced that dual-fuel ferry MV Glen Rosa has headed out onto the Firth of Clyde to begin builder’s se",
-          "url": "https://ukdefencejournal.org.uk/ferry-glen-rosa-heads-out-on-the-clyde-for-sea-trials/"
-        }
-      ],
-      "place": null
-    },
-    {
-      "id": "syn-782",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-12",
-      "title": "UK is already on the front line of hybrid warfare, warns Lord Sedwill",
-      "summary": "Speaking on board HMS Prince of Wales in Oslo, Atlantic Future Forum chair Lord Sedwill stated that Britain is actively engaged in hybrid conflict, citing state-backed social media operations that pushed Scottish independence.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Speaking on board HMS Prince of Wales in Oslo, Atlantic Future Forum chair Lord Sedwill stated that Britain is actively engaged in hybrid conflict, citing state-backed social media operations that pushed Scottish independence."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "Sep 2018: The inaugural Atlantic Future Forum takes place to reinforce defense and technology ties between the UK and key democratic allies.",
-            "Jun 2025: Disinformation monitoring identifies coordinated social media bot networks amplifying Scottish independence discourse until interrupted by internet outages in Iran.",
-            "11 Nov 2026: First Sea Lord General Sir Gwyn Jenkins warns at the International Sea Power Conference in Oslo that slowing hybrid navy integration risks leaving Britain unprepared for conflict.",
-            "12 Nov 2026: Lord Sedwill delivers his keynote opening address on board HMS Prince of Wales in Oslo, declaring Britain is on the front line of active hybrid conflict."
-          ],
-          "list": true,
-          "links": [
-            "https://www.atlanticfutureforum.com/EN/pages",
-            "https://ukdefencejournal.org.uk/britain-already-on-hybrid-war-front-line-warns-sedwill/",
-            "https://defence-industry.eu/first-sea-lord-warns-slowing-hybrid-navy-plans-risks-leaving-britain-unprepared-for-war/",
-            "https://ukdefencejournal.org.uk/britain-already-on-hybrid-war-front-line-warns-sedwill/"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Since the inaugural Atlantic Future Forum reinforced UK‑allied technology ties, state‑backed Iranian bot networks have been cited as hybrid interference, and Lord Sedwill warned that Britain is already on the front line of active hybrid conflict."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Digital infrastructure & Information Operations Countermeasures depends on commercial threat intelligence platforms, behavioural analytics algorithms, and sovereign cloud infrastructure — Digital infrastructure & Information Operations Countermeasures."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Digital infrastructure and information operations countermeasures depend on commercial threat intelligence platforms, behavioural analytics algorithms, and sovereign cloud infrastructure."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Speaking on board HMS Prince of Wales in Oslo, Atlantic Future Forum chair Lord Sedwill stated that Britain is actively engaged in hybrid conflict, citing state-backed social media operations that pushed Scottish independence.",
-        "Context: Sep 2018: The inaugural Atlantic Future Forum takes place to reinforce defense and technology ties between the UK and key democratic allies. Jun 2025: Disinformation monitoring identifies coordinated social media bot networks amplifying Scottish independence discourse until interrupted by internet outages in Iran. 11 Nov 2026: First Sea Lord General Sir Gwyn Jenkins warns at the International Sea Power Conference in Oslo that slowing hybrid navy integration risks leaving Britain unprepared for conflict. 12 Nov 2026: Lord Sedwill delivers his keynote opening address on board HMS Prince of Wales in Oslo, declaring Britain is on the front line of active hybrid conflict.",
-        "The bigger picture: Since the inaugural Atlantic Future Forum reinforced UK‑allied technology ties, state‑backed Iranian bot networks have been cited as hybrid interference, and Lord Sedwill warned that Britain is already on the front line of active hybrid conflict.",
-        "Down the supply chain: Digital infrastructure & Information Operations Countermeasures depends on commercial threat intelligence platforms, behavioural analytics algorithms, and sovereign cloud infrastructure — Digital infrastructure & Information Operations Countermeasures.",
-        "Why it matters: Digital infrastructure and information operations countermeasures depend on commercial threat intelligence platforms, behavioural analytics algorithms, and sovereign cloud infrastructure.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "UK Defence Journal",
-          "url": "https://ukdefencejournal.org.uk/britain-already-on-hybrid-war-front-line-warns-sedwill/"
-        }
-      ],
-      "place": null
-    },
-    {
-      "id": "syn-783",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-12",
-      "title": "UFORCE raises $700M Series A at $6B valuation to scale autonomous defense production",
-      "summary": "UFORCE announced a $700 million Series A financing round, bringing its valuation to $6 billion to scale the production of combat-proven autonomous systems for Ukraine and allied nations.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "UFORCE announced a $700 million Series A financing round, bringing its valuation to $6 billion to scale the production of combat-proven autonomous systems for Ukraine and allied nations."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "May 2022: Development of early autonomous maritime drone concepts (MAGURA V1/V2) begins under Ukrainian intelligence and private sector initiatives.",
-            "Mar 2025: UFORCE secures a $50 million seed funding round at a valuation exceeding $1 billion (Funding, USD 50 million).",
-            "May 2025: Operational integration of missile payloads (such as modified R-73 air-to-air missiles) onto MAGURA variants for air defense and anti-air engagements.",
-            "31 Dec 2025: UFORCE records nearly 500% booking growth over the preceding year across its product lines.",
-            "21 Jul 2026: UFORCE announces a strategic partnership and memorandum of understanding with U.S. boatbuilder ReconCraft to manufacture MAGURA maritime drones in the United States (Agreement).",
-            "24 Aug 2026: Public debut of the larger MAGURA MV11 \"drone mothership\" variant designed to deploy vertical-takeoff interceptor drones.",
-            "12 Nov 2026: UFORCE announces a $700 million Series A funding round co-led by Valor Equity Partners and the UK National Wealth Fund, bringing company valuation to $6 billion (Funding, USD 700 million)."
-          ],
-          "list": true,
-          "links": [
-            "https://www.armyrecognition.com/news/navy-news/2026/ukraine-magura-usv-drone-us-production-uforce-reconcraft",
-            "https://www.armyrecognition.com/news/navy-news/2026/ukraine-magura-usv-drone-us-production-uforce-reconcraft",
-            "https://en.wikipedia.org/wiki/MAGURA_V5",
-            "https://dealroom.co/news/172102-drone-maker-uforce-raises-700m-nears-5b-valuation/",
-            "https://www.prnewswire.com/news-releases/world-renowned-magura-usv-manufacturer-uforce-partners-with-reconcraft-to-build-combat-tested-autonomous-maritime-drones-in-the-us-302831197.html",
-            "https://www.armyrecognition.com/news/navy-news/2026/ukraine-magura-usv-drone-us-production-uforce-reconcraft",
-            "https://www.prnewswire.com/news-releases/uforce-raises-700m-at-6-billion-valuation-from-leading-tech-and-sovereign-wealth-funds-to-scale-combat-proven-defence-systems-for-ukraine-and-allied-nations-302937140.html"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Autonomous defense systems have scaled rapidly from early Ukrainian maritime drone initiatives into heavily funded, globally manufactured platforms backed by multi-million-dollar international investments, signalling a permanent shift toward cost-effective uncrewed warfare."
-          ],
-          "list": false
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defence procurement and supply chain professionals should monitor UFORCE's scaling and cross-border manufacturing partnerships while navigating applicable dual-use export control frameworks."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "UFORCE announced a $700 million Series A financing round, bringing its valuation to $6 billion to scale the production of combat-proven autonomous systems for Ukraine and allied nations.",
-        "Context: May 2022: Development of early autonomous maritime drone concepts (MAGURA V1/V2) begins under Ukrainian intelligence and private sector initiatives. Mar 2025: UFORCE secures a $50 million seed funding round at a valuation exceeding $1 billion (Funding, USD 50 million). May 2025: Operational integration of missile payloads (such as modified R-73 air-to-air missiles) onto MAGURA variants for air defense and anti-air engagements. 31 Dec 2025: UFORCE records nearly 500% booking growth over the preceding year across its product lines. 21 Jul 2026: UFORCE announces a strategic partnership and memorandum of understanding with U.S. boatbuilder ReconCraft to manufacture MAGURA maritime drones in the United States (Agreement). 24 Aug 2026: Public debut of the larger MAGURA MV11 \"drone mothership\" variant designed to deploy vertical-takeoff interceptor drones. 12 Nov 2026: UFORCE announces a $700 million Series A funding round co-led by Valor Equity Partners and the UK National Wealth Fund, bringing company valuation to $6 billion (Funding, USD 700 million).",
-        "The bigger picture: Autonomous defense systems have scaled rapidly from early Ukrainian maritime drone initiatives into heavily funded, globally manufactured platforms backed by multi-million-dollar international investments, signalling a permanent shift toward cost-effective uncrewed warfare.",
-        "Why it matters: Defence procurement and supply chain professionals should monitor UFORCE's scaling and cross-border manufacturing partnerships while navigating applicable dual-use export control frameworks.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Der Monitor für Defence und Sicherheitspolitik",
-          "url": "https://www.hartpunkt.de/ukrainischer-drohnenbauer-uforce-erhaelt-finanzierung-von-700-millionen-us-dollar-und-wird-mit-6-milliarden-us-dollar-bewertet/"
-        }
-      ],
-      "place": null
-    },
-    {
-      "id": "syn-728",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-11",
-      "title": "Diehl and Nammo inaugurate 155mm artillery shell line",
-      "summary": "Diehl Metall and Diehl Defence officially inaugurated a new 155mm shell body production line at Röthenbach an der Pegnitz in cooperation with Nammo AS.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Diehl Metall and Diehl Defence officially inaugurated a new 155mm shell body production line at Röthenbach an der Pegnitz in cooperation with Nammo AS."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "2019: Diehl Defence and Nammo AS establish the ARGE DiNa joint working group geared towards the German ammunition market.",
-            "Jul 2023: BAAINBw concludes an initial framework agreement with ARGE DiNa covering up to 350,000 155mm artillery shells (Agreement).",
-            "Jun 2024: Diehl launches the industrial project to convert a 7,000-square-meter facility at Röthenbach an der Pegnitz following a major call-off.",
-            "9 Jul 2024: BAAINBw and ARGE DiNa sign a substantially expanded framework contract and a major initial call-off order (Contract).",
-            "Oct 2026: Pilot-series production commences at the newly converted Röthenbach plant utilizing two new forging presses.",
-            "10 Nov 2026: Diehl Metall and Diehl Defence officially inaugurate the new 155mm shell body production line in cooperation with Nammo AS."
-          ],
-          "list": true,
-          "links": [
-            "https://defence-industry.eu/diehl-defence-opens-new-production-line-in-germany-for-dina-155mm-artillery-shell-bodies/",
-            "https://defensewarroom.com/2026/11/10/diehl-dina-155mm-artillery-shell-line/",
-            "https://defence-industry.eu/diehl-defence-opens-new-production-line-in-germany-for-dina-155mm-artillery-shell-bodies/",
-            "https://defensewarroom.com/2026/11/10/diehl-dina-155mm-artillery-shell-line/",
-            "https://defence-industry.eu/diehl-defence-opens-new-production-line-in-germany-for-dina-155mm-artillery-shell-bodies/",
-            "https://new.diehl.com/defence/en/press-media/news/inauguration-of-the-new-production-line-for-dina-155mm"
-          ]
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "EU — White Paper for European Defence – Readiness 2030 and ReArm Europe Plan (2025-03-19): Close critical capability gaps in seven priority areas (including air and missile defence and artillery) and build a stronger European defence industrial base; ReArm Europe enables over €800 billion of defence spending."
-          ],
-          "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following the 2019 establishment of ARGE DiNa and subsequent framework contracts, European defence industrial expansion under the ReArm Europe plan continues to address critical artillery capability gaps."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "155 mm Steel Shell Bodies depends on Diehl Metall (Röthenbach, Germany) — Forged and machined using two new heavy forging presses and specialized metal-forming infrastructure.",
-            "High-Explosive (HE) Filling & Integration depends on Diehl Defence.",
-            "Projectile Technology & Design depends on Nammo AS (Norway) — Core technical design, engineering data, and production know-how transferred from Nammo AS."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Procurement and supply chain professionals should monitor these expanded domestic manufacturing capacities for upcoming 155mm ammunition call-offs."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Diehl Metall and Diehl Defence officially inaugurated a new 155mm shell body production line at Röthenbach an der Pegnitz in cooperation with Nammo AS.",
-        "Context: 2019: Diehl Defence and Nammo AS establish the ARGE DiNa joint working group geared towards the German ammunition market. Jul 2023: BAAINBw concludes an initial framework agreement with ARGE DiNa covering up to 350,000 155mm artillery shells (Agreement). Jun 2024: Diehl launches the industrial project to convert a 7,000-square-meter facility at Röthenbach an der Pegnitz following a major call-off. 9 Jul 2024: BAAINBw and ARGE DiNa sign a substantially expanded framework contract and a major initial call-off order (Contract). Oct 2026: Pilot-series production commences at the newly converted Röthenbach plant utilizing two new forging presses. 10 Nov 2026: Diehl Metall and Diehl Defence officially inaugurate the new 155mm shell body production line in cooperation with Nammo AS.",
-        "Policy direction: EU — White Paper for European Defence – Readiness 2030 and ReArm Europe Plan (2025-03-19): Close critical capability gaps in seven priority areas (including air and missile defence and artillery) and build a stronger European defence industrial base; ReArm Europe enables over €800 billion of defence spending.",
-        "The bigger picture: Following the 2019 establishment of ARGE DiNa and subsequent framework contracts, European defence industrial expansion under the ReArm Europe plan continues to address critical artillery capability gaps.",
-        "Down the supply chain: 155 mm Steel Shell Bodies depends on Diehl Metall (Röthenbach, Germany) — Forged and machined using two new heavy forging presses and specialized metal-forming infrastructure. High-Explosive (HE) Filling & Integration depends on Diehl Defence. Projectile Technology & Design depends on Nammo AS (Norway) — Core technical design, engineering data, and production know-how transferred from Nammo AS.",
-        "Why it matters: Procurement and supply chain professionals should monitor these expanded domestic manufacturing capacities for upcoming 155mm ammunition call-offs.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Der Monitor für Defence und Sicherheitspolitik",
-          "url": "https://www.hartpunkt.de/diehl-metall-und-diehl-defence-weihen-neue-produktionslinie-fuer-huellen-von-155-mm-artilleriegeschossen-ein/"
-        }
-      ],
-      "place": {
-        "label": "Röthenbach an der Pegnitz",
-        "lat": 49.508,
-        "lon": 11.288
-      }
-    },
-    {
-      "id": "syn-729",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-11",
-      "title": "Austal Cuts First Steel for Australian Army's Landing Craft Heavy Program",
-      "summary": "The Australian Government formally announced the milestone achievement of first steel cutting for the Landing Craft Heavy programme alongside parallel Landing Craft Medium construction progress.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "The Australian Government formally announced the milestone achievement of first steel cutting for the Landing Craft Heavy programme alongside parallel Landing Craft Medium construction progress."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "25 Nov 2024: The Australian Department of Defence announced the selection of Damen's LST 100 design as the preferred platform for the Landing Craft Heavy (LCH) program.",
-            "Dec 2025: Austal secured the related Landing Craft Medium (LCM) design and build contract valued at approximately AUD 1.029 billion (Contract).",
-            "20 Feb 2026: The Australian Government awarded Austal Defence Australia an approximate AUD 4 billion contract to construct eight Landing Craft Heavy (LCH) vessels under a Strategic Shipbuilding Agreement (Contract, AUD 4 billion).",
-            "3 Mar 2026: Austal signed a formal design and licensing partnership agreement with Damen Shipyards Group for the local build of the LST 100 platform in Henderson (Agreement).",
-            "22 Oct 2026: Australia's National Reconstruction Fund Corporation (NRFC) announced a AUD 245 million loan to Austal Defence Australia to finance facility construction and fit-out for LCH manufacturing at the Australian Marine Complex (AUD 245 million).",
-            "29 Oct 2026: Austal cut the first steel for the Landing Craft Heavy program at Henderson, Western Australia.",
-            "11 Nov 2026: The Australian Government formally announced the milestone achievement of first steel cutting for the LCH programme alongside parallel LCM construction progress."
-          ],
-          "list": true,
-          "links": [
-            "https://psnews.com.au/construction-of-new-heavy-landing-craft-for-the-australian-army-commences-in-wa/188561/",
-            "https://navyleaders.com/news/austal-wins-a4bn-contract-for-australian-amphibious-landing-craft/",
-            "https://www.armyrecognition.com/news/navy-news/2026/australia-awards-4b-contract-to-austal-for-8-landing-craft-heavy-ships",
-            "https://www.damen.com/insights-center/news/austal-partners-damen-for-local-construction-of-lst-100-for-the-australian-army",
-            "https://psnews.com.au/construction-of-new-heavy-landing-craft-for-the-australian-army-commences-in-wa/188561/",
-            "https://www.navalnews.com/naval-news/2026/11/first-steel-cut-on-australian-landing-craft-heavy-at-austal/",
-            "https://www.navalnews.com/naval-news/2026/11/first-steel-cut-on-australian-landing-craft-heavy-at-austal/"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following Damen's design selection in November 2024 and subsequent contracts through 2026, Australia's littoral shipbuilding is scaling up with facility financing from the National Reconstruction Fund Corporation, signaling long-term sovereign manufacturing expansion."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Austal Limited (Henderson, Western Australia) depends on Final modular assembly and construction — Prime Contractor & Integrator.",
-            "Damen Shipyards Group (Netherlands) depends on LST 100 baseline design and engineering packages — Vessel Design & Licencing.",
-            "Local and international steel supply chains depends on Australian Marine Complex (AMC) fabrication facilities — Marine Steel Plate & Structural Materials."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense procurement professionals and regional suppliers should monitor facility development at the Australian Marine Complex to secure fabrication and sub-assembly contracts."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "The Australian Government formally announced the milestone achievement of first steel cutting for the Landing Craft Heavy programme alongside parallel Landing Craft Medium construction progress.",
-        "Context: 25 Nov 2024: The Australian Department of Defence announced the selection of Damen's LST 100 design as the preferred platform for the Landing Craft Heavy (LCH) program. Dec 2025: Austal secured the related Landing Craft Medium (LCM) design and build contract valued at approximately AUD 1.029 billion (Contract). 20 Feb 2026: The Australian Government awarded Austal Defence Australia an approximate AUD 4 billion contract to construct eight Landing Craft Heavy (LCH) vessels under a Strategic Shipbuilding Agreement (Contract, AUD 4 billion). 3 Mar 2026: Austal signed a formal design and licensing partnership agreement with Damen Shipyards Group for the local build of the LST 100 platform in Henderson (Agreement). 22 Oct 2026: Australia's National Reconstruction Fund Corporation (NRFC) announced a AUD 245 million loan to Austal Defence Australia to finance facility construction and fit-out for LCH manufacturing at the Australian Marine Complex (AUD 245 million). 29 Oct 2026: Austal cut the first steel for the Landing Craft Heavy program at Henderson, Western Australia. 11 Nov 2026: The Australian Government formally announced the milestone achievement of first steel cutting for the LCH programme alongside parallel LCM construction progress.",
-        "The bigger picture: Following Damen's design selection in November 2024 and subsequent contracts through 2026, Australia's littoral shipbuilding is scaling up with facility financing from the National Reconstruction Fund Corporation, signaling long-term sovereign manufacturing expansion.",
-        "Down the supply chain: Austal Limited (Henderson, Western Australia) depends on Final modular assembly and construction — Prime Contractor & Integrator. Damen Shipyards Group (Netherlands) depends on LST 100 baseline design and engineering packages — Vessel Design & Licencing. Local and international steel supply chains depends on Australian Marine Complex (AMC) fabrication facilities — Marine Steel Plate & Structural Materials.",
-        "Why it matters: Defense procurement professionals and regional suppliers should monitor facility development at the Australian Marine Complex to secure fabrication and sub-assembly contracts.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Naval News",
-          "url": "https://www.navalnews.com/naval-news/2026/11/first-steel-cut-on-australian-landing-craft-heavy-at-austal/"
-        }
-      ],
-      "place": {
-        "label": "Australia",
-        "lat": -25.2744,
-        "lon": 133.7751
-      }
-    },
-    {
-      "id": "syn-732",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-11",
-      "title": "U.S. Seeks Formal Russian Proposals on European Security Architecture",
-      "summary": "U.S. negotiators officially asked Moscow to table a formal written proposal detailing its terms for a future European security treaty.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "U.S. negotiators officially asked Moscow to table a formal written proposal detailing its terms for a future European security treaty."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "28 May 2002: Establishment of the NATO-Russia Council at the Rome Summit to serve as a mechanism for consensus, cooperation, and joint consultation.",
-            "Jun 2026: U.S. diplomatic channels initiate back-channel exploratory talks with Russian representatives regarding post-conflict parameters in Eastern Europe.",
-            "5 Nov 2026: President Donald Trump meets Russian presidential envoy Kirill Dmitriev in Washington, signalling a willingness to negotiate broader continental security architectures.",
-            "6 Nov 2026: European capitals express acute concern and surprise over potential backroom bargains bypassing EU and frontline state sovereignty.",
-            "7 Nov 2026: Senior NATO officials and European diplomatic advisers hold emergency briefings in Brussels to counter potential U.S. concessions on alliance force posture in Eastern Europe.",
-            "10 Nov 2026: Trilateral U.S.-Ukraine-Russia peace talks commence in Abu Dhabi, expanded to include national security advisers from France, Germany, the UK, and EU/NATO representatives.",
-            "11 Nov 2026: U.S. negotiators officially ask Moscow to table a formal written proposal detailing its terms for a future European security treaty, reviving fears of constraints on NATO expansion."
-          ],
-          "list": true,
-          "links": [
-            "https://www.nato.int/en/about-us/organization/nato-structure/nato-russia-council",
-            "https://www.kyivpost.com/post/89477",
-            "https://www.kyivpost.com/post/89477",
-            "https://eutoday.net/trumps-russia-security-proposal/",
-            "https://www.kyivpost.com/post/89477",
-            "https://www.kyivpost.com/post/89477",
-            "https://eutoday.net/trumps-russia-security-proposal/"
-          ]
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base.",
-            "US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress."
-          ],
-          "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following back-channel talks initiated in June 2026 and President Donald Trump's meeting with Russian envoy Kirill Dmitriev in November 2026, trilateral talks commenced in Abu Dhabi, culminating in requests for formal Russian security proposals; signal: potential realignment of continental security frameworks."
-          ],
-          "list": false
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defence industry business development and procurement professionals must monitor potential shifts in NATO force posture and alliance requirements."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "U.S. negotiators officially asked Moscow to table a formal written proposal detailing its terms for a future European security treaty.",
-        "Context: 28 May 2002: Establishment of the NATO-Russia Council at the Rome Summit to serve as a mechanism for consensus, cooperation, and joint consultation. Jun 2026: U.S. diplomatic channels initiate back-channel exploratory talks with Russian representatives regarding post-conflict parameters in Eastern Europe. 5 Nov 2026: President Donald Trump meets Russian presidential envoy Kirill Dmitriev in Washington, signalling a willingness to negotiate broader continental security architectures. 6 Nov 2026: European capitals express acute concern and surprise over potential backroom bargains bypassing EU and frontline state sovereignty. 7 Nov 2026: Senior NATO officials and European diplomatic advisers hold emergency briefings in Brussels to counter potential U.S. concessions on alliance force posture in Eastern Europe. 10 Nov 2026: Trilateral U.S.-Ukraine-Russia peace talks commence in Abu Dhabi, expanded to include national security advisers from France, Germany, the UK, and EU/NATO representatives. 11 Nov 2026: U.S. negotiators officially ask Moscow to table a formal written proposal detailing its terms for a future European security treaty, reviving fears of constraints on NATO expansion.",
-        "Policy direction: US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base. US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress.",
-        "The bigger picture: Following back-channel talks initiated in June 2026 and President Donald Trump's meeting with Russian envoy Kirill Dmitriev in November 2026, trilateral talks commenced in Abu Dhabi, culminating in requests for formal Russian security proposals; signal: potential realignment of continental security frameworks.",
-        "Why it matters: Defence industry business development and procurement professionals must monitor potential shifts in NATO force posture and alliance requirements.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Defence24",
-          "url": "https://defence24.com/geopolitics/kushners-new-security-deal-for-europe-has-a-russia-problem"
-        }
-      ],
-      "place": {
-        "label": "United States",
-        "lat": 37.0902,
-        "lon": -95.7129
-      }
-    },
-    {
-      "id": "syn-734",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-11",
-      "title": "CSG Backlog Hits Record €18B Amid Ammunition and Land Systems Demand",
-      "summary": "Czechoslovak Group reported a record order backlog of €18 billion at the end of September 2026, driven by strong demand in Land Systems and ammunition. Third-quarter revenue fell to €1.5 billion from €1.7 billion a year earlier, with delivery timing pushing some expected revenue into the fourth quarter.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Czechoslovak Group reported a record order backlog of €18 billion at the end of September 2026, driven by strong demand in Land Systems and ammunition. Third-quarter revenue fell to €1.5 billion from €1.7 billion a year earlier, with delivery timing pushing some expected revenue into the fourth quarter."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "31 Dec 2025: CSG closed the financial year with a total order backlog of €15 billion (EUR 15 billion).",
-            "30 Jun 2026: CSG H1 2026 results announced an order backlog of €17 billion and a pipeline of €29 billion (EUR 17 billion).",
-            "30 Sep 2026: CSG 9M 2026 trading statement recorded a new peak backlog of €18 billion, driven by Land Systems and Ammunition demand (EUR 18 billion)."
-          ],
-          "list": true,
-          "links": [
-            "https://csg.com/en/news/csg-9m-2026-trading-statement",
-            "https://csg.com/en/news/csg-9m-2026-trading-statement",
-            "https://csg.com/en/news/csg-9m-2026-trading-statement"
-          ]
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "EU — White Paper for European Defence – Readiness 2030 and ReArm Europe Plan (2025-03-19): Close critical capability gaps in seven priority areas (including air and missile defence and artillery) and build a stronger European defence industrial base; ReArm Europe enables over €800 billion of defence spending."
-          ],
-          "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "CSG's order backlog expanded from €15 billion at the close of 2025 to €17 billion at mid-year 2026, and reached €18 billion by September 2026, signaling sustained long-term demand for European land and artillery systems."
-          ],
-          "list": false
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defence procurement and supply chain professionals should monitor CSG's transition to in-house energetics and extended-range ammunition production ahead of its 2027 targets."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Czechoslovak Group reported a record order backlog of €18 billion at the end of September 2026, driven by strong demand in Land Systems and ammunition. Third-quarter revenue fell to €1.5 billion from €1.7 billion a year earlier, with delivery timing pushing some expected revenue into the fourth quarter.",
-        "Context: 31 Dec 2025: CSG closed the financial year with a total order backlog of €15 billion (EUR 15 billion). 30 Jun 2026: CSG H1 2026 results announced an order backlog of €17 billion and a pipeline of €29 billion (EUR 17 billion). 30 Sep 2026: CSG 9M 2026 trading statement recorded a new peak backlog of €18 billion, driven by Land Systems and Ammunition demand (EUR 18 billion).",
-        "Policy direction: EU — White Paper for European Defence – Readiness 2030 and ReArm Europe Plan (2025-03-19): Close critical capability gaps in seven priority areas (including air and missile defence and artillery) and build a stronger European defence industrial base; ReArm Europe enables over €800 billion of defence spending.",
-        "The bigger picture: CSG's order backlog expanded from €15 billion at the close of 2025 to €17 billion at mid-year 2026, and reached €18 billion by September 2026, signaling sustained long-term demand for European land and artillery systems.",
-        "Why it matters: Defence procurement and supply chain professionals should monitor CSG's transition to in-house energetics and extended-range ammunition production ahead of its 2027 targets.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Defence Industry Europe",
-          "url": "https://defence-industry.eu/csg-ceo-says-demand-remains-strong-as-order-backlog-rises-to-record-e18-billion/"
-        }
-      ],
-      "place": {
-        "label": "Prague",
-        "lat": 50.0755,
-        "lon": 14.4378
-      }
-    },
-    {
-      "id": "syn-735",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-11",
-      "title": "Saab wins SEK 350M contract to add drone scenarios to Danish CV90 training",
-      "summary": "Saab received a SEK 350 million order from DALO to integrate drone and long-range precision training scenarios into the Danish CV90 fleet exercises. The package includes the Instrumented Laser Duel System for the CV90.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Saab received a SEK 350 million order from DALO to integrate drone and long-range precision training scenarios into the Danish CV90 fleet exercises. The package includes the Instrumented Laser Duel System for the CV90."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "27 Jun 2025: Saab announced a SEK 680 million contract from DALO to establish four Combat Training Centre sites in Denmark, with deliveries running from 2025 to 2027 (Contract, SEK 680 million).",
-            "Nov 2025: Denmark decided to acquire 44 additional CV90MkIIIC infantry fighting vehicles from BAE Systems under a package valued at approximately $450 million (USD 450 million).",
-            "11 Nov 2026: Saab announced the SEK 350 million order to integrate drone and long-range precision training scenarios into the Danish CV90 fleet exercises (SEK 350 million)."
-          ],
-          "list": true,
-          "links": [
-            "https://www.saab.com/newsroom/press-releases/2025/saab-receives-order-for-combat-training-centre-from-denmark",
-            "https://www.army-technology.com/news/saab-denmark-cv90-training-equipment/",
-            "https://www.army-technology.com/news/saab-denmark-cv90-training-equipment/"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following a SEK 680 million contract in June 2025 to establish four training sites and a November 2025 acquisition of 44 CV90 vehicles, Denmark is expanding its simulation capabilities, pointing to rising demand for integrated live training systems."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Bushmaster depends on VOP CZ.",
-            "Saab AB depends on Laser transmitters and detectors (BT46 / ILDS core optics).",
-            "Saab AB depends on Simulation software and Exercise Control (EXCON) architecture."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense contractors supplying simulation and training systems should track DALO procurement for upcoming interoperability requirements."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Saab received a SEK 350 million order from DALO to integrate drone and long-range precision training scenarios into the Danish CV90 fleet exercises. The package includes the Instrumented Laser Duel System for the CV90.",
-        "Context: 27 Jun 2025: Saab announced a SEK 680 million contract from DALO to establish four Combat Training Centre sites in Denmark, with deliveries running from 2025 to 2027 (Contract, SEK 680 million). Nov 2025: Denmark decided to acquire 44 additional CV90MkIIIC infantry fighting vehicles from BAE Systems under a package valued at approximately $450 million (USD 450 million). 11 Nov 2026: Saab announced the SEK 350 million order to integrate drone and long-range precision training scenarios into the Danish CV90 fleet exercises (SEK 350 million).",
-        "The bigger picture: Following a SEK 680 million contract in June 2025 to establish four training sites and a November 2025 acquisition of 44 CV90 vehicles, Denmark is expanding its simulation capabilities, pointing to rising demand for integrated live training systems.",
-        "Down the supply chain: Bushmaster depends on VOP CZ. Saab AB depends on Laser transmitters and detectors (BT46 / ILDS core optics). Saab AB depends on Simulation software and Exercise Control (EXCON) architecture.",
-        "Why it matters: Defense contractors supplying simulation and training systems should track DALO procurement for upcoming interoperability requirements.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Defence Industry Europe",
-          "url": "https://defence-industry.eu/swedens-saab-to-add-drone-scenarios-to-denmarks-cv90-training-under-sek-350-million-order/"
-        }
-      ],
-      "place": {
-        "label": "Denmark",
-        "lat": 56.2639,
-        "lon": 9.5018
-      }
-    },
-    {
-      "id": "syn-736",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-11",
-      "title": "Shield AI Acquires Echodyne for $5.3B to Expand Counter-Drone Radar Capabilities",
-      "summary": "Shield AI entered into a definitive agreement to acquire Echodyne Corp. for up to $5.3 billion while raising $2.5 billion in concurrent equity and debt financing, establishing a $28.8 billion post-money valuation.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Shield AI entered into a definitive agreement to acquire Echodyne Corp. for up to $5.3 billion while raising $2.5 billion in concurrent equity and debt financing, establishing a $28.8 billion post-money valuation."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "2014: Echodyne is founded as a spin-out from Intellectual Ventures to commercialize metamaterials-based radar technology.",
-            "Apr 2021: U.S. Customs and Border Protection awards Echodyne a $20 million indefinite-delivery/indefinite-quantity (IDIQ) contract for border surveillance radars (Contract, USD 20 million).",
-            "30 Sep 2026: Echodyne completes a $40 million, 86,350-square-foot manufacturing facility in Kirkland, Washington, designed to produce up to 30,000 radars annually (USD 40 million).",
-            "5 Nov 2026: Shield AI enters into a definitive agreement to acquire Echodyne Corp. for up to $5.3 billion and raises $2.5 billion in concurrent equity and debt financing, establishing a $28.8 billion post-money valuation (Funding, USD 5.3 billion)."
-          ],
-          "list": true,
-          "links": [
-            "https://www.echodyne.com/newsroom/metamaterials-radar-redefines-counter-uas-economics",
-            "https://www.plexus.com/case-study/echodyne-echoguard-high-performance-radar/",
-            "https://www.droneanddefense.com/companies/echodyne/",
-            "https://shield.ai/shield-to-acquire-echodyne-in-a-transaction-valued-at-5-3-billion-and-raise-2-5-billion-at-a-28-8-billion-valuation/"
-          ]
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "US — Unleashing U.S. Military Drone Dominance (Secretary of Defense memorandum) (2025-07-10): Ramp up US production and fielding of low-cost drones: buy American-made drones and parts, equip combat units, and delegate drone procurement authority down to commanders."
-          ],
-          "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Since Echodyne's founding in 2014 and its subsequent contracts for border surveillance and manufacturing expansion, the company has scaled its metamaterials-based radar technology toward a 2026 acquisition by Shield AI, signaling consolidation in autonomous defense and counter-UAS markets."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Echodyne Radar System depends on Metamaterials Electronically Scanned Array (MESA) circuit boards and proprietary aperture panels.",
-            "Echodyne Radar System depends on Plexus Corp..",
-            "Echodyne Radar System depends on Standard multi-layer printed circuit board (PCB) substrates, copper-clad laminates, and commercial semiconductor subassemblies."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense industry procurement and supply chain professionals should monitor how this $5.3 billion integration affects standalone component availability and manufacturing partnerships for MESA radars."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Shield AI entered into a definitive agreement to acquire Echodyne Corp. for up to $5.3 billion while raising $2.5 billion in concurrent equity and debt financing, establishing a $28.8 billion post-money valuation.",
-        "Context: 2014: Echodyne is founded as a spin-out from Intellectual Ventures to commercialize metamaterials-based radar technology. Apr 2021: U.S. Customs and Border Protection awards Echodyne a $20 million indefinite-delivery/indefinite-quantity (IDIQ) contract for border surveillance radars (Contract, USD 20 million). 30 Sep 2026: Echodyne completes a $40 million, 86,350-square-foot manufacturing facility in Kirkland, Washington, designed to produce up to 30,000 radars annually (USD 40 million). 5 Nov 2026: Shield AI enters into a definitive agreement to acquire Echodyne Corp. for up to $5.3 billion and raises $2.5 billion in concurrent equity and debt financing, establishing a $28.8 billion post-money valuation (Funding, USD 5.3 billion).",
-        "Policy direction: US — Unleashing U.S. Military Drone Dominance (Secretary of Defense memorandum) (2025-07-10): Ramp up US production and fielding of low-cost drones: buy American-made drones and parts, equip combat units, and delegate drone procurement authority down to commanders.",
-        "The bigger picture: Since Echodyne's founding in 2014 and its subsequent contracts for border surveillance and manufacturing expansion, the company has scaled its metamaterials-based radar technology toward a 2026 acquisition by Shield AI, signaling consolidation in autonomous defense and counter-UAS markets.",
-        "Down the supply chain: Echodyne Radar System depends on Metamaterials Electronically Scanned Array (MESA) circuit boards and proprietary aperture panels. Echodyne Radar System depends on Plexus Corp.. Echodyne Radar System depends on Standard multi-layer printed circuit board (PCB) substrates, copper-clad laminates, and commercial semiconductor subassemblies.",
-        "Why it matters: Defense industry procurement and supply chain professionals should monitor how this $5.3 billion integration affects standalone component availability and manufacturing partnerships for MESA radars.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Militär Aktuell – Sicherheit im Fokus",
-          "url": "https://militaeraktuell.at/shield-ai-radarspezialisten-echodyne/"
-        }
-      ],
-      "place": {
-        "label": "United States",
-        "lat": 37.0902,
-        "lon": -95.7129
-      }
-    },
-    {
-      "id": "syn-737",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-11",
-      "title": "Poland and Ukraine Sign EUR 50M Defense Accord for MiG-29s and Drone Tech",
-      "summary": "Poland and Ukraine signed a working group accord and package confirmation valued at EUR 50 million on November 10, 2026, transferring two MiG-29 fighter jets in exchange for drone and missile defense technology.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Poland and Ukraine signed a working group accord and package confirmation valued at EUR 50 million on November 10, 2026, transferring two MiG-29 fighter jets in exchange for drone and missile defense technology."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "16 Mar 2023: Poland announces and begins the historic transfer of the first batch of Soviet-designed MiG-29 fighter jets to the Ukrainian Air Force.",
-            "8 May 2023: Poland completes the handover of a cumulative total of 14 MiG-29 aircraft to Ukraine (Delivered).",
-            "14 Dec 2025: Polish Deputy Defense Minister Cezary Tomczyk floats a proposal to transfer an additional 6 to 8 remaining MiG-29s in exchange for Ukrainian drone and missile know-how.",
-            "15 Jun 2026: Polish Defense Minister Władysław Kosiniak-Kamysz reports a temporary breakdown in talks, stating Kyiv failed to deliver promised counter-drone technology shares.",
-            "10 Nov 2026: Poland and Ukraine sign the formal working group accord and package confirmation (EUR 50 million)."
-          ],
-          "list": true,
-          "links": [
-            "https://kyivindependent.com/poland-may-transfer-2-mig-29-jets-to-ukraine-in-exchange-for-drone-technology-polish-official-says/",
-            "https://militaeraktuell.at/en/poland-exchanges-mig-29s-for-ukrainian-drone-defense-expertise/",
-            "https://kyivindependent.com/poland-may-transfer-2-mig-29-jets-to-ukraine-in-exchange-for-drone-technology-polish-official-says/",
-            "https://kyivindependent.com/poland-may-transfer-2-mig-29-jets-to-ukraine-in-exchange-for-drone-technology-polish-official-says/",
-            "https://militaeraktuell.at/en/poland-exchanges-mig-29s-for-ukrainian-drone-defense-expertise/"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following initial fighter jet deliveries in 2023 and stalled talks in mid-2026, bilateral defense cooperation has shifted toward a technology-barter model integrating Ukrainian unmanned systems expertise."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Counter-Drone Unmanned Interceptor Subsystems depends on Ukrainian domestic software frameworks."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Procurement professionals tracking counter-drone interceptor subsystems should monitor bilateral technology transfers between Poland and Ukraine."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Poland and Ukraine signed a working group accord and package confirmation valued at EUR 50 million on November 10, 2026, transferring two MiG-29 fighter jets in exchange for drone and missile defense technology.",
-        "Context: 16 Mar 2023: Poland announces and begins the historic transfer of the first batch of Soviet-designed MiG-29 fighter jets to the Ukrainian Air Force. 8 May 2023: Poland completes the handover of a cumulative total of 14 MiG-29 aircraft to Ukraine (Delivered). 14 Dec 2025: Polish Deputy Defense Minister Cezary Tomczyk floats a proposal to transfer an additional 6 to 8 remaining MiG-29s in exchange for Ukrainian drone and missile know-how. 15 Jun 2026: Polish Defense Minister Władysław Kosiniak-Kamysz reports a temporary breakdown in talks, stating Kyiv failed to deliver promised counter-drone technology shares. 10 Nov 2026: Poland and Ukraine sign the formal working group accord and package confirmation (EUR 50 million).",
-        "The bigger picture: Following initial fighter jet deliveries in 2023 and stalled talks in mid-2026, bilateral defense cooperation has shifted toward a technology-barter model integrating Ukrainian unmanned systems expertise.",
-        "Down the supply chain: Counter-Drone Unmanned Interceptor Subsystems depends on Ukrainian domestic software frameworks.",
-        "Why it matters: Procurement professionals tracking counter-drone interceptor subsystems should monitor bilateral technology transfers between Poland and Ukraine.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Militär Aktuell – Sicherheit im Fokus",
-          "url": "https://militaeraktuell.at/polen-ukraine-tausch-mig-29-drohnen-abwehr/"
-        }
-      ],
-      "place": {
-        "label": "Kyiv",
-        "lat": 50.4501,
-        "lon": 30.5234
-      }
-    },
-    {
-      "id": "syn-738",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-11",
-      "title": "Ukraine's IRIS-T Brigade Hits 200 Targets",
-      "summary": "The 96th Kiev Anti-Aircraft Missile Brigade shot down more than 200 Russian missiles and drones using the IRIS-T system, as reported by the Ukrainian General Staff.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "The 96th Kiev Anti-Aircraft Missile Brigade shot down more than 200 Russian missiles and drones using the IRIS-T system, as reported by the Ukrainian General Staff."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "Mar 2021: Rheinmetall Air Defence officially reveals the Skyranger 30 turret concept designed to counter drones, helicopters, and low-flying missiles.",
-            "Feb 2024: Germany places an initial order for Skyranger 30 systems under the NNbS (Nächstbereichschutzes) programme (Contract).",
-            "Jun 2025: Belgium and Rheinmetall initiate preliminary procurement talks regarding mobile air defence solutions.",
-            "Aug 2025: Austria signs a contract for 36 Skyranger 30 systems integrated on Pandur EVO APC chassis (Contract).",
-            "9 Nov 2026: Belgium officially signs a contract for 20 Skyranger 30 systems to be integrated into its \"Blue Dome\" air defence architecture, with deliveries beginning in late 2028 (Contract)."
-          ],
-          "list": true,
-          "links": [
-            "https://en.wikipedia.org/wiki/Skyranger_30",
-            "https://en.wikipedia.org/wiki/Skyranger_30",
-            "https://en.wikipedia.org/wiki/Skyranger_30",
-            "https://en.wikipedia.org/wiki/Skyranger_30",
-            "https://www.morningstar.com/news/dow-jones/202611091760/rheinmetall-gets-several-hundred-million-euro-belgian-air-defense-contract"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Air defense capabilities continue to expand across Europe as nations acquire advanced systems."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "IBO GmbH depends on Turret rotational and swivel race way bearings."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense suppliers should monitor surging European air defense procurement and prepare for increased component demand."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "The 96th Kiev Anti-Aircraft Missile Brigade shot down more than 200 Russian missiles and drones using the IRIS-T system, as reported by the Ukrainian General Staff.",
-        "Context: Mar 2021: Rheinmetall Air Defence officially reveals the Skyranger 30 turret concept designed to counter drones, helicopters, and low-flying missiles. Feb 2024: Germany places an initial order for Skyranger 30 systems under the NNbS (Nächstbereichschutzes) programme (Contract). Jun 2025: Belgium and Rheinmetall initiate preliminary procurement talks regarding mobile air defence solutions. Aug 2025: Austria signs a contract for 36 Skyranger 30 systems integrated on Pandur EVO APC chassis (Contract). 9 Nov 2026: Belgium officially signs a contract for 20 Skyranger 30 systems to be integrated into its \"Blue Dome\" air defence architecture, with deliveries beginning in late 2028 (Contract).",
-        "The bigger picture: Air defense capabilities continue to expand across Europe as nations acquire advanced systems.",
-        "Down the supply chain: IBO GmbH depends on Turret rotational and swivel race way bearings.",
-        "Why it matters: Defense suppliers should monitor surging European air defense procurement and prepare for increased component demand.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Militär Aktuell – Sicherheit im Fokus",
-          "url": "https://militaeraktuell.at/96-kiew-flarakbigade-ueber-200-ziele-mit-iris-t/"
-        }
-      ],
-      "place": {
-        "label": "Kyiv",
-        "lat": 50.4501,
-        "lon": 30.5234
-      }
     }
   ]
 }
