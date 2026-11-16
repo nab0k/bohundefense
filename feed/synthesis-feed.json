@@ -3,6 +3,533 @@
   "notice": "Syntheses prepared by machine from open sources and approved by the editor. Check the sources.",
   "items": [
     {
+      "id": "syn-919",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-15",
+      "title": "UK Atlantic Net Sub-Hunting Network to Go Live Within Months",
+      "summary": "First Sea Lord General Sir Gwyn Jenkins and Defence Minister Luke Pollard announced that the Atlantic Net drone and sensor network will achieve operational status within months. The Ministry of Defence committed an initial £90 million to select Ocean Infinity Solutions as the Commercial Mission Partner for the project.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "First Sea Lord General Sir Gwyn Jenkins and Defence Minister Luke Pollard announced that the Atlantic Net drone and sensor network will achieve operational status within months. The Ministry of Defence committed an initial £90 million to select Ocean Infinity Solutions as the Commercial Mission Partner for the project."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "Jun 2025: The UK Strategic Defence Review details the evolution of the Royal Navy force structure into a hybrid construct incorporating maritime uncrewed systems.",
+            "Sep 2025: First Sea Lord General Sir Gwyn Jenkins outlines the 'Atlantic Fleet' series, formally introducing the Atlantic Bastion underwater sensing framework.",
+            "Oct 2025: The UK Ministry of Defence issues its formal intent to tender for the Atlantic Net requirement under Project CABOT.",
+            "2026: Defence procurement officials confirm that 26 compliant industry proposals out of roughly 327 engaged entities have been evaluated for Atlantic Net.",
+            "29 Jun 2026: The UK Ministry of Defence details broader platform development plans including Type 93 extra-large uncrewed underwater vehicles under Atlantic Bastion.",
+            "10 Nov 2026: The Royal Navy selects Ocean Infinity Solutions as the Commercial Mission Partner for Atlantic Net at the International Sea Power Conference in Oslo, committing an initial £90 million (GBP 90 million).",
+            "15 Nov 2026: First Sea Lord General Sir Gwyn Jenkins and Defence Minister Luke Pollard announce that Atlantic Net will achieve operational status within months (Plan)."
+          ],
+          "list": true,
+          "links": [
+            "https://www.navalnews.com/naval-news/2026/07/uk-dip-details-platform-types-to-underpin-royal-navy-hybrid-force-structure-and-atlantic-fleet-series/",
+            "https://www.navalnews.com/naval-news/2026/07/uk-dip-details-platform-types-to-underpin-royal-navy-hybrid-force-structure-and-atlantic-fleet-series/",
+            "https://defensewarroom.com/2026/11/10/atlantic-net-ocean-infinity-russian-submarines/",
+            "https://defensewarroom.com/2026/11/10/atlantic-net-ocean-infinity-russian-submarines/",
+            "https://www.uxvsearcher.org/events/type-93-atlantic-bastion-product-service-announ-uxvsearcher-3270",
+            "https://www.wired-gov.net/wg/news.nsf/articles/90+million+investment+for+new+drones+and+sensors+to+protect+undersea+cables+and+hunt+Russian+submarines+10112026161500?open",
+            "https://ukdefencejournal.org.uk/uk-atlantic-net-sub-hunting-network-to-go-live-within-months/"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following the 2025 introduction of the Atlantic Bastion framework and subsequent evaluation of 2026 industry proposals, the Royal Navy is rapidly accelerating its hybrid uncrewed force structure to enhance critical infrastructure protection."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Atlantic Net depends on Saab (Sweden/UK) — Integration of lightweight Giraffe drone-detection and surface sensors onto uncrewed vessels."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence suppliers and technology integrators should monitor upcoming platform integrations and SME supply chain opportunities tied to the rapid deployment of Atlantic Bastion phases."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "First Sea Lord General Sir Gwyn Jenkins and Defence Minister Luke Pollard announced that the Atlantic Net drone and sensor network will achieve operational status within months. The Ministry of Defence committed an initial £90 million to select Ocean Infinity Solutions as the Commercial Mission Partner for the project.",
+        "Context: Jun 2025: The UK Strategic Defence Review details the evolution of the Royal Navy force structure into a hybrid construct incorporating maritime uncrewed systems. Sep 2025: First Sea Lord General Sir Gwyn Jenkins outlines the 'Atlantic Fleet' series, formally introducing the Atlantic Bastion underwater sensing framework. Oct 2025: The UK Ministry of Defence issues its formal intent to tender for the Atlantic Net requirement under Project CABOT. 2026: Defence procurement officials confirm that 26 compliant industry proposals out of roughly 327 engaged entities have been evaluated for Atlantic Net. 29 Jun 2026: The UK Ministry of Defence details broader platform development plans including Type 93 extra-large uncrewed underwater vehicles under Atlantic Bastion. 10 Nov 2026: The Royal Navy selects Ocean Infinity Solutions as the Commercial Mission Partner for Atlantic Net at the International Sea Power Conference in Oslo, committing an initial £90 million (GBP 90 million). 15 Nov 2026: First Sea Lord General Sir Gwyn Jenkins and Defence Minister Luke Pollard announce that Atlantic Net will achieve operational status within months (Plan).",
+        "The bigger picture: Following the 2025 introduction of the Atlantic Bastion framework and subsequent evaluation of 2026 industry proposals, the Royal Navy is rapidly accelerating its hybrid uncrewed force structure to enhance critical infrastructure protection.",
+        "Down the supply chain: Atlantic Net depends on Saab (Sweden/UK) — Integration of lightweight Giraffe drone-detection and surface sensors onto uncrewed vessels.",
+        "Why it matters: Defence suppliers and technology integrators should monitor upcoming platform integrations and SME supply chain opportunities tied to the rapid deployment of Atlantic Bastion phases.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "uk-atlantic-net-sub-hunting-network-to-go-live-within-months",
+          "url": "https://ukdefencejournal.org.uk/uk-atlantic-net-sub-hunting-network-to-go-live-within-months/"
+        }
+      ],
+      "place": null
+    },
+    {
+      "id": "syn-921",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-15",
+      "title": "UK Defence Report Urges High North Rehearsals for F-35A DCA",
+      "summary": "The House of Commons Defence Committee published its Defence in the High North report recommending peacetime deployments for nuclear-capable F-35As.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "The House of Commons Defence Committee published its Defence in the High North report recommending peacetime deployments for nuclear-capable F-35As."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "24 Jun 2025: Prime Minister Keir Starmer announced the procurement of 12 Lockheed Martin F-35A fighter jets to join NATO’s Dual Capable Aircraft (DCA) nuclear mission, reintroducing an tactical airborne nuclear capability for the RAF.",
+            "15 Jun 2026: Policy Exchange published a study on strengthening UK nuclear signalling capabilities via the return of the DCA mission.",
+            "16 Jul 2026: RAF leadership clarified that the initial batch of 12 F-35As are allocated for conversion and training units while the broader path to operational DCA delivery runs in parallel.",
+            "15 Sep 2026: The UK Ministry of Defence published its Defence Nuclear Enterprise Annual Update confirming the integration path for F-35As into NATO’s nuclear mission.",
+            "22 Oct 2026: The House of Commons Defence Committee published its Defence in the High North report (HC 71), recommending peacetime forward-deployment rehearsals for nuclear-capable F-35As.",
+            "29 Oct 2026: The UK government released wider defence spending figures outlining £298 billion over four years under the Defence Investment Plan.",
+            "15 Nov 2026: Defence reports highlighted the requirement for host-nation agreements and peacetime exercises in the High North to validate the deterrent impact of the RAF's F-35A DCA posture (Agreement)."
+          ],
+          "list": true,
+          "links": [
+            "https://www.gov.uk/government/news/uk-to-purchase-f-35as-and-join-nato-nuclear-mission-as-government-steps-up-national-security-and-delivers-defence-dividend",
+            "https://www.arundawson.com/research",
+            "https://www.adsadvance.co.uk/uk-raf-f35a-training-nato-nuclear-role/",
+            "https://www.armyrecognition.com/news/aerospace-news/2026/uk-restores-air-delivered-nuclear-role-with-u-s-made-f-35a-fighters-for-nato",
+            "https://www.accountabilityindex.uk/committees/8/inquiry/1705/#report-7940",
+            "https://defence-industry.eu/britain-sets-out-298-billion-defence-spending-plan-as-government-forecasts-nearly-60000-new-jobs-and-industrial-growth/",
+            "https://www.accountabilityindex.uk/committees/8/inquiry/1705/#report-7940"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following the 2025 procurement announcement, subsequent studies, enterprise updates, and parliamentary recommendations have steadily aligned to integrate F-35As into NATO's nuclear mission, pointing towards active operational rehearsals."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "F-35A Lightning II depends on Lockheed Martin Aeronautics (Prime, Fort Worth, TX, USA) — Lockheed Martin F-35A Lightning II Multi-Role Fighter.",
+            "F-35A Lightning II depends on BAE Systems (UK) and Northrop Grumman (Palmdale, CA, USA) — Composite Skin Components and Tail Assemblies."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense contractors and supply chain providers supporting the F-35 programme should monitor upcoming host-nation agreements and infrastructure requirements for northern deployments."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "The House of Commons Defence Committee published its Defence in the High North report recommending peacetime deployments for nuclear-capable F-35As.",
+        "Context: 24 Jun 2025: Prime Minister Keir Starmer announced the procurement of 12 Lockheed Martin F-35A fighter jets to join NATO’s Dual Capable Aircraft (DCA) nuclear mission, reintroducing an tactical airborne nuclear capability for the RAF. 15 Jun 2026: Policy Exchange published a study on strengthening UK nuclear signalling capabilities via the return of the DCA mission. 16 Jul 2026: RAF leadership clarified that the initial batch of 12 F-35As are allocated for conversion and training units while the broader path to operational DCA delivery runs in parallel. 15 Sep 2026: The UK Ministry of Defence published its Defence Nuclear Enterprise Annual Update confirming the integration path for F-35As into NATO’s nuclear mission. 22 Oct 2026: The House of Commons Defence Committee published its Defence in the High North report (HC 71), recommending peacetime forward-deployment rehearsals for nuclear-capable F-35As. 29 Oct 2026: The UK government released wider defence spending figures outlining £298 billion over four years under the Defence Investment Plan. 15 Nov 2026: Defence reports highlighted the requirement for host-nation agreements and peacetime exercises in the High North to validate the deterrent impact of the RAF's F-35A DCA posture (Agreement).",
+        "The bigger picture: Following the 2025 procurement announcement, subsequent studies, enterprise updates, and parliamentary recommendations have steadily aligned to integrate F-35As into NATO's nuclear mission, pointing towards active operational rehearsals.",
+        "Down the supply chain: F-35A Lightning II depends on Lockheed Martin Aeronautics (Prime, Fort Worth, TX, USA) — Lockheed Martin F-35A Lightning II Multi-Role Fighter. F-35A Lightning II depends on BAE Systems (UK) and Northrop Grumman (Palmdale, CA, USA) — Composite Skin Components and Tail Assemblies.",
+        "Why it matters: Defense contractors and supply chain providers supporting the F-35 programme should monitor upcoming host-nation agreements and infrastructure requirements for northern deployments.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/raf-may-need-to-rehearse-deploying-nuclear-capable-f-35a-fighters-to-the-high-north-in-peacetime-uk-defence-report-says/"
+        }
+      ],
+      "place": null
+    },
+    {
+      "id": "syn-922",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-15",
+      "title": "NATO Highlights Joint Procurement to Accelerate Deep Precision Strike Systems",
+      "summary": "NATO convened officials, defense companies, and start-ups in Brussels to align commercial offerings with multinational deep precision strike demand signals. The alliance highlighted High Visibility Projects like the Deep Strike Drone and Ground-Based Precision Strike initiatives as key mechanisms to accelerate delivery.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "NATO convened officials, defense companies, and start-ups in Brussels to align commercial offerings with multinational deep precision strike demand signals. The alliance highlighted High Visibility Projects like the Deep Strike Drone and Ground-Based Precision Strike initiatives as key mechanisms to accelerate delivery."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "2011: NATO established frameworks like Air Battle Decisive Munitions to coordinate precision-guided munition sharing and procurement.",
+            "Oct 2024: The UK and Germany signed the Trinity House Agreement, initiating joint development frameworks for deep precision strike capabilities with ranges exceeding 2,000 km (Agreement).",
+            "29 Jul 2025: European industrial competitions launched to field specific national deep-strike drone prototypes.",
+            "12 Feb 2026: NATO expanded its Integrated Air and Missile Defence and uncrewed deep-strike capability initiatives at alliance headquarters.",
+            "7 Jul 2026: NATO presented its five priority aggregated demand signals, including deep precision strike, at the NATO Summit Defence Industry Forum in Ankara, launching the Ground-Based Precision Strike Capabilities High Visibility Project.",
+            "10 Nov 2026: NATO convened allied governments, defense companies, and start-ups in Brussels to map industrial capacity and align commercial offerings with multinational deep precision strike demand signals.",
+            "15 Nov 2026: NATO officially highlighted joint multinational procurement through High Visibility Projects—specifically the Deep Strike Drone and Ground-Based Precision Strike projects—as the primary mechanism to accelerate delivery and secure production scaling."
+          ],
+          "list": true,
+          "links": [
+            "https://responsiblepublicaffairs.com/distance-is-now-a-budget-line/",
+            "https://responsiblepublicaffairs.com/distance-is-now-a-budget-line/",
+            "https://responsiblepublicaffairs.com/distance-is-now-a-budget-line/",
+            "https://www.brusselstimes.com/2402700/nato-pushes-for-faster-cheaper-precision-strike-systems-to-bolster-alliance-defence",
+            "https://defence-industry.eu/nato-says-joint-procurement-could-speed-purchases-of-deep-precision-strike-systems/",
+            "https://wisevoter.com/world/2026/11/14/nato-allies-industry-deep-precision-strike-brussels",
+            "https://defence-industry.eu/nato-says-joint-procurement-could-speed-purchases-of-deep-precision-strike-systems/"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following earlier frameworks like Air Battle Decisive Munitions and the Trinity House Agreement, NATO has progressively expanded uncrewed deep-strike initiatives from joint development toward aggregated demand signaling and multinational High Visibility Projects, signaling a shift toward synchronized industrial scaling."
+          ],
+          "list": false
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense contractors and supply chain providers should align production planning with multinational High Visibility Project demand signals to capture upcoming joint procurement opportunities."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "NATO convened officials, defense companies, and start-ups in Brussels to align commercial offerings with multinational deep precision strike demand signals. The alliance highlighted High Visibility Projects like the Deep Strike Drone and Ground-Based Precision Strike initiatives as key mechanisms to accelerate delivery.",
+        "Context: 2011: NATO established frameworks like Air Battle Decisive Munitions to coordinate precision-guided munition sharing and procurement. Oct 2024: The UK and Germany signed the Trinity House Agreement, initiating joint development frameworks for deep precision strike capabilities with ranges exceeding 2,000 km (Agreement). 29 Jul 2025: European industrial competitions launched to field specific national deep-strike drone prototypes. 12 Feb 2026: NATO expanded its Integrated Air and Missile Defence and uncrewed deep-strike capability initiatives at alliance headquarters. 7 Jul 2026: NATO presented its five priority aggregated demand signals, including deep precision strike, at the NATO Summit Defence Industry Forum in Ankara, launching the Ground-Based Precision Strike Capabilities High Visibility Project. 10 Nov 2026: NATO convened allied governments, defense companies, and start-ups in Brussels to map industrial capacity and align commercial offerings with multinational deep precision strike demand signals. 15 Nov 2026: NATO officially highlighted joint multinational procurement through High Visibility Projects—specifically the Deep Strike Drone and Ground-Based Precision Strike projects—as the primary mechanism to accelerate delivery and secure production scaling.",
+        "The bigger picture: Following earlier frameworks like Air Battle Decisive Munitions and the Trinity House Agreement, NATO has progressively expanded uncrewed deep-strike initiatives from joint development toward aggregated demand signaling and multinational High Visibility Projects, signaling a shift toward synchronized industrial scaling.",
+        "Why it matters: Defense contractors and supply chain providers should align production planning with multinational High Visibility Project demand signals to capture upcoming joint procurement opportunities.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "NATO says joint procurement could speed purchases of deep precision strike systems",
+          "url": "https://defence-industry.eu/nato-says-joint-procurement-could-speed-purchases-of-deep-precision-strike-systems"
+        },
+        {
+          "n": 2,
+          "title": "Defence Industry Europe",
+          "url": "https://defence-industry.eu/nato-says-joint-procurement-could-speed-purchases-of-deep-precision-strike-systems/"
+        }
+      ],
+      "place": null
+    },
+    {
+      "id": "syn-924",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-15",
+      "title": "Admiral Reflects on 2027 'Davidson Window' as Indo-Pacific Posture Shifts",
+      "summary": "Retired Admiral Philip Davidson stated on a podcast that he hopes his 2021 warning of a 2027 Chinese invasion of Taiwan will prove wrong, though he maintains concerns and urged the U.S. to deliver military aid to Taiwan before an invasion.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Retired Admiral Philip Davidson stated on a podcast that he hopes his 2021 warning of a 2027 Chinese invasion of Taiwan will prove wrong, though he maintains concerns and urged the U.S. to deliver military aid to Taiwan before an invasion."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "9 Mar 2021: Admiral Philip Davidson testified before the Senate Armed Services Committee warning that the threat of a Chinese invasion of Taiwan was manifest \"in the next six years\" (by 2027), establishing the \"Davidson Window\".",
+            "27 Dec 2021: President Joe Biden signed the National Defense Authorization Act (NDAA) for Fiscal Year 2022, authorizing multi-billion-dollar funding boosts for the Pacific Deterrence Initiative (USD 7.1 billion).",
+            "2 Feb 2023: CIA Director Bill Burns publicly backed the assessment, stating that Chinese President Xi Jinping had instructed the PLA to be ready to invade Taiwan by 2027.",
+            "8 Apr 2024: The U.S. Army deployed the Mid-Range Capability (MRC) launcher system to Northern Luzon, Philippines, marking its first theater deployment to strengthen regional deterrence.",
+            "12 Jan 2025: Analysts identified new mobile bridge vessel designs in commercial imagery, indicating ongoing PLA efforts to bridge amphibious landing gaps for roll-on/roll-off commercial ships.",
+            "28 Oct 2025: The Keen Sword joint military exercise involving roughly 45,000 Japanese and 11,000 U.S. personnel alongside international allies demonstrated tighter multilateral interoperability along the First Island Chain.",
+            "2 Mar 2026: The Office of the Director of National Intelligence released its Annual Threat Assessment noting that Chinese leaders do not currently maintain a fixed timeline for executing an invasion in 2027, tempering the strict interpretation of the window."
+          ],
+          "list": true,
+          "links": [
+            "https://www.armed-services.senate.gov/hearings/21-03-09-united-states-indo-pacific-command",
+            "https://en.wikipedia.org/wiki/Davidson_window",
+            "https://en.wikipedia.org/wiki/Davidson_window",
+            "https://www.twz.com/news-features/davidson-window-admiral-hopes-he-was-wrong-on-chinas-ability-to-take-taiwan-by-2027",
+            "https://www.fdd.org/analysis/battle-force-2025/",
+            "https://www.twz.com/news-features/davidson-window-admiral-hopes-he-was-wrong-on-chinas-ability-to-take-taiwan-by-2027",
+            "https://www.twz.com/news-features/davidson-window-admiral-hopes-he-was-wrong-on-chinas-ability-to-take-taiwan-by-2027"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Since the 2021 warning (T1) and subsequent NDAA funding (T2), allied exercises like Keen Sword (T6) and regional deployments (T4) have enhanced deterrence, though intelligence assessments note no fixed execution timeline (T7)."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Semiconductors & Microelectronics depends on High reliance on specialized fabrication plants (e.g., TSMC in Taiwan) vulnerable to disruption.."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense contractors and supply chain managers supporting Indo-Pacific posture initiatives should monitor shifting allied interoperability requirements and export licensing constraints."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Retired Admiral Philip Davidson stated on a podcast that he hopes his 2021 warning of a 2027 Chinese invasion of Taiwan will prove wrong, though he maintains concerns and urged the U.S. to deliver military aid to Taiwan before an invasion.",
+        "Context: 9 Mar 2021: Admiral Philip Davidson testified before the Senate Armed Services Committee warning that the threat of a Chinese invasion of Taiwan was manifest \"in the next six years\" (by 2027), establishing the \"Davidson Window\". 27 Dec 2021: President Joe Biden signed the National Defense Authorization Act (NDAA) for Fiscal Year 2022, authorizing multi-billion-dollar funding boosts for the Pacific Deterrence Initiative (USD 7.1 billion). 2 Feb 2023: CIA Director Bill Burns publicly backed the assessment, stating that Chinese President Xi Jinping had instructed the PLA to be ready to invade Taiwan by 2027. 8 Apr 2024: The U.S. Army deployed the Mid-Range Capability (MRC) launcher system to Northern Luzon, Philippines, marking its first theater deployment to strengthen regional deterrence. 12 Jan 2025: Analysts identified new mobile bridge vessel designs in commercial imagery, indicating ongoing PLA efforts to bridge amphibious landing gaps for roll-on/roll-off commercial ships. 28 Oct 2025: The Keen Sword joint military exercise involving roughly 45,000 Japanese and 11,000 U.S. personnel alongside international allies demonstrated tighter multilateral interoperability along the First Island Chain. 2 Mar 2026: The Office of the Director of National Intelligence released its Annual Threat Assessment noting that Chinese leaders do not currently maintain a fixed timeline for executing an invasion in 2027, tempering the strict interpretation of the window.",
+        "The bigger picture: Since the 2021 warning (T1) and subsequent NDAA funding (T2), allied exercises like Keen Sword (T6) and regional deployments (T4) have enhanced deterrence, though intelligence assessments note no fixed execution timeline (T7).",
+        "Down the supply chain: Semiconductors & Microelectronics depends on High reliance on specialized fabrication plants (e.g., TSMC in Taiwan) vulnerable to disruption..",
+        "Why it matters: Defense contractors and supply chain managers supporting Indo-Pacific posture initiatives should monitor shifting allied interoperability requirements and export licensing constraints.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Former U.S. Indo-Pacific Command chief Admiral Philip Davidson reflected on the approaching 2027 timeline—widely known a",
+          "url": "https://www.twz.com/sea/davidson-window-admiral-hopes-he-was-wrong-on-chinas-ability-to-take-taiwan-by-2027"
+        },
+        {
+          "n": 2,
+          "title": "The War Zone",
+          "url": "https://www.twz.com/news-features/davidson-window-admiral-hopes-he-was-wrong-on-chinas-ability-to-take-taiwan-by-2027"
+        }
+      ],
+      "place": null
+    },
+    {
+      "id": "syn-925",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-15",
+      "title": "Air Force moves ATOMS connectivity to program of record, funding set for 2028. T8",
+      "summary": "At the Airlift/Tanker Association symposium the Air Force detailed a plan to equip all mobility aircraft with ATOMS connectivity, moving the MAF NEXUS effort to a program of record with FY‑2028 funding Officials said the effort, spurred by the March 2026 KC‑135 crash, has already delivered ATOMS Lite kits to 31 KC‑46s and contracts for 14 C‑17 installations",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "At the Airlift/Tanker Association symposium the Air Force detailed a plan to equip all mobility aircraft with ATOMS connectivity, moving the MAF NEXUS effort to a program of record with FY‑2028 funding Officials said the effort, spurred by the March 2026 KC‑135 crash, has already delivered ATOMS Lite kits to 31 KC‑46s and contracts for 14 C‑17 installations"
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "2023: Air Mobility Command launches a rapid prototyping experiment to address longstanding beyond-line-of-sight connectivity gaps across cargo and tanker fleets, resulting in the development of Sierra Nevada Corporation’s Airlift Tanker Open Mission Systems (ATOMS).",
+            "Jul 2025: Sierra Nevada Corporation successfully demonstrates the backpack-sized ATOMS configuration during Exercise Mobility Guardian 2025 in the Pacific.",
+            "Mar 2026: A fatal KC-135 crash in western Iraq during operations against Iran brings intense operational focus to tanker situational awareness and data-sharing shortfalls.",
+            "14 Aug 2026: The Air Force Life Cycle Management Center awards Borsight Inc. a $24,975,545 sole-source contract for continued operational support, depot maintenance, and technical refresh of MAF Tactical Data Link situational awareness systems (Contract, USD 24.976 million).",
+            "27 Oct 2026: Boeing completes Starshield satellite communications and ATOMS kit installations on nine C-17 aircraft at Port San Antonio, Texas, as part of an initial 19-aircraft contract tranche (Contract).",
+            "6 Nov 2026: Air Force leadership announces at the Airlift/Tanker Association symposium that 31 KC-46s have been equipped with ATOMS Lite kits under an emergency procurement of 35 kits, alongside 14 contracted C-17 installations.",
+            "2028: Air Mobility Command scheduled to formally transition the MAF NEXUS initiative into an official program of record with earmarked funding in the fiscal 2028 budget cycle (Plan)."
+          ],
+          "list": true,
+          "links": [
+            "https://www.airandspaceforces.com/air-force-maps-path-connectivity-upgrades-mobility-fleet/",
+            "https://www.airandspaceforces.com/air-force-maps-path-connectivity-upgrades-mobility-fleet/",
+            "https://www.airandspaceforces.com/air-force-maps-path-connectivity-upgrades-mobility-fleet/",
+            "https://www.airandspaceforces.com/air-force-maps-path-connectivity-upgrades-mobility-fleet/",
+            "https://www.armyrecognition.com/news/aerospace-news/2026/u-s-air-force-upgrades-nine-c-17-transport-aircraft-with-satellite-communications",
+            "https://www.airandspaceforces.com/air-force-maps-path-connectivity-upgrades-mobility-fleet/",
+            "https://www.airandspaceforces.com/air-force-maps-path-connectivity-upgrades-mobility-fleet/"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "From a 2023 rapid‑prototype to 2025 backpack demos, the fatal 2026 KC‑135 crash sharpened urgency, leading to 2026 contracts and fielding on C‑17s and KC‑46s, and now the MAF NEXUS connectivity push is formalized for FY‑2028, signaling a fleet‑wide digital upgrade Stay tuned."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Ruggedized End-User Devices depends on Touchscreen tablets — Utilized by flight crews inside the cargo and cockpit compartments for unclassified and classified network access."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense contractors and logistics planners should prioritize ATOMS integration and secure supply of rugged touchscreen tablets to meet upcoming procurement cycles."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "At the Airlift/Tanker Association symposium the Air Force detailed a plan to equip all mobility aircraft with ATOMS connectivity, moving the MAF NEXUS effort to a program of record with FY‑2028 funding Officials said the effort, spurred by the March 2026 KC‑135 crash, has already delivered ATOMS Lite kits to 31 KC‑46s and contracts for 14 C‑17 installations",
+        "Context: 2023: Air Mobility Command launches a rapid prototyping experiment to address longstanding beyond-line-of-sight connectivity gaps across cargo and tanker fleets, resulting in the development of Sierra Nevada Corporation’s Airlift Tanker Open Mission Systems (ATOMS). Jul 2025: Sierra Nevada Corporation successfully demonstrates the backpack-sized ATOMS configuration during Exercise Mobility Guardian 2025 in the Pacific. Mar 2026: A fatal KC-135 crash in western Iraq during operations against Iran brings intense operational focus to tanker situational awareness and data-sharing shortfalls. 14 Aug 2026: The Air Force Life Cycle Management Center awards Borsight Inc. a $24,975,545 sole-source contract for continued operational support, depot maintenance, and technical refresh of MAF Tactical Data Link situational awareness systems (Contract, USD 24.976 million). 27 Oct 2026: Boeing completes Starshield satellite communications and ATOMS kit installations on nine C-17 aircraft at Port San Antonio, Texas, as part of an initial 19-aircraft contract tranche (Contract). 6 Nov 2026: Air Force leadership announces at the Airlift/Tanker Association symposium that 31 KC-46s have been equipped with ATOMS Lite kits under an emergency procurement of 35 kits, alongside 14 contracted C-17 installations. 2028: Air Mobility Command scheduled to formally transition the MAF NEXUS initiative into an official program of record with earmarked funding in the fiscal 2028 budget cycle (Plan).",
+        "The bigger picture: From a 2023 rapid‑prototype to 2025 backpack demos, the fatal 2026 KC‑135 crash sharpened urgency, leading to 2026 contracts and fielding on C‑17s and KC‑46s, and now the MAF NEXUS connectivity push is formalized for FY‑2028, signaling a fleet‑wide digital upgrade Stay tuned.",
+        "Down the supply chain: Ruggedized End-User Devices depends on Touchscreen tablets — Utilized by flight crews inside the cargo and cockpit compartments for unclassified and classified network access.",
+        "Why it matters: Defense contractors and logistics planners should prioritize ATOMS integration and secure supply of rugged touchscreen tablets to meet upcoming procurement cycles.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Air & Space Forces Magazine",
+          "url": "https://www.airandspaceforces.com/air-force-maps-path-connectivity-upgrades-mobility-fleet/"
+        }
+      ],
+      "place": null
+    },
+    {
+      "id": "syn-926",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-16",
+      "title": "NATO DIANA Claims Capability to Contract Startups in One Week",
+      "summary": "NATO DIANA Chief Commercial Officer Ryan Benitez stated at the Atlantic Future Forum that the accelerator can place pre-vetted innovators on contract within a week.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "NATO DIANA Chief Commercial Officer Ryan Benitez stated at the Atlantic Future Forum that the accelerator can place pre-vetted innovators on contract within a week."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "14 Jun 2021: Allied Leaders agreed to launch the Defence Innovation Accelerator for the North Atlantic (DIANA) at the Brussels Summit to foster transatlantic cooperation on critical technologies.",
+            "12 Dec 2022: DIANA's Board of Directors agreed on priority focus areas (energy resilience, secure information sharing, sensing and surveillance) for its 2023 pilot challenges.",
+            "14 Mar 2024: DIANA announced the doubling of its transatlantic network footprint, expanding its affiliated accelerator sites and test centres across Allied nations.",
+            "25 Jun 2025: NATO Heads of State and Government agreed to the Rapid Adoption Action Plan, setting a goal to reduce technology adoption timelines across the Alliance to a maximum of 24 months.",
+            "11 Dec 2025: DIANA's Rapid Adoption Service facilitated its first opt-in contract awarded on behalf of the United Kingdom to MyLanguage Inc. for offline translation tech (Contract).",
+            "21 Apr 2026: DIANA announced a Rapid Adoption Service contract awarded on behalf of Defence Research and Development Canada (DRDC) to HonuWorx (Contract).",
+            "29 Oct 2026: DIANA and Ukraine signed a landmark memorandum of understanding (MoU) at NATO Headquarters to deepen innovation and testing cooperation between Ukrainian and Allied ecosystems (Agreement)."
+          ],
+          "list": true,
+          "links": [
+            "https://www.nato.int/en/about-us/organization/nato-structure/defence-innovation-accelerator-for-the-north-atlantic-diana",
+            "https://www.nato.int/en/news-and-events/articles/news/2022/12/20/nato-approves-2023-strategic-direction-for-new-innovation-accelerator",
+            "https://www.nato.int/en/news-and-events/articles/news/2024/03/14/diana-natos-innovation-accelerator-doubles-the-size-of-its-transatlantic-network",
+            "https://www.nato.int/en/about-us/official-texts-and-resources/official-texts/2025/06/25/summary-of-natos-rapid-adoption-action-plan",
+            "https://www.nato.int/en/about-us/organization/nato-structure/defence-innovation-accelerator-for-the-north-atlantic-diana",
+            "https://www.nato.int/en/news-and-events/articles/news/2026/04/21/nato-dianas-rapid-adoption-service-enables-first-rd-contract-between-allies-and-industry",
+            "https://www.nato.int/en/news-and-events/articles/news/2026/10/29/natos-diana-and-ukraine-strengthen-cooperation-on-defence-innovation"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Since its launch in June 2021 and the 2025 Rapid Adoption Action Plan, DIANA has expanded its network and accelerated procurement timelines, culminating in a recent MoU with Ukraine to deepen technological cooperation."
+          ],
+          "list": false
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence contractors and tech startups should align with DIANA's rapid adoption pathways to bypass traditional multi-year procurement bottlenecks."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "NATO DIANA Chief Commercial Officer Ryan Benitez stated at the Atlantic Future Forum that the accelerator can place pre-vetted innovators on contract within a week.",
+        "Context: 14 Jun 2021: Allied Leaders agreed to launch the Defence Innovation Accelerator for the North Atlantic (DIANA) at the Brussels Summit to foster transatlantic cooperation on critical technologies. 12 Dec 2022: DIANA's Board of Directors agreed on priority focus areas (energy resilience, secure information sharing, sensing and surveillance) for its 2023 pilot challenges. 14 Mar 2024: DIANA announced the doubling of its transatlantic network footprint, expanding its affiliated accelerator sites and test centres across Allied nations. 25 Jun 2025: NATO Heads of State and Government agreed to the Rapid Adoption Action Plan, setting a goal to reduce technology adoption timelines across the Alliance to a maximum of 24 months. 11 Dec 2025: DIANA's Rapid Adoption Service facilitated its first opt-in contract awarded on behalf of the United Kingdom to MyLanguage Inc. for offline translation tech (Contract). 21 Apr 2026: DIANA announced a Rapid Adoption Service contract awarded on behalf of Defence Research and Development Canada (DRDC) to HonuWorx (Contract). 29 Oct 2026: DIANA and Ukraine signed a landmark memorandum of understanding (MoU) at NATO Headquarters to deepen innovation and testing cooperation between Ukrainian and Allied ecosystems (Agreement).",
+        "The bigger picture: Since its launch in June 2021 and the 2025 Rapid Adoption Action Plan, DIANA has expanded its network and accelerated procurement timelines, culminating in a recent MoU with Ukraine to deepen technological cooperation.",
+        "Why it matters: Defence contractors and tech startups should align with DIANA's rapid adoption pathways to bypass traditional multi-year procurement bottlenecks.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "NATO’s DIANA says it can put startups on contract in a week",
+          "url": "https://ukdefencejournal.org.uk/natos-diana-says-it-can-put-startups-on-contract-in-a-week/"
+        }
+      ],
+      "place": null
+    },
+    {
+      "id": "syn-927",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-16",
+      "title": "RCN Crews Shape River-Class Design",
+      "summary": "Serving Royal Canadian Navy personnel confirmed extensive operational and design integration efforts for the River-class destroyers, including early training on the US Aegis system and AN/SPY-7 radar.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Serving Royal Canadian Navy personnel confirmed extensive operational and design integration efforts for the River-class destroyers, including early training on the US Aegis system and AN/SPY-7 radar."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "May 2015: Government of Canada announces the procurement strategy and competitive sourcing approach for the Canadian Surface Combatant (CSC).",
+            "19 Oct 2018: Lockheed Martin Canada and BAE Systems are selected as the preferred bidder for the CSC programme.",
+            "Jun 2024: Irving Shipbuilding begins initial production test modules for the new warship class at Halifax Shipyard.",
+            "Mar 2025: Canada orders the first batch of three River-class ships and initiates full-rate production preparation (Contract).",
+            "Apr 2025: Full-rate production officially begins for the first River-class hull.",
+            "12 Jun 2026: Ceremonial keel laying for the lead ship, the future HMCS Fraser, takes place at Irving Shipbuilding in Halifax.",
+            "16 Nov 2026: Serving RCN crews detail their multi-year deep integration inputs and early Aegis/SPY-7 training regimens."
+          ],
+          "list": true,
+          "links": [
+            "https://en.wikipedia.org/wiki/Type_26_frigate",
+            "https://ukdefencejournal.org.uk/canadian-crews-shaping-the-type-26-based-river-class/",
+            "https://www.canada.ca/en/department-national-defence/news/2026/06/canada-celebrates-keel-laying-for-the-first-river-class-destroyer.html",
+            "https://www.navalnews.com/features/2026/10/canada-river-class-destroyer-aegis-mots/",
+            "https://www.canada.ca/en/department-national-defence/news/2026/06/canada-celebrates-keel-laying-for-the-first-river-class-destroyer.html",
+            "https://www.canada.ca/en/department-national-defence/news/2026/06/canada-celebrates-keel-laying-for-the-first-river-class-destroyer.html",
+            "https://ukdefencejournal.org.uk/canadian-crews-shaping-the-type-26-based-river-class/"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following the 2018 preferred bidder selection and subsequent production milestones up to the June 2026 keel laying of the future HMCS Fraser, the program has advanced to crew integration and training by November 2026."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Lockheed Martin Canada (Ottawa, ON) depends on domestic combat management software architecture — Combat Management System (CMS 330)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense contractors and naval suppliers must align training and combat system software integration with early crew feedback timelines."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Serving Royal Canadian Navy personnel confirmed extensive operational and design integration efforts for the River-class destroyers, including early training on the US Aegis system and AN/SPY-7 radar.",
+        "Context: May 2015: Government of Canada announces the procurement strategy and competitive sourcing approach for the Canadian Surface Combatant (CSC). 19 Oct 2018: Lockheed Martin Canada and BAE Systems are selected as the preferred bidder for the CSC programme. Jun 2024: Irving Shipbuilding begins initial production test modules for the new warship class at Halifax Shipyard. Mar 2025: Canada orders the first batch of three River-class ships and initiates full-rate production preparation (Contract). Apr 2025: Full-rate production officially begins for the first River-class hull. 12 Jun 2026: Ceremonial keel laying for the lead ship, the future HMCS Fraser, takes place at Irving Shipbuilding in Halifax. 16 Nov 2026: Serving RCN crews detail their multi-year deep integration inputs and early Aegis/SPY-7 training regimens.",
+        "The bigger picture: Following the 2018 preferred bidder selection and subsequent production milestones up to the June 2026 keel laying of the future HMCS Fraser, the program has advanced to crew integration and training by November 2026.",
+        "Down the supply chain: Lockheed Martin Canada (Ottawa, ON) depends on domestic combat management software architecture — Combat Management System (CMS 330).",
+        "Why it matters: Defense contractors and naval suppliers must align training and combat system software integration with early crew feedback timelines.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "UK Defence Journal",
+          "url": "https://ukdefencejournal.org.uk/canadian-crews-shaping-the-type-26-based-river-class/"
+        }
+      ],
+      "place": null
+    },
+    {
       "id": "syn-907",
       "status": "approved",
       "kind": "Synthesis",
@@ -7229,514 +7756,6 @@
           "n": 1,
           "title": "Atlantic Future Forum ends in Oslo with pacts and deals",
           "url": "https://ukdefencejournal.org.uk/atlantic-future-forum-ends-in-oslo-with-pacts-and-deals/"
-        }
-      ],
-      "place": null
-    },
-    {
-      "id": "syn-823",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-12",
-      "title": "UK Joins Norwegian Vessel Programme Following 41% Rise in Russian Activity",
-      "summary": "Defence Secretary Wes Streeting announced a 41% increase in Russian maritime activity within the UK's area of responsibility. The UK formally confirmed its entry into Norway's P1118 Standardised Vessel Programme to procure three mine-hunting motherships.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Defence Secretary Wes Streeting announced a 41% increase in Russian maritime activity within the UK's area of responsibility. The UK formally confirmed its entry into Norway's P1118 Standardised Vessel Programme to procure three mine-hunting motherships."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "Dec 2025: Norway committed £10 billion to procure British Type 26 Global Combat Ships, establishing the bilateral naval partnership framework (Agreement, GBP 10 billion).",
-            "27 Oct 2026: The UK Ministry of Defence and Poland formalised missile and ammunition cooperation under the new UK-Poland Security and Defence Partnership Treaty (Agreement).",
-            "2 Nov 2026: The Royal Navy tracked Russian naval vessels around the UK, supported operationally for the first time by the RAF Protector RG1 remotely piloted aircraft.",
-            "10 Nov 2026: The UK launched the £90 million 'Atlantic Net' undersea surveillance framework with Ocean Infinity Solutions to protect cables and track submarines.",
-            "12 Nov 2026: Defence Secretary Wes Streeting announced a 41% rise in Russian maritime activity and formally confirmed the UK's entry into Norway's P1118 Standardised Vessel Programme for three mine-hunting motherships."
-          ],
-          "list": true,
-          "links": [
-            "https://www.gov.uk/government/news/uk-growth-and-security-boosted-as-royal-navy-agrees-export-deal-for-new-mine-hunting-motherships",
-            "https://militarnyi.com/en/news/british-navy-reinforced-norwegian-mine-hunting-drone-motherships/",
-            "https://ukdefencejournal.org.uk/uk-and-norway-seal-royal-navy-mine-hunting-mothership-deal/",
-            "https://splash247.com/uk-taps-ocean-infinity-for-subsea-security-push/",
-            "https://ukdefencejournal.org.uk/uk-and-norway-seal-royal-navy-mine-hunting-mothership-deal/"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Driven by rising maritime threats, the UK has expanded bilateral naval ties through the December 2025 Type 26 procurement framework, recent undersea surveillance initiatives, and ongoing integration with Norwegian shipbuilding programs."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Autonomous Systems & Integration depends on Ocean Infinity Solutions.",
-            "Mine Countermeasure Payloads depends on Atlas Elektronik Seafox variants — Autonomous mine disposal systems and ROVs."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "The P1118 programme and the Atlantic Net framework involve autonomous systems and mine countermeasure payloads, indicating relevance for contractors in those areas."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Defence Secretary Wes Streeting announced a 41% increase in Russian maritime activity within the UK's area of responsibility. The UK formally confirmed its entry into Norway's P1118 Standardised Vessel Programme to procure three mine-hunting motherships.",
-        "Context: Dec 2025: Norway committed £10 billion to procure British Type 26 Global Combat Ships, establishing the bilateral naval partnership framework (Agreement, GBP 10 billion). 27 Oct 2026: The UK Ministry of Defence and Poland formalised missile and ammunition cooperation under the new UK-Poland Security and Defence Partnership Treaty (Agreement). 2 Nov 2026: The Royal Navy tracked Russian naval vessels around the UK, supported operationally for the first time by the RAF Protector RG1 remotely piloted aircraft. 10 Nov 2026: The UK launched the £90 million 'Atlantic Net' undersea surveillance framework with Ocean Infinity Solutions to protect cables and track submarines. 12 Nov 2026: Defence Secretary Wes Streeting announced a 41% rise in Russian maritime activity and formally confirmed the UK's entry into Norway's P1118 Standardised Vessel Programme for three mine-hunting motherships.",
-        "The bigger picture: Driven by rising maritime threats, the UK has expanded bilateral naval ties through the December 2025 Type 26 procurement framework, recent undersea surveillance initiatives, and ongoing integration with Norwegian shipbuilding programs.",
-        "Down the supply chain: Autonomous Systems & Integration depends on Ocean Infinity Solutions. Mine Countermeasure Payloads depends on Atlas Elektronik Seafox variants — Autonomous mine disposal systems and ROVs.",
-        "Why it matters: The P1118 programme and the Atlantic Net framework involve autonomous systems and mine countermeasure payloads, indicating relevance for contractors in those areas.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "UK Defence Journal",
-          "url": "https://ukdefencejournal.org.uk/russian-activity-in-uk-waters-up-two-fifths-says-streeting/"
-        }
-      ],
-      "place": null
-    },
-    {
-      "id": "syn-825",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-12",
-      "title": "Ukraine Seeks €40 Billion in 2027 Aid and Urgent Air Defense Interceptors",
-      "summary": "The Ministry of Defence of Ukraine requested urgent interceptor provisions during the 18th Ukraine Donor Platform steering committee meeting in Lviv, while delegates discussed raising €40 billion to plug 2027 defense funding gaps.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "The Ministry of Defence of Ukraine requested urgent interceptor provisions during the 18th Ukraine Donor Platform steering committee meeting in Lviv, while delegates discussed raising €40 billion to plug 2027 defense funding gaps."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "1981: MIM-104 Patriot air defence system enters service with the U.S. Army (Delivered).",
-            "19 Dec 2025: EU leaders decide to mobilize an additional €90 billion in common borrowing financing for Ukraine across 2026–2027.",
-            "14 Apr 2026: RTX signs a $3.7 billion contract to supply Patriot GEM-T interceptors to Ukraine, supported by the COMLOG facility in Germany (Contract, USD 3.7 billion).",
-            "9 Jul 2026: U.S. President Donald Trump announces intent to grant Ukraine a license to produce Patriot components or systems locally.",
-            "22 Jul 2026: RTX and Lockheed Martin confirm early feasibility discussions with the U.S. government regarding potential Patriot production or component pathways for Ukraine.",
-            "3 Nov 2026: U.S. Department of Defense fiscal year records commit over $115 million to robotic and aligned tactical systems following Ukrainian scaling (USD 115 million).",
-            "12 Nov 2026: At the 18th Ukraine Donor Platform steering committee meeting in Lviv, Ministry of Defense officials request urgent interceptor provisions and announce a target of €40 billion to plug unfunded 2027 defense requirements (EUR 40 billion)."
-          ],
-          "list": true,
-          "links": [
-            "https://en.wikipedia.org/wiki/MIM-104_Patriot",
-            "https://op.europa.eu/webpub/com/general-report-2025/en/chapter1.html",
-            "https://defence-industry.eu/raytheon-signs-3-7-billion-contract-to-supply-patriot-gem-t-interceptors-to-ukraine/",
-            "https://en.wikipedia.org/wiki/MIM-104_Patriot",
-            "https://breakingdefense.com/2026/07/lockheed-rtx-in-early-talks-for-ukraine-patriot-production-execs-say/",
-            "https://www.defenseone.com/defense-systems/2026/11/pentagon-ukraine-ground-robots/417011/",
-            "https://defence-industry.eu/ukraine-requests-patriot-and-other-air-defence-interceptors-as-donors-discuss-2027-funding-gap/"
-          ]
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Interceptor All-Up-Round (AUR) Final Assembly depends on Lockheed Martin (PAC-3 / PAC-3 MSE) in Huntsville, Alabama, and RTX (GEM-T) alongside COMLOG in Schrobenhausen, Germany.",
-            "Missile Seekers depends on Boeing (Huntsville)."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense contractors and supply chain managers tracking air defense procurement should monitor upcoming donor allocations and manufacturing pipelines at RTX, Lockheed Martin, and COMLOG to align with Ukrainian interceptor demand."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "The Ministry of Defence of Ukraine requested urgent interceptor provisions during the 18th Ukraine Donor Platform steering committee meeting in Lviv, while delegates discussed raising €40 billion to plug 2027 defense funding gaps.",
-        "Context: 1981: MIM-104 Patriot air defence system enters service with the U.S. Army (Delivered). 19 Dec 2025: EU leaders decide to mobilize an additional €90 billion in common borrowing financing for Ukraine across 2026–2027. 14 Apr 2026: RTX signs a $3.7 billion contract to supply Patriot GEM-T interceptors to Ukraine, supported by the COMLOG facility in Germany (Contract, USD 3.7 billion). 9 Jul 2026: U.S. President Donald Trump announces intent to grant Ukraine a license to produce Patriot components or systems locally. 22 Jul 2026: RTX and Lockheed Martin confirm early feasibility discussions with the U.S. government regarding potential Patriot production or component pathways for Ukraine. 3 Nov 2026: U.S. Department of Defense fiscal year records commit over $115 million to robotic and aligned tactical systems following Ukrainian scaling (USD 115 million). 12 Nov 2026: At the 18th Ukraine Donor Platform steering committee meeting in Lviv, Ministry of Defense officials request urgent interceptor provisions and announce a target of €40 billion to plug unfunded 2027 defense requirements (EUR 40 billion).",
-        "Down the supply chain: Interceptor All-Up-Round (AUR) Final Assembly depends on Lockheed Martin (PAC-3 / PAC-3 MSE) in Huntsville, Alabama, and RTX (GEM-T) alongside COMLOG in Schrobenhausen, Germany. Missile Seekers depends on Boeing (Huntsville).",
-        "Why it matters: Defense contractors and supply chain managers tracking air defense procurement should monitor upcoming donor allocations and manufacturing pipelines at RTX, Lockheed Martin, and COMLOG to align with Ukrainian interceptor demand.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "ukraine-requests-patriot-and-other-air-defence-interceptors-as-donors-discuss-2027-funding-gap",
-          "url": "https://defence-industry.eu/ukraine-requests-patriot-and-other-air-defence-interceptors-as-donors-discuss-2027-funding-gap/"
-        }
-      ],
-      "place": null
-    },
-    {
-      "id": "syn-826",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-12",
-      "title": "Ukraine Reports Starshield Speed Limits Return Amid U.S.-Russia Talks",
-      "summary": "Ukrainian officials reported that Starshield speed disruptions have returned along the front lines, impairing drone interceptions during Russian attacks.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Ukrainian officials reported that Starshield speed disruptions have returned along the front lines, impairing drone interceptions during Russian attacks."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "2021: SpaceX signed an initial $1.8 billion classified intelligence contract (later identified as an NRO spy satellite network) (Contract).",
-            "Aug 2024: The Pentagon signed an expanded contract with SpaceX to connect 2,500 additional Starlink terminals in Ukraine to the secure Starshield network through 2025 (Contract).",
-            "23 Apr 2026: Space Systems Command awarded SpaceX a $57 million firm-fixed-price contract to develop resilient space-to-space communications (Link-182) (Contract).",
-            "27 May 2026: Space Force awarded SpaceX a $2.29 billion Other Transaction Authority agreement for the Space Data Network (SDN) Backbone (formerly MILNET) (Contract).",
-            "14 Oct 2026: SpaceX unilaterally implemented speed restrictions (~160 km/h threshold) on military-grade Starshield terminals in Ukraine, disrupting tactical drone operations.",
-            "9 Nov 2026: SDA awarded SpaceX a $9.9 million contract to test commercial optical inter-satellite (\"Plaser\") terminals for missile warning integration (Contract).",
-            "12 Nov 2026: Ukraine reported that Starshield speed disruptions had returned amid high-level U.S.-Russia diplomatic negotiations."
-          ],
-          "list": true,
-          "links": [
-            "https://en.wikipedia.org/wiki/SpaceX_Starshield",
-            "https://unn.ua/en/news/spacex-gets-pentagon-contract-to-expand-starshield-in-ukraine-why-it-matters",
-            "https://defence-blog.com/spacex-wins-57m-pentagon-deal-for-military-space-comms/",
-            "https://defence-blog.com/spacex-wins-pentagon-deal-to-test-starlink-lasers-for-missile-tracking/",
-            "https://satnews.com/2026/10/14/spacex-restricts-military-starshield-speeds-in-ukraine-disrupting-pentagon-funded-tactical-drone-operations/",
-            "https://defence-blog.com/spacex-wins-pentagon-deal-to-test-starlink-lasers-for-missile-tracking/",
-            "https://en.wikipedia.org/wiki/SpaceX_Starshield"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "As SpaceX expands its military portfolio from the 2021 NRO intelligence contract through major 2026 Space Force and SDA awards, reliance on commercial architectures for frontline combat creates acute operational vulnerabilities."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "SpaceX depends on STMicroelectronics.",
-            "SpaceX depends on Filtronic.",
-            "SpaceX depends on The Linde Group."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense procurement and supply chain professionals must account for geopolitical and unilateral operational constraints when integrating commercial satellite networks into tactical military hardware."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Ukrainian officials reported that Starshield speed disruptions have returned along the front lines, impairing drone interceptions during Russian attacks.",
-        "Context: 2021: SpaceX signed an initial $1.8 billion classified intelligence contract (later identified as an NRO spy satellite network) (Contract). Aug 2024: The Pentagon signed an expanded contract with SpaceX to connect 2,500 additional Starlink terminals in Ukraine to the secure Starshield network through 2025 (Contract). 23 Apr 2026: Space Systems Command awarded SpaceX a $57 million firm-fixed-price contract to develop resilient space-to-space communications (Link-182) (Contract). 27 May 2026: Space Force awarded SpaceX a $2.29 billion Other Transaction Authority agreement for the Space Data Network (SDN) Backbone (formerly MILNET) (Contract). 14 Oct 2026: SpaceX unilaterally implemented speed restrictions (~160 km/h threshold) on military-grade Starshield terminals in Ukraine, disrupting tactical drone operations. 9 Nov 2026: SDA awarded SpaceX a $9.9 million contract to test commercial optical inter-satellite (\"Plaser\") terminals for missile warning integration (Contract). 12 Nov 2026: Ukraine reported that Starshield speed disruptions had returned amid high-level U.S.-Russia diplomatic negotiations.",
-        "The bigger picture: As SpaceX expands its military portfolio from the 2021 NRO intelligence contract through major 2026 Space Force and SDA awards, reliance on commercial architectures for frontline combat creates acute operational vulnerabilities.",
-        "Down the supply chain: SpaceX depends on STMicroelectronics. SpaceX depends on Filtronic. SpaceX depends on The Linde Group.",
-        "Why it matters: Defense procurement and supply chain professionals must account for geopolitical and unilateral operational constraints when integrating commercial satellite networks into tactical military hardware.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "The War Zone",
-          "url": "https://www.twz.com/news-features/ukraine-says-starshield-disruptions-are-back-as-u-s-negotiators-meet-with-putin"
-        }
-      ],
-      "place": null
-    },
-    {
-      "id": "syn-827",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-12",
-      "title": "UK Joins Norway’s P1118 Vessel Programme to Acquire Mine-Hunting Motherships",
-      "summary": "The UK confirmed its entry into Norway's P1118 Standardised Vessel Programme to acquire three Offshore Support Vessel motherships for the Royal Navy, backed by a £90 million investment.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "The UK confirmed its entry into Norway's P1118 Standardised Vessel Programme to acquire three Offshore Support Vessel motherships for the Royal Navy, backed by a £90 million investment."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "Dec 2025: Norway commits to a £10 billion procurement agreement to buy British Type 26 frigates from BAE Systems (Agreement).",
-            "20 Oct 2026: The Norwegian Defence Materiel Agency (NDMA) initiates market signalling for the P1118 Standardised Vessel Programme to deliver up to 28 vessels (ocean-going and coastal variants) for Norway, the UK, and Lithuania.",
-            "12 Nov 2026: The UK Ministry of Defence formally confirms the purchase of three Offshore Support Vessel motherships backed by an additional £90 million allocation in the Defence Investment Plan."
-          ],
-          "list": true,
-          "links": [
-            "https://www.navaltoday.com/2026/11/13/uk-to-buy-three-mine-hunting-motherships",
-            "https://www.janes.com/defence-intelligence-insights/defence-news/sea/norway-sets-out-twin-track-build-plan-for-standardised-vessel-fleet",
-            "https://foxandlion.pub/news/uk-to-buy-three-norwegian-mine-hunting-motherships-for-the-royal-navy"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following Norway's £10 billion Type 26 frigate procurement in December 2025 and the P1118 market signalling in October 2026, the UK confirmed a £90 million purchase of motherships in November 2026, signaling deeper maritime interoperability across NATO's northern flank."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "P1118 Standardised Vessel Programme depends on Kongsberg Defence & Aerospace / Salt Ship Design — Prime Architecture & Design.",
-            "P1118 Standardised Vessel Programme depends on Uncrewed surface and underwater mine-hunting drones — Autonomous Systems & Payloads (integration via defense technology suppliers)."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense supply chain and procurement professionals should monitor opportunities in autonomous systems integration and standardized vessel architectures as the Maritime Capability Partnership Framework progresses."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "The UK confirmed its entry into Norway's P1118 Standardised Vessel Programme to acquire three Offshore Support Vessel motherships for the Royal Navy, backed by a £90 million investment.",
-        "Context: Dec 2025: Norway commits to a £10 billion procurement agreement to buy British Type 26 frigates from BAE Systems (Agreement). 20 Oct 2026: The Norwegian Defence Materiel Agency (NDMA) initiates market signalling for the P1118 Standardised Vessel Programme to deliver up to 28 vessels (ocean-going and coastal variants) for Norway, the UK, and Lithuania. 12 Nov 2026: The UK Ministry of Defence formally confirms the purchase of three Offshore Support Vessel motherships backed by an additional £90 million allocation in the Defence Investment Plan.",
-        "The bigger picture: Following Norway's £10 billion Type 26 frigate procurement in December 2025 and the P1118 market signalling in October 2026, the UK confirmed a £90 million purchase of motherships in November 2026, signaling deeper maritime interoperability across NATO's northern flank.",
-        "Down the supply chain: P1118 Standardised Vessel Programme depends on Kongsberg Defence & Aerospace / Salt Ship Design — Prime Architecture & Design. P1118 Standardised Vessel Programme depends on Uncrewed surface and underwater mine-hunting drones — Autonomous Systems & Payloads (integration via defense technology suppliers).",
-        "Why it matters: Defense supply chain and procurement professionals should monitor opportunities in autonomous systems integration and standardized vessel architectures as the Maritime Capability Partnership Framework progresses.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Defence Industry Europe",
-          "url": "https://defence-industry.eu/royal-navy-to-buy-three-mine-hunting-motherships-in-deal-linked-to-norways-type-26-order/"
-        }
-      ],
-      "place": null
-    },
-    {
-      "id": "syn-829",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-12",
-      "title": "Pentagon greenlights permanent US troop base in Poland, pending White House sign‑off",
-      "summary": "Pentagon officials told Polish defence leaders that a permanent U.S. troop presence in Poland has been green‑lit, with final approval pending White House sign‑off (N1,T9). The announcement was released by Poland’s Ministry of National Defence after a meeting with Secretary of Defense Pete Hegseth (N1,P1).",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Pentagon officials told Polish defence leaders that a permanent U.S. troop presence in Poland has been green‑lit, with final approval pending White House sign‑off (N1,T9). The announcement was released by Poland’s Ministry of National Defence after a meeting with Secretary of Defense Pete Hegseth (N1,P1)."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "18 Sep 2018: Polish President Andrzej Duda proposed a permanent U.S. military base in Poland dubbed \"Fort Trump\", offering up to $2 billion in host-nation infrastructure funding (Plan).",
-            "12 Jun 2019: The U.S. and Poland signed a Joint Declaration on Defense Cooperation adding roughly 1,000 rotational support troops, a forward divisional headquarters, and drone infrastructure rather than an immediate permanent base.",
-            "15 Aug 2020: U.S. Secretary of State Mike Pompeo and Polish Defense Minister Mariusz Błaszczak formally signed the Enhanced Defense Cooperation Agreement (EDCA) in Warsaw (Agreement).",
-            "12 Nov 2026: Following talks with Secretary Hegseth, Polish defense officials announced that the Pentagon has \"greenlit\" a permanent U.S. military presence and base infrastructure plan, pending final White House sign-off."
-          ],
-          "list": true,
-          "links": [
-            "https://www.gmfus.org/news/transatlantic-security-cooperation-toward-2020",
-            "https://www.gmfus.org/news/transatlantic-security-cooperation-toward-2020",
-            "https://2017-2021.state.gov/u-s-poland-enhanced-defense-cooperation-agreement/",
-            "https://www.defensenews.com"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Since 2018 Poland has moved from proposing a permanent U.S. base (T1) to a 2019 joint declaration for rotational troops (T2) and a 2020 Enhanced Defense Cooperation Agreement (T3), culminating in the 2026 Pentagon approval (T9)."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Local Polish construction and civil engineering supply chain depends on Base and Garrison Infrastructure Materials (Concrete, Steel, Modular Housing) — Local Polish construction and civil engineering supply chain (e.g., Bydgoszcz, Poznań, Wrocław hubs).",
-            "Lockheed Martin and European partners (Germany, Netherlands, Sweden) depends on Patriot PAC-3 Missile Maintenance Facility Components — Guidance systems, rocket motors, and seeker components supplied by Lockheed Martin and European partners (Germany, Netherlands, Sweden)."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Polish construction firms and Lockheed Martin should ready for increased demand for base infrastructure and PAC‑3 components while ensuring ITAR compliance (S1,S2,R1)."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Pentagon officials told Polish defence leaders that a permanent U.S. troop presence in Poland has been green‑lit, with final approval pending White House sign‑off (N1,T9). The announcement was released by Poland’s Ministry of National Defence after a meeting with Secretary of Defense Pete Hegseth (N1,P1).",
-        "Context: 18 Sep 2018: Polish President Andrzej Duda proposed a permanent U.S. military base in Poland dubbed \"Fort Trump\", offering up to $2 billion in host-nation infrastructure funding (Plan). 12 Jun 2019: The U.S. and Poland signed a Joint Declaration on Defense Cooperation adding roughly 1,000 rotational support troops, a forward divisional headquarters, and drone infrastructure rather than an immediate permanent base. 15 Aug 2020: U.S. Secretary of State Mike Pompeo and Polish Defense Minister Mariusz Błaszczak formally signed the Enhanced Defense Cooperation Agreement (EDCA) in Warsaw (Agreement). 12 Nov 2026: Following talks with Secretary Hegseth, Polish defense officials announced that the Pentagon has \"greenlit\" a permanent U.S. military presence and base infrastructure plan, pending final White House sign-off.",
-        "The bigger picture: Since 2018 Poland has moved from proposing a permanent U.S. base (T1) to a 2019 joint declaration for rotational troops (T2) and a 2020 Enhanced Defense Cooperation Agreement (T3), culminating in the 2026 Pentagon approval (T9).",
-        "Down the supply chain: Local Polish construction and civil engineering supply chain depends on Base and Garrison Infrastructure Materials (Concrete, Steel, Modular Housing) — Local Polish construction and civil engineering supply chain (e.g., Bydgoszcz, Poznań, Wrocław hubs). Lockheed Martin and European partners (Germany, Netherlands, Sweden) depends on Patriot PAC-3 Missile Maintenance Facility Components — Guidance systems, rocket motors, and seeker components supplied by Lockheed Martin and European partners (Germany, Netherlands, Sweden).",
-        "Why it matters: Polish construction firms and Lockheed Martin should ready for increased demand for base infrastructure and PAC‑3 components while ensuring ITAR compliance (S1,S2,R1).",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Defense News",
-          "url": "https://www.defensenews.com"
-        },
-        {
-          "n": 2,
-          "title": "Defense News",
-          "url": "https://www.defensenews.com/global/europe/2026/11/12/pentagon-greenlit-permanent-presence-of-us-troops-in-poland-official-says/"
-        }
-      ],
-      "place": null
-    },
-    {
-      "id": "syn-830",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-12",
-      "title": "Mobix Labs secures F-16 order, expanding across four U.S. fighter platforms",
-      "summary": "Mobix Labs received its first production order for EMI-filtered connectors supporting the F-16 Fighting Falcon, adding to its footprint across U.S. fighter jets.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Mobix Labs received its first production order for EMI-filtered connectors supporting the F-16 Fighting Falcon, adding to its footprint across U.S. fighter jets."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "Apr 2026: Mobix Labs reports a significant expansion in component order volume supporting the U.S. Air Force F-22 Raptor program.",
-            "8 Sep 2026: Mobix Labs announces it secured its initial production order for EMI-filtered connectors supporting the F-16 Fighting Falcon, placed by a veteran-owned U.S. aerospace sustainment contractor.",
-            "5 Nov 2026: Mobix Labs secures a new six-figure production order from a tier-one global aerospace and defense supplier for specialized engine-system components used across multiple U.S. fighter platforms and commercial wide-body jets.",
-            "12 Nov 2026: Mobix Labs highlights its official integration into four distinct U.S. fighter aircraft programs (F-16, F-22, F-35, and F/A-18) following the execution and initial delivery of the F-16 connector production orders."
-          ],
-          "list": true,
-          "links": [
-            "https://finance.biggo.com/news/09a85582-9f05-48ca-8cfd-6e98b4cf40e6",
-            "https://www.morningstar.com/news/business-wire/20261112160597/four-fighters-strong-mobix-labs-expands-its-role-on-americas-frontline-jets",
-            "https://static.newsfilter.io/a9d3b06278e4c6d5985bff2e58dd45e8.html",
-            "https://www.morningstar.com/news/business-wire/20261112160597/four-fighters-strong-mobix-labs-expands-its-role-on-americas-frontline-jets"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following order volume expansion for the F-22 in April 2026 and an F-16 production order in September 2026, Mobix Labs secured a six-figure engine-component order in November 2026, culminating in its integration across four major U.S. fighter programs."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Fighter aircraft programs depends on Custom Electromagnetic Interference (EMI) filtered connectors and engine-system control components."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Mobix Labs provides critical EMI-filtered connectors used across multiple tactical aircraft."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Mobix Labs received its first production order for EMI-filtered connectors supporting the F-16 Fighting Falcon, adding to its footprint across U.S. fighter jets.",
-        "Context: Apr 2026: Mobix Labs reports a significant expansion in component order volume supporting the U.S. Air Force F-22 Raptor program. 8 Sep 2026: Mobix Labs announces it secured its initial production order for EMI-filtered connectors supporting the F-16 Fighting Falcon, placed by a veteran-owned U.S. aerospace sustainment contractor. 5 Nov 2026: Mobix Labs secures a new six-figure production order from a tier-one global aerospace and defense supplier for specialized engine-system components used across multiple U.S. fighter platforms and commercial wide-body jets. 12 Nov 2026: Mobix Labs highlights its official integration into four distinct U.S. fighter aircraft programs (F-16, F-22, F-35, and F/A-18) following the execution and initial delivery of the F-16 connector production orders.",
-        "The bigger picture: Following order volume expansion for the F-22 in April 2026 and an F-16 production order in September 2026, Mobix Labs secured a six-figure engine-component order in November 2026, culminating in its integration across four major U.S. fighter programs.",
-        "Down the supply chain: Fighter aircraft programs depends on Custom Electromagnetic Interference (EMI) filtered connectors and engine-system control components.",
-        "Why it matters: Mobix Labs provides critical EMI-filtered connectors used across multiple tactical aircraft.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Announcement",
-          "url": "https://www.businesswire.com/news/home/20261112160597/en/"
-        },
-        {
-          "n": 2,
-          "title": "Defence Industry Europe",
-          "url": "https://defence-industry.eu/mobix-labs-receives-first-f-16-connector-production-order-adding-a-fourth-u-s-fighter-program/"
-        }
-      ],
-      "place": null
-    },
-    {
-      "id": "syn-831",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-12",
-      "title": "Lockheed Martin reports rising foreign demand for PrSM amid output scale-up",
-      "summary": "Lockheed Martin confirmed that foreign requests and export interest for the Precision Strike Missile are sharply accelerating as the company plans for increased manufacturing output.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Lockheed Martin confirmed that foreign requests and export interest for the Precision Strike Missile are sharply accelerating as the company plans for increased manufacturing output."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "Mar 2019: U.S. Army initiates post-INF treaty development posture for long-range surface-to-surface fires, targeting operational status for PrSM within four years.",
-            "16 Apr 2025: U.S. Army publishes Fiscal Year 2026 budget estimates showing structured procurement lines for PrSM, including multi-hundred unit quantities requested.",
-            "7 Jul 2026: United Kingdom commits GBP 190 million (~USD 254 million) from its Defence Investment Plan to officially join the U.S.–Australia PrSM joint development and procurement programme, aiming for first British deliveries in 2027 (Plan).",
-            "23 Jul 2026: Lockheed Martin CEO Jim Taiclet discloses company strategy to transition older ATACMS production overseas to Rheinmetall in Germany, freeing roughly two-thirds of the Camden, Arkansas manufacturing footprint exclusively for scaling PrSM output.",
-            "27 Oct 2026: Lockheed Martin showcases the PrSM Increment 4 (Long-Range Maneuverable Fires / ramjet variant) prototype designed to achieve ranges exceeding 1,000 km against maritime and land targets.",
-            "2026: Lockheed Martin executive leadership announces an overarching capital expenditure of over $8 billion through 2030 to expand missile manufacturing space by 2 million square feet across eight sites (including Troy, Alabama and Grand Prairie, Texas) to accelerate PrSM, PAC-3, and THAAD production.",
-            "12 Nov 2026: Lockheed Martin publicly confirms that foreign requests and export interest for PrSM are sharply accelerating alongside plans for higher manufacturing output enabled by digital engineering and computer-controlled machining partnerships (such as Hadrian)."
-          ],
-          "list": true,
-          "links": [
-            "https://en.wikipedia.org/wiki/Precision_Strike_Missile",
-            "https://www.grosswald.org/european-deep-strike-tracker/",
-            "https://www.grosswald.org/european-deep-strike-tracker/",
-            "https://www.grosswald.org/european-deep-strike-tracker/",
-            "https://en.wikipedia.org/wiki/Precision_Strike_Missile",
-            "https://defence-industry.eu/lockheed-martin-top-managers-say-company-will-invest-over-8-billion-to-expand-missile-production/",
-            "https://defence-industry.eu/lockheed-martin-says-foreign-requests-for-precision-strike-missile-are-rising-as-it-plans-higher-output/"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Driven by long-range precision fire modernization priorities and multi-hundred unit procurement lines, the PrSM program has expanded from its initial U.S. Army development posture into a joint international framework involving Australia and the United Kingdom, supported by an over $8 billion capital expenditure through 2030 to scale multi-site missile manufacturing."
-          ],
-          "list": false
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense supply chain and procurement professionals should monitor component lead times and digital machining integration partnerships as manufacturing capacity expands to meet international demand."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Lockheed Martin confirmed that foreign requests and export interest for the Precision Strike Missile are sharply accelerating as the company plans for increased manufacturing output.",
-        "Context: Mar 2019: U.S. Army initiates post-INF treaty development posture for long-range surface-to-surface fires, targeting operational status for PrSM within four years. 16 Apr 2025: U.S. Army publishes Fiscal Year 2026 budget estimates showing structured procurement lines for PrSM, including multi-hundred unit quantities requested. 7 Jul 2026: United Kingdom commits GBP 190 million (~USD 254 million) from its Defence Investment Plan to officially join the U.S.–Australia PrSM joint development and procurement programme, aiming for first British deliveries in 2027 (Plan). 23 Jul 2026: Lockheed Martin CEO Jim Taiclet discloses company strategy to transition older ATACMS production overseas to Rheinmetall in Germany, freeing roughly two-thirds of the Camden, Arkansas manufacturing footprint exclusively for scaling PrSM output. 27 Oct 2026: Lockheed Martin showcases the PrSM Increment 4 (Long-Range Maneuverable Fires / ramjet variant) prototype designed to achieve ranges exceeding 1,000 km against maritime and land targets. 2026: Lockheed Martin executive leadership announces an overarching capital expenditure of over $8 billion through 2030 to expand missile manufacturing space by 2 million square feet across eight sites (including Troy, Alabama and Grand Prairie, Texas) to accelerate PrSM, PAC-3, and THAAD production. 12 Nov 2026: Lockheed Martin publicly confirms that foreign requests and export interest for PrSM are sharply accelerating alongside plans for higher manufacturing output enabled by digital engineering and computer-controlled machining partnerships (such as Hadrian).",
-        "The bigger picture: Driven by long-range precision fire modernization priorities and multi-hundred unit procurement lines, the PrSM program has expanded from its initial U.S. Army development posture into a joint international framework involving Australia and the United Kingdom, supported by an over $8 billion capital expenditure through 2030 to scale multi-site missile manufacturing.",
-        "Why it matters: Defense supply chain and procurement professionals should monitor component lead times and digital machining integration partnerships as manufacturing capacity expands to meet international demand.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Lockheed Martin says foreign requests for Precision Strike Missile are rising as it plans higher output",
-          "url": "https://defence-industry.eu/lockheed-martin-says-foreign-requests-for-precision-strike-missile-are-rising-as-it-plans-higher-output/"
         }
       ],
       "place": null
