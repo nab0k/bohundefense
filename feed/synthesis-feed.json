@@ -3,6 +3,596 @@
   "notice": "Syntheses prepared by machine from open sources and approved by the editor. Check the sources.",
   "items": [
     {
+      "id": "syn-1091",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-18",
+      "title": "US Proposes HIMARS Sale to Albania",
+      "summary": "Washington proposed selling two M142 HIMARS artillery systems to Albania for an estimated cost of 210 million dollars.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Washington proposed selling two M142 HIMARS artillery systems to Albania for an estimated cost of 210 million dollars."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "2005: M142 High Mobility Artillery Rocket System (HIMARS) officially enters active service with the U.S. Army.",
+            "15 Mar 2026: 25th Infantry Division units execute a HIMARS rapid infiltration drill utilizing a C-130J transport lift during Exercise Cobra Gold in Thailand.",
+            "17 Apr 2026: Soldiers from the 17th Field Artillery Brigade perform a multi-day HIRAIN operation from Yakima Training Center, Washington to Dugway Proving Ground, Utah.",
+            "20 Apr 2026: U.S. Army and Philippine forces utilize air and watercraft mobility during Exercise Balikatan to move HIMARS to forward island positions near Luzon and Palawan.",
+            "13 Jun 2026: National Guard troops execute a 2,000-mile HIMARS rapid infiltration movement from Michigan to California under the Minuteman Rotation framework.",
+            "24 Oct 2026: U.S. forces airlift a HIMARS launcher to Ishigaki Island, Japan, demonstrating southwestern island chain reinforcement.",
+            "10 Nov 2026: The 25th Infantry Division’s 2nd Battalion, 11th Field Artillery Regiment, supported by the 15th Wing’s C-17s, executes a HIMARS rapid infiltration dry-fire mission on Kauai, Hawaii, during JPMRC Rotation 27-01."
+          ],
+          "list": true,
+          "links": [
+            "https://www.armyrecognition.com/news/army-news/2026/u-s-army-refines-himars-rocket-artillery-tactics-to-enhance-arctic-long-range-warfare-operations",
+            "https://defence-industry.eu/u-s-army-tests-rapid-himars-deployment-by-air-in-hawaii-ahead-of-philippines-missions/",
+            "https://envantermedya.com/en/en-himars-rapid-airlift-hawaii-jpmrc-27-01/",
+            "https://www.militarytimes.com/news/your-military/2026/10/22/us-army-long-range-fires-make-a-splash-on-the-frontline-with-china/",
+            "https://taskandpurpose.com/news/national-guard-himars-rapid-deployment/",
+            "https://www.armyrecognition.com/news/army-news/2026/u-s-army-airlifts-himars-rocket-launcher-to-japan-in-new-indo-pacific-rapid-deployment-exercise",
+            "https://defence-industry.eu/u-s-army-tests-rapid-himars-deployment-by-air-in-hawaii-ahead-of-philippines-missions/"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Since entering active service in 2005, HIMARS has been integrated into various global rapid infiltration and mobility drills, signaling a continued focus on rapid deployment capabilities."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "HIMARS depends on Oshkosh Defense — Family of Medium Tactical Vehicles (FMTV) M1140 six-wheel truck chassis.",
+            "HIMARS depends on Lockheed Martin Missiles and Fire Control (Camden, Arkansas facility) — Launcher-Loader Module (LLM): Structures, mechanical elevation assemblies, and integration.",
+            "HIMARS depends on Lockheed Martin and integrated propulsion/warhead subcontractors — Rocket Munitions (GMLRS / PrSM) families."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Procurement and supply chain professionals should monitor potential increases in demand for chassis and launcher-loader modules from key prime contractors."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Washington proposed selling two M142 HIMARS artillery systems to Albania for an estimated cost of 210 million dollars.",
+        "Context: 2005: M142 High Mobility Artillery Rocket System (HIMARS) officially enters active service with the U.S. Army. 15 Mar 2026: 25th Infantry Division units execute a HIMARS rapid infiltration drill utilizing a C-130J transport lift during Exercise Cobra Gold in Thailand. 17 Apr 2026: Soldiers from the 17th Field Artillery Brigade perform a multi-day HIRAIN operation from Yakima Training Center, Washington to Dugway Proving Ground, Utah. 20 Apr 2026: U.S. Army and Philippine forces utilize air and watercraft mobility during Exercise Balikatan to move HIMARS to forward island positions near Luzon and Palawan. 13 Jun 2026: National Guard troops execute a 2,000-mile HIMARS rapid infiltration movement from Michigan to California under the Minuteman Rotation framework. 24 Oct 2026: U.S. forces airlift a HIMARS launcher to Ishigaki Island, Japan, demonstrating southwestern island chain reinforcement. 10 Nov 2026: The 25th Infantry Division’s 2nd Battalion, 11th Field Artillery Regiment, supported by the 15th Wing’s C-17s, executes a HIMARS rapid infiltration dry-fire mission on Kauai, Hawaii, during JPMRC Rotation 27-01.",
+        "The bigger picture: Since entering active service in 2005, HIMARS has been integrated into various global rapid infiltration and mobility drills, signaling a continued focus on rapid deployment capabilities.",
+        "Down the supply chain: HIMARS depends on Oshkosh Defense — Family of Medium Tactical Vehicles (FMTV) M1140 six-wheel truck chassis. HIMARS depends on Lockheed Martin Missiles and Fire Control (Camden, Arkansas facility) — Launcher-Loader Module (LLM): Structures, mechanical elevation assemblies, and integration. HIMARS depends on Lockheed Martin and integrated propulsion/warhead subcontractors — Rocket Munitions (GMLRS / PrSM) families.",
+        "Why it matters: Procurement and supply chain professionals should monitor potential increases in demand for chassis and launcher-loader modules from key prime contractors.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Zone Militaire",
+          "url": "https://www.opex360.com/2026/11/18/washington-propose-de-vendre-deux-systemes-dartillerie-m142-himars-a-lalbanie-pour-210-millions-de-dollars/"
+        }
+      ],
+      "place": {
+        "label": "Tirana",
+        "lat": 41.3275,
+        "lon": 19.8187
+      }
+    },
+    {
+      "id": "syn-1093",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-18",
+      "title": "MBDA and Terma Launch Updated SPIMM Air Defense Module",
+      "summary": "MBDA and Terma officially announced the launch of the Self Protection Integrated Mistral 3 Module project at Euronaval.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "MBDA and Terma officially announced the launch of the Self Protection Integrated Mistral 3 Module project at Euronaval."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "2 Feb 2010: MBDA launches the development of the SIMBAD-RC naval air defence system at the Singapore Air Show.",
+            "17 Feb 2019: MBDA unveils the original Self-Protection Integrated Mistral Module (SPIMM) concept at NAVDEX 2019 in Abu Dhabi, utilizing a 10-foot ISO container with a SIMBAD-RC twin launcher and optical sensors.",
+            "Jul 2019: Serbia acquires Mistral 3 missiles from MBDA, expanding the weapon user base.",
+            "Jun 2022: MBDA and Bharat Dynamics sign an MoU for joint manufacturing of Mistral missiles (Agreement).",
+            "Dec 2022: Croatia approves the procurement of Mistral 3 air-defence missiles (Approved, EUR 72 million).",
+            "Jun 2026: MBDA and Terma sign a formal cooperation agreement at Eurosatory to pursue joint naval and land-based defence solutions (Agreement).",
+            "5 Nov 2026: MBDA and Terma officially announce the launch of the Self Protection Integrated Mistral 3 Module (SPIMM) project at Euronaval."
+          ],
+          "list": true,
+          "links": [
+            "https://www.deagel.com/Components/Simbad-RC/a003052",
+            "https://www.navalnews.com/naval-news/2019/03/video-mbda-spimm-self-protection-integrated-mistral-module/",
+            "https://www.army-technology.com/projects/mistral-missile/",
+            "https://www.army-technology.com/projects/mistral-missile/",
+            "https://www.army-technology.com/projects/mistral-missile/",
+            "https://www.terma.com/",
+            "https://www.terma.com/"
+          ]
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "EU — White Paper for European Defence – Readiness 2030 and ReArm Europe Plan (2025-03-19): Close critical capability gaps in seven priority areas (including air and missile defence and artillery) and build a stronger European defence industrial base; ReArm Europe enables over €800 billion of defence spending.",
+            "EU — Council Regulation establishing the Security Action for Europe (SAFE) instrument (2025-05-27): Up to €150 billion in EU loans for member states investing in defence industrial production through common procurement of priority capabilities."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following the initial concept unveiling in 2019 and cooperation agreements, development has progressed addressing operational requirements. Signal: rapid plug-and-play defense integration."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "SPIMM depends on Terma C2 System (derived from C-FLEX architecture).",
+            "Mistral 3 Missile (Effector) depends on MBDA (France).",
+            "SIMBAD-RC4 Turret (Launcher) depends on MBDA (France)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Naval procurement professionals should evaluate the SPIMM containerized solution for enhancing the self-defense capabilities of non-combatant and auxiliary vessels without major structural modifications."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "MBDA and Terma officially announced the launch of the Self Protection Integrated Mistral 3 Module project at Euronaval.",
+        "Context: 2 Feb 2010: MBDA launches the development of the SIMBAD-RC naval air defence system at the Singapore Air Show. 17 Feb 2019: MBDA unveils the original Self-Protection Integrated Mistral Module (SPIMM) concept at NAVDEX 2019 in Abu Dhabi, utilizing a 10-foot ISO container with a SIMBAD-RC twin launcher and optical sensors. Jul 2019: Serbia acquires Mistral 3 missiles from MBDA, expanding the weapon user base. Jun 2022: MBDA and Bharat Dynamics sign an MoU for joint manufacturing of Mistral missiles (Agreement). Dec 2022: Croatia approves the procurement of Mistral 3 air-defence missiles (Approved, EUR 72 million). Jun 2026: MBDA and Terma sign a formal cooperation agreement at Eurosatory to pursue joint naval and land-based defence solutions (Agreement). 5 Nov 2026: MBDA and Terma officially announce the launch of the Self Protection Integrated Mistral 3 Module (SPIMM) project at Euronaval.",
+        "Policy direction: EU — White Paper for European Defence – Readiness 2030 and ReArm Europe Plan (2025-03-19): Close critical capability gaps in seven priority areas (including air and missile defence and artillery) and build a stronger European defence industrial base; ReArm Europe enables over €800 billion of defence spending. EU — Council Regulation establishing the Security Action for Europe (SAFE) instrument (2025-05-27): Up to €150 billion in EU loans for member states investing in defence industrial production through common procurement of priority capabilities.",
+        "The bigger picture: Following the initial concept unveiling in 2019 and cooperation agreements, development has progressed addressing operational requirements. Signal: rapid plug-and-play defense integration.",
+        "Down the supply chain: SPIMM depends on Terma C2 System (derived from C-FLEX architecture). Mistral 3 Missile (Effector) depends on MBDA (France). SIMBAD-RC4 Turret (Launcher) depends on MBDA (France).",
+        "Why it matters: Naval procurement professionals should evaluate the SPIMM containerized solution for enhancing the self-defense capabilities of non-combatant and auxiliary vessels without major structural modifications.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "MBDA and Terma Officially Announce the Launch of the Self Protection Integrated Mistral 3 Module (SPIMM) Project at Euro",
+          "url": "https://www.edrmagazine.eu/%E2%96%BA-mbda-and-terma-join-forces-to-developed-innovative-flexible-air-and-surface-defence-solutions-against-a-wide-spectrum-of-threats"
+        },
+        {
+          "n": 2,
+          "title": "Naval News",
+          "url": "https://www.navalnews.com/naval-news/2026/11/mistral-in-a-box-mbda-revives-spimm-concept-against-drones/"
+        }
+      ],
+      "place": {
+        "label": "Paris",
+        "lat": 48.8566,
+        "lon": 2.3522
+      }
+    },
+    {
+      "id": "syn-1094",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-18",
+      "title": "Home Office to Fund Relocation of MOD Bicester Training Facilities",
+      "summary": "Minister for the Armed Forces Louise Sandher-Jones confirmed that the Home Office will finance the relocation of the bomb disposal training lanes from Site A at MOD Bicester.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Minister for the Armed Forces Louise Sandher-Jones confirmed that the Home Office will finance the relocation of the bomb disposal training lanes from Site A at MOD Bicester."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "Mar 2013: A specialist bomb disposal training facility, featuring dedicated training lanes, a cave complex, and a dive pool, is established at MOD Bicester (St George’s / Site A area) at a reported cost of circa £100 million (GBP 100 million).",
+            "Jun 2026: The Government tables initial proposals across departments to repurpose portions of the MOD estate for non-hotel asylum accommodation.",
+            "13 Nov 2026: Secretary of State for Housing, Communities and Local Government Angela Rayner grants full Crown development planning permission for large-scale asylum accommodation (up to 1,256 spaces) on Site A at MOD Bicester.",
+            "16 Nov 2026: Local MP Calum Miller raises an Urgent Question in the House of Commons regarding the loss of operational bomb disposal training facilities at Site A (Funding).",
+            "17 Nov 2026: Defence officials confirm via parliamentary written answers that a robust multi-site assessment was conducted by defense experts regarding the Bicester estate transfer.",
+            "18 Nov 2026: Minister for the Armed Forces Louise Sandher-Jones officially confirms that the Home Office will pay to relocate the Bicester bomb disposal training lanes (Plan)."
+          ],
+          "list": true,
+          "links": [
+            "https://en.wikipedia.org/wiki/MOD_Bicester",
+            "https://ukdefencejournal.org.uk/home-office-to-pay-to-move-bicester-bomb-disposal-training/",
+            "https://wrongplanwrongsite.org.uk/latest/in-the-press/mod-bicester-asylum-centre-military-readiness/",
+            "https://ukdefencejournal.org.uk/home-office-to-pay-to-move-bicester-bomb-disposal-training/",
+            "https://ukdefencejournal.org.uk/home-office-to-pay-to-move-bicester-bomb-disposal-training/",
+            "https://ukdefencejournal.org.uk/home-office-to-pay-to-move-bicester-bomb-disposal-training/"
+          ]
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "NATO — The Hague Summit Declaration (2025-06-25): Allies commit to 5% of GDP a year by 2035: at least 3.5% on core defence requirements and up to 1.5% on broader security spending, including the defence industrial base."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "As portions of the MOD estate are repurposed for non-hotel asylum accommodation starting from June 2026, defence authorities are assessing alternative options to ensure the continuity of operational outputs."
+          ],
+          "list": false
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence procurement and supply chain professionals should monitor upcoming commercial negotiations for facility relocation and infrastructure rebuilding."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Minister for the Armed Forces Louise Sandher-Jones confirmed that the Home Office will finance the relocation of the bomb disposal training lanes from Site A at MOD Bicester.",
+        "Context: Mar 2013: A specialist bomb disposal training facility, featuring dedicated training lanes, a cave complex, and a dive pool, is established at MOD Bicester (St George’s / Site A area) at a reported cost of circa £100 million (GBP 100 million). Jun 2026: The Government tables initial proposals across departments to repurpose portions of the MOD estate for non-hotel asylum accommodation. 13 Nov 2026: Secretary of State for Housing, Communities and Local Government Angela Rayner grants full Crown development planning permission for large-scale asylum accommodation (up to 1,256 spaces) on Site A at MOD Bicester. 16 Nov 2026: Local MP Calum Miller raises an Urgent Question in the House of Commons regarding the loss of operational bomb disposal training facilities at Site A (Funding). 17 Nov 2026: Defence officials confirm via parliamentary written answers that a robust multi-site assessment was conducted by defense experts regarding the Bicester estate transfer. 18 Nov 2026: Minister for the Armed Forces Louise Sandher-Jones officially confirms that the Home Office will pay to relocate the Bicester bomb disposal training lanes (Plan).",
+        "Policy direction: NATO — The Hague Summit Declaration (2025-06-25): Allies commit to 5% of GDP a year by 2035: at least 3.5% on core defence requirements and up to 1.5% on broader security spending, including the defence industrial base.",
+        "The bigger picture: As portions of the MOD estate are repurposed for non-hotel asylum accommodation starting from June 2026, defence authorities are assessing alternative options to ensure the continuity of operational outputs.",
+        "Why it matters: Defence procurement and supply chain professionals should monitor upcoming commercial negotiations for facility relocation and infrastructure rebuilding.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "UK Defence Journal",
+          "url": "https://ukdefencejournal.org.uk/home-office-to-pay-to-move-bicester-bomb-disposal-training/"
+        }
+      ],
+      "place": {
+        "label": "Bicester",
+        "lat": 51.8992,
+        "lon": -1.1477
+      }
+    },
+    {
+      "id": "syn-1095",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-18",
+      "title": "ASGARD communications project wins APM award",
+      "summary": "The Ministry of Defence team that deployed about 700 ASGARD communications systems to the Army's 4th Light Brigade won Digital and Technology Project of the Year at the Association for Project Management awards.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "The Ministry of Defence team that deployed about 700 ASGARD communications systems to the Army's 4th Light Brigade won Digital and Technology Project of the Year at the Association for Project Management awards."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "Sep 2024: Chief of the General Staff General Sir Roland Walker declares an immediate operational requirement for a tactical situational awareness and communications capability, initiating Project ASGARD Networks.",
+            "15 Jan 2025: Financial approval is formally granted for Project ASGARD Networks, kicking off an accelerated eight-month delivery timeline.",
+            "May 2025: MOD Defence Digital, Army Headquarters, Rowden Technologies, and BlackTree Technologies complete the production, assurance, equipment distribution, and troop training for approximately 700 systems ahead of a NATO exercise in Estonia.",
+            "18 Nov 2026: The MOD team responsible for deploying the ASGARD communications systems to the Army’s 4th Light Brigade is awarded Digital and Technology Project of the Year by the Association for Project Management (Contract)."
+          ],
+          "list": true,
+          "links": [
+            "https://ukdefencejournal.org.uk/asgard-network-delivered-in-eight-months-wins-project-award/",
+            "https://ukdefencejournal.org.uk/asgard-network-delivered-in-eight-months-wins-project-award/",
+            "https://ukdefencejournal.org.uk/asgard-network-delivered-in-eight-months-wins-project-award/",
+            "https://ukdefencejournal.org.uk/asgard-network-delivered-in-eight-months-wins-project-award/"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following the initiative started in September 2024 and financial approval in January 2025, systems were delivered by May 2025 and subsequently recognized in November 2026, signaling accelerated delivery models for tactical capabilities."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Rowden Technologies depends on Tactical situational awareness and communications node hardware.",
+            "Palantir Technologies depends on Modular battle management and data software components."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence suppliers should note that ASGARD relies on a modular system of systems from multiple competitive vendors."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "The Ministry of Defence team that deployed about 700 ASGARD communications systems to the Army's 4th Light Brigade won Digital and Technology Project of the Year at the Association for Project Management awards.",
+        "Context: Sep 2024: Chief of the General Staff General Sir Roland Walker declares an immediate operational requirement for a tactical situational awareness and communications capability, initiating Project ASGARD Networks. 15 Jan 2025: Financial approval is formally granted for Project ASGARD Networks, kicking off an accelerated eight-month delivery timeline. May 2025: MOD Defence Digital, Army Headquarters, Rowden Technologies, and BlackTree Technologies complete the production, assurance, equipment distribution, and troop training for approximately 700 systems ahead of a NATO exercise in Estonia. 18 Nov 2026: The MOD team responsible for deploying the ASGARD communications systems to the Army’s 4th Light Brigade is awarded Digital and Technology Project of the Year by the Association for Project Management (Contract).",
+        "The bigger picture: Following the initiative started in September 2024 and financial approval in January 2025, systems were delivered by May 2025 and subsequently recognized in November 2026, signaling accelerated delivery models for tactical capabilities.",
+        "Down the supply chain: Rowden Technologies depends on Tactical situational awareness and communications node hardware. Palantir Technologies depends on Modular battle management and data software components.",
+        "Why it matters: Defence suppliers should note that ASGARD relies on a modular system of systems from multiple competitive vendors.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "UK Defence Journal",
+          "url": "https://ukdefencejournal.org.uk/asgard-network-delivered-in-eight-months-wins-project-award/"
+        }
+      ],
+      "place": {
+        "label": "London",
+        "lat": 51.5074,
+        "lon": -0.1278
+      }
+    },
+    {
+      "id": "syn-1096",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-18",
+      "title": "Second Islay Ferry Delivered Amid Yard Strain",
+      "summary": "CMAL accepted delivery of the second new ferry, MV Loch Indaal, built by Cemre Marin Endustri in Yalova, Turkey, following certification by the Maritime and Coastguard Agency and Lloyd’s Register.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "CMAL accepted delivery of the second new ferry, MV Loch Indaal, built by Cemre Marin Endustri in Yalova, Turkey, following certification by the Maritime and Coastguard Agency and Lloyd’s Register."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "31 Mar 2022: £91 million contract awarded by CMAL to Cemre Marin Endustri for the construction of two new Islay ferries (Contract, GBP 91 million).",
+            "3 Jan 2023: CMAL selects Cemre Marin Endustri for a second order of two additional 95m ro-pax ferries for the Little Minch routes.",
+            "24 May 2023: Keel laying ceremony held for MV Loch Indaal at the Cemre shipyard.",
+            "8 Jun 2024: MV Loch Indaal is officially launched at the Turkish shipyard.",
+            "19 Jan 2026: First sister ship, MV Isle of Islay, is formally handed over to CMAL following completion (Delivered).",
+            "26 Jun 2026: CMAL takes direct pre-delivery ownership of the remaining uncompleted hulls under construction at Cemre (including MV Loch Indaal, MV Lochmor, and MV Claymore) to safeguard public investment amid yard financial strains.",
+            "18 Nov 2026: Second vessel MV Loch Indaal is officially handed over to CMAL in Yalova, Turkey, following successful sea trials and MCA/Lloyd's Register certification (Delivered)."
+          ],
+          "list": true,
+          "links": [
+            "https://www.cmassets.co.uk/first-major-build-milestone-for-islay-ferries/",
+            "https://en.wikipedia.org/wiki/MV_Loch_Indaal",
+            "https://en.wikipedia.org/wiki/MV_Loch_Indaal",
+            "https://en.wikipedia.org/wiki/MV_Loch_Indaal",
+            "https://en.wikipedia.org/wiki/MV_Loch_Indaal",
+            "https://www.rivieramm.com/news-content-hub/scotlands-cmal-purchases-trio-of-ferries-under-construction-at-cemre-to-ensure-builds-complete-89208",
+            "https://en.wikipedia.org/wiki/MV_Loch_Indaal"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Delays and financial strains at Cemre Marin Endustri have pushed back vessel deliveries and prompted CMAL to take direct pre-delivery ownership of uncompleted hulls to safeguard public investments."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Propulsion system (Voith Schneider units / Bow thrusters) depends on Voith."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Procurement and supply chain professionals managing international shipyard contracts should closely monitor yard financial health and implement asset-protection measures for uncompleted hulls."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "CMAL accepted delivery of the second new ferry, MV Loch Indaal, built by Cemre Marin Endustri in Yalova, Turkey, following certification by the Maritime and Coastguard Agency and Lloyd’s Register.",
+        "Context: 31 Mar 2022: £91 million contract awarded by CMAL to Cemre Marin Endustri for the construction of two new Islay ferries (Contract, GBP 91 million). 3 Jan 2023: CMAL selects Cemre Marin Endustri for a second order of two additional 95m ro-pax ferries for the Little Minch routes. 24 May 2023: Keel laying ceremony held for MV Loch Indaal at the Cemre shipyard. 8 Jun 2024: MV Loch Indaal is officially launched at the Turkish shipyard. 19 Jan 2026: First sister ship, MV Isle of Islay, is formally handed over to CMAL following completion (Delivered). 26 Jun 2026: CMAL takes direct pre-delivery ownership of the remaining uncompleted hulls under construction at Cemre (including MV Loch Indaal, MV Lochmor, and MV Claymore) to safeguard public investment amid yard financial strains. 18 Nov 2026: Second vessel MV Loch Indaal is officially handed over to CMAL in Yalova, Turkey, following successful sea trials and MCA/Lloyd's Register certification (Delivered).",
+        "The bigger picture: Delays and financial strains at Cemre Marin Endustri have pushed back vessel deliveries and prompted CMAL to take direct pre-delivery ownership of uncompleted hulls to safeguard public investments.",
+        "Down the supply chain: Propulsion system (Voith Schneider units / Bow thrusters) depends on Voith.",
+        "Why it matters: Procurement and supply chain professionals managing international shipyard contracts should closely monitor yard financial health and implement asset-protection measures for uncompleted hulls.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "UK Defence Journal",
+          "url": "https://ukdefencejournal.org.uk/second-turkish-built-islay-ferry-handed-over-to-cmal/"
+        }
+      ],
+      "place": {
+        "label": "Yalova",
+        "lat": 40.655,
+        "lon": 29.2769
+      }
+    },
+    {
+      "id": "syn-1097",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-18",
+      "title": "Voestalpine wins Maintenance Award Austria 2026 at ÖVIA-Kongress",
+      "summary": "Voestalpine Stahl GmbH won 1st place for the Maintenance Award Austria 2026, while Ocean Maps won the Innovation Award for nexTwin.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Voestalpine Stahl GmbH won 1st place for the Maintenance Award Austria 2026, while Ocean Maps won the Innovation Award for nexTwin."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "2011: ÖVIA establishes the Maintenance Award Austria (MA²) to benchmark life-cycle-oriented asset management in industrial plants.",
+            "Oct 2019: Liebherr Hausgeräte Lienz secures top podium placement at the annual ÖVIA-Kongress maintenance awards (Contract).",
+            "Oct 2022: Liebherr achieves another top placement at the ÖVIA-Kongress.",
+            "Oct 2025: Loacker Konfekt GmbH captures the 2025 Maintenance Award Austria.",
+            "7 Oct 2026: The 40th jubilee ÖVIA-Kongress convenes in Leoben under the theme \"Maintenance Next-Level: Asset Evolution\".",
+            "8 Oct 2026: Voestalpine Stahl GmbH wins 1st place (Maintenance Award Austria 2026), Liebherr Lienz 2nd, and Lenzing AG 3rd, with Ocean Maps winning the Innovation Award for nexTwin."
+          ],
+          "list": true,
+          "links": [
+            "https://www.oevia.at/maintenance-award",
+            "https://industriemagazin.at/industrie/voestalpine-liebherr-lenzing-instandhaltung/",
+            "https://industriemagazin.at/industrie/voestalpine-liebherr-lenzing-instandhaltung/",
+            "https://industriemagazin.at/industrie/voestalpine-liebherr-lenzing-instandhaltung/",
+            "https://www.oevia.at/oevia-kongress/kongress-2026",
+            "https://www.oevia.at/oevia-kongress/kongress-2026"
+          ]
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "EU — White Paper for European Defence – Readiness 2030 and ReArm Europe Plan (2025-03-19): Close critical capability gaps in seven priority areas (including air and missile defence and artillery) and build a stronger European defence industrial base; ReArm Europe enables over €800 billion of defence spending.",
+            "EU — Council Regulation establishing the Security Action for Europe (SAFE) instrument (2025-05-27): Up to €150 billion in EU loans for member states investing in defence industrial production through common procurement of priority capabilities."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "The 40th jubilee ÖVIA-Kongress convened in Leoben, advancing industrial asset evolution through digital twins and predictive maintenance. Signal: Increased focus on lifecycle-oriented asset management."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Predictive Maintenance & Digital Twin Software depends on nexTwin / AI agent processing engines.",
+            "Metallurgy & Specialty Structural Steel depends on Voestalpine production inputs for heavy industrial plant maintenance."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence procurement and supply chain professionals should monitor plant maintenance innovations to secure critical industrial production inputs and predictive capabilities."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Voestalpine Stahl GmbH won 1st place for the Maintenance Award Austria 2026, while Ocean Maps won the Innovation Award for nexTwin.",
+        "Context: 2011: ÖVIA establishes the Maintenance Award Austria (MA²) to benchmark life-cycle-oriented asset management in industrial plants. Oct 2019: Liebherr Hausgeräte Lienz secures top podium placement at the annual ÖVIA-Kongress maintenance awards (Contract). Oct 2022: Liebherr achieves another top placement at the ÖVIA-Kongress. Oct 2025: Loacker Konfekt GmbH captures the 2025 Maintenance Award Austria. 7 Oct 2026: The 40th jubilee ÖVIA-Kongress convenes in Leoben under the theme \"Maintenance Next-Level: Asset Evolution\". 8 Oct 2026: Voestalpine Stahl GmbH wins 1st place (Maintenance Award Austria 2026), Liebherr Lienz 2nd, and Lenzing AG 3rd, with Ocean Maps winning the Innovation Award for nexTwin.",
+        "Policy direction: EU — White Paper for European Defence – Readiness 2030 and ReArm Europe Plan (2025-03-19): Close critical capability gaps in seven priority areas (including air and missile defence and artillery) and build a stronger European defence industrial base; ReArm Europe enables over €800 billion of defence spending. EU — Council Regulation establishing the Security Action for Europe (SAFE) instrument (2025-05-27): Up to €150 billion in EU loans for member states investing in defence industrial production through common procurement of priority capabilities.",
+        "The bigger picture: The 40th jubilee ÖVIA-Kongress convened in Leoben, advancing industrial asset evolution through digital twins and predictive maintenance. Signal: Increased focus on lifecycle-oriented asset management.",
+        "Down the supply chain: Predictive Maintenance & Digital Twin Software depends on nexTwin / AI agent processing engines. Metallurgy & Specialty Structural Steel depends on Voestalpine production inputs for heavy industrial plant maintenance.",
+        "Why it matters: Defence procurement and supply chain professionals should monitor plant maintenance innovations to secure critical industrial production inputs and predictive capabilities.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Voestalpine, Liebherr, Lenzing: Die unterschätzte Rolle der Instandhaltung",
+          "url": "https://industriemagazin.at/management/strategie/voestalpine-liebherr-lenzing-die-unterschaetzte-rolle-der-instandhaltung/"
+        },
+        {
+          "n": 2,
+          "title": "INDUSTRIEMAGAZIN",
+          "url": "https://industriemagazin.at/industrie/voestalpine-liebherr-lenzing-instandhaltung/"
+        }
+      ],
+      "place": {
+        "label": "Leoben",
+        "lat": 47.3833,
+        "lon": 15.1
+      }
+    },
+    {
+      "id": "syn-1099",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-18",
+      "title": "UAC Delivers Third 2026 Batch of Su-34 Bombers",
+      "summary": "UAC delivered another batch of modernized Su-34 fighter-bombers to the Ministry of Defence on 17 November 2026.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "UAC delivered another batch of modernized Su-34 fighter-bombers to the Ministry of Defence on 17 November 2026."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "Dec 1990: The Su-34 prototype makes its maiden flight under the Soviet Union, establishing the structural baseline for the long-range tactical strike platform (Testing).",
+            "Sep 2015: Su-34s are deployed operationally to Khmeimim Air Base in Syria, marking their combat debut.",
+            "Jun 2020: The Russian Ministry of Defence signs a subsequent 3-year contract with Sukhoi for an additional batch of 20 modernized Su-34M bombers (Contract).",
+            "Dec 2020: Final aircraft under the large 2012 multi-aircraft contract are handed over, bringing total historic production volume past 130 operational airframes (Delivered).",
+            "Jun 2022: The first upgraded Su-34M airframes featuring advanced targeting pods and updated radar suites are officially inducted into operational units.",
+            "7 Oct 2026: UAC announces the second batch delivery of Su-34 aircraft for 2026.",
+            "17 Nov 2026: UAC announces the third batch delivery of modernized Su-34 fighter-bombers to the Russian Aerospace Forces."
+          ],
+          "list": true,
+          "links": [
+            "https://en.wikipedia.org/wiki/Sukhoi_Su-34",
+            "https://en.wikipedia.org/wiki/Sukhoi_Su-34",
+            "https://en.wikipedia.org/wiki/Sukhoi_Su-34",
+            "https://en.wikipedia.org/wiki/Sukhoi_Su-34",
+            "https://en.wikipedia.org/wiki/Sukhoi_Su-34",
+            "https://www.twz.com/air/ethiopia-gets-12-russian-su-35-fighters-eyes-s-400-air-defenses",
+            "https://en.wikipedia.org/wiki/Sukhoi_Su-34"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following the 2012 framework contract and subsequent 2020 Su-34M orders, production has continued into 2026 with multiple batch handovers."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Sukhoi Su-34 depends on Texas Instruments, Analog Devices, Intel, and Microchip Technology — Avionics & Microelectronics Subsystems: Dual-use microchips, semiconductors, and integrated circuits historically sourced from Western manufacturers procured via secondary grey-market channels.",
+            "Sukhoi Su-34 depends on JSC Navigator."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Procurement and supply chain professionals should monitor grey-market channels supplying avionics components to Russian defense manufacturers."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "UAC delivered another batch of modernized Su-34 fighter-bombers to the Ministry of Defence on 17 November 2026.",
+        "Context: Dec 1990: The Su-34 prototype makes its maiden flight under the Soviet Union, establishing the structural baseline for the long-range tactical strike platform (Testing). Sep 2015: Su-34s are deployed operationally to Khmeimim Air Base in Syria, marking their combat debut. Jun 2020: The Russian Ministry of Defence signs a subsequent 3-year contract with Sukhoi for an additional batch of 20 modernized Su-34M bombers (Contract). Dec 2020: Final aircraft under the large 2012 multi-aircraft contract are handed over, bringing total historic production volume past 130 operational airframes (Delivered). Jun 2022: The first upgraded Su-34M airframes featuring advanced targeting pods and updated radar suites are officially inducted into operational units. 7 Oct 2026: UAC announces the second batch delivery of Su-34 aircraft for 2026. 17 Nov 2026: UAC announces the third batch delivery of modernized Su-34 fighter-bombers to the Russian Aerospace Forces.",
+        "The bigger picture: Following the 2012 framework contract and subsequent 2020 Su-34M orders, production has continued into 2026 with multiple batch handovers.",
+        "Down the supply chain: Sukhoi Su-34 depends on Texas Instruments, Analog Devices, Intel, and Microchip Technology — Avionics & Microelectronics Subsystems: Dual-use microchips, semiconductors, and integrated circuits historically sourced from Western manufacturers procured via secondary grey-market channels. Sukhoi Su-34 depends on JSC Navigator.",
+        "Why it matters: Procurement and supply chain professionals should monitor grey-market channels supplying avionics components to Russian defense manufacturers.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence24 Announcement",
+          "url": "https://www.defence24.com/184489"
+        },
+        {
+          "n": 2,
+          "title": "Defence24",
+          "url": "https://defence24.com/industry/russia-has-received-another-batch-of-su-34-bombers"
+        }
+      ],
+      "place": {
+        "label": "Moscow",
+        "lat": 55.7558,
+        "lon": 37.6173
+      }
+    },
+    {
       "id": "syn-1025",
       "status": "approved",
       "kind": "Synthesis",
@@ -7007,559 +7597,6 @@
         "label": "Ulsan",
         "lat": 35.5384,
         "lon": 129.3114
-      }
-    },
-    {
-      "id": "syn-941",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-16",
-      "title": "Croatian Army Trains Slovenian Forces in FPV Drone Operations",
-      "summary": "The Croatian Armed Forces organized an international FPV drone training course for Slovenian military personnel at barracks in Pula and Udbina.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "The Croatian Armed Forces organized an international FPV drone training course for Slovenian military personnel at barracks in Pula and Udbina."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "Dec 2023: The training and operations office of the 1st Marine Infantry Regiment (1er RIMa) conceptualizes an all-drone combat unit based on open-source intelligence studies of the war in Ukraine.",
-            "2024: French defense-tech startup Alta Ares is founded to focus on AI-enabled computer vision and counter-drone systems.",
-            "May 2025: The 1er RIMa tests its experimental drone unit during Exercise Hedgehog in Estonia, where drone pilots account for 20% of opposing force attrition against U.S. Bradley fighting vehicles (Testing).",
-            "Feb 2026: French Army Chief of Staff Gen. Pierre Schill accelerates plans to formalize the experimental structure into permanent formations (Plan).",
-            "Apr 2026: The French Army staff declares the 1er RIMa's 1er Escadron de Drones de Chasse (1st Hunter-Drone Squadron) fully operational at CENTAC Mailly-le-Camp.",
-            "9 Jun 2026: Alta Ares closes a €50 million Series A funding round to ramp up production of AI-guided interceptor and tactical drone components (Funding, EUR 50 million).",
-            "11 Jun 2026: Cpl. Igor and other former armored vehicle gunners are documented operating FPV strike drones during live tactical exercises at Mailly-le-Camp."
-          ],
-          "list": true,
-          "links": [
-            "https://www.defensenews.com/global/europe/2026/10/30/open-the-hives-why-france-is-turning-tank-gunners-into-fpv-pilots/",
-            "https://fr.wikipedia.org/wiki/Alta_Ares",
-            "https://www.defensenews.com/global/europe/2026/10/30/open-the-hives-why-france-is-turning-tank-gunners-into-fpv-pilots/",
-            "https://www.defensenews.com/global/europe/2026/10/30/open-the-hives-why-france-is-turning-tank-gunners-into-fpv-pilots/",
-            "https://www.opex360.com/2026/04/04/elabore-par-le-1er-rima-le-concept-descadron-de-drones-de-chasse-va-faire-tache-dhuile-au-sein-de-larmee-de-terre/",
-            "https://www.tectonicdefense.com/french-interceptor-startup-alta-ares-raises-e50m-series-a/",
-            "https://www.defensenews.com/global/europe/2026/10/30/open-the-hives-why-france-is-turning-tank-gunners-into-fpv-pilots/"
-          ]
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Onboard Edge-AI Processing Units depends on Pixel Lock software stack."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense contractors and procurement teams should monitor growing regional training initiatives as indicators of standardized FPV tactics and future equipment requirements among allied forces."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "The Croatian Armed Forces organized an international FPV drone training course for Slovenian military personnel at barracks in Pula and Udbina.",
-        "Context: Dec 2023: The training and operations office of the 1st Marine Infantry Regiment (1er RIMa) conceptualizes an all-drone combat unit based on open-source intelligence studies of the war in Ukraine. 2024: French defense-tech startup Alta Ares is founded to focus on AI-enabled computer vision and counter-drone systems. May 2025: The 1er RIMa tests its experimental drone unit during Exercise Hedgehog in Estonia, where drone pilots account for 20% of opposing force attrition against U.S. Bradley fighting vehicles (Testing). Feb 2026: French Army Chief of Staff Gen. Pierre Schill accelerates plans to formalize the experimental structure into permanent formations (Plan). Apr 2026: The French Army staff declares the 1er RIMa's 1er Escadron de Drones de Chasse (1st Hunter-Drone Squadron) fully operational at CENTAC Mailly-le-Camp. 9 Jun 2026: Alta Ares closes a €50 million Series A funding round to ramp up production of AI-guided interceptor and tactical drone components (Funding, EUR 50 million). 11 Jun 2026: Cpl. Igor and other former armored vehicle gunners are documented operating FPV strike drones during live tactical exercises at Mailly-le-Camp.",
-        "Down the supply chain: Onboard Edge-AI Processing Units depends on Pixel Lock software stack.",
-        "Why it matters: Defense contractors and procurement teams should monitor growing regional training initiatives as indicators of standardized FPV tactics and future equipment requirements among allied forces.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Militär Aktuell – Sicherheit im Fokus",
-          "url": "https://militaeraktuell.at/kroatiens-armee-slowenen-umgang-drohnen/"
-        }
-      ],
-      "place": {
-        "label": "Croatia",
-        "lat": 45.1,
-        "lon": 15.2
-      }
-    },
-    {
-      "id": "syn-943",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-16",
-      "title": "French Navy executes first Atlantic interception of a narco-submarine",
-      "summary": "On November 12, 2026, a French Navy frigate intercepted a flagless self-propelled semi-submersible carrying several tons of cocaine in the Atlantic Ocean, marking the service's first-ever interception of a narco-sub. Although the crew initiated a scuttling mechanism that sank the vessel and much of its cargo, French personnel detained four suspects and recovered 146 kg of cocaine.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "On November 12, 2026, a French Navy frigate intercepted a flagless self-propelled semi-submersible carrying several tons of cocaine in the Atlantic Ocean, marking the service's first-ever interception of a narco-sub. Although the crew initiated a scuttling mechanism that sank the vessel and much of its cargo, French personnel detained four suspects and recovered 146 kg of cocaine."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "Nov 2019: Spanish authorities intercepted the \"Che\", a 21.5-metre self-propelled semi-submersible off Galicia carrying 3,068 kg of cocaine, marking the first confirmed trans-Atlantic narco-submarine arrival in Europe.",
-            "Nov 2023: Italian authorities intercepted a Palau-flagged bulk carrier off the coast carrying 5.3 tonnes of cocaine.",
-            "Mar 2025: Spanish authorities towed an abandoned or disabled semi-submersible vessel into Camariñas, highlighting the continuous utilization of low-profile craft on transatlantic smuggling routes.",
-            "Jun 2025: The French Navy, acting under Operation Corymbe with support from the USCG, DEA, and UK NCA, seized over six tonnes of cocaine from a fishing vessel in the Gulf of Guinea.",
-            "26 Jan 2026: International maritime partners and MAOC-N coordinated actions resulting in the high-seas interception of a self-propelled semi-submersible (SPSS) on Atlantic-linked trafficking corridors.",
-            "13 Feb 2026: The French Navy seized over 4.2 tonnes of cocaine in a separate operation off the coast of French Polynesia supported by maritime patrol aircraft.",
-            "12 Nov 2026: The French Navy executed its first-ever Atlantic interception of a self-propelled semi-submersible (SPSS), recovering 146 kg of cocaine before the scuttling mechanism sank the bulk of the multi-tonne cargo."
-          ],
-          "list": true,
-          "links": [
-            "https://en.wikipedia.org/wiki/Maritime_Analysis_and_Operations_Centre",
-            "https://en.wikipedia.org/wiki/Maritime_Analysis_and_Operations_Centre",
-            "https://en.wikipedia.org/wiki/Maritime_Analysis_and_Operations_Centre",
-            "https://en.wikipedia.org/wiki/Maritime_Analysis_and_Operations_Centre",
-            "https://maoc.eu/category/op/page/2/",
-            "https://maoc.eu/category/op/page/2/",
-            "https://aktualitet.al/2026/11/16/french-navy-intercepts-semi-submersible-atlantic-146-kg-cocaine-seized/"
-          ]
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "US — NSPM: Rebuilding the United States Navy and America's Shipbuilding Industrial Base (2026-08-13): Fix long-term problems in Navy shipbuilding and repair: a fifth Naval shipyard, a submarine Component Repair Center, reorganisation of NAVSEA and direct investment in shipyards on the 'Finland model'."
-          ],
-          "list": false
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "The operation involved a semi‑submersible threat in the Atlantic Ocean."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "On November 12, 2026, a French Navy frigate intercepted a flagless self-propelled semi-submersible carrying several tons of cocaine in the Atlantic Ocean, marking the service's first-ever interception of a narco-sub. Although the crew initiated a scuttling mechanism that sank the vessel and much of its cargo, French personnel detained four suspects and recovered 146 kg of cocaine.",
-        "Context: Nov 2019: Spanish authorities intercepted the \"Che\", a 21.5-metre self-propelled semi-submersible off Galicia carrying 3,068 kg of cocaine, marking the first confirmed trans-Atlantic narco-submarine arrival in Europe. Nov 2023: Italian authorities intercepted a Palau-flagged bulk carrier off the coast carrying 5.3 tonnes of cocaine. Mar 2025: Spanish authorities towed an abandoned or disabled semi-submersible vessel into Camariñas, highlighting the continuous utilization of low-profile craft on transatlantic smuggling routes. Jun 2025: The French Navy, acting under Operation Corymbe with support from the USCG, DEA, and UK NCA, seized over six tonnes of cocaine from a fishing vessel in the Gulf of Guinea. 26 Jan 2026: International maritime partners and MAOC-N coordinated actions resulting in the high-seas interception of a self-propelled semi-submersible (SPSS) on Atlantic-linked trafficking corridors. 13 Feb 2026: The French Navy seized over 4.2 tonnes of cocaine in a separate operation off the coast of French Polynesia supported by maritime patrol aircraft. 12 Nov 2026: The French Navy executed its first-ever Atlantic interception of a self-propelled semi-submersible (SPSS), recovering 146 kg of cocaine before the scuttling mechanism sank the bulk of the multi-tonne cargo.",
-        "Policy direction: US — NSPM: Rebuilding the United States Navy and America's Shipbuilding Industrial Base (2026-08-13): Fix long-term problems in Navy shipbuilding and repair: a fifth Naval shipyard, a submarine Component Repair Center, reorganisation of NAVSEA and direct investment in shipyards on the 'Finland model'.",
-        "Why it matters: The operation involved a semi‑submersible threat in the Atlantic Ocean.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Naval News",
-          "url": "https://www.navalnews.com/naval-news/2026/11/french-navy-intercepts-narco-sub-atlantic/"
-        }
-      ],
-      "place": {
-        "label": "Atlantic Ocean",
-        "lat": 0,
-        "lon": -30
-      }
-    },
-    {
-      "id": "syn-944",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-16",
-      "title": "Norway Chief of Defence Urges Total Defence Honesty",
-      "summary": "General Eirik Kristoffersen stated at the Atlantic Future Forum that withholding threat assessments from the public is more dangerous than open discussion. He emphasized that societal resilience and robust industry collaboration on sustainment are critical for receiving allied reinforcements.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "General Eirik Kristoffersen stated at the Atlantic Future Forum that withholding threat assessments from the public is more dangerous than open discussion. He emphasized that societal resilience and robust industry collaboration on sustainment are critical for receiving allied reinforcements."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "11 Jul 2023: NATO adopts the New Force Model (NFM) at the Vilnius Summit, establishing a tiered readiness framework designed to scale alliance-wide force postures up to 800,000 active troops across specific deployment windows.",
-            "10 Nov 2026: JEF maritime chiefs sign the Northern Navies Initiative agreement aboard HMS Prince of Wales in Oslo to standardise kits and interoperability (Agreement).",
-            "12 Nov 2026: Dr Martin Schäfer publicly clarifies at the Atlantic Future Forum that Germany's core logistical obligation requires moving 800,000 allied troops from western bases to eastern borders within 30 days, relying heavily on synchronized civil-government departments.",
-            "13 Nov 2026: The co-hosts of AFF 2026 (the United Kingdom and Norway) publish their official summit statement summarizing capability commitments, industrial base acceleration, and total defence cooperation.",
-            "14 Nov 2026: Press analysis and specialized defence reports review the outcomes of the Oslo forum, highlighting European capability gaps in civil-military logistics and hybrid threat response.",
-            "15 Nov 2026: UK Defence Journal publishes specific commentary from Dr Martin Schäfer regarding Russian hybrid warfare acting as an inadvertent catalyst for public risk awareness and total defence mobilization in Germany.",
-            "16 Nov 2026: General Eirik Kristoffersen asserts at the Atlantic Future Forum that the Norwegian public can handle truthful assessments regarding the Russian threat, reinforcing total defence mobilization."
-          ],
-          "list": true,
-          "links": [
-            "https://epis-thinktank.com/publications/reconfiguring-europes-forward-presence",
-            "https://www.atlanticfutureforum.com/EN/pages",
-            "https://ukdefencejournal.org.uk/germany-must-get-allied-troops-east-within-a-month/",
-            "https://manufacturingtoday.co.uk/blog/uk-and-norway-host-atlantic-future-forum-urge-defence",
-            "https://ukdefencejournal.org.uk/putin-is-doing-our-job-with-hybrid-attacks-says-schafer/",
-            "https://ukdefencejournal.org.uk/putin-is-doing-our-job-with-hybrid-attacks-says-schafer/",
-            "https://ukdefencejournal.org.uk/norwegians-can-handle-truth-on-russia-says-defence-chief/"
-          ]
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "NATO — The Hague Summit Declaration (2025-06-25): Allies commit to 5% of GDP a year by 2035: at least 3.5% on core defence requirements and up to 1.5% on broader security spending, including the defence industrial base."
-          ],
-          "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "As regional frameworks evolve from NATO's 2023 New Force Model toward synchronized total defence initiatives in 2026, military planners are increasingly prioritizing civil-military cooperation and shared situational awareness to secure northern flank logistics."
-          ],
-          "list": false
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defence contractors and supply chain providers should engage early with civil-military sustainment frameworks to support total defence capability requirements."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "General Eirik Kristoffersen stated at the Atlantic Future Forum that withholding threat assessments from the public is more dangerous than open discussion. He emphasized that societal resilience and robust industry collaboration on sustainment are critical for receiving allied reinforcements.",
-        "Context: 11 Jul 2023: NATO adopts the New Force Model (NFM) at the Vilnius Summit, establishing a tiered readiness framework designed to scale alliance-wide force postures up to 800,000 active troops across specific deployment windows. 10 Nov 2026: JEF maritime chiefs sign the Northern Navies Initiative agreement aboard HMS Prince of Wales in Oslo to standardise kits and interoperability (Agreement). 12 Nov 2026: Dr Martin Schäfer publicly clarifies at the Atlantic Future Forum that Germany's core logistical obligation requires moving 800,000 allied troops from western bases to eastern borders within 30 days, relying heavily on synchronized civil-government departments. 13 Nov 2026: The co-hosts of AFF 2026 (the United Kingdom and Norway) publish their official summit statement summarizing capability commitments, industrial base acceleration, and total defence cooperation. 14 Nov 2026: Press analysis and specialized defence reports review the outcomes of the Oslo forum, highlighting European capability gaps in civil-military logistics and hybrid threat response. 15 Nov 2026: UK Defence Journal publishes specific commentary from Dr Martin Schäfer regarding Russian hybrid warfare acting as an inadvertent catalyst for public risk awareness and total defence mobilization in Germany. 16 Nov 2026: General Eirik Kristoffersen asserts at the Atlantic Future Forum that the Norwegian public can handle truthful assessments regarding the Russian threat, reinforcing total defence mobilization.",
-        "Policy direction: NATO — The Hague Summit Declaration (2025-06-25): Allies commit to 5% of GDP a year by 2035: at least 3.5% on core defence requirements and up to 1.5% on broader security spending, including the defence industrial base.",
-        "The bigger picture: As regional frameworks evolve from NATO's 2023 New Force Model toward synchronized total defence initiatives in 2026, military planners are increasingly prioritizing civil-military cooperation and shared situational awareness to secure northern flank logistics.",
-        "Why it matters: Defence contractors and supply chain providers should engage early with civil-military sustainment frameworks to support total defence capability requirements.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Norwegians can handle truth on Russia, says defence chief",
-          "url": "https://ukdefencejournal.org.uk/norwegians-can-handle-truth-on-russia-says-defence-chief/"
-        }
-      ],
-      "place": {
-        "label": "Oslo",
-        "lat": 59.9139,
-        "lon": 10.7522
-      }
-    },
-    {
-      "id": "syn-945",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-16",
-      "title": "Safran Unveils NGDS HK and PASEO Master D at Euronaval 2026",
-      "summary": "At Euronaval 2026, Safran Electronics and Defense unveiled the NGDS Hard Kill rocket launcher and the PASEO Master D sighting system to counter drones and small craft.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "At Euronaval 2026, Safran Electronics and Defense unveiled the NGDS Hard Kill rocket launcher and the PASEO Master D sighting system to counter drones and small craft."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "1968: The EURONAVAL exhibition was founded for the French naval industry, subsequently evolving into a major international biannual event.",
-            "17 Jun 2024: BAE Systems Bofors unveils the land-based Tridon Mk2 mobile air defense system at Eurosatory 2024, mating the 40 Mk4 turret to a Scania truck.",
-            "15 Oct 2024: BAE Systems and the Swedish FMV sign a letter of intent to develop the Tridon Mk2 demonstrator for ground-based air defense.",
-            "15 Apr 2026: The Swedish FMV awards BAE Systems a $180 million contract for Tridon Mk2 systems to counter drones and aerial threats (Contract, USD 180 million).",
-            "2 Jul 2026: BAE Systems highlights contracts to supply Bofors 40Mk4 cannons to the Brazilian Navy, expanding international adoption (Contract).",
-            "3 Nov 2026: BAE Systems Bofors officially announces the Sea Tridon, Sea Tridon C (containerized), and Sea Trinity close-in weapon system variants at Euronaval 2026 in Paris."
-          ],
-          "list": true,
-          "links": [
-            "https://eddacreative.com/en/euronaval-2026-paris-exhibitors-by-country/",
-            "https://defensewarroom.com/2026/11/04/bae-systems-sea-tridon-naval-gun/",
-            "https://defensewarroom.com/2026/11/04/bae-systems-sea-tridon-naval-gun/",
-            "https://defensewarroom.com/2026/11/04/bae-systems-sea-tridon-naval-gun/",
-            "https://en.clickpetroleoegas.com.br/bae-systems-to-supply-new-bofors-40mk4-cannons-to-the-brazilian-navy-ama01/",
-            "https://defensewarroom.com/2026/11/04/bae-systems-sea-tridon-naval-gun/"
-          ]
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "FR — Actualisation de la loi de programmation militaire 2024-2030 (2026-08-16): €36 billion extra for the armed forces in 2026–2030 on top of the €413 billion LPM: nuclear deterrence, air defence, counter-drone, deep strike, munitions, drones, space and electromagnetic warfare."
-          ],
-          "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following the founding of Euronaval in 1968 and recent naval air defense developments through 2026, defense suppliers are increasingly focusing on cost-effective asymmetric threat neutralization."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Electro-Optical and Radar Fire Control Sensors depends on Integrated tracking and guidance suites — Incorporated into the Sea Tridon and Sea Trinity configurations."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "The NGDS HK is designed to address the French Navy’s requirement to protect surface combatants against saturating asymmetric threats."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "At Euronaval 2026, Safran Electronics and Defense unveiled the NGDS Hard Kill rocket launcher and the PASEO Master D sighting system to counter drones and small craft.",
-        "Context: 1968: The EURONAVAL exhibition was founded for the French naval industry, subsequently evolving into a major international biannual event. 17 Jun 2024: BAE Systems Bofors unveils the land-based Tridon Mk2 mobile air defense system at Eurosatory 2024, mating the 40 Mk4 turret to a Scania truck. 15 Oct 2024: BAE Systems and the Swedish FMV sign a letter of intent to develop the Tridon Mk2 demonstrator for ground-based air defense. 15 Apr 2026: The Swedish FMV awards BAE Systems a $180 million contract for Tridon Mk2 systems to counter drones and aerial threats (Contract, USD 180 million). 2 Jul 2026: BAE Systems highlights contracts to supply Bofors 40Mk4 cannons to the Brazilian Navy, expanding international adoption (Contract). 3 Nov 2026: BAE Systems Bofors officially announces the Sea Tridon, Sea Tridon C (containerized), and Sea Trinity close-in weapon system variants at Euronaval 2026 in Paris.",
-        "Policy direction: FR — Actualisation de la loi de programmation militaire 2024-2030 (2026-08-16): €36 billion extra for the armed forces in 2026–2030 on top of the €413 billion LPM: nuclear deterrence, air defence, counter-drone, deep strike, munitions, drones, space and electromagnetic warfare.",
-        "The bigger picture: Following the founding of Euronaval in 1968 and recent naval air defense developments through 2026, defense suppliers are increasingly focusing on cost-effective asymmetric threat neutralization.",
-        "Down the supply chain: Electro-Optical and Radar Fire Control Sensors depends on Integrated tracking and guidance suites — Incorporated into the Sea Tridon and Sea Trinity configurations.",
-        "Why it matters: The NGDS HK is designed to address the French Navy’s requirement to protect surface combatants against saturating asymmetric threats.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Naval News",
-          "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/safran-ngds-hk-rocket-launcher-euronaval-2026/"
-        }
-      ],
-      "place": {
-        "label": "Paris",
-        "lat": 48.8566,
-        "lon": 2.3522
-      }
-    },
-    {
-      "id": "syn-946",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-16",
-      "title": "Rheinmetall to Demonstrate Humanoid Combat Robot Prototypes in 15-18 Months",
-      "summary": "Rheinmetall CEO Armin Papperger announced during an RTL/ntv interview that the company will demonstrate initial functional prototypes of humanoid combat robots in approximately 15 to 18 months.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Rheinmetall CEO Armin Papperger announced during an RTL/ntv interview that the company will demonstrate initial functional prototypes of humanoid combat robots in approximately 15 to 18 months."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "14 Aug 2024: Rheinmetall executive leadership highlights the growing necessity of integrating AI and automated processes for rapid tactical decision-making on future battlefields.",
-            "9 May 2026: Industry analysts and defense publications review the emerging landscape of military robotics, classifying humanoid systems as complex and controversial future combat enablers.",
-            "7 Sep 2026: Following prominent robotics showcases in Beijing, Chinese state media and military researchers urge the acceleration of combat-oriented humanoid robots, prompting strategic responses across western defense primes.",
-            "17 Sep 2026: Rheinmetall CEO Armin Papperger officially confirms that the company is actively developing humanoid combat robots at its research center in Bremen.",
-            "22 Oct 2026: Unitree Robotics unveils the H2-X \"Kung Fu Legend Guardian,\" heightening the global competitive pressure for military humanoid applications.",
-            "16 Nov 2026: Rheinmetall CEO Armin Papperger announces during an RTL/ntv interview that initial functional prototypes of the company's humanoid combat robots will be demonstrated in approximately 15 to 18 months (Plan)."
-          ],
-          "list": true,
-          "links": [
-            "https://finance.biggo.com/news/4563412a-0403-4181-b4bf-f482d1d93bbf",
-            "https://finance.biggo.com/news/4563412a-0403-4181-b4bf-f482d1d93bbf",
-            "https://finance.biggo.com/news/4563412a-0403-4181-b4bf-f482d1d93bbf",
-            "https://finance.biggo.com/news/4563412a-0403-4181-b4bf-f482d1d93bbf",
-            "https://meta-defense.fr/de/2026/10/22/unitree-h2-x-humanoider-kampfroboter/",
-            "https://finance.biggo.com/news/4563412a-0403-4181-b4bf-f482d1d93bbf"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following Chinese showcases in September 2026 and Unitree Robotics unveiling the H2-X in October 2026, western defense primes are accelerating combat-oriented humanoid robot development amid rising global competition."
-          ],
-          "list": false
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Business development and supply chain professionals tracking military robotics must monitor EU export licensing constraints on advanced AI software and robotic components that could impact development timelines."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Rheinmetall CEO Armin Papperger announced during an RTL/ntv interview that the company will demonstrate initial functional prototypes of humanoid combat robots in approximately 15 to 18 months.",
-        "Context: 14 Aug 2024: Rheinmetall executive leadership highlights the growing necessity of integrating AI and automated processes for rapid tactical decision-making on future battlefields. 9 May 2026: Industry analysts and defense publications review the emerging landscape of military robotics, classifying humanoid systems as complex and controversial future combat enablers. 7 Sep 2026: Following prominent robotics showcases in Beijing, Chinese state media and military researchers urge the acceleration of combat-oriented humanoid robots, prompting strategic responses across western defense primes. 17 Sep 2026: Rheinmetall CEO Armin Papperger officially confirms that the company is actively developing humanoid combat robots at its research center in Bremen. 22 Oct 2026: Unitree Robotics unveils the H2-X \"Kung Fu Legend Guardian,\" heightening the global competitive pressure for military humanoid applications. 16 Nov 2026: Rheinmetall CEO Armin Papperger announces during an RTL/ntv interview that initial functional prototypes of the company's humanoid combat robots will be demonstrated in approximately 15 to 18 months (Plan).",
-        "The bigger picture: Following Chinese showcases in September 2026 and Unitree Robotics unveiling the H2-X in October 2026, western defense primes are accelerating combat-oriented humanoid robot development amid rising global competition.",
-        "Why it matters: Business development and supply chain professionals tracking military robotics must monitor EU export licensing constraints on advanced AI software and robotic components that could impact development timelines.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Der Monitor für Defence und Sicherheitspolitik",
-          "url": "https://www.hartpunkt.de/humanoide-kampfroboter-rheinmetall-will-in-rund-anderthalb-jahren-erste-prototypen-zeigen/"
-        }
-      ],
-      "place": {
-        "label": "Düsseldorf",
-        "lat": 51.2277,
-        "lon": 6.7735
-      }
-    },
-    {
-      "id": "syn-947",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-16",
-      "title": "BAE Raises 2026 Cash Forecast on £33B Orders",
-      "summary": "BAE Systems increased its 2026 free cash flow forecast after securing £33 billion in orders so far this year.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "BAE Systems increased its 2026 free cash flow forecast after securing £33 billion in orders so far this year."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "21 Dec 2022: The UK, Italy, and Japan officially launch the Global Combat Air Programme (GCAP) to jointly develop a sixth-generation fighter jet.",
-            "25 Jun 2025: Partners formally brand the joint venture as Edgewing, holding equal 33.3% shares.",
-            "Jul 2025: Edgewing establishes its operational headquarters in Reading, UK, alongside the GCAP Agency.",
-            "2 Apr 2026: The GCAP Agency awards the joint venture's first joint international contract, valued at £686 million, for initial design and engineering activities (Contract, GBP 686 million).",
-            "3 Jul 2026: The GCAP Agency awards Edgewing a £4.6 billion (approx. $6.1 billion) 18-month contract to complete the advanced concept, assessment, and detailed design phase, running through December 2027 (Contract, GBP 4.6 billion).",
-            "21 Jul 2026: Canada joins the GCAP framework as an observer state.",
-            "9 Oct 2026: Edgewing opens its first national subsidiary outside the UK, Edgewing Italia, located in Turin."
-          ],
-          "list": true,
-          "links": [
-            "https://en.wikipedia.org/wiki/Global_Combat_Air_Programme",
-            "https://en.wikipedia.org/wiki/Global_Combat_Air_Programme",
-            "https://migflug.com/afterburner/it/gcap-edgewing-italia-turin-site-opens-2026/",
-            "https://en.wikipedia.org/wiki/Global_Combat_Air_Programme",
-            "https://en.wikipedia.org/wiki/Global_Combat_Air_Programme",
-            "https://en.wikipedia.org/wiki/Global_Combat_Air_Programme",
-            "https://migflug.com/afterburner/it/gcap-edgewing-italia-turin-site-opens-2026/"
-          ]
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "NATO — The Hague Summit Declaration (2025-06-25): Allies commit to 5% of GDP a year by 2035: at least 3.5% on core defence requirements and up to 1.5% on broader security spending, including the defence industrial base."
-          ],
-          "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Long-term multinational frameworks like the 2022 Global Combat Air Programme continue to generate substantial multi-billion-pound contract awards, exemplified by Edgewing's ongoing design phases through 2027."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Global Combat Air Programme depends on Advanced carbon-composite materials and bismaleimide (BMI) resins for low-observable airframes."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense procurement and supply chain professionals should monitor expanding backlogs and supplier opportunities in advanced airframes and munitions programmes."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "BAE Systems increased its 2026 free cash flow forecast after securing £33 billion in orders so far this year.",
-        "Context: 21 Dec 2022: The UK, Italy, and Japan officially launch the Global Combat Air Programme (GCAP) to jointly develop a sixth-generation fighter jet. 25 Jun 2025: Partners formally brand the joint venture as Edgewing, holding equal 33.3% shares. Jul 2025: Edgewing establishes its operational headquarters in Reading, UK, alongside the GCAP Agency. 2 Apr 2026: The GCAP Agency awards the joint venture's first joint international contract, valued at £686 million, for initial design and engineering activities (Contract, GBP 686 million). 3 Jul 2026: The GCAP Agency awards Edgewing a £4.6 billion (approx. $6.1 billion) 18-month contract to complete the advanced concept, assessment, and detailed design phase, running through December 2027 (Contract, GBP 4.6 billion). 21 Jul 2026: Canada joins the GCAP framework as an observer state. 9 Oct 2026: Edgewing opens its first national subsidiary outside the UK, Edgewing Italia, located in Turin.",
-        "Policy direction: NATO — The Hague Summit Declaration (2025-06-25): Allies commit to 5% of GDP a year by 2035: at least 3.5% on core defence requirements and up to 1.5% on broader security spending, including the defence industrial base.",
-        "The bigger picture: Long-term multinational frameworks like the 2022 Global Combat Air Programme continue to generate substantial multi-billion-pound contract awards, exemplified by Edgewing's ongoing design phases through 2027.",
-        "Down the supply chain: Global Combat Air Programme depends on Advanced carbon-composite materials and bismaleimide (BMI) resins for low-observable airframes.",
-        "Why it matters: Defense procurement and supply chain professionals should monitor expanding backlogs and supplier opportunities in advanced airframes and munitions programmes.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "UK Defence Journal",
-          "url": "https://ukdefencejournal.org.uk/bae-raises-cash-forecast-as-orders-climb-past-thirty-billion/"
-        }
-      ],
-      "place": {
-        "label": "London",
-        "lat": 51.5074,
-        "lon": -0.1278
-      }
-    },
-    {
-      "id": "syn-948",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-16",
-      "title": "Porr AG Wins €100M Contract for US Air Force Logistics Base in Poland",
-      "summary": "Porr AG signed a formal general contractor contract valued at approximately €100 million for the first phase of military infrastructure expansion at Wrocław-Strachowice airport. The project encompasses two aprons with stands for C-5 Galaxy and C-130 Hercules aircraft, taxiways, a fire station, and a technical building.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Porr AG signed a formal general contractor contract valued at approximately €100 million for the first phase of military infrastructure expansion at Wrocław-Strachowice airport. The project encompasses two aprons with stands for C-5 Galaxy and C-130 Hercules aircraft, taxiways, a fire station, and a technical building."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "15 Aug 2020: Poland and the United States sign the Enhanced Defense Cooperation Agreement (EDCA), establishing the legal framework for expanding US military presence and infrastructure development on Polish territory (Agreement).",
-            "13 Oct 2026: Poland formally initiates early site expansion works at Wrocław-Strachowice to support US forces.",
-            "16 Oct 2026: Porr AG signs the formal general contractor contract valued at ~€100 million (PLN 539 million gross) for the first phase (5 out of 20 tasks) (Contract, EUR 100 million).",
-            "21 Oct 2026: Public announcement details are released confirming the scope: two aprons (four C-5 Galaxy stands, three C-130 Hercules stands), taxiways, a military fire station, and a technical operations building.",
-            "30 Oct 2026: US Air Forces in Europe – Air Forces Africa (USAFE-AFAFRICA) outline joint implementation strategy alongside the Polish Armed Forces Support Inspectorate.",
-            "13 Nov 2026: Official confirmation issued that construction is actively underway on the initial ramp and security upgrades.",
-            "2029: Scheduled completion date for construction works and full military aviation infrastructure certification (planned) (Plan)."
-          ],
-          "list": true,
-          "links": [
-            "https://milmag.pl/en/polish-military-infrastructure-expansion-new-prospects-for-wroclaw-strachowice/",
-            "https://defence-industry.eu/poland-begins-wroclaw-airfield-expansion-to-support-u-s-forces-on-natos-eastern-flank/",
-            "https://www.worldconstructionnetwork.com/news/porr-to-build-usaf-logistics-base/",
-            "https://www.worldconstructionnetwork.com/news/porr-to-build-usaf-logistics-base/",
-            "https://milmag.pl/en/polish-military-infrastructure-expansion-new-prospects-for-wroclaw-strachowice/",
-            "https://defence-industry.eu/poland-begins-wroclaw-airfield-expansion-to-support-u-s-forces-on-natos-eastern-flank/",
-            "https://www.porr-group.com/en/press/press-releases/detail/porr-to-deliver-first-phase-of-apod-construction"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following the 2020 US-Poland Enhanced Defense Cooperation Agreement, site works initiated in October 2026 and active construction began in November 2026 toward a planned 2029 completion, signaling broader NATO reinforcement across Polish logistics hubs."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Porr AG depends on Regional Infrastructure Management Board in Wrocław — General Construction & Civil Engineering: Porr AG (Austria / Poland) — primary contractor."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense contractors and supply chain professionals should note the ongoing military infrastructure expansion at Wrocław-Strachowice."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Porr AG signed a formal general contractor contract valued at approximately €100 million for the first phase of military infrastructure expansion at Wrocław-Strachowice airport. The project encompasses two aprons with stands for C-5 Galaxy and C-130 Hercules aircraft, taxiways, a fire station, and a technical building.",
-        "Context: 15 Aug 2020: Poland and the United States sign the Enhanced Defense Cooperation Agreement (EDCA), establishing the legal framework for expanding US military presence and infrastructure development on Polish territory (Agreement). 13 Oct 2026: Poland formally initiates early site expansion works at Wrocław-Strachowice to support US forces. 16 Oct 2026: Porr AG signs the formal general contractor contract valued at ~€100 million (PLN 539 million gross) for the first phase (5 out of 20 tasks) (Contract, EUR 100 million). 21 Oct 2026: Public announcement details are released confirming the scope: two aprons (four C-5 Galaxy stands, three C-130 Hercules stands), taxiways, a military fire station, and a technical operations building. 30 Oct 2026: US Air Forces in Europe – Air Forces Africa (USAFE-AFAFRICA) outline joint implementation strategy alongside the Polish Armed Forces Support Inspectorate. 13 Nov 2026: Official confirmation issued that construction is actively underway on the initial ramp and security upgrades. 2029: Scheduled completion date for construction works and full military aviation infrastructure certification (planned) (Plan).",
-        "The bigger picture: Following the 2020 US-Poland Enhanced Defense Cooperation Agreement, site works initiated in October 2026 and active construction began in November 2026 toward a planned 2029 completion, signaling broader NATO reinforcement across Polish logistics hubs.",
-        "Down the supply chain: Porr AG depends on Regional Infrastructure Management Board in Wrocław — General Construction & Civil Engineering: Porr AG (Austria / Poland) — primary contractor.",
-        "Why it matters: Defense contractors and supply chain professionals should note the ongoing military infrastructure expansion at Wrocław-Strachowice.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Porr AG Corporate News",
-          "url": "https://www.porr-group.com"
-        },
-        {
-          "n": 2,
-          "title": "Militär Aktuell – Sicherheit im Fokus",
-          "url": "https://militaeraktuell.at/porr-ag-errichtet-us-logistikbasis-in-polen/"
-        }
-      ],
-      "place": {
-        "label": "Wrocław, Poland",
-        "lat": 51.1079,
-        "lon": 17.0385
       }
     }
   ]
