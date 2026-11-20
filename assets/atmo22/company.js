@@ -3,7 +3,7 @@
  * real  = public site files only; empty = honest placeholder of the same shape;
  * demo  = mock-up content, only with ?demo=1 on a local host.
  */
-import { directory, industry, researchMap, countries, wire, demo, isDemo, TAXONOMY, STATUS_LABEL, COUNTRY, countryName, regionOf, esc, norm, safeUrl, hostOf, companyHref, SOURCES } from './data.js';
+import { directory, industry, researchMap, countries, wire, demo, profile, isDemo, TAXONOMY, STATUS_LABEL, COUNTRY, countryName, regionOf, esc, norm, safeUrl, hostOf, companyHref, SOURCES } from './data.js';
 import { mountShell, icon } from './shell.js';
 import { drawHalftone, bboxAround } from './halftone.js';
 import { flag } from './flags.js';
@@ -62,6 +62,17 @@ function overlayDemo(vm, d) {
     technologies: d.technologies, relationships: d.relationships, evidence: d.evidence, footprint: d.footprint,
     hq: vm.hq || d.mapPoints.find(p => p[2] === 'hq'), mapPoints: d.mapPoints, mapNote: 'DEMO markers transcribed from the mock-up', website: d.website || vm.website };
 }
+
+function overlayProfile(vm, p) {
+  return { ...vm, mode: 'profile', status: p.status_label || vm.status, reviewed: p.reviewed, sectors: p.sectors || [], meta: p.meta || [], about: p.about || vm.about,
+    facts: p.facts || vm.facts, attributes: p.attributes || [], presence: p.presence || vm.presence, taxonomy: { ...vm.taxonomy, ...(p.taxonomy || {}) },
+    developments: p.developments || vm.developments, programmes: p.programmes || vm.programmes, productTree: p.productTree || [], productAccordion: p.productAccordion || [],
+    technologies: p.technologies || [], relationships: p.relationships || vm.relationships, evidence: p.evidence || vm.evidence, footprint: p.footprint || vm.footprint,
+    website: safeUrl(p.website) || vm.website };
+}
+const aboutCaption = vm => vm.mode === 'profile'
+  ? `Reference card · reviewed ${esc(fmtDate(vm.reviewed))} · every claim linked to a public source below`
+  : `Description from the public research index · not independently verified${vm.legacy ? ` · legacy category “${esc(vm.legacy)}”, not mapped to A/B/C` : ''}`;
 
 /* ---------- small renderers ---------- */
 const demoTag = () => state.vm.mode === 'demo' ? '<span class="demo-tag" title="Illustrative mock-up data, not verified">DEMO</span>' : '';
@@ -130,7 +141,7 @@ function heroWorkspace(vm) {
       <div class="hero-grid">
         <div class="hero-about">
           <p class="about">${vm.about.workspace ? esc(vm.about.workspace) : '<span class="muted">No public description available.</span>'}</p>
-          ${vm.mode !== 'demo' ? `<p class="caption">Description from the public research index · not independently verified${vm.legacy ? ` · legacy category “${esc(vm.legacy)}”, not mapped to A/B/C` : ''}</p>` : ''}
+          ${vm.mode !== 'demo' ? `<p class="caption">${aboutCaption(vm)}</p>` : ''}
           ${facts(vm.facts.workspace)}
         </div>
         <div class="hero-attrs"><h3>Key attributes</h3><div class="chips">${vm.attributes.length ? vm.attributes.map(a => `<span class="chip chip-soft">${esc(a)}</span>`).join('') : '<span class="chip is-none">Not assigned</span>'}</div></div>
@@ -172,7 +183,7 @@ function classification(vm, ws) {
   const t = vm.taxonomy, demoMode = vm.mode === 'demo';
   const domainsList = demoMode && !ws ? TAXONOMY.domains.filter(d => t.domainsShown?.includes(d[0])) : TAXONOMY.domains;
   const capItems = demoMode ? (ws ? t.capabilityLabels.map(([c, l]) => [c, l]) : t.overviewCapabilities) : TAXONOMY.capabilities.map(([c, l]) => [c, l]);
-  const capActive = demoMode ? (ws ? t.capabilityLabels.filter(x => x[2]).map(x => x[0]) : []) : [];
+  const capActive = demoMode ? (ws ? t.capabilityLabels.filter(x => x[2]).map(x => x[0]) : []) : (t.capabilities || []);
   const note = '';
   if (!demoMode && ![t.domains, t.roles, t.levels, t.defence].some(x => x.length)) {
     const none = empty('circle-dot', 'Not classified yet. Domains, capabilities and industrial role appear here once they are backed by sources.');
@@ -191,7 +202,7 @@ function classification(vm, ws) {
   return `<div class="ov-class"><h2 class="ov-class-title">Industrial classification <span>(BOHUN taxonomy)</span></h2>
     <div class="tax-grid tax-ov">
       ${taxCol('A. Domains', domainsList, t.domains, { icons: true })}
-      ${taxCol('A. Capabilities', [], [], { items: capItems, max: demoMode ? 4 : 5, icons: true, icon: 'circle-dot' })}
+      ${taxCol('A. Capabilities', [], demoMode ? [] : capActive, { items: capItems, max: demoMode ? 4 : 5, icons: true, icon: 'circle-dot' })}
       ${taxCol('B. Technologies', [], [], { items: techItems, max: 5, icons: true, icon: 'cpu' })}
       <div class="tax-col tax-col-wide"><div class="tax-pair"><div><h3>C. Industrial role</h3><div class="tax-list tax-inline">${TAXONOMY.roles.slice(0, demoMode ? 3 : 7).map(([c, l]) => chip(c, c === 'PRIME' || !demoMode ? (demoMode ? 'PRIME' : l) : c, t.roles.includes(c), c === 'PRIME' ? 'factory' : null)).join('')}</div></div>
       <div><h3>C. Product level</h3>${levelsBlock(t.levels, true)}</div></div>
@@ -203,7 +214,7 @@ function developments(vm, ws) {
   const list = ws ? vm.developments.slice(0, 4) : vm.developments;
   const body = list.length
     ? `<ol class="${ws ? 'timeline' : 'devlist'}">${list.map(d => `<li><span class="tdot tdot-${d.color}"></span><time class="tnum">${esc(d.date)}</time><div class="dev-main">${d.href ? `<a href="${esc(d.href)}" target="_blank" rel="noopener noreferrer">${esc(d.title)}</a>` : `<span>${esc(d.title)}</span>`}<div class="tags">${tags(d.tags)}</div></div>${ws ? icon('chevron-right', 'ico ico-s dev-go') : ''}</li>`).join('')}</ol>
-       ${vm.mode !== 'demo' ? '<p class="caption">Publisher headlines that mention the company. Not independently reviewed.</p>' : ''}`
+       ${vm.mode === 'profile' ? '<p class="caption">Company and partner releases. An order announcement is not proof of delivery.</p>' : vm.mode !== 'demo' ? '<p class="caption">Publisher headlines that mention the company. Not independently reviewed.</p>' : ''}`
     : empty('newspaper', 'No attributed developments yet. The current source wire has no headline naming this company; reviewed BOHUN events will appear here.');
   return panel('developments', '02', 'Recent developments', `Verified and attributed updates about ${esc(vm.name)}.`, body, ['View all company news', '/?view=today']);
 }
@@ -270,7 +281,7 @@ function evidence(vm, ws) {
     <ul class="evid ${ws ? 'evid-ws' : 'evid-ov'}">${list.map(e => ws
       ? `<li>${/^verified/i.test(e.status) ? icon('circle-check', 'ico ev-ok') : /partial/i.test(e.status) ? icon('circle-alert', 'ico ev-warn') : icon('circle-dot', 'ico ev-neutral')}<div><b>${e.href ? `<a href="${esc(e.href)}" target="_blank" rel="noopener noreferrer">${esc(e.claim)}</a>` : esc(e.claim)}</b><small>${e.sources} source${e.sources === 1 ? '' : 's'}${e.date ? ' · ' + esc(e.date) : ' · ' + esc(e.source)}</small></div>${statusPill(e.status)}</li>`
       : `<li>${statusPill(e.status)}<div><b>${esc(e.claim)}</b><small>${e.sources} source${e.sources === 1 ? '' : 's'}${e.date ? ' · ' + esc(e.date) : ''}</small></div><a class="ev-src" ${e.href ? `href="${esc(e.href)}" target="_blank" rel="noopener noreferrer"` : ''}>${icon('file-text', 'ico ico-s')}${esc(e.source)}</a></li>`).join('')}</ul>
-    ${vm.mode !== 'demo' ? '<p class="caption">Provenance of the public record only. No claim-by-claim audit has been published.</p>' : ''}`;
+    ${vm.mode === 'profile' ? '<p class="caption">Verified: primary document or independent confirmation. Supported: company statement only. Quotes checked against source text.</p>' : vm.mode !== 'demo' ? '<p class="caption">Provenance of the public record only. No claim-by-claim audit has been published.</p>' : ''}`;
   return panel('evidence', '07', ws ? 'Evidence & sources' : 'Sources & evidence', 'Key claims with linked sources and verification status.', body, ['View all claims and sources', '#']);
 }
 
@@ -310,7 +321,7 @@ function render() {
        <div class="row ws-r1">${classification(vm, true)}${developments(vm, true)}${programmes(vm, true)}</div>
        <div class="row ws-r2">${productTree(vm)}${technologies(vm)}${relationships(vm, true)}${evidence(vm, true)}</div>`
     : `${heroOverview(vm)}${coverage(vm)}
-       <section class="panel ov-r1" aria-label="Summary and classification">${demoTag()}<div class="ov-summary"><p class="about">${vm.about.overview ? esc(vm.about.overview) : '<span class="muted">No public description available.</span>'}</p>${vm.mode !== 'demo' ? '<p class="caption">From the public research index · not independently verified</p>' : ''}${facts(vm.facts.overview)}</div>${classification(vm, false)}</section>
+       <section class="panel ov-r1" aria-label="Summary and classification">${demoTag()}<div class="ov-summary"><p class="about">${vm.about.overview ? esc(vm.about.overview) : '<span class="muted">No public description available.</span>'}</p>${vm.mode !== 'demo' ? `<p class="caption">${vm.mode === 'profile' ? aboutCaption(vm) : 'From the public research index · not independently verified'}</p>` : ''}${facts(vm.facts.overview)}</div>${classification(vm, false)}</section>
        <div class="row ov-r2">${developments(vm, false)}${productAccordion(vm)}${relationships(vm, false)}</div>
        <div class="row ov-r3">${programmes(vm, false)}${evidence(vm, false)}${footprint(vm)}</div>`;
   content.insertAdjacentHTML('beforeend', `<footer class="page-foot">Public beta · Research index coverage is incomplete · Companies are not Bohun Defence clients or partners · City-centre markers are not facility addresses · <a href="/about-project.html">Methodology &amp; limitations</a></footer>`);
@@ -409,6 +420,8 @@ async function main() {
   const c = matches[0];
   state.vm = await buildReal(c);
   const d = await demo(slug(c.name));
+  const p = d ? null : await profile(slug(c.name));
+  if (p) state.vm = overlayProfile(state.vm, p);
   if (d) {
     state.demo = d; state.vm = overlayDemo(state.vm, d);
     document.getElementById('demo-banner').innerHTML = `<div class="demo-banner" role="note">${icon('circle-alert')}<span><b>DEMO MODE</b> — content copied from the approved mock-up for visual comparison. Not verified data. Visible only on a local preview.</span></div>`;

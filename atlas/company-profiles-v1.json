@@ -1,0 +1,111 @@
+{
+  "schema": "bohun-company-profile-v1",
+  "notice": "Reviewed reference company cards. Every claim is taken from a linked public source; quotes were checked against the source text. Company statements are marked Supported, not Verified.",
+  "profiles": {
+    "hensoldt-ag": {
+      "reviewed": "2026-11-20",
+      "status_label": "Reference card · reviewed 20 Nov 2026",
+      "method": "BOHUN B4CE reference card (10 sections, evidence per claim)",
+      "website": "https://www.hensoldt.net/",
+      "sectors": ["Defence electronics", "Radar & electronic warfare", "Optronics"],
+      "meta": [["building", "Listed AG · Frankfurt Stock Exchange"], ["shield", "Defence participation L1 · verified (group)"]],
+      "about": {
+        "workspace": "HENSOLDT AG is the parent company of the HENSOLDT Group, a German provider of electronic sensor solutions for defence and security. The group develops and manufactures air defence and naval radars (TRML-4D, SPEXER), IFF systems, electronic warfare and self-protection systems, avionics and optronics, and is design authority for the Eurofighter ECRS Mk1 radar. Products are made by group subsidiaries such as HENSOLDT Sensors GmbH. The group also has civil lines: air traffic control radar and precision optics for semiconductor lithography.",
+        "overview": "Parent company of the HENSOLDT Group: air defence and naval radars, IFF, electronic warfare, avionics and optronics for armed and security forces. Design authority for the Eurofighter ECRS Mk1 radar. Civil lines include air traffic control radar and lithography optics. About two thirds of 2025 revenue came from Germany."
+      },
+      "facts": {
+        "workspace": [["Listed AG", "Type"], ["9,362 (31 Dec 2025)", "Employees"], ["€2,455M (FY2025, group)", "Revenue"], ["€8,833M (31 Dec 2025)", "Order backlog"], ["Taufkirchen, Germany", "Headquarters"], ["HRB 258711 · LEI 894500686FYLLZD3M624", "Register"]],
+        "overview": [["9,362", "Employees"], ["€2,455M (FY2025)", "Revenue"], ["Listed AG", "Company type"], ["Taufkirchen", "Headquarters"], ["Germany", "Country"]]
+      },
+      "attributes": ["Listed", "Prime & Tier 1", "Defence L1 (group)", "Defence revenue share not disclosed"],
+      "presence": ["Europe", "Middle East", "Asia-Pacific", "North America", "Africa", "Latin America"],
+      "taxonomy": {
+        "domains": ["AIR", "LAND", "MAR", "SPACE", "CYBER_EM"],
+        "capabilities": ["SENS", "EWCY", "MSL", "PROT", "SERV"],
+        "roles": ["PRIME", "TIER1"],
+        "levels": ["L0", "L1"],
+        "defence": ["DEDICATED"]
+      },
+      "developments": [
+        {"date": "19 Nov 2026", "title": "Netherlands and Germany order the Knifefish radio jamming system from HENSOLDT Netherlands", "tags": ["Company release", "Order"], "color": "orange", "href": "https://www.hensoldt.net/news/hensoldt-agrees-industrial-cooperation-in-the-netherlands"},
+        {"date": "31 Jul 2026", "title": "H1 2026: order intake doubles to €2,812M, revenue €1,167M", "tags": ["Company release", "Results"], "color": "blue", "href": "https://www.hensoldt.net/news/hensoldt-doubles-order-intake-in-the-first-half-of-2026-%E2%80%93-revenue-and-earnings-rise-significantly"},
+        {"date": "26 Feb 2026", "title": "FY2025: order intake €4,710M, revenue €2,455M", "tags": ["Company release", "Results"], "color": "blue", "href": "https://www.hensoldt.net/news/financial-year-2025-hensoldt-achieves-record-order-intake-and-confirms-structural-growth-path"},
+        {"date": "02 Feb 2026", "title": "ESSI orders from Diehl Defence for TRML-4D radars, over €100M", "tags": ["Company release", "Order"], "color": "orange", "href": "https://www.hensoldt.net/news/hensoldt-strengthens-air-defence-capabilities-of-european-countries"},
+        {"date": "24 Jul 2025", "title": "Order over €340M for TRML-4D and SPEXER radars for Ukraine's air defence", "tags": ["Company release", "Order"], "color": "orange", "href": "https://www.hensoldt.net/news/hensoldt-strengthens-ukraines-air-defence"},
+        {"date": "14 Feb 2025", "title": "Eurofighter ECRS Mk1 radar: contract extension of about €350M", "tags": ["Company release", "Contract"], "color": "orange", "href": "https://www.hensoldt.net/news/hensoldt-receives-350-million-euro-contract-extension-for-the-eurofighter-radar"}
+      ],
+      "programmes": {
+        "workspace": [
+          {"title": "Eurofighter ECRS Mk1 radar", "sub": "Development · Airbus DS for Germany and Spain · ~€350M extension (2025)", "status": "Contract extension", "icon": "plane"},
+          {"title": "TRML-4D / SPEXER for Ukraine", "sub": "Order · Ukraine air defence · over €340M (2025)", "status": "Order announced", "icon": "shield"},
+          {"title": "ESSI · TRML-4D for IRIS-T SLM", "sub": "Order · Diehl Defence · over €100M (2026)", "status": "Order announced", "icon": "crosshair"},
+          {"title": "Knifefish radio jamming", "sub": "Order · Netherlands and Germany · HENSOLDT Netherlands (2026)", "status": "Order placed", "icon": "radio"},
+          {"title": "EDF 2021 ENGRT rotorcraft study", "sub": "EU European Defence Fund · consortium member", "status": "Selected for EU funding", "icon": "landmark"}
+        ],
+        "overview": [
+          {"color": "orange", "date": "19 Nov 2026", "title": "Knifefish", "sub": "Order · Netherlands and Germany", "desc": "Order for the radio jamming system placed with HENSOLDT Netherlands, the programme's prime contractor. Value not disclosed.", "status": "Order placed"},
+          {"color": "orange", "date": "02 Feb 2026", "title": "ESSI · TRML-4D", "sub": "Order · Diehl Defence", "desc": "TRML-4D radars with maintenance and training for IRIS-T SLM in several European countries, over €100M.", "status": "Order announced"},
+          {"color": "orange", "date": "24 Jul 2025", "title": "Ukraine air defence radars", "sub": "Order · Ukraine", "desc": "TRML-4D and SPEXER 2000 3D MkIII radars, order package over €340M. Customer not named in the release.", "status": "Order announced"},
+          {"color": "blue", "date": "14 Feb 2025", "title": "Eurofighter ECRS Mk1", "sub": "Contract extension · Airbus Defence and Space", "desc": "Further development tasks worth about €350M after approval by the German and Spanish defence ministries. Radar developed by HENSOLDT Sensors GmbH with Indra.", "status": "Contract extension"},
+          {"color": "grey", "date": "2022", "title": "EDF 2021 ENGRT", "sub": "European Defence Fund · study", "desc": "HENSOLDT Sensors GmbH and HENSOLDT France SAS listed as consortium members of the next-generation military rotorcraft project. HENSOLDT's share not stated.", "status": "Selected for EU funding"}
+        ]
+      },
+      "productTree": [
+        {"label": "TRML-4D air defence radar", "level": "L0", "selected": true, "icon": "crosshair"},
+        {"label": "SPEXER 2000 3D MkIII short-range radar", "level": "L0", "icon": "crosshair"},
+        {"label": "Knifefish radio jamming system", "level": "L0", "icon": "radio"},
+        {"label": "Eurofighter ECRS Mk1 radar", "level": "L1", "icon": "plane"},
+        {"label": "Praetorian self-protection (further development)", "level": "L1", "icon": "shield"}
+      ],
+      "productAccordion": [
+        {"level": "L0", "title": "Radar & electronic warfare systems", "dot": "orange", "open": true, "items": [["TRML-4D", "AESA air defence radar, used in IRIS-T SLM", "green"], ["SPEXER 2000 3D MkIII", "Short-range surveillance radar", "green"], ["Knifefish", "Radio jamming system", "green"], ["Twinvis", "Passive radar", "grey"]]},
+        {"level": "L1", "title": "Platform subsystems", "dot": "blue", "open": true, "items": [["ECRS Mk1", "E-scan radar for Eurofighter", "green"], ["Praetorian", "Eurofighter self-protection system", "green"], ["Self-protection suites", "Missile, laser and radar warning with countermeasures", "green"]]},
+        {"level": "L0", "title": "Optronics", "dot": "blue", "open": false, "items": [["Ground optronics", "Sights, rangefinders, night vision, thermal imagers", "green"], ["Submarine optronics", "Optronic masts and periscopes", "green"], ["Space optics", "Optics for space missions", "green"]]},
+        {"level": "L2", "title": "Civil lines", "dot": "grey", "open": false, "items": [["Lithography optics", "Precision optics for semiconductor manufacturing", "grey"], ["Air traffic management", "ATC and weather radar, navigation, runway lighting", "grey"]]}
+      ],
+      "technologies": [
+        ["AESA radar", "T.SENS", "L0 · L1", "#e8a000"],
+        ["Electronic warfare and jamming", "T.EWC", "L0 · L1", "#b06a2c"],
+        ["Optronics and thermal imaging", "T.SENS", "L0 · L2", "#49658c"],
+        ["Space optics", "T.SPC", "L2", "#3b82d6"],
+        ["Data fusion, AI and cyber security (stated R&D focus)", "T.AI", "—", "#8b90a3"]
+      ],
+      "relationships": {
+        "workspace": [
+          {"name": "KfW (Federal Republic of Germany)", "role": "Shareholder · 25.1%", "x": 0.28, "y": 0.12, "icon": "landmark", "edge": "verified", "label": "Shareholder"},
+          {"name": "Leonardo S.p.A.", "role": "Shareholder 22.8% · customer and supplier", "x": 0.72, "y": 0.12, "icon": "building", "edge": "verified", "label": "Shareholder"},
+          {"name": "Airbus Defence and Space", "role": "Customer · ECRS Mk1 integration", "x": 0.1, "y": 0.45, "icon": "plane", "edge": "verified", "label": "Customer"},
+          {"name": "Indra Sistemas", "role": "Partner · ECRS Mk1 consortium", "x": 0.9, "y": 0.45, "icon": "handshake", "edge": "unverified"},
+          {"name": "Diehl Defence", "role": "Customer · TRML-4D for IRIS-T SLM", "x": 0.18, "y": 0.84, "icon": "shield", "edge": "unverified"},
+          {"name": "HENSOLDT Sensors GmbH", "role": "Subsidiary · ECRS Mk1 developer", "x": 0.82, "y": 0.84, "icon": "factory", "edge": "verified", "label": "Subsidiary"}
+        ],
+        "overview": [
+          {"name": "KfW", "role": "Shareholder · 25.1%", "x": 0.25, "y": 0.15, "icon": "landmark", "edge": "verified"},
+          {"name": "Leonardo", "role": "Shareholder · 22.8%", "x": 0.75, "y": 0.15, "icon": "building", "edge": "verified"},
+          {"name": "Airbus DS", "role": "Customer", "x": 0.12, "y": 0.6, "icon": "plane", "edge": "verified"},
+          {"name": "Indra", "role": "Partner", "x": 0.88, "y": 0.6, "icon": "handshake", "edge": "unverified"},
+          {"name": "HENSOLDT Sensors", "role": "Subsidiary", "x": 0.5, "y": 0.9, "icon": "factory", "edge": "verified"}
+        ]
+      },
+      "evidence": [
+        {"claim": "Legal entity HENSOLDT AG, HRB 258711 (Munich), LEI 894500686FYLLZD3M624", "sources": 2, "date": "13 Jul 2026", "status": "Verified", "source": "GLEIF · Annual Report 2025", "href": "https://api.gleif.org/api/v1/lei-records/894500686FYLLZD3M624"},
+        {"claim": "Develops and manufactures radar and IFF systems; TRML-4D is used in IRIS-T SLM", "sources": 1, "date": "26 Mar 2026", "status": "Verified", "source": "Annual Report 2025", "href": "https://investors.hensoldt.net/media/document/e97977da-9a36-49e9-9359-4c1d50332679/assets/Hensoldt_AG_Annual_Report_EN_2025.pdf?disposition=inline"},
+        {"claim": "Design authority for the Eurofighter ECRS Mk1 radar", "sources": 2, "date": "14 Jan 2022", "status": "Verified", "source": "Leonardo · HENSOLDT", "href": "https://www.leonardo.com/en/press-release-detail/-/detail/14-01-2022-%E2%82%AC260m-contracts-will-see-leonardo-play-core-role-in-e-scan-radar-for-german-and-spanish-typhoons"},
+        {"claim": "Group revenue €2,455M in FY2025 (FY2024: €2,240M)", "sources": 1, "date": "26 Mar 2026", "status": "Verified", "source": "Annual Report 2025", "href": "https://investors.hensoldt.net/media/document/e97977da-9a36-49e9-9359-4c1d50332679/assets/Hensoldt_AG_Annual_Report_EN_2025.pdf?disposition=inline"},
+        {"claim": "Shareholders: KfW 25.1%, Leonardo 22.8%, free float about 52.1%", "sources": 1, "date": "31 Dec 2025", "status": "Verified", "source": "Annual Report 2025", "href": "https://investors.hensoldt.net/media/document/e97977da-9a36-49e9-9359-4c1d50332679/assets/Hensoldt_AG_Annual_Report_EN_2025.pdf?disposition=inline"},
+        {"claim": "HENSOLDT Sensors GmbH is a consortium member of EDF 2021 ENGRT", "sources": 1, "date": "2022", "status": "Verified", "source": "European Commission factsheet", "href": "https://defence-industry-space.ec.europa.eu/system/files/2022-07/Factsheet_EDF21_ENGRT.pdf"},
+        {"claim": "Order over €340M for radars for Ukraine's air defence", "sources": 1, "date": "24 Jul 2025", "status": "Supported", "source": "Company press release", "href": "https://www.hensoldt.net/news/hensoldt-strengthens-ukraines-air-defence"},
+        {"claim": "ESSI orders from Diehl Defence, over €100M", "sources": 1, "date": "02 Feb 2026", "status": "Supported", "source": "Company press release", "href": "https://www.hensoldt.net/news/hensoldt-strengthens-air-defence-capabilities-of-european-countries"},
+        {"claim": "Share of defence revenue: not disclosed (reported segments include civil lines)", "sources": 1, "date": "26 Mar 2026", "status": "Unknown", "source": "Annual Report 2025", "href": "https://investors.hensoldt.net/media/document/e97977da-9a36-49e9-9359-4c1d50332679/assets/Hensoldt_AG_Annual_Report_EN_2025.pdf?disposition=inline"},
+        {"claim": "Procurement register records (TED, BAAINBw)", "sources": 0, "date": "20 Nov 2026", "status": "None found yet", "source": "Not found in this pass"}
+      ],
+      "footprint": [
+        ["Taufkirchen", "Headquarters and registered office"],
+        ["Ulm · Oberkochen · Pforzheim · Fürstenfeldbruck", "Main German locations · activity per site not disclosed"],
+        ["Wetzlar · Immenstaad · Kiel · Bremen · Donauwörth", "Other German locations"],
+        ["France · South Africa · United Kingdom", "Larger locations outside Germany"],
+        ["Netherlands", "Two sites via Nedinsco (Venlo)"]
+      ]
+    }
+  }
+}

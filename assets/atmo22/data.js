@@ -19,6 +19,7 @@ export const SOURCES = {
   researchMap: '/atlas/notion-research-map.geojson',
   countries: '/atlas/countries.geojson',
   wire: '/feed/inoreader-source-wire.json',
+  profiles: '/atlas/company-profiles-v1.json',
 };
 
 export async function directory() {
@@ -30,6 +31,13 @@ export async function industry() { return (await getJSON(SOURCES.industry)).comp
 export async function researchMap() { return (await getJSON(SOURCES.researchMap)).features || []; }
 export async function countries() { return (await getJSON(SOURCES.countries)).features || []; }
 export async function wire() { return (await getJSON(SOURCES.wire)).items || []; }
+/* Reviewed reference cards (B4CE). One file for all profiles, so pages without a profile make no extra 404 request. */
+export async function profile(slug) {
+  try {
+    const d = await getJSON(SOURCES.profiles);
+    return d?.schema === 'bohun-company-profile-v1' ? (d.profiles?.[slug] || null) : null;
+  } catch { return null; }
+}
 
 export const isLocalHost = () => ['localhost', '127.0.0.1', '[::1]'].includes(location.hostname);
 export const isDemo = () => isLocalHost() && new URL(location.href).searchParams.get('demo') === '1';
