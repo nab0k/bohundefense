@@ -224,8 +224,7 @@ function programmes(vm, ws) {
   let body;
   if (!list.length) body = empty('briefcase', 'No programme or procurement record has been published for this company. A notice, award, contract and delivery are different claims and are shown only with sources.');
   else if (ws) body = `<ul class="prog-ws">${list.map(p => `<li><span class="prog-ico">${icon(p.icon)}</span><div><b>${esc(p.title)}</b><small>${esc(p.sub)}</small></div><span class="prog-st">${statusDot(p.status)}${esc(p.status)}</span></li>`).join('')}</ul>`;
-  else body = `<div class="filters">${['All', 'Contracts', 'Participations', 'Planned', 'EU', 'International'].map((f, i) => `<button type="button" class="fchip"${i ? '' : ' aria-pressed="true"'}>${f}</button>`).join('')}</div>
-    <ul class="prog-ov">${list.map(p => `<li><span class="tdot tdot-${p.color}"></span><time class="tnum">${esc(p.date)}</time><div><b>${esc(p.title)}</b><small>${esc(p.sub)}</small><p>${esc(p.desc)}</p></div><span class="prog-st">${statusDot(p.status)}${esc(p.status)}</span></li>`).join('')}</ul>`;
+  else body = `<ul class="prog-ov">${list.map(p => `<li><span class="tdot tdot-${p.color}"></span><time class="tnum">${esc(p.date)}</time><div><b>${esc(p.title)}</b><small>${esc(p.sub)}</small><p>${esc(p.desc)}</p></div><span class="prog-st">${statusDot(p.status)}${esc(p.status)}</span></li>`).join('')}</ul>`;
   return panel('programmes', '03', ws ? 'Key programmes & tenders' : 'Programmes & tenders', ws ? 'Selected programmes and procurement activities.' : 'Selected procurement and participation activities.', body, ['View all programmes and tenders', '#']);
 }
 
@@ -243,7 +242,7 @@ function productTree(vm) {
 }
 function productAccordion(vm) {
   const acc = vm.productAccordion;
-  const seg = `<div class="filters">${['By product level', 'By capability', 'By technology', 'All'].map((f, i) => `<button type="button" class="fchip"${i ? '' : ' aria-pressed="true"'}>${f}</button>`).join('')}</div>`;
+  const seg = '';
   const body = seg + (acc.length ? `<div class="acc">${acc.map(g => `<details${g.open ? ' open' : ''}><summary><b class="lvl-tag">${g.level}</b><span class="tdot tdot-${g.dot}"></span><span>${esc(g.title)}</span>${icon('chevron-down', 'ico ico-s acc-chev')}</summary>${g.items ? `<ul>${g.items.map(([n, d, c]) => `<li>${icon('truck', 'ico ico-s')}<b>${esc(n)}</b><small>— ${esc(d)}</small><span class="tdot tdot-${c === 'green' ? 'ok' : c}"></span></li>`).join('')}</ul>` : ''}</details>`).join('')}</div>`
     : `<div class="acc acc-ghost">${TAXONOMY.levels.map(([l, n]) => `<div class="acc-row"><b class="lvl-tag">${l}</b><span>${n}</span></div>`).join('')}</div>${empty('package', 'No evidence-linked products published yet.')}`);
   return panel('products', '', 'Key products & technologies', 'Based on open sources and verified information.', body, ['View full product and technology taxonomy', '/about-project.html#taxonomy']);
@@ -278,8 +277,7 @@ function relationships(vm, ws) {
 function evidence(vm, ws) {
   const list = vm.evidence;
   const f = ws ? ['All claims', 'Company', 'Products', 'Programmes', 'Financials'] : ['All', 'Company info', 'Products', 'Contracts', 'Relationships', 'Financials', 'Other'];
-  const body = `<div class="filters">${f.map((x, i) => `<button type="button" class="fchip"${i ? '' : ' aria-pressed="true"'}>${x}</button>`).join('')}</div>
-    <ul class="evid ${ws ? 'evid-ws' : 'evid-ov'}">${list.map(e => ws
+  const body = `<ul class="evid ${ws ? 'evid-ws' : 'evid-ov'}">${list.map(e => ws
       ? `<li>${/^verified/i.test(e.status) ? icon('circle-check', 'ico ev-ok') : /partial/i.test(e.status) ? icon('circle-alert', 'ico ev-warn') : icon('circle-dot', 'ico ev-neutral')}<div><b>${e.href ? `<a href="${esc(e.href)}" target="_blank" rel="noopener noreferrer">${esc(e.claim)}</a>` : esc(e.claim)}</b><small>${e.sources} source${e.sources === 1 ? '' : 's'}${e.date ? ' · ' + esc(e.date) : ' · ' + esc(e.source)}</small></div>${statusPill(e.status)}</li>`
       : `<li>${statusPill(e.status)}<div><b>${esc(e.claim)}</b><small>${e.sources} source${e.sources === 1 ? '' : 's'}${e.date ? ' · ' + esc(e.date) : ''}</small></div><a class="ev-src" ${e.href ? `href="${esc(e.href)}" target="_blank" rel="noopener noreferrer"` : ''}>${icon('file-text', 'ico ico-s')}${esc(e.source)}</a></li>`).join('')}</ul>
     ${vm.mode === 'profile' ? '<p class="caption">Verified: primary document or independent confirmation. Supported: company statement only. Quotes checked against source text.</p>' : vm.mode !== 'demo' ? '<p class="caption">Provenance of the public record only. No claim-by-claim audit has been published.</p>' : ''}`;
