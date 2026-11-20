@@ -7,104 +7,3972 @@
       "status_label": "Reference card · reviewed 20 Nov 2026",
       "method": "BOHUN B4CE reference card (10 sections, evidence per claim)",
       "website": "https://www.hensoldt.net/",
-      "sectors": ["Defence electronics", "Radar & electronic warfare", "Optronics"],
-      "meta": [["building", "Listed AG · Frankfurt Stock Exchange"], ["shield", "Defence participation L1 · verified (group)"]],
+      "sectors": [
+        "Defence electronics",
+        "Radar & electronic warfare",
+        "Optronics"
+      ],
+      "meta": [
+        [
+          "building",
+          "Listed AG · Frankfurt Stock Exchange"
+        ],
+        [
+          "shield",
+          "Defence participation L1 · verified (group)"
+        ]
+      ],
       "about": {
         "workspace": "HENSOLDT AG is the parent company of the HENSOLDT Group, a German provider of electronic sensor solutions for defence and security. The group develops and manufactures air defence and naval radars (TRML-4D, SPEXER), IFF systems, electronic warfare and self-protection systems, avionics and optronics, and is design authority for the Eurofighter ECRS Mk1 radar. Products are made by group subsidiaries such as HENSOLDT Sensors GmbH. The group also has civil lines: air traffic control radar and precision optics for semiconductor lithography.",
         "overview": "Parent company of the HENSOLDT Group: air defence and naval radars, IFF, electronic warfare, avionics and optronics for armed and security forces. Design authority for the Eurofighter ECRS Mk1 radar. Civil lines include air traffic control radar and lithography optics. About two thirds of 2025 revenue came from Germany."
       },
       "facts": {
-        "workspace": [["Listed AG", "Type"], ["9,362 (31 Dec 2025)", "Employees"], ["€2,455M (FY2025, group)", "Revenue"], ["€8,833M (31 Dec 2025)", "Order backlog"], ["Taufkirchen, Germany", "Headquarters"], ["HRB 258711 · LEI 894500686FYLLZD3M624", "Register"]],
-        "overview": [["9,362", "Employees"], ["€2,455M (FY2025)", "Revenue"], ["Listed AG", "Company type"], ["Taufkirchen", "Headquarters"], ["Germany", "Country"]]
+        "workspace": [
+          [
+            "Listed AG",
+            "Type"
+          ],
+          [
+            "9,362 (31 Dec 2025)",
+            "Employees"
+          ],
+          [
+            "€2,455M (FY2025, group)",
+            "Revenue"
+          ],
+          [
+            "€8,833M (31 Dec 2025)",
+            "Order backlog"
+          ],
+          [
+            "Taufkirchen, Germany",
+            "Headquarters"
+          ],
+          [
+            "HRB 258711 · LEI 894500686FYLLZD3M624",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "9,362",
+            "Employees"
+          ],
+          [
+            "€2,455M (FY2025)",
+            "Revenue"
+          ],
+          [
+            "Listed AG",
+            "Company type"
+          ],
+          [
+            "Taufkirchen",
+            "Headquarters"
+          ],
+          [
+            "Germany",
+            "Country"
+          ]
+        ]
       },
-      "attributes": ["Listed", "Prime & Tier 1", "Defence L1 (group)", "Defence revenue share not disclosed"],
-      "presence": ["Europe", "Middle East", "Asia-Pacific", "North America", "Africa", "Latin America"],
+      "attributes": [
+        "Listed",
+        "Prime & Tier 1",
+        "Defence L1 (group)",
+        "Defence revenue share not disclosed"
+      ],
+      "presence": [
+        "Europe",
+        "Middle East",
+        "Asia-Pacific",
+        "North America",
+        "Africa",
+        "Latin America"
+      ],
       "taxonomy": {
-        "domains": ["AIR", "LAND", "MAR", "SPACE", "CYBER_EM"],
-        "capabilities": ["SENS", "EWCY", "MSL", "PROT", "SERV"],
-        "roles": ["PRIME", "TIER1"],
-        "levels": ["L0", "L1"],
-        "defence": ["DEDICATED"]
+        "domains": [
+          "AIR",
+          "LAND",
+          "MAR",
+          "SPACE",
+          "CYBER_EM"
+        ],
+        "capabilities": [
+          "SENS",
+          "EWCY",
+          "MSL",
+          "PROT",
+          "SERV"
+        ],
+        "roles": [
+          "PRIME",
+          "TIER1"
+        ],
+        "levels": [
+          "L0",
+          "L1"
+        ],
+        "defence": [
+          "DEDICATED"
+        ]
       },
       "developments": [
-        {"date": "19 Nov 2026", "title": "Netherlands and Germany order the Knifefish radio jamming system from HENSOLDT Netherlands", "tags": ["Company release", "Order"], "color": "orange", "href": "https://www.hensoldt.net/news/hensoldt-agrees-industrial-cooperation-in-the-netherlands"},
-        {"date": "31 Jul 2026", "title": "H1 2026: order intake doubles to €2,812M, revenue €1,167M", "tags": ["Company release", "Results"], "color": "blue", "href": "https://www.hensoldt.net/news/hensoldt-doubles-order-intake-in-the-first-half-of-2026-%E2%80%93-revenue-and-earnings-rise-significantly"},
-        {"date": "26 Feb 2026", "title": "FY2025: order intake €4,710M, revenue €2,455M", "tags": ["Company release", "Results"], "color": "blue", "href": "https://www.hensoldt.net/news/financial-year-2025-hensoldt-achieves-record-order-intake-and-confirms-structural-growth-path"},
-        {"date": "02 Feb 2026", "title": "ESSI orders from Diehl Defence for TRML-4D radars, over €100M", "tags": ["Company release", "Order"], "color": "orange", "href": "https://www.hensoldt.net/news/hensoldt-strengthens-air-defence-capabilities-of-european-countries"},
-        {"date": "24 Jul 2025", "title": "Order over €340M for TRML-4D and SPEXER radars for Ukraine's air defence", "tags": ["Company release", "Order"], "color": "orange", "href": "https://www.hensoldt.net/news/hensoldt-strengthens-ukraines-air-defence"},
-        {"date": "14 Feb 2025", "title": "Eurofighter ECRS Mk1 radar: contract extension of about €350M", "tags": ["Company release", "Contract"], "color": "orange", "href": "https://www.hensoldt.net/news/hensoldt-receives-350-million-euro-contract-extension-for-the-eurofighter-radar"}
+        {
+          "date": "19 Nov 2026",
+          "title": "Netherlands and Germany order the Knifefish radio jamming system from HENSOLDT Netherlands",
+          "tags": [
+            "Company release",
+            "Order"
+          ],
+          "color": "orange",
+          "href": "https://www.hensoldt.net/news/hensoldt-agrees-industrial-cooperation-in-the-netherlands"
+        },
+        {
+          "date": "31 Jul 2026",
+          "title": "H1 2026: order intake doubles to €2,812M, revenue €1,167M",
+          "tags": [
+            "Company release",
+            "Results"
+          ],
+          "color": "blue",
+          "href": "https://www.hensoldt.net/news/hensoldt-doubles-order-intake-in-the-first-half-of-2026-%E2%80%93-revenue-and-earnings-rise-significantly"
+        },
+        {
+          "date": "26 Feb 2026",
+          "title": "FY2025: order intake €4,710M, revenue €2,455M",
+          "tags": [
+            "Company release",
+            "Results"
+          ],
+          "color": "blue",
+          "href": "https://www.hensoldt.net/news/financial-year-2025-hensoldt-achieves-record-order-intake-and-confirms-structural-growth-path"
+        },
+        {
+          "date": "02 Feb 2026",
+          "title": "ESSI orders from Diehl Defence for TRML-4D radars, over €100M",
+          "tags": [
+            "Company release",
+            "Order"
+          ],
+          "color": "orange",
+          "href": "https://www.hensoldt.net/news/hensoldt-strengthens-air-defence-capabilities-of-european-countries"
+        },
+        {
+          "date": "24 Jul 2025",
+          "title": "Order over €340M for TRML-4D and SPEXER radars for Ukraine's air defence",
+          "tags": [
+            "Company release",
+            "Order"
+          ],
+          "color": "orange",
+          "href": "https://www.hensoldt.net/news/hensoldt-strengthens-ukraines-air-defence"
+        },
+        {
+          "date": "14 Feb 2025",
+          "title": "Eurofighter ECRS Mk1 radar: contract extension of about €350M",
+          "tags": [
+            "Company release",
+            "Contract"
+          ],
+          "color": "orange",
+          "href": "https://www.hensoldt.net/news/hensoldt-receives-350-million-euro-contract-extension-for-the-eurofighter-radar"
+        }
       ],
       "programmes": {
         "workspace": [
-          {"title": "Eurofighter ECRS Mk1 radar", "sub": "Development · Airbus DS for Germany and Spain · ~€350M extension (2025)", "status": "Contract extension", "icon": "plane"},
-          {"title": "TRML-4D / SPEXER for Ukraine", "sub": "Order · Ukraine air defence · over €340M (2025)", "status": "Order announced", "icon": "shield"},
-          {"title": "ESSI · TRML-4D for IRIS-T SLM", "sub": "Order · Diehl Defence · over €100M (2026)", "status": "Order announced", "icon": "crosshair"},
-          {"title": "Knifefish radio jamming", "sub": "Order · Netherlands and Germany · HENSOLDT Netherlands (2026)", "status": "Order placed", "icon": "radio"},
-          {"title": "EDF 2021 ENGRT rotorcraft study", "sub": "EU European Defence Fund · consortium member", "status": "Selected for EU funding", "icon": "landmark"}
+          {
+            "title": "Eurofighter ECRS Mk1 radar",
+            "sub": "Development · Airbus DS for Germany and Spain · ~€350M extension (2025)",
+            "status": "Contract extension",
+            "icon": "plane"
+          },
+          {
+            "title": "TRML-4D / SPEXER for Ukraine",
+            "sub": "Order · Ukraine air defence · over €340M (2025)",
+            "status": "Order announced",
+            "icon": "shield"
+          },
+          {
+            "title": "ESSI · TRML-4D for IRIS-T SLM",
+            "sub": "Order · Diehl Defence · over €100M (2026)",
+            "status": "Order announced",
+            "icon": "crosshair"
+          },
+          {
+            "title": "Knifefish radio jamming",
+            "sub": "Order · Netherlands and Germany · HENSOLDT Netherlands (2026)",
+            "status": "Order placed",
+            "icon": "radio"
+          },
+          {
+            "title": "EDF 2021 ENGRT rotorcraft study",
+            "sub": "EU European Defence Fund · consortium member",
+            "status": "Selected for EU funding",
+            "icon": "landmark"
+          }
         ],
         "overview": [
-          {"color": "orange", "date": "19 Nov 2026", "title": "Knifefish", "sub": "Order · Netherlands and Germany", "desc": "Order for the radio jamming system placed with HENSOLDT Netherlands, the programme's prime contractor. Value not disclosed.", "status": "Order placed"},
-          {"color": "orange", "date": "02 Feb 2026", "title": "ESSI · TRML-4D", "sub": "Order · Diehl Defence", "desc": "TRML-4D radars with maintenance and training for IRIS-T SLM in several European countries, over €100M.", "status": "Order announced"},
-          {"color": "orange", "date": "24 Jul 2025", "title": "Ukraine air defence radars", "sub": "Order · Ukraine", "desc": "TRML-4D and SPEXER 2000 3D MkIII radars, order package over €340M. Customer not named in the release.", "status": "Order announced"},
-          {"color": "blue", "date": "14 Feb 2025", "title": "Eurofighter ECRS Mk1", "sub": "Contract extension · Airbus Defence and Space", "desc": "Further development tasks worth about €350M after approval by the German and Spanish defence ministries. Radar developed by HENSOLDT Sensors GmbH with Indra.", "status": "Contract extension"},
-          {"color": "grey", "date": "2022", "title": "EDF 2021 ENGRT", "sub": "European Defence Fund · study", "desc": "HENSOLDT Sensors GmbH and HENSOLDT France SAS listed as consortium members of the next-generation military rotorcraft project. HENSOLDT's share not stated.", "status": "Selected for EU funding"}
+          {
+            "color": "orange",
+            "date": "19 Nov 2026",
+            "title": "Knifefish",
+            "sub": "Order · Netherlands and Germany",
+            "desc": "Order for the radio jamming system placed with HENSOLDT Netherlands, the programme's prime contractor. Value not disclosed.",
+            "status": "Order placed"
+          },
+          {
+            "color": "orange",
+            "date": "02 Feb 2026",
+            "title": "ESSI · TRML-4D",
+            "sub": "Order · Diehl Defence",
+            "desc": "TRML-4D radars with maintenance and training for IRIS-T SLM in several European countries, over €100M.",
+            "status": "Order announced"
+          },
+          {
+            "color": "orange",
+            "date": "24 Jul 2025",
+            "title": "Ukraine air defence radars",
+            "sub": "Order · Ukraine",
+            "desc": "TRML-4D and SPEXER 2000 3D MkIII radars, order package over €340M. Customer not named in the release.",
+            "status": "Order announced"
+          },
+          {
+            "color": "blue",
+            "date": "14 Feb 2025",
+            "title": "Eurofighter ECRS Mk1",
+            "sub": "Contract extension · Airbus Defence and Space",
+            "desc": "Further development tasks worth about €350M after approval by the German and Spanish defence ministries. Radar developed by HENSOLDT Sensors GmbH with Indra.",
+            "status": "Contract extension"
+          },
+          {
+            "color": "grey",
+            "date": "2022",
+            "title": "EDF 2021 ENGRT",
+            "sub": "European Defence Fund · study",
+            "desc": "HENSOLDT Sensors GmbH and HENSOLDT France SAS listed as consortium members of the next-generation military rotorcraft project. HENSOLDT's share not stated.",
+            "status": "Selected for EU funding"
+          }
         ]
       },
       "productTree": [
-        {"label": "TRML-4D air defence radar", "level": "L0", "selected": true, "icon": "crosshair"},
-        {"label": "SPEXER 2000 3D MkIII short-range radar", "level": "L0", "icon": "crosshair"},
-        {"label": "Knifefish radio jamming system", "level": "L0", "icon": "radio"},
-        {"label": "Eurofighter ECRS Mk1 radar", "level": "L1", "icon": "plane"},
-        {"label": "Praetorian self-protection (further development)", "level": "L1", "icon": "shield"}
+        {
+          "label": "TRML-4D air defence radar",
+          "level": "L0",
+          "selected": true,
+          "icon": "crosshair"
+        },
+        {
+          "label": "SPEXER 2000 3D MkIII short-range radar",
+          "level": "L0",
+          "icon": "crosshair"
+        },
+        {
+          "label": "Knifefish radio jamming system",
+          "level": "L0",
+          "icon": "radio"
+        },
+        {
+          "label": "Eurofighter ECRS Mk1 radar",
+          "level": "L1",
+          "icon": "plane"
+        },
+        {
+          "label": "Praetorian self-protection (further development)",
+          "level": "L1",
+          "icon": "shield"
+        }
       ],
       "productAccordion": [
-        {"level": "L0", "title": "Radar & electronic warfare systems", "dot": "orange", "open": true, "items": [["TRML-4D", "AESA air defence radar, used in IRIS-T SLM", "green"], ["SPEXER 2000 3D MkIII", "Short-range surveillance radar", "green"], ["Knifefish", "Radio jamming system", "green"], ["Twinvis", "Passive radar", "grey"]]},
-        {"level": "L1", "title": "Platform subsystems", "dot": "blue", "open": true, "items": [["ECRS Mk1", "E-scan radar for Eurofighter", "green"], ["Praetorian", "Eurofighter self-protection system", "green"], ["Self-protection suites", "Missile, laser and radar warning with countermeasures", "green"]]},
-        {"level": "L0", "title": "Optronics", "dot": "blue", "open": false, "items": [["Ground optronics", "Sights, rangefinders, night vision, thermal imagers", "green"], ["Submarine optronics", "Optronic masts and periscopes", "green"], ["Space optics", "Optics for space missions", "green"]]},
-        {"level": "L2", "title": "Civil lines", "dot": "grey", "open": false, "items": [["Lithography optics", "Precision optics for semiconductor manufacturing", "grey"], ["Air traffic management", "ATC and weather radar, navigation, runway lighting", "grey"]]}
+        {
+          "level": "L0",
+          "title": "Radar & electronic warfare systems",
+          "dot": "orange",
+          "open": true,
+          "items": [
+            [
+              "TRML-4D",
+              "AESA air defence radar, used in IRIS-T SLM",
+              "green"
+            ],
+            [
+              "SPEXER 2000 3D MkIII",
+              "Short-range surveillance radar",
+              "green"
+            ],
+            [
+              "Knifefish",
+              "Radio jamming system",
+              "green"
+            ],
+            [
+              "Twinvis",
+              "Passive radar",
+              "grey"
+            ]
+          ]
+        },
+        {
+          "level": "L1",
+          "title": "Platform subsystems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "ECRS Mk1",
+              "E-scan radar for Eurofighter",
+              "green"
+            ],
+            [
+              "Praetorian",
+              "Eurofighter self-protection system",
+              "green"
+            ],
+            [
+              "Self-protection suites",
+              "Missile, laser and radar warning with countermeasures",
+              "green"
+            ]
+          ]
+        },
+        {
+          "level": "L0",
+          "title": "Optronics",
+          "dot": "blue",
+          "open": false,
+          "items": [
+            [
+              "Ground optronics",
+              "Sights, rangefinders, night vision, thermal imagers",
+              "green"
+            ],
+            [
+              "Submarine optronics",
+              "Optronic masts and periscopes",
+              "green"
+            ],
+            [
+              "Space optics",
+              "Optics for space missions",
+              "green"
+            ]
+          ]
+        },
+        {
+          "level": "L2",
+          "title": "Civil lines",
+          "dot": "grey",
+          "open": false,
+          "items": [
+            [
+              "Lithography optics",
+              "Precision optics for semiconductor manufacturing",
+              "grey"
+            ],
+            [
+              "Air traffic management",
+              "ATC and weather radar, navigation, runway lighting",
+              "grey"
+            ]
+          ]
+        }
       ],
       "technologies": [
-        ["AESA radar", "T.SENS", "L0 · L1", "#e8a000"],
-        ["Electronic warfare and jamming", "T.EWC", "L0 · L1", "#b06a2c"],
-        ["Optronics and thermal imaging", "T.SENS", "L0 · L2", "#49658c"],
-        ["Space optics", "T.SPC", "L2", "#3b82d6"],
-        ["Data fusion, AI and cyber security (stated R&D focus)", "T.AI", "—", "#8b90a3"]
+        [
+          "AESA radar",
+          "T.SENS",
+          "L0 · L1",
+          "#e8a000"
+        ],
+        [
+          "Electronic warfare and jamming",
+          "T.EWC",
+          "L0 · L1",
+          "#b06a2c"
+        ],
+        [
+          "Optronics and thermal imaging",
+          "T.SENS",
+          "L0 · L2",
+          "#49658c"
+        ],
+        [
+          "Space optics",
+          "T.SPC",
+          "L2",
+          "#3b82d6"
+        ],
+        [
+          "Data fusion, AI and cyber security (stated R&D focus)",
+          "T.AI",
+          "—",
+          "#8b90a3"
+        ]
       ],
       "relationships": {
         "workspace": [
-          {"name": "KfW (Federal Republic of Germany)", "role": "Shareholder · 25.1%", "x": 0.28, "y": 0.12, "icon": "landmark", "edge": "verified", "label": "Shareholder"},
-          {"name": "Leonardo S.p.A.", "role": "Shareholder 22.8% · customer and supplier", "x": 0.72, "y": 0.12, "icon": "building", "edge": "verified", "label": "Shareholder"},
-          {"name": "Airbus Defence and Space", "role": "Customer · ECRS Mk1 integration", "x": 0.1, "y": 0.45, "icon": "plane", "edge": "verified", "label": "Customer"},
-          {"name": "Indra Sistemas", "role": "Partner · ECRS Mk1 consortium", "x": 0.9, "y": 0.45, "icon": "handshake", "edge": "unverified"},
-          {"name": "Diehl Defence", "role": "Customer · TRML-4D for IRIS-T SLM", "x": 0.18, "y": 0.84, "icon": "shield", "edge": "unverified"},
-          {"name": "HENSOLDT Sensors GmbH", "role": "Subsidiary · ECRS Mk1 developer", "x": 0.82, "y": 0.84, "icon": "factory", "edge": "verified", "label": "Subsidiary"}
+          {
+            "name": "KfW (Federal Republic of Germany)",
+            "role": "Shareholder · 25.1%",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified",
+            "label": "Shareholder"
+          },
+          {
+            "name": "Leonardo S.p.A.",
+            "role": "Shareholder 22.8% · customer and supplier",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "building",
+            "edge": "verified",
+            "label": "Shareholder"
+          },
+          {
+            "name": "Airbus Defence and Space",
+            "role": "Customer · ECRS Mk1 integration",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "plane",
+            "edge": "verified",
+            "label": "Customer"
+          },
+          {
+            "name": "Indra Sistemas",
+            "role": "Partner · ECRS Mk1 consortium",
+            "x": 0.9,
+            "y": 0.45,
+            "icon": "handshake",
+            "edge": "unverified"
+          },
+          {
+            "name": "Diehl Defence",
+            "role": "Customer · TRML-4D for IRIS-T SLM",
+            "x": 0.18,
+            "y": 0.84,
+            "icon": "shield",
+            "edge": "unverified"
+          },
+          {
+            "name": "HENSOLDT Sensors GmbH",
+            "role": "Subsidiary · ECRS Mk1 developer",
+            "x": 0.82,
+            "y": 0.84,
+            "icon": "factory",
+            "edge": "verified",
+            "label": "Subsidiary"
+          }
         ],
         "overview": [
-          {"name": "KfW", "role": "Shareholder · 25.1%", "x": 0.25, "y": 0.15, "icon": "landmark", "edge": "verified"},
-          {"name": "Leonardo", "role": "Shareholder · 22.8%", "x": 0.75, "y": 0.15, "icon": "building", "edge": "verified"},
-          {"name": "Airbus DS", "role": "Customer", "x": 0.12, "y": 0.6, "icon": "plane", "edge": "verified"},
-          {"name": "Indra", "role": "Partner", "x": 0.88, "y": 0.6, "icon": "handshake", "edge": "unverified"},
-          {"name": "HENSOLDT Sensors", "role": "Subsidiary", "x": 0.5, "y": 0.9, "icon": "factory", "edge": "verified"}
+          {
+            "name": "KfW",
+            "role": "Shareholder · 25.1%",
+            "x": 0.25,
+            "y": 0.15,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Leonardo",
+            "role": "Shareholder · 22.8%",
+            "x": 0.75,
+            "y": 0.15,
+            "icon": "building",
+            "edge": "verified"
+          },
+          {
+            "name": "Airbus DS",
+            "role": "Customer",
+            "x": 0.12,
+            "y": 0.6,
+            "icon": "plane",
+            "edge": "verified"
+          },
+          {
+            "name": "Indra",
+            "role": "Partner",
+            "x": 0.88,
+            "y": 0.6,
+            "icon": "handshake",
+            "edge": "unverified"
+          },
+          {
+            "name": "HENSOLDT Sensors",
+            "role": "Subsidiary",
+            "x": 0.5,
+            "y": 0.9,
+            "icon": "factory",
+            "edge": "verified"
+          }
         ]
       },
       "evidence": [
-        {"claim": "Legal entity HENSOLDT AG, HRB 258711 (Munich), LEI 894500686FYLLZD3M624", "sources": 2, "date": "13 Jul 2026", "status": "Verified", "source": "GLEIF · Annual Report 2025", "href": "https://api.gleif.org/api/v1/lei-records/894500686FYLLZD3M624"},
-        {"claim": "Develops and manufactures radar and IFF systems; TRML-4D is used in IRIS-T SLM", "sources": 1, "date": "26 Mar 2026", "status": "Verified", "source": "Annual Report 2025", "href": "https://investors.hensoldt.net/media/document/e97977da-9a36-49e9-9359-4c1d50332679/assets/Hensoldt_AG_Annual_Report_EN_2025.pdf?disposition=inline"},
-        {"claim": "Design authority for the Eurofighter ECRS Mk1 radar", "sources": 2, "date": "14 Jan 2022", "status": "Verified", "source": "Leonardo · HENSOLDT", "href": "https://www.leonardo.com/en/press-release-detail/-/detail/14-01-2022-%E2%82%AC260m-contracts-will-see-leonardo-play-core-role-in-e-scan-radar-for-german-and-spanish-typhoons"},
-        {"claim": "Group revenue €2,455M in FY2025 (FY2024: €2,240M)", "sources": 1, "date": "26 Mar 2026", "status": "Verified", "source": "Annual Report 2025", "href": "https://investors.hensoldt.net/media/document/e97977da-9a36-49e9-9359-4c1d50332679/assets/Hensoldt_AG_Annual_Report_EN_2025.pdf?disposition=inline"},
-        {"claim": "Shareholders: KfW 25.1%, Leonardo 22.8%, free float about 52.1%", "sources": 1, "date": "31 Dec 2025", "status": "Verified", "source": "Annual Report 2025", "href": "https://investors.hensoldt.net/media/document/e97977da-9a36-49e9-9359-4c1d50332679/assets/Hensoldt_AG_Annual_Report_EN_2025.pdf?disposition=inline"},
-        {"claim": "HENSOLDT Sensors GmbH is a consortium member of EDF 2021 ENGRT", "sources": 1, "date": "2022", "status": "Verified", "source": "European Commission factsheet", "href": "https://defence-industry-space.ec.europa.eu/system/files/2022-07/Factsheet_EDF21_ENGRT.pdf"},
-        {"claim": "Order over €340M for radars for Ukraine's air defence", "sources": 1, "date": "24 Jul 2025", "status": "Supported", "source": "Company press release", "href": "https://www.hensoldt.net/news/hensoldt-strengthens-ukraines-air-defence"},
-        {"claim": "ESSI orders from Diehl Defence, over €100M", "sources": 1, "date": "02 Feb 2026", "status": "Supported", "source": "Company press release", "href": "https://www.hensoldt.net/news/hensoldt-strengthens-air-defence-capabilities-of-european-countries"},
-        {"claim": "Share of defence revenue: not disclosed (reported segments include civil lines)", "sources": 1, "date": "26 Mar 2026", "status": "Unknown", "source": "Annual Report 2025", "href": "https://investors.hensoldt.net/media/document/e97977da-9a36-49e9-9359-4c1d50332679/assets/Hensoldt_AG_Annual_Report_EN_2025.pdf?disposition=inline"},
-        {"claim": "Procurement register records (TED, BAAINBw)", "sources": 0, "date": "20 Nov 2026", "status": "None found yet", "source": "Not found in this pass"}
+        {
+          "claim": "Legal entity HENSOLDT AG, HRB 258711 (Munich), LEI 894500686FYLLZD3M624",
+          "sources": 2,
+          "date": "13 Jul 2026",
+          "status": "Verified",
+          "source": "GLEIF · Annual Report 2025",
+          "href": "https://api.gleif.org/api/v1/lei-records/894500686FYLLZD3M624"
+        },
+        {
+          "claim": "Develops and manufactures radar and IFF systems; TRML-4D is used in IRIS-T SLM",
+          "sources": 1,
+          "date": "26 Mar 2026",
+          "status": "Verified",
+          "source": "Annual Report 2025",
+          "href": "https://investors.hensoldt.net/media/document/e97977da-9a36-49e9-9359-4c1d50332679/assets/Hensoldt_AG_Annual_Report_EN_2025.pdf?disposition=inline"
+        },
+        {
+          "claim": "Design authority for the Eurofighter ECRS Mk1 radar",
+          "sources": 2,
+          "date": "14 Jan 2022",
+          "status": "Verified",
+          "source": "Leonardo · HENSOLDT",
+          "href": "https://www.leonardo.com/en/press-release-detail/-/detail/14-01-2022-%E2%82%AC260m-contracts-will-see-leonardo-play-core-role-in-e-scan-radar-for-german-and-spanish-typhoons"
+        },
+        {
+          "claim": "Group revenue €2,455M in FY2025 (FY2024: €2,240M)",
+          "sources": 1,
+          "date": "26 Mar 2026",
+          "status": "Verified",
+          "source": "Annual Report 2025",
+          "href": "https://investors.hensoldt.net/media/document/e97977da-9a36-49e9-9359-4c1d50332679/assets/Hensoldt_AG_Annual_Report_EN_2025.pdf?disposition=inline"
+        },
+        {
+          "claim": "Shareholders: KfW 25.1%, Leonardo 22.8%, free float about 52.1%",
+          "sources": 1,
+          "date": "31 Dec 2025",
+          "status": "Verified",
+          "source": "Annual Report 2025",
+          "href": "https://investors.hensoldt.net/media/document/e97977da-9a36-49e9-9359-4c1d50332679/assets/Hensoldt_AG_Annual_Report_EN_2025.pdf?disposition=inline"
+        },
+        {
+          "claim": "HENSOLDT Sensors GmbH is a consortium member of EDF 2021 ENGRT",
+          "sources": 1,
+          "date": "2022",
+          "status": "Verified",
+          "source": "European Commission factsheet",
+          "href": "https://defence-industry-space.ec.europa.eu/system/files/2022-07/Factsheet_EDF21_ENGRT.pdf"
+        },
+        {
+          "claim": "Order over €340M for radars for Ukraine's air defence",
+          "sources": 1,
+          "date": "24 Jul 2025",
+          "status": "Supported",
+          "source": "Company press release",
+          "href": "https://www.hensoldt.net/news/hensoldt-strengthens-ukraines-air-defence"
+        },
+        {
+          "claim": "ESSI orders from Diehl Defence, over €100M",
+          "sources": 1,
+          "date": "02 Feb 2026",
+          "status": "Supported",
+          "source": "Company press release",
+          "href": "https://www.hensoldt.net/news/hensoldt-strengthens-air-defence-capabilities-of-european-countries"
+        },
+        {
+          "claim": "Share of defence revenue: not disclosed (reported segments include civil lines)",
+          "sources": 1,
+          "date": "26 Mar 2026",
+          "status": "Unknown",
+          "source": "Annual Report 2025",
+          "href": "https://investors.hensoldt.net/media/document/e97977da-9a36-49e9-9359-4c1d50332679/assets/Hensoldt_AG_Annual_Report_EN_2025.pdf?disposition=inline"
+        },
+        {
+          "claim": "Procurement register records (TED, BAAINBw)",
+          "sources": 0,
+          "date": "20 Nov 2026",
+          "status": "None found yet",
+          "source": "Not found in this pass"
+        }
       ],
       "footprint": [
-        ["Taufkirchen", "Headquarters and registered office"],
-        ["Ulm · Oberkochen · Pforzheim · Fürstenfeldbruck", "Main German locations · activity per site not disclosed"],
-        ["Wetzlar · Immenstaad · Kiel · Bremen · Donauwörth", "Other German locations"],
-        ["France · South Africa · United Kingdom", "Larger locations outside Germany"],
-        ["Netherlands", "Two sites via Nedinsco (Venlo)"]
+        [
+          "Taufkirchen",
+          "Headquarters and registered office"
+        ],
+        [
+          "Ulm · Oberkochen · Pforzheim · Fürstenfeldbruck",
+          "Main German locations · activity per site not disclosed"
+        ],
+        [
+          "Wetzlar · Immenstaad · Kiel · Bremen · Donauwörth",
+          "Other German locations"
+        ],
+        [
+          "France · South Africa · United Kingdom",
+          "Larger locations outside Germany"
+        ],
+        [
+          "Netherlands",
+          "Two sites via Nedinsco (Venlo)"
+        ]
+      ],
+      "country": "DE"
+    },
+    "rheinmetall-ag": {
+      "developments": [
+        {
+          "date": "08 Apr 2022",
+          "title": "UK Boxer programme boosted to 623 vehicles, UK production via RBSL",
+          "tags": [
+            "GOV.UK"
+          ],
+          "color": "blue",
+          "href": "https://www.gov.uk/government/news/100-extra-boxer-vehicles-for-the-british-army"
+        },
+        {
+          "date": "11 Mar 2026",
+          "title": "Consolidated sales €9,935M in 2025 (2024: €7,715M)",
+          "tags": [
+            "Company results release"
+          ],
+          "color": "blue",
+          "href": "https://www.rheinmetall.com/en/media/news-watch/news/2026/03/2026-03-11-rheinmetall-presents-annual-report-for-2025"
+        },
+        {
+          "date": "11 Mar 2026",
+          "title": "Share of defence revenue: not disclosed as a figure",
+          "tags": [
+            "Company results release"
+          ],
+          "color": "blue",
+          "href": "https://www.rheinmetall.com/en/media/news-watch/news/2026/03/2026-03-11-rheinmetall-presents-annual-report-for-2025"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-20",
+      "status_label": "Reviewed card · 20 Nov 2026",
+      "method": "BOHUN B4CE-03 card (10 sections, evidence per claim)",
+      "website": "https://www.rheinmetall.com/en",
+      "sectors": [
+        "Land systems",
+        "Weapons & ammunition",
+        "Defence electronics"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L1 · verified (group)"
+        ]
+      ],
+      "about": {
+        "workspace": "Rheinmetall AG is the parent company of a German defence group. In 2025 it reported consolidated sales of €9,935 million from continuing operations, after classifying its civilian automotive business as discontinued. Divisions include Vehicle Systems (military wheeled and tracked vehicles such as Boxer), Weapon and Ammunition, and Electronic Solutions; the group has also entered the naval domain through the acquisition of shipbuilder NVL.",
+        "overview": "Rheinmetall AG is the parent company of a German defence group. In 2025 it reported consolidated sales of €9,935 million from continuing operations, after classifying its civilian automotive business as discontinued. Divisions include Vehicle Systems (military wheeled and tracked vehicles such as Boxer), Weapon and Ammunition, and Electronic Solutions; the group has also entered the naval domain through the acquisition of shipbuilder NVL."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Listed AG",
+            "Type"
+          ],
+          [
+            "€9,935M (FY2025, group)",
+            "Revenue"
+          ],
+          [
+            "€63.8bn (end 2025)",
+            "Order backlog"
+          ],
+          [
+            "Düsseldorf, Germany",
+            "Headquarters"
+          ],
+          [
+            "HRB 39401 · LEI 5299001OU9CSE29O6S05",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Listed AG",
+            "Type"
+          ],
+          [
+            "€9,935M (FY2025, group)",
+            "Revenue"
+          ],
+          [
+            "Düsseldorf, Germany",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Listed",
+        "Prime",
+        "Defence L1 (group)"
+      ],
+      "taxonomy": {
+        "domains": [
+          "LAND",
+          "AIR",
+          "MAR"
+        ],
+        "capabilities": [
+          "PLAT",
+          "WPN",
+          "SENS"
+        ],
+        "roles": [
+          "PRIME"
+        ],
+        "levels": [
+          "L0"
+        ],
+        "defence": [
+          "DEDICATED"
+        ]
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Boxer for the British Army",
+            "sub": "Programme expanded to 623 vehicles · UK production via RBSL (2022)",
+            "status": "Contract (customer statement)",
+            "icon": "truck",
+            "date": "08 Apr 2022",
+            "desc": "Programme expanded to 623 vehicles · UK production via RBSL (2022)",
+            "color": "orange"
+          },
+          {
+            "title": "Order backlog €63.8bn",
+            "sub": "Group backlog at end of 2025",
+            "status": "Reported",
+            "icon": "briefcase",
+            "date": "11 Mar 2026",
+            "desc": "Group backlog at end of 2025",
+            "color": "blue"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Boxer for the British Army",
+            "sub": "Programme expanded to 623 vehicles · UK production via RBSL (2022)",
+            "status": "Contract (customer statement)",
+            "icon": "truck",
+            "date": "08 Apr 2022",
+            "desc": "Programme expanded to 623 vehicles · UK production via RBSL (2022)",
+            "color": "orange"
+          },
+          {
+            "title": "Order backlog €63.8bn",
+            "sub": "Group backlog at end of 2025",
+            "status": "Reported",
+            "icon": "briefcase",
+            "date": "11 Mar 2026",
+            "desc": "Group backlog at end of 2025",
+            "color": "blue"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "Boxer wheeled armoured vehicle",
+          "level": "L0",
+          "icon": "truck",
+          "selected": true
+        },
+        {
+          "label": "Military wheeled and tracked vehicles",
+          "level": "L0",
+          "icon": "truck"
+        },
+        {
+          "label": "Weapons, ammunition and protection systems",
+          "level": "L0",
+          "icon": "crosshair"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Boxer wheeled armoured vehicle",
+              "Wheeled armoured vehicle (UK MIV variant)",
+              "green"
+            ],
+            [
+              "Military wheeled and tracked vehicles",
+              "Vehicle Systems division",
+              "green"
+            ],
+            [
+              "Weapons, ammunition and protection systems",
+              "Weapon and Ammunition division",
+              "green"
+            ]
+          ]
+        }
+      ],
+      "technologies": [
+        [
+          "Armoured vehicles",
+          "LAND",
+          "L0",
+          "#b06a2c"
+        ],
+        [
+          "Ammunition",
+          "LAND",
+          "L0",
+          "#e8a000"
+        ],
+        [
+          "Drones and satellite technology (stated growth area)",
+          "T.AUTO",
+          "—",
+          "#8b90a3"
+        ]
+      ],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "UK Ministry of Defence",
+            "role": "Customer · Boxer",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "BAE Systems",
+            "role": "Joint venture partner in RBSL",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "handshake",
+            "edge": "unverified"
+          },
+          {
+            "name": "NVL",
+            "role": "Acquired naval shipbuilder",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "ship",
+            "edge": "unverified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "UK Ministry of Defence",
+            "role": "Customer · Boxer",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "BAE Systems",
+            "role": "Joint venture partner in RBSL",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "handshake",
+            "edge": "unverified"
+          },
+          {
+            "name": "NVL",
+            "role": "Acquired naval shipbuilder",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "ship",
+            "edge": "unverified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Rheinmetall Aktiengesellschaft, HRB 39401",
+          "sources": 1,
+          "date": "20 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/5299001OU9CSE29O6S05"
+        },
+        {
+          "claim": "UK Boxer programme boosted to 623 vehicles, UK production via RBSL",
+          "sources": 1,
+          "date": "08 Apr 2022",
+          "status": "Verified",
+          "source": "GOV.UK",
+          "href": "https://www.gov.uk/government/news/100-extra-boxer-vehicles-for-the-british-army"
+        },
+        {
+          "claim": "Consolidated sales €9,935M in 2025 (2024: €7,715M)",
+          "sources": 1,
+          "date": "11 Mar 2026",
+          "status": "Supported",
+          "source": "Company results release",
+          "href": "https://www.rheinmetall.com/en/media/news-watch/news/2026/03/2026-03-11-rheinmetall-presents-annual-report-for-2025"
+        },
+        {
+          "claim": "Share of defence revenue: not disclosed as a figure",
+          "sources": 1,
+          "date": "11 Mar 2026",
+          "status": "Unknown",
+          "source": "Company results release",
+          "href": "https://www.rheinmetall.com/en/media/news-watch/news/2026/03/2026-03-11-rheinmetall-presents-annual-report-for-2025"
+        }
+      ],
+      "footprint": [
+        [
+          "Düsseldorf",
+          "Registered office"
+        ],
+        [
+          "Telford (UK)",
+          "Boxer production via RBSL"
+        ]
+      ]
+    },
+    "indra-sistemas-sa": {
+      "developments": [
+        {
+          "date": "14 Feb 2025",
+          "title": "ECRS Mk1 radar developed by HENSOLDT Sensors GmbH and Indra Sistemas S.A.",
+          "tags": [
+            "HENSOLDT (partner)"
+          ],
+          "color": "blue",
+          "href": "https://www.hensoldt.net/news/hensoldt-receives-350-million-euro-contract-extension-for-the-eurofighter-radar"
+        },
+        {
+          "date": "25 Feb 2026",
+          "title": "Defence segment revenue €1,407M of €5,457M group revenue in 2025",
+          "tags": [
+            "Company results release"
+          ],
+          "color": "blue",
+          "href": "https://www.indragroup.com/cms-content/2026/02/260225-PR-Indra-Group-Results-2025-1.pdf"
+        }
+      ],
+      "country": "ES",
+      "reviewed": "2026-11-20",
+      "status_label": "Reviewed card · 20 Nov 2026",
+      "method": "BOHUN B4CE-03 card (10 sections, evidence per claim)",
+      "website": "https://www.indracompany.com",
+      "sectors": [
+        "Defence",
+        "Air traffic management",
+        "Mobility & IT"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L1 · verified"
+        ]
+      ],
+      "about": {
+        "workspace": "Indra Sistemas, S.A. is a Spanish technology group with four businesses: Defence, air traffic management (ATM), Mobility and IT (Minsait). With HENSOLDT Sensors it developed the Eurofighter ECRS Mk1 radar. In 2025 the Defence segment reported revenue of €1,407 million out of €5,457 million for the group, about 26%; the Defence backlog stood at €11.3 billion.",
+        "overview": "Indra Sistemas, S.A. is a Spanish technology group with four businesses: Defence, air traffic management (ATM), Mobility and IT (Minsait). With HENSOLDT Sensors it developed the Eurofighter ECRS Mk1 radar. In 2025 the Defence segment reported revenue of €1,407 million out of €5,457 million for the group, about 26%; the Defence backlog stood at €11.3 billion."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Listed S.A.",
+            "Type"
+          ],
+          [
+            "€5,457M (FY2025, group)",
+            "Revenue"
+          ],
+          [
+            "€1,407M (FY2025, ~26%)",
+            "Defence revenue"
+          ],
+          [
+            "Alcobendas, Spain",
+            "Headquarters"
+          ],
+          [
+            "LEI 95980020140005308793",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Listed S.A.",
+            "Type"
+          ],
+          [
+            "€5,457M (FY2025, group)",
+            "Revenue"
+          ],
+          [
+            "Alcobendas, Spain",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Listed",
+        "Defence ~26% of revenue",
+        "Defence L1"
+      ],
+      "taxonomy": {
+        "domains": [
+          "AIR",
+          "LAND",
+          "SPACE"
+        ],
+        "capabilities": [
+          "SENS",
+          "C4I"
+        ],
+        "roles": [
+          "PRIME",
+          "TIER1"
+        ],
+        "levels": [
+          "L0",
+          "L1"
+        ],
+        "defence": [
+          "DEDICATED",
+          "DUAL_USE"
+        ]
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Eurofighter ECRS Mk1 radar",
+            "sub": "Development consortium with HENSOLDT Sensors",
+            "status": "Ongoing development",
+            "icon": "plane",
+            "date": "14 Feb 2025",
+            "desc": "Development consortium with HENSOLDT Sensors",
+            "color": "orange"
+          },
+          {
+            "title": "Defence backlog €11.3bn",
+            "sub": "Defence order intake €8,160M in 2025",
+            "status": "Reported",
+            "icon": "briefcase",
+            "date": "25 Feb 2026",
+            "desc": "Defence order intake €8,160M in 2025",
+            "color": "blue"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Eurofighter ECRS Mk1 radar",
+            "sub": "Development consortium with HENSOLDT Sensors",
+            "status": "Ongoing development",
+            "icon": "plane",
+            "date": "14 Feb 2025",
+            "desc": "Development consortium with HENSOLDT Sensors",
+            "color": "orange"
+          },
+          {
+            "title": "Defence backlog €11.3bn",
+            "sub": "Defence order intake €8,160M in 2025",
+            "status": "Reported",
+            "icon": "briefcase",
+            "date": "25 Feb 2026",
+            "desc": "Defence order intake €8,160M in 2025",
+            "color": "blue"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "ECRS Mk1 radar",
+          "level": "L1",
+          "icon": "plane",
+          "selected": true
+        },
+        {
+          "label": "Ground vehicles and radars",
+          "level": "L0",
+          "icon": "truck"
+        },
+        {
+          "label": "Space (Galileo, Deimos)",
+          "level": "L0",
+          "icon": "satellite"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Ground vehicles and radars",
+              "Defence segment growth driver",
+              "grey"
+            ],
+            [
+              "Space (Galileo, Deimos)",
+              "Space revenues within Defence",
+              "grey"
+            ]
+          ]
+        },
+        {
+          "level": "L1",
+          "title": "Subsystems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "ECRS Mk1 radar",
+              "Eurofighter E-scan radar (with HENSOLDT)",
+              "green"
+            ]
+          ]
+        }
+      ],
+      "technologies": [
+        [
+          "Radar",
+          "T.SENS",
+          "L1",
+          "#e8a000"
+        ],
+        [
+          "Space systems",
+          "T.SPC",
+          "L0",
+          "#3b82d6"
+        ]
+      ],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "HENSOLDT Sensors GmbH",
+            "role": "Partner · ECRS Mk1",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "handshake",
+            "edge": "verified"
+          },
+          {
+            "name": "TESS Defence",
+            "role": "Acquisition contributing to Defence",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "factory",
+            "edge": "unverified"
+          },
+          {
+            "name": "Deimos",
+            "role": "Acquisition contributing to Defence",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "satellite",
+            "edge": "unverified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "HENSOLDT Sensors GmbH",
+            "role": "Partner · ECRS Mk1",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "handshake",
+            "edge": "verified"
+          },
+          {
+            "name": "TESS Defence",
+            "role": "Acquisition contributing to Defence",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "factory",
+            "edge": "unverified"
+          },
+          {
+            "name": "Deimos",
+            "role": "Acquisition contributing to Defence",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "satellite",
+            "edge": "unverified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity INDRA SISTEMAS, S.A.",
+          "sources": 1,
+          "date": "20 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/95980020140005308793"
+        },
+        {
+          "claim": "ECRS Mk1 radar developed by HENSOLDT Sensors GmbH and Indra Sistemas S.A.",
+          "sources": 1,
+          "date": "14 Feb 2025",
+          "status": "Verified",
+          "source": "HENSOLDT (partner)",
+          "href": "https://www.hensoldt.net/news/hensoldt-receives-350-million-euro-contract-extension-for-the-eurofighter-radar"
+        },
+        {
+          "claim": "Defence segment revenue €1,407M of €5,457M group revenue in 2025",
+          "sources": 1,
+          "date": "25 Feb 2026",
+          "status": "Supported",
+          "source": "Company results release",
+          "href": "https://www.indragroup.com/cms-content/2026/02/260225-PR-Indra-Group-Results-2025-1.pdf"
+        }
+      ],
+      "footprint": [
+        [
+          "Alcobendas (Madrid)",
+          "Registered office"
+        ]
+      ]
+    },
+    "patria-oyj": {
+      "developments": [
+        {
+          "date": "09 Aug 2024",
+          "title": "Finland and Latvia agree joint life cycle services for CAVS with Patria",
+          "tags": [
+            "Finnish Government"
+          ],
+          "color": "blue",
+          "href": "https://valtioneuvosto.fi/en/-/236553176/finland-and-latvia-agree-on-joint-life-cycle-services-for-cavs-vehicles"
+        }
+      ],
+      "country": "FI",
+      "reviewed": "2026-11-20",
+      "status_label": "Reviewed card · 20 Nov 2026",
+      "method": "BOHUN B4CE-03 card (10 sections, evidence per claim)",
+      "website": "https://www.patriagroup.com/",
+      "sectors": [
+        "Armoured vehicles",
+        "Weapon systems",
+        "Sustainment"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L1 · verified"
+        ]
+      ],
+      "about": {
+        "workspace": "Patria Oyj is a Finnish defence and technology company. Its 6x6 armoured vehicles are the basis of the Finland-led Common Armoured Vehicle System (CAVS) programme; Finland and Latvia have agreed joint life cycle services for these vehicles with Patria. Preliminary 2025 net sales were €1,086.7 million with an order stock of €3,526.1 million and 4,111 personnel (FTE).",
+        "overview": "Patria Oyj is a Finnish defence and technology company. Its 6x6 armoured vehicles are the basis of the Finland-led Common Armoured Vehicle System (CAVS) programme; Finland and Latvia have agreed joint life cycle services for these vehicles with Patria. Preliminary 2025 net sales were €1,086.7 million with an order stock of €3,526.1 million and 4,111 personnel (FTE)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Oyj (not listed)",
+            "Type"
+          ],
+          [
+            "4,111 FTE (end 2025)",
+            "Employees"
+          ],
+          [
+            "€1,086.7M (FY2025, preliminary)",
+            "Revenue"
+          ],
+          [
+            "€3,526.1M (end 2025)",
+            "Order backlog"
+          ],
+          [
+            "Helsinki, Finland",
+            "Headquarters"
+          ]
+        ],
+        "overview": [
+          [
+            "Oyj (not listed)",
+            "Type"
+          ],
+          [
+            "4,111 FTE (end 2025)",
+            "Employees"
+          ],
+          [
+            "€1,086.7M (FY2025, preliminary)",
+            "Revenue"
+          ],
+          [
+            "Helsinki, Finland",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Prime",
+        "Defence L1"
+      ],
+      "taxonomy": {
+        "domains": [
+          "LAND",
+          "AIR"
+        ],
+        "capabilities": [
+          "PLAT",
+          "SERV"
+        ],
+        "roles": [
+          "PRIME"
+        ],
+        "levels": [
+          "L0"
+        ],
+        "defence": [
+          "DEDICATED"
+        ]
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "CAVS joint life cycle services",
+            "sub": "Finland and Latvia with Patria · 2024–2029",
+            "status": "Agreement signed",
+            "icon": "truck",
+            "date": "09 Aug 2024",
+            "desc": "Finland and Latvia with Patria · 2024–2029",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "CAVS joint life cycle services",
+            "sub": "Finland and Latvia with Patria · 2024–2029",
+            "status": "Agreement signed",
+            "icon": "truck",
+            "date": "09 Aug 2024",
+            "desc": "Finland and Latvia with Patria · 2024–2029",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "Patria 6x6 (CAVS)",
+          "level": "L0",
+          "icon": "truck",
+          "selected": true
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Patria 6x6 (CAVS)",
+              "Armoured vehicle of the CAVS programme",
+              "green"
+            ]
+          ]
+        }
+      ],
+      "technologies": [
+        [
+          "Armoured vehicles",
+          "LAND",
+          "L0",
+          "#b06a2c"
+        ]
+      ],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Finnish Ministry of Defence",
+            "role": "Customer · CAVS",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Latvia",
+            "role": "CAVS member state",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "flag",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Finnish Ministry of Defence",
+            "role": "Customer · CAVS",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Latvia",
+            "role": "CAVS member state",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "flag",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Patria Oyj, business ID 2334159-6",
+          "sources": 1,
+          "date": "20 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/743700KF8TI2LP65FX53"
+        },
+        {
+          "claim": "Finland and Latvia agree joint life cycle services for CAVS with Patria",
+          "sources": 1,
+          "date": "09 Aug 2024",
+          "status": "Verified",
+          "source": "Finnish Government",
+          "href": "https://valtioneuvosto.fi/en/-/236553176/finland-and-latvia-agree-on-joint-life-cycle-services-for-cavs-vehicles"
+        },
+        {
+          "claim": "Net sales €1,086.7M in 2025 (preliminary)",
+          "sources": 1,
+          "date": "",
+          "status": "Supported",
+          "source": "Company financial review",
+          "href": "https://www.patriagroup.com/newsroom/news/2026/patria-groups-financial-review-for-2025-preliminary-data"
+        }
+      ],
+      "footprint": [
+        [
+          "Helsinki",
+          "Registered office"
+        ],
+        [
+          "Finland · Sweden · Norway · Belgium · Netherlands · Germany · Latvia · Japan",
+          "Offices"
+        ]
+      ]
+    },
+    "kongsberg-defence-aerospace-as": {
+      "developments": [
+        {
+          "date": "31 Oct 2025",
+          "title": "Norway orders NASAMS components, about NOK 1bn",
+          "tags": [
+            "Company release"
+          ],
+          "color": "blue",
+          "href": "https://www.kongsberg.com/news/news-archive/2025/norway-acquires-more-nasams-air-defence-technology/"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-20",
+      "status_label": "Reviewed card · 20 Nov 2026",
+      "method": "BOHUN B4CE-03 card (10 sections, evidence per claim)",
+      "website": "https://www.kongsberg.com",
+      "sectors": [
+        "Missiles",
+        "Air defence",
+        "Remote weapon stations"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L1 · verified"
+        ]
+      ],
+      "about": {
+        "workspace": "Kongsberg Defence & Aerospace AS is a Norwegian company registered in 1997 with 4,785 employees. US Department of Defense records show contracts with this legal entity for the Joint Strike Missile, launcher missile modules for the US Marine Corps and M153 remote weapon stations. Norway ordered further NASAMS air defence components from the company in October 2025.",
+        "overview": "Kongsberg Defence & Aerospace AS is a Norwegian company registered in 1997 with 4,785 employees. US Department of Defense records show contracts with this legal entity for the Joint Strike Missile, launcher missile modules for the US Marine Corps and M153 remote weapon stations. Norway ordered further NASAMS air defence components from the company in October 2025."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "AS (subsidiary)",
+            "Type"
+          ],
+          [
+            "1997",
+            "Founded"
+          ],
+          [
+            "4,785",
+            "Employees"
+          ],
+          [
+            "Kongsberg, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org. no. 978614582",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "AS (subsidiary)",
+            "Type"
+          ],
+          [
+            "1997",
+            "Founded"
+          ],
+          [
+            "4,785",
+            "Employees"
+          ],
+          [
+            "Kongsberg, Norway",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Prime",
+        "Defence L1",
+        "US DoD supplier"
+      ],
+      "taxonomy": {
+        "domains": [
+          "AIR",
+          "MAR",
+          "LAND"
+        ],
+        "capabilities": [
+          "MSL",
+          "WPN"
+        ],
+        "roles": [
+          "PRIME"
+        ],
+        "levels": [
+          "L0"
+        ],
+        "defence": [
+          "DEDICATED"
+        ]
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Joint Strike Missile, lot 2 and option lot 3",
+            "sub": "US Department of Defense · $620.0M obligated",
+            "status": "Contract",
+            "icon": "crosshair",
+            "date": "12 Dec 2025",
+            "desc": "US Department of Defense · $620.0M obligated",
+            "color": "orange"
+          },
+          {
+            "title": "Launcher missile module (LMM), USMC",
+            "sub": "US Department of Defense · $738.8M obligated",
+            "status": "Contract",
+            "icon": "crosshair",
+            "date": "12 Nov 2024",
+            "desc": "US Department of Defense · $738.8M obligated",
+            "color": "orange"
+          },
+          {
+            "title": "NASAMS components for Norway",
+            "sub": "Norwegian government · about NOK 1bn",
+            "status": "Order announced",
+            "icon": "shield",
+            "date": "31 Oct 2025",
+            "desc": "Norwegian government · about NOK 1bn",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Joint Strike Missile, lot 2 and option lot 3",
+            "sub": "US Department of Defense · $620.0M obligated",
+            "status": "Contract",
+            "icon": "crosshair",
+            "date": "12 Dec 2025",
+            "desc": "US Department of Defense · $620.0M obligated",
+            "color": "orange"
+          },
+          {
+            "title": "Launcher missile module (LMM), USMC",
+            "sub": "US Department of Defense · $738.8M obligated",
+            "status": "Contract",
+            "icon": "crosshair",
+            "date": "12 Nov 2024",
+            "desc": "US Department of Defense · $738.8M obligated",
+            "color": "orange"
+          },
+          {
+            "title": "NASAMS components for Norway",
+            "sub": "Norwegian government · about NOK 1bn",
+            "status": "Order announced",
+            "icon": "shield",
+            "date": "31 Oct 2025",
+            "desc": "Norwegian government · about NOK 1bn",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "Joint Strike Missile",
+          "level": "L0",
+          "icon": "crosshair",
+          "selected": true
+        },
+        {
+          "label": "NASAMS",
+          "level": "L0",
+          "icon": "shield"
+        },
+        {
+          "label": "M153 remote weapon station",
+          "level": "L0",
+          "icon": "crosshair"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Joint Strike Missile",
+              "Air-launched missile",
+              "green"
+            ],
+            [
+              "NASAMS",
+              "Air defence system components",
+              "green"
+            ],
+            [
+              "M153 remote weapon station",
+              "US Army contract",
+              "green"
+            ]
+          ]
+        }
+      ],
+      "technologies": [
+        [
+          "Missiles and guidance",
+          "T.PNT",
+          "L0",
+          "#e8a000"
+        ]
+      ],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "US Department of Defense",
+            "role": "Customer · JSM, LMM, M153",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Norwegian government",
+            "role": "Customer · NASAMS",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "unverified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "US Department of Defense",
+            "role": "Customer · JSM, LMM, M153",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Norwegian government",
+            "role": "Customer · NASAMS",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "unverified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity KONGSBERG DEFENCE & AEROSPACE AS, founded 1997, 4,785 employees",
+          "sources": 1,
+          "date": "20 Nov 2026",
+          "status": "Verified",
+          "source": "Brønnøysund register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/978614582"
+        },
+        {
+          "claim": "US DoD contracts for Joint Strike Missile and launcher modules",
+          "sources": 1,
+          "date": "20 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending",
+          "href": "https://www.usaspending.gov/search"
+        },
+        {
+          "claim": "Norway orders NASAMS components, about NOK 1bn",
+          "sources": 1,
+          "date": "31 Oct 2025",
+          "status": "Supported",
+          "source": "Company release",
+          "href": "https://www.kongsberg.com/news/news-archive/2025/norway-acquires-more-nasams-air-defence-technology/"
+        }
+      ],
+      "footprint": [
+        [
+          "Kongsberg",
+          "Registered office"
+        ]
+      ]
+    },
+    "exail-technologies": {
+      "developments": [
+        {
+          "date": "02 Jul 2024",
+          "title": "rMCM awarded in 2019 to Belgium Naval & Robotics (Naval Group and Exail)",
+          "tags": [
+            "Naval Group"
+          ],
+          "color": "blue",
+          "href": "https://naval-group.com/sites/default/files/2024-07/20240702_PR_Launching%20of%20the%20Tournai.pdf"
+        },
+        {
+          "date": "28 Jan 2026",
+          "title": "Most revenue from defence; 2025 revenue growth around +28%",
+          "tags": [
+            "AMF filing"
+          ],
+          "color": "blue",
+          "href": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/01/FCACT078028_20260128.pdf"
+        }
+      ],
+      "country": "FR",
+      "reviewed": "2026-11-20",
+      "status_label": "Reviewed card · 20 Nov 2026",
+      "method": "BOHUN B4CE-03 card (10 sections, evidence per claim)",
+      "website": "https://www.exail-technologies.com/fr",
+      "sectors": [
+        "Maritime drones",
+        "Navigation systems"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L1 · verified (group)"
+        ]
+      ],
+      "about": {
+        "workspace": "Exail Technologies is the listed holding company of a French group specialised in autonomous robotics and inertial navigation. The listed legal entity itself has 3–5 employees; operations sit in subsidiaries. Through the Belgium Naval & Robotics consortium with Naval Group, Exail supplies the drone mission system for twelve Belgian and Dutch mine countermeasure vessels. The group says most of its revenue comes from defence; 2025 revenue grew around 28%.",
+        "overview": "Exail Technologies is the listed holding company of a French group specialised in autonomous robotics and inertial navigation. The listed legal entity itself has 3–5 employees; operations sit in subsidiaries. Through the Belgium Naval & Robotics consortium with Naval Group, Exail supplies the drone mission system for twelve Belgian and Dutch mine countermeasure vessels. The group says most of its revenue comes from defence; 2025 revenue grew around 28%."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Listed SA (holding)",
+            "Type"
+          ],
+          [
+            "1988",
+            "Founded"
+          ],
+          [
+            "Paris, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 348541186",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Listed SA (holding)",
+            "Type"
+          ],
+          [
+            "1988",
+            "Founded"
+          ],
+          [
+            "Paris, France",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Listed",
+        "Holding company",
+        "Defence L1 (group)"
+      ],
+      "taxonomy": {
+        "domains": [
+          "MAR"
+        ],
+        "capabilities": [
+          "UNCR",
+          "SENS"
+        ],
+        "roles": [
+          "TIER1"
+        ],
+        "levels": [
+          "L0",
+          "L1"
+        ],
+        "defence": [
+          "DEDICATED",
+          "DUAL_USE"
+        ]
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Belgian-Dutch rMCM",
+            "sub": "Drone mission system for 12 mine countermeasure vessels · with Naval Group",
+            "status": "Ongoing",
+            "icon": "ship",
+            "date": "2019",
+            "desc": "Drone mission system for 12 mine countermeasure vessels · with Naval Group",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Belgian-Dutch rMCM",
+            "sub": "Drone mission system for 12 mine countermeasure vessels · with Naval Group",
+            "status": "Ongoing",
+            "icon": "ship",
+            "date": "2019",
+            "desc": "Drone mission system for 12 mine countermeasure vessels · with Naval Group",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "Mine countermeasure drone toolbox",
+          "level": "L1",
+          "icon": "ship",
+          "selected": true
+        },
+        {
+          "label": "Inertial navigation units",
+          "level": "L2",
+          "icon": "compass"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L1",
+          "title": "Subsystems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Mine countermeasure drone toolbox",
+              "For the Belgian-Dutch rMCM vessels",
+              "green"
+            ]
+          ]
+        },
+        {
+          "level": "L2",
+          "title": "Components",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Inertial navigation units",
+              "Fibre-optic gyroscope technology",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [
+        [
+          "Maritime autonomy",
+          "T.AUTO",
+          "L1",
+          "#3b82d6"
+        ],
+        [
+          "Fibre-optic gyroscopes",
+          "T.PNT",
+          "L2",
+          "#e8a000"
+        ]
+      ],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Naval Group",
+            "role": "Consortium partner · rMCM",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "handshake",
+            "edge": "verified"
+          },
+          {
+            "name": "Belgian Navy",
+            "role": "Customer · rMCM",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "unverified"
+          },
+          {
+            "name": "Royal Netherlands Navy",
+            "role": "Customer · rMCM",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "landmark",
+            "edge": "unverified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Naval Group",
+            "role": "Consortium partner · rMCM",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "handshake",
+            "edge": "verified"
+          },
+          {
+            "name": "Belgian Navy",
+            "role": "Customer · rMCM",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "unverified"
+          },
+          {
+            "name": "Royal Netherlands Navy",
+            "role": "Customer · rMCM",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "landmark",
+            "edge": "unverified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity EXAIL TECHNOLOGIES, SIREN 348541186, holding with 3–5 staff",
+          "sources": 1,
+          "date": "20 Nov 2026",
+          "status": "Verified",
+          "source": "French company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=348541186"
+        },
+        {
+          "claim": "rMCM awarded in 2019 to Belgium Naval & Robotics (Naval Group and Exail)",
+          "sources": 1,
+          "date": "02 Jul 2024",
+          "status": "Verified",
+          "source": "Naval Group",
+          "href": "https://naval-group.com/sites/default/files/2024-07/20240702_PR_Launching%20of%20the%20Tournai.pdf"
+        },
+        {
+          "claim": "Most revenue from defence; 2025 revenue growth around +28%",
+          "sources": 1,
+          "date": "28 Jan 2026",
+          "status": "Supported",
+          "source": "AMF filing",
+          "href": "https://echanges.dila.gouv.fr/OPENDATA/AMF/ACT/2026/01/FCACT078028_20260128.pdf"
+        }
+      ],
+      "footprint": [
+        [
+          "Paris",
+          "Registered office of the holding (catalogue lists La Garde)"
+        ]
+      ]
+    },
+    "arquus": {
+      "developments": [
+        {
+          "date": "02 Jul 2024",
+          "title": "Manufactures specially designed vehicles for defence forces, about 1,200 employees",
+          "tags": [
+            "Volvo Group"
+          ],
+          "color": "blue",
+          "href": "https://www.volvogroup.com/en/news-and-media/news/2024/jul/volvo-group-completes-divestment-of-arquus.html"
+        }
+      ],
+      "country": "FR",
+      "reviewed": "2026-11-20",
+      "status_label": "Reviewed card · 20 Nov 2026",
+      "method": "BOHUN B4CE-03 card (10 sections, evidence per claim)",
+      "website": "https://www.arquus-defense.com",
+      "sectors": [
+        "Military vehicles"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L1 · supported"
+        ]
+      ],
+      "about": {
+        "workspace": "Arquus is a French manufacturer of vehicles specially designed for armed forces, formerly Renault Trucks Defense and ACMAT. It employs about 1,200 people in France. Volvo Group sold Arquus to John Cockerill Defense in July 2024. Named vehicle models and contracts were not covered in this review.",
+        "overview": "Arquus is a French manufacturer of vehicles specially designed for armed forces, formerly Renault Trucks Defense and ACMAT. It employs about 1,200 people in France. Volvo Group sold Arquus to John Cockerill Defense in July 2024. Named vehicle models and contracts were not covered in this review."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "SAS",
+            "Type"
+          ],
+          [
+            "~1,200 (France)",
+            "Employees"
+          ],
+          [
+            "Versailles, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 662043405",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "SAS",
+            "Type"
+          ],
+          [
+            "~1,200 (France)",
+            "Employees"
+          ],
+          [
+            "Versailles, France",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L1 (supported)"
+      ],
+      "taxonomy": {
+        "domains": [
+          "LAND"
+        ],
+        "capabilities": [
+          "PLAT"
+        ],
+        "roles": [
+          "PRIME"
+        ],
+        "levels": [
+          "L0"
+        ],
+        "defence": [
+          "DEDICATED"
+        ]
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Sale to John Cockerill Defense",
+            "sub": "Volvo Group divestment completed",
+            "status": "Completed",
+            "icon": "briefcase",
+            "date": "02 Jul 2024",
+            "desc": "Volvo Group divestment completed",
+            "color": "blue"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Sale to John Cockerill Defense",
+            "sub": "Volvo Group divestment completed",
+            "status": "Completed",
+            "icon": "briefcase",
+            "date": "02 Jul 2024",
+            "desc": "Volvo Group divestment completed",
+            "color": "blue"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "Military vehicles",
+          "level": "L0",
+          "icon": "truck",
+          "selected": true
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Military vehicles",
+              "Specially designed vehicles for defence forces",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "John Cockerill Defense",
+            "role": "Owner since 2024",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "building",
+            "edge": "verified"
+          },
+          {
+            "name": "Volvo Group",
+            "role": "Former owner",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "building",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "John Cockerill Defense",
+            "role": "Owner since 2024",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "building",
+            "edge": "verified"
+          },
+          {
+            "name": "Volvo Group",
+            "role": "Former owner",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "building",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ARQUUS, SIREN 662043405, former names include Renault Trucks Defense",
+          "sources": 1,
+          "date": "20 Nov 2026",
+          "status": "Verified",
+          "source": "French company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=arquus"
+        },
+        {
+          "claim": "Manufactures specially designed vehicles for defence forces, about 1,200 employees",
+          "sources": 2,
+          "date": "02 Jul 2024",
+          "status": "Verified",
+          "source": "Volvo Group",
+          "href": "https://www.volvogroup.com/en/news-and-media/news/2024/jul/volvo-group-completes-divestment-of-arquus.html"
+        }
+      ],
+      "footprint": [
+        [
+          "Versailles (Camp de Satory)",
+          "Head office"
+        ]
+      ]
+    },
+    "retia-a-s": {
+      "developments": [
+        {
+          "date": "10 Dec 2019",
+          "title": "Retia is a primary Czech partner of Elta for MADR radars",
+          "tags": [
+            "Czech Ministry of Defence"
+          ],
+          "color": "blue",
+          "href": "https://acr.mo.gov.cz/en/ministry-of-defence/newsroom/news/czech-and-israeli-defence-representatives-signed-the-contract-for-the-procurement-of-mobile-air-defence-radars-218020/"
+        }
+      ],
+      "country": "CZ",
+      "reviewed": "2026-11-20",
+      "status_label": "Reviewed card · 20 Nov 2026",
+      "method": "BOHUN B4CE-03 card (10 sections, evidence per claim)",
+      "website": "https://www.retia.eu/",
+      "sectors": [
+        "Radar"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L2 · verified"
+        ]
+      ],
+      "about": {
+        "workspace": "RETIA, a.s. is a Czech radar company founded in 1996 in Pardubice. The Czech Ministry of Defence names Retia as a primary Czech partner of Elta for the eight MADR mobile air defence radars ordered in 2019. Retia also developed the ReGuard 3D short-range radar.",
+        "overview": "RETIA, a.s. is a Czech radar company founded in 1996 in Pardubice. The Czech Ministry of Defence names Retia as a primary Czech partner of Elta for the eight MADR mobile air defence radars ordered in 2019. Retia also developed the ReGuard 3D short-range radar."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "a.s.",
+            "Type"
+          ],
+          [
+            "1996",
+            "Founded"
+          ],
+          [
+            "Pardubice, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 25251929",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "a.s.",
+            "Type"
+          ],
+          [
+            "1996",
+            "Founded"
+          ],
+          [
+            "Pardubice, Czechia",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L2",
+        "Radar"
+      ],
+      "taxonomy": {
+        "domains": [
+          "LAND",
+          "AIR"
+        ],
+        "capabilities": [
+          "SENS"
+        ],
+        "roles": [
+          "TIER1"
+        ],
+        "levels": [
+          "L0",
+          "L1"
+        ],
+        "defence": [
+          "DEDICATED"
+        ]
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "MADR mobile air defence radars",
+            "sub": "Czech MoD · 8 radars · Retia as primary Czech partner of Elta",
+            "status": "Contract",
+            "icon": "radio",
+            "date": "05 Dec 2019",
+            "desc": "Czech MoD · 8 radars · Retia as primary Czech partner of Elta",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "MADR mobile air defence radars",
+            "sub": "Czech MoD · 8 radars · Retia as primary Czech partner of Elta",
+            "status": "Contract",
+            "icon": "radio",
+            "date": "05 Dec 2019",
+            "desc": "Czech MoD · 8 radars · Retia as primary Czech partner of Elta",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "ReGuard 3D radar",
+          "level": "L0",
+          "icon": "radio",
+          "selected": true
+        },
+        {
+          "label": "MADR (ELM-2084) support",
+          "level": "L1",
+          "icon": "radio"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "ReGuard 3D radar",
+              "Short-range radar for ground and low-flying targets",
+              "grey"
+            ]
+          ]
+        },
+        {
+          "level": "L1",
+          "title": "Subsystems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "MADR (ELM-2084) support",
+              "Czech partner role in the MADR programme",
+              "green"
+            ]
+          ]
+        }
+      ],
+      "technologies": [
+        [
+          "Electronic beam steering radar",
+          "T.SENS",
+          "L0",
+          "#e8a000"
+        ]
+      ],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Czech Ministry of Defence",
+            "role": "Customer · MADR",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Elta",
+            "role": "Radar manufacturer · MADR",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "handshake",
+            "edge": "verified"
+          },
+          {
+            "name": "VTÚ",
+            "role": "Partner · MADR",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "handshake",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Czech Ministry of Defence",
+            "role": "Customer · MADR",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Elta",
+            "role": "Radar manufacturer · MADR",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "handshake",
+            "edge": "verified"
+          },
+          {
+            "name": "VTÚ",
+            "role": "Partner · MADR",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "handshake",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity RETIA, a.s., IČO 25251929, founded 1996",
+          "sources": 1,
+          "date": "20 Nov 2026",
+          "status": "Verified",
+          "source": "ARES register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/25251929"
+        },
+        {
+          "claim": "Retia is a primary Czech partner of Elta for MADR radars",
+          "sources": 1,
+          "date": "10 Dec 2019",
+          "status": "Verified",
+          "source": "Czech Ministry of Defence",
+          "href": "https://acr.mo.gov.cz/en/ministry-of-defence/newsroom/news/czech-and-israeli-defence-representatives-signed-the-contract-for-the-procurement-of-mobile-air-defence-radars-218020/"
+        },
+        {
+          "claim": "ReGuard 3D radar developed by Retia",
+          "sources": 1,
+          "date": "",
+          "status": "Supported",
+          "source": "CSG",
+          "href": "https://czechoslovakgroup.com/en/innovations/reguard-3d-retia"
+        }
+      ],
+      "footprint": [
+        [
+          "Pardubice",
+          "Registered office"
+        ]
+      ]
+    },
+    "intracom-defense-ae": {
+      "developments": [
+        {
+          "date": "03 Feb 2025",
+          "title": "€42M EDF grant agreement for ACTUS",
+          "tags": [
+            "Company release"
+          ],
+          "color": "blue",
+          "href": "https://www.intracomdefense.com/intracom-defense-launches-the-actus-project/"
+        }
+      ],
+      "country": "EL",
+      "reviewed": "2026-11-20",
+      "status_label": "Reviewed card · 20 Nov 2026",
+      "method": "BOHUN B4CE-03 card (10 sections, evidence per claim)",
+      "website": "https://www.intracomdefense.com",
+      "sectors": [
+        "Tactical communications",
+        "Unmanned systems"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L1 · supported"
+        ]
+      ],
+      "about": {
+        "workspace": "INTRACOM DEFENSE (IDE) is a Greek defence electronics company in Koropi. It coordinates ACTUS, a €42 million European Defence Fund project to develop tactical unmanned aircraft systems (LOTUS and PATROLLER); a consortium partner confirms its coordinator role. Its product range includes tactical wideband radios and secure naval IP networks.",
+        "overview": "INTRACOM DEFENSE (IDE) is a Greek defence electronics company in Koropi. It coordinates ACTUS, a €42 million European Defence Fund project to develop tactical unmanned aircraft systems (LOTUS and PATROLLER); a consortium partner confirms its coordinator role. Its product range includes tactical wideband radios and secure naval IP networks."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "A.E.",
+            "Type"
+          ],
+          [
+            "Koropi, Greece",
+            "Headquarters"
+          ],
+          [
+            "GEMI 006657001000 · LEI 213800X54CP4HBHZJ115",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "A.E.",
+            "Type"
+          ],
+          [
+            "Koropi, Greece",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L1 (supported)",
+        "EDF coordinator"
+      ],
+      "taxonomy": {
+        "domains": [
+          "AIR",
+          "MAR",
+          "JOINT"
+        ],
+        "capabilities": [
+          "C4I",
+          "UNCR"
+        ],
+        "roles": [
+          "PRIME",
+          "RND"
+        ],
+        "levels": [
+          "L0"
+        ],
+        "defence": [
+          "DEDICATED"
+        ]
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "ACTUS (EDF 2023)",
+            "sub": "Tactical UAV development · €42M grant · IDE as coordinator",
+            "status": "Grant signed",
+            "icon": "plane",
+            "date": "03 Feb 2025",
+            "desc": "Tactical UAV development · €42M grant · IDE as coordinator",
+            "color": "blue"
+          }
+        ],
+        "overview": [
+          {
+            "title": "ACTUS (EDF 2023)",
+            "sub": "Tactical UAV development · €42M grant · IDE as coordinator",
+            "status": "Grant signed",
+            "icon": "plane",
+            "date": "03 Feb 2025",
+            "desc": "Tactical UAV development · €42M grant · IDE as coordinator",
+            "color": "blue"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "Tactical wideband radio systems",
+          "level": "L0",
+          "icon": "radio",
+          "selected": true
+        },
+        {
+          "label": "Se@NNet secure naval network",
+          "level": "L0",
+          "icon": "ship"
+        },
+        {
+          "label": "LOTUS and PATROLLER UAVs",
+          "level": "L0",
+          "icon": "plane"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Tactical wideband radio systems",
+              "Company product line",
+              "grey"
+            ],
+            [
+              "Se@NNet secure naval network",
+              "Company product line",
+              "grey"
+            ],
+            [
+              "LOTUS and PATROLLER UAVs",
+              "In development under ACTUS",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [
+        [
+          "Tactical communications",
+          "T.NET",
+          "L0",
+          "#3b82d6"
+        ],
+        [
+          "Unmanned aircraft",
+          "T.AUTO",
+          "L0",
+          "#e8a000"
+        ]
+      ],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Defence Fund",
+            "role": "Grant · ACTUS",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "unverified"
+          },
+          {
+            "name": "Signalgenerix",
+            "role": "ACTUS consortium partner",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "handshake",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Defence Fund",
+            "role": "Grant · ACTUS",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "unverified"
+          },
+          {
+            "name": "Signalgenerix",
+            "role": "ACTUS consortium partner",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "handshake",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity INTRACOM DEFENSE A.E. (IDE)",
+          "sources": 1,
+          "date": "20 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/213800X54CP4HBHZJ115"
+        },
+        {
+          "claim": "IDE is coordinator of the ACTUS consortium",
+          "sources": 1,
+          "date": "",
+          "status": "Verified",
+          "source": "Consortium partner",
+          "href": "https://www.signalgenerix.com/?p=4250"
+        },
+        {
+          "claim": "€42M EDF grant agreement for ACTUS",
+          "sources": 1,
+          "date": "03 Feb 2025",
+          "status": "Supported",
+          "source": "Company release",
+          "href": "https://www.intracomdefense.com/intracom-defense-launches-the-actus-project/"
+        }
+      ],
+      "footprint": [
+        [
+          "Koropi (Attica)",
+          "Registered office"
+        ]
+      ]
+    },
+    "gd-european-land-systems-steyr-gmbh": {
+      "developments": [
+        {
+          "date": "19 Feb 2024",
+          "title": "Contract for 225 Pandur Evolution, about €1.8bn, produced in Vienna",
+          "tags": [
+            "ORF (minister statement)"
+          ],
+          "color": "blue",
+          "href": "https://orf.at/stories/3349158/"
+        }
+      ],
+      "country": "AT",
+      "reviewed": "2026-11-20",
+      "status_label": "Reviewed card · 20 Nov 2026",
+      "method": "BOHUN B4CE-03 card (10 sections, evidence per claim)",
+      "website": "https://www.gdels.com",
+      "sectors": [
+        "Armoured vehicles"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L1 · supported"
+        ]
+      ],
+      "about": {
+        "workspace": "GD European Land Systems – Steyr GmbH is the Vienna-based Austrian company of General Dynamics European Land Systems. In February 2024 the Austrian Armed Forces signed a contract for 225 more Pandur Evolution wheeled armoured vehicles, about €1.8 billion, produced in Vienna. The source names General Dynamics European Land Systems without the exact legal entity, so the link to this GmbH is by name and city.",
+        "overview": "GD European Land Systems – Steyr GmbH is the Vienna-based Austrian company of General Dynamics European Land Systems. In February 2024 the Austrian Armed Forces signed a contract for 225 more Pandur Evolution wheeled armoured vehicles, about €1.8 billion, produced in Vienna. The source names General Dynamics European Land Systems without the exact legal entity, so the link to this GmbH is by name and city."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "GmbH",
+            "Type"
+          ],
+          [
+            "Vienna, Austria",
+            "Headquarters"
+          ],
+          [
+            "FN 153139f · LEI 549300B4PD512HN2UF91",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "GmbH",
+            "Type"
+          ],
+          [
+            "Vienna, Austria",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L1 (supported)"
+      ],
+      "taxonomy": {
+        "domains": [
+          "LAND"
+        ],
+        "capabilities": [
+          "PLAT"
+        ],
+        "roles": [
+          "PRIME"
+        ],
+        "levels": [
+          "L0"
+        ],
+        "defence": [
+          "DEDICATED"
+        ]
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "225 Pandur Evolution",
+            "sub": "Austrian Armed Forces · about €1.8bn",
+            "status": "Contract signed",
+            "icon": "truck",
+            "date": "19 Feb 2024",
+            "desc": "Austrian Armed Forces · about €1.8bn",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "225 Pandur Evolution",
+            "sub": "Austrian Armed Forces · about €1.8bn",
+            "status": "Contract signed",
+            "icon": "truck",
+            "date": "19 Feb 2024",
+            "desc": "Austrian Armed Forces · about €1.8bn",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "Pandur Evolution",
+          "level": "L0",
+          "icon": "truck",
+          "selected": true
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Pandur Evolution",
+              "Wheeled armoured vehicle",
+              "green"
+            ]
+          ]
+        }
+      ],
+      "technologies": [
+        [
+          "Armoured vehicles",
+          "LAND",
+          "L0",
+          "#b06a2c"
+        ]
+      ],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Austrian Armed Forces",
+            "role": "Customer · Pandur Evolution",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "unverified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Austrian Armed Forces",
+            "role": "Customer · Pandur Evolution",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "unverified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity GD European Land Systems - Steyr GmbH",
+          "sources": 1,
+          "date": "20 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/549300B4PD512HN2UF91"
+        },
+        {
+          "claim": "Contract for 225 Pandur Evolution, about €1.8bn, produced in Vienna",
+          "sources": 1,
+          "date": "19 Feb 2024",
+          "status": "Supported",
+          "source": "ORF (minister statement)",
+          "href": "https://orf.at/stories/3349158/"
+        }
+      ],
+      "footprint": [
+        [
+          "Vienna",
+          "Registered office and production"
+        ]
+      ]
+    },
+    "huta-stalowa-wola": {
+      "developments": [
+        {
+          "date": "24 Dec 2024",
+          "title": "Two contracts over PLN 16bn for 96 Krab howitzers and K9",
+          "tags": [
+            "Gov.pl (Ministry of State Assets)"
+          ],
+          "color": "blue",
+          "href": "https://www.gov.pl/web/aktywa-panstwowe/huta-stalowa-wola-z-kontraktem-na-96-armatohaubic-krab"
+        }
+      ],
+      "country": "PL",
+      "reviewed": "2026-11-20",
+      "status_label": "Reviewed card · 20 Nov 2026",
+      "method": "BOHUN B4CE-03 card (10 sections, evidence per claim)",
+      "website": "http://www.hsw.pl",
+      "sectors": [
+        "Artillery",
+        "Armoured vehicles"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L1 · verified"
+        ]
+      ],
+      "about": {
+        "workspace": "Huta Stalowa Wola S.A. is a Polish state-sector defence manufacturer. On 23 December 2024 the Polish Armament Agency and HSW signed two contracts worth over PLN 16 billion for 96 Krab self-propelled howitzers, accompanying vehicles and K9 howitzers. HSW is also a member of the PGZ-NAREW consortium.",
+        "overview": "Huta Stalowa Wola S.A. is a Polish state-sector defence manufacturer. On 23 December 2024 the Polish Armament Agency and HSW signed two contracts worth over PLN 16 billion for 96 Krab self-propelled howitzers, accompanying vehicles and K9 howitzers. HSW is also a member of the PGZ-NAREW consortium."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "S.A.",
+            "Type"
+          ],
+          [
+            "Stalowa Wola, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000004324 · LEI 259400HF6NPJ8HODHO04",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "S.A.",
+            "Type"
+          ],
+          [
+            "Stalowa Wola, Poland",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L1",
+        "State sector"
+      ],
+      "taxonomy": {
+        "domains": [
+          "LAND"
+        ],
+        "capabilities": [
+          "PLAT",
+          "WPN"
+        ],
+        "roles": [
+          "PRIME"
+        ],
+        "levels": [
+          "L0"
+        ],
+        "defence": [
+          "DEDICATED"
+        ]
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "96 Krab howitzers and K9",
+            "sub": "Polish Armament Agency · over PLN 16bn",
+            "status": "Contract signed",
+            "icon": "crosshair",
+            "date": "23 Dec 2024",
+            "desc": "Polish Armament Agency · over PLN 16bn",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "96 Krab howitzers and K9",
+            "sub": "Polish Armament Agency · over PLN 16bn",
+            "status": "Contract signed",
+            "icon": "crosshair",
+            "date": "23 Dec 2024",
+            "desc": "Polish Armament Agency · over PLN 16bn",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "Krab self-propelled howitzer",
+          "level": "L0",
+          "icon": "crosshair",
+          "selected": true
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Krab self-propelled howitzer",
+              "Artillery system",
+              "green"
+            ]
+          ]
+        }
+      ],
+      "technologies": [
+        [
+          "Artillery",
+          "LAND",
+          "L0",
+          "#e8a000"
+        ]
+      ],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Polish Armament Agency",
+            "role": "Customer · Krab",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "PGZ-NAREW consortium",
+            "role": "Consortium member",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "handshake",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Polish Armament Agency",
+            "role": "Customer · Krab",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "PGZ-NAREW consortium",
+            "role": "Consortium member",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "handshake",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity HUTA STALOWA WOLA S.A., KRS 0000004324",
+          "sources": 1,
+          "date": "20 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/259400HF6NPJ8HODHO04"
+        },
+        {
+          "claim": "Two contracts over PLN 16bn for 96 Krab howitzers and K9",
+          "sources": 1,
+          "date": "24 Dec 2024",
+          "status": "Verified",
+          "source": "Gov.pl (Ministry of State Assets)",
+          "href": "https://www.gov.pl/web/aktywa-panstwowe/huta-stalowa-wola-z-kontraktem-na-96-armatohaubic-krab"
+        }
+      ],
+      "footprint": [
+        [
+          "Stalowa Wola",
+          "Registered office and plant"
+        ]
+      ]
+    },
+    "crosshill-oy": {
+      "developments": [
+        {
+          "date": "19 Dec 2025",
+          "title": "Listed in F-35 indirect industrial cooperation",
+          "tags": [
+            "Finnish Ministry of Defence"
+          ],
+          "color": "blue",
+          "href": "https://valtioneuvosto.fi/-/236553176/puolustusministeri-hakkanen-suomalaisyrityksille-nakopiirissa-uusia-mahdollisuuksia-f-35-hankkeen-kautta"
+        }
+      ],
+      "country": "FI",
+      "reviewed": "2026-11-20",
+      "status_label": "Reviewed card · 20 Nov 2026",
+      "method": "BOHUN B4CE-03 card (10 sections, evidence per claim)",
+      "website": "https://crosshill.fi/",
+      "sectors": [
+        "Secure embedded electronics",
+        "Security testing"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · verified · L2 candidate"
+        ]
+      ],
+      "about": {
+        "workspace": "Crosshill Oy is a Finnish company in Tampere, registered in 2014, that designs and tests secure electronic systems. The Finnish Ministry of Defence lists Crosshill among the companies in indirect industrial cooperation of the F-35 programme. The company also says it is a subcontractor in the EDF-funded HYDIS² interceptor project led by MBDA; this was not independently confirmed.",
+        "overview": "Crosshill Oy is a Finnish company in Tampere, registered in 2014, that designs and tests secure electronic systems. The Finnish Ministry of Defence lists Crosshill among the companies in indirect industrial cooperation of the F-35 programme. The company also says it is a subcontractor in the EDF-funded HYDIS² interceptor project led by MBDA; this was not independently confirmed."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Oy",
+            "Type"
+          ],
+          [
+            "2014",
+            "Founded"
+          ],
+          [
+            "Tampere, Finland",
+            "Headquarters"
+          ],
+          [
+            "Business ID 2617007-5",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Oy",
+            "Type"
+          ],
+          [
+            "2014",
+            "Founded"
+          ],
+          [
+            "Tampere, Finland",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4 (verified)",
+        "L2 candidate"
+      ],
+      "taxonomy": {
+        "domains": [
+          "CYBER_EM"
+        ],
+        "capabilities": [
+          "EWCY",
+          "COMP"
+        ],
+        "roles": [
+          "TIER2"
+        ],
+        "levels": [
+          "L2"
+        ],
+        "defence": [
+          "DUAL_USE"
+        ]
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "F-35 indirect industrial cooperation",
+            "sub": "Finland · consortium led by Crosshill",
+            "status": "Participation confirmed",
+            "icon": "plane",
+            "date": "19 Dec 2025",
+            "desc": "Finland · consortium led by Crosshill",
+            "color": "blue"
+          },
+          {
+            "title": "HYDIS² (EDF)",
+            "sub": "Subcontractor · led by MBDA (company statement)",
+            "status": "Claimed",
+            "icon": "shield",
+            "date": "",
+            "desc": "Subcontractor · led by MBDA (company statement)",
+            "color": "grey"
+          }
+        ],
+        "overview": [
+          {
+            "title": "F-35 indirect industrial cooperation",
+            "sub": "Finland · consortium led by Crosshill",
+            "status": "Participation confirmed",
+            "icon": "plane",
+            "date": "19 Dec 2025",
+            "desc": "Finland · consortium led by Crosshill",
+            "color": "blue"
+          },
+          {
+            "title": "HYDIS² (EDF)",
+            "sub": "Subcontractor · led by MBDA (company statement)",
+            "status": "Claimed",
+            "icon": "shield",
+            "date": "",
+            "desc": "Subcontractor · led by MBDA (company statement)",
+            "color": "grey"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "Secure electronic systems",
+          "level": "L2",
+          "icon": "cpu",
+          "selected": true
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L2",
+          "title": "Components",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Secure electronic systems",
+              "Anti-tamper and secure embedded electronics",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [
+        [
+          "Side-channel analysis, crypto provisioning",
+          "T.EWC",
+          "L2",
+          "#3b82d6"
+        ]
+      ],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Finnish Ministry of Defence",
+            "role": "F-35 industrial cooperation",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Lockheed Martin",
+            "role": "F-35 counterpart",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "plane",
+            "edge": "unverified"
+          },
+          {
+            "name": "MBDA",
+            "role": "HYDIS² lead (claimed)",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "shield",
+            "edge": "potential"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Finnish Ministry of Defence",
+            "role": "F-35 industrial cooperation",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Lockheed Martin",
+            "role": "F-35 counterpart",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "plane",
+            "edge": "unverified"
+          },
+          {
+            "name": "MBDA",
+            "role": "HYDIS² lead (claimed)",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "shield",
+            "edge": "potential"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Crosshill Oy, business ID 2617007-5, registered 2014",
+          "sources": 1,
+          "date": "20 Nov 2026",
+          "status": "Verified",
+          "source": "PRH register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=2617007-5"
+        },
+        {
+          "claim": "Listed in F-35 indirect industrial cooperation",
+          "sources": 1,
+          "date": "19 Dec 2025",
+          "status": "Verified",
+          "source": "Finnish Ministry of Defence",
+          "href": "https://valtioneuvosto.fi/-/236553176/puolustusministeri-hakkanen-suomalaisyrityksille-nakopiirissa-uusia-mahdollisuuksia-f-35-hankkeen-kautta"
+        },
+        {
+          "claim": "Subcontractor in HYDIS² (EDF)",
+          "sources": 1,
+          "date": "",
+          "status": "Candidate",
+          "source": "Company website",
+          "href": "https://crosshill.fi/"
+        }
+      ],
+      "footprint": [
+        [
+          "Tampere",
+          "Office"
+        ]
+      ]
+    },
+    "aisikon-oy": {
+      "developments": [],
+      "country": "FI",
+      "reviewed": "2026-11-20",
+      "status_label": "Reviewed card · 20 Nov 2026 · defence link not established",
+      "method": "BOHUN B4CE-03 card (10 sections, evidence per claim)",
+      "website": "https://www.aisikon.fi/",
+      "sectors": [
+        "Metal machining"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence link not established (L0)"
+        ]
+      ],
+      "about": {
+        "workspace": "Aisikon Oy is a Finnish metal machining company in Virrat, registered in 1994 (formerly Wirtain Metalli). No defence customer, programme or product was found in public sources. The Finnish register also lists an older, separate company associated with the Aisikon name (business ID 0755714-3); the two are not the same legal entity.",
+        "overview": "Aisikon Oy is a Finnish metal machining company in Virrat, registered in 1994 (formerly Wirtain Metalli). No defence customer, programme or product was found in public sources. The Finnish register also lists an older, separate company associated with the Aisikon name (business ID 0755714-3); the two are not the same legal entity."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Oy",
+            "Type"
+          ],
+          [
+            "1994",
+            "Founded"
+          ],
+          [
+            "Virrat, Finland",
+            "Headquarters"
+          ],
+          [
+            "Business ID 0968253-8",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Oy",
+            "Type"
+          ],
+          [
+            "1994",
+            "Founded"
+          ],
+          [
+            "Virrat, Finland",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence link not established"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Aisikon Oy, business ID 0968253-8, machining of metals",
+          "sources": 1,
+          "date": "20 Nov 2026",
+          "status": "Verified",
+          "source": "PRH register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?name=Aisikon"
+        },
+        {
+          "claim": "Defence customer, programme or product",
+          "sources": 0,
+          "date": "20 Nov 2026",
+          "status": "None found yet",
+          "source": "Company website and web search",
+          "href": "https://www.aisikon.fi/"
+        }
+      ],
+      "footprint": [
+        [
+          "Virrat",
+          "Registered office"
+        ]
+      ]
+    },
+    "phonexia-s-r-o": {
+      "developments": [],
+      "country": "CZ",
+      "reviewed": "2026-11-20",
+      "status_label": "Reviewed card · 20 Nov 2026 · defence link not established",
+      "method": "BOHUN B4CE-03 card (10 sections, evidence per claim)",
+      "website": "https://phonexia.com/",
+      "sectors": [
+        "Voice biometrics",
+        "Speech recognition"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Military defence link not established (L0) · security and law enforcement"
+        ]
+      ],
+      "about": {
+        "workspace": "Phonexia a.s. (listed in our catalogue as s.r.o.; the register shows a joint-stock company) is a Brno company founded in 2006 that develops voice biometrics, speech recognition and forensic voice analysis software for intelligence, law enforcement and enterprises. It was a partner in ROXANNE, an EU Horizon 2020 project against organised crime. No military defence contract was found.",
+        "overview": "Phonexia a.s. (listed in our catalogue as s.r.o.; the register shows a joint-stock company) is a Brno company founded in 2006 that develops voice biometrics, speech recognition and forensic voice analysis software for intelligence, law enforcement and enterprises. It was a partner in ROXANNE, an EU Horizon 2020 project against organised crime. No military defence contract was found."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "a.s.",
+            "Type"
+          ],
+          [
+            "2006",
+            "Founded"
+          ],
+          [
+            "Brno, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 27680258",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "a.s.",
+            "Type"
+          ],
+          [
+            "2006",
+            "Founded"
+          ],
+          [
+            "Brno, Czechia",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Law enforcement & intelligence",
+        "Military link not established"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "ROXANNE (Horizon 2020)",
+            "sub": "EU project against organised crime · €344,896 EU contribution",
+            "status": "Completed",
+            "icon": "landmark",
+            "date": "2019–2022",
+            "desc": "EU project against organised crime · €344,896 EU contribution",
+            "color": "blue"
+          }
+        ],
+        "overview": [
+          {
+            "title": "ROXANNE (Horizon 2020)",
+            "sub": "EU project against organised crime · €344,896 EU contribution",
+            "status": "Completed",
+            "icon": "landmark",
+            "date": "2019–2022",
+            "desc": "EU project against organised crime · €344,896 EU contribution",
+            "color": "blue"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "Phonexia Voice Inspector",
+          "level": "L0",
+          "icon": "search",
+          "selected": true
+        },
+        {
+          "label": "Phonexia Speech Platform",
+          "level": "L0",
+          "icon": "layers"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Phonexia Voice Inspector",
+              "Forensic voice analysis",
+              "grey"
+            ],
+            [
+              "Phonexia Speech Platform",
+              "Speech and voice analytics",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [
+        [
+          "Voice biometrics and speech recognition",
+          "T.AI",
+          "L0",
+          "#3b82d6"
+        ]
+      ],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission",
+            "role": "Funder · ROXANNE",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission",
+            "role": "Funder · ROXANNE",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Phonexia a.s., IČO 27680258, founded 2006",
+          "sources": 1,
+          "date": "20 Nov 2026",
+          "status": "Verified",
+          "source": "ARES register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/27680258"
+        },
+        {
+          "claim": "Partner in EU project ROXANNE against organised crime",
+          "sources": 1,
+          "date": "",
+          "status": "Verified",
+          "source": "CORDIS",
+          "href": "https://cordis.europa.eu/project/id/833635"
+        },
+        {
+          "claim": "Military defence contract",
+          "sources": 0,
+          "date": "20 Nov 2026",
+          "status": "None found yet",
+          "source": "Company website and web search",
+          "href": "https://phonexia.com/"
+        }
+      ],
+      "footprint": [
+        [
+          "Brno",
+          "Registered office"
+        ]
+      ]
+    },
+    "embedded-acoustics-bv": {
+      "developments": [
+        {
+          "date": "05 Dec 2020",
+          "title": "Won Defence Innovation Competition 2020 with €200,000 contract",
+          "tags": [
+            "KIVI"
+          ],
+          "color": "blue",
+          "href": "https://kivi.nl/en/communities/departments/defence-and-security/news/pico-monitor-winner-defence-innovation-competition-2020"
+        }
+      ],
+      "country": "NL",
+      "reviewed": "2026-11-20",
+      "status_label": "Reviewed card · 20 Nov 2026",
+      "method": "BOHUN B4CE-03 card (10 sections, evidence per claim)",
+      "website": "https://www.embeddedacoustics.com",
+      "sectors": [
+        "Acoustics",
+        "Wearable sensors"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · supported"
+        ]
+      ],
+      "about": {
+        "workspace": "Embedded Acoustics is a Dutch engineering company (also presenting itself as Embedded Engineering) working on acoustics for defence, law enforcement and security. Its PicoMonitor, a health tracker for soldiers, won the Dutch Defence Innovation Competition 2020, which came with a €200,000 development contract in cooperation with the Defence Healthcare Organisation. The legal entity was not confirmed in a register.",
+        "overview": "Embedded Acoustics is a Dutch engineering company (also presenting itself as Embedded Engineering) working on acoustics for defence, law enforcement and security. Its PicoMonitor, a health tracker for soldiers, won the Dutch Defence Innovation Competition 2020, which came with a €200,000 development contract in cooperation with the Defence Healthcare Organisation. The legal entity was not confirmed in a register."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "BV",
+            "Type"
+          ],
+          [
+            "Rijswijk, Netherlands",
+            "Headquarters"
+          ]
+        ],
+        "overview": [
+          [
+            "BV",
+            "Type"
+          ],
+          [
+            "Rijswijk, Netherlands",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3 (supported)",
+        "Register not confirmed"
+      ],
+      "taxonomy": {
+        "domains": [
+          "LAND"
+        ],
+        "capabilities": [
+          "SENS"
+        ],
+        "roles": [
+          "RND"
+        ],
+        "levels": [
+          "L1"
+        ],
+        "defence": [
+          "DUAL_USE"
+        ]
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "PicoMonitor · Defence Innovation Competition 2020",
+            "sub": "Netherlands MoD · €200,000 development contract",
+            "status": "Awarded",
+            "icon": "shield",
+            "date": "04 Dec 2020",
+            "desc": "Netherlands MoD · €200,000 development contract",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "PicoMonitor · Defence Innovation Competition 2020",
+            "sub": "Netherlands MoD · €200,000 development contract",
+            "status": "Awarded",
+            "icon": "shield",
+            "date": "04 Dec 2020",
+            "desc": "Netherlands MoD · €200,000 development contract",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "PicoMonitor",
+          "level": "L1",
+          "icon": "cpu",
+          "selected": true
+        },
+        {
+          "label": "Smart Helmet",
+          "level": "L1",
+          "icon": "shield"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L1",
+          "title": "Subsystems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "PicoMonitor",
+              "Health tracker for soldiers (research project)",
+              "green"
+            ],
+            [
+              "Smart Helmet",
+              "AR helmet for soldiers (research project)",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [
+        [
+          "Acoustic and wearable sensors",
+          "T.SENS",
+          "L1",
+          "#3b82d6"
+        ]
+      ],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Netherlands Ministry of Defence",
+            "role": "Customer · PicoMonitor",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "unverified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Netherlands Ministry of Defence",
+            "role": "Customer · PicoMonitor",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "unverified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Won Defence Innovation Competition 2020 with €200,000 contract",
+          "sources": 1,
+          "date": "05 Dec 2020",
+          "status": "Supported",
+          "source": "KIVI",
+          "href": "https://kivi.nl/en/communities/departments/defence-and-security/news/pico-monitor-winner-defence-innovation-competition-2020"
+        },
+        {
+          "claim": "Registered legal entity (KvK)",
+          "sources": 0,
+          "date": "20 Nov 2026",
+          "status": "Not confirmed",
+          "source": "No free Dutch register API",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Rijswijk",
+          "Office (company website)"
+        ]
+      ]
+    },
+    "andres-industries-ag": {
+      "developments": [
+        {
+          "date": "19 Feb 2026",
+          "title": "Government distribution of Theon Sensors night vision",
+          "tags": [
+            "Company website"
+          ],
+          "color": "blue",
+          "href": "https://www.andres-industries.de/en"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-20",
+      "status_label": "Reviewed card · 20 Nov 2026",
+      "method": "BOHUN B4CE-03 card (10 sections, evidence per claim)",
+      "website": "https://www.andres-industries.de/en",
+      "sectors": [
+        "Thermal imaging",
+        "Night vision distribution"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate"
+        ]
+      ],
+      "about": {
+        "workspace": "Andres Industries AG is a Berlin company making thermal imaging devices; the Berlin fire brigade uses its aiShell product. In February 2026 it took over government distribution of Theon Sensors night vision products. No military customer or contract was confirmed, so the company is shown as a candidate only.",
+        "overview": "Andres Industries AG is a Berlin company making thermal imaging devices; the Berlin fire brigade uses its aiShell product. In February 2026 it took over government distribution of Theon Sensors night vision products. No military customer or contract was confirmed, so the company is shown as a candidate only."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "AG",
+            "Type"
+          ],
+          [
+            "Berlin, Germany",
+            "Headquarters"
+          ],
+          [
+            "HRB 106287 B · LEI 89450052AQLRZ1LXN120",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "AG",
+            "Type"
+          ],
+          [
+            "Berlin, Germany",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4 (candidate)"
+      ],
+      "taxonomy": {
+        "domains": [
+          "LAND"
+        ],
+        "capabilities": [
+          "SENS"
+        ],
+        "roles": [
+          "TIER2"
+        ],
+        "levels": [],
+        "defence": [
+          "DUAL_USE"
+        ]
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Theon Sensors night vision",
+            "sub": "Government distribution",
+            "status": "Announced",
+            "icon": "briefcase",
+            "date": "19 Feb 2026",
+            "desc": "Government distribution",
+            "color": "grey"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Theon Sensors night vision",
+            "sub": "Government distribution",
+            "status": "Announced",
+            "icon": "briefcase",
+            "date": "19 Feb 2026",
+            "desc": "Government distribution",
+            "color": "grey"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "aiShell thermal imaging",
+          "level": "L0",
+          "icon": "sun",
+          "selected": true
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "aiShell thermal imaging",
+              "Used by the Berlin fire brigade",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [
+        [
+          "Thermal imaging",
+          "T.SENS",
+          "L0",
+          "#e39a55"
+        ]
+      ],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Theon Sensors",
+            "role": "Supplier · night vision distribution",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "handshake",
+            "edge": "unverified"
+          },
+          {
+            "name": "Berliner Feuerwehr",
+            "role": "Civil customer",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "building",
+            "edge": "unverified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Theon Sensors",
+            "role": "Supplier · night vision distribution",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "handshake",
+            "edge": "unverified"
+          },
+          {
+            "name": "Berliner Feuerwehr",
+            "role": "Civil customer",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "building",
+            "edge": "unverified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Andres Industries AG, HRB 106287 B",
+          "sources": 1,
+          "date": "20 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/89450052AQLRZ1LXN120"
+        },
+        {
+          "claim": "Government distribution of Theon Sensors night vision",
+          "sources": 1,
+          "date": "19 Feb 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://www.andres-industries.de/en"
+        },
+        {
+          "claim": "Military customer or contract",
+          "sources": 0,
+          "date": "20 Nov 2026",
+          "status": "None found yet",
+          "source": "Company website and web search",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Berlin",
+          "Registered office"
+        ]
       ]
     }
   }

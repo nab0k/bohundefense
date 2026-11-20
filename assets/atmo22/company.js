@@ -421,7 +421,7 @@ async function main() {
   state.vm = await buildReal(c);
   const d = await demo(slug(c.name));
   const p = d ? null : await profile(slug(c.name));
-  if (p) state.vm = overlayProfile(state.vm, p);
+  if (p && (!p.country || norm(p.country) === norm(c.country))) state.vm = overlayProfile(state.vm, p);
   if (d) {
     state.demo = d; state.vm = overlayDemo(state.vm, d);
     document.getElementById('demo-banner').innerHTML = `<div class="demo-banner" role="note">${icon('circle-alert')}<span><b>DEMO MODE</b> — content copied from the approved mock-up for visual comparison. Not verified data. Visible only on a local preview.</span></div>`;
