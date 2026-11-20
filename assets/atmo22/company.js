@@ -259,19 +259,20 @@ function technologies(vm) {
 
 function relationships(vm, ws) {
   const nodes = vm.relationships[ws ? 'workspace' : 'overview'];
-  const filters = ws ? `<div class="filters">${['All', 'Suppliers', 'Customers', 'Partners', 'Subsidiaries', 'Other'].map((f, i) => `<button type="button" class="fchip"${i ? '' : ' aria-pressed="true"'}>${f}</button>`).join('')}</div>` : '';
+  const filters = '';
+  const EDGE = { verified: 'Confirmed by source', unverified: 'Company statement', potential: 'Possible' };
   const center = `<div class="g-center"><span>${monogram(vm)}</span><b>${esc(vm.name)}</b></div>`;
   let graph;
   if (nodes.length) {
     const lines = nodes.map(n => `<line x1="${n.x * 100}" y1="${n.y * 100}" x2="50" y2="50" class="e-${n.edge}" vector-effect="non-scaling-stroke"/>`).join('');
     const labels = nodes.filter(n => n.label).map(n => `<span class="g-elabel e-${n.edge}" style="left:${(n.x * 0.42 + 0.5 * 0.58) * 100}%;top:${(n.y * 0.42 + 0.5 * 0.58) * 100}%">${esc(n.label)}</span>`).join('');
     graph = `<div class="graph"><svg viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true">${lines}</svg>${labels}${nodes.map(n => `<div class="g-node${n.x > 0.75 ? ' g-right' : ''}" style="left:${n.x * 100}%;top:${n.y * 100}%"><span class="g-ico">${icon(n.icon)}</span><div><b>${esc(n.name)}</b><small>${esc(n.role)}</small></div></div>`).join('')}${center}</div>
-      <ul class="g-list">${nodes.map(n => `<li><b>${esc(n.name)}</b> — ${esc(n.role)} <span class="tag">${esc(n.edge)}</span></li>`).join('')}</ul>`;
+      <ul class="g-list">${nodes.map(n => `<li><b>${esc(n.name)}</b> — ${esc(n.role)} <span class="tag">${esc(EDGE[n.edge] || n.edge)}</span></li>`).join('')}</ul>`;
   } else {
     graph = `<div class="graph graph-empty"><svg viewBox="0 0 100 100" preserveAspectRatio="none" aria-hidden="true"><ellipse cx="50" cy="50" rx="38" ry="36" class="e-potential" vector-effect="non-scaling-stroke"/></svg>${center}<p class="g-note">No verified relationships published. Shared technology, market or directory listing is not evidence of a supply relationship.</p></div>`;
   }
-  const legend = `<div class="legend"><span><i class="lg lg-verified"></i>Verified</span><span><i class="lg lg-unverified"></i>Unverified</span><span><i class="lg lg-potential"></i>Potential</span></div>`;
-  return panel('relationships', '06', 'Industrial relationships', 'Verified, unverified and potential connections.', filters + graph + legend, ['View full network', '#'], 'p-relationships');
+  const legend = `<div class="legend"><span><i class="lg lg-verified"></i>Confirmed by source</span><span><i class="lg lg-unverified"></i>Company statement</span><span><i class="lg lg-potential"></i>Possible</span></div>`;
+  return panel('relationships', '06', 'Industrial relationships', 'Owners, customers, partners and subsidiaries named in public sources.', filters + graph + legend, ['View full network', '#'], 'p-relationships');
 }
 
 function evidence(vm, ws) {
@@ -317,10 +318,10 @@ function render() {
   document.title = `${vm.name} | Company Intelligence | Bohun Defence`;
   if (vm.mode !== 'demo') for (const k of ['workspace', 'overview']) vm.facts[k] = vm.facts[k].filter(f => f[0] !== '—');
   content.innerHTML = ws
-    ? `${heroWorkspace(vm)}${coverage(vm)}
+    ? `${heroWorkspace(vm)}
        <div class="row ws-r1">${classification(vm, true)}${developments(vm, true)}${programmes(vm, true)}</div>
        <div class="row ws-r2">${productTree(vm)}${technologies(vm)}${relationships(vm, true)}${evidence(vm, true)}</div>`
-    : `${heroOverview(vm)}${coverage(vm)}
+    : `${heroOverview(vm)}
        <section class="panel ov-r1" aria-label="Summary and classification">${demoTag()}<div class="ov-summary"><p class="about">${vm.about.overview ? esc(vm.about.overview) : '<span class="muted">No public description available.</span>'}</p>${vm.mode !== 'demo' ? `<p class="caption">${vm.mode === 'profile' ? aboutCaption(vm) : 'From the public research index · not independently verified'}</p>` : ''}${facts(vm.facts.overview)}</div>${classification(vm, false)}</section>
        <div class="row ov-r2">${developments(vm, false)}${productAccordion(vm)}${relationships(vm, false)}</div>
        <div class="row ov-r3">${programmes(vm, false)}${evidence(vm, false)}${footprint(vm)}</div>`;
