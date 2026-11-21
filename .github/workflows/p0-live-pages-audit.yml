@@ -1,0 +1,72 @@
+name: P0 Live Pages DNS + Browser Verification (READ ONLY)
+on:
+  push:
+    branches: [audit/p1-live-104f7bc-20261013]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  live-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Network, DNS and HTTP response
+        run: |
+          set +e
+          python - <<'PY'
+          import socket
+          for host in ('bohundefence.com','www.bohundefence.com','nab0k.github.io'):
+            try:print('DNS',host, socket.getaddrinfo(host,443)[0][4])
+            except Exception as e:print('DNS_FAIL',host,str(e))
+          PY
+          for url in https://bohundefence.com/ https://www.bohundefence.com/ https://nab0k.github.io/bohundefense/; do
+            echo "CHECK $url"; curl -IL --max-time 22 --retry 1 "$url" || true
+          done
+      - name: Chromium external URL and DOM checks
+        run: |
+          npm install --no-save --no-package-lock playwright@1.55.0
+          npx playwright install --with-deps chromium
+          node --input-type=module <<'JS'
+          import { chromium } from 'playwright';
+          import fs from 'node:fs';
+          const browser=await chromium.launch({headless:true,args:['--no-sandbox']});
+          const report={};
+          for(const [label,url] of [['production','https://bohundefence.com/'],['githubio','https://nab0k.github.io/bohundefense/']]){
+            for(const [view,width,height] of [['desktop',1440,900],['mobile',390,844]]){
+              const page=await browser.newPage({viewport:{width,height},ignoreHTTPSErrors:false});
+              const key=label+'_'+view;report[key]={url};
+              try{
+                const res=await page.goto(url,{waitUntil:'domcontentloaded',timeout:25000});
+                report[key].status=res?.status()??null;
+                await page.waitForTimeout(4500);
+                report[key].title=await page.title();
+                for(const [k,selector] of Object.entries({map:'#map',feed:'#p0-feed',dossier:'#p0-dossier',search:'#q',mobileMenu:'details.m1-mobile-menu'})){
+                  report[key][k]=await page.locator(selector).count();
+                }
+                report[key].feedText=await page.locator('#p0-feed').count()?await page.locator('#p0-feed').innerText():null;
+                report[key].dossierSourceCodePresent=await page.evaluate(()=>[...document.scripts].some(x=>x.textContent.includes('No canonical Notion identity inferred')));
+                report[key].feedInsideSidebar=await page.locator('#p0-feed').evaluate(e=>e.parentElement?.id==='side');
+                await page.screenshot({path:'/tmp/'+key+'.png',fullPage:true});
+              }catch(e){report[key].error=String(e).slice(0,400)}
+              await page.close();
+            }
+          }
+          fs.writeFileSync('p0-live-pages-report.json',JSON.stringify(report,null,2));
+          console.log(JSON.stringify(report,null,2));
+          await browser.close();
+          JS
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: p0-live-pages-evidence
+          path: |
+            p0-live-pages-report.json
+            /tmp/production_*.png
+            /tmp/githubio_*.png
+          retention-days: 7
