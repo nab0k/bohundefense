@@ -12605,6 +12605,4886 @@
           "Registered office"
         ]
       ]
+    },
+    "andoya-space-defence-as": {
+      "developments": [
+        {
+          "date": "12 Dec 2025",
+          "title": "European Defence Fund project 101307740",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101307740/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "ANDØYA SPACE DEFENCE AS is a Norwegian company registered in 1997, with its seat in Andenes. It takes part in 1 European Defence Fund project (2025).",
+        "overview": "ANDØYA SPACE DEFENCE AS is a Norwegian company registered in 1997, with its seat in Andenes. It takes part in 1 European Defence Fund project (2025)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1997",
+            "Registered"
+          ],
+          [
+            "Andenes, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 879122392",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1997",
+            "Registered"
+          ],
+          [
+            "Andenes, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 879122392",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101307740",
+            "sub": "EU defence research and development · call EDF-2024-DA-EUCI-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-DA-EUCI-2",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101307740",
+            "sub": "EU defence research and development · call EDF-2024-DA-EUCI-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-DA-EUCI-2",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ANDØYA SPACE DEFENCE AS, Org.nr 879122392",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/879122392"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101307740",
+          "sources": 1,
+          "date": "12 Dec 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101307740/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Andenes",
+          "Registered office"
+        ]
+      ]
+    },
+    "and-ya-spaceport-as": {
+      "developments": [
+        {
+          "date": "27 Nov 2023",
+          "title": "European Defence Fund project 101121212",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121212/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "ANDØYA SPACEPORT AS is a Norwegian company registered in 2018, with its seat in Andenes. It takes part in 1 European Defence Fund project (2023).",
+        "overview": "ANDØYA SPACEPORT AS is a Norwegian company registered in 2018, with its seat in Andenes. It takes part in 1 European Defence Fund project (2023)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2018",
+            "Registered"
+          ],
+          [
+            "Andenes, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 922042748",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2018",
+            "Registered"
+          ],
+          [
+            "Andenes, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 922042748",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101121212",
+            "sub": "EU defence research and development · call EDF-2022-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "27 Nov 2023",
+            "desc": "Call EDF-2022-RA",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101121212",
+            "sub": "EU defence research and development · call EDF-2022-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "27 Nov 2023",
+            "desc": "Call EDF-2022-RA",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ANDØYA SPACEPORT AS, Org.nr 922042748",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922042748"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121212",
+          "sources": 1,
+          "date": "27 Nov 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121212/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Andenes",
+          "Registered office"
+        ]
+      ]
+    },
+    "biodrone-as": {
+      "developments": [
+        {
+          "date": "21 Aug 2026",
+          "title": "European Defence Fund project 101304840",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304840/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "BIODRONE AS is a Norwegian company registered in 2021, with its seat in Steinkjer. It takes part in 1 European Defence Fund project (2026).",
+        "overview": "BIODRONE AS is a Norwegian company registered in 2021, with its seat in Steinkjer. It takes part in 1 European Defence Fund project (2026)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2021",
+            "Registered"
+          ],
+          [
+            "Steinkjer, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 927018829",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2021",
+            "Registered"
+          ],
+          [
+            "Steinkjer, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 927018829",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101304840",
+            "sub": "EU defence research and development · call EDF-2025-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "21 Aug 2026",
+            "desc": "Call EDF-2025-RA",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101304840",
+            "sub": "EU defence research and development · call EDF-2025-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "21 Aug 2026",
+            "desc": "Call EDF-2025-RA",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity BIODRONE AS, Org.nr 927018829",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927018829"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101304840",
+          "sources": 1,
+          "date": "21 Aug 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304840/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Steinkjer",
+          "Registered office"
+        ]
+      ]
+    },
+    "blue-aerospace-as": {
+      "developments": [
+        {
+          "date": "04 Jan 2024",
+          "title": "Contract award by Utenriksdepartementet",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/5127-2024"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "BLUE AEROSPACE AS is a Norwegian company registered in 2013, with its seat in Oslo. EU procurement records (TED) list a contract award by Utenriksdepartementet (04 Jan 2024).",
+        "overview": "BLUE AEROSPACE AS is a Norwegian company registered in 2013, with its seat in Oslo. EU procurement records (TED) list a contract award by Utenriksdepartementet (04 Jan 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2013",
+            "Registered"
+          ],
+          [
+            "Oslo, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 999616690",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2013",
+            "Registered"
+          ],
+          [
+            "Oslo, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 999616690",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Utenriksdepartementet",
+            "sub": "TED notice 5127-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "04 Jan 2024",
+            "desc": "TED notice 5127-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Utenriksdepartementet",
+            "sub": "TED notice 5127-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "04 Jan 2024",
+            "desc": "TED notice 5127-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Utenriksdepartementet",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Utenriksdepartementet",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity BLUE AEROSPACE AS, Org.nr 999616690",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/999616690"
+        },
+        {
+          "claim": "Contract award by Utenriksdepartementet (TED 5127-2024)",
+          "sources": 1,
+          "date": "04 Jan 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/5127-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Oslo",
+          "Registered office"
+        ]
+      ]
+    },
+    "changeneering-as": {
+      "developments": [
+        {
+          "date": "12 Dec 2025",
+          "title": "European Defence Fund project 101223978",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101223978/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "CHANGENEERING AS is a Norwegian company registered in 2023, with its seat in Harstad. It takes part in 1 European Defence Fund project (2025).",
+        "overview": "CHANGENEERING AS is a Norwegian company registered in 2023, with its seat in Harstad. It takes part in 1 European Defence Fund project (2025)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2023",
+            "Registered"
+          ],
+          [
+            "Harstad, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 931806467",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2023",
+            "Registered"
+          ],
+          [
+            "Harstad, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 931806467",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101223978",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-DA",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101223978",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-DA",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity CHANGENEERING AS, Org.nr 931806467",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931806467"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101223978",
+          "sources": 1,
+          "date": "12 Dec 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101223978/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Harstad",
+          "Registered office"
+        ]
+      ]
+    },
+    "chemring-nobel-as": {
+      "developments": [
+        {
+          "date": "26 Sep 2024",
+          "title": "European Defence Fund project 101171464",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101171464/EDF"
+        },
+        {
+          "date": "26 Sep 2024",
+          "title": "European Defence Fund project 101171449",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101171449/EDF"
+        },
+        {
+          "date": "26 Sep 2024",
+          "title": "European Defence Fund project 101171451",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101171451/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "CHEMRING NOBEL AS is a Norwegian company registered in 2007, with its seat in Sætre. It takes part in 3 European Defence Fund projects (2024).",
+        "overview": "CHEMRING NOBEL AS is a Norwegian company registered in 2007, with its seat in Sætre. It takes part in 3 European Defence Fund projects (2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2007",
+            "Registered"
+          ],
+          [
+            "Sætre, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 991191984",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2007",
+            "Registered"
+          ],
+          [
+            "Sætre, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 991191984",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101171464",
+            "sub": "EU defence research and development · call EDF-ASAP-2023-LS-XPL",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "26 Sep 2024",
+            "desc": "Call EDF-ASAP-2023-LS-XPL",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101171449",
+            "sub": "EU defence research and development · call EDF-ASAP-2023-LS-XPL",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "26 Sep 2024",
+            "desc": "Call EDF-ASAP-2023-LS-XPL",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101171451",
+            "sub": "EU defence research and development · call EDF-ASAP-2023-LS-XPL",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "26 Sep 2024",
+            "desc": "Call EDF-ASAP-2023-LS-XPL",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101171464",
+            "sub": "EU defence research and development · call EDF-ASAP-2023-LS-XPL",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "26 Sep 2024",
+            "desc": "Call EDF-ASAP-2023-LS-XPL",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101171449",
+            "sub": "EU defence research and development · call EDF-ASAP-2023-LS-XPL",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "26 Sep 2024",
+            "desc": "Call EDF-ASAP-2023-LS-XPL",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101171451",
+            "sub": "EU defence research and development · call EDF-ASAP-2023-LS-XPL",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "26 Sep 2024",
+            "desc": "Call EDF-ASAP-2023-LS-XPL",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 3 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 3 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity CHEMRING NOBEL AS, Org.nr 991191984",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/991191984"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101171464",
+          "sources": 1,
+          "date": "26 Sep 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101171464/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101171449",
+          "sources": 1,
+          "date": "26 Sep 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101171449/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101171451",
+          "sources": 1,
+          "date": "26 Sep 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101171451/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Sætre",
+          "Registered office"
+        ]
+      ]
+    },
+    "eidel-as": {
+      "developments": [
+        {
+          "date": "27 Nov 2023",
+          "title": "European Defence Fund project 101121212",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121212/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "EIDEL AS is a Norwegian company registered in 1979, with its seat in Eidsvoll. It takes part in 1 European Defence Fund project (2023).",
+        "overview": "EIDEL AS is a Norwegian company registered in 1979, with its seat in Eidsvoll. It takes part in 1 European Defence Fund project (2023)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1979",
+            "Registered"
+          ],
+          [
+            "Eidsvoll, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 929054849",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1979",
+            "Registered"
+          ],
+          [
+            "Eidsvoll, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 929054849",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101121212",
+            "sub": "EU defence research and development · call EDF-2022-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "27 Nov 2023",
+            "desc": "Call EDF-2022-RA",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101121212",
+            "sub": "EU defence research and development · call EDF-2022-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "27 Nov 2023",
+            "desc": "Call EDF-2022-RA",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity EIDEL AS, Org.nr 929054849",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929054849"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121212",
+          "sources": 1,
+          "date": "27 Nov 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121212/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Eidsvoll",
+          "Registered office"
+        ]
+      ]
+    },
+    "fieldmade-as": {
+      "developments": [
+        {
+          "date": "04 Dec 2023",
+          "title": "European Defence Fund project 101121407",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121407/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "FIELDMADE AS is a Norwegian company registered in 2016, with its seat in Oslo. It takes part in 1 European Defence Fund project (2023).",
+        "overview": "FIELDMADE AS is a Norwegian company registered in 2016, with its seat in Oslo. It takes part in 1 European Defence Fund project (2023)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2016",
+            "Registered"
+          ],
+          [
+            "Oslo, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 917853975",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2016",
+            "Registered"
+          ],
+          [
+            "Oslo, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 917853975",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101121407",
+            "sub": "EU defence research and development · call EDF-2022-LS-RA-DIS",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "04 Dec 2023",
+            "desc": "Call EDF-2022-LS-RA-DIS",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101121407",
+            "sub": "EU defence research and development · call EDF-2022-LS-RA-DIS",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "04 Dec 2023",
+            "desc": "Call EDF-2022-LS-RA-DIS",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity FIELDMADE AS, Org.nr 917853975",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917853975"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121407",
+          "sources": 1,
+          "date": "04 Dec 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121407/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Oslo",
+          "Registered office"
+        ]
+      ]
+    },
+    "h-henriksen-as": {
+      "developments": [
+        {
+          "date": "12 Dec 2025",
+          "title": "European Defence Fund project 101223978",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101223978/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "H. HENRIKSEN AS is a Norwegian company registered in 1982, with its seat in Barkåker. It takes part in 1 European Defence Fund project (2025).",
+        "overview": "H. HENRIKSEN AS is a Norwegian company registered in 1982, with its seat in Barkåker. It takes part in 1 European Defence Fund project (2025)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1982",
+            "Registered"
+          ],
+          [
+            "Barkåker, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 831871962",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1982",
+            "Registered"
+          ],
+          [
+            "Barkåker, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 831871962",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101223978",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-DA",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101223978",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-DA",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity H. HENRIKSEN AS, Org.nr 831871962",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/831871962"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101223978",
+          "sources": 1,
+          "date": "12 Dec 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101223978/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Barkåker",
+          "Registered office"
+        ]
+      ]
+    },
+    "impetus-advanced-finite-element-analyses-as": {
+      "developments": [
+        {
+          "date": "13 Feb 2026",
+          "title": "European Defence Fund project 101224229",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224229/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "IMPETUS ADVANCED FINITE ELEMENT ANALYSES AS is a Norwegian company registered in 2006, with its seat in Flekkefjord. It takes part in 1 European Defence Fund project (2026).",
+        "overview": "IMPETUS ADVANCED FINITE ELEMENT ANALYSES AS is a Norwegian company registered in 2006, with its seat in Flekkefjord. It takes part in 1 European Defence Fund project (2026)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2006",
+            "Registered"
+          ],
+          [
+            "Flekkefjord, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 989424475",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2006",
+            "Registered"
+          ],
+          [
+            "Flekkefjord, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 989424475",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101224229",
+            "sub": "EU defence research and development · call EDF-2024-LS-RA-SMERO",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "13 Feb 2026",
+            "desc": "Call EDF-2024-LS-RA-SMERO",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101224229",
+            "sub": "EU defence research and development · call EDF-2024-LS-RA-SMERO",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "13 Feb 2026",
+            "desc": "Call EDF-2024-LS-RA-SMERO",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity IMPETUS ADVANCED FINITE ELEMENT ANALYSES AS, Org.nr 989424475",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/989424475"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224229",
+          "sources": 1,
+          "date": "13 Feb 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224229/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Flekkefjord",
+          "Registered office"
+        ]
+      ]
+    },
+    "institutt-for-energiteknikk-sti": {
+      "developments": [
+        {
+          "date": "16 Dec 2022",
+          "title": "European Defence Fund project 101103388",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103388/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "INSTITUTT FOR ENERGITEKNIKK STI is a Norwegian company registered in 1953, with its seat in Kjeller. It takes part in 1 European Defence Fund project (2022).",
+        "overview": "INSTITUTT FOR ENERGITEKNIKK STI is a Norwegian company registered in 1953, with its seat in Kjeller. It takes part in 1 European Defence Fund project (2022)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1953",
+            "Registered"
+          ],
+          [
+            "Kjeller, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 959432538",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1953",
+            "Registered"
+          ],
+          [
+            "Kjeller, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 959432538",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101103388",
+            "sub": "EU defence research and development · call EDF-2021-ENERENV-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "16 Dec 2022",
+            "desc": "Call EDF-2021-ENERENV-D-2",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101103388",
+            "sub": "EU defence research and development · call EDF-2021-ENERENV-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "16 Dec 2022",
+            "desc": "Call EDF-2021-ENERENV-D-2",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity INSTITUTT FOR ENERGITEKNIKK STI, Org.nr 959432538",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/959432538"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103388",
+          "sources": 1,
+          "date": "16 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103388/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Kjeller",
+          "Registered office"
+        ]
+      ]
+    },
+    "kongsberg-discovery-as": {
+      "developments": [
+        {
+          "date": "12 Dec 2025",
+          "title": "European Defence Fund project 101223978",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101223978/EDF"
+        },
+        {
+          "date": "28 Nov 2025",
+          "title": "European Defence Fund project 101224749",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224749/EDF"
+        },
+        {
+          "date": "29 Oct 2025",
+          "title": "European Defence Fund project 101223924",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101223924/EDF"
+        },
+        {
+          "date": "10 Dec 2024",
+          "title": "European Defence Fund project 101168134",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168134/EDF"
+        },
+        {
+          "date": "04 Dec 2023",
+          "title": "European Defence Fund project 101121213",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121213/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "KONGSBERG DISCOVERY AS is a Norwegian company registered in 2022, with its seat in Horten. It takes part in 5 European Defence Fund projects (2023–2025).",
+        "overview": "KONGSBERG DISCOVERY AS is a Norwegian company registered in 2022, with its seat in Horten. It takes part in 5 European Defence Fund projects (2023–2025)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2022",
+            "Registered"
+          ],
+          [
+            "Horten, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 930770426",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2022",
+            "Registered"
+          ],
+          [
+            "Horten, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 930770426",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101223978",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101224749",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "28 Nov 2025",
+            "desc": "Call EDF-2024-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101223924",
+            "sub": "EU defence research and development · call EDF-2024-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "29 Oct 2025",
+            "desc": "Call EDF-2024-RA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101168134",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "10 Dec 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101121213",
+            "sub": "EU defence research and development · call EDF-2022-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "04 Dec 2023",
+            "desc": "Call EDF-2022-RA",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101223978",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101224749",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "28 Nov 2025",
+            "desc": "Call EDF-2024-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101223924",
+            "sub": "EU defence research and development · call EDF-2024-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "29 Oct 2025",
+            "desc": "Call EDF-2024-RA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101168134",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "10 Dec 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 5 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 5 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity KONGSBERG DISCOVERY AS, Org.nr 930770426",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930770426"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101223978",
+          "sources": 1,
+          "date": "12 Dec 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101223978/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224749",
+          "sources": 1,
+          "date": "28 Nov 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224749/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101223924",
+          "sources": 1,
+          "date": "29 Oct 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101223924/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101168134",
+          "sources": 1,
+          "date": "10 Dec 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168134/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121213",
+          "sources": 1,
+          "date": "04 Dec 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121213/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Horten",
+          "Registered office"
+        ]
+      ]
+    },
+    "light-structures-as": {
+      "developments": [
+        {
+          "date": "07 Dec 2022",
+          "title": "European Defence Fund project 101103257",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103257/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "LIGHT STRUCTURES AS is a Norwegian company registered in 2001, with its seat in Oslo. It takes part in 1 European Defence Fund project (2022).",
+        "overview": "LIGHT STRUCTURES AS is a Norwegian company registered in 2001, with its seat in Oslo. It takes part in 1 European Defence Fund project (2022)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2001",
+            "Registered"
+          ],
+          [
+            "Oslo, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 984060084",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2001",
+            "Registered"
+          ],
+          [
+            "Oslo, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 984060084",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101103257",
+            "sub": "EU defence research and development · call EDF-2021-NAVAL-R-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "07 Dec 2022",
+            "desc": "Call EDF-2021-NAVAL-R-2",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101103257",
+            "sub": "EU defence research and development · call EDF-2021-NAVAL-R-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "07 Dec 2022",
+            "desc": "Call EDF-2021-NAVAL-R-2",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity LIGHT STRUCTURES AS, Org.nr 984060084",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/984060084"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103257",
+          "sources": 1,
+          "date": "07 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103257/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Oslo",
+          "Registered office"
+        ]
+      ]
+    },
+    "maritime-robotics-as": {
+      "developments": [
+        {
+          "date": "21 Aug 2026",
+          "title": "European Defence Fund project 101304840",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304840/EDF"
+        },
+        {
+          "date": "19 Jun 2025",
+          "title": "European Defence Fund project 101168211",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168211/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "MARITIME ROBOTICS AS is a Norwegian company registered in 2005, with its seat in Trondheim. It takes part in 2 European Defence Fund projects (2025–2026).",
+        "overview": "MARITIME ROBOTICS AS is a Norwegian company registered in 2005, with its seat in Trondheim. It takes part in 2 European Defence Fund projects (2025–2026)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2005",
+            "Registered"
+          ],
+          [
+            "Trondheim, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 888003142",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2005",
+            "Registered"
+          ],
+          [
+            "Trondheim, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 888003142",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101304840",
+            "sub": "EU defence research and development · call EDF-2025-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "21 Aug 2026",
+            "desc": "Call EDF-2025-RA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101168211",
+            "sub": "EU defence research and development · call EDF-2023-LS-DA-SME",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "19 Jun 2025",
+            "desc": "Call EDF-2023-LS-DA-SME",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101304840",
+            "sub": "EU defence research and development · call EDF-2025-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "21 Aug 2026",
+            "desc": "Call EDF-2025-RA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101168211",
+            "sub": "EU defence research and development · call EDF-2023-LS-DA-SME",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "19 Jun 2025",
+            "desc": "Call EDF-2023-LS-DA-SME",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity MARITIME ROBOTICS AS, Org.nr 888003142",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/888003142"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101304840",
+          "sources": 1,
+          "date": "21 Aug 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304840/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101168211",
+          "sources": 1,
+          "date": "19 Jun 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168211/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Trondheim",
+          "Registered office"
+        ]
+      ]
+    },
+    "mnemonic-as": {
+      "developments": [
+        {
+          "date": "17 Aug 2026",
+          "title": "European Defence Fund project 101304685",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304685/EDF"
+        },
+        {
+          "date": "07 Dec 2022",
+          "title": "European Defence Fund project 101103385",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103385/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "MNEMONIC AS is a Norwegian company registered in 2000, with its seat in Oslo. It takes part in 2 European Defence Fund projects (2022–2026).",
+        "overview": "MNEMONIC AS is a Norwegian company registered in 2000, with its seat in Oslo. It takes part in 2 European Defence Fund projects (2022–2026)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2000",
+            "Registered"
+          ],
+          [
+            "Oslo, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 982089549",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2000",
+            "Registered"
+          ],
+          [
+            "Oslo, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 982089549",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101304685",
+            "sub": "EU defence research and development · call EDF-2025-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "17 Aug 2026",
+            "desc": "Call EDF-2025-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101103385",
+            "sub": "EU defence research and development · call EDF-2021-CYBER-R-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "07 Dec 2022",
+            "desc": "Call EDF-2021-CYBER-R-2",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101304685",
+            "sub": "EU defence research and development · call EDF-2025-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "17 Aug 2026",
+            "desc": "Call EDF-2025-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101103385",
+            "sub": "EU defence research and development · call EDF-2021-CYBER-R-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "07 Dec 2022",
+            "desc": "Call EDF-2021-CYBER-R-2",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity MNEMONIC AS, Org.nr 982089549",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/982089549"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101304685",
+          "sources": 1,
+          "date": "17 Aug 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304685/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103385",
+          "sources": 1,
+          "date": "07 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103385/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Oslo",
+          "Registered office"
+        ]
+      ]
+    },
+    "nammo-raufoss-as": {
+      "developments": [
+        {
+          "date": "13 Nov 2025",
+          "title": "European Defence Fund project 101224302",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224302/EDF"
+        },
+        {
+          "date": "28 Nov 2024",
+          "title": "European Defence Fund project 101168095",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168095/EDF"
+        },
+        {
+          "date": "08 Oct 2024",
+          "title": "European Defence Fund project 101170821",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101170821/EDF"
+        },
+        {
+          "date": "06 Sep 2024",
+          "title": "European Defence Fund project 101172125",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101172125/EDF"
+        },
+        {
+          "date": "23 Feb 2024",
+          "title": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/112926-2024"
+        },
+        {
+          "date": "23 Feb 2024",
+          "title": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/113762-2024"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "NAMMO RAUFOSS AS is a Norwegian company registered in 1998, with its seat in Raufoss. It takes part in 5 European Defence Fund projects (2023–2025). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (23 Feb 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (23 Feb 2024).",
+        "overview": "NAMMO RAUFOSS AS is a Norwegian company registered in 1998, with its seat in Raufoss. It takes part in 5 European Defence Fund projects (2023–2025). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (23 Feb 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (23 Feb 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1998",
+            "Registered"
+          ],
+          [
+            "Raufoss, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 980038300",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1998",
+            "Registered"
+          ],
+          [
+            "Raufoss, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 980038300",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101224302",
+            "sub": "EU defence research and development · call EDF-2024-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "13 Nov 2025",
+            "desc": "Call EDF-2024-RA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101168095",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "28 Nov 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101170821",
+            "sub": "EU defence research and development · call EDF-ASAP-2023-LS-MIS",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "08 Oct 2024",
+            "desc": "Call EDF-ASAP-2023-LS-MIS",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101172125",
+            "sub": "EU defence research and development · call EDF-ASAP-2023-LS-POW",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "06 Sep 2024",
+            "desc": "Call EDF-ASAP-2023-LS-POW",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 112926-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "23 Feb 2024",
+            "desc": "TED notice 112926-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 113762-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "23 Feb 2024",
+            "desc": "TED notice 113762-2024",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101121426",
+            "sub": "EU defence research and development · call EDF-2022-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "04 Dec 2023",
+            "desc": "Call EDF-2022-RA",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101224302",
+            "sub": "EU defence research and development · call EDF-2024-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "13 Nov 2025",
+            "desc": "Call EDF-2024-RA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101168095",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "28 Nov 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101170821",
+            "sub": "EU defence research and development · call EDF-ASAP-2023-LS-MIS",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "08 Oct 2024",
+            "desc": "Call EDF-ASAP-2023-LS-MIS",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101172125",
+            "sub": "EU defence research and development · call EDF-ASAP-2023-LS-POW",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "06 Sep 2024",
+            "desc": "Call EDF-ASAP-2023-LS-POW",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 5 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 5 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity NAMMO RAUFOSS AS, Org.nr 980038300",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/980038300"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224302",
+          "sources": 1,
+          "date": "13 Nov 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224302/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101168095",
+          "sources": 1,
+          "date": "28 Nov 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168095/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101170821",
+          "sources": 1,
+          "date": "08 Oct 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101170821/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101172125",
+          "sources": 1,
+          "date": "06 Sep 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101172125/EDF"
+        },
+        {
+          "claim": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (TED 112926-2024)",
+          "sources": 1,
+          "date": "23 Feb 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/112926-2024"
+        },
+        {
+          "claim": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (TED 113762-2024)",
+          "sources": 1,
+          "date": "23 Feb 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/113762-2024"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121426",
+          "sources": 1,
+          "date": "04 Dec 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121426/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Raufoss",
+          "Registered office"
+        ]
+      ]
+    },
+    "nfm-technology-as": {
+      "developments": [
+        {
+          "date": "27 Nov 2025",
+          "title": "European Defence Fund project 101224241",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224241/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "NFM TECHNOLOGY AS is a Norwegian company registered in 2004, with its seat in Ski. It takes part in 1 European Defence Fund project (2025).",
+        "overview": "NFM TECHNOLOGY AS is a Norwegian company registered in 2004, with its seat in Ski. It takes part in 1 European Defence Fund project (2025)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2004",
+            "Registered"
+          ],
+          [
+            "Ski, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 987444282",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2004",
+            "Registered"
+          ],
+          [
+            "Ski, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 987444282",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101224241",
+            "sub": "EU defence research and development · call EDF-2024-LS-RA-DIS",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "27 Nov 2025",
+            "desc": "Call EDF-2024-LS-RA-DIS",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101224241",
+            "sub": "EU defence research and development · call EDF-2024-LS-RA-DIS",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "27 Nov 2025",
+            "desc": "Call EDF-2024-LS-RA-DIS",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity NFM TECHNOLOGY AS, Org.nr 987444282",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/987444282"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224241",
+          "sources": 1,
+          "date": "27 Nov 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224241/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Ski",
+          "Registered office"
+        ]
+      ]
+    },
+    "norges-teknisk-naturvitenskapelige-universitet-ntnu": {
+      "developments": [
+        {
+          "date": "01 Dec 2023",
+          "title": "European Defence Fund project 101121335",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121335/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU is a Norwegian company, with its seat in Trondheim. It takes part in 1 European Defence Fund project (2023).",
+        "overview": "NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU is a Norwegian company, with its seat in Trondheim. It takes part in 1 European Defence Fund project (2023)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Trondheim, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 974767880",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Trondheim, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 974767880",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101121335",
+            "sub": "EU defence research and development · call EDF-2022-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "01 Dec 2023",
+            "desc": "Call EDF-2022-DA",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101121335",
+            "sub": "EU defence research and development · call EDF-2022-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "01 Dec 2023",
+            "desc": "Call EDF-2022-DA",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity NORGES TEKNISK-NATURVITENSKAPELIGE UNIVERSITET NTNU, Org.nr 974767880",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/974767880"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121335",
+          "sources": 1,
+          "date": "01 Dec 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121335/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Trondheim",
+          "Registered office"
+        ]
+      ]
+    },
+    "radionor-communications-as": {
+      "developments": [
+        {
+          "date": "09 Dec 2022",
+          "title": "European Defence Fund project 101102587",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102587/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L1 · supported · named military products"
+        ]
+      ],
+      "about": {
+        "workspace": "RADIONOR COMMUNICATIONS AS is a Norwegian company registered in 2000, with its seat in Trondheim. It takes part in 1 European Defence Fund project (2022). Its website presents military products including I-BEAM series, I-BEAM PORTABLE VECTOR.",
+        "overview": "RADIONOR COMMUNICATIONS AS is a Norwegian company registered in 2000, with its seat in Trondheim. It takes part in 1 European Defence Fund project (2022). Its website presents military products including I-BEAM series, I-BEAM PORTABLE VECTOR."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2000",
+            "Registered"
+          ],
+          [
+            "Trondheim, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 882136752",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2000",
+            "Registered"
+          ],
+          [
+            "Trondheim, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 882136752",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L1"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101102587",
+            "sub": "EU defence research and development · call EDF-2021-OPEN-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "09 Dec 2022",
+            "desc": "Call EDF-2021-OPEN-D-2",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101102587",
+            "sub": "EU defence research and development · call EDF-2021-OPEN-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "09 Dec 2022",
+            "desc": "Call EDF-2021-OPEN-D-2",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "BLACKBEAM",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "I-BEAM series",
+          "level": "L0",
+          "icon": "crosshair"
+        },
+        {
+          "label": "REDBOX",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "I-BEAM 360",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "I-BEAM 360 AERO",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "I-BEAM RUGGED",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "I-BEAM SEALED",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "I-BEAM LW",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "I-BEAM PORTABLE VECTOR",
+          "level": "L0",
+          "icon": "crosshair"
+        },
+        {
+          "label": "I-BEAM SECTOR",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "I-BEAM 360 UAV",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "MICRO",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "BLACKBEAM",
+              "BLACKBEAM™ Extreme Capabilities for the Extreme Missions",
+              "grey"
+            ],
+            [
+              "I-BEAM series",
+              "I-BEAM series The next generation technology solution for point-to-multipoint tactical data links.",
+              "green"
+            ],
+            [
+              "REDBOX",
+              "REDBOX™ Accessory that gives high precision geolocation navigation in addition to the tactical long range wireless communication system.",
+              "grey"
+            ],
+            [
+              "I-BEAM 360",
+              "I-BEAM 360 Horizontally mounted panel with radio transceiver and antennas, ideal for small vessels and vehicle installations.",
+              "grey"
+            ],
+            [
+              "I-BEAM 360 AERO",
+              "I-BEAM 360 AERO Horizontally mounted panel with radio transceiver and antennas, ideal for manned aircraft.",
+              "grey"
+            ],
+            [
+              "I-BEAM RUGGED",
+              "I-BEAM RUGGED Compact radio transceiver and antennas ideal for portable applications with RF connectors for attachment to external antennas.",
+              "grey"
+            ],
+            [
+              "I-BEAM SEALED",
+              "I-BEAM SEALED Compact radio transceiver and antennas ideal for portable or man-carried applications.",
+              "grey"
+            ],
+            [
+              "I-BEAM LW",
+              "I-BEAM LW Compact and lightweight radio transceiver designed for integration into small unmanned systems.",
+              "grey"
+            ],
+            [
+              "I-BEAM PORTABLE VECTOR",
+              "I-BEAM PORTABLE VECTOR is a combat proven tactical long range wireless communication system extended with a high precision navigation system",
+              "green"
+            ],
+            [
+              "I-BEAM SECTOR",
+              "I-BEAM SECTOR Vertically mounted panel with radio transceiver and antennas ideal for vessels and semi-mobile installations.",
+              "grey"
+            ],
+            [
+              "I-BEAM 360 UAV",
+              "I-BEAM 360 UAV Horizontally mounted panel with radio transceiver and antennas ideal for UAV applications.",
+              "grey"
+            ],
+            [
+              "MICRO",
+              "MICRO The MICRO is a lightweight, electronically steered phased-array radio.",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity RADIONOR COMMUNICATIONS AS, Org.nr 882136752",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/882136752"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101102587",
+          "sources": 1,
+          "date": "09 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102587/EDF"
+        },
+        {
+          "claim": "I-BEAM series: “I-BEAM series The next generation technology solution for point-to-multipoint tactical data links.”",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://radionor.no/"
+        },
+        {
+          "claim": "I-BEAM PORTABLE VECTOR: “I-BEAM PORTABLE VECTOR is a combat proven tactical long range wireless communication system extended with a high precision navigation system.”",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://radionor.no/products/"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Trondheim",
+          "Registered office"
+        ]
+      ]
+    },
+    "safran-sensing-technologies-norway-as": {
+      "developments": [
+        {
+          "date": "05 Dec 2024",
+          "title": "European Defence Fund project 101168046",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168046/EDF"
+        },
+        {
+          "date": "04 Dec 2023",
+          "title": "European Defence Fund project 101121426",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121426/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "SAFRAN SENSING TECHNOLOGIES NORWAY AS is a Norwegian company registered in 2012, with its seat in Skoppum. It takes part in 2 European Defence Fund projects (2023–2024).",
+        "overview": "SAFRAN SENSING TECHNOLOGIES NORWAY AS is a Norwegian company registered in 2012, with its seat in Skoppum. It takes part in 2 European Defence Fund projects (2023–2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2012",
+            "Registered"
+          ],
+          [
+            "Skoppum, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 998068266",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2012",
+            "Registered"
+          ],
+          [
+            "Skoppum, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 998068266",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101168046",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "05 Dec 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101121426",
+            "sub": "EU defence research and development · call EDF-2022-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "04 Dec 2023",
+            "desc": "Call EDF-2022-RA",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101168046",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "05 Dec 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101121426",
+            "sub": "EU defence research and development · call EDF-2022-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "04 Dec 2023",
+            "desc": "Call EDF-2022-RA",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity SAFRAN SENSING TECHNOLOGIES NORWAY AS, Org.nr 998068266",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/998068266"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101168046",
+          "sources": 1,
+          "date": "05 Dec 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168046/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121426",
+          "sources": 1,
+          "date": "04 Dec 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121426/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Skoppum",
+          "Registered office"
+        ]
+      ]
+    },
+    "squarehead-technology-as": {
+      "developments": [
+        {
+          "date": "12 Dec 2025",
+          "title": "European Defence Fund project 101224662",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224662/EDF"
+        },
+        {
+          "date": "13 Dec 2024",
+          "title": "European Defence Fund project 101167796",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167796/EDF"
+        },
+        {
+          "date": "01 Dec 2023",
+          "title": "European Defence Fund project 101121371",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121371/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "SQUAREHEAD TECHNOLOGY AS is a Norwegian company registered in 2004, with its seat in Oslo. It takes part in 3 European Defence Fund projects (2023–2025).",
+        "overview": "SQUAREHEAD TECHNOLOGY AS is a Norwegian company registered in 2004, with its seat in Oslo. It takes part in 3 European Defence Fund projects (2023–2025)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2004",
+            "Registered"
+          ],
+          [
+            "Oslo, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 987307749",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2004",
+            "Registered"
+          ],
+          [
+            "Oslo, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 987307749",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101224662",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101167796",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "13 Dec 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101121371",
+            "sub": "EU defence research and development · call EDF-2022-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "01 Dec 2023",
+            "desc": "Call EDF-2022-DA",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101224662",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101167796",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "13 Dec 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101121371",
+            "sub": "EU defence research and development · call EDF-2022-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "01 Dec 2023",
+            "desc": "Call EDF-2022-DA",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 3 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 3 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity SQUAREHEAD TECHNOLOGY AS, Org.nr 987307749",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/987307749"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224662",
+          "sources": 1,
+          "date": "12 Dec 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224662/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167796",
+          "sources": 1,
+          "date": "13 Dec 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167796/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121371",
+          "sources": 1,
+          "date": "01 Dec 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121371/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Oslo",
+          "Registered office"
+        ]
+      ]
+    },
+    "stadt-as": {
+      "developments": [
+        {
+          "date": "15 Dec 2022",
+          "title": "European Defence Fund project 101102515",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102515/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "STADT AS is a Norwegian company registered in 2001, with its seat in Gjerdsvika. It takes part in 1 European Defence Fund project (2022).",
+        "overview": "STADT AS is a Norwegian company registered in 2001, with its seat in Gjerdsvika. It takes part in 1 European Defence Fund project (2022)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2001",
+            "Registered"
+          ],
+          [
+            "Gjerdsvika, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 984021887",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2001",
+            "Registered"
+          ],
+          [
+            "Gjerdsvika, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 984021887",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101102515",
+            "sub": "EU defence research and development · call EDF-2021-OPEN-R-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "15 Dec 2022",
+            "desc": "Call EDF-2021-OPEN-R-2",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101102515",
+            "sub": "EU defence research and development · call EDF-2021-OPEN-R-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "15 Dec 2022",
+            "desc": "Call EDF-2021-OPEN-R-2",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity STADT AS, Org.nr 984021887",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/984021887"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101102515",
+          "sources": 1,
+          "date": "15 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102515/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Gjerdsvika",
+          "Registered office"
+        ]
+      ]
+    },
+    "telenor-asa": {
+      "developments": [
+        {
+          "date": "12 Dec 2025",
+          "title": "European Defence Fund project 101218568",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101218568/EDF"
+        },
+        {
+          "date": "16 Dec 2022",
+          "title": "European Defence Fund project 101103519",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103519/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "TELENOR ASA is a Norwegian company registered in 2000, with its seat in Fornebu. It takes part in 2 European Defence Fund projects (2022–2025).",
+        "overview": "TELENOR ASA is a Norwegian company registered in 2000, with its seat in Fornebu. It takes part in 2 European Defence Fund projects (2022–2025)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2000",
+            "Registered"
+          ],
+          [
+            "Fornebu, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 982463718",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2000",
+            "Registered"
+          ],
+          [
+            "Fornebu, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 982463718",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101218568",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101103519",
+            "sub": "EU defence research and development · call EDF-2021-C4ISR-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "16 Dec 2022",
+            "desc": "Call EDF-2021-C4ISR-D-2",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101218568",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101103519",
+            "sub": "EU defence research and development · call EDF-2021-C4ISR-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "16 Dec 2022",
+            "desc": "Call EDF-2021-C4ISR-D-2",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity TELENOR ASA, Org.nr 982463718",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/982463718"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101218568",
+          "sources": 1,
+          "date": "12 Dec 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101218568/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103519",
+          "sources": 1,
+          "date": "16 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103519/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Fornebu",
+          "Registered office"
+        ]
+      ]
+    },
+    "teleplan-globe-as": {
+      "developments": [
+        {
+          "date": "13 Dec 2023",
+          "title": "European Defence Fund project 101121440",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121440/EDF"
+        },
+        {
+          "date": "06 Dec 2023",
+          "title": "European Defence Fund project 101121414",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121414/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "TELEPLAN GLOBE AS is a Norwegian company registered in 1973, with its seat in Lysaker. It takes part in 2 European Defence Fund projects (2023).",
+        "overview": "TELEPLAN GLOBE AS is a Norwegian company registered in 1973, with its seat in Lysaker. It takes part in 2 European Defence Fund projects (2023)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1973",
+            "Registered"
+          ],
+          [
+            "Lysaker, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 926981595",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1973",
+            "Registered"
+          ],
+          [
+            "Lysaker, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 926981595",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101121440",
+            "sub": "EU defence research and development · call EDF-2022-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "13 Dec 2023",
+            "desc": "Call EDF-2022-RA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101121414",
+            "sub": "EU defence research and development · call EDF-2022-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "06 Dec 2023",
+            "desc": "Call EDF-2022-DA",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101121440",
+            "sub": "EU defence research and development · call EDF-2022-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "13 Dec 2023",
+            "desc": "Call EDF-2022-RA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101121414",
+            "sub": "EU defence research and development · call EDF-2022-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "06 Dec 2023",
+            "desc": "Call EDF-2022-DA",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity TELEPLAN GLOBE AS, Org.nr 926981595",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926981595"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121440",
+          "sources": 1,
+          "date": "13 Dec 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121440/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121414",
+          "sources": 1,
+          "date": "06 Dec 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121414/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Lysaker",
+          "Registered office"
+        ]
+      ]
+    },
+    "testnor-as": {
+      "developments": [
+        {
+          "date": "29 Oct 2025",
+          "title": "European Defence Fund project 101224389",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224389/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "TESTNOR AS is a Norwegian company registered in 2021, with its seat in Tromsø. It takes part in 1 European Defence Fund project (2025).",
+        "overview": "TESTNOR AS is a Norwegian company registered in 2021, with its seat in Tromsø. It takes part in 1 European Defence Fund project (2025)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2021",
+            "Registered"
+          ],
+          [
+            "Tromsø, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 926681648",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2021",
+            "Registered"
+          ],
+          [
+            "Tromsø, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 926681648",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101224389",
+            "sub": "EU defence research and development · call EDF-2024-LS-RA-CHALLENGE",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "29 Oct 2025",
+            "desc": "Call EDF-2024-LS-RA-CHALLENGE",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101224389",
+            "sub": "EU defence research and development · call EDF-2024-LS-RA-CHALLENGE",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "29 Oct 2025",
+            "desc": "Call EDF-2024-LS-RA-CHALLENGE",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "Open-air Real-world test range",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Data platform",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Open-air Real-world test range",
+              "Open-air Real-world test range Arctic Extreme conditions NATO DIANA Alliance-backed ISO 9001 · 14001 · 27001 Certified",
+              "grey"
+            ],
+            [
+              "Data platform",
+              "Our data platform closes the loop between real-world attacks and repeatable lab testing.",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity TESTNOR AS, Org.nr 926681648",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926681648"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224389",
+          "sources": 1,
+          "date": "29 Oct 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224389/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Tromsø",
+          "Registered office"
+        ]
+      ]
+    },
+    "thales-norway-as": {
+      "developments": [
+        {
+          "date": "01 Dec 2023",
+          "title": "European Defence Fund project 101121335",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121335/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "THALES NORWAY AS is a Norwegian company registered in 1997, with its seat in Oslo. It takes part in 1 European Defence Fund project (2023).",
+        "overview": "THALES NORWAY AS is a Norwegian company registered in 1997, with its seat in Oslo. It takes part in 1 European Defence Fund project (2023)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1997",
+            "Registered"
+          ],
+          [
+            "Oslo, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 979485190",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1997",
+            "Registered"
+          ],
+          [
+            "Oslo, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 979485190",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101121335",
+            "sub": "EU defence research and development · call EDF-2022-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "01 Dec 2023",
+            "desc": "Call EDF-2022-DA",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101121335",
+            "sub": "EU defence research and development · call EDF-2022-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "01 Dec 2023",
+            "desc": "Call EDF-2022-DA",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity THALES NORWAY AS, Org.nr 979485190",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/979485190"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121335",
+          "sources": 1,
+          "date": "01 Dec 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121335/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Oslo",
+          "Registered office"
+        ]
+      ]
+    },
+    "ubiq-aerospace-as": {
+      "developments": [
+        {
+          "date": "05 Dec 2024",
+          "title": "European Defence Fund project 101168046",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168046/EDF"
+        },
+        {
+          "date": "01 Dec 2023",
+          "title": "European Defence Fund project 101121444",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121444/EDF"
+        }
+      ],
+      "country": "NO",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "UBIQ AEROSPACE AS is a Norwegian company registered in 2017, with its seat in Trondheim. It takes part in 2 European Defence Fund projects (2023–2024).",
+        "overview": "UBIQ AEROSPACE AS is a Norwegian company registered in 2017, with its seat in Trondheim. It takes part in 2 European Defence Fund projects (2023–2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2017",
+            "Registered"
+          ],
+          [
+            "Trondheim, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 920207766",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2017",
+            "Registered"
+          ],
+          [
+            "Trondheim, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 920207766",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101168046",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "05 Dec 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101121444",
+            "sub": "EU defence research and development · call EDF-2022-LS-RA-SMERO",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "01 Dec 2023",
+            "desc": "Call EDF-2022-LS-RA-SMERO",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101168046",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "05 Dec 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101121444",
+            "sub": "EU defence research and development · call EDF-2022-LS-RA-SMERO",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "01 Dec 2023",
+            "desc": "Call EDF-2022-LS-RA-SMERO",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity UBIQ AEROSPACE AS, Org.nr 920207766",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/920207766"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101168046",
+          "sources": 1,
+          "date": "05 Dec 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168046/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121444",
+          "sources": 1,
+          "date": "01 Dec 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121444/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Trondheim",
+          "Registered office"
+        ]
+      ]
     }
   }
 }
