@@ -1,0 +1,40 @@
+name: Atlas V2 Live UX Audit (READ ONLY)
+on:
+  pull_request:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: |
+          pip install playwright==1.55.0
+          python -m playwright install --with-deps chromium
+      - name: Check production Atlas v2 desktop and mobile
+        run: |
+          python - <<'PY'
+          from playwright.sync_api import sync_playwright
+          for origin in ['https://bohundefence.com','https://nab0k.github.io/bohundefense']:
+            with sync_playwright() as p:
+              browser=p.chromium.launch(headless=True)
+              for width,height in [(1440,900),(390,844)]:
+                page=browser.new_page(viewport={'width':width,'height':height})
+                page.goto(origin+'/?audit=dbfc1b3-minfix',wait_until='domcontentloaded',timeout=30000)
+                page.locator('#atlas-window-restore').wait_for(state='attached',timeout=20000)
+                assert page.locator('#p0-feed .atlas-window-bar').count()==1
+                assert page.locator('#p0-dossier .atlas-window-bar').count()==1
+                assert page.locator('#notion-index-panel').count()==0
+                assert page.locator('#p0-dossier').evaluate('(e)=>getComputedStyle(e).display')=='none'
+                page.wait_for_function("document.querySelectorAll('#p1-rail-chips button').length>=8",timeout=18000)
+                page.locator('#p0-feed .atlas-window-bar button').click()
+                assert page.locator('#p0-feed').evaluate('(e)=>getComputedStyle(e).display')=='none'
+                page.screenshot(path='/tmp/v2-'+str(width)+'.png')
+                print('LIVE V2 PASS',origin,width)
+              browser.close()
+          PY
