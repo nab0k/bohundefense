@@ -8426,6 +8426,1147 @@
           "Registered office"
         ]
       ]
+    },
+    "naval-group": {
+      "developments": [
+        {
+          "date": "17 Aug 2026",
+          "title": "European Defence Fund project 101302020",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+        },
+        {
+          "date": "04 Aug 2026",
+          "title": "European Defence Fund project 101304558",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304558/EDF"
+        },
+        {
+          "date": "28 Nov 2025",
+          "title": "European Defence Fund project 101224749",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224749/EDF"
+        },
+        {
+          "date": "19 Nov 2025",
+          "title": "European Defence Fund project 101224382",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224382/EDF"
+        },
+        {
+          "date": "29 Oct 2025",
+          "title": "European Defence Fund project 101223924",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101223924/EDF"
+        },
+        {
+          "date": "10 Dec 2024",
+          "title": "European Defence Fund project 101168134",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168134/EDF"
+        }
+      ],
+      "country": "FR",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "NAVAL GROUP is a French company registered in 2002, with its seat in Paris. It takes part in 14 European Defence Fund projects (2022–2026).",
+        "overview": "NAVAL GROUP is a French company registered in 2002, with its seat in Paris. It takes part in 14 European Defence Fund projects (2022–2026)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2002",
+            "Registered"
+          ],
+          [
+            "Paris, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 441133808",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2002",
+            "Registered"
+          ],
+          [
+            "Paris, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 441133808",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101302020",
+            "sub": "EU defence research and development · call EDF-2025-LS-RA-SI",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "17 Aug 2026",
+            "desc": "Call EDF-2025-LS-RA-SI",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101304558",
+            "sub": "EU defence research and development · call EDF-2025-LS-RA-DIS",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "04 Aug 2026",
+            "desc": "Call EDF-2025-LS-RA-DIS",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101224749",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "28 Nov 2025",
+            "desc": "Call EDF-2024-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101224382",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "19 Nov 2025",
+            "desc": "Call EDF-2024-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101223924",
+            "sub": "EU defence research and development · call EDF-2024-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "29 Oct 2025",
+            "desc": "Call EDF-2024-RA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101168134",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "10 Dec 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101167641",
+            "sub": "EU defence research and development · call EDF-2023-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "28 Nov 2024",
+            "desc": "Call EDF-2023-RA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101167894",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "18 Nov 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101121330",
+            "sub": "EU defence research and development · call EDF-2022-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "06 Dec 2023",
+            "desc": "Call EDF-2022-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101121409",
+            "sub": "EU defence research and development · call EDF-2022-LS-RA-DIS",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "04 Dec 2023",
+            "desc": "Call EDF-2022-LS-RA-DIS",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101121408",
+            "sub": "EU defence research and development · call EDF-2022-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "23 Nov 2023",
+            "desc": "Call EDF-2022-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101103386",
+            "sub": "EU defence research and development · call EDF-2021-DIGIT-R-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "08 Dec 2022",
+            "desc": "Call EDF-2021-DIGIT-R-2",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101103385",
+            "sub": "EU defence research and development · call EDF-2021-CYBER-R-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "07 Dec 2022",
+            "desc": "Call EDF-2021-CYBER-R-2",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101103257",
+            "sub": "EU defence research and development · call EDF-2021-NAVAL-R-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "07 Dec 2022",
+            "desc": "Call EDF-2021-NAVAL-R-2",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101302020",
+            "sub": "EU defence research and development · call EDF-2025-LS-RA-SI",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "17 Aug 2026",
+            "desc": "Call EDF-2025-LS-RA-SI",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101304558",
+            "sub": "EU defence research and development · call EDF-2025-LS-RA-DIS",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "04 Aug 2026",
+            "desc": "Call EDF-2025-LS-RA-DIS",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101224749",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "28 Nov 2025",
+            "desc": "Call EDF-2024-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101224382",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "19 Nov 2025",
+            "desc": "Call EDF-2024-DA",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 14 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 14 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity NAVAL GROUP, SIREN 441133808",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=441133808"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101302020",
+          "sources": 1,
+          "date": "17 Aug 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101304558",
+          "sources": 1,
+          "date": "04 Aug 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304558/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224749",
+          "sources": 1,
+          "date": "28 Nov 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224749/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224382",
+          "sources": 1,
+          "date": "19 Nov 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224382/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101223924",
+          "sources": 1,
+          "date": "29 Oct 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101223924/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101168134",
+          "sources": 1,
+          "date": "10 Dec 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168134/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167641",
+          "sources": 1,
+          "date": "28 Nov 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167641/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167894",
+          "sources": 1,
+          "date": "18 Nov 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167894/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121330",
+          "sources": 1,
+          "date": "06 Dec 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121330/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121409",
+          "sources": 1,
+          "date": "04 Dec 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121409/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121408",
+          "sources": 1,
+          "date": "23 Nov 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121408/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103386",
+          "sources": 1,
+          "date": "08 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103386/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103385",
+          "sources": 1,
+          "date": "07 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103385/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103257",
+          "sources": 1,
+          "date": "07 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103257/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Paris",
+          "Registered office"
+        ]
+      ]
+    },
+    "raytheon-company": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "RAYTHEON COMPANY is a US company registered in 1953, with its seat in Wilmington. US federal spending records list it as a recipient of contracts from the US Department of Defense.",
+        "overview": "RAYTHEON COMPANY is a US company registered in 1953, with its seat in Wilmington. US federal spending records list it as a recipient of contracts from the US Department of Defense."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1953",
+            "Registered"
+          ],
+          [
+            "Wilmington, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI YR6K3WJN0KKLUPZSNL57",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1953",
+            "Registered"
+          ],
+          [
+            "Wilmington, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI YR6K3WJN0KKLUPZSNL57",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "US Department of Defense contracts",
+            "sub": "Recipient profile on USAspending.gov",
+            "status": "Contracts",
+            "icon": "landmark",
+            "date": "",
+            "desc": "Federal spending records",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "US Department of Defense contracts",
+            "sub": "Recipient profile on USAspending.gov",
+            "status": "Contracts",
+            "icon": "landmark",
+            "date": "",
+            "desc": "Federal spending records",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "US Department of Defense",
+            "role": "Customer · federal contracts",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "US Department of Defense",
+            "role": "Customer · federal contracts",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity RAYTHEON COMPANY, LEI YR6K3WJN0KKLUPZSNL57",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/YR6K3WJN0KKLUPZSNL57"
+        },
+        {
+          "claim": "Recipient of US Department of Defense contracts",
+          "sources": 1,
+          "date": "",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/01c4a3a3-b4c5-ce4e-822b-d17f09985001-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Wilmington",
+          "Registered office"
+        ]
+      ]
+    },
+    "mbda-france": {
+      "developments": [
+        {
+          "date": "09 Dec 2022",
+          "title": "European Defence Fund project 101103595",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103595/EDF"
+        }
+      ],
+      "country": "FR",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L1 · supported · named military products"
+        ]
+      ],
+      "about": {
+        "workspace": "MBDA FRANCE is a French company registered in 1990, with its seat in Le Plessis-Robinson. It takes part in 1 European Defence Fund project (2022). Its website presents military products including AKERON RCH170, AQUILA, THUNDART, EXOCET SM40.",
+        "overview": "MBDA FRANCE is a French company registered in 1990, with its seat in Le Plessis-Robinson. It takes part in 1 European Defence Fund project (2022). Its website presents military products including AKERON RCH170, AQUILA, THUNDART, EXOCET SM40."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1990",
+            "Registered"
+          ],
+          [
+            "Le Plessis-Robinson, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 378168470",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1990",
+            "Registered"
+          ],
+          [
+            "Le Plessis-Robinson, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 378168470",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L1"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101103595",
+            "sub": "EU defence research and development · call EDF-2021-GROUND-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "09 Dec 2022",
+            "desc": "Call EDF-2021-GROUND-D-2",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101103595",
+            "sub": "EU defence research and development · call EDF-2021-GROUND-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "09 Dec 2022",
+            "desc": "Call EDF-2021-GROUND-D-2",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "AKERON RCH170",
+          "level": "L0",
+          "icon": "crosshair",
+          "selected": true
+        },
+        {
+          "label": "AQUILA",
+          "level": "L0",
+          "icon": "crosshair"
+        },
+        {
+          "label": "RCM²",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "THUNDART",
+          "level": "L0",
+          "icon": "crosshair"
+        },
+        {
+          "label": "EXOCET SM40",
+          "level": "L0",
+          "icon": "crosshair"
+        },
+        {
+          "label": "DRAGONFIRE",
+          "level": "L0",
+          "icon": "crosshair"
+        },
+        {
+          "label": "JFS-M",
+          "level": "L0",
+          "icon": "crosshair"
+        },
+        {
+          "label": "DIAMOND SHAPED",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "ENFORCER X",
+          "level": "L0",
+          "icon": "crosshair"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "AKERON RCH170",
+              "The AKERON RCH170 is a loitering munition designed for rapid deployment, capable of supporting forces at ranges of up to 80 kilometres, with",
+              "green"
+            ],
+            [
+              "AQUILA",
+              "AQUILA is MBDA’s first interceptor concept specifically designed to counter hypersonic threats.",
+              "green"
+            ],
+            [
+              "RCM²",
+              "MBDA’s remote carrier multidomain multirole effector, RCM², stands out as a versatile solution, bringing multidomain capability and adaptabi",
+              "grey"
+            ],
+            [
+              "THUNDART",
+              "THUNDART is the result of a deliberate pooling of complementary know-how to answer a clearly identified operational requirement: restoring a",
+              "green"
+            ],
+            [
+              "EXOCET SM40",
+              "EXOCET SM40 is the latest generation of the EXOCET family, an internationally recognised lineage of long-range, high-subsonic anti-ship miss",
+              "green"
+            ],
+            [
+              "DRAGONFIRE",
+              "No longer science fiction, laser weapon systems are now being developed to protect armed forces. At the forefront of this innovation is DRAG",
+              "green"
+            ],
+            [
+              "JFS-M",
+              "In complex and urban environments, achieving precise effects with existing systems remains challenging. Against this backdrop, MBDA is devel",
+              "green"
+            ],
+            [
+              "DIAMOND SHAPED",
+              "The DIAMOND SHAPED architecture delivers exceptional aerodynamic efficiency, combining high speed, outstanding manoeuvrability, stability an",
+              "grey"
+            ],
+            [
+              "ENFORCER X",
+              "Building on the proven ENFORCER multi-purpose platform, ENFORCER X represents a dedicated evolution designed specifically for engaging heavi",
+              "green"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity MBDA FRANCE, SIREN 378168470",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=378168470"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103595",
+          "sources": 1,
+          "date": "09 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103595/EDF"
+        },
+        {
+          "claim": "AKERON RCH170: “The AKERON RCH170 is a loitering munition designed for rapid deployment, capable of supporting forces at ranges of up to 80 kilometres, with more than an hour of endurance.”",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://www.mbda-systems.com/products"
+        },
+        {
+          "claim": "AQUILA: “AQUILA is MBDA’s first interceptor concept specifically designed to counter hypersonic threats.”",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://www.mbda-systems.com/products"
+        },
+        {
+          "claim": "THUNDART: “THUNDART is the result of a deliberate pooling of complementary know-how to answer a clearly identified operational requirement: restoring and expanding long-range land strike capabilities for the armed forces.”",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://www.mbda-systems.com/products"
+        },
+        {
+          "claim": "EXOCET SM40: “EXOCET SM40 is the latest generation of the EXOCET family, an internationally recognised lineage of long-range, high-subsonic anti-ship missiles.”",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://www.mbda-systems.com/products"
+        },
+        {
+          "claim": "DRAGONFIRE: “No longer science fiction, laser weapon systems are now being developed to protect armed forces. At the forefront of this innovation is DRAGONFIRE, a Laser Directed Energy Weapon (LDEW) system.”",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://www.mbda-systems.com/products"
+        },
+        {
+          "claim": "JFS-M: “In complex and urban environments, achieving precise effects with existing systems remains challenging. Against this backdrop, MBDA is developing the Joint Fire Support Missile (JFS-M), an intelligent guided missile designed to expand artillery effectiveness across the battlefield.”",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://www.mbda-systems.com/products"
+        },
+        {
+          "claim": "ENFORCER X: “Building on the proven ENFORCER multi-purpose platform, ENFORCER X represents a dedicated evolution designed specifically for engaging heavily armoured threats.”",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://www.mbda-systems.com/products"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Le Plessis-Robinson",
+          "Registered office"
+        ]
+      ]
+    },
+    "dassault-aviation": {
+      "developments": [
+        {
+          "date": "23 Oct 2026",
+          "title": "European Defence Fund project 101304940",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304940/EDF"
+        },
+        {
+          "date": "15 Sep 2026",
+          "title": "European Defence Fund project 101302981",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302981/EDF"
+        },
+        {
+          "date": "19 Dec 2022",
+          "title": "European Defence Fund project 101103669",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+        },
+        {
+          "date": "16 Dec 2022",
+          "title": "European Defence Fund project 101103592",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103592/EDF"
+        }
+      ],
+      "country": "FR",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "DASSAULT AVIATION is a French company registered in 1971, with its seat in Saint-Cloud. It takes part in 4 European Defence Fund projects (2022–2026).",
+        "overview": "DASSAULT AVIATION is a French company registered in 1971, with its seat in Saint-Cloud. It takes part in 4 European Defence Fund projects (2022–2026)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1971",
+            "Registered"
+          ],
+          [
+            "Saint-Cloud, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 712042456",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1971",
+            "Registered"
+          ],
+          [
+            "Saint-Cloud, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 712042456",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101304940",
+            "sub": "EU defence research and development · call EDF-2025-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "23 Oct 2026",
+            "desc": "Call EDF-2025-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101302981",
+            "sub": "EU defence research and development · call EDF-2025-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "15 Sep 2026",
+            "desc": "Call EDF-2025-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101103669",
+            "sub": "EU defence research and development · call EDF-2021-AIR-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "19 Dec 2022",
+            "desc": "Call EDF-2021-AIR-D-2",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101103592",
+            "sub": "EU defence research and development · call EDF-2021-AIR-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "16 Dec 2022",
+            "desc": "Call EDF-2021-AIR-D-2",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101304940",
+            "sub": "EU defence research and development · call EDF-2025-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "23 Oct 2026",
+            "desc": "Call EDF-2025-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101302981",
+            "sub": "EU defence research and development · call EDF-2025-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "15 Sep 2026",
+            "desc": "Call EDF-2025-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101103669",
+            "sub": "EU defence research and development · call EDF-2021-AIR-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "19 Dec 2022",
+            "desc": "Call EDF-2021-AIR-D-2",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101103592",
+            "sub": "EU defence research and development · call EDF-2021-AIR-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "16 Dec 2022",
+            "desc": "Call EDF-2021-AIR-D-2",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 4 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 4 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity DASSAULT AVIATION, SIREN 712042456",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=712042456"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101304940",
+          "sources": 1,
+          "date": "23 Oct 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304940/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101302981",
+          "sources": 1,
+          "date": "15 Sep 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302981/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103669",
+          "sources": 1,
+          "date": "19 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103592",
+          "sources": 1,
+          "date": "16 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103592/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Saint-Cloud",
+          "Registered office"
+        ]
+      ]
     }
   }
 }
