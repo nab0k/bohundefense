@@ -3,504 +3,484 @@
   "notice": "Publisher headlines only; not independently reviewed or fact-checked by Bohun Defence.",
   "items": [
     {
+      "title": "Republic of China Air Force Surges Investment in F-16 Fighters with Costly Viper Shield Electronic Warfare Suites",
+      "url": "https://militarywatchmagazine.com/article/republic-china-air-force-surges-investment-f16-vipershield",
+      "published_at": "2026-11-21T19:54:00+00:00"
+    },
+    {
+      "title": "«Я вперше позаздрив зекам»: прикордонник з «Азовсталі» розповів про три роки полону",
+      "url": "https://armyinform.com.ua/2026/11/21/%c2%abya-vpershe-pozazdryv-zekam%c2%bb-prykordonnyk-yakyj-vyjshov-z-%c2%abazovstali%c2%bb-rozpoviv-pro-try-roky-polonu/",
+      "published_at": "2026-11-21T18:27:56+00:00"
+    },
+    {
+      "title": "«Незаконно збудований — законно знищений»: Міноборони пояснило, чому Кримський міст є військовою ціллю",
+      "url": "https://armyinform.com.ua/2026/11/21/%c2%abnezakonno-zbudovanyj-%e2%80%94-zakonno-znyshhenyj%c2%bb-minoborony-poyasnylo-chomu-krymskyj-mist-ye-vijskovoyu-czillyu/",
+      "published_at": "2026-11-21T18:05:00+00:00"
+    },
+    {
+      "title": "AW159 Wildcat Helicopter Explained: Royal Navy and British Army Specs, Martlet and Sea Venom Missiles",
+      "url": "https://defenseandtech.com/aw159-wildcat-helicopter/",
+      "published_at": "2026-11-21T18:00:00+00:00"
+    },
+    {
+      "title": "Сховалися за бетоном — опинилися під завалами: «Корвет» накрив окупантів на Сумщині",
+      "url": "https://armyinform.com.ua/2026/11/21/shovalysya-za-betonom-%e2%80%94-opynylysya-pid-zavalamy-%c2%abkorvet%c2%bb-nakryv-okupantiv-na-sumshhyni/",
+      "published_at": "2026-11-21T17:51:57+00:00"
+    },
+    {
+      "title": "Garde républicaine : un poste d’altiste à pourvoir, candidatures jusqu’au 21 novembre",
+      "url": "https://armees.com/garde-republicaine-concours-altiste-candidatures-21-novembre-2026-1833/",
+      "published_at": "2026-11-21T17:34:17+00:00"
+    },
+    {
+      "title": "US Pratt & Whitney Fast-Tracks Valox Engine Family With 3D Printing to Power Combat Drones and Missiles",
+      "url": "https://defensewarroom.com/2026/11/21/pratt-whitney-valox-engine-family-drones/",
+      "published_at": "2026-11-21T17:33:44+00:00"
+    },
+    {
+      "title": "Спільне тренування Повітряних Сил та авіаційної компоненти Коаліції охочих",
+      "url": "https://armyinform.com.ua/2026/11/21/spilne-trenuvannya-povitryanyh-syl-ta-aviaczijnoyi-komponenty-koalicziyi-ohochyh/",
+      "published_at": "2026-11-21T17:30:50+00:00"
+    },
+    {
+      "title": "US Drone Maker Vector Unveils BOMBARD Pulse-Jet Attack Drone Designed to Strike Targets 1,100 km Away",
+      "url": "https://defensewarroom.com/2026/11/21/vector-bombard-attack-drone-pulse-jet/",
+      "published_at": "2026-11-21T17:24:55+00:00"
+    },
+    {
+      "title": "Del frontón al garaje de un vecino: los colegios electorales más raros de España para el 29-N",
+      "url": "https://www.libertaddigital.com/espana/politica/2026-11-21/del-fronton-al-garaje-de-un-vecino-los-colegios-electorales-mas-raros-de-espana-para-el-29-n-7487322/",
+      "published_at": "2026-11-21T17:17:08+00:00"
+    },
+    {
+      "title": "«Коли ворожі танки були на Житомирській трасі, я стояв з речами у ТЦК»: історія «Оси»",
+      "url": "https://armyinform.com.ua/2026/11/21/%c2%abkoly-vorozhi-tanky-buly-na-zhytomyrskij-trasi-ya-stoyav-z-rechamy-u-tczk%c2%bb-istoriya-%c2%abosy%c2%bb/",
+      "published_at": "2026-11-21T17:15:42+00:00"
+    },
+    {
+      "title": "U.S. Army Seeks Third Stinger Replacement Missile to Hit Drones Up to 8 km Away for Under $200,000",
+      "url": "https://defensewarroom.com/2026/11/21/stinger-replacement-ngsri-alternate-interceptor/",
+      "published_at": "2026-11-21T17:13:27+00:00"
+    },
+    {
+      "title": "Why NATO Wants a 250-Knot Helicopter to Replace the NH90: Tiltrotor, X2 or Racer?",
+      "url": "https://www.youtube.com/watch?v=2QWcYmFC_NE",
+      "published_at": "2026-11-21T17:10:19+00:00"
+    },
+    {
+      "title": "Dutch F-35A Fighter Jets Land on a Finnish Highway Again to Show They Can Keep Flying if Air Bases Are Hit",
+      "url": "https://defensewarroom.com/2026/11/21/dutch-f-35-highway-landing-finland/",
+      "published_at": "2026-11-21T17:02:42+00:00"
+    },
+    {
+      "title": "САЩ отхвърлиха твърденията, че Иран е изстрелял ракета по американски изтребител Ф-16 над Персийския залив",
+      "url": "https://armymedia.bg/2026/11/21/%d1%81%d0%b0%d1%89-%d0%be%d1%82%d1%85%d0%b2%d1%8a%d1%80%d0%bb%d0%b8%d1%85%d0%b0-%d1%82%d0%b2%d1%8a%d1%80%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f%d1%82%d0%b0-%d1%87%d0%b5-%d0%b8%d1%80%d0%b0%d0%bd-%d0%b5-%d0%b8/",
+      "published_at": "2026-11-21T16:58:22+00:00"
+    },
+    {
+      "title": "Земля не сховає, небо не врятує: «Пегас» полює на окупантів",
+      "url": "https://armyinform.com.ua/2026/11/21/zemlya-ne-shovaye-nebo-ne-vryatuye-%c2%abpegas%c2%bb-polyuye-na-okupantiv/",
+      "published_at": "2026-11-21T16:56:49+00:00"
+    },
+    {
+      "title": "Разходите за отбрана на Албания ще достигнат 2,61 процента от БВП до 2027 г.",
+      "url": "https://armymedia.bg/2026/11/21/%d1%80%d0%b0%d0%b7%d1%85%d0%be%d0%b4%d0%b8%d1%82%d0%b5-%d0%b7%d0%b0-%d0%be%d1%82%d0%b1%d1%80%d0%b0%d0%bd%d0%b0-%d0%bd%d0%b0-%d0%b0%d0%bb%d0%b1%d0%b0%d0%bd%d0%b8%d1%8f-%d1%89%d0%b5-%d0%b4%d0%be%d1%81/",
+      "published_at": "2026-11-21T16:54:50+00:00"
+    },
+    {
+      "title": "Финландия заяви, че ударът с дрон срещу руски товарен кораб във Финския залив вероятно е извършен от Украйна",
+      "url": "https://armymedia.bg/2026/11/21/%d1%84%d0%b8%d0%bd%d0%bb%d0%b0%d0%bd%d0%b4%d0%b8%d1%8f-%d0%b7%d0%b0%d1%8f%d0%b2%d0%b8-%d1%87%d0%b5-%d1%83%d0%b4%d0%b0%d1%80%d1%8a%d1%82-%d1%81-%d0%b4%d1%80%d0%be%d0%bd-%d1%81%d1%80%d0%b5%d1%89%d1%83/",
+      "published_at": "2026-11-21T16:50:43+00:00"
+    },
+    {
+      "title": "Зеленски потвърди желанието си Украйна да се присъедини към НАТО",
+      "url": "https://armymedia.bg/2026/11/21/%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8-%d0%bf%d0%be%d1%82%d0%b2%d1%8a%d1%80%d0%b4%d0%b8-%d0%b6%d0%b5%d0%bb%d0%b0%d0%bd%d0%b8%d0%b5%d1%82%d0%be-%d1%81%d0%b8-%d1%83%d0%ba%d1%80%d0%b0%d0%b9/",
+      "published_at": "2026-11-21T16:44:53+00:00"
+    },
+    {
+      "title": "«Ми пройшли через Бахмут»: історія снайперського підрозділу «Привиди Бахмута»",
+      "url": "https://armyinform.com.ua/2026/11/21/%c2%abmy-projshly-cherez-bahmut%c2%bb-istoriya-snajperskogo-pidrozdilu-%c2%abpryvydy-bahmuta%c2%bb/",
+      "published_at": "2026-11-21T16:35:25+00:00"
+    },
+    {
+      "title": "„Пирински страж 26“",
+      "url": "https://armymedia.bg/2026/11/21/%d0%bf%d0%b8%d1%80%d0%b8%d0%bd%d1%81%d0%ba%d0%b8-%d1%81%d1%82%d1%80%d0%b0%d0%b6-26/",
+      "published_at": "2026-11-21T16:33:00+00:00"
+    },
+    {
+      "title": "Thailand Plans $123M HIMARS Purchase After Cambodia Clashes",
+      "url": "https://defenseandtech.com/thailand-123-million-himars-purchase-plan/",
+      "published_at": "2026-11-21T16:14:34+00:00"
+    },
+    {
+      "title": "«Якщо я загину, тоді вже — підміниш мене»: історія «Альфи»",
+      "url": "https://armyinform.com.ua/2026/11/21/%c2%abyakshho-ya-zagynu-todi-vzhe-%e2%80%94-pidminysh-mene%c2%bb-istoriya-%c2%abalfy%c2%bb/",
+      "published_at": "2026-11-21T16:11:56+00:00"
+    },
+    {
+      "title": "Rosyjski statek Sparta II trafiony dronami w Zatoce Fińskiej",
+      "url": "https://milmag.pl/rosyjski-statek-sparta-ii-trafiony-dronami-w-zatoce-finskiej/",
+      "published_at": "2026-11-21T16:10:37+00:00"
+    },
+    {
+      "title": "NASA’s Voyager 1 Reaches One Light-Day From Earth After 49 Years in Space",
+      "url": "https://thedefensewatch.com/cyber-space-defense/voyager-1-one-light-day-from-earth/",
+      "published_at": "2026-11-21T16:01:03+00:00"
+    },
+    {
+      "title": "Canada is joining the NATO Innovation Fund",
+      "url": "https://resiliencemedia.co/canada-is-joining-the-nato-innovation-fund/",
+      "published_at": "2026-11-21T16:00:56+00:00"
+    },
+    {
+      "title": "«Падіння автомобільного мосту обмежило рух суден»: Євгеній Хмара про ситуацію біля Кримського мосту",
+      "url": "https://armyinform.com.ua/2026/11/21/%c2%abpadinnya-avtomobilnogo-mostu-obmezhylo-ruh-suden%c2%bb-yevgenij-hmara-pro-sytuacziyu-bilya-krymskogo-mostu/",
+      "published_at": "2026-11-21T15:48:09+00:00"
+    },
+    {
+      "title": "Royal Navy planner says NATO Dynamic Merlin sub-hunt exercise shows Alliance is watching",
+      "url": "https://thedefenselog.com/dynamic-merlin-nato-exercise-baltic/",
+      "published_at": "2026-11-21T15:37:31+00:00"
+    },
+    {
+      "title": "Distrugătorul american USS Bulkeley s-a antrenat pentru luptă antisubmarin alături de navele Turciei și grupării NATO SNMG2 în estul Mediteranei",
+      "url": "https://www.defenseromania.ro/forta-navaladistrugatorul-american-uss-bulkeley-s-a-antrenat-pentru-lupta-antisubmarin-alaturi-de-navele-turciei-si-gruparii-nato-snmg2-in-estul-mediteranei-652398.html",
+      "published_at": "2026-11-21T15:37:00+00:00"
+    },
+    {
+      "title": "Dutch F-35 fighters land on Finnish highway to practice dispersed operations",
+      "url": "https://thedefenselog.com/dutch-f-35-finland-highway-landing/",
+      "published_at": "2026-11-21T15:36:14+00:00"
+    },
+    {
+      "title": "Brave1 board chairman says Ukraine aims to cut front-line troops with robots but cannot yet replace them",
+      "url": "https://thedefenselog.com/ukraine-brave1-robotisation-warfare/",
+      "published_at": "2026-11-21T15:34:22+00:00"
+    },
+    {
+      "title": "«Рятувальники назавжди запам’ятовують тих, кого не вдалося врятувати»: історія Руслана",
+      "url": "https://armyinform.com.ua/2026/11/21/%c2%abnazavzhdy-zapam%e2%80%99yatovuyut-tyh-kogo-ne-vdalosya-vryatuvaty%c2%bb-istoriya-ryatuvalnyka-ruslana/",
+      "published_at": "2026-11-21T15:31:46+00:00"
+    },
+    {
+      "title": "De los satélites a los drones interceptores: Madrid pone a sus startups tecnológicas en el radar de la OTAN",
+      "url": "https://www.infodefensa.com/texto-diario/mostrar/6103393/satelites-drones-interceptores-madrid-lleva-startups-gran-cita-tecnologica-otan",
+      "published_at": "2026-11-21T15:30:00+00:00"
+    },
+    {
+      "title": "Russian helicopter suspected of Finnish airspace breach amid drone attack on ship",
+      "url": "https://www.aerotime.aero/articles/russian-helicopter-finnish-airspace-sparta-ii-drone-strike",
+      "published_at": "2026-11-21T15:28:58+00:00"
+    },
+    {
+      "title": "La France et le Royaume-Uni préparent une «feuille de route» pour développer le successeur du missile air-air METEOR",
+      "url": "https://www.opex360.com/2026/11/21/la-france-et-le-royaume-uni-preparent-une-feuille-de-route-pour-developper-le-successeur-du-missile-air-air-meteor/",
+      "published_at": "2026-11-21T15:27:51+00:00"
+    },
+    {
+      "title": "Diez aliados de la OTAN unen fuerzas para acelerar el lanzamiento de satélites militares",
+      "url": "https://www.infodefensa.com/texto-diario/mostrar/6102883/diez-aliados-otan-unen-fuerzas-acelerar-lanzamiento-satelites-militares",
+      "published_at": "2026-11-21T15:22:00+00:00"
+    },
+    {
+      "title": "Russian Missiles Enter Polish Airspace During European Military Exercises",
+      "url": "https://thedefensewatch.com/global-news/russian-missiles-land-in-poland-nato-airspace-violation/",
+      "published_at": "2026-11-21T15:18:17+00:00"
+    },
+    {
+      "title": "Niezawodne zasilanie podczas długich misji wojskowych.",
+      "url": "https://przemysl-obronny.pl/niezawodne-zasilanie-podczas-dlugich-misji-wojskowych/",
+      "published_at": "2026-11-21T15:13:31+00:00"
+    },
+    {
+      "title": "Реактивний «Шахед» не врятувала швидкість: завдяки кому Денис встиг знищити ціль",
+      "url": "https://armyinform.com.ua/2026/11/21/reaktyvnyj-%c2%abshahed%c2%bb-ne-vryatuvala-shvydkist-zavdyaky-komu-denys-vstyg-znyshhyty-czil/",
+      "published_at": "2026-11-21T15:10:58+00:00"
+    },
+    {
+      "title": "L3Harris Wins $28 Million Australian Defence Contract for Advanced Capability System",
+      "url": "https://thedefensewatch.com/defense-contracts/l3harris-australia-28-million-defence-contract/",
+      "published_at": "2026-11-21T15:08:17+00:00"
+    },
+    {
+      "title": "Senate gearing up to investigate Ukraine’s access to Starshield",
+      "url": "https://breakingdefense.com/2026/11/senate-gearing-up-to-investigate-ukraines-access-to-starshield/",
+      "published_at": "2026-11-21T15:06:51+00:00"
+    },
+    {
+      "title": "Saab und Dezamet unterzeichnen Lizenz für MAPAM-Mörsermunition",
+      "url": "https://defence-tech.de/saab-und-dezamet-unterzeichnen-lizenz-fuer-mapam-moersermunition/",
+      "published_at": "2026-11-21T15:03:30+00:00"
+    },
+    {
+      "title": "Agnipath Scheme Explained: Agniveer Salary, 25% Retention and What Happens After Four Years",
+      "url": "https://defenseandtech.com/agnipath-scheme-agniveer-explained/",
+      "published_at": "2026-11-21T15:00:00+00:00"
+    },
+    {
+      "title": "EgyptAir will fly to three London airports as it launches Gatwick and Stansted, adds Edinburgh",
+      "url": "https://www.adsadvance.co.uk/draft-egyptair-will-fly-to-three-london-airports-as-it-plans-gatwick-and-stansted-adds-birmingham-and-edinburgh/",
+      "published_at": "2026-11-21T15:00:00+00:00"
+    },
+    {
+      "title": "Advanced Armament Company relance la plateforme MPW avec une gamme élargie d’armes modernes",
+      "url": "https://www.zonearmee.com/advanced-armament-company-relance-la-plateforme-mpw-avec-une-gamme-elargie-darmes-modernes/",
+      "published_at": "2026-11-21T14:56:12+00:00"
+    },
+    {
+      "title": "НАТО ще защитава всеки сантиметър от територията на Полша, заяви генералният секретар на Алианса Марк Рюте",
+      "url": "https://armymedia.bg/2026/11/21/%d0%bd%d0%b0%d1%82%d0%be-%d1%89%d0%b5-%d0%b7%d0%b0%d1%89%d0%b8%d1%82%d0%b0%d0%b2%d0%b0-%d0%b2%d1%81%d0%b5%d0%ba%d0%b8-%d1%81%d0%b0%d0%bd%d1%82%d0%b8%d0%bc%d0%b5%d1%82%d1%8a%d1%80-%d0%be%d1%82-%d1%82/",
+      "published_at": "2026-11-21T14:52:54+00:00"
+    },
+    {
+      "title": "«Вечірка силовиків» як виправдання вбивства дітей і медика: росія поширює брехню про Кривий Ріг",
+      "url": "https://armyinform.com.ua/2026/11/21/vechirka-sylovykiv-ta-vygadani-vijskovi-czili-rosiya-rozgornula-kampaniyu-dezinformacziyi-pislya-udaru-po-kryvomu-rogu/",
+      "published_at": "2026-11-21T14:51:15+00:00"
+    },
+    {
+      "title": "Зеленски заяви, че Кримският мост „няма да остане на място“",
+      "url": "https://armymedia.bg/2026/11/21/%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8-%d0%b7%d0%b0%d1%8f%d0%b2%d0%b8-%d1%87%d0%b5-%d0%ba%d1%80%d0%b8%d0%bc%d1%81%d0%ba%d0%b8%d1%8f%d1%82-%d0%bc%d0%be%d1%81%d1%82-%d0%bd%d1%8f/",
+      "published_at": "2026-11-21T14:51:04+00:00"
+    },
+    {
+      "title": "An MQ-25A Stingray-Like Drone Has Emerged at a Chinese Base",
+      "url": "https://theaviationist.com/2026/11/21/mq-2-like-drone-emerged-at-chinese-base/",
+      "published_at": "2026-11-21T14:49:11+00:00"
+    },
+    {
+      "title": "La Royal Navy entre dans une phase de renouveau face à des conflits mondiaux croissants",
+      "url": "https://www.zonearmee.com/la-royal-navy-entre-dans-une-phase-de-renouveau-face-a-des-conflits-mondiaux-croissants/",
+      "published_at": "2026-11-21T14:44:12+00:00"
+    },
+    {
+      "title": "Lockheed Martin livre son 100 000e missile GMLRS, un jalon majeur pour l’armée américaine",
+      "url": "https://www.zonearmee.com/lockheed-martin-livre-son-100-000e-missile-gmlrs-un-jalon-majeur-pour-larmee-americaine/",
+      "published_at": "2026-11-21T14:44:05+00:00"
+    },
+    {
+      "title": "Golfe de Finlande : un cargo russe touché par des drones, Helsinki informe l’OTAN",
+      "url": "https://armees.com/cargo-russe-drones-golfe-finlande-21-novembre-2026-1533/",
+      "published_at": "2026-11-21T14:42:16+00:00"
+    },
+    {
+      "title": "F-35C Completes First Launch and Recovery Trials Aboard Ford-Class Carrier",
+      "url": "https://thedefensewatch.com/aerospace-aviation/f35c-first-launch-recovery-ford-class-carrier/",
+      "published_at": "2026-11-21T14:41:18+00:00"
+    },
+    {
+      "title": "Финландската армия потвърди атаката с дрон срещу руски товарен кораб във Финския залив",
+      "url": "https://armymedia.bg/2026/11/21/%d1%84%d0%b8%d0%bd%d0%bb%d0%b0%d0%bd%d0%b4%d1%81%d0%ba%d0%b0%d1%82%d0%b0-%d0%b0%d1%80%d0%bc%d0%b8%d1%8f-%d0%bf%d0%be%d1%82%d0%b2%d1%8a%d1%80%d0%b4%d0%b8-%d0%b0%d1%82%d0%b0%d0%ba%d0%b0%d1%82%d0%b0/",
+      "published_at": "2026-11-21T14:38:14+00:00"
+    },
+    {
+      "title": "Northrop Grumman Declares $2.47 Per-Share Dividend for Fourth Quarter 2026",
+      "url": "https://thedefensewatch.com/policy-strategy/northrop-grumman-fourth-quarter-2026-dividend/",
+      "published_at": "2026-11-21T14:37:13+00:00"
+    },
+    {
+      "title": "La Combat-Badeente de la Bundeswehr en rupture de stock dès l’ouverture du nouveau webshop",
+      "url": "https://www.zonearmee.com/la-combat-badeente-de-la-bundeswehr-en-rupture-de-stock-des-louverture-du-nouveau-webshop/",
+      "published_at": "2026-11-21T14:32:13+00:00"
+    },
+    {
+      "title": "Royaume-Uni achète des navires norvégiens standardisés pour la chasse aux mines à partir de 2031",
+      "url": "https://www.zonearmee.com/royaume-uni-achete-des-navires-norvegiens-standardises-pour-la-chasse-aux-mines-a-partir-de-2031/",
+      "published_at": "2026-11-21T14:32:08+00:00"
+    },
+    {
+      "title": "Дороги під антидроновими сітками: інженери 48-ї бригади захищають маршрути від російських БПЛА",
+      "url": "https://armyinform.com.ua/2026/11/21/dorogy-pid-antydronovymy-sitkamy-inzhenery-48-yi-brygady-zahyshhayut-marshruty-vid-rosijskyh-bpla/",
+      "published_at": "2026-11-21T14:29:47+00:00"
+    },
+    {
+      "title": "US Army vs Marines: How America’s Ground Forces, Ranks and Special Operations Units Compare",
+      "url": "https://thedefensewatch.com/head-to-head/us-army-vs-marines-ground-forces-ranks-special-operations/",
+      "published_at": "2026-11-21T14:28:46+00:00"
+    },
+    {
+      "title": "Față în față cu provocările Rusiei. Polonia cere de la NATO avioane AWACS și F-35, iar ISW avertizează că rușii chiar au testat reacția Alianței",
+      "url": "https://www.defenseromania.ro/strategicafata-in-fata-cu-provocarile-rusiei-polonia-cere-de-la-nato-avioane-awacs-si-f-35-iar-isw-avertizeaza-ca-rusii-chiar-au-testat-reactia-aliantei-652395.html",
+      "published_at": "2026-11-21T14:24:00+00:00"
+    },
+    {
       "title": "Key U.S. Airbase Closest to China Gets First New Air Superiority Fighters in Over 47 Years",
       "url": "https://militarywatchmagazine.com/article/key-us-closest-china-air-superiority-47yrs",
       "published_at": "2026-11-21T14:22:00+00:00"
     },
     {
-      "title": "NATO sees US cloud dominance as ‘an opportunity’",
-      "url": "https://ukdefencejournal.org.uk/nato-sees-us-cloud-dominance-as-an-opportunity/",
-      "published_at": "2026-11-21T12:00:03+00:00"
+      "title": "US Army vs Mexican Cartels: Military Capabilities, Tactics and Operational Differences",
+      "url": "https://thedefensewatch.com/head-to-head/us-army-vs-mexican-cartels/",
+      "published_at": "2026-11-21T14:21:05+00:00"
     },
     {
-      "title": "Le sous-marin nucléaire d’attaque De Grasse a été officiellement admis au service actif",
-      "url": "https://www.opex360.com/2026/11/21/le-sous-marin-nucleaire-dattaque-de-grasse-a-ete-officiellement-admis-au-service-actif/",
-      "published_at": "2026-11-21T11:44:27+00:00"
+      "title": "L’Argentine achète quatre hélicoptères UH-60L Black Hawk d’occasion aux États-Unis",
+      "url": "https://www.zonearmee.com/largentine-achete-quatre-helicopteres-uh-60l-black-hawk-doccasion-aux-etats-unis/",
+      "published_at": "2026-11-21T14:20:16+00:00"
     },
     {
-      "title": "Ukraine wants robots to fight but troops must hold the line",
-      "url": "https://ukdefencejournal.org.uk/ukraine-wants-robots-to-fight-but-troops-must-hold-the-line/",
-      "published_at": "2026-11-21T11:30:11+00:00"
+      "title": "Controverse autour du projet de loi sur les avantages des vétérans adopté discrètement à la Chambre",
+      "url": "https://www.zonearmee.com/controverse-autour-du-projet-de-loi-sur-les-avantages-des-veterans-adopte-discretement-a-la-chambre/",
+      "published_at": "2026-11-21T14:20:09+00:00"
     },
     {
-      "title": "Chief of Defence Intelligence speech at Cambridge Intelligence Seminar: 20 November 2026",
-      "url": "https://www.gov.uk/government/speeches/chief-of-defence-intelligence-speech-at-cambridge-intelligence-seminar-20-november-2026",
-      "published_at": "2026-11-21T11:11:05+00:00"
+      "title": "«Баба М-ка» з характером: у 115-й бригаді розповіли про М113, яка вивозить бійців з позицій",
+      "url": "https://armyinform.com.ua/2026/11/21/baba-m-ka-z-harakterom-u-115-j-brygadi-rozpovily-pro-m113-yaka-vyvozyt-bijcziv-z-pozyczij/",
+      "published_at": "2026-11-21T14:08:46+00:00"
     },
     {
-      "title": "The UK start-up building sensors that listen for drones",
-      "url": "https://ukdefencejournal.org.uk/the-uk-start-up-building-sensors-that-listen-for-drones/",
-      "published_at": "2026-11-21T11:00:13+00:00"
+      "title": "Norvège et Royaume-Uni veulent des fragates Type 26 pleinement interchangeables pour renforcer la défense nordique",
+      "url": "https://www.zonearmee.com/norvege-et-royaume-uni-veulent-des-fragates-type-26-pleinement-interchangeables-pour-renforcer-la-defense-nordique/",
+      "published_at": "2026-11-21T14:08:15+00:00"
     },
     {
-      "title": "Drone warfare: The unregulated face of conflict",
-      "url": "https://defence24.com/other/drone-warfare-the-unregulated-face-of-conflict",
-      "published_at": "2026-11-21T11:00:03+00:00"
+      "title": "Gentex franchit les 200 000 casques de combat renforcés livrés aux Marines américains",
+      "url": "https://www.zonearmee.com/gentex-franchit-les-200-000-casques-de-combat-renforces-livres-aux-marines-americains/",
+      "published_at": "2026-11-21T14:08:07+00:00"
     },
     {
-      "title": "NATO tech agency wants primes and start-ups to team up",
-      "url": "https://ukdefencejournal.org.uk/nato-tech-agency-wants-primes-and-start-ups-to-team-up/",
-      "published_at": "2026-11-21T10:30:41+00:00"
+      "title": "Ancient Human Teeth Reveal a Remarkable Ability Scientists Never Thought Possible",
+      "url": "https://indiandefencereview.com/ancient-teeth-reveal-remarkable-ability/",
+      "published_at": "2026-11-21T14:00:00+00:00"
     },
     {
-      "title": "Як росія зі дитсадочку починає готувати майбутніх солдатів: для освітян Києва презентували книгу “Мілітаризація свідомості” та виставку “Пророцтва Орвелла”",
-      "url": "https://armyinform.com.ua/2026/11/21/yak-rosiya-zi-dytsadochku-pochynaye-gotuvaty-majbutnih-soldativ-dlya-osvityan-kyyeva-prezentuvaly-knygu-militaryzacziya-svidomosti-ta-vystavku-prorocztva-orvella/",
-      "published_at": "2026-11-21T10:22:00+00:00"
+      "title": "U.S. Army 5th Special Forces Group: History, Mission and Training",
+      "url": "https://thedefensewatch.com/policy-strategy/us-army-5th-special-forces-group/",
+      "published_at": "2026-11-21T13:58:14+00:00"
     },
     {
-      "title": "French Navy’s Fourth Suffren-class SSN ‘De Grasse’ Enters Active Service",
-      "url": "https://www.navalnews.com/naval-news/2026/11/french-navy-suffren-class-ssn-de-grasse-active-service/",
-      "published_at": "2026-11-21T10:18:51+00:00"
+      "title": "Pierwszy taki na świecie. Turecki bezzałogowiec bojowy Bayraktar Kızılelma w służbie",
+      "url": "https://milmag.pl/pierwszy-taki-na-swiecie-turecki-bezzalogowiec-bojowy-bayraktar-kizilelma-w-sluzbie/",
+      "published_at": "2026-11-21T13:51:11+00:00"
     },
     {
-      "title": "What is flowdown in an aerospace contract?",
-      "url": "https://www.adsadvance.co.uk/what-is-flowdown-aerospace-contract",
-      "published_at": "2026-11-21T10:17:00+00:00"
+      "title": "«Рекорди не встановлюються самі собою»: «Альфа» СБУ знову перевершила себе",
+      "url": "https://armyinform.com.ua/2026/11/21/poperednij-rekord-protrymavsya-dva-tyzhni-alfa-sbu-znovu-perevershyla-sebe/",
+      "published_at": "2026-11-21T13:49:01+00:00"
     },
     {
-      "title": "Склад у Криму, два пункти управління та міст під Луганськом: Сили оборони уразили чотири об’єкти ворога",
-      "url": "https://armyinform.com.ua/2026/11/21/sklad-u-krymu-dva-punkty-upravlinnya-ta-mist-pid-luganskom-syly-oborony-urazyly-chotyry-obyekty-voroga/",
-      "published_at": "2026-11-21T10:15:54+00:00"
+      "title": "Des F-35 néerlandais atterrissent sur une autoroute en Finlande",
+      "url": "https://armees.com/f35-neerlandais-autoroute-finlande-protective-fence-21-novembre-2026-1433/",
+      "published_at": "2026-11-21T13:45:25+00:00"
     },
     {
-      "title": "«Лицем в багнюку»: у «Кракені» розповіли, як росіяни намагаються оговтатися після операції «Вівальді»",
-      "url": "https://armyinform.com.ua/2026/11/21/lyczem-v-bagnyuku-u-krakeni-rozpovily-yak-rosiyany-namagayutsya-ogovtatysya-pislya-operacziyi-vivaldi/",
-      "published_at": "2026-11-21T10:10:26+00:00"
+      "title": "Navy Flies Drones Without GPS, Lands Autonomously on Moving Ships",
+      "url": "https://defense.info/video-of-the-week/navy-flies-drones-without-gps-lands-autonomously-on-moving-ships/",
+      "published_at": "2026-11-21T13:33:35+00:00"
     },
     {
-      "title": "France orders 50,000 artillery shells from KNDS and co-funds plan to triple capacity at its La Chapelle-Saint-Ursin plant",
-      "url": "https://defence-industry.eu/france-orders-50000-artillery-shells-from-knds-and-co-funds-plan-to-triple-capacity-at-its-la-chapelle-saint-ursin-plant/",
-      "published_at": "2026-11-21T10:07:23+00:00"
+      "title": "Подвійний дебют у небі Одещини: український воїн знищив два реактивні безпілотники",
+      "url": "https://armyinform.com.ua/2026/11/21/podvijnyj-debyut-u-nebi-odeshhyny-ukrayinskyj-voyin-znyshhyv-dva-reaktyvni-bezpilotnyky/",
+      "published_at": "2026-11-21T13:32:43+00:00"
     },
     {
-      "title": "Brave1 was ‘fresh air’ for NATO innovation, says official",
-      "url": "https://ukdefencejournal.org.uk/brave1-was-fresh-air-for-nato-innovation-says-official/",
-      "published_at": "2026-11-21T10:00:09+00:00"
+      "title": "Operacja Horyzont. Rok czujności i współdziałania na rzecz bezpieczeństwa",
+      "url": "https://milmag.pl/operacja-horyzont-rok-czujnosci-i-wspoldzialania-na-rzecz-bezpieczenstwa/",
+      "published_at": "2026-11-21T13:13:29+00:00"
     },
     {
-      "title": "Retragerea apărării antiaeriene a coaliției americane lasă Bagdadul în fața testului real al combinării echipamentelor din Franța, SUA și Coreea de Sud",
-      "url": "https://www.defenseromania.ro/securitate-externe/orientul-mijlociuretragerea-apararii-antiaeriene-a-coalitiei-americane-lasa-bagdadul-in-fata-testului-real-al-combinarii-echipamentelor-din-franta-sua-si-coreea-de-sud-652386.html",
-      "published_at": "2026-11-21T09:59:00+00:00"
+      "title": "Ракетна програма та нові оборонні можливості: Президент провів нараду з Євгенієм Хмарою",
+      "url": "https://armyinform.com.ua/2026/11/21/raketna-programa-ta-novi-oboronni-mozhlyvosti-prezydent-proviv-naradu-pislya-peregovoriv-iz-ministrom-oborony-brytaniyi/",
+      "published_at": "2026-11-21T13:11:20+00:00"
     },
     {
-      "title": "Dodatkowe tureckie pojazdy Nomad 4×4 dla Estonii z Wielkiej Brytanii",
-      "url": "https://milmag.pl/dodatkowe-tureckie-pojazdy-nomad-4x4-dla-estonii-z-wielkiej-brytanii/",
-      "published_at": "2026-11-21T09:56:10+00:00"
+      "title": "De ce stau la sol aproape jumătate din avioanele F-16 ale Ucrainei și din ce motiv România, Polonia sau Grecia nu pot acoperi cererea urgentă a ucrainenilor",
+      "url": "https://www.defenseromania.ro/forta-aerianade-ce-stau-la-sol-aproape-jumatate-din-avioanele-f-16-ale-ucrainei-si-din-ce-motiv-romania-polonia-sau-grecia-nu-pot-acoperi-cererea-urgenta-a-ucrainenilor-652392.html",
+      "published_at": "2026-11-21T13:06:00+00:00"
     },
     {
-      "title": "«Мінус два гнома»: як для росіян закінчилася раптова зустріч із розвідниками «Помсти» в лісі",
-      "url": "https://armyinform.com.ua/2026/11/21/minus-dva-gnoma-yak-dlya-rosiyan-zakinchylasya-raptova-zustrich-iz-rozvidnykamy-pomsty-v-lisi/",
-      "published_at": "2026-11-21T09:43:29+00:00"
+      "title": "The Week in Briefs: Frameworks First, Forces to Follow",
+      "url": "https://defense.info/highlight-of-the-week/the-week-in-briefs-frameworks-first-forces-to-follow/",
+      "published_at": "2026-11-21T13:05:55+00:00"
     },
     {
-      "title": "New Castle County Drones Beat Patrol Cars to 756 of 844 Calls",
-      "url": "https://dronexl.co/2026/11/21/new-castle-county-police-drones-first-on-scene-dashboard-skydio-x10/",
-      "published_at": "2026-11-21T09:40:00+00:00"
+      "title": "We are watching warns Royal Navy planner on NATO sub hunt",
+      "url": "https://ukdefencejournal.org.uk/we-are-watching-warns-royal-navy-planner-on-nato-sub-hunt/",
+      "published_at": "2026-11-21T13:03:11+00:00"
     },
     {
-      "title": "BAE Systems receives U.S. contract for P-8A Poseidon pod designed to counter radar and missile threats",
-      "url": "https://defence-industry.eu/bae-systems-receives-u-s-contract-for-p-8a-poseidon-pod-designed-to-counter-radar-and-missile-threats/",
-      "published_at": "2026-11-21T09:36:51+00:00"
+      "title": "Under $200,000 per missile: U.S. Army’s target for Stinger successor",
+      "url": "https://defence-blog.com/under-200000-per-missile-u-s-armys-target-for-stinger-successor/",
+      "published_at": "2026-11-21T13:00:23+00:00"
     },
     {
-      "title": "Ukraine’s Air Defence Faces a Growing Cost Crisis as Russia Expands Mass Drone Attacks",
-      "url": "https://defencematters.eu/ukraine-air-defence-cost-crisis-russian-drone-production/",
-      "published_at": "2026-11-21T09:35:37+00:00"
+      "title": "France invests in 155mm ammunition. Major order, but questions remain",
+      "url": "https://defence24.com/industry/france-invests-in-155mm-ammunition-major-order-but-questions-remain",
+      "published_at": "2026-11-21T13:00:00+00:00"
     },
     {
-      "title": "Viitorul aviației de luptă se construiește în Turcia. Forțele Aeriene Turce sunt primele care introduc în serviciul activ avioane de vânătoare fără pilot Kizilelma",
-      "url": "https://www.defenseromania.ro/forta-aerianaviitorul-aviatiei-de-lupta-se-construieste-in-turcia-fortele-aeriene-turce-sunt-primele-care-introduc-in-serviciul-activ-avioane-de-vanatoare-fara-pilot-kizilelma-652383.html",
-      "published_at": "2026-11-21T09:34:00+00:00"
+      "title": "Scientists Watched a Star Disappear Inside Another Star in a Cosmic First",
+      "url": "https://indiandefencereview.com/scientists-watched-a-star-disappear/",
+      "published_at": "2026-11-21T13:00:00+00:00"
     },
     {
-      "title": "EU Military Mobility Talks Expose Dispute Over Emergency Powers as NATO Prepares Eastern Flank Reinforcements",
-      "url": "https://defencematters.eu/eu-military-mobility-emergency-powers-nato-reinforcements/",
-      "published_at": "2026-11-21T09:31:40+00:00"
+      "title": "La Belgique valide sa participation au programme d’Engin du génie de combat, lancé par la France",
+      "url": "https://www.opex360.com/2026/11/21/la-belgique-valide-sa-participation-au-programme-dengin-du-genie-de-combat-lance-par-la-france/",
+      "published_at": "2026-11-21T12:55:30+00:00"
     },
     {
-      "title": "Complex Aviation Exercise II-2026 per la Brigata Aeromobile “Friuli”",
-      "url": "https://aresdifesa.it/complex-aviation-exercise-ii-2026-per-la-brigata-aeromobile-friuli/",
-      "published_at": "2026-11-21T09:30:00+00:00"
+      "title": "«Вундервафля» путіна не врятувалася: Lasar’s Group знищили «Панцирь-С1» на Донеччині",
+      "url": "https://armyinform.com.ua/2026/11/21/%c2%abvundervaflya%c2%bb-putina-ne-vryatuvalasya-lasar%e2%80%99s-group-znyshhyly-%c2%abpanczyr-s1%c2%bb-na-donechchyni/",
+      "published_at": "2026-11-21T12:54:42+00:00"
     },
     {
-      "title": "Departament Obrony USA odtajnił ósmą część materiałów o UAP/UFO",
-      "url": "https://milmag.pl/departament-obrony-usa-odtajnil-osma-czesc-materialow-o-uap-ufo/",
-      "published_at": "2026-11-21T09:29:41+00:00"
+      "title": "Putin’s National Guard division near Moscow gets heavy armor",
+      "url": "https://defence-blog.com/putins-national-guard-division-near-moscow-gets-heavy-armor/",
+      "published_at": "2026-11-21T12:51:40+00:00"
     },
     {
-      "title": "NATO Deploys Underwater Robots as Baltic Cable Protection Becomes a Permanent Maritime Mission",
-      "url": "https://defencematters.eu/nato-underwater-robots-baltic-sea-cable-security/",
-      "published_at": "2026-11-21T09:28:20+00:00"
+      "title": "France orders 50,000 155mm shells from KNDS and co-funds tripling of La Chapelle-Saint-Ursin plant",
+      "url": "https://thedefenselog.com/france-155mm-shells-knds-order/",
+      "published_at": "2026-11-21T12:41:40+00:00"
     },
     {
-      "title": "Russia’s Nuclear Signalling Tests NATO’s Escalation Planning as Moscow Renews Security Demands",
-      "url": "https://defencematters.eu/russia-nuclear-signalling-nato-escalation-planning/",
-      "published_at": "2026-11-21T09:25:36+00:00"
+      "title": "NATO official says US cloud dominance is an opportunity, not a problem",
+      "url": "https://thedefenselog.com/nato-us-cloud-dominance-opportunity/",
+      "published_at": "2026-11-21T12:40:08+00:00"
     },
     {
-      "title": "US and Russia Resist Binding Rules as Geneva Autonomous Weapons Talks Run Overtime",
-      "url": "https://defencematters.eu/geneva-autonomous-weapons-us-russia-binding-rules/",
-      "published_at": "2026-11-21T09:24:10+00:00"
+      "title": "Две зенитни оръдия произвеждат общо 3 200 изстрела в минута",
+      "url": "https://armymedia.bg/2026/11/21/%d0%b4%d0%b2%d0%b5-%d0%b7%d0%b5%d0%bd%d0%b8%d1%82%d0%bd%d0%b8-%d0%be%d1%80%d1%8a%d0%b4%d0%b8%d1%8f-%d0%bf%d1%80%d0%be%d0%b8%d0%b7%d0%b2%d0%b5%d0%b6%d0%b4%d0%b0%d1%82-%d0%be%d0%b1%d1%89%d0%be-3-200/",
+      "published_at": "2026-11-21T12:37:00+00:00"
     },
     {
-      "title": "Who Makes the Chips Inside Türkiye’s Weapons Systems?",
-      "url": "https://defenseturkiye.com/who-builds-turkiye-defence-chips/",
-      "published_at": "2026-11-21T09:18:14+00:00"
+      "title": "Unia Europejska opracowuje broń do ataku z orbity",
+      "url": "https://radar.rp.pl/przemysl-zbrojeniowy/art45523221-unia-europejska-opracowuje-bron-do-ataku-z-orbity",
+      "published_at": "2026-11-21T12:35:21+00:00"
     },
     {
-      "title": "«Мобілізація нашого ворога, вона уже навряд сильно скрита»: комбриг «Птахів Мадяра» про збільшення російських сил на фронті",
-      "url": "https://armyinform.com.ua/2026/11/21/mobilizacziya-nashogo-voroga-vona-uzhe-navryad-sylno-skryta-kombryg-ptahiv-madyara-pro-zbilshennya-rosijskyh-syl-na-fronti/",
-      "published_at": "2026-11-21T09:17:09+00:00"
+      "title": "Зазирнути в «Леопарда»: танкісти 5-ї бригади показали, як виглядає місце механіка-водія",
+      "url": "https://armyinform.com.ua/2026/11/21/zazyrnuty-v-leoparda-tankisty-5-yi-brygady-pokazaly-yak-vyglyadaye-miscze-mehanika-vodiya/",
+      "published_at": "2026-11-21T12:33:54+00:00"
     },
     {
-      "title": "Ukrainian intelligence warns Europe of Russian operation: “Moscow wants internal conflict”",
-      "url": "https://defence24.com/defence-policy/ukrainian-intelligence-warns-europe-of-russian-operation-moscow-wants-internal-conflict",
-      "published_at": "2026-11-21T09:10:21+00:00"
+      "title": "Lockheed gets $72.6M to speed up delayed F-35 Block 4 upgrade",
+      "url": "https://defence-blog.com/lockheed-gets-72-6m-to-speed-up-delayed-f-35-block-4-upgrade/",
+      "published_at": "2026-11-21T12:33:09+00:00"
     },
     {
-      "title": "Countries on waiting list for Ukraine’s Delta battle system",
-      "url": "https://ukdefencejournal.org.uk/countries-on-waiting-list-for-ukraines-delta-battle-system/",
-      "published_at": "2026-11-21T09:00:07+00:00"
+      "title": "Дания настоява ЕС да затегне ограниченията за руски граждани след осуетен заговор",
+      "url": "https://armymedia.bg/2026/11/21/%d0%b4%d0%b0%d0%bd%d0%b8%d1%8f-%d0%bd%d0%b0%d1%81%d1%82%d0%be%d1%8f%d0%b2%d0%b0-%d0%b5%d1%81-%d0%b4%d0%b0-%d0%b7%d0%b0%d1%82%d0%b5%d0%b3%d0%bd%d0%b5-%d0%be%d0%b3%d1%80%d0%b0%d0%bd%d0%b8%d1%87%d0%b5/",
+      "published_at": "2026-11-21T12:32:33+00:00"
     },
     {
-      "title": "The Netherlands joins the European CAVS programme",
-      "url": "https://defence24.com/armed-forces/the-netherlands-joins-the-european-cavs-programme",
-      "published_at": "2026-11-21T09:00:01+00:00"
+      "title": "NATO leaders say the Alliance must adapt or be a dinosaur",
+      "url": "https://ukdefencejournal.org.uk/nato-leaders-say-the-alliance-must-adapt-or-be-a-dinosaur-2/",
+      "published_at": "2026-11-21T12:30:20+00:00"
     },
     {
-      "title": "Czech Army Opens FPV Drone Tender With Strict Security Rules",
-      "url": "https://www.adriadefense.com/czech-army-opens-fpv-drone-tender-with-strict-security-rules/",
-      "published_at": "2026-11-21T09:00:00+00:00"
+      "title": "Six EU countries sign declaration to explore joint purchase of CBRN surveillance equipment",
+      "url": "https://thedefenselog.com/cbrn-surveillance-joint-purchase-eu-countries/",
+      "published_at": "2026-11-21T12:30:08+00:00"
     },
     {
-      "title": "DLR Commissions the MRO Real-World Laboratory in Hamburg",
-      "url": "https://www.aerospace-and-defence.com/dlr-puts-mro-real-world-laboratory-into-operation-in-hamburg-a-29743400185a9f95e8d74fb63788e3c2/",
-      "published_at": "2026-11-21T09:00:00+00:00"
+      "title": "Председателят на Европейския съвет Антонио Коща предложи съкращения от 204 млрд. евро в следващия бюджет на ЕС и данък върху големите технологични компании",
+      "url": "https://armymedia.bg/2026/11/21/%d0%bf%d1%80%d0%b5%d0%b4%d1%81%d0%b5%d0%b4%d0%b0%d1%82%d0%b5%d0%bb%d1%8f%d1%82-%d0%bd%d0%b0-%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b5%d0%b9%d1%81%d0%ba%d0%b8%d1%8f-%d1%81%d1%8a%d0%b2%d0%b5%d1%82-%d0%b0-5/",
+      "published_at": "2026-11-21T12:29:36+00:00"
     },
     {
-      "title": "«Зараз їх більше видно»: росіяни не відмовилися від інфільтрації, але з відходом «зеленки» зазнають більших втрат",
-      "url": "https://armyinform.com.ua/2026/11/21/zaraz-yih-bilshe-vydno-rosiyany-ne-vidmovylysya-vid-infiltracziyi-ale-z-vidhodom-zelenky-zaznayut-bilshyh-vtrat/",
-      "published_at": "2026-11-21T08:53:03+00:00"
-    },
-    {
-      "title": "Hegseth memo limits U.S.-Canada defense ties, report says",
-      "url": "https://defence-blog.com/hegseth-memo-limits-u-s-canada-defense-ties-report-says/",
-      "published_at": "2026-11-21T08:52:26+00:00"
-    },
-    {
-      "title": "Noi rapoarte confirmă rolul orașului Benghazi ca hub pentru conexiunile rusești cu Africa, dar natura mărfurilor transportate rămâne neclară",
-      "url": "https://www.defenseromania.ro/strategicanoi-rapoarte-confirma-rolul-orasului-benghazi-ca-hub-pentru-conexiunile-rusesti-cu-africa-dar-natura-marfurilor-transportate-ramane-neclara-652380.html",
-      "published_at": "2026-11-21T08:51:00+00:00"
-    },
-    {
-      "title": "Травмата – болестта на съвремието",
-      "url": "https://armymedia.bg/2026/11/21/%d1%82%d1%80%d0%b0%d0%b2%d0%bc%d0%b0%d1%82%d0%b0-%d0%b1%d0%be%d0%bb%d0%b5%d1%81%d1%82%d1%82%d0%b0-%d0%bd%d0%b0-%d1%81%d1%8a%d0%b2%d1%80%d0%b5%d0%bc%d0%b8%d0%b5%d1%82%d0%be/",
-      "published_at": "2026-11-21T08:50:00+00:00"
-    },
-    {
-      "title": "UK and Norway Commit Over £100M for Two New Fast Attack Craft for Ukraine",
-      "url": "https://www.navalnews.com/naval-news/2026/11/uk-and-norway-commit-over-100m-for-two-new-fast-attack-craft-for-ukraine/",
-      "published_at": "2026-11-21T08:46:25+00:00"
-    },
-    {
-      "title": "Allemagne : huit nouveaux bataillons pour protéger le territoire et renforcer la brigade en Lituanie",
-      "url": "https://armees.com/bundeswehr-huit-bataillons-heimatschutz-lituanie-21-novembre-2026-0933/",
-      "published_at": "2026-11-21T08:45:31+00:00"
-    },
-    {
-      "title": "Adversary could weaponise own satellite debris, MPs warned",
-      "url": "https://ukdefencejournal.org.uk/adversary-could-weaponise-own-satellite-debris-mps-warned/",
-      "published_at": "2026-11-21T08:45:09+00:00"
-    },
-    {
-      "title": "France confirms it is working with Ukraine on SAMP/T NG",
-      "url": "https://defence-blog.com/france-confirms-it-is-working-with-ukraine-on-samp-t-ng/",
-      "published_at": "2026-11-21T08:43:55+00:00"
-    },
-    {
-      "title": "Chinese bomber’s turn near Manila sparks missile speculation",
-      "url": "https://defence-blog.com/chinese-bombers-turn-near-manila-sparks-missile-speculation/",
-      "published_at": "2026-11-21T08:37:39+00:00"
-    },
-    {
-      "title": "Ex-Space Command chief doubts UK could ride out space attack",
-      "url": "https://ukdefencejournal.org.uk/ex-space-command-chief-doubts-uk-could-ride-out-space-attack/",
-      "published_at": "2026-11-21T08:30:23+00:00"
-    },
-    {
-      "title": "I Paesi Bassi aderiscono al programma CAVS 6×6",
-      "url": "https://aresdifesa.it/i-paesi-bassi-aderiscono-al-programma-cavs-6x6/",
-      "published_at": "2026-11-21T08:30:00+00:00"
-    },
-    {
-      "title": "До десяти знищених окупантів і полонений: як «Гриня» та «Лось» зі «Шквалу» повернулися з-під Вовчанська",
-      "url": "https://armyinform.com.ua/2026/11/21/do-desyaty-znyshhenyh-okupantiv-i-polonenyj-yak-grynya-ta-los-zi-shkvalu-povernulysya-z-pid-vovchanska/",
-      "published_at": "2026-11-21T08:28:19+00:00"
-    },
-    {
-      "title": "Dutch F-35 stealth fighters land on Finnish highway",
-      "url": "https://defence-blog.com/dutch-f-35-stealth-fighters-land-on-finnish-highway/",
-      "published_at": "2026-11-21T08:28:08+00:00"
-    },
-    {
-      "title": "Polnischer Satellitenhersteller Creotech Instruments eröffnet Engineering-Zentrum in Bremen",
-      "url": "https://www.hartpunkt.de/polnischer-satellitenhersteller-creotech-instruments-eroeffnet-engineering-zentrum-in-bremen/",
-      "published_at": "2026-11-21T08:27:57+00:00"
-    },
-    {
-      "title": "RAF Typhoons flew over twenty thousand hours last year",
-      "url": "https://ukdefencejournal.org.uk/raf-typhoons-flew-over-twenty-thousand-hours-last-year/",
-      "published_at": "2026-11-21T08:26:13+00:00"
-    },
-    {
-      "title": "Germany’s Rheinmetall signs military vehicle technology agreement with the Netherlands",
-      "url": "https://balticnews.com/germanys-rheinmetall-signs-military-vehicle-technology-agreement-with-the-netherlands/",
-      "published_at": "2026-11-21T08:25:14+00:00"
-    },
-    {
-      "title": "Babcock installs masts on Type 31 frigate HMS Active at Rosyth",
-      "url": "https://thedefenselog.com/hms-active-type-31-frigate-masts/",
-      "published_at": "2026-11-21T08:24:35+00:00"
-    },
-    {
-      "title": "Sweden’s W5 Solutions signs SEK 78.8 million shelter framework agreement with European industrial customer",
-      "url": "https://balticnews.com/swedens-w5-solutions-signs-sek-78-8-million-shelter-framework-agreement-with-european-industrial-customer/",
-      "published_at": "2026-11-21T08:24:00+00:00"
-    },
-    {
-      "title": "Sweden’s Saab signs MAPAM mortar munitions licensing agreement for production in Poland",
-      "url": "https://balticnews.com/swedens-saab-signs-mapam-mortar-munitions-licensing-agreement-for-production-in-poland/",
-      "published_at": "2026-11-21T08:22:53+00:00"
-    },
-    {
-      "title": "Mai are artileria vreun viitor pe câmpul de luptă modern? Franța comandă 50.000 de obuze de 155 mm și investește masiv în noi capacități de producție",
-      "url": "https://www.defenseromania.ro/industrie-de-apararemai-are-artileria-vreun-viitor-pe-campul-de-lupta-modern-franta-comanda-50-000-de-obuze-de-155-mm-si-investeste-masiv-in-noi-capacitati-de-productie-652377.html",
-      "published_at": "2026-11-21T08:14:00+00:00"
-    },
-    {
-      "title": "UN: Drone Strikes Killed Over 1,630 Civilians in Sudan in 2026",
-      "url": "https://defenseandtech.com/un-report-drone-strikes-sudan-civilian-deaths-2026/",
-      "published_at": "2026-11-21T08:11:54+00:00"
-    },
-    {
-      "title": "«Зробили і УЗД, і МРТ, і рентген»: комбриг «Птахів Мадяра» пояснив, чому по Керченському мосту не вдарили раніше",
-      "url": "https://armyinform.com.ua/2026/11/21/zrobyly-i-uzd-i-mrt-i-rentgen-kombryg-ptahiv-madyara-poyasnyv-chomu-po-kerchenskomu-mostu-ne-vdaryly-ranishe/",
-      "published_at": "2026-11-21T08:07:07+00:00"
-    },
-    {
-      "title": "Austria to Unveil National Counter-Drone Strategy With Police and Military Demonstrations",
-      "url": "https://www.adriadefense.com/austria-to-unveil-national-counter-drone-strategy-with-police-and-military-demonstrations/",
-      "published_at": "2026-11-21T08:00:00+00:00"
-    },
-    {
-      "title": "British frigate HMS Active takes shape in Scotland",
-      "url": "https://ukdefencejournal.org.uk/british-frigate-hms-active-takes-shape-in-scotland/",
-      "published_at": "2026-11-21T07:56:41+00:00"
-    },
-    {
-      "title": "Понад 10 кілометрів під загрозою з повітря: як бійців 12-ї бригади готують до виходу на позиції",
-      "url": "https://armyinform.com.ua/2026/11/21/ponad-10-kilometriv-pid-zagrozoyu-z-povitrya-yak-bijcziv-12-yi-brygady-gotuyut-do-vyhodu-na-pozycziyi/",
-      "published_at": "2026-11-21T07:47:51+00:00"
-    },
-    {
-      "title": "Listopadowa dostawa Jelczy do Wojska Polskiego",
-      "url": "https://milmag.pl/listopadowa-dostawa-jelczy-do-wojska-polskiego/",
-      "published_at": "2026-11-21T07:41:44+00:00"
-    },
-    {
-      "title": "Двоє загиблих і 22 поранені: росіяни завдали майже 500 ударів по Запоріжжю та області за добу",
-      "url": "https://armyinform.com.ua/2026/11/21/dvoye-zagyblyh-i-22-poraneni-rosiyany-zavdaly-majzhe-500-udariv-po-zaporizhzhyu-ta-oblasti-za-dobu/",
-      "published_at": "2026-11-21T07:34:11+00:00"
-    },
-    {
-      "title": "„Арктически ловец“ за борба с подводници",
-      "url": "https://armymedia.bg/2026/11/21/%d0%b0%d1%80%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8-%d0%bb%d0%be%d0%b2%d0%b5%d1%86-%d0%b7%d0%b0-%d0%b1%d0%be%d1%80%d0%b1%d0%b0-%d1%81-%d0%bf%d0%be%d0%b4%d0%b2%d0%be%d0%b4/",
-      "published_at": "2026-11-21T07:34:00+00:00"
-    },
-    {
-      "title": "Germania lasă în urmă anii de scepticism față de dronele de atac și pregătește intrarea sistemelor Stark și Helsing în dotarea trupelor de pe flancul estic",
-      "url": "https://www.defenseromania.ro/drone-si-tehnologii-emergentegermania-lasa-in-urma-anii-de-scepticism-fata-de-dronele-de-atac-si-pregateste-intrarea-sistemelor-stark-si-helsing-in-dotarea-trupelor-de-pe-flancul-estic-652374.html",
-      "published_at": "2026-11-21T07:32:00+00:00"
-    },
-    {
-      "title": "Potenziato il sistema di difesa missilistico David’s Sling in Israele",
-      "url": "https://aresdifesa.it/potenziato-il-sistema-di-difesa-missilistico-davids-sling-in-israele/",
-      "published_at": "2026-11-21T07:30:00+00:00"
-    },
-    {
-      "title": "Air defense neutralizes 117 of 148 Russian drones launched against Ukraine overnight",
-      "url": "https://www.ukrinform.net/rubric-ato/4187055-air-defense-neutralizes-117-of-148-russian-drones-launched-against-ukraine-overnight.html",
-      "published_at": "2026-11-21T07:17:00+00:00"
-    },
-    {
-      "title": "Полковник Красимир Петов: Приемствеността е важна за всяка структура",
-      "url": "https://armymedia.bg/2026/11/21/%d0%bf%d0%be%d0%bb%d0%ba%d0%be%d0%b2%d0%bd%d0%b8%d0%ba-%d0%ba%d1%80%d0%b0%d1%81%d0%b8%d0%bc%d0%b8%d1%80-%d0%bf%d0%b5%d1%82%d0%be%d0%b2-%d0%bf%d1%80%d0%b8%d0%b5%d0%bc%d1%81%d1%82%d0%b2%d0%b5%d0%bd/",
-      "published_at": "2026-11-21T07:17:00+00:00"
-    },
-    {
-      "title": "Co víme o první čínské jaderné letadlové lodi a jak obstojí ve srovnání s americkými, francouzskými a britskými konstrukcemi",
-      "url": "https://www.czdefence.cz/clanek/co-vime-o-prvni-cinske-jaderne-letadlove-lodi-a-jak-obstoji-ve-srovnani-s-americkymi-francouzskymi-a-britskymi-konstrukcemi",
-      "published_at": "2026-11-21T07:16:00+00:00"
-    },
-    {
-      "title": "Après le fiasco des frégates F126, l’Allemagne investit finalement 11,6 milliards d’euros dans un projet plus réaliste pour huit MEKO A-200 DEU",
-      "url": "https://www.forum-militaire.fr/apres-le-fiasco-des-fregates-f126-lallemagne-investit-finalement-116-milliards-deuros-dans-un-projet-plus-realiste-pour-huit-meko-a-200-deu/",
-      "published_at": "2026-11-21T07:15:19+00:00"
-    },
-    {
-      "title": "Obus de 155 mm : la France vise 150 000 unités par an en 2029",
-      "url": "https://armees.com/obus-155-mm-knds-france-capacite-150000-2029-commande-50000/",
-      "published_at": "2026-11-21T07:14:01+00:00"
-    },
-    {
-      "title": "«Треба підібрати ключик»: як колишній зенітник став командиром взводу РЕБ у «Дикому Полі»",
-      "url": "https://armyinform.com.ua/2026/11/21/treba-pidibraty-klyuchyk-yak-kolyshnij-zenitnyk-stav-komandyrom-vzvodu-reb-u-dykomu-poli/",
-      "published_at": "2026-11-21T07:13:10+00:00"
-    },
-    {
-      "title": "Nouvelles restrictions sur Starlink entravent la défense ukrainienne en pleine guerre intense",
-      "url": "https://www.zonearmee.com/nouvelles-restrictions-sur-starlink-entravent-la-defense-ukrainienne-en-pleine-guerre-intense/",
-      "published_at": "2026-11-21T07:08:11+00:00"
-    },
-    {
-      "title": "Ni la Chine ni la Corée du Nord : ces munitions retrouvées en Russie portent un marquage suisse, et Berne exige des explications",
-      "url": "https://armees.com/ni-la-chine-ni-la-coree-du-nord-ces-munitions-retrouvees-en-russie-portent-un-marquage-suisse-et-berne-exige-des-explications/",
-      "published_at": "2026-11-21T07:05:14+00:00"
-    },
-    {
-      "title": "Link-Inject-to-Live vernetzt 4 F-35-Simulatoren mit 6 F/A-18",
-      "url": "https://defence-tech.de/link-inject-to-live-vernetzt-4-f-35-simulatoren-mit-6-fa-18/",
-      "published_at": "2026-11-21T07:03:04+00:00"
-    },
-    {
-      "title": "Пам’яті захисника Станіслава Іванова (позивний «Ґрут»)",
-      "url": "https://armyinform.com.ua/2026/11/21/pamyati-zahysnyka-stanislava-ivanova-pozyvnyj-grut/",
-      "published_at": "2026-11-21T07:00:52+00:00"
-    },
-    {
-      "title": "British Navy  Norway Sign P-8A Poseidon Cross-Servicing Deal",
-      "url": "https://www.defensemirror.com/news/42408",
-      "published_at": "2026-11-21T07:00:45+00:00"
-    },
-    {
-      "title": "Netherlands Joins Finland-Led European Armored Vehicle Program",
-      "url": "https://www.defensemirror.com/news/42409",
-      "published_at": "2026-11-21T07:00:45+00:00"
-    },
-    {
-      "title": "Where to flee in the event of war? Suwałki Gap is not really NATO’s weakness",
-      "url": "https://defence24.com/geopolitics/where-to-flee-in-the-event-of-war-suwalki-gap-is-not-really-natos-weakness",
-      "published_at": "2026-11-21T07:00:02+00:00"
-    },
-    {
-      "title": "Saab Signs Ammunition Production Agreement With Poland's Dezamet",
-      "url": "https://www.adriadefense.com/saab-signs-ammunition-production-agreement-with-polands-dezamet/",
-      "published_at": "2026-11-21T07:00:00+00:00"
-    },
-    {
-      "title": "Russian forces attack Dnipropetrovsk region nearly 10 times since evening: Two killed, 55 injured",
-      "url": "https://www.ukrinform.net/rubric-ato/4187053-russian-forces-attack-dnipropetrovsk-region-nearly-10-times-since-evening-two-killed-55-injured.html",
-      "published_at": "2026-11-21T06:59:00+00:00"
-    },
-    {
-      "title": "Purgations dans l’armée chinoise : impact sur la préparation militaire et les tensions autour de Taïwan",
-      "url": "https://www.zonearmee.com/purgations-dans-larmee-chinoise-impact-sur-la-preparation-militaire-et-les-tensions-autour-de-taiwan/",
-      "published_at": "2026-11-21T06:56:21+00:00"
-    },
-    {
-      "title": "Défense écossaise : un ministre britannique rejette les accusations d’absence de protection maritime",
-      "url": "https://www.zonearmee.com/defense-ecossaise-un-ministre-britannique-rejette-les-accusations-dabsence-de-protection-maritime/",
-      "published_at": "2026-11-21T06:56:08+00:00"
-    },
-    {
-      "title": "Дни на отворените врати като част от информационната кампания „Попитай НОИ“ започват от днес",
-      "url": "https://armymedia.bg/2026/11/21/%d0%b4%d0%bd%d0%b8-%d0%bd%d0%b0-%d0%be%d1%82%d0%b2%d0%be%d1%80%d0%b5%d0%bd%d0%b8%d1%82%d0%b5-%d0%b2%d1%80%d0%b0%d1%82%d0%b8-%d0%ba%d0%b0%d1%82%d0%be-%d1%87%d0%b0%d1%81%d1%82-%d0%be%d1%82-%d0%b8%d0%bd/",
-      "published_at": "2026-11-21T06:51:33+00:00"
-    },
-    {
-      "title": "Ворог атакував Україну трьома балістичними ракетами та майже 150 безпілотниками",
-      "url": "https://armyinform.com.ua/2026/11/21/vorog-atakuvav-ukrayinu-troma-balistychnymy-raketamy-ta-majzhe-150-bezpilotnykamy/",
-      "published_at": "2026-11-21T06:49:06+00:00"
-    },
-    {
-      "title": "Изложението NATO Edge 2026 в Измир приключи с акцент върху отбранителните технологии и иновациите",
-      "url": "https://armymedia.bg/2026/11/21/%d0%b8%d0%b7%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5%d1%82%d0%be-nato-edge-2026-%d0%b2-%d0%b8%d0%b7%d0%bc%d0%b8%d1%80-%d0%bf%d1%80%d0%b8%d0%ba%d0%bb%d1%8e%d1%87%d0%b8-%d1%81-%d0%b0%d0%ba%d1%86%d0%b5/",
-      "published_at": "2026-11-21T06:45:36+00:00"
-    },
-    {
-      "title": "Douglas Alexander plaide pour le chantier naval écossais face aux nouvelles commandes militaires britanniques",
-      "url": "https://www.zonearmee.com/douglas-alexander-plaide-pour-le-chantier-naval-ecossais-face-aux-nouvelles-commandes-militaires-britanniques/",
-      "published_at": "2026-11-21T06:44:12+00:00"
-    },
-    {
-      "title": "Sergent décoré pour bravoure après une attaque iranienne meurtrière au Koweït",
-      "url": "https://www.zonearmee.com/sergent-decore-pour-bravoure-apres-une-attaque-iranienne-meurtriere-au-koweit/",
-      "published_at": "2026-11-21T06:44:05+00:00"
-    },
-    {
-      "title": "Injury toll after Russian attacks in Kharkiv region rises to 11, including two children",
-      "url": "https://www.ukrinform.net/rubric-ato/4187050-injury-toll-after-russian-attacks-in-kharkiv-region-rises-to-11-including-two-children.html",
-      "published_at": "2026-11-21T06:38:00+00:00"
-    },
-    {
-      "title": "ASELSAN’s Akyol Bets Eastern Flank Fears Beat EU’s ‘Buy European’ Rules",
-      "url": "https://defenseturkiye.com/aselsan-akyol-eu-buy-european-safe/",
-      "published_at": "2026-11-21T06:36:00+00:00"
-    },
-    {
-      "title": "Най-малко двама души, включително дете, бяха убити, а 42 – ранени, при руска атака срещу Кривой Рог, съобщиха местните власти",
-      "url": "https://armymedia.bg/2026/11/21/%d0%bd%d0%b0%d0%b9-%d0%bc%d0%b0%d0%bb%d0%ba%d0%be-%d0%b4%d0%b2%d0%b0%d0%bc%d0%b0-%d0%b4%d1%83%d1%88%d0%b8-%d0%b2%d0%ba%d0%bb%d1%8e%d1%87%d0%b8%d1%82%d0%b5%d0%bb%d0%bd%d0%be-%d0%b4%d0%b5%d1%82%d0%b5/",
-      "published_at": "2026-11-21T06:35:46+00:00"
-    },
-    {
-      "title": "Le Chili entame l’excavation de 12 km de tranchées supplémentaires à sa frontière nord",
-      "url": "https://armees.com/le-chili-entame-lexcavation-de-12-km-de-tranchees-supplementaires-a-sa-frontiere-nord/",
-      "published_at": "2026-11-21T06:35:00+00:00"
-    },
-    {
-      "title": "Австрийското външно министерство съобщи, че сайтът му е станал обект на хакерска атака и са изтекли данни на служители",
-      "url": "https://armymedia.bg/2026/11/21/%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b8%d0%b9%d1%81%d0%ba%d0%be%d1%82%d0%be-%d0%b2%d1%8a%d0%bd%d1%88%d0%bd%d0%be-%d0%bc%d0%b8%d0%bd%d0%b8%d1%81%d1%82%d0%b5%d1%80%d1%81%d1%82%d0%b2%d0%be-%d1%81%d1%8a/",
-      "published_at": "2026-11-21T06:33:54+00:00"
-    },
-    {
-      "title": "Israël accueille une délégation péruvienne pour présenter ses technologies de défense",
-      "url": "https://www.zonearmee.com/israel-accueille-une-delegation-peruvienne-pour-presenter-ses-technologies-de-defense/",
-      "published_at": "2026-11-21T06:32:12+00:00"
-    },
-    {
-      "title": "Ukraine espère recevoir son premier Gripen début 2027 pour renforcer sa défense aérienne",
-      "url": "https://www.zonearmee.com/ukraine-espere-recevoir-son-premier-gripen-debut-2027-pour-renforcer-sa-defense-aerienne/",
-      "published_at": "2026-11-21T06:32:08+00:00"
-    },
-    {
-      "title": "Тръмп заяви, че ще попречи на американските компании да изграждат центрове за данни в чужбина",
-      "url": "https://armymedia.bg/2026/11/21/%d1%82%d1%80%d1%8a%d0%bc%d0%bf-%d0%b7%d0%b0%d1%8f%d0%b2%d0%b8-%d1%87%d0%b5-%d1%89%d0%b5-%d0%bf%d0%be%d0%bf%d1%80%d0%b5%d1%87%d0%b8-%d0%bd%d0%b0-%d0%b0%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b0%d0%bd%d1%81/",
-      "published_at": "2026-11-21T06:30:37+00:00"
-    },
-    {
-      "title": "Саудитска Арабия заяви, че е свалила три ракети, изстреляни от хусите към Рияд",
-      "url": "https://armymedia.bg/2026/11/21/%d1%81%d0%b0%d1%83%d0%b4%d0%b8%d1%82%d1%81%d0%ba%d0%b0-%d0%b0%d1%80%d0%b0%d0%b1%d0%b8%d1%8f-%d0%b7%d0%b0%d1%8f%d0%b2%d0%b8-%d1%87%d0%b5-%d0%b5-%d1%81%d0%b2%d0%b0%d0%bb%d0%b8%d0%bb%d0%b0-%d1%82%d1%80/",
-      "published_at": "2026-11-21T06:28:21+00:00"
-    },
-    {
-      "title": "Російський дрон ударив по п’ятиповерхівці на Харківщині: 11 постраждалих, серед них двоє дітей",
-      "url": "https://armyinform.com.ua/2026/11/21/rosijskyj-dron-udaryv-po-pyatypoverhivczi-na-harkivshhyni-11-postrazhdalyh-sered-nyh-dvoye-ditej/",
-      "published_at": "2026-11-21T06:25:57+00:00"
-    },
-    {
-      "title": "Ядреното въоръжаване на Китай е „бързо и мащабно“, заяви Тръмп ден след срещата си със Си Дзинпин",
-      "url": "https://armymedia.bg/2026/11/21/%d1%8f%d0%b4%d1%80%d0%b5%d0%bd%d0%be%d1%82%d0%be-%d0%b2%d1%8a%d0%be%d1%80%d1%8a%d0%b6%d0%b0%d0%b2%d0%b0%d0%bd%d0%b5-%d0%bd%d0%b0-%d0%ba%d0%b8%d1%82%d0%b0%d0%b9-%d0%b5-%d0%b1%d1%8a%d1%80%d0%b7%d0%be/",
-      "published_at": "2026-11-21T06:25:55+00:00"
-    },
-    {
-      "title": "Иран все още се надява, че дипломацията може да сложи край на войната със САЩ, заяви иранският външен министър",
-      "url": "https://armymedia.bg/2026/11/21/%d0%b8%d1%80%d0%b0%d0%bd-%d0%b2%d1%81%d0%b5-%d0%be%d1%89%d0%b5-%d1%81%d0%b5-%d0%bd%d0%b0%d0%b4%d1%8f%d0%b2%d0%b0-%d1%87%d0%b5-%d0%b4%d0%b8%d0%bf%d0%bb%d0%be%d0%bc%d0%b0%d1%86%d0%b8%d1%8f%d1%82%d0%b0/",
-      "published_at": "2026-11-21T06:22:58+00:00"
-    },
-    {
-      "title": "L’Armée de l’air américaine intensifie ses opérations annuelles sur quatre îles du Pacifique",
-      "url": "https://www.zonearmee.com/larmee-de-lair-americaine-intensifie-ses-operations-annuelles-sur-quatre-iles-du-pacifique/",
-      "published_at": "2026-11-21T06:20:16+00:00"
+      "title": "U.S. Army backs new way to make long-range artillery shell motors",
+      "url": "https://defence-blog.com/u-s-army-backs-new-way-to-make-long-range-artillery-shell-motors/",
+      "published_at": "2026-11-21T12:28:08+00:00"
     }
   ]
 }
