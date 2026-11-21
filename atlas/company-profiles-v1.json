@@ -3974,6 +3974,4458 @@
           "Registered office"
         ]
       ]
+    },
+    "ceska-zbrojovka-a-s": {
+      "developments": [
+        {
+          "date": "06 Jul 2026",
+          "title": "Contract award by Czech Ministry of Defence (TED 463698-2026)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/463698-2026"
+        },
+        {
+          "date": "15 May 2026",
+          "title": "Contract award by Prison Service of the Czech Republic (TED 332196-2026)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/332196-2026"
+        },
+        {
+          "date": "01 Aug 2025",
+          "title": "Contract award by Czech Ministry of Defence (TED 503434-2025)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/503434-2025"
+        },
+        {
+          "date": "03 Feb 2025",
+          "title": "Contract award by Czech Ministry of Defence (TED 71911-2025)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/71911-2025"
+        },
+        {
+          "date": "16 Oct 2024",
+          "title": "Contract award by Czech Ministry of the Interior (TED 625909-2024)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/625909-2024"
+        },
+        {
+          "date": "19 Jul 2024",
+          "title": "Contract award by Czech Ministry of Defence (TED 434123-2024)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/434123-2024"
+        }
+      ],
+      "country": "CZ",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN country slice CZ (ARES register, TED awards, European Defence Fund, AOBP list; level by rule)",
+      "sectors": [
+        "Weapons & ammunition"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with the Ministry of Defence"
+        ]
+      ],
+      "about": {
+        "workspace": "Česká zbrojovka a.s. is a Czech company entered in the business register in 1992, with its seat in Uherský Brod. EU procurement records (TED) list 4 contract awards to the company by the Czech Ministry of Defence between 2024 and 2026. They also list 3 awards by civilian security and public buyers (Czech Ministry of the Interior, Prison Service of the Czech Republic). Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “Česká zbrojovka is the group’s main European production plant, located in Uherský Brod in the Czech Republic. It makes firearms for commercial, military and police customers worldwide. The company exports to more than 90 countries. Česká zbrojovka firearms are currently widely used by military and law enforcement agencies in more than 40 countries.”",
+        "overview": "Česká zbrojovka a.s. is a Czech company entered in the business register in 1992, with its seat in Uherský Brod. EU procurement records (TED) list 4 contract awards to the company by the Czech Ministry of Defence between 2024 and 2026. They also list 3 awards by civilian security and public buyers (Czech Ministry of the Interior, Prison Service of the Czech Republic). Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “Česká zbrojovka is the group’s main European production plant, located in Uherský Brod in the Czech Republic. It makes firearms for commercial, military and police customers worldwide. The company exports to more than 90 countries. Česká zbrojovka firearms are currently widely used by military and law enforcement agencies in more than 40 countries.”"
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Joint-stock company (a.s.)",
+            "Type"
+          ],
+          [
+            "1992",
+            "Registered"
+          ],
+          [
+            "Uherský Brod, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 46345965",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Joint-stock company (a.s.)",
+            "Type"
+          ],
+          [
+            "1992",
+            "Registered"
+          ],
+          [
+            "Uherský Brod, Czechia",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3",
+        "Weapons & ammunition"
+      ],
+      "taxonomy": {
+        "domains": [
+          "LAND"
+        ],
+        "capabilities": [
+          "WPN"
+        ],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 463698-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "06 Jul 2026",
+            "desc": "TED notice 463698-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Prison Service of the Czech Republic",
+            "sub": "TED notice 332196-2026 · Prison Service of the Czech Republic",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "15 May 2026",
+            "desc": "TED notice 332196-2026 · Prison Service of the Czech Republic",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 503434-2025 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "01 Aug 2025",
+            "desc": "TED notice 503434-2025 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 71911-2025 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "03 Feb 2025",
+            "desc": "TED notice 71911-2025 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 625909-2024 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "16 Oct 2024",
+            "desc": "TED notice 625909-2024 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 434123-2024 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "19 Jul 2024",
+            "desc": "TED notice 434123-2024 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 429420-2024 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "17 Jul 2024",
+            "desc": "TED notice 429420-2024 · Czech Ministry of the Interior",
+            "color": "blue"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 463698-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "06 Jul 2026",
+            "desc": "TED notice 463698-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Prison Service of the Czech Republic",
+            "sub": "TED notice 332196-2026 · Prison Service of the Czech Republic",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "15 May 2026",
+            "desc": "TED notice 332196-2026 · Prison Service of the Czech Republic",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 503434-2025 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "01 Aug 2025",
+            "desc": "TED notice 503434-2025 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 71911-2025 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "03 Feb 2025",
+            "desc": "TED notice 71911-2025 · Czech Ministry of Defence",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Czech Ministry of Defence",
+            "role": "Customer · 4 TED awards",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Czech Ministry of the Interior",
+            "role": "Customer · 2 TED awards",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "building",
+            "edge": "verified"
+          },
+          {
+            "name": "Prison Service of the Czech Republic",
+            "role": "Customer · 1 TED award",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "building",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.9,
+            "y": 0.45,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Czech Ministry of Defence",
+            "role": "Customer · 4 TED awards",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Czech Ministry of the Interior",
+            "role": "Customer · 2 TED awards",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "building",
+            "edge": "verified"
+          },
+          {
+            "name": "Prison Service of the Czech Republic",
+            "role": "Customer · 1 TED award",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "building",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.9,
+            "y": 0.45,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Česká zbrojovka a.s., IČO 46345965, registered 27 Apr 1992, seat Uherský Brod",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "ARES register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/46345965"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 463698-2026)",
+          "sources": 1,
+          "date": "06 Jul 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/463698-2026"
+        },
+        {
+          "claim": "Contract award by Prison Service of the Czech Republic (TED notice 332196-2026)",
+          "sources": 1,
+          "date": "15 May 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/332196-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 503434-2025)",
+          "sources": 1,
+          "date": "01 Aug 2025",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/503434-2025"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 71911-2025)",
+          "sources": 1,
+          "date": "03 Feb 2025",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/71911-2025"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of the Interior (TED notice 625909-2024)",
+          "sources": 1,
+          "date": "16 Oct 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/625909-2024"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 434123-2024)",
+          "sources": 1,
+          "date": "19 Jul 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/434123-2024"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of the Interior (TED notice 429420-2024)",
+          "sources": 1,
+          "date": "17 Jul 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/429420-2024"
+        },
+        {
+          "claim": "Member of AOBP; company self-description quoted in translation",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "AOBP member list",
+          "href": "https://www.aobp.cz/cs/companies/155/ceska-zbrojovka-as/"
+        },
+        {
+          "claim": "Products, technologies and financials",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Uherský Brod",
+          "Registered office"
+        ]
+      ]
+    },
+    "explosia-a-s": {
+      "developments": [
+        {
+          "date": "30 Apr 2024",
+          "title": "Contract award by Czech Ministry of Defence (TED 258522-2024)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/258522-2024"
+        }
+      ],
+      "country": "CZ",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN country slice CZ (ARES register, TED awards, European Defence Fund, AOBP list; level by rule)",
+      "sectors": [
+        "Weapons & ammunition"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with the Ministry of Defence"
+        ]
+      ],
+      "about": {
+        "workspace": "Explosia a.s. is a Czech company entered in the business register in 1998, with its seat in Pardubice. EU procurement records (TED) list 1 contract award to the company by the Czech Ministry of Defence between 2024 and 2024. The company takes part in 1 European Defence Fund project. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “Explosia is the traditional and most important Czech manufacturer of explosives, wholly owned by the Czech state. It is an internationally known manufacturer of smokeless powders, black powder, industrial explosives, bimodular propellant charges for large-calibre ammunition, aircraft rescue devices and other specialities, including Semtex, the world’s best-known plastic explosive.”",
+        "overview": "Explosia a.s. is a Czech company entered in the business register in 1998, with its seat in Pardubice. EU procurement records (TED) list 1 contract award to the company by the Czech Ministry of Defence between 2024 and 2024. The company takes part in 1 European Defence Fund project. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “Explosia is the traditional and most important Czech manufacturer of explosives, wholly owned by the Czech state. It is an internationally known manufacturer of smokeless powders, black powder, industrial explosives, bimodular propellant charges for large-calibre ammunition, aircraft rescue devices and other specialities, including Semtex, the world’s best-known plastic explosive.”"
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Joint-stock company (a.s.)",
+            "Type"
+          ],
+          [
+            "1998",
+            "Registered"
+          ],
+          [
+            "Pardubice, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 25291581",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Joint-stock company (a.s.)",
+            "Type"
+          ],
+          [
+            "1998",
+            "Registered"
+          ],
+          [
+            "Pardubice, Czechia",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3",
+        "Weapons & ammunition"
+      ],
+      "taxonomy": {
+        "domains": [
+          "LAND"
+        ],
+        "capabilities": [
+          "WPN"
+        ],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 258522-2024 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "30 Apr 2024",
+            "desc": "TED notice 258522-2024 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101172164",
+            "sub": "EU defence research and development grant",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "",
+            "desc": "EU defence research and development grant",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 258522-2024 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "30 Apr 2024",
+            "desc": "TED notice 258522-2024 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101172164",
+            "sub": "EU defence research and development grant",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "",
+            "desc": "EU defence research and development grant",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Czech Ministry of Defence",
+            "role": "Customer · 1 TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Czech Ministry of Defence",
+            "role": "Customer · 1 TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Explosia a.s., IČO 25291581, registered 21 Jul 1998, seat Pardubice",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "ARES register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/25291581"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 258522-2024)",
+          "sources": 1,
+          "date": "30 Apr 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/258522-2024"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101172164",
+          "sources": 1,
+          "date": "",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/101172164"
+        },
+        {
+          "claim": "Member of AOBP; company self-description quoted in translation",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "AOBP member list",
+          "href": "https://www.aobp.cz/cs/companies/157/explosia-as/"
+        },
+        {
+          "claim": "Products, technologies and financials",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Pardubice",
+          "Registered office"
+        ]
+      ]
+    },
+    "stv-group-a-s": {
+      "developments": [
+        {
+          "date": "04 Nov 2026",
+          "title": "Contract award by Czech Ministry of Defence (TED 764914-2026)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/764914-2026"
+        },
+        {
+          "date": "02 Mar 2026",
+          "title": "Contract award by Czech Ministry of Defence (TED 142573-2026)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/142573-2026"
+        },
+        {
+          "date": "12 Dec 2024",
+          "title": "Contract award by Czech Ministry of Defence (TED 759309-2024)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/759309-2024"
+        },
+        {
+          "date": "18 Sep 2024",
+          "title": "Contract award by Czech Ministry of Defence (TED 560991-2024)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/560991-2024"
+        },
+        {
+          "date": "20 Jun 2024",
+          "title": "Contract award by Czech Ministry of Defence (TED 366237-2024)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/366237-2024"
+        }
+      ],
+      "country": "CZ",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN country slice CZ (ARES register, TED awards, European Defence Fund, AOBP list; level by rule)",
+      "sectors": [
+        "Weapons & ammunition"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with the Ministry of Defence"
+        ]
+      ],
+      "about": {
+        "workspace": "STV GROUP a.s. is a Czech company entered in the business register in 2000, with its seat in Praha. EU procurement records (TED) list 5 contract awards to the company by the Czech Ministry of Defence between 2024 and 2026. The company takes part in 1 European Defence Fund project. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “STV GROUP a.s. is one of the leading companies of the Czech defence industry and the country’s only manufacturer of large-calibre ammunition. Its portfolio includes artillery, tank and mortar rounds, medium-calibre ammunition, plastic explosives and special engineer munitions. Its sister company STV Technology adds small-calibre ammunition to the range.”",
+        "overview": "STV GROUP a.s. is a Czech company entered in the business register in 2000, with its seat in Praha. EU procurement records (TED) list 5 contract awards to the company by the Czech Ministry of Defence between 2024 and 2026. The company takes part in 1 European Defence Fund project. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “STV GROUP a.s. is one of the leading companies of the Czech defence industry and the country’s only manufacturer of large-calibre ammunition. Its portfolio includes artillery, tank and mortar rounds, medium-calibre ammunition, plastic explosives and special engineer munitions. Its sister company STV Technology adds small-calibre ammunition to the range.”"
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Joint-stock company (a.s.)",
+            "Type"
+          ],
+          [
+            "2000",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 26181134",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Joint-stock company (a.s.)",
+            "Type"
+          ],
+          [
+            "2000",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3",
+        "Weapons & ammunition"
+      ],
+      "taxonomy": {
+        "domains": [
+          "LAND"
+        ],
+        "capabilities": [
+          "WPN"
+        ],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 764914-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "04 Nov 2026",
+            "desc": "TED notice 764914-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 142573-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "02 Mar 2026",
+            "desc": "TED notice 142573-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 759309-2024 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "12 Dec 2024",
+            "desc": "TED notice 759309-2024 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 560991-2024 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "18 Sep 2024",
+            "desc": "TED notice 560991-2024 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 366237-2024 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "20 Jun 2024",
+            "desc": "TED notice 366237-2024 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101171936",
+            "sub": "EU defence research and development grant",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "",
+            "desc": "EU defence research and development grant",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 764914-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "04 Nov 2026",
+            "desc": "TED notice 764914-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 142573-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "02 Mar 2026",
+            "desc": "TED notice 142573-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 759309-2024 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "12 Dec 2024",
+            "desc": "TED notice 759309-2024 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 560991-2024 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "18 Sep 2024",
+            "desc": "TED notice 560991-2024 · Czech Ministry of Defence",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Czech Ministry of Defence",
+            "role": "Customer · 5 TED awards",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Czech Ministry of Defence",
+            "role": "Customer · 5 TED awards",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity STV GROUP a.s., IČO 26181134, registered 06 Jun 2000, seat Praha",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "ARES register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/26181134"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 764914-2026)",
+          "sources": 1,
+          "date": "04 Nov 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/764914-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 142573-2026)",
+          "sources": 1,
+          "date": "02 Mar 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/142573-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 759309-2024)",
+          "sources": 1,
+          "date": "12 Dec 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/759309-2024"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 560991-2024)",
+          "sources": 1,
+          "date": "18 Sep 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/560991-2024"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 366237-2024)",
+          "sources": 1,
+          "date": "20 Jun 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/366237-2024"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101171936",
+          "sources": 1,
+          "date": "",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/101171936"
+        },
+        {
+          "claim": "Member of AOBP; company self-description quoted in translation",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "AOBP member list",
+          "href": "https://www.aobp.cz/cs/companies/223/stv-group-as/"
+        },
+        {
+          "claim": "Products, technologies and financials",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Praha",
+          "Registered office"
+        ]
+      ]
+    },
+    "era-a-s": {
+      "developments": [
+        {
+          "date": "17 Nov 2025",
+          "title": "Contract award by Czech Ministry of Defence (TED 759597-2025)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/759597-2025"
+        }
+      ],
+      "country": "CZ",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN country slice CZ (ARES register, TED awards, European Defence Fund, AOBP list; level by rule)",
+      "sectors": [
+        "Communications & radar"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with the Ministry of Defence"
+        ]
+      ],
+      "about": {
+        "workspace": "ERA a.s. is a Czech company entered in the business register in 1994, with its seat in Pardubice. EU procurement records (TED) list 1 contract award to the company by the Czech Ministry of Defence between 2025 and 2025. The company takes part in 2 European Defence Fund projects. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “ERA (a member of the OMNIPOL group) is a leader in developing multistatic systems for tracking and identifying targets. Its unmatched experience in passive surveillance gives ERA unique know-how, which it uses to deliver complete solutions for global markets.”",
+        "overview": "ERA a.s. is a Czech company entered in the business register in 1994, with its seat in Pardubice. EU procurement records (TED) list 1 contract award to the company by the Czech Ministry of Defence between 2025 and 2025. The company takes part in 2 European Defence Fund projects. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “ERA (a member of the OMNIPOL group) is a leader in developing multistatic systems for tracking and identifying targets. Its unmatched experience in passive surveillance gives ERA unique know-how, which it uses to deliver complete solutions for global markets.”"
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Joint-stock company (a.s.)",
+            "Type"
+          ],
+          [
+            "1994",
+            "Registered"
+          ],
+          [
+            "Pardubice, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 60916427",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Joint-stock company (a.s.)",
+            "Type"
+          ],
+          [
+            "1994",
+            "Registered"
+          ],
+          [
+            "Pardubice, Czechia",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3",
+        "Communications & radar"
+      ],
+      "taxonomy": {
+        "domains": [
+          "JOINT"
+        ],
+        "capabilities": [
+          "C4I",
+          "SENS"
+        ],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 759597-2025 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "17 Nov 2025",
+            "desc": "TED notice 759597-2025 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101103607",
+            "sub": "EU defence research and development grant",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "",
+            "desc": "EU defence research and development grant",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101121440",
+            "sub": "EU defence research and development grant",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "",
+            "desc": "EU defence research and development grant",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 759597-2025 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "17 Nov 2025",
+            "desc": "TED notice 759597-2025 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101103607",
+            "sub": "EU defence research and development grant",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "",
+            "desc": "EU defence research and development grant",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101121440",
+            "sub": "EU defence research and development grant",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "",
+            "desc": "EU defence research and development grant",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Czech Ministry of Defence",
+            "role": "Customer · 1 TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Czech Ministry of Defence",
+            "role": "Customer · 1 TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ERA a.s., IČO 60916427, registered 08 Nov 1994, seat Pardubice",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "ARES register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/60916427"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 759597-2025)",
+          "sources": 1,
+          "date": "17 Nov 2025",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/759597-2025"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103607",
+          "sources": 1,
+          "date": "",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/101103607"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121440",
+          "sources": 1,
+          "date": "",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/101121440"
+        },
+        {
+          "claim": "Member of AOBP; company self-description quoted in translation",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "AOBP member list",
+          "href": "https://www.aobp.cz/cs/companies/165/era-as/"
+        },
+        {
+          "claim": "Products, technologies and financials",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Pardubice",
+          "Registered office"
+        ]
+      ]
+    },
+    "sellier-bellot": {
+      "developments": [
+        {
+          "date": "16 Nov 2026",
+          "title": "Contract award by Czech Shooting Federation (TED 796111-2026)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/796111-2026"
+        },
+        {
+          "date": "30 Oct 2026",
+          "title": "Contract award by Czech Ministry of the Interior (TED 754712-2026)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/754712-2026"
+        },
+        {
+          "date": "26 Oct 2026",
+          "title": "Contract award by Czech Ministry of the Interior (TED 740470-2026)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/740470-2026"
+        },
+        {
+          "date": "26 Oct 2026",
+          "title": "Contract award by Czech Ministry of the Interior (TED 739978-2026)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/739978-2026"
+        },
+        {
+          "date": "20 Oct 2026",
+          "title": "Contract award by Czech Customs Administration (TED 726219-2026)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/726219-2026"
+        },
+        {
+          "date": "14 Sep 2026",
+          "title": "Contract award by Czech Ministry of the Interior (TED 631883-2026)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/631883-2026"
+        }
+      ],
+      "country": "CZ",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026 · no military contract found 2024–2026",
+      "method": "BOHUN country slice CZ (ARES register, TED awards, European Defence Fund, AOBP list; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence relevance L4 · verified · security buyers only"
+        ]
+      ],
+      "about": {
+        "workspace": "Sellier & Bellot a.s. is a Czech company entered in the business register in 2009, with its seat in Vlašim. EU procurement records (TED) list 33 awards by civilian security and public buyers (Czech Customs Administration, Czech Ministry of the Interior, Czech Shooting Federation, Lesy České republiky (state forests), Prison Service of the Czech Republic). No award by a military buyer was found in 2024–2026.",
+        "overview": "Sellier & Bellot a.s. is a Czech company entered in the business register in 2009, with its seat in Vlašim. EU procurement records (TED) list 33 awards by civilian security and public buyers (Czech Customs Administration, Czech Ministry of the Interior, Czech Shooting Federation, Lesy České republiky (state forests), Prison Service of the Czech Republic). No award by a military buyer was found in 2024–2026."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Joint-stock company (a.s.)",
+            "Type"
+          ],
+          [
+            "2009",
+            "Registered"
+          ],
+          [
+            "Vlašim, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 28982347",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Joint-stock company (a.s.)",
+            "Type"
+          ],
+          [
+            "2009",
+            "Registered"
+          ],
+          [
+            "Vlašim, Czechia",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence relevance L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Czech Shooting Federation",
+            "sub": "TED notice 796111-2026 · Czech Shooting Federation",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "16 Nov 2026",
+            "desc": "TED notice 796111-2026 · Czech Shooting Federation",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 754712-2026 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "30 Oct 2026",
+            "desc": "TED notice 754712-2026 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 740470-2026 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "26 Oct 2026",
+            "desc": "TED notice 740470-2026 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 739978-2026 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "26 Oct 2026",
+            "desc": "TED notice 739978-2026 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Customs Administration",
+            "sub": "TED notice 726219-2026 · Czech Customs Administration",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "20 Oct 2026",
+            "desc": "TED notice 726219-2026 · Czech Customs Administration",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 631883-2026 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "14 Sep 2026",
+            "desc": "TED notice 631883-2026 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 530402-2026 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "31 Jul 2026",
+            "desc": "TED notice 530402-2026 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 520788-2026 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "28 Jul 2026",
+            "desc": "TED notice 520788-2026 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 516750-2026 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "27 Jul 2026",
+            "desc": "TED notice 516750-2026 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 303541-2026 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "04 May 2026",
+            "desc": "TED notice 303541-2026 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 300213-2026 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "04 May 2026",
+            "desc": "TED notice 300213-2026 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 298614-2026 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "30 Apr 2026",
+            "desc": "TED notice 298614-2026 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Prison Service of the Czech Republic",
+            "sub": "TED notice 282286-2026 · Prison Service of the Czech Republic",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "24 Apr 2026",
+            "desc": "TED notice 282286-2026 · Prison Service of the Czech Republic",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 43607-2026 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "21 Jan 2026",
+            "desc": "TED notice 43607-2026 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Customs Administration",
+            "sub": "TED notice 39669-2026 · Czech Customs Administration",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "20 Jan 2026",
+            "desc": "TED notice 39669-2026 · Czech Customs Administration",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Customs Administration",
+            "sub": "TED notice 38524-2026 · Czech Customs Administration",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "19 Jan 2026",
+            "desc": "TED notice 38524-2026 · Czech Customs Administration",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 27329-2026 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "15 Jan 2026",
+            "desc": "TED notice 27329-2026 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Shooting Federation",
+            "sub": "TED notice 23137-2026 · Czech Shooting Federation",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "14 Jan 2026",
+            "desc": "TED notice 23137-2026 · Czech Shooting Federation",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 17315-2026 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "12 Jan 2026",
+            "desc": "TED notice 17315-2026 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 721067-2025 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "31 Oct 2025",
+            "desc": "TED notice 721067-2025 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 707266-2025 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "27 Oct 2025",
+            "desc": "TED notice 707266-2025 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 681403-2025 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "16 Oct 2025",
+            "desc": "TED notice 681403-2025 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Lesy České republiky (state forests)",
+            "sub": "TED notice 546322-2025 · Lesy České republiky (state forests)",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "21 Aug 2025",
+            "desc": "TED notice 546322-2025 · Lesy České republiky (state forests)",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 487182-2025 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "25 Jul 2025",
+            "desc": "TED notice 487182-2025 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Customs Administration",
+            "sub": "TED notice 453811-2025 · Czech Customs Administration",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "11 Jul 2025",
+            "desc": "TED notice 453811-2025 · Czech Customs Administration",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 419299-2025 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "30 Jun 2025",
+            "desc": "TED notice 419299-2025 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Customs Administration",
+            "sub": "TED notice 215014-2025 · Czech Customs Administration",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "03 Apr 2025",
+            "desc": "TED notice 215014-2025 · Czech Customs Administration",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 42204-2025 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "21 Jan 2025",
+            "desc": "TED notice 42204-2025 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 624870-2024 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "16 Oct 2024",
+            "desc": "TED notice 624870-2024 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 482342-2024 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "09 Aug 2024",
+            "desc": "TED notice 482342-2024 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 455821-2024 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "29 Jul 2024",
+            "desc": "TED notice 455821-2024 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Customs Administration",
+            "sub": "TED notice 448728-2024 · Czech Customs Administration",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "25 Jul 2024",
+            "desc": "TED notice 448728-2024 · Czech Customs Administration",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Prison Service of the Czech Republic",
+            "sub": "TED notice 204944-2024 · Prison Service of the Czech Republic",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "08 Apr 2024",
+            "desc": "TED notice 204944-2024 · Prison Service of the Czech Republic",
+            "color": "blue"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Czech Shooting Federation",
+            "sub": "TED notice 796111-2026 · Czech Shooting Federation",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "16 Nov 2026",
+            "desc": "TED notice 796111-2026 · Czech Shooting Federation",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 754712-2026 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "30 Oct 2026",
+            "desc": "TED notice 754712-2026 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 740470-2026 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "26 Oct 2026",
+            "desc": "TED notice 740470-2026 · Czech Ministry of the Interior",
+            "color": "blue"
+          },
+          {
+            "title": "Contract award · Czech Ministry of the Interior",
+            "sub": "TED notice 739978-2026 · Czech Ministry of the Interior",
+            "status": "Contract award",
+            "icon": "file-text",
+            "date": "26 Oct 2026",
+            "desc": "TED notice 739978-2026 · Czech Ministry of the Interior",
+            "color": "blue"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Czech Ministry of the Interior",
+            "role": "Customer · 22 TED awards",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "building",
+            "edge": "verified"
+          },
+          {
+            "name": "Czech Customs Administration",
+            "role": "Customer · 6 TED awards",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "building",
+            "edge": "verified"
+          },
+          {
+            "name": "Prison Service of the Czech Republic",
+            "role": "Customer · 2 TED awards",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "building",
+            "edge": "verified"
+          },
+          {
+            "name": "Czech Shooting Federation",
+            "role": "Customer · 2 TED awards",
+            "x": 0.9,
+            "y": 0.45,
+            "icon": "building",
+            "edge": "verified"
+          },
+          {
+            "name": "Lesy České republiky (state forests)",
+            "role": "Customer · 1 TED award",
+            "x": 0.18,
+            "y": 0.84,
+            "icon": "building",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Czech Ministry of the Interior",
+            "role": "Customer · 22 TED awards",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "building",
+            "edge": "verified"
+          },
+          {
+            "name": "Czech Customs Administration",
+            "role": "Customer · 6 TED awards",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "building",
+            "edge": "verified"
+          },
+          {
+            "name": "Prison Service of the Czech Republic",
+            "role": "Customer · 2 TED awards",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "building",
+            "edge": "verified"
+          },
+          {
+            "name": "Czech Shooting Federation",
+            "role": "Customer · 2 TED awards",
+            "x": 0.9,
+            "y": 0.45,
+            "icon": "building",
+            "edge": "verified"
+          },
+          {
+            "name": "Lesy České republiky (state forests)",
+            "role": "Customer · 1 TED award",
+            "x": 0.18,
+            "y": 0.84,
+            "icon": "building",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Sellier & Bellot a.s., IČO 28982347, registered 31 Dec 2009, seat Vlašim",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "ARES register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/28982347"
+        },
+        {
+          "claim": "Contract award by Czech Shooting Federation (TED notice 796111-2026)",
+          "sources": 1,
+          "date": "16 Nov 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/796111-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of the Interior (TED notice 754712-2026)",
+          "sources": 1,
+          "date": "30 Oct 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/754712-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of the Interior (TED notice 740470-2026)",
+          "sources": 1,
+          "date": "26 Oct 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/740470-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of the Interior (TED notice 739978-2026)",
+          "sources": 1,
+          "date": "26 Oct 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/739978-2026"
+        },
+        {
+          "claim": "Contract award by Czech Customs Administration (TED notice 726219-2026)",
+          "sources": 1,
+          "date": "20 Oct 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/726219-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of the Interior (TED notice 631883-2026)",
+          "sources": 1,
+          "date": "14 Sep 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/631883-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of the Interior (TED notice 530402-2026)",
+          "sources": 1,
+          "date": "31 Jul 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/530402-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of the Interior (TED notice 520788-2026)",
+          "sources": 1,
+          "date": "28 Jul 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/520788-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of the Interior (TED notice 516750-2026)",
+          "sources": 1,
+          "date": "27 Jul 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/516750-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of the Interior (TED notice 303541-2026)",
+          "sources": 1,
+          "date": "04 May 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/303541-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of the Interior (TED notice 300213-2026)",
+          "sources": 1,
+          "date": "04 May 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/300213-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of the Interior (TED notice 298614-2026)",
+          "sources": 1,
+          "date": "30 Apr 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/298614-2026"
+        },
+        {
+          "claim": "Contract award by Prison Service of the Czech Republic (TED notice 282286-2026)",
+          "sources": 1,
+          "date": "24 Apr 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/282286-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of the Interior (TED notice 43607-2026)",
+          "sources": 1,
+          "date": "21 Jan 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/43607-2026"
+        },
+        {
+          "claim": "Contract award by Czech Customs Administration (TED notice 39669-2026)",
+          "sources": 1,
+          "date": "20 Jan 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/39669-2026"
+        },
+        {
+          "claim": "Contract award by Czech Customs Administration (TED notice 38524-2026)",
+          "sources": 1,
+          "date": "19 Jan 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/38524-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of the Interior (TED notice 27329-2026)",
+          "sources": 1,
+          "date": "15 Jan 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/27329-2026"
+        },
+        {
+          "claim": "Contract award by Czech Shooting Federation (TED notice 23137-2026)",
+          "sources": 1,
+          "date": "14 Jan 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/23137-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of the Interior (TED notice 17315-2026)",
+          "sources": 1,
+          "date": "12 Jan 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/17315-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of the Interior (TED notice 721067-2025)",
+          "sources": 1,
+          "date": "31 Oct 2025",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/721067-2025"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of the Interior (TED notice 707266-2025)",
+          "sources": 1,
+          "date": "27 Oct 2025",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/707266-2025"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of the Interior (TED notice 681403-2025)",
+          "sources": 1,
+          "date": "16 Oct 2025",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/681403-2025"
+        },
+        {
+          "claim": "Contract award by Lesy České republiky (state forests) (TED notice 546322-2025)",
+          "sources": 1,
+          "date": "21 Aug 2025",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/546322-2025"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of the Interior (TED notice 487182-2025)",
+          "sources": 1,
+          "date": "25 Jul 2025",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/487182-2025"
+        },
+        {
+          "claim": "Contract award by Czech Customs Administration (TED notice 453811-2025)",
+          "sources": 1,
+          "date": "11 Jul 2025",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/453811-2025"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of the Interior (TED notice 419299-2025)",
+          "sources": 1,
+          "date": "30 Jun 2025",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/419299-2025"
+        },
+        {
+          "claim": "Contract award by Czech Customs Administration (TED notice 215014-2025)",
+          "sources": 1,
+          "date": "03 Apr 2025",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/215014-2025"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of the Interior (TED notice 42204-2025)",
+          "sources": 1,
+          "date": "21 Jan 2025",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/42204-2025"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of the Interior (TED notice 624870-2024)",
+          "sources": 1,
+          "date": "16 Oct 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/624870-2024"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of the Interior (TED notice 482342-2024)",
+          "sources": 1,
+          "date": "09 Aug 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/482342-2024"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of the Interior (TED notice 455821-2024)",
+          "sources": 1,
+          "date": "29 Jul 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/455821-2024"
+        },
+        {
+          "claim": "Contract award by Czech Customs Administration (TED notice 448728-2024)",
+          "sources": 1,
+          "date": "25 Jul 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/448728-2024"
+        },
+        {
+          "claim": "Contract award by Prison Service of the Czech Republic (TED notice 204944-2024)",
+          "sources": 1,
+          "date": "08 Apr 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/204944-2024"
+        },
+        {
+          "claim": "Products, technologies and financials",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Vlašim",
+          "Registered office"
+        ]
+      ]
+    },
+    "excalibur-army-spol-s-r-o": {
+      "developments": [
+        {
+          "date": "14 Jan 2025",
+          "title": "Contract award by Czech Ministry of Defence (TED 25217-2025)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/25217-2025"
+        },
+        {
+          "date": "28 Oct 2024",
+          "title": "Contract award by Czech Ministry of Defence (TED 653779-2024)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/653779-2024"
+        },
+        {
+          "date": "19 Aug 2024",
+          "title": "Contract award by Czech Ministry of Defence (TED 495889-2024)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/495889-2024"
+        },
+        {
+          "date": "15 Jul 2024",
+          "title": "Contract award by Czech Ministry of Defence (TED 422747-2024)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/422747-2024"
+        },
+        {
+          "date": "22 Apr 2024",
+          "title": "Contract award by Czech Ministry of Defence (TED 236817-2024)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/236817-2024"
+        }
+      ],
+      "country": "CZ",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN country slice CZ (ARES register, TED awards, European Defence Fund, AOBP list; level by rule)",
+      "sectors": [
+        "Land vehicles"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with the Ministry of Defence"
+        ]
+      ],
+      "about": {
+        "workspace": "EXCALIBUR ARMY spol. s r.o. is a Czech company entered in the business register in 1995, with its seat in Praha. EU procurement records (TED) list 5 contract awards to the company by the Czech Ministry of Defence between 2024 and 2025. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “Excalibur Army is a leading Czech company in military equipment and materiel. It develops, produces and sells a wide range of military vehicles, weapons, ammunition, logistics equipment and other products for armed forces and security services. The company also provides full service, including repair and modernisation of equipment, and offers spare parts.”",
+        "overview": "EXCALIBUR ARMY spol. s r.o. is a Czech company entered in the business register in 1995, with its seat in Praha. EU procurement records (TED) list 5 contract awards to the company by the Czech Ministry of Defence between 2024 and 2025. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “Excalibur Army is a leading Czech company in military equipment and materiel. It develops, produces and sells a wide range of military vehicles, weapons, ammunition, logistics equipment and other products for armed forces and security services. The company also provides full service, including repair and modernisation of equipment, and offers spare parts.”"
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Limited company (s.r.o.)",
+            "Type"
+          ],
+          [
+            "1995",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 64573877",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Limited company (s.r.o.)",
+            "Type"
+          ],
+          [
+            "1995",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3",
+        "Land vehicles"
+      ],
+      "taxonomy": {
+        "domains": [
+          "LAND"
+        ],
+        "capabilities": [
+          "PLAT"
+        ],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 25217-2025 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "14 Jan 2025",
+            "desc": "TED notice 25217-2025 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 653779-2024 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "28 Oct 2024",
+            "desc": "TED notice 653779-2024 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 495889-2024 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "19 Aug 2024",
+            "desc": "TED notice 495889-2024 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 422747-2024 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "15 Jul 2024",
+            "desc": "TED notice 422747-2024 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 236817-2024 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "22 Apr 2024",
+            "desc": "TED notice 236817-2024 · Czech Ministry of Defence",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 25217-2025 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "14 Jan 2025",
+            "desc": "TED notice 25217-2025 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 653779-2024 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "28 Oct 2024",
+            "desc": "TED notice 653779-2024 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 495889-2024 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "19 Aug 2024",
+            "desc": "TED notice 495889-2024 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 422747-2024 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "15 Jul 2024",
+            "desc": "TED notice 422747-2024 · Czech Ministry of Defence",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Czech Ministry of Defence",
+            "role": "Customer · 5 TED awards",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Czech Ministry of Defence",
+            "role": "Customer · 5 TED awards",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity EXCALIBUR ARMY spol. s r.o., IČO 64573877, registered 07 Dec 1995, seat Praha",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "ARES register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/64573877"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 25217-2025)",
+          "sources": 1,
+          "date": "14 Jan 2025",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/25217-2025"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 653779-2024)",
+          "sources": 1,
+          "date": "28 Oct 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/653779-2024"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 495889-2024)",
+          "sources": 1,
+          "date": "19 Aug 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/495889-2024"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 422747-2024)",
+          "sources": 1,
+          "date": "15 Jul 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/422747-2024"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 236817-2024)",
+          "sources": 1,
+          "date": "22 Apr 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/236817-2024"
+        },
+        {
+          "claim": "Member of AOBP; company self-description quoted in translation",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "AOBP member list",
+          "href": "https://www.aobp.cz/cs/companies/27/excalibur-army-spol-s-ro/"
+        },
+        {
+          "claim": "Products, technologies and financials",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Praha",
+          "Registered office"
+        ]
+      ]
+    },
+    "tatra-trucks-a-s": {
+      "developments": [
+        {
+          "date": "22 Oct 2026",
+          "title": "Contract award by Czech Ministry of Defence (TED 730681-2026)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/730681-2026"
+        },
+        {
+          "date": "28 Jul 2026",
+          "title": "Contract award by Czech Ministry of Defence (TED 520573-2026)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/520573-2026"
+        },
+        {
+          "date": "27 Oct 2025",
+          "title": "Contract award by Czech Ministry of Defence (TED 705747-2025)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/705747-2025"
+        },
+        {
+          "date": "25 Jul 2025",
+          "title": "Contract award by Czech Ministry of Defence (TED 486625-2025)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/486625-2025"
+        }
+      ],
+      "country": "CZ",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN country slice CZ (ARES register, TED awards, European Defence Fund, AOBP list; level by rule)",
+      "sectors": [
+        "Land vehicles"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with the Ministry of Defence"
+        ]
+      ],
+      "about": {
+        "workspace": "TATRA TRUCKS a.s. is a Czech company entered in the business register in 2013, with its seat in Kopřivnice. EU procurement records (TED) list 4 contract awards to the company by the Czech Ministry of Defence between 2025 and 2026. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “TATRA TRUCKS is one of the oldest carmakers in the world, with more than 170 years of manufacturing tradition. Its all-wheel-drive trucks with a unique chassis design – a central backbone tube and independent swinging half-axles – are built in configurations from 4x4 to 16x16. These trucks form the core equipment of the Czech Armed Forces and also serve armed forces around the world.”",
+        "overview": "TATRA TRUCKS a.s. is a Czech company entered in the business register in 2013, with its seat in Kopřivnice. EU procurement records (TED) list 4 contract awards to the company by the Czech Ministry of Defence between 2025 and 2026. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “TATRA TRUCKS is one of the oldest carmakers in the world, with more than 170 years of manufacturing tradition. Its all-wheel-drive trucks with a unique chassis design – a central backbone tube and independent swinging half-axles – are built in configurations from 4x4 to 16x16. These trucks form the core equipment of the Czech Armed Forces and also serve armed forces around the world.”"
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Joint-stock company (a.s.)",
+            "Type"
+          ],
+          [
+            "2013",
+            "Registered"
+          ],
+          [
+            "Kopřivnice, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 01482840",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Joint-stock company (a.s.)",
+            "Type"
+          ],
+          [
+            "2013",
+            "Registered"
+          ],
+          [
+            "Kopřivnice, Czechia",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3",
+        "Land vehicles"
+      ],
+      "taxonomy": {
+        "domains": [
+          "LAND"
+        ],
+        "capabilities": [
+          "PLAT"
+        ],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 730681-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "22 Oct 2026",
+            "desc": "TED notice 730681-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 520573-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "28 Jul 2026",
+            "desc": "TED notice 520573-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 705747-2025 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "27 Oct 2025",
+            "desc": "TED notice 705747-2025 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 486625-2025 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "25 Jul 2025",
+            "desc": "TED notice 486625-2025 · Czech Ministry of Defence",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 730681-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "22 Oct 2026",
+            "desc": "TED notice 730681-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 520573-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "28 Jul 2026",
+            "desc": "TED notice 520573-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 705747-2025 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "27 Oct 2025",
+            "desc": "TED notice 705747-2025 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 486625-2025 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "25 Jul 2025",
+            "desc": "TED notice 486625-2025 · Czech Ministry of Defence",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Czech Ministry of Defence",
+            "role": "Customer · 4 TED awards",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Czech Ministry of Defence",
+            "role": "Customer · 4 TED awards",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity TATRA TRUCKS a.s., IČO 01482840, registered 08 Mar 2013, seat Kopřivnice",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "ARES register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/01482840"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 730681-2026)",
+          "sources": 1,
+          "date": "22 Oct 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/730681-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 520573-2026)",
+          "sources": 1,
+          "date": "28 Jul 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/520573-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 705747-2025)",
+          "sources": 1,
+          "date": "27 Oct 2025",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/705747-2025"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 486625-2025)",
+          "sources": 1,
+          "date": "25 Jul 2025",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/486625-2025"
+        },
+        {
+          "claim": "Member of AOBP; company self-description quoted in translation",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "AOBP member list",
+          "href": "https://www.aobp.cz/cs/companies/44/tatra-trucks-as/"
+        },
+        {
+          "claim": "Products, technologies and financials",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Kopřivnice",
+          "Registered office"
+        ]
+      ]
+    },
+    "aero-vodochody-aerospace-a-s": {
+      "developments": [],
+      "country": "CZ",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN country slice CZ (ARES register, TED awards, European Defence Fund, AOBP list; level by rule)",
+      "sectors": [
+        "Aviation systems"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "AERO Vodochody AEROSPACE a.s. is a Czech company entered in the business register in 2011, with its seat in Odolena Voda. The company takes part in 1 European Defence Fund project. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “AERO Vodochody AEROSPACE a.s. develops, manufactures, maintains and modernises civil and military aircraft. It is the largest aircraft manufacturer in the Czech Republic and one of the oldest in the world. With its own aircraft, Aero is a long-standing partner of several air forces and holds a strong position in the market for military trainers and light combat aircraft.”",
+        "overview": "AERO Vodochody AEROSPACE a.s. is a Czech company entered in the business register in 2011, with its seat in Odolena Voda. The company takes part in 1 European Defence Fund project. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “AERO Vodochody AEROSPACE a.s. develops, manufactures, maintains and modernises civil and military aircraft. It is the largest aircraft manufacturer in the Czech Republic and one of the oldest in the world. With its own aircraft, Aero is a long-standing partner of several air forces and holds a strong position in the market for military trainers and light combat aircraft.”"
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Joint-stock company (a.s.)",
+            "Type"
+          ],
+          [
+            "2011",
+            "Registered"
+          ],
+          [
+            "Odolena Voda, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 24194204",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Joint-stock company (a.s.)",
+            "Type"
+          ],
+          [
+            "2011",
+            "Registered"
+          ],
+          [
+            "Odolena Voda, Czechia",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3",
+        "Aviation systems"
+      ],
+      "taxonomy": {
+        "domains": [
+          "AIR"
+        ],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101304889",
+            "sub": "EU defence research and development grant",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "",
+            "desc": "EU defence research and development grant",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101304889",
+            "sub": "EU defence research and development grant",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "",
+            "desc": "EU defence research and development grant",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity AERO Vodochody AEROSPACE a.s., IČO 24194204, registered 15 Dec 2011, seat Odolena Voda",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "ARES register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/24194204"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101304889",
+          "sources": 1,
+          "date": "",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/101304889"
+        },
+        {
+          "claim": "Member of AOBP; company self-description quoted in translation",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "AOBP member list",
+          "href": "https://www.aobp.cz/cs/companies/107/aero-vodochody-aerospace-as/"
+        },
+        {
+          "claim": "Products, technologies and financials",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Odolena Voda",
+          "Registered office"
+        ]
+      ]
+    },
+    "lpp-s-r-o": {
+      "developments": [
+        {
+          "date": "05 Oct 2026",
+          "title": "Contract award by Czech Ministry of Defence (TED 683602-2026)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/683602-2026"
+        },
+        {
+          "date": "02 Feb 2026",
+          "title": "Contract award by Czech Ministry of Defence (TED 72312-2026)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/72312-2026"
+        }
+      ],
+      "country": "CZ",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN country slice CZ (ARES register, TED awards, European Defence Fund, AOBP list; level by rule)",
+      "sectors": [
+        "Aviation systems"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with the Ministry of Defence"
+        ]
+      ],
+      "about": {
+        "workspace": "LPP s.r.o. is a Czech company entered in the business register in 1993, with its seat in Praha. EU procurement records (TED) list 2 contract awards to the company by the Czech Ministry of Defence between 2026 and 2026. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “LPP develops advanced autonomous defence and security systems. The company links leading developers with advanced manufacturing and delivers deployment-ready solutions for the defence, security and civil sectors. Its main focus is uncrewed aerial (UAS) and ground (UGV) platforms, including combat, reconnaissance and counter-drone variants.”",
+        "overview": "LPP s.r.o. is a Czech company entered in the business register in 1993, with its seat in Praha. EU procurement records (TED) list 2 contract awards to the company by the Czech Ministry of Defence between 2026 and 2026. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “LPP develops advanced autonomous defence and security systems. The company links leading developers with advanced manufacturing and delivers deployment-ready solutions for the defence, security and civil sectors. Its main focus is uncrewed aerial (UAS) and ground (UGV) platforms, including combat, reconnaissance and counter-drone variants.”"
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Limited company (s.r.o.)",
+            "Type"
+          ],
+          [
+            "1993",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 48112062",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Limited company (s.r.o.)",
+            "Type"
+          ],
+          [
+            "1993",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3",
+        "Aviation systems"
+      ],
+      "taxonomy": {
+        "domains": [
+          "AIR"
+        ],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 683602-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "05 Oct 2026",
+            "desc": "TED notice 683602-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 72312-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "02 Feb 2026",
+            "desc": "TED notice 72312-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 683602-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "05 Oct 2026",
+            "desc": "TED notice 683602-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 72312-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "02 Feb 2026",
+            "desc": "TED notice 72312-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Czech Ministry of Defence",
+            "role": "Customer · 2 TED awards",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Czech Ministry of Defence",
+            "role": "Customer · 2 TED awards",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity LPP s.r.o., IČO 48112062, registered 06 Jan 1993, seat Praha",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "ARES register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/48112062"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 683602-2026)",
+          "sources": 1,
+          "date": "05 Oct 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/683602-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 72312-2026)",
+          "sources": 1,
+          "date": "02 Feb 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/72312-2026"
+        },
+        {
+          "claim": "Member of AOBP; company self-description quoted in translation",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "AOBP member list",
+          "href": "https://www.aobp.cz/cs/companies/262/lpp-sro/"
+        },
+        {
+          "claim": "Products, technologies and financials",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Praha",
+          "Registered office"
+        ]
+      ]
+    },
+    "pramacom-ht-spol-s-r-o": {
+      "developments": [
+        {
+          "date": "05 Oct 2026",
+          "title": "Contract award by Czech Ministry of Defence (TED 683602-2026)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/683602-2026"
+        },
+        {
+          "date": "13 Mar 2026",
+          "title": "Contract award by Czech Ministry of Defence (TED 177601-2026)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/177601-2026"
+        },
+        {
+          "date": "05 Feb 2026",
+          "title": "Contract award by Czech Ministry of Defence (TED 85566-2026)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/85566-2026"
+        },
+        {
+          "date": "03 Feb 2026",
+          "title": "Contract award by Czech Ministry of Defence (TED 77619-2026)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/77619-2026"
+        },
+        {
+          "date": "02 Feb 2026",
+          "title": "Contract award by Czech Ministry of Defence (TED 72312-2026)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/72312-2026"
+        },
+        {
+          "date": "12 Dec 2024",
+          "title": "Contract award by Czech Ministry of Defence (TED 760758-2024)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/760758-2024"
+        }
+      ],
+      "country": "CZ",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN country slice CZ (ARES register, TED awards, European Defence Fund, AOBP list; level by rule)",
+      "sectors": [
+        "Communications & radar"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with the Ministry of Defence"
+        ]
+      ],
+      "about": {
+        "workspace": "PRAMACOM-HT, spol. s r.o. is a Czech company entered in the business register in 2002, with its seat in Olomouc. EU procurement records (TED) list 7 contract awards to the company by the Czech Ministry of Defence between 2024 and 2026. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “PRAMACOM-HT, spol. s r. o. is an engineering and manufacturing company that develops, produces, integrates and supplies optoelectronic and C4ISTAR systems for military and security use.”",
+        "overview": "PRAMACOM-HT, spol. s r.o. is a Czech company entered in the business register in 2002, with its seat in Olomouc. EU procurement records (TED) list 7 contract awards to the company by the Czech Ministry of Defence between 2024 and 2026. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “PRAMACOM-HT, spol. s r. o. is an engineering and manufacturing company that develops, produces, integrates and supplies optoelectronic and C4ISTAR systems for military and security use.”"
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Limited company (s.r.o.)",
+            "Type"
+          ],
+          [
+            "2002",
+            "Registered"
+          ],
+          [
+            "Olomouc, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 26514753",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Limited company (s.r.o.)",
+            "Type"
+          ],
+          [
+            "2002",
+            "Registered"
+          ],
+          [
+            "Olomouc, Czechia",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3",
+        "Communications & radar"
+      ],
+      "taxonomy": {
+        "domains": [
+          "JOINT"
+        ],
+        "capabilities": [
+          "C4I",
+          "SENS"
+        ],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 683602-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "05 Oct 2026",
+            "desc": "TED notice 683602-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 177601-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "13 Mar 2026",
+            "desc": "TED notice 177601-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 85566-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "05 Feb 2026",
+            "desc": "TED notice 85566-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 77619-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "03 Feb 2026",
+            "desc": "TED notice 77619-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 72312-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "02 Feb 2026",
+            "desc": "TED notice 72312-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 760758-2024 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "12 Dec 2024",
+            "desc": "TED notice 760758-2024 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 571362-2024 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "23 Sep 2024",
+            "desc": "TED notice 571362-2024 · Czech Ministry of Defence",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 683602-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "05 Oct 2026",
+            "desc": "TED notice 683602-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 177601-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "13 Mar 2026",
+            "desc": "TED notice 177601-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 85566-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "05 Feb 2026",
+            "desc": "TED notice 85566-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 77619-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "03 Feb 2026",
+            "desc": "TED notice 77619-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Czech Ministry of Defence",
+            "role": "Customer · 7 TED awards",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Czech Ministry of Defence",
+            "role": "Customer · 7 TED awards",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity PRAMACOM-HT, spol. s r.o., IČO 26514753, registered 22 Mar 2002, seat Olomouc",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "ARES register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/26514753"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 683602-2026)",
+          "sources": 1,
+          "date": "05 Oct 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/683602-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 177601-2026)",
+          "sources": 1,
+          "date": "13 Mar 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/177601-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 85566-2026)",
+          "sources": 1,
+          "date": "05 Feb 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/85566-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 77619-2026)",
+          "sources": 1,
+          "date": "03 Feb 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/77619-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 72312-2026)",
+          "sources": 1,
+          "date": "02 Feb 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/72312-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 760758-2024)",
+          "sources": 1,
+          "date": "12 Dec 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/760758-2024"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 571362-2024)",
+          "sources": 1,
+          "date": "23 Sep 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/571362-2024"
+        },
+        {
+          "claim": "Member of AOBP; company self-description quoted in translation",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "AOBP member list",
+          "href": "https://www.aobp.cz/cs/companies/240/pramacom-ht-spol-s-ro/"
+        },
+        {
+          "claim": "Products, technologies and financials",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Olomouc",
+          "Registered office"
+        ]
+      ]
+    },
+    "vr-group-a-s": {
+      "developments": [
+        {
+          "date": "03 Feb 2026",
+          "title": "Contract award by Czech Ministry of Defence (TED 77044-2026)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/77044-2026"
+        },
+        {
+          "date": "31 Mar 2025",
+          "title": "Contract award by Czech Ministry of Defence (TED 205701-2025)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/205701-2025"
+        },
+        {
+          "date": "21 Nov 2024",
+          "title": "Contract award by Czech Ministry of Defence (TED 710249-2024)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/710249-2024"
+        }
+      ],
+      "country": "CZ",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN country slice CZ (ARES register, TED awards, European Defence Fund, AOBP list; level by rule)",
+      "sectors": [
+        "Special equipment"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with the Ministry of Defence"
+        ]
+      ],
+      "about": {
+        "workspace": "VR Group, a.s. is a Czech company entered in the business register in 1998, with its seat in Praha. EU procurement records (TED) list 3 contract awards to the company by the Czech Ministry of Defence between 2024 and 2026. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “VR Group is a leading Czech provider of complete training and simulation solutions for armed and security forces and crisis-management authorities, with more than 25 years of experience, and is a subsidiary of LOM Praha, a traditional Czech aviation company. VR Group’s main partner is the Czech Armed Forces, but it also exports its products and solutions abroad.”",
+        "overview": "VR Group, a.s. is a Czech company entered in the business register in 1998, with its seat in Praha. EU procurement records (TED) list 3 contract awards to the company by the Czech Ministry of Defence between 2024 and 2026. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “VR Group is a leading Czech provider of complete training and simulation solutions for armed and security forces and crisis-management authorities, with more than 25 years of experience, and is a subsidiary of LOM Praha, a traditional Czech aviation company. VR Group’s main partner is the Czech Armed Forces, but it also exports its products and solutions abroad.”"
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Joint-stock company (a.s.)",
+            "Type"
+          ],
+          [
+            "1998",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 25699091",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Joint-stock company (a.s.)",
+            "Type"
+          ],
+          [
+            "1998",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3",
+        "Special equipment"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 77044-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "03 Feb 2026",
+            "desc": "TED notice 77044-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 205701-2025 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "31 Mar 2025",
+            "desc": "TED notice 205701-2025 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 710249-2024 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "21 Nov 2024",
+            "desc": "TED notice 710249-2024 · Czech Ministry of Defence",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 77044-2026 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "03 Feb 2026",
+            "desc": "TED notice 77044-2026 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 205701-2025 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "31 Mar 2025",
+            "desc": "TED notice 205701-2025 · Czech Ministry of Defence",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Czech Ministry of Defence",
+            "sub": "TED notice 710249-2024 · Czech Ministry of Defence",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "21 Nov 2024",
+            "desc": "TED notice 710249-2024 · Czech Ministry of Defence",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Czech Ministry of Defence",
+            "role": "Customer · 3 TED awards",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Czech Ministry of Defence",
+            "role": "Customer · 3 TED awards",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity VR Group, a.s., IČO 25699091, registered 06 Oct 1998, seat Praha",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "ARES register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/25699091"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 77044-2026)",
+          "sources": 1,
+          "date": "03 Feb 2026",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/77044-2026"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 205701-2025)",
+          "sources": 1,
+          "date": "31 Mar 2025",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/205701-2025"
+        },
+        {
+          "claim": "Contract award by Czech Ministry of Defence (TED notice 710249-2024)",
+          "sources": 1,
+          "date": "21 Nov 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/710249-2024"
+        },
+        {
+          "claim": "Member of AOBP; company self-description quoted in translation",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "AOBP member list",
+          "href": "https://www.aobp.cz/cs/companies/55/vr-group-as/"
+        },
+        {
+          "claim": "Products, technologies and financials",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Praha",
+          "Registered office"
+        ]
+      ]
+    },
+    "crytur-spol-s-r-o": {
+      "developments": [],
+      "country": "CZ",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN country slice CZ (ARES register, TED awards, European Defence Fund, AOBP list; level by rule)",
+      "sectors": [
+        "Research & development"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "CRYTUR, spol. s r.o. is a Czech company entered in the business register in 1998, with its seat in Turnov. The company takes part in 1 European Defence Fund project. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “CRYTUR is a manufacturer of optoelectronic solutions that brings specialised products to the world market. It describes itself as the world’s largest supplier of detectors for electron microscopy, Europe’s largest maker of laser rods and the largest supplier of crystal phosphors for LEDs. Its strong R&D team is ready to turn customers’ ideas into tangible high-tech products.”",
+        "overview": "CRYTUR, spol. s r.o. is a Czech company entered in the business register in 1998, with its seat in Turnov. The company takes part in 1 European Defence Fund project. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “CRYTUR is a manufacturer of optoelectronic solutions that brings specialised products to the world market. It describes itself as the world’s largest supplier of detectors for electron microscopy, Europe’s largest maker of laser rods and the largest supplier of crystal phosphors for LEDs. Its strong R&D team is ready to turn customers’ ideas into tangible high-tech products.”"
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Limited company (s.r.o.)",
+            "Type"
+          ],
+          [
+            "1998",
+            "Registered"
+          ],
+          [
+            "Turnov, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 25296558",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Limited company (s.r.o.)",
+            "Type"
+          ],
+          [
+            "1998",
+            "Registered"
+          ],
+          [
+            "Turnov, Czechia",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3",
+        "Research & development"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [
+          "RND"
+        ],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101167869",
+            "sub": "EU defence research and development grant",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "",
+            "desc": "EU defence research and development grant",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101167869",
+            "sub": "EU defence research and development grant",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "",
+            "desc": "EU defence research and development grant",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity CRYTUR, spol. s r.o., IČO 25296558, registered 24 Nov 1998, seat Turnov",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "ARES register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/25296558"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167869",
+          "sources": 1,
+          "date": "",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/101167869"
+        },
+        {
+          "claim": "Member of AOBP; company self-description quoted in translation",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "AOBP member list",
+          "href": "https://www.aobp.cz/cs/companies/181/crytur-spol-s-ro/"
+        },
+        {
+          "claim": "Products, technologies and financials",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Turnov",
+          "Registered office"
+        ]
+      ]
+    },
+    "esc-defence-s-r-o": {
+      "developments": [],
+      "country": "CZ",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN country slice CZ (ARES register, TED awards, European Defence Fund, AOBP list; level by rule)",
+      "sectors": [
+        "Research & development"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "esc Defence s.r.o. is a Czech company entered in the business register in 2019, with its seat in Praha. The company takes part in 2 European Defence Fund projects. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “ESC DEFENCE (ESC) is a leading Czech company with broad experience in developing hardware and software solutions for ground, air and space missions. It focuses on a wide range of applications tailored to customers in the defence and civil sectors.”",
+        "overview": "esc Defence s.r.o. is a Czech company entered in the business register in 2019, with its seat in Praha. The company takes part in 2 European Defence Fund projects. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “ESC DEFENCE (ESC) is a leading Czech company with broad experience in developing hardware and software solutions for ground, air and space missions. It focuses on a wide range of applications tailored to customers in the defence and civil sectors.”"
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Limited company (s.r.o.)",
+            "Type"
+          ],
+          [
+            "2019",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 08740887",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Limited company (s.r.o.)",
+            "Type"
+          ],
+          [
+            "2019",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3",
+        "Research & development"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [
+          "RND"
+        ],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101102557",
+            "sub": "EU defence research and development grant",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "",
+            "desc": "EU defence research and development grant",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101168095",
+            "sub": "EU defence research and development grant",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "",
+            "desc": "EU defence research and development grant",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101102557",
+            "sub": "EU defence research and development grant",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "",
+            "desc": "EU defence research and development grant",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101168095",
+            "sub": "EU defence research and development grant",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "",
+            "desc": "EU defence research and development grant",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity esc Defence s.r.o., IČO 08740887, registered 03 Dec 2019, seat Praha",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "ARES register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/08740887"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101102557",
+          "sources": 1,
+          "date": "",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/101102557"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101168095",
+          "sources": 1,
+          "date": "",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/101168095"
+        },
+        {
+          "claim": "Member of AOBP; company self-description quoted in translation",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "AOBP member list",
+          "href": "https://www.aobp.cz/cs/companies/74/esc-defence-sro/"
+        },
+        {
+          "claim": "Products, technologies and financials",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Praha",
+          "Registered office"
+        ]
+      ]
+    },
+    "vzlu-aerospace-a-s": {
+      "developments": [],
+      "country": "CZ",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026",
+      "method": "BOHUN country slice CZ (ARES register, TED awards, European Defence Fund, AOBP list; level by rule)",
+      "sectors": [
+        "Research & development"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "VZLU AEROSPACE, a.s. is a Czech company entered in the business register in 1991, with its seat in Praha. The company takes part in 1 European Defence Fund project. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “VZLU AEROSPACE, a.s. is the national centre for aviation and space, providing full capabilities in research, development and testing for aviation, uncrewed and space projects.”",
+        "overview": "VZLU AEROSPACE, a.s. is a Czech company entered in the business register in 1991, with its seat in Praha. The company takes part in 1 European Defence Fund project. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “VZLU AEROSPACE, a.s. is the national centre for aviation and space, providing full capabilities in research, development and testing for aviation, uncrewed and space projects.”"
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Joint-stock company (a.s.)",
+            "Type"
+          ],
+          [
+            "1991",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 00010669",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Joint-stock company (a.s.)",
+            "Type"
+          ],
+          [
+            "1991",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3",
+        "Research & development"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [
+          "RND"
+        ],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101121212",
+            "sub": "EU defence research and development grant",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "",
+            "desc": "EU defence research and development grant",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101121212",
+            "sub": "EU defence research and development grant",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "",
+            "desc": "EU defence research and development grant",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          },
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity VZLU AEROSPACE, a.s., IČO 00010669, registered 02 Jan 1991, seat Praha",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "ARES register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/00010669"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121212",
+          "sources": 1,
+          "date": "",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/101121212"
+        },
+        {
+          "claim": "Member of AOBP; company self-description quoted in translation",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "AOBP member list",
+          "href": "https://www.aobp.cz/cs/companies/283/vzlu-aerospace-as/"
+        },
+        {
+          "claim": "Products, technologies and financials",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Praha",
+          "Registered office"
+        ]
+      ]
+    },
+    "akm-group-cz-a-s": {
+      "developments": [],
+      "country": "CZ",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026 · defence link not established",
+      "method": "BOHUN country slice CZ (ARES register, TED awards, European Defence Fund, AOBP list; level by rule)",
+      "sectors": [
+        "Weapons & ammunition"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence relevance L4 · candidate · company statement only"
+        ]
+      ],
+      "about": {
+        "workspace": "AKM GROUP - CZ, a.s. is a Czech company entered in the business register in 2001, with its seat in Praha. No contract with a defence buyer was found in TED or the European Defence Fund for 2024–2026; the defence link rests on the company’s own statement. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “AKM GROUP-CZ, a.s. was founded in Prague in 2001 and operates in the international market for military materiel. It works with more than 40 partner manufacturers from more than 27 countries and holds exclusive sales agreements for military and dual-use goods with several of them. AKM GROUP-CZ, a.s. is an official supplier of military materiel to NATO armed forces (NATO supplier code NCAGE: 334DG).”",
+        "overview": "AKM GROUP - CZ, a.s. is a Czech company entered in the business register in 2001, with its seat in Praha. No contract with a defence buyer was found in TED or the European Defence Fund for 2024–2026; the defence link rests on the company’s own statement. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “AKM GROUP-CZ, a.s. was founded in Prague in 2001 and operates in the international market for military materiel. It works with more than 40 partner manufacturers from more than 27 countries and holds exclusive sales agreements for military and dual-use goods with several of them. AKM GROUP-CZ, a.s. is an official supplier of military materiel to NATO armed forces (NATO supplier code NCAGE: 334DG).”"
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Joint-stock company (a.s.)",
+            "Type"
+          ],
+          [
+            "2001",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 26465949",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Joint-stock company (a.s.)",
+            "Type"
+          ],
+          [
+            "2001",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence relevance L4",
+        "Weapons & ammunition"
+      ],
+      "taxonomy": {
+        "domains": [
+          "LAND"
+        ],
+        "capabilities": [
+          "WPN"
+        ],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity AKM GROUP - CZ, a.s., IČO 26465949, registered 01 Aug 2001, seat Praha",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "ARES register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/26465949"
+        },
+        {
+          "claim": "Member of AOBP; company self-description quoted in translation",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "AOBP member list",
+          "href": "https://www.aobp.cz/cs/companies/132/akm-group-cz-as/"
+        },
+        {
+          "claim": "Products, technologies and financials",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Praha",
+          "Registered office"
+        ]
+      ]
+    },
+    "dronetag-s-r-o": {
+      "developments": [],
+      "country": "CZ",
+      "reviewed": "2026-11-21",
+      "status_label": "Reviewed card · 21 Nov 2026 · defence link not established",
+      "method": "BOHUN country slice CZ (ARES register, TED awards, European Defence Fund, AOBP list; level by rule)",
+      "sectors": [
+        "Aviation systems"
+      ],
+      "meta": [
+        [
+          "shield",
+          "Defence relevance L4 · candidate · company statement only"
+        ]
+      ],
+      "about": {
+        "workspace": "Dronetag s.r.o. is a Czech company entered in the business register in 2019, with its seat in Praha. No contract with a defence buyer was found in TED or the European Defence Fund for 2024–2026; the defence link rests on the company’s own statement. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “Dronetag is a Czech technology company developing advanced solutions for safe, efficient and transparent drone operations. The company specialises in detecting drones and pilots and in fleet coordination, in line with constantly evolving global aviation regulations.”",
+        "overview": "Dronetag s.r.o. is a Czech company entered in the business register in 2019, with its seat in Praha. No contract with a defence buyer was found in TED or the European Defence Fund for 2024–2026; the defence link rests on the company’s own statement. Its member profile in the Czech defence and security industry association (AOBP) says, in translation from Czech: “Dronetag is a Czech technology company developing advanced solutions for safe, efficient and transparent drone operations. The company specialises in detecting drones and pilots and in fleet coordination, in line with constantly evolving global aviation regulations.”"
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Limited company (s.r.o.)",
+            "Type"
+          ],
+          [
+            "2019",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 08198519",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Limited company (s.r.o.)",
+            "Type"
+          ],
+          [
+            "2019",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence relevance L4",
+        "Aviation systems"
+      ],
+      "taxonomy": {
+        "domains": [
+          "AIR"
+        ],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "AOBP",
+            "role": "Member · Czech defence and security industry association",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "users",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Dronetag s.r.o., IČO 08198519, registered 07 Jun 2019, seat Praha",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "ARES register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/08198519"
+        },
+        {
+          "claim": "Member of AOBP; company self-description quoted in translation",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "AOBP member list",
+          "href": "https://www.aobp.cz/cs/companies/271/dronetag-sro/"
+        },
+        {
+          "claim": "Products, technologies and financials",
+          "sources": 0,
+          "date": "21 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Praha",
+          "Registered office"
+        ]
+      ]
     }
   }
 }
