@@ -1,0 +1,60 @@
+name: Company cards from the database
+
+# B4CE-04 step 3.5 (EXP-033). Started by the FIELD autofill after it writes cards (and daily as a fallback).
+# Adds new auto-written cards to the site files and opens a pull request; the owner releases by command
+# (decision 21.11.2026). Existing profiles are never replaced. The key is never printed.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '50 4 * * *'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: company-cards-from-db
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Skip while a previous pull request is open
+        id: open
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          n=$(gh pr list --state open --search "head:auto/company-cards" --json number -q 'length')
+          echo "count=$n" >> "$GITHUB_OUTPUT"
+          if [ "$n" != "0" ]; then echo "An auto/company-cards pull request is open; it is updated after release"; fi
+      - name: Build cards
+        id: cards
+        if: steps.open.outputs.count == '0'
+        env:
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+        run: python scripts/company-cards-from-db.py
+      - name: Check the written files
+        if: steps.cards.outputs.added != '' && steps.cards.outputs.added != '0'
+        run: |
+          python -c "import json; [json.load(open(f)) for f in ('atlas/company-profiles-v1.json','atlas/companies-directory-v1.json','atlas/company-country-groups.geojson')]; print('json ok')"
+          python -m unittest discover -s scripts -p 'test_*.py'
+      - name: Pull request
+        if: steps.cards.outputs.added != '' && steps.cards.outputs.added != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          branch="auto/company-cards-$(date -u +%Y%m%d-%H%M)"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$branch"
+          git add atlas/company-profiles-v1.json atlas/companies-directory-v1.json atlas/company-country-groups.geojson
+          git commit -m "data(companies): cards from the database autofill"
+          git push origin "$branch"
+          gh pr create --base main --head "$branch" --title "Company cards from autofill ($(date -u +%d.%m.%Y))" --body-file company-cards-summary.md \
+            || echo "Branch $branch pushed; opening a pull request from Actions is not allowed in this repository"
