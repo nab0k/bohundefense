@@ -81,7 +81,23 @@
         "label": "The Hague",
         "lat": 52.0705,
         "lon": 4.3007
-      }
+      },
+      "companies": [
+        {
+          "name": "Patria Oyj",
+          "country": "FI",
+          "text": [
+            "Patria"
+          ]
+        },
+        {
+          "name": "KNDS Deutschland GmbH & Co. KG",
+          "country": "DE",
+          "text": [
+            "KNDS Deutschland"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1220",
@@ -167,7 +183,16 @@
         "label": "Rotterdam",
         "lat": 51.9244,
         "lon": 4.4777
-      }
+      },
+      "companies": [
+        {
+          "name": "Damen Naval",
+          "country": "NL",
+          "text": [
+            "Damen Naval"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1254",
@@ -240,7 +265,16 @@
         "label": "La Rioja",
         "lat": 42.2882,
         "lon": -2.5293
-      }
+      },
+      "companies": [
+        {
+          "name": "Airbus Helicopters Deutschland GmbH",
+          "country": "DE",
+          "text": [
+            "Airbus Helicopters Deutschland"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1255",
@@ -327,7 +361,30 @@
         "label": "Madrid",
         "lat": 40.4168,
         "lon": -3.7038
-      }
+      },
+      "companies": [
+        {
+          "name": "THALES S.A.",
+          "country": "FR",
+          "text": [
+            "Thales"
+          ]
+        },
+        {
+          "name": "TECNOBIT SL",
+          "country": "ES",
+          "text": [
+            "Tecnobit"
+          ]
+        },
+        {
+          "name": "THALES ALENIA SPACE FRANCE SAS",
+          "country": "FR",
+          "text": [
+            "Thales Alenia Space France"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1256",
@@ -403,7 +460,16 @@
         "label": "Paris",
         "lat": 48.8566,
         "lon": 2.3522
-      }
+      },
+      "companies": [
+        {
+          "name": "KNDS AMMO FRANCE",
+          "country": "FR",
+          "text": [
+            "KNDS Ammo France"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1258",
@@ -1218,7 +1284,16 @@
           "url": "https://armees.com/ni-la-chine-ni-la-coree-du-nord-ces-munitions-retrouvees-en-russie-portent-un-marquage-suisse-et-berne-exige-des-explications/"
         }
       ],
-      "place": null
+      "place": null,
+      "companies": [
+        {
+          "name": "Beretta",
+          "country": "IT",
+          "text": [
+            "Beretta"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1275",
@@ -1379,7 +1454,30 @@
         "label": "Bangkok",
         "lat": 13.7563,
         "lon": 100.5018
-      }
+      },
+      "companies": [
+        {
+          "name": "NAVANTIA SA",
+          "country": "ES",
+          "text": [
+            "Navantia"
+          ]
+        },
+        {
+          "name": "THALES S.A.",
+          "country": "FR",
+          "text": [
+            "Thales"
+          ]
+        },
+        {
+          "name": "Naval Group",
+          "country": "FR",
+          "text": [
+            "Naval Group"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1205",
@@ -1537,7 +1635,16 @@
         "label": "Kyiv",
         "lat": 50.4501,
         "lon": 30.5234
-      }
+      },
+      "companies": [
+        {
+          "name": "RAYTHEON COMPANY",
+          "country": "US",
+          "text": [
+            "Raytheon"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1207",
@@ -1783,7 +1890,23 @@
         "label": "Bern",
         "lat": 46.948,
         "lon": 7.4474
-      }
+      },
+      "companies": [
+        {
+          "name": "THALES S.A.",
+          "country": "FR",
+          "text": [
+            "Thales"
+          ]
+        },
+        {
+          "name": "Thales Nederland",
+          "country": "NL",
+          "text": [
+            "Thales Nederland"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1213",
@@ -2193,7 +2316,30 @@
         "label": "Rotterdam",
         "lat": 51.9244,
         "lon": 4.4777
-      }
+      },
+      "companies": [
+        {
+          "name": "KNDS Deutschland GmbH & Co. KG",
+          "country": "DE",
+          "text": [
+            "KNDS Deutschland"
+          ]
+        },
+        {
+          "name": "RENK Group AG",
+          "country": "DE",
+          "text": [
+            "RENK Group"
+          ]
+        },
+        {
+          "name": "Tatra Defence Vehicle",
+          "country": "CZ",
+          "text": [
+            "Tatra Defence Vehicle"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1221",
@@ -2638,7 +2784,16 @@
         "label": "Rotterdam, Netherlands",
         "lat": 51.9244,
         "lon": 4.4777
-      }
+      },
+      "companies": [
+        {
+          "name": "Thales Group",
+          "country": "FR",
+          "text": [
+            "Thales Group"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1226",
@@ -3032,7 +3187,23 @@
         "label": "Paris, France",
         "lat": 48.8566,
         "lon": 2.3522
-      }
+      },
+      "companies": [
+        {
+          "name": "Dassault Aviation",
+          "country": "FR",
+          "text": [
+            "Dassault Aviation"
+          ]
+        },
+        {
+          "name": "THALES S.A.",
+          "country": "FR",
+          "text": [
+            "Thales"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1234",
@@ -3175,7 +3346,37 @@
         "label": "Helsinki, Finland",
         "lat": 60.1699,
         "lon": 24.9384
-      }
+      },
+      "companies": [
+        {
+          "name": "Oy Forcit Ab",
+          "country": "FI",
+          "text": [
+            "Forcit"
+          ]
+        },
+        {
+          "name": "Nammo Lapua Oy",
+          "country": "FI",
+          "text": [
+            "Nammo Lapua"
+          ]
+        },
+        {
+          "name": "Nammo Vihtavuori Oy",
+          "country": "FI",
+          "text": [
+            "Nammo Vihtavuori"
+          ]
+        },
+        {
+          "name": "Componenta Manufacturing Oy",
+          "country": "FI",
+          "text": [
+            "Componenta Manufacturing"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1237",
@@ -3647,7 +3848,16 @@
         "label": "Hawaii, USA",
         "lat": 19.8968,
         "lon": -155.5828
-      }
+      },
+      "companies": [
+        {
+          "name": "SIG SAUER INC.",
+          "country": "US",
+          "text": [
+            "SIG Sauer"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1244",
@@ -4048,7 +4258,16 @@
         "label": "Buenos Aires",
         "lat": -34.6,
         "lon": -58.38
-      }
+      },
+      "companies": [
+        {
+          "name": "Naval Group",
+          "country": "FR",
+          "text": [
+            "Naval Group"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1164",
@@ -4294,7 +4513,16 @@
         "label": "Madrid",
         "lat": 40.41,
         "lon": -3.7
-      }
+      },
+      "companies": [
+        {
+          "name": "PIEDRAFITA SYSTEMS SL",
+          "country": "ES",
+          "text": [
+            "Piedrafita Systems"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1170",
@@ -4458,7 +4686,16 @@
         "label": "Germany",
         "lat": 51.16,
         "lon": 10.45
-      }
+      },
+      "companies": [
+        {
+          "name": "KNDS Deutschland GmbH & Co. KG",
+          "country": "DE",
+          "text": [
+            "KNDS Deutschland"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1172",
@@ -4612,7 +4849,23 @@
         "label": "Koblenz",
         "lat": 50.35,
         "lon": 7.59
-      }
+      },
+      "companies": [
+        {
+          "name": "Helsing",
+          "country": "DE",
+          "text": [
+            "Helsing"
+          ]
+        },
+        {
+          "name": "Rheinmetall AG",
+          "country": "DE",
+          "text": [
+            "Rheinmetall"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1174",
@@ -4921,7 +5174,30 @@
         "label": "Berlin",
         "lat": 52.52,
         "lon": 13.4
-      }
+      },
+      "companies": [
+        {
+          "name": "HENSOLDT AG",
+          "country": "DE",
+          "text": [
+            "Hensoldt"
+          ]
+        },
+        {
+          "name": "ZF Friedrichshafen AG",
+          "country": "DE",
+          "text": [
+            "ZF Friedrichshafen"
+          ]
+        },
+        {
+          "name": "Rheinmetall AG",
+          "country": "DE",
+          "text": [
+            "Rheinmetall"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1179",
@@ -5012,7 +5288,23 @@
         "label": "Rotterdam",
         "lat": 51.9244,
         "lon": 4.4777
-      }
+      },
+      "companies": [
+        {
+          "name": "Patria Oyj",
+          "country": "FI",
+          "text": [
+            "Patria"
+          ]
+        },
+        {
+          "name": "KNDS Deutschland GmbH & Co. KG",
+          "country": "DE",
+          "text": [
+            "KNDS Deutschland"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1180",
@@ -5094,7 +5386,16 @@
         "label": "United Kingdom",
         "lat": 55.3781,
         "lon": -3.436
-      }
+      },
+      "companies": [
+        {
+          "name": "NAVANTIA SA",
+          "country": "ES",
+          "text": [
+            "Navantia"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1181",
@@ -5185,7 +5486,23 @@
         "label": "United States",
         "lat": 38.8951,
         "lon": -77.0364
-      }
+      },
+      "companies": [
+        {
+          "name": "RAYTHEON COMPANY",
+          "country": "US",
+          "text": [
+            "Raytheon"
+          ]
+        },
+        {
+          "name": "Nikon SLM Solutions AG",
+          "country": "DE",
+          "text": [
+            "Nikon SLM Solutions"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1182",
@@ -5266,7 +5583,23 @@
         "label": "Rome",
         "lat": 41.9028,
         "lon": 12.4964
-      }
+      },
+      "companies": [
+        {
+          "name": "FINCANTIERI S.p.A.",
+          "country": "IT",
+          "text": [
+            "Fincantieri"
+          ]
+        },
+        {
+          "name": "ORIZZONTE SISTEMI NAVALI S.p.A.",
+          "country": "IT",
+          "text": [
+            "Orizzonte Sistemi Navali"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1183",
@@ -5350,7 +5683,16 @@
         "label": "Ukraine",
         "lat": 48.3794,
         "lon": 31.1656
-      }
+      },
+      "companies": [
+        {
+          "name": "Quantum-Systems",
+          "country": "DE",
+          "text": [
+            "Quantum Systems"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1185",
@@ -6393,7 +6735,23 @@
         "label": "İzmir",
         "lat": 38.4192,
         "lon": 27.1287
-      }
+      },
+      "companies": [
+        {
+          "name": "ALTA ARES",
+          "country": "FR",
+          "text": [
+            "Alta Ares"
+          ]
+        },
+        {
+          "name": "Quantum-Systems",
+          "country": "DE",
+          "text": [
+            "Quantum Systems"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1129",
@@ -6553,7 +6911,23 @@
         "label": "Germany",
         "lat": 51.1657,
         "lon": 10.4515
-      }
+      },
+      "companies": [
+        {
+          "name": "HENSOLDT AG",
+          "country": "DE",
+          "text": [
+            "Hensoldt"
+          ]
+        },
+        {
+          "name": "Rheinmetall AG",
+          "country": "DE",
+          "text": [
+            "Rheinmetall"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1137",
@@ -7073,7 +7447,23 @@
           "url": "https://militaeraktuell.at/trotz-45-fpv-drohnen-fuhr-leopard-2a4-weiter/"
         }
       ],
-      "place": null
+      "place": null,
+      "companies": [
+        {
+          "name": "Rheinmetall AG",
+          "country": "DE",
+          "text": [
+            "Rheinmetall"
+          ]
+        },
+        {
+          "name": "KNDS Deutschland GmbH & Co. KG",
+          "country": "DE",
+          "text": [
+            "KNDS Deutschland"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1152",
@@ -7555,7 +7945,16 @@
         "label": "Vienna, Austria",
         "lat": 48.2082,
         "lon": 16.3738
-      }
+      },
+      "companies": [
+        {
+          "name": "Naval Group",
+          "country": "FR",
+          "text": [
+            "Naval Group"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1072",
@@ -7974,7 +8373,23 @@
         "label": "İzmir",
         "lat": 38.4192,
         "lon": 27.1287
-      }
+      },
+      "companies": [
+        {
+          "name": "ARX ROBOTICS GMBH",
+          "country": "DE",
+          "text": [
+            "ARX Robotics"
+          ]
+        },
+        {
+          "name": "RENK Group AG",
+          "country": "DE",
+          "text": [
+            "RENK Group"
+          ]
+        }
+      ]
     }
   ]
 }
