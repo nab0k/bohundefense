@@ -6,6 +6,7 @@ key and writes feed/synthesis-feed.json in the editorial item format read by ass
 """
 import json, os, re, sys, urllib.request, urllib.parse
 from pathlib import Path
+from company_mentions import add_mentions
 from synthesis_lines import clean_context_line, context_links, line_sources, says_something, split_sources, supply_line_ok
 base=os.environ.get("SUPABASE_URL","https://tecrucawzukxqtchpxrh.supabase.co").rstrip("/")
 key=os.environ.get("SUPABASE_PUBLISHABLE_KEY","")
@@ -80,6 +81,8 @@ for x in rows:
     items.append({"id":"syn-"+str(x["synthesis_id"]),"status":"approved","kind":"Synthesis","date":day,
                   "title":title,"summary":teaser,"sections":sections,"label":label,"paragraphs":paragraphs,
                   "sources":sources,"place":place})
+# Company names in the text link to their page in the catalogue (owner, 22.11.2026; EXP-033).
+print("COMPANY_LINKS",add_mentions(items,"atlas/companies-directory-v1.json","atlas/company-profiles-v1.json"))
 target=Path("feed/synthesis-feed.json")
 target.parent.mkdir(parents=True,exist_ok=True)
 old=json.loads(target.read_text()) if target.exists() else {}

@@ -24,11 +24,43 @@
     }
   }
 
+  // Company names found by the feed builder (scripts/company_mentions.py) become links to their catalogue page.
+  // Only the exact words listed for the item are linked, whole words only; the rest stays plain text.
+  function companyMatcher(x) {
+    const links = new Map();
+    for (const c of Array.isArray(x.companies) ? x.companies : []) {
+      if (!c || typeof c.name !== 'string' || typeof c.country !== 'string') continue;
+      const href = '/company-profile.html?company=' + encodeURIComponent(c.name) + '&country=' + encodeURIComponent(c.country);
+      for (const t of Array.isArray(c.text) ? c.text : []) if (typeof t === 'string' && t.trim() && !links.has(t)) links.set(t, href);
+    }
+    if (!links.size) return null;
+    const words = [...links.keys()].sort((a, b) => b.length - a.length).map((t) => t.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'));
+    return { links, re: new RegExp('(?<![\\p{L}\\p{N}])(?:' + words.join('|') + ')(?![\\p{L}\\p{N}])', 'gu') };
+  }
+
+  function withLinks(node, text, m) {
+    if (!m) {
+      node.textContent = text;
+      return node;
+    }
+    let at = 0;
+    for (const hit of text.matchAll(m.re)) {
+      if (hit.index > at) node.append(text.slice(at, hit.index));
+      const a = el('a', 'ux-ed-co', hit[0]);
+      a.href = m.links.get(hit[0]);
+      node.append(a);
+      at = hit.index + hit[0].length;
+    }
+    if (at < text.length) node.append(text.slice(at));
+    return node;
+  }
+
   // Full material for the details panel: sections with one line per step when given, paragraphs otherwise.
   function fullView(x) {
     const nodes = [el('h2', '', x.title), el('p', 'ux-meta', [x.kind || 'Analysis', x.date || ''].filter(Boolean).join(' · '))];
     if (x.status === 'draft') nodes.push(el('p', 'ux-ed-badge', 'Draft — awaiting approval'));
     const sections = Array.isArray(x.sections) ? x.sections : [];
+    const cos = companyMatcher(x);
     if (sections.length) {
       for (const s of sections) {
         const lines = (Array.isArray(s.lines) ? s.lines : []).map(String).filter(Boolean);
@@ -37,7 +69,7 @@
         if (s.list && lines.length > 1) {
           const ul = el('ul', 'ux-ed-lines');
           lines.forEach((line, i) => {
-            const li = el('li', '', line);
+            const li = withLinks(el('li'), line, cos);
             const link = Array.isArray(s.links) ? safeUrl(s.links[i]) : null;
             if (link) {
               const a = el('a', 'ux-ed-line-src', 'source');
@@ -50,11 +82,11 @@
           });
           nodes.push(ul);
         } else {
-          for (const line of lines) nodes.push(el('p', 'ux-ed-text', line));
+          for (const line of lines) nodes.push(withLinks(el('p', 'ux-ed-text'), line, cos));
         }
       }
     } else {
-      for (const p of Array.isArray(x.paragraphs) ? x.paragraphs : []) nodes.push(el('p', 'ux-ed-text', String(p)));
+      for (const p of Array.isArray(x.paragraphs) ? x.paragraphs : []) nodes.push(withLinks(el('p', 'ux-ed-text'), String(p), cos));
     }
     const srcs = (Array.isArray(x.sources) ? x.sources : []).filter((s) => safeUrl(s.url));
     if (srcs.length) {
