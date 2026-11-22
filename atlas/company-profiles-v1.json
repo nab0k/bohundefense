@@ -36838,6 +36838,4978 @@
           "Registered office"
         ]
       ]
+    },
+    "61n-solutions-oy": {
+      "developments": [],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "61N Solutions Oy is a Finnish company registered in 2022, with its seat in Tampere.",
+        "overview": "61N Solutions Oy is a Finnish company registered in 2022, with its seat in Tampere."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2022",
+            "Registered"
+          ],
+          [
+            "Tampere, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 3273259-9",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2022",
+            "Registered"
+          ],
+          [
+            "Tampere, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 3273259-9",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity 61N Solutions Oy, Y-tunnus 3273259-9",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=3273259-9"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Tampere",
+          "Registered office"
+        ]
+      ]
+    },
+    "addcomposites-oy": {
+      "developments": [
+        {
+          "date": "10 Feb 2026",
+          "title": "European Defence Fund project 101224587",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224587/EDF"
+        }
+      ],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Addcomposites Oy is a Finnish company registered in 2017, with its seat in Espoo. It takes part in 1 European Defence Fund project (2026).",
+        "overview": "Addcomposites Oy is a Finnish company registered in 2017, with its seat in Espoo. It takes part in 1 European Defence Fund project (2026)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2017",
+            "Registered"
+          ],
+          [
+            "Espoo, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 2856298-8",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2017",
+            "Registered"
+          ],
+          [
+            "Espoo, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 2856298-8",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101224587",
+            "sub": "EU defence research and development · call EDF-2024-LS-RA-DIS",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "10 Feb 2026",
+            "desc": "Call EDF-2024-LS-RA-DIS",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101224587",
+            "sub": "EU defence research and development · call EDF-2024-LS-RA-DIS",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "10 Feb 2026",
+            "desc": "Call EDF-2024-LS-RA-DIS",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Addcomposites Oy, Y-tunnus 2856298-8",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=2856298-8"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224587",
+          "sources": 1,
+          "date": "10 Feb 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224587/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Espoo",
+          "Registered office"
+        ]
+      ]
+    },
+    "agate-sensors-oy": {
+      "developments": [],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "AGATE Sensors Oy is a Finnish company registered in 2024, with its seat in Espoo.",
+        "overview": "AGATE Sensors Oy is a Finnish company registered in 2024, with its seat in Espoo."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2024",
+            "Registered"
+          ],
+          [
+            "Espoo, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 3440101-3",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2024",
+            "Registered"
+          ],
+          [
+            "Espoo, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 3440101-3",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Software-defined hyperspectral platform",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Software-defined hyperspectral platform",
+              "From defence and autonomous systems to the next generation of intelligent devices, Agate Sensors™ delivers the world's first software-define",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity AGATE Sensors Oy, Y-tunnus 3440101-3",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=3440101-3"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Espoo",
+          "Registered office"
+        ]
+      ]
+    },
+    "alaris-cojot-oy": {
+      "developments": [],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Alaris Cojot OY is a Finnish company registered in 1986, with its seat in Espoo.",
+        "overview": "Alaris Cojot OY is a Finnish company registered in 1986, with its seat in Espoo."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1986",
+            "Registered"
+          ],
+          [
+            "Espoo, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 0620465-3",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1986",
+            "Registered"
+          ],
+          [
+            "Espoo, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 0620465-3",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "SBA2456XDB",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "SBA4450B-DP",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "TA30512H",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "TA30512B",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "HD2245M-B",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "HD921M",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "SBA1060B",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "WD2245RQ",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "MS1",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "AB3090",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "F TETRA Z",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "FJ5",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "SBA2456XDB",
+              "SBA2456XDB High Power Steerable Beam Antenna for the 2.4-2.5 and 5-6 GHz bands",
+              "grey"
+            ],
+            [
+              "SBA4450B-DP",
+              "SBA4450B-DP Dual polarized Steerable Beam Antenna for Band IV",
+              "grey"
+            ],
+            [
+              "TA30512H",
+              "TA30512H Active wideband handheld antenna",
+              "grey"
+            ],
+            [
+              "TA30512B",
+              "TA30512B Active wideband manpack antenna",
+              "grey"
+            ],
+            [
+              "HD2245M-B",
+              "HD2245M-B High gain dipole antenna for fixed radio communication systems",
+              "grey"
+            ],
+            [
+              "HD921M",
+              "HD921M High gain triband vehicle antenna",
+              "grey"
+            ],
+            [
+              "SBA1060B",
+              "SBA1060B Wide Band Steerable Beam Antenna",
+              "grey"
+            ],
+            [
+              "WD2245RQ",
+              "WD2245RQ Lightweight VHF/UHF Dipole Manpack Antenna",
+              "grey"
+            ],
+            [
+              "MS1",
+              "MS1 Antenna mast mount for vehicle dipole antennas",
+              "grey"
+            ],
+            [
+              "AB3090",
+              "AB3090 Professional mounting bracket for vehicle type antennas",
+              "grey"
+            ],
+            [
+              "F TETRA Z",
+              "F TETRA Z Branching filter for VHF and TETRA transceivers",
+              "grey"
+            ],
+            [
+              "FJ5",
+              "FJ5 Tilting mechanism for COJOT vehicle whip antennas",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Alaris Cojot OY, Y-tunnus 0620465-3",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=0620465-3"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Espoo",
+          "Registered office"
+        ]
+      ]
+    },
+    "arwell-tekniikka-oy": {
+      "developments": [
+        {
+          "date": "08 Jan 2024",
+          "title": "Contract award by Puolustusvoimien logistiikkalaitos",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/10902-2024"
+        }
+      ],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "Arwell-Tekniikka Oy is a Finnish company registered in 2016, with its seat in Masku. EU procurement records (TED) list a contract award by Puolustusvoimien logistiikkalaitos (08 Jan 2024).",
+        "overview": "Arwell-Tekniikka Oy is a Finnish company registered in 2016, with its seat in Masku. EU procurement records (TED) list a contract award by Puolustusvoimien logistiikkalaitos (08 Jan 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2016",
+            "Registered"
+          ],
+          [
+            "Masku, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 2756774-4",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2016",
+            "Registered"
+          ],
+          [
+            "Masku, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 2756774-4",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Puolustusvoimien logistiikkalaitos",
+            "sub": "TED notice 10902-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "08 Jan 2024",
+            "desc": "TED notice 10902-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Puolustusvoimien logistiikkalaitos",
+            "sub": "TED notice 10902-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "08 Jan 2024",
+            "desc": "TED notice 10902-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Puolustusvoimien logistiikkalaitos",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Puolustusvoimien logistiikkalaitos",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Arwell-Tekniikka Oy, Y-tunnus 2756774-4",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=2756774-4"
+        },
+        {
+          "claim": "Contract award by Puolustusvoimien logistiikkalaitos (TED 10902-2024)",
+          "sources": 1,
+          "date": "08 Jan 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/10902-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Masku",
+          "Registered office"
+        ]
+      ]
+    },
+    "atos-it-solutions-and-services-oy": {
+      "developments": [
+        {
+          "date": "08 Dec 2022",
+          "title": "European Defence Fund project 101103651",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103651/EDF"
+        }
+      ],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Atos IT Solutions and Services Oy is a Finnish company registered in 2010, with its seat in Helsinki. It takes part in 1 European Defence Fund project (2022).",
+        "overview": "Atos IT Solutions and Services Oy is a Finnish company registered in 2010, with its seat in Helsinki. It takes part in 1 European Defence Fund project (2022)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2010",
+            "Registered"
+          ],
+          [
+            "Helsinki, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 2324120-2",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2010",
+            "Registered"
+          ],
+          [
+            "Helsinki, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 2324120-2",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101103651",
+            "sub": "EU defence research and development · call EDF-2021-DIGIT-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "08 Dec 2022",
+            "desc": "Call EDF-2021-DIGIT-D-2",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101103651",
+            "sub": "EU defence research and development · call EDF-2021-DIGIT-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "08 Dec 2022",
+            "desc": "Call EDF-2021-DIGIT-D-2",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Atos IT Solutions and Services Oy, Y-tunnus 2324120-2",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=2324120-2"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103651",
+          "sources": 1,
+          "date": "08 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103651/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Helsinki",
+          "Registered office"
+        ]
+      ]
+    },
+    "bittium-safemove-oy": {
+      "developments": [
+        {
+          "date": "12 Dec 2025",
+          "title": "European Defence Fund project 101218568",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101218568/EDF"
+        },
+        {
+          "date": "16 Dec 2022",
+          "title": "European Defence Fund project 101103519",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103519/EDF"
+        }
+      ],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Bittium Safemove Oy is a Finnish company registered in 2003, with its seat in Espoo. It takes part in 2 European Defence Fund projects (2022–2025).",
+        "overview": "Bittium Safemove Oy is a Finnish company registered in 2003, with its seat in Espoo. It takes part in 2 European Defence Fund projects (2022–2025)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2003",
+            "Registered"
+          ],
+          [
+            "Espoo, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 1855598-7",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2003",
+            "Registered"
+          ],
+          [
+            "Espoo, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 1855598-7",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101218568",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101103519",
+            "sub": "EU defence research and development · call EDF-2021-C4ISR-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "16 Dec 2022",
+            "desc": "Call EDF-2021-C4ISR-D-2",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101218568",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101103519",
+            "sub": "EU defence research and development · call EDF-2021-C4ISR-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "16 Dec 2022",
+            "desc": "Call EDF-2021-C4ISR-D-2",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Bittium Safemove Oy, Y-tunnus 1855598-7",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=1855598-7"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101218568",
+          "sources": 1,
+          "date": "12 Dec 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101218568/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103519",
+          "sources": 1,
+          "date": "16 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103519/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Espoo",
+          "Registered office"
+        ]
+      ]
+    },
+    "champion-door-oy": {
+      "developments": [],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Champion Door Oy is a Finnish company registered in 1992, with its seat in Nivala.",
+        "overview": "Champion Door Oy is a Finnish company registered in 1992, with its seat in Nivala."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1992",
+            "Registered"
+          ],
+          [
+            "Nivala, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 0906519-3",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1992",
+            "Registered"
+          ],
+          [
+            "Nivala, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 0906519-3",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Champion Door Oy, Y-tunnus 0906519-3",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=0906519-3"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Nivala",
+          "Registered office"
+        ]
+      ]
+    },
+    "comptek-solutions-oy": {
+      "developments": [
+        {
+          "date": "16 Dec 2024",
+          "title": "European Defence Fund project 101167777",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167777/EDF"
+        }
+      ],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Comptek Solutions Oy is a Finnish company registered in 2017, with its seat in Turku. It takes part in 1 European Defence Fund project (2024).",
+        "overview": "Comptek Solutions Oy is a Finnish company registered in 2017, with its seat in Turku. It takes part in 1 European Defence Fund project (2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2017",
+            "Registered"
+          ],
+          [
+            "Turku, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 2815285-8",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2017",
+            "Registered"
+          ],
+          [
+            "Turku, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 2815285-8",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101167777",
+            "sub": "EU defence research and development · call EDF-2023-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "16 Dec 2024",
+            "desc": "Call EDF-2023-RA",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101167777",
+            "sub": "EU defence research and development · call EDF-2023-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "16 Dec 2024",
+            "desc": "Call EDF-2023-RA",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Comptek Solutions Oy, Y-tunnus 2815285-8",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=2815285-8"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167777",
+          "sources": 1,
+          "date": "16 Dec 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167777/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Turku",
+          "Registered office"
+        ]
+      ]
+    },
+    "conlog-oy": {
+      "developments": [],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Conlog Oy is a Finnish company registered in 2006, with its seat in Ylikiiminki.",
+        "overview": "Conlog Oy is a Finnish company registered in 2006, with its seat in Ylikiiminki."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2006",
+            "Registered"
+          ],
+          [
+            "Ylikiiminki, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 2029239-7",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2006",
+            "Registered"
+          ],
+          [
+            "Ylikiiminki, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 2029239-7",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Mast systems",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Mast systems",
+              "Our adaptable mast systems provide rapidly deployable elevation solutions for sensors, antennas, radars, relays, surveillance, and mission-s",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Conlog Oy, Y-tunnus 2029239-7",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=2029239-7"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Ylikiiminki",
+          "Registered office"
+        ]
+      ]
+    },
+    "crown-defence-oy": {
+      "developments": [],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Crown Defence Oy is a Finnish company registered in 2023, with its seat in Espoo.",
+        "overview": "Crown Defence Oy is a Finnish company registered in 2023, with its seat in Espoo."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2023",
+            "Registered"
+          ],
+          [
+            "Espoo, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 3355133-5",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2023",
+            "Registered"
+          ],
+          [
+            "Espoo, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 3355133-5",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Crown Defence Oy, Y-tunnus 3355133-5",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=3355133-5"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Espoo",
+          "Registered office"
+        ]
+      ]
+    },
+    "hanza-assembly-parola-oy": {
+      "developments": [],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "HANZA Assembly Parola Oy is a Finnish company registered in 2017, with its seat in Parola.",
+        "overview": "HANZA Assembly Parola Oy is a Finnish company registered in 2017, with its seat in Parola."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2017",
+            "Registered"
+          ],
+          [
+            "Parola, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 2842255-5",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2017",
+            "Registered"
+          ],
+          [
+            "Parola, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 2842255-5",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity HANZA Assembly Parola Oy, Y-tunnus 2842255-5",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=2842255-5"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Parola",
+          "Registered office"
+        ]
+      ]
+    },
+    "insta-advance-oy": {
+      "developments": [
+        {
+          "date": "27 May 2025",
+          "title": "European Defence Fund project 101167841",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167841/EDF"
+        }
+      ],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Insta Advance Oy is a Finnish company registered in 2000, with its seat in Tampere. It takes part in 1 European Defence Fund project (2025).",
+        "overview": "Insta Advance Oy is a Finnish company registered in 2000, with its seat in Tampere. It takes part in 1 European Defence Fund project (2025)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2000",
+            "Registered"
+          ],
+          [
+            "Tampere, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 1597850-3",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2000",
+            "Registered"
+          ],
+          [
+            "Tampere, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 1597850-3",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101167841",
+            "sub": "EU defence research and development · call EDF-2023-LS-RA-DIS",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "27 May 2025",
+            "desc": "Call EDF-2023-LS-RA-DIS",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101167841",
+            "sub": "EU defence research and development · call EDF-2023-LS-RA-DIS",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "27 May 2025",
+            "desc": "Call EDF-2023-LS-RA-DIS",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Insta Advance Oy, Y-tunnus 1597850-3",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=1597850-3"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167841",
+          "sources": 1,
+          "date": "27 May 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167841/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Tampere",
+          "Registered office"
+        ]
+      ]
+    },
+    "jykia-oy": {
+      "developments": [
+        {
+          "date": "13 Aug 2024",
+          "title": "European Defence Fund project 101172037",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101172037/EDF"
+        }
+      ],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Jykia Oy is a Finnish company registered in 1983, with its seat in Jyväskylä. It takes part in 1 European Defence Fund project (2024).",
+        "overview": "Jykia Oy is a Finnish company registered in 1983, with its seat in Jyväskylä. It takes part in 1 European Defence Fund project (2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1983",
+            "Registered"
+          ],
+          [
+            "Jyväskylä, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 0506036-0",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1983",
+            "Registered"
+          ],
+          [
+            "Jyväskylä, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 0506036-0",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101172037",
+            "sub": "EU defence research and development · call EDF-ASAP-2023-LS-SHL",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "13 Aug 2024",
+            "desc": "Call EDF-ASAP-2023-LS-SHL",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101172037",
+            "sub": "EU defence research and development · call EDF-ASAP-2023-LS-SHL",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "13 Aug 2024",
+            "desc": "Call EDF-ASAP-2023-LS-SHL",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Jykia Oy, Y-tunnus 0506036-0",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=0506036-0"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101172037",
+          "sources": 1,
+          "date": "13 Aug 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101172037/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Jyväskylä",
+          "Registered office"
+        ]
+      ]
+    },
+    "kradient-intelligence-oy": {
+      "developments": [
+        {
+          "date": "12 Dec 2025",
+          "title": "European Defence Fund project 101224193",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224193/EDF"
+        }
+      ],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Kradient Intelligence Oy is a Finnish company registered in 2016, with its seat in Turku. It takes part in 1 European Defence Fund project (2025).",
+        "overview": "Kradient Intelligence Oy is a Finnish company registered in 2016, with its seat in Turku. It takes part in 1 European Defence Fund project (2025)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2016",
+            "Registered"
+          ],
+          [
+            "Turku, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 2795174-6",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2016",
+            "Registered"
+          ],
+          [
+            "Turku, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 2795174-6",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101224193",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-DA",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101224193",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-DA",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Kradient Intelligence Oy, Y-tunnus 2795174-6",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=2795174-6"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224193",
+          "sources": 1,
+          "date": "12 Dec 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224193/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Turku",
+          "Registered office"
+        ]
+      ]
+    },
+    "lingsoft-language-services-oy": {
+      "developments": [
+        {
+          "date": "18 Nov 2024",
+          "title": "European Defence Fund project 101167770",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167770/EDF"
+        }
+      ],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Lingsoft Language Services Oy is a Finnish company registered in 1994, with its seat in Turku. It takes part in 1 European Defence Fund project (2024).",
+        "overview": "Lingsoft Language Services Oy is a Finnish company registered in 1994, with its seat in Turku. It takes part in 1 European Defence Fund project (2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1994",
+            "Registered"
+          ],
+          [
+            "Turku, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 0961030-7",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1994",
+            "Registered"
+          ],
+          [
+            "Turku, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 0961030-7",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101167770",
+            "sub": "EU defence research and development · call EDF-2023-LS-RA-CHALLENGE",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "18 Nov 2024",
+            "desc": "Call EDF-2023-LS-RA-CHALLENGE",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101167770",
+            "sub": "EU defence research and development · call EDF-2023-LS-RA-CHALLENGE",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "18 Nov 2024",
+            "desc": "Call EDF-2023-LS-RA-CHALLENGE",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Lingsoft Language Services Oy, Y-tunnus 0961030-7",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=0961030-7"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167770",
+          "sources": 1,
+          "date": "18 Nov 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167770/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Turku",
+          "Registered office"
+        ]
+      ]
+    },
+    "lingsoft-oy": {
+      "developments": [
+        {
+          "date": "18 Nov 2024",
+          "title": "European Defence Fund project 101167770",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167770/EDF"
+        }
+      ],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Lingsoft Oy is a Finnish company registered in 1987, with its seat in Helsinki. It takes part in 1 European Defence Fund project (2024).",
+        "overview": "Lingsoft Oy is a Finnish company registered in 1987, with its seat in Helsinki. It takes part in 1 European Defence Fund project (2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1987",
+            "Registered"
+          ],
+          [
+            "Helsinki, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 0652564-1",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1987",
+            "Registered"
+          ],
+          [
+            "Helsinki, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 0652564-1",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101167770",
+            "sub": "EU defence research and development · call EDF-2023-LS-RA-CHALLENGE",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "18 Nov 2024",
+            "desc": "Call EDF-2023-LS-RA-CHALLENGE",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101167770",
+            "sub": "EU defence research and development · call EDF-2023-LS-RA-CHALLENGE",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "18 Nov 2024",
+            "desc": "Call EDF-2023-LS-RA-CHALLENGE",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Lingsoft Oy, Y-tunnus 0652564-1",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=0652564-1"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167770",
+          "sources": 1,
+          "date": "18 Nov 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167770/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Helsinki",
+          "Registered office"
+        ]
+      ]
+    },
+    "lumikko-oy": {
+      "developments": [],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Lumikko Oy is a Finnish company registered in 1989, with its seat in Seinäjoki.",
+        "overview": "Lumikko Oy is a Finnish company registered in 1989, with its seat in Seinäjoki."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1989",
+            "Registered"
+          ],
+          [
+            "Seinäjoki, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 0750742-9",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1989",
+            "Registered"
+          ],
+          [
+            "Seinäjoki, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 0750742-9",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Simulaatiot",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Kylmäsuunnittelu",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Sähkösuunnittelu",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Simulaatiot",
+              "Simulaatiot ovat keskeinen osa tuotekehitysprosessiamme, sillä niiden avulla voimme ennakoida ja optimoida tuotteidemme suorituskykyä ennen ",
+              "grey"
+            ],
+            [
+              "Kylmäsuunnittelu",
+              "Kylmäsuunnittelu on erikoisalaamme, ja kehitämme energiatehokkaita ja luotettavia jäähdytysratkaisuja vaativiin olosuhteisiin.",
+              "grey"
+            ],
+            [
+              "Sähkösuunnittelu",
+              "Huolehdimme sähkösuunnittelun kaikista vaiheista, mukaan lukien tehonjakelu, kaapelointisuunnitelmat ja laitteistosuunnittelu, varmistaen, e",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Lumikko Oy, Y-tunnus 0750742-9",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=0750742-9"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Seinäjoki",
+          "Registered office"
+        ]
+      ]
+    },
+    "milcon-oy": {
+      "developments": [],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Milcon Oy is a Finnish company registered in 2003, with its seat in Pirkkala.",
+        "overview": "Milcon Oy is a Finnish company registered in 2003, with its seat in Pirkkala."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2003",
+            "Registered"
+          ],
+          [
+            "Pirkkala, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 1858118-1",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2003",
+            "Registered"
+          ],
+          [
+            "Pirkkala, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 1858118-1",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Milcon Oy, Y-tunnus 1858118-1",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=1858118-1"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Pirkkala",
+          "Registered office"
+        ]
+      ]
+    },
+    "nixu-oy": {
+      "developments": [
+        {
+          "date": "20 Nov 2024",
+          "title": "European Defence Fund project 101168202",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168202/EDF"
+        }
+      ],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Nixu Oy is a Finnish company registered in 1988, with its seat in Espoo. It takes part in 1 European Defence Fund project (2024).",
+        "overview": "Nixu Oy is a Finnish company registered in 1988, with its seat in Espoo. It takes part in 1 European Defence Fund project (2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1988",
+            "Registered"
+          ],
+          [
+            "Espoo, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 0721811-7",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1988",
+            "Registered"
+          ],
+          [
+            "Espoo, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 0721811-7",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101168202",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "20 Nov 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101168202",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "20 Nov 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Nixu Oy, Y-tunnus 0721811-7",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=0721811-7"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101168202",
+          "sources": 1,
+          "date": "20 Nov 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168202/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Espoo",
+          "Registered office"
+        ]
+      ]
+    },
+    "oulun-konttivuokraus-oy": {
+      "developments": [],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Oulun Konttivuokraus Oy is a Finnish company registered in 2004, with its seat in Oulu.",
+        "overview": "Oulun Konttivuokraus Oy is a Finnish company registered in 2004, with its seat in Oulu."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2004",
+            "Registered"
+          ],
+          [
+            "Oulu, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 1876507-9",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2004",
+            "Registered"
+          ],
+          [
+            "Oulu, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 1876507-9",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Merikontit",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Ympäristökontit",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Kylmäkontit",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Lasikontit",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Varastokontit",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Eristekontit",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Toimistokontit sekä taukotilat",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Saniteettikontit",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Tapahtuma- ja myymäläkontit",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Tankkikontit",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Ongelmajätekontit",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Merikontit",
+              "Uudet ja käytetyt merikontit Suomessa ja maailmalla taatusti kilpailukykyiseen hintaan. Yli 1000 konttia jatkuvasti varastossa.",
+              "grey"
+            ],
+            [
+              "Ympäristökontit",
+              "Valuma-altaalla varustetut ympäristökontit tarjoavat huippuluokan turvallisuutta. Valitse vakiomalleista tai räätälöi omiin tarpeisiisi, ja ",
+              "grey"
+            ],
+            [
+              "Kylmäkontit",
+              "Käytetyt ja uudet kylmäkontit koko Suomeen. Uudet 5 vuoden valmistajan takuulla ja käytettyihin 3kk varaosa takuu!",
+              "grey"
+            ],
+            [
+              "Lasikontit",
+              "Katalogi Vuokraa kontti Osta / Vuokraa Osta kontti Vuokraa kontti Kategoriat Vuokraa kontti Erikoismallit Lasikontit",
+              "grey"
+            ],
+            [
+              "Varastokontit",
+              "Katalogi Vuokraa kontti Osta / Vuokraa Osta kontti Vuokraa kontti Kategoriat Vuokraa kontti Erikoismallit Lasikontit Merikontit Varastokonti",
+              "grey"
+            ],
+            [
+              "Eristekontit",
+              "Katalogi Vuokraa kontti Osta / Vuokraa Osta kontti Vuokraa kontti Kategoriat Vuokraa kontti Erikoismallit Lasikontit Merikontit Varastokonti",
+              "grey"
+            ],
+            [
+              "Toimistokontit sekä taukotilat",
+              "Katalogi Vuokraa kontti Osta / Vuokraa Osta kontti Vuokraa kontti Kategoriat Vuokraa kontti Erikoismallit Lasikontit Merikontit Varastokonti",
+              "grey"
+            ],
+            [
+              "Saniteettikontit",
+              "Katalogi Vuokraa kontti Osta / Vuokraa Osta kontti Vuokraa kontti Kategoriat Vuokraa kontti Erikoismallit Lasikontit Merikontit Varastokonti",
+              "grey"
+            ],
+            [
+              "Tapahtuma- ja myymäläkontit",
+              "Katalogi Vuokraa kontti Osta / Vuokraa Osta kontti Vuokraa kontti Kategoriat Vuokraa kontti Erikoismallit Lasikontit Merikontit Varastokonti",
+              "grey"
+            ],
+            [
+              "Tankkikontit",
+              "Katalogi Vuokraa kontti Osta / Vuokraa Osta kontti Vuokraa kontti Kategoriat Vuokraa kontti Erikoismallit Lasikontit Merikontit Varastokonti",
+              "grey"
+            ],
+            [
+              "Ongelmajätekontit",
+              "Katalogi Vuokraa kontti Osta / Vuokraa Osta kontti Vuokraa kontti Kategoriat Vuokraa kontti Erikoismallit Lasikontit Merikontit Varastokonti",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Oulun Konttivuokraus Oy, Y-tunnus 1876507-9",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=1876507-9"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Oulu",
+          "Registered office"
+        ]
+      ]
+    },
+    "oy-forcit-ab": {
+      "developments": [
+        {
+          "date": "09 Dec 2022",
+          "title": "European Defence Fund project 101102442",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102442/EDF"
+        }
+      ],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L1 · supported · named military products"
+        ]
+      ],
+      "about": {
+        "workspace": "Oy Forcit Ab is a Finnish company registered in 1978, with its seat in Hanko. It takes part in 1 European Defence Fund project (2022). Its website presents military products including SENTRY Anti-Tank mine system.",
+        "overview": "Oy Forcit Ab is a Finnish company registered in 1978, with its seat in Hanko. It takes part in 1 European Defence Fund project (2022). Its website presents military products including SENTRY Anti-Tank mine system."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1978",
+            "Registered"
+          ],
+          [
+            "Hanko, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 0103189-6",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1978",
+            "Registered"
+          ],
+          [
+            "Hanko, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 0103189-6",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L1"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101102442",
+            "sub": "EU defence research and development · call EDF-2021-GROUND-R-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "09 Dec 2022",
+            "desc": "Call EDF-2021-GROUND-R-2",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101102442",
+            "sub": "EU defence research and development · call EDF-2021-GROUND-R-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "09 Dec 2022",
+            "desc": "Call EDF-2021-GROUND-R-2",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "BLOCKER™ Smart Influence Sea Mine",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Target Detection System (TDS)",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "SENTRY Anti-Tank mine system",
+          "level": "L0",
+          "icon": "crosshair"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "BLOCKER™ Smart Influence Sea Mine",
+              "The BLOCKER™ Smart Influence Sea Mine is part of FORCIT DEFENCE’s Sea Mine portfolio, all of which are equipped with the most advanced multi",
+              "grey"
+            ],
+            [
+              "Target Detection System (TDS)",
+              "TARGET DETECTION SYSTEM (TDS) includes Target Detection Device (TDD) with multi-domain sensor technology.",
+              "grey"
+            ],
+            [
+              "SENTRY Anti-Tank mine system",
+              "SENTRY Anti-Tank mine system is the first of its kind, combining advanced encrypted mesh connectivity with furious penetration capabilities.",
+              "green"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Oy Forcit Ab, Y-tunnus 0103189-6",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=0103189-6"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101102442",
+          "sources": 1,
+          "date": "09 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102442/EDF"
+        },
+        {
+          "claim": "SENTRY Anti-Tank mine system: “SENTRY Anti-Tank mine system is the first of its kind, combining advanced encrypted mesh connectivity with furious penetration capabilities.”",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://forcitdefence.com/land-systems/"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Hanko",
+          "Registered office"
+        ]
+      ]
+    },
+    "oy-morphona-ltd": {
+      "developments": [],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Oy Morphona Ltd. is a Finnish company registered in 2013, with its seat in Jyväskylä.",
+        "overview": "Oy Morphona Ltd. is a Finnish company registered in 2013, with its seat in Jyväskylä."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2013",
+            "Registered"
+          ],
+          [
+            "Jyväskylä, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 2531317-7",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2013",
+            "Registered"
+          ],
+          [
+            "Jyväskylä, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 2531317-7",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Advanced material solutions",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Advanced material solutions",
+              "Rather than manufacturing standalone products, we provide advanced material solutions that enable new performance characteristics for OEMs, ",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Oy Morphona Ltd., Y-tunnus 2531317-7",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=2531317-7"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Jyväskylä",
+          "Registered office"
+        ]
+      ]
+    },
+    "oy-sisu-auto-ab": {
+      "developments": [],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Oy Sisu Auto Ab is a Finnish company registered in 2002, with its seat in Karjaa.",
+        "overview": "Oy Sisu Auto Ab is a Finnish company registered in 2002, with its seat in Karjaa."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2002",
+            "Registered"
+          ],
+          [
+            "Karjaa, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 1749559-9",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2002",
+            "Registered"
+          ],
+          [
+            "Karjaa, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 1749559-9",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "SISU Polar Carrier",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "SISU Polar Hauler",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "SISU Polar Roll",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "SISU Polar Rock",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "SISU Polar Timber",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "SISU Polar Works",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "SISU Polar Crane",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Vehicle technology consulting services",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "SISU Polar Carrier",
+              "SISU Polar Carrier is a versatile transport solution, adaptable to various heavy loads and equipment configurations.",
+              "grey"
+            ],
+            [
+              "SISU Polar Hauler",
+              "SISU Polar Hauler is engineered for heavy hauling, ensuring performance and durability even in the most demanding conditions.",
+              "grey"
+            ],
+            [
+              "SISU Polar Roll",
+              "SISU Polar Roll is designed for special transport operations, combining stability, control, and durability in demanding conditions.",
+              "grey"
+            ],
+            [
+              "SISU Polar Rock",
+              "SISU Polar Rock is a robust and reliable solution for rock and aggregate transport, built to withstand the toughest conditions.",
+              "grey"
+            ],
+            [
+              "SISU Polar Timber",
+              "SISU Polar Timber is built for heavy timber transport, combining power, durability, and efficiency for long-haul operations.",
+              "grey"
+            ],
+            [
+              "SISU Polar Works",
+              "SISU Polar Works is a versatile construction truck, offering flexibility for diverse contracting tasks and demanding environments.",
+              "grey"
+            ],
+            [
+              "SISU Polar Crane",
+              "SISU Polar Crane is a powerful crane truck, delivering stability, strength, and safety for heavy lifting and transport operations.",
+              "grey"
+            ],
+            [
+              "Vehicle technology consulting services",
+              "In parallel, vehicle technology consulting services, as well as the related design and project management, are also key elements in Sisu Aut",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Oy Sisu Auto Ab, Y-tunnus 1749559-9",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=1749559-9"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Karjaa",
+          "Registered office"
+        ]
+      ]
+    },
+    "oy-telva-ab": {
+      "developments": [],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Oy Telva Ab is a Finnish company registered in 1978, with its seat in Helsinki.",
+        "overview": "Oy Telva Ab is a Finnish company registered in 1978, with its seat in Helsinki."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1978",
+            "Registered"
+          ],
+          [
+            "Helsinki, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 0114925-3",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1978",
+            "Registered"
+          ],
+          [
+            "Helsinki, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 0114925-3",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Oy Telva Ab, Y-tunnus 0114925-3",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=0114925-3"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Helsinki",
+          "Registered office"
+        ]
+      ]
+    },
+    "patria-aerostructures-oy": {
+      "developments": [
+        {
+          "date": "06 Dec 2024",
+          "title": "European Defence Fund project 101167893",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+        },
+        {
+          "date": "07 Dec 2023",
+          "title": "European Defence Fund project 101121450",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121450/EDF"
+        }
+      ],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Patria Aerostructures Oy is a Finnish company registered in 2004, with its seat in Halli. It takes part in 2 European Defence Fund projects (2023–2024).",
+        "overview": "Patria Aerostructures Oy is a Finnish company registered in 2004, with its seat in Halli. It takes part in 2 European Defence Fund projects (2023–2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2004",
+            "Registered"
+          ],
+          [
+            "Halli, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 1919227-6",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2004",
+            "Registered"
+          ],
+          [
+            "Halli, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 1919227-6",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101167893",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "06 Dec 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101121450",
+            "sub": "EU defence research and development · call EDF-2022-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "07 Dec 2023",
+            "desc": "Call EDF-2022-RA",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101167893",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "06 Dec 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101121450",
+            "sub": "EU defence research and development · call EDF-2022-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "07 Dec 2023",
+            "desc": "Call EDF-2022-RA",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Patria Aerostructures Oy, Y-tunnus 1919227-6",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=1919227-6"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167893",
+          "sources": 1,
+          "date": "06 Dec 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121450",
+          "sources": 1,
+          "date": "07 Dec 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121450/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Halli",
+          "Registered office"
+        ]
+      ]
+    },
+    "reorbit-oy": {
+      "developments": [],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "ReOrbit Oy is a Finnish company registered in 2020, with its seat in Helsinki.",
+        "overview": "ReOrbit Oy is a Finnish company registered in 2020, with its seat in Helsinki."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2020",
+            "Registered"
+          ],
+          [
+            "Helsinki, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 3143318-3",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2020",
+            "Registered"
+          ],
+          [
+            "Helsinki, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 3143318-3",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "private 5G satellite networks",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "sovereign GEO satellites",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "OrbitCloud®",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Silta",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "private 5G satellite networks",
+              "ReOrbit manufactures private 5G satellite networks and sovereign GEO satellites.",
+              "grey"
+            ],
+            [
+              "sovereign GEO satellites",
+              "ReOrbit manufactures private 5G satellite networks and sovereign GEO satellites.",
+              "grey"
+            ],
+            [
+              "OrbitCloud®",
+              "OrbitCloud® 5G satellite network for defence",
+              "grey"
+            ],
+            [
+              "Silta",
+              "Silta Sovereign communications satellite",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ReOrbit Oy, Y-tunnus 3143318-3",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=3143318-3"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Helsinki",
+          "Registered office"
+        ]
+      ]
+    },
+    "sensorfleet-oy": {
+      "developments": [
+        {
+          "date": "20 Nov 2024",
+          "title": "European Defence Fund project 101168202",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168202/EDF"
+        }
+      ],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "SensorFleet Oy is a Finnish company registered in 2018, with its seat in Oulu. It takes part in 1 European Defence Fund project (2024).",
+        "overview": "SensorFleet Oy is a Finnish company registered in 2018, with its seat in Oulu. It takes part in 1 European Defence Fund project (2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2018",
+            "Registered"
+          ],
+          [
+            "Oulu, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 2884312-2",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2018",
+            "Registered"
+          ],
+          [
+            "Oulu, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 2884312-2",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101168202",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "20 Nov 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101168202",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "20 Nov 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "Fleet Management",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Sensor",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Instruments",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Fleet Management",
+              "Fleet Management controls the fleet of Sensors and provides one-click deployment of the Instruments.",
+              "grey"
+            ],
+            [
+              "Sensor",
+              "Sensor hosts the Instruments and is deployed as a virtual or hardware appliance or natively in the cloud.",
+              "grey"
+            ],
+            [
+              "Instruments",
+              "Instruments are containerized applications dedicated for specific cyber security tasks and deployed on a Sensor platform.",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity SensorFleet Oy, Y-tunnus 2884312-2",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=2884312-2"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101168202",
+          "sources": 1,
+          "date": "20 Nov 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168202/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Oulu",
+          "Registered office"
+        ]
+      ]
+    },
+    "skya-oy": {
+      "developments": [
+        {
+          "date": "12 Dec 2025",
+          "title": "European Defence Fund project 101224105",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224105/EDF"
+        }
+      ],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "SKYA Oy is a Finnish company registered in 2023, with its seat in Turku. It takes part in 1 European Defence Fund project (2025).",
+        "overview": "SKYA Oy is a Finnish company registered in 2023, with its seat in Turku. It takes part in 1 European Defence Fund project (2025)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2023",
+            "Registered"
+          ],
+          [
+            "Turku, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 3337308-1",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2023",
+            "Registered"
+          ],
+          [
+            "Turku, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 3337308-1",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101224105",
+            "sub": "EU defence research and development · call EDF-2024-LS-RA-SMERO",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-LS-RA-SMERO",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101224105",
+            "sub": "EU defence research and development · call EDF-2024-LS-RA-SMERO",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-LS-RA-SMERO",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity SKYA Oy, Y-tunnus 3337308-1",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=3337308-1"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224105",
+          "sources": 1,
+          "date": "12 Dec 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224105/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Turku",
+          "Registered office"
+        ]
+      ]
+    },
+    "spinverse-oy": {
+      "developments": [
+        {
+          "date": "17 Aug 2026",
+          "title": "European Defence Fund project 101302020",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+        },
+        {
+          "date": "12 Dec 2025",
+          "title": "European Defence Fund project 101224193",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224193/EDF"
+        },
+        {
+          "date": "13 Nov 2025",
+          "title": "European Defence Fund project 101224231",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224231/EDF"
+        }
+      ],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Spinverse Oy is a Finnish company registered in 2004, with its seat in Espoo. It takes part in 3 European Defence Fund projects (2025–2026).",
+        "overview": "Spinverse Oy is a Finnish company registered in 2004, with its seat in Espoo. It takes part in 3 European Defence Fund projects (2025–2026)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2004",
+            "Registered"
+          ],
+          [
+            "Espoo, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 1877769-4",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2004",
+            "Registered"
+          ],
+          [
+            "Espoo, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 1877769-4",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101302020",
+            "sub": "EU defence research and development · call EDF-2025-LS-RA-SI",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "17 Aug 2026",
+            "desc": "Call EDF-2025-LS-RA-SI",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101224193",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101224231",
+            "sub": "EU defence research and development · call EDF-2024-RA-SI",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "13 Nov 2025",
+            "desc": "Call EDF-2024-RA-SI",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101302020",
+            "sub": "EU defence research and development · call EDF-2025-LS-RA-SI",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "17 Aug 2026",
+            "desc": "Call EDF-2025-LS-RA-SI",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101224193",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-DA",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101224231",
+            "sub": "EU defence research and development · call EDF-2024-RA-SI",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "13 Nov 2025",
+            "desc": "Call EDF-2024-RA-SI",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 3 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 3 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Spinverse Oy, Y-tunnus 1877769-4",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=1877769-4"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101302020",
+          "sources": 1,
+          "date": "17 Aug 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224193",
+          "sources": 1,
+          "date": "12 Dec 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224193/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224231",
+          "sources": 1,
+          "date": "13 Nov 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224231/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Espoo",
+          "Registered office"
+        ]
+      ]
+    },
+    "suomen-terastekniikka-oy": {
+      "developments": [],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Suomen Terästekniikka Oy is a Finnish company registered in 1992, with its seat in Hyvinkää.",
+        "overview": "Suomen Terästekniikka Oy is a Finnish company registered in 1992, with its seat in Hyvinkää."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1992",
+            "Registered"
+          ],
+          [
+            "Hyvinkää, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 0891394-7",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1992",
+            "Registered"
+          ],
+          [
+            "Hyvinkää, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 0891394-7",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Konepajatuotanto",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Pintakäsittely",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Kunnossapitopalvelut",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "CBRN-tuotteiden valmistus",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Raepuhallus",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Märkämaalaus",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Konepajatuotanto",
+              "Konepajatuotanto Monipuoliset konepajapalvelut joustavasti ja täsmällisesti",
+              "grey"
+            ],
+            [
+              "Pintakäsittely",
+              "Pintakäsittely Teollista pintakäsittelyä suuressa ja nykyaikaisessa maalaamossa",
+              "grey"
+            ],
+            [
+              "Kunnossapitopalvelut",
+              "Kunnossapitopalvelut Elinkaaren hallinnan palvelut eri järjestelmille",
+              "grey"
+            ],
+            [
+              "CBRN-tuotteiden valmistus",
+              "Yrityksen toiminta jakautuu neljään alueeseen: konepajatuotanto, pintakäsittely, kunnossapito ja elinkaaren hallinta sekä CBRN-tuotteiden va",
+              "grey"
+            ],
+            [
+              "Raepuhallus",
+              "Pintakäsittely Raepuhallus Märkämaalaus Maalaus ja hiekkapuhallus",
+              "grey"
+            ],
+            [
+              "Märkämaalaus",
+              "Märkämaalaus",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Suomen Terästekniikka Oy, Y-tunnus 0891394-7",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=0891394-7"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Hyvinkää",
+          "Registered office"
+        ]
+      ]
+    },
+    "teknologian-tutkimuskeskus-vtt-oy": {
+      "developments": [
+        {
+          "date": "29 Oct 2025",
+          "title": "European Defence Fund project 101224389",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224389/EDF"
+        },
+        {
+          "date": "27 May 2025",
+          "title": "European Defence Fund project 101167841",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167841/EDF"
+        }
+      ],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Teknologian tutkimuskeskus VTT Oy is a Finnish company registered in 2014, with its seat in Espoo. It takes part in 2 European Defence Fund projects (2025).",
+        "overview": "Teknologian tutkimuskeskus VTT Oy is a Finnish company registered in 2014, with its seat in Espoo. It takes part in 2 European Defence Fund projects (2025)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2014",
+            "Registered"
+          ],
+          [
+            "Espoo, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 2647375-4",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2014",
+            "Registered"
+          ],
+          [
+            "Espoo, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 2647375-4",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101224389",
+            "sub": "EU defence research and development · call EDF-2024-LS-RA-CHALLENGE",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "29 Oct 2025",
+            "desc": "Call EDF-2024-LS-RA-CHALLENGE",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101167841",
+            "sub": "EU defence research and development · call EDF-2023-LS-RA-DIS",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "27 May 2025",
+            "desc": "Call EDF-2023-LS-RA-DIS",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101224389",
+            "sub": "EU defence research and development · call EDF-2024-LS-RA-CHALLENGE",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "29 Oct 2025",
+            "desc": "Call EDF-2024-LS-RA-CHALLENGE",
+            "color": "orange"
+          },
+          {
+            "title": "European Defence Fund project 101167841",
+            "sub": "EU defence research and development · call EDF-2023-LS-RA-DIS",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "27 May 2025",
+            "desc": "Call EDF-2023-LS-RA-DIS",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "Bioprosessit teolliseen biotekniikkaan",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Patenttien, liikesalaisuuksien ja ohjelmistojen lisensointi",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Kestävä kehitys ja elinkaariarviointi (LCA)",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Teknologia-arviointi ja prosessimallinnus",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Suomen aika: NTP-palvelu",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Bioprosessit teolliseen biotekniikkaan",
+              "Bioprosessit teolliseen biotekniikkaan",
+              "grey"
+            ],
+            [
+              "Patenttien, liikesalaisuuksien ja ohjelmistojen lisensointi",
+              "Patenttien, liikesalaisuuksien ja ohjelmistojen lisensointi",
+              "grey"
+            ],
+            [
+              "Kestävä kehitys ja elinkaariarviointi (LCA)",
+              "Kestävä kehitys ja elinkaariarviointi (LCA)",
+              "grey"
+            ],
+            [
+              "Teknologia-arviointi ja prosessimallinnus",
+              "Teknologia-arviointi ja prosessimallinnus",
+              "grey"
+            ],
+            [
+              "Suomen aika: NTP-palvelu",
+              "Suomen aika: NTP-palvelu",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Teknologian tutkimuskeskus VTT Oy, Y-tunnus 2647375-4",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=2647375-4"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224389",
+          "sources": 1,
+          "date": "29 Oct 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224389/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167841",
+          "sources": 1,
+          "date": "27 May 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167841/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Espoo",
+          "Registered office"
+        ]
+      ]
+    },
+    "wartsila-finland-oy": {
+      "developments": [
+        {
+          "date": "26 Feb 2024",
+          "title": "Contract award by Puolustusvoimat",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/117064-2024"
+        }
+      ],
+      "country": "FI",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "Wärtsilä Finland Oy is a Finnish company registered in 1989, with its seat in Vaasa. EU procurement records (TED) list a contract award by Puolustusvoimat (26 Feb 2024).",
+        "overview": "Wärtsilä Finland Oy is a Finnish company registered in 1989, with its seat in Vaasa. EU procurement records (TED) list a contract award by Puolustusvoimat (26 Feb 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1989",
+            "Registered"
+          ],
+          [
+            "Vaasa, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 0773744-3",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1989",
+            "Registered"
+          ],
+          [
+            "Vaasa, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 0773744-3",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Puolustusvoimat",
+            "sub": "TED notice 117064-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "26 Feb 2024",
+            "desc": "TED notice 117064-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Puolustusvoimat",
+            "sub": "TED notice 117064-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "26 Feb 2024",
+            "desc": "TED notice 117064-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Puolustusvoimat",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Puolustusvoimat",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Wärtsilä Finland Oy, Y-tunnus 0773744-3",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=0773744-3"
+        },
+        {
+          "claim": "Contract award by Puolustusvoimat (TED 117064-2024)",
+          "sources": 1,
+          "date": "26 Feb 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/117064-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Vaasa",
+          "Registered office"
+        ]
+      ]
     }
   }
 }
