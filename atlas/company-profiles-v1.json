@@ -41810,6 +41810,2049 @@
           "Registered office"
         ]
       ]
+    },
+    "allies-incorporated-sp-z-o-o": {
+      "developments": [
+        {
+          "date": "01 Jul 2024",
+          "title": "Contract award by Jednostka Wojskowa Nr 4026",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/390136-2024"
+        },
+        {
+          "date": "19 Jun 2024",
+          "title": "Contract award by Jednostka Wojskowa Nr 4026",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/360984-2024"
+        },
+        {
+          "date": "15 Mar 2024",
+          "title": "Contract award by Jednostka Wojskowa Nr 4026",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/157701-2024"
+        }
+      ],
+      "country": "PL",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "ALLIES INCORPORATED SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ is a Polish company registered in 2011, with its seat in Warszawa. EU procurement records (TED) list a contract award by Jednostka Wojskowa Nr 4026 (01 Jul 2024). EU procurement records (TED) list a contract award by Jednostka Wojskowa Nr 4026 (19 Jun 2024). EU procurement records (TED) list a contract award by Jednostka Wojskowa Nr 4026 (15 Mar 2024).",
+        "overview": "ALLIES INCORPORATED SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ is a Polish company registered in 2011, with its seat in Warszawa. EU procurement records (TED) list a contract award by Jednostka Wojskowa Nr 4026 (01 Jul 2024). EU procurement records (TED) list a contract award by Jednostka Wojskowa Nr 4026 (19 Jun 2024). EU procurement records (TED) list a contract award by Jednostka Wojskowa Nr 4026 (15 Mar 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2011",
+            "Registered"
+          ],
+          [
+            "Warszawa, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000380802",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2011",
+            "Registered"
+          ],
+          [
+            "Warszawa, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000380802",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Jednostka Wojskowa Nr 4026",
+            "sub": "TED notice 390136-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "01 Jul 2024",
+            "desc": "TED notice 390136-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Jednostka Wojskowa Nr 4026",
+            "sub": "TED notice 360984-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "19 Jun 2024",
+            "desc": "TED notice 360984-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Jednostka Wojskowa Nr 4026",
+            "sub": "TED notice 157701-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "15 Mar 2024",
+            "desc": "TED notice 157701-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Jednostka Wojskowa Nr 4026",
+            "sub": "TED notice 390136-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "01 Jul 2024",
+            "desc": "TED notice 390136-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Jednostka Wojskowa Nr 4026",
+            "sub": "TED notice 360984-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "19 Jun 2024",
+            "desc": "TED notice 360984-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Jednostka Wojskowa Nr 4026",
+            "sub": "TED notice 157701-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "15 Mar 2024",
+            "desc": "TED notice 157701-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Jednostka Wojskowa Nr 4026",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Jednostka Wojskowa Nr 4026",
+            "role": "Customer · TED award",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Jednostka Wojskowa Nr 4026",
+            "role": "Customer · TED award",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Jednostka Wojskowa Nr 4026",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Jednostka Wojskowa Nr 4026",
+            "role": "Customer · TED award",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Jednostka Wojskowa Nr 4026",
+            "role": "Customer · TED award",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ALLIES INCORPORATED SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, KRS 0000380802",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000380802?rejestr=P&format=json"
+        },
+        {
+          "claim": "Contract award by Jednostka Wojskowa Nr 4026 (TED 390136-2024)",
+          "sources": 1,
+          "date": "01 Jul 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/390136-2024"
+        },
+        {
+          "claim": "Contract award by Jednostka Wojskowa Nr 4026 (TED 360984-2024)",
+          "sources": 1,
+          "date": "19 Jun 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/360984-2024"
+        },
+        {
+          "claim": "Contract award by Jednostka Wojskowa Nr 4026 (TED 157701-2024)",
+          "sources": 1,
+          "date": "15 Mar 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/157701-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Warszawa",
+          "Registered office"
+        ]
+      ]
+    },
+    "ankol-sp-z-o-o": {
+      "developments": [
+        {
+          "date": "11 Jun 2024",
+          "title": "Contract award by 2. Regionalna Baza Logistyczna",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/343044-2024"
+        }
+      ],
+      "country": "PL",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · verified · relevant competence, no military sale on record"
+        ]
+      ],
+      "about": {
+        "workspace": "ANKOL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ is a Polish company registered in 2006, with its seat in Chorzelów. EU procurement records (TED) list a contract award by 2. Regionalna Baza Logistyczna (11 Jun 2024).",
+        "overview": "ANKOL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ is a Polish company registered in 2006, with its seat in Chorzelów. EU procurement records (TED) list a contract award by 2. Regionalna Baza Logistyczna (11 Jun 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2006",
+            "Registered"
+          ],
+          [
+            "Chorzelów, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000254567",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2006",
+            "Registered"
+          ],
+          [
+            "Chorzelów, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000254567",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · 2. Regionalna Baza Logistyczna",
+            "sub": "TED notice 343044-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "11 Jun 2024",
+            "desc": "TED notice 343044-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · 2. Regionalna Baza Logistyczna",
+            "sub": "TED notice 343044-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "11 Jun 2024",
+            "desc": "TED notice 343044-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "2. Regionalna Baza Logistyczna",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "2. Regionalna Baza Logistyczna",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ANKOL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, KRS 0000254567",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000254567?rejestr=P&format=json"
+        },
+        {
+          "claim": "Contract award by 2. Regionalna Baza Logistyczna (TED 343044-2024)",
+          "sources": 1,
+          "date": "11 Jun 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/343044-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Chorzelów",
+          "Registered office"
+        ]
+      ]
+    },
+    "auto-podlasie-spo-ka-z-ograniczona-odpowiedzialnoscia": {
+      "developments": [
+        {
+          "date": "09 Sep 2024",
+          "title": "Contract award by ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/539274-2024"
+        },
+        {
+          "date": "09 Sep 2024",
+          "title": "Contract award by ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/539743-2024"
+        },
+        {
+          "date": "27 Jun 2024",
+          "title": "Contract award by ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/383538-2024"
+        }
+      ],
+      "country": "PL",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · verified · relevant competence, no military sale on record"
+        ]
+      ],
+      "about": {
+        "workspace": "\"AUTO PODLASIE\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ is a Polish company registered in 2002, with its seat in Siedlce. EU procurement records (TED) list a contract award by ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ (09 Sep 2024). EU procurement records (TED) list a contract award by ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ (09 Sep 2024). EU procurement records (TED) list a contract award by ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ (27 Jun 2024).",
+        "overview": "\"AUTO PODLASIE\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ is a Polish company registered in 2002, with its seat in Siedlce. EU procurement records (TED) list a contract award by ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ (09 Sep 2024). EU procurement records (TED) list a contract award by ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ (09 Sep 2024). EU procurement records (TED) list a contract award by ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ (27 Jun 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2002",
+            "Registered"
+          ],
+          [
+            "Siedlce, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000077538",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2002",
+            "Registered"
+          ],
+          [
+            "Siedlce, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000077538",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+            "sub": "TED notice 539274-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "09 Sep 2024",
+            "desc": "TED notice 539274-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+            "sub": "TED notice 539743-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "09 Sep 2024",
+            "desc": "TED notice 539743-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+            "sub": "TED notice 383538-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "27 Jun 2024",
+            "desc": "TED notice 383538-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+            "sub": "TED notice 539274-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "09 Sep 2024",
+            "desc": "TED notice 539274-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+            "sub": "TED notice 539743-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "09 Sep 2024",
+            "desc": "TED notice 539743-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+            "sub": "TED notice 383538-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "27 Jun 2024",
+            "desc": "TED notice 383538-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+            "role": "Customer · TED award",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+            "role": "Customer · TED award",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+            "role": "Customer · TED award",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+            "role": "Customer · TED award",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity \"AUTO PODLASIE\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, KRS 0000077538",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000077538?rejestr=P&format=json"
+        },
+        {
+          "claim": "Contract award by ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ (TED 539274-2024)",
+          "sources": 1,
+          "date": "09 Sep 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/539274-2024"
+        },
+        {
+          "claim": "Contract award by ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ (TED 539743-2024)",
+          "sources": 1,
+          "date": "09 Sep 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/539743-2024"
+        },
+        {
+          "claim": "Contract award by ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ (TED 383538-2024)",
+          "sources": 1,
+          "date": "27 Jun 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/383538-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Siedlce",
+          "Registered office"
+        ]
+      ]
+    },
+    "chema-sp-z-o-o": {
+      "developments": [
+        {
+          "date": "23 May 2024",
+          "title": "Contract award by Agencja Uzbrojenia",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/305492-2024"
+        }
+      ],
+      "country": "PL",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "CHEMA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ is a Polish company registered in 2008, with its seat in Olesin. EU procurement records (TED) list a contract award by Agencja Uzbrojenia (23 May 2024).",
+        "overview": "CHEMA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ is a Polish company registered in 2008, with its seat in Olesin. EU procurement records (TED) list a contract award by Agencja Uzbrojenia (23 May 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2008",
+            "Registered"
+          ],
+          [
+            "Olesin, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000303121",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2008",
+            "Registered"
+          ],
+          [
+            "Olesin, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000303121",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Agencja Uzbrojenia",
+            "sub": "TED notice 305492-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "23 May 2024",
+            "desc": "TED notice 305492-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Agencja Uzbrojenia",
+            "sub": "TED notice 305492-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "23 May 2024",
+            "desc": "TED notice 305492-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Agencja Uzbrojenia",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Agencja Uzbrojenia",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity CHEMA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, KRS 0000303121",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000303121?rejestr=P&format=json"
+        },
+        {
+          "claim": "Contract award by Agencja Uzbrojenia (TED 305492-2024)",
+          "sources": 1,
+          "date": "23 May 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/305492-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Olesin",
+          "Registered office"
+        ]
+      ]
+    },
+    "crh-zagiel-auto-spo-ka-z-ograniczona-odpowiedzialnoscia": {
+      "developments": [
+        {
+          "date": "27 Jun 2024",
+          "title": "Contract award by ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/383538-2024"
+        }
+      ],
+      "country": "PL",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · verified · relevant competence, no military sale on record"
+        ]
+      ],
+      "about": {
+        "workspace": "CRH ŻAGIEL AUTO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ is a Polish company registered in 2004, with its seat in Lublin. EU procurement records (TED) list a contract award by ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ (27 Jun 2024).",
+        "overview": "CRH ŻAGIEL AUTO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ is a Polish company registered in 2004, with its seat in Lublin. EU procurement records (TED) list a contract award by ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ (27 Jun 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2004",
+            "Registered"
+          ],
+          [
+            "Lublin, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000218758",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2004",
+            "Registered"
+          ],
+          [
+            "Lublin, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000218758",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+            "sub": "TED notice 383538-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "27 Jun 2024",
+            "desc": "TED notice 383538-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+            "sub": "TED notice 383538-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "27 Jun 2024",
+            "desc": "TED notice 383538-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity CRH ŻAGIEL AUTO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, KRS 0000218758",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000218758?rejestr=P&format=json"
+        },
+        {
+          "claim": "Contract award by ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ (TED 383538-2024)",
+          "sources": 1,
+          "date": "27 Jun 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/383538-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Lublin",
+          "Registered office"
+        ]
+      ]
+    },
+    "duda-cars-spo-ka-akcyjna": {
+      "developments": [
+        {
+          "date": "27 Jun 2024",
+          "title": "Contract award by ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/383538-2024"
+        }
+      ],
+      "country": "PL",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · verified · relevant competence, no military sale on record"
+        ]
+      ],
+      "about": {
+        "workspace": "DUDA - CARS SPÓŁKA AKCYJNA is a Polish company registered in 2005, with its seat in Poznań. EU procurement records (TED) list a contract award by ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ (27 Jun 2024).",
+        "overview": "DUDA - CARS SPÓŁKA AKCYJNA is a Polish company registered in 2005, with its seat in Poznań. EU procurement records (TED) list a contract award by ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ (27 Jun 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2005",
+            "Registered"
+          ],
+          [
+            "Poznań, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000233056",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2005",
+            "Registered"
+          ],
+          [
+            "Poznań, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000233056",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+            "sub": "TED notice 383538-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "27 Jun 2024",
+            "desc": "TED notice 383538-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+            "sub": "TED notice 383538-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "27 Jun 2024",
+            "desc": "TED notice 383538-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity DUDA - CARS SPÓŁKA AKCYJNA, KRS 0000233056",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000233056?rejestr=P&format=json"
+        },
+        {
+          "claim": "Contract award by ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ (TED 383538-2024)",
+          "sources": 1,
+          "date": "27 Jun 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/383538-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Poznań",
+          "Registered office"
+        ]
+      ]
+    },
+    "energomasz-sp-z-o-o": {
+      "developments": [
+        {
+          "date": "18 Apr 2024",
+          "title": "Contract award by 3 Regionalna Baza Logistyczna",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/231639-2024"
+        }
+      ],
+      "country": "PL",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · verified · relevant competence, no military sale on record"
+        ]
+      ],
+      "about": {
+        "workspace": "\"ENERGOMASZ\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ is a Polish company registered in 2001, with its seat in Gdańsk. EU procurement records (TED) list a contract award by 3 Regionalna Baza Logistyczna (18 Apr 2024).",
+        "overview": "\"ENERGOMASZ\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ is a Polish company registered in 2001, with its seat in Gdańsk. EU procurement records (TED) list a contract award by 3 Regionalna Baza Logistyczna (18 Apr 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2001",
+            "Registered"
+          ],
+          [
+            "Gdańsk, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000008242",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2001",
+            "Registered"
+          ],
+          [
+            "Gdańsk, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000008242",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · 3 Regionalna Baza Logistyczna",
+            "sub": "TED notice 231639-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "18 Apr 2024",
+            "desc": "TED notice 231639-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · 3 Regionalna Baza Logistyczna",
+            "sub": "TED notice 231639-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "18 Apr 2024",
+            "desc": "TED notice 231639-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "3 Regionalna Baza Logistyczna",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "3 Regionalna Baza Logistyczna",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity \"ENERGOMASZ\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, KRS 0000008242",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000008242?rejestr=P&format=json"
+        },
+        {
+          "claim": "Contract award by 3 Regionalna Baza Logistyczna (TED 231639-2024)",
+          "sources": 1,
+          "date": "18 Apr 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/231639-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Gdańsk",
+          "Registered office"
+        ]
+      ]
+    },
+    "maw-telecom-international-s-a": {
+      "developments": [
+        {
+          "date": "10 Apr 2024",
+          "title": "Contract award by 2. Regionalna Baza Logistyczna",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/211560-2024"
+        }
+      ],
+      "country": "PL",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · verified · relevant competence, no military sale on record"
+        ]
+      ],
+      "about": {
+        "workspace": "MAW TELECOM INTERNATIONAL SPÓŁKA AKCYJNA is a Polish company registered in 2001, with its seat in Warszawa. EU procurement records (TED) list a contract award by 2. Regionalna Baza Logistyczna (10 Apr 2024).",
+        "overview": "MAW TELECOM INTERNATIONAL SPÓŁKA AKCYJNA is a Polish company registered in 2001, with its seat in Warszawa. EU procurement records (TED) list a contract award by 2. Regionalna Baza Logistyczna (10 Apr 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2001",
+            "Registered"
+          ],
+          [
+            "Warszawa, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000057328",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2001",
+            "Registered"
+          ],
+          [
+            "Warszawa, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000057328",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · 2. Regionalna Baza Logistyczna",
+            "sub": "TED notice 211560-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "10 Apr 2024",
+            "desc": "TED notice 211560-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · 2. Regionalna Baza Logistyczna",
+            "sub": "TED notice 211560-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "10 Apr 2024",
+            "desc": "TED notice 211560-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "2. Regionalna Baza Logistyczna",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "2. Regionalna Baza Logistyczna",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity MAW TELECOM INTERNATIONAL SPÓŁKA AKCYJNA, KRS 0000057328",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000057328?rejestr=P&format=json"
+        },
+        {
+          "claim": "Contract award by 2. Regionalna Baza Logistyczna (TED 211560-2024)",
+          "sources": 1,
+          "date": "10 Apr 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/211560-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Warszawa",
+          "Registered office"
+        ]
+      ]
+    },
+    "megmar-logistics-consulting-spo-ka-z-ograniczona-odpowiedzialnoscia": {
+      "developments": [
+        {
+          "date": "04 Apr 2024",
+          "title": "Contract award by 1 REGIONALNA BAZA LOGISTYCZNA",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/197217-2024"
+        }
+      ],
+      "country": "PL",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · verified · relevant competence, no military sale on record"
+        ]
+      ],
+      "about": {
+        "workspace": "\"MEGMAR LOGISTICS & CONSULTING\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ is a Polish company registered in 2011, with its seat in Kutno. EU procurement records (TED) list a contract award by 1 REGIONALNA BAZA LOGISTYCZNA (04 Apr 2024).",
+        "overview": "\"MEGMAR LOGISTICS & CONSULTING\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ is a Polish company registered in 2011, with its seat in Kutno. EU procurement records (TED) list a contract award by 1 REGIONALNA BAZA LOGISTYCZNA (04 Apr 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2011",
+            "Registered"
+          ],
+          [
+            "Kutno, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000386295",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2011",
+            "Registered"
+          ],
+          [
+            "Kutno, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000386295",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · 1 REGIONALNA BAZA LOGISTYCZNA",
+            "sub": "TED notice 197217-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "04 Apr 2024",
+            "desc": "TED notice 197217-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · 1 REGIONALNA BAZA LOGISTYCZNA",
+            "sub": "TED notice 197217-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "04 Apr 2024",
+            "desc": "TED notice 197217-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "1 REGIONALNA BAZA LOGISTYCZNA",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "1 REGIONALNA BAZA LOGISTYCZNA",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity \"MEGMAR LOGISTICS & CONSULTING\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, KRS 0000386295",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000386295?rejestr=P&format=json"
+        },
+        {
+          "claim": "Contract award by 1 REGIONALNA BAZA LOGISTYCZNA (TED 197217-2024)",
+          "sources": 1,
+          "date": "04 Apr 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/197217-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Kutno",
+          "Registered office"
+        ]
+      ]
+    },
+    "siltec-sp-z-o-o": {
+      "developments": [
+        {
+          "date": "26 Apr 2024",
+          "title": "Contract award by Agencja Uzbrojenia",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/251405-2024"
+        }
+      ],
+      "country": "PL",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "\"SILTEC\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ is a Polish company registered in 2001, with its seat in Pruszków. EU procurement records (TED) list a contract award by Agencja Uzbrojenia (26 Apr 2024).",
+        "overview": "\"SILTEC\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ is a Polish company registered in 2001, with its seat in Pruszków. EU procurement records (TED) list a contract award by Agencja Uzbrojenia (26 Apr 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2001",
+            "Registered"
+          ],
+          [
+            "Pruszków, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000001635",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2001",
+            "Registered"
+          ],
+          [
+            "Pruszków, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000001635",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Agencja Uzbrojenia",
+            "sub": "TED notice 251405-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "26 Apr 2024",
+            "desc": "TED notice 251405-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Agencja Uzbrojenia",
+            "sub": "TED notice 251405-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "26 Apr 2024",
+            "desc": "TED notice 251405-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Agencja Uzbrojenia",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Agencja Uzbrojenia",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity \"SILTEC\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, KRS 0000001635",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000001635?rejestr=P&format=json"
+        },
+        {
+          "claim": "Contract award by Agencja Uzbrojenia (TED 251405-2024)",
+          "sources": 1,
+          "date": "26 Apr 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/251405-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Pruszków",
+          "Registered office"
+        ]
+      ]
+    },
+    "warsaw-gun-works-sp-z-o-o": {
+      "developments": [
+        {
+          "date": "25 Jun 2024",
+          "title": "Contract award by Jednostka Wojskowa Nr 4026",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/375571-2024"
+        },
+        {
+          "date": "25 Jun 2024",
+          "title": "Contract award by Jednostka Wojskowa Nr 4026",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/376007-2024"
+        }
+      ],
+      "country": "PL",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "WARSAW GUN WORKS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ is a Polish company registered in 2018, with its seat in Warszawa. EU procurement records (TED) list a contract award by Jednostka Wojskowa Nr 4026 (25 Jun 2024). EU procurement records (TED) list a contract award by Jednostka Wojskowa Nr 4026 (25 Jun 2024).",
+        "overview": "WARSAW GUN WORKS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ is a Polish company registered in 2018, with its seat in Warszawa. EU procurement records (TED) list a contract award by Jednostka Wojskowa Nr 4026 (25 Jun 2024). EU procurement records (TED) list a contract award by Jednostka Wojskowa Nr 4026 (25 Jun 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2018",
+            "Registered"
+          ],
+          [
+            "Warszawa, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000732307",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2018",
+            "Registered"
+          ],
+          [
+            "Warszawa, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000732307",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Jednostka Wojskowa Nr 4026",
+            "sub": "TED notice 375571-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "25 Jun 2024",
+            "desc": "TED notice 375571-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Jednostka Wojskowa Nr 4026",
+            "sub": "TED notice 376007-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "25 Jun 2024",
+            "desc": "TED notice 376007-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Jednostka Wojskowa Nr 4026",
+            "sub": "TED notice 375571-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "25 Jun 2024",
+            "desc": "TED notice 375571-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Jednostka Wojskowa Nr 4026",
+            "sub": "TED notice 376007-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "25 Jun 2024",
+            "desc": "TED notice 376007-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Jednostka Wojskowa Nr 4026",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Jednostka Wojskowa Nr 4026",
+            "role": "Customer · TED award",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Jednostka Wojskowa Nr 4026",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Jednostka Wojskowa Nr 4026",
+            "role": "Customer · TED award",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity WARSAW GUN WORKS SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, KRS 0000732307",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000732307?rejestr=P&format=json"
+        },
+        {
+          "claim": "Contract award by Jednostka Wojskowa Nr 4026 (TED 375571-2024)",
+          "sources": 1,
+          "date": "25 Jun 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/375571-2024"
+        },
+        {
+          "claim": "Contract award by Jednostka Wojskowa Nr 4026 (TED 376007-2024)",
+          "sources": 1,
+          "date": "25 Jun 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/376007-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Warszawa",
+          "Registered office"
+        ]
+      ]
+    },
+    "zdunek-premium-sp-z-o-o": {
+      "developments": [
+        {
+          "date": "21 Jun 2024",
+          "title": "Contract award by ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/370394-2024"
+        }
+      ],
+      "country": "PL",
+      "reviewed": "2026-11-22",
+      "status_label": "Reviewed card · 22 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · verified · relevant competence, no military sale on record"
+        ]
+      ],
+      "about": {
+        "workspace": "ZDUNEK PREMIUM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ is a Polish company registered in 2009, with its seat in Gdańsk. EU procurement records (TED) list a contract award by ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ (21 Jun 2024).",
+        "overview": "ZDUNEK PREMIUM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ is a Polish company registered in 2009, with its seat in Gdańsk. EU procurement records (TED) list a contract award by ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ (21 Jun 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2009",
+            "Registered"
+          ],
+          [
+            "Gdańsk, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000335997",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2009",
+            "Registered"
+          ],
+          [
+            "Gdańsk, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000335997",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+            "sub": "TED notice 370394-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "21 Jun 2024",
+            "desc": "TED notice 370394-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+            "sub": "TED notice 370394-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "21 Jun 2024",
+            "desc": "TED notice 370394-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ZDUNEK PREMIUM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, KRS 0000335997",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000335997?rejestr=P&format=json"
+        },
+        {
+          "claim": "Contract award by ODDZIAŁ ZABEZPIECZENIA ŻANDARMERII WOJSKOWEJ (TED 370394-2024)",
+          "sources": 1,
+          "date": "21 Jun 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/370394-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "22 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Gdańsk",
+          "Registered office"
+        ]
+      ]
     }
   }
 }
