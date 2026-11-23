@@ -286,9 +286,13 @@ function relationships(vm, ws) {
 function evidence(vm, ws) {
   const list = vm.evidence;
   const f = ws ? ['All claims', 'Company', 'Products', 'Programmes', 'Financials'] : ['All', 'Company info', 'Products', 'Contracts', 'Relationships', 'Financials', 'Other'];
-  const body = `<ul class="evid ${ws ? 'evid-ws' : 'evid-ov'}">${list.map(e => ws
+  const SHOW = 6;  // owner 23.11.2026: a long list must not stretch the grid; the rest folds behind '+N more'
+  const item = e => ws
       ? `<li>${/^verified/i.test(e.status) ? icon('circle-check', 'ico ev-ok') : /partial/i.test(e.status) ? icon('circle-alert', 'ico ev-warn') : icon('circle-dot', 'ico ev-neutral')}<div><b>${e.href ? `<a href="${esc(e.href)}" target="_blank" rel="noopener noreferrer">${esc(e.claim)}</a>` : esc(e.claim)}</b><small>${e.sources} source${e.sources === 1 ? '' : 's'}${e.date ? ' · ' + esc(e.date) : ' · ' + esc(e.source)}</small></div>${statusPill(e.status)}</li>`
-      : `<li>${statusPill(e.status)}<div><b>${esc(e.claim)}</b><small>${e.sources} source${e.sources === 1 ? '' : 's'}${e.date ? ' · ' + esc(e.date) : ''}</small></div><a class="ev-src" ${e.href ? `href="${esc(e.href)}" target="_blank" rel="noopener noreferrer"` : ''}>${icon('file-text', 'ico ico-s')}${esc(e.source)}</a></li>`).join('')}</ul>
+      : `<li>${statusPill(e.status)}<div><b>${esc(e.claim)}</b><small>${e.sources} source${e.sources === 1 ? '' : 's'}${e.date ? ' · ' + esc(e.date) : ''}</small></div><a class="ev-src" ${e.href ? `href="${esc(e.href)}" target="_blank" rel="noopener noreferrer"` : ''}>${icon('file-text', 'ico ico-s')}${esc(e.source)}</a></li>`;
+  const cls = `evid ${ws ? 'evid-ws' : 'evid-ov'}`, rest = list.slice(SHOW);
+  const body = `<ul class="${cls}">${list.slice(0, SHOW).map(item).join('')}</ul>${rest.length
+      ? `<button type="button" class="tax-more p-expand" data-expand aria-expanded="false">+${rest.length} more</button><ul class="${cls}" hidden>${rest.map(item).join('')}</ul>` : ''}
     ${vm.mode === 'profile' ? '<p class="caption">Verified: primary document or independent confirmation. Supported: company statement only. Quotes checked against source text.</p>' : vm.mode !== 'demo' ? '<p class="caption">Provenance of the public record only. No claim-by-claim audit has been published.</p>' : ''}`;
   return panel('evidence', '07', ws ? 'Evidence & sources' : 'Sources & evidence', 'Key claims with linked sources and verification status.', body, ['View all claims and sources', '#']);
 }
@@ -318,6 +322,27 @@ function coverage(vm) {
   </section>`;
 }
 
+/* ---------- workspace grid (owner 23.11.2026: no panel stretches the grid) ----------
+   The panels with content are laid out first, the main ones wide; the panels with nothing yet are not drawn as tall
+   empty boxes but listed in one compact strip at the end. Rows align to the top, so a long panel never stretches
+   its neighbours, and long lists fold. When every panel has content the original two rows stay. */
+function wsRows(vm) {
+  const has = {
+    classification: !!(vm.taxonomy && ['domains', 'capabilities', 'roles', 'levels', 'defence'].some(k => (vm.taxonomy[k] || []).length)),
+    products: (vm.productTree || []).length > 0, technologies: (vm.technologies || []).length > 0,
+  };
+  if (vm.mode === 'demo' || (has.classification && has.products && has.technologies)) {
+    return `<div class="row ws-r1">${classification(vm, true)}${developments(vm, true)}${programmes(vm, true)}</div>
+       <div class="row ws-r2">${productTree(vm)}${technologies(vm)}${relationships(vm, true)}${evidence(vm, true)}</div>`;
+  }
+  const filled = [has.products && productTree(vm), has.technologies && technologies(vm)].filter(Boolean).join('');
+  const missing = [!has.classification && 'Industrial classification', !has.products && 'Products', !has.technologies && 'Technologies'].filter(Boolean);
+  return `<div class="row ws-main">${programmes(vm, true)}${developments(vm, true)}</div>
+       <div class="row ws-side">${relationships(vm, true)}${evidence(vm, true)}${filled}</div>
+       ${has.classification ? `<div class="row ws-full">${classification(vm, true)}</div>` : ''}
+       <p class="ws-pending">${icon('circle-dot', 'ico ico-s')}<b>Not assessed yet:</b> ${missing.map(esc).join(' · ')}. These sections appear once they are backed by sources.</p>`;
+}
+
 /* ---------- page ---------- */
 function render() {
   const vm = state.vm, ws = state.view === 'workspace';
@@ -326,8 +351,7 @@ function render() {
   if (vm.mode !== 'demo') for (const k of ['workspace', 'overview']) vm.facts[k] = vm.facts[k].filter(f => f[0] !== '—');
   content.innerHTML = ws
     ? `${heroWorkspace(vm)}
-       <div class="row ws-r1">${classification(vm, true)}${developments(vm, true)}${programmes(vm, true)}</div>
-       <div class="row ws-r2">${productTree(vm)}${technologies(vm)}${relationships(vm, true)}${evidence(vm, true)}</div>`
+       ${wsRows(vm)}`
     : `${heroOverview(vm)}
        <section class="panel ov-r1" aria-label="Summary and classification">${demoTag()}<div class="ov-summary"><p class="about">${vm.about.overview ? esc(vm.about.overview) : '<span class="muted">No public description available.</span>'}</p>${vm.mode !== 'demo' ? `<p class="caption">${vm.mode === 'profile' ? aboutCaption(vm) : 'From the public research index · not independently verified'}</p>` : ''}${facts(vm.facts.overview)}</div>${classification(vm, false)}</section>
        <div class="row ov-r2">${developments(vm, false)}${productAccordion(vm)}${relationships(vm, false)}</div>
