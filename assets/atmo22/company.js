@@ -223,8 +223,17 @@ function programmes(vm, ws) {
   const list = vm.programmes[ws ? 'workspace' : 'overview'];
   let body;
   if (!list.length) body = empty('briefcase', 'No programme or procurement record has been published for this company. A notice, award, contract and delivery are different claims and are shown only with sources.');
-  else if (ws) body = `<ul class="prog-ws">${list.map(p => `<li><span class="prog-ico">${icon(p.icon)}</span><div><b>${esc(p.title)}</b><small>${esc(p.sub)}</small></div><span class="prog-st">${statusDot(p.status)}${esc(p.status)}</span></li>`).join('')}</ul>`;
-  else body = `<ul class="prog-ov">${list.map(p => `<li><span class="tdot tdot-${p.color}"></span><time class="tnum">${esc(p.date)}</time><div><b>${esc(p.title)}</b><small>${esc(p.sub)}</small><p>${esc(p.desc)}</p></div><span class="prog-st">${statusDot(p.status)}${esc(p.status)}</span></li>`).join('')}</ul>`;
+  else {
+    // owner 23.11.2026: a project title links to its page; a long list shows the first SHOW and folds the rest
+    const SHOW = 5, href = p => safeUrl(p.href || '');
+    const name = p => href(p) ? `<a href="${esc(href(p))}" target="_blank" rel="noopener noreferrer"><b>${esc(p.title)}</b></a>` : `<b>${esc(p.title)}</b>`;
+    const row = ws
+      ? p => `<li><span class="prog-ico">${icon(p.icon)}</span><div>${name(p)}<small>${esc(p.sub)}</small></div><span class="prog-st">${statusDot(p.status)}${esc(p.status)}</span></li>`
+      : p => `<li><span class="tdot tdot-${p.color}"></span><time class="tnum">${esc(p.date)}</time><div>${name(p)}<small>${esc(p.sub)}</small><p>${esc(p.desc)}</p></div><span class="prog-st">${statusDot(p.status)}${esc(p.status)}</span></li>`;
+    const cls = ws ? 'prog-ws' : 'prog-ov', head = list.slice(0, SHOW), rest = list.slice(SHOW);
+    body = `<ul class="${cls}">${head.map(row).join('')}</ul>` + (rest.length
+      ? `<button type="button" class="tax-more p-expand" data-expand aria-expanded="false">+${rest.length} more</button><ul class="${cls}" hidden>${rest.map(row).join('')}</ul>` : '');
+  }
   return panel('programmes', '03', ws ? 'Key programmes & tenders' : 'Programmes & tenders', ws ? 'Selected programmes and procurement activities.' : 'Selected procurement and participation activities.', body, ['View all programmes and tenders', '#']);
 }
 

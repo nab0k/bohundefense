@@ -55,6 +55,21 @@ class CardsFromDb(unittest.TestCase):
         self.assertEqual(out['profiles_added'], [])
         self.assertEqual(json.loads((self.root / 'atlas/company-profiles-v1.json').read_text())['profiles'].get('patria-oyj'), before)
 
+    def test_changed_claims_rebuild_a_builder_profile(self):  # owner 23.11.2026, EDF project details
+        first = M.apply([copy.deepcopy(CO)], self.root)
+        self.assertEqual(len(first['profiles_added']), 1)
+        co = copy.deepcopy(CO)
+        prog = next(c for c in co['claims'] if c['ref'].startswith('b4:prog'))
+        if prog['value'].get('kind') == 'edf_grant':
+            prog['value']['edf'] = {'acronym': 'TESTA', 'title': 'Test project', 'role': 'coordinator', 'company_eu': 1500000.0,
+                                    'eu_total': 9000000.0, 'partners': 12, 'start': '2025-01-01', 'end': '2027-12-31',
+                                    'status': 'Ongoing', 'url': 'https://example.org/p'}
+        else:
+            prog['value']['note'] = 'changed'
+        out = M.apply([co], self.root)
+        self.assertEqual(len(out['profiles_updated']), 1)
+        self.assertEqual(M.apply([co], self.root)['profiles_updated'], [])  # same claims again: no rebuild
+
     def test_companies_from_the_news_get_a_marked_catalogue_record(self):  # owner 23.11.2026
         news = [{'name': 'Rocket Lab', 'country': 'US'}, {'name': 'Saronic Technologies', 'country': ''},
                 {'name': 'ROCKET LAB', 'country': 'US'}]
