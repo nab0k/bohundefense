@@ -1,10 +1,16 @@
 name: Company cards from the database
 
 # B4CE-04 step 3.5 (EXP-033). Started by the FIELD autofill after it writes cards (and daily as a fallback).
+# Since 23.11.2026 the FIELD job sends the newest cards with the dispatch (input cards_gz_b64, gzip + base64), so
+# this repository needs no database key; without the input it falls back to the database RPC if a key is set.
 # Adds new auto-written cards to the site files and opens a pull request; the owner releases by command
 # (decision 21.11.2026). Existing profiles are never replaced. The key is never printed.
 on:
   workflow_dispatch:
+    inputs:
+      cards_gz_b64:
+        description: 'Cards from the FIELD autofill (gzip + base64 JSON); empty = read the database'
+        default: ''
   schedule:
     - cron: '50 4 * * *'
 
@@ -38,7 +44,14 @@ jobs:
         if: steps.open.outputs.count == '0'
         env:
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
-        run: python scripts/company-cards-from-db.py
+          CARDS: ${{ github.event.inputs.cards_gz_b64 }}
+        run: |
+          if [ -n "$CARDS" ]; then
+            printf '%s' "$CARDS" | base64 -d | gunzip > "$RUNNER_TEMP/cards.json"
+            python scripts/company-cards-from-db.py "$RUNNER_TEMP/cards.json"
+          else
+            python scripts/company-cards-from-db.py
+          fi
       - name: Check the written files
         if: steps.cards.outputs.added != '' && steps.cards.outputs.added != '0'
         run: |
