@@ -44053,6 +44053,2125 @@
           "Registered office"
         ]
       ]
+    },
+    "atomvet-cz-s-r-o": {
+      "developments": [
+        {
+          "date": "05 Sep 2024",
+          "title": "Contract award by Ministerstvo obrany",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/533780-2024"
+        }
+      ],
+      "country": "CZ",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "ATOMVET.CZ s.r.o. is a Czech company registered in 2015, with its seat in Liberec. EU procurement records (TED) list a contract award by Ministerstvo obrany (05 Sep 2024).",
+        "overview": "ATOMVET.CZ s.r.o. is a Czech company registered in 2015, with its seat in Liberec. EU procurement records (TED) list a contract award by Ministerstvo obrany (05 Sep 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2015",
+            "Registered"
+          ],
+          [
+            "Liberec, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 04057503",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2015",
+            "Registered"
+          ],
+          [
+            "Liberec, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 04057503",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Ministerstvo obrany",
+            "sub": "TED notice 533780-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "05 Sep 2024",
+            "desc": "TED notice 533780-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Ministerstvo obrany",
+            "sub": "TED notice 533780-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "05 Sep 2024",
+            "desc": "TED notice 533780-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Ministerstvo obrany",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Ministerstvo obrany",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ATOMVET.CZ s.r.o., IČO 04057503",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/04057503"
+        },
+        {
+          "claim": "Contract award by Ministerstvo obrany (TED 533780-2024)",
+          "sources": 1,
+          "date": "05 Sep 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/533780-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Liberec",
+          "Registered office"
+        ]
+      ]
+    },
+    "cairo-cz-spol-s-r-o": {
+      "developments": [
+        {
+          "date": "15 Mar 2024",
+          "title": "Contract award by Ministerstvo obrany",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/158980-2024"
+        }
+      ],
+      "country": "CZ",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "CAIRO CZ spol. s r.o. is a Czech company registered in 2004, with its seat in Frenštát Pod Radhoštěm. EU procurement records (TED) list a contract award by Ministerstvo obrany (15 Mar 2024).",
+        "overview": "CAIRO CZ spol. s r.o. is a Czech company registered in 2004, with its seat in Frenštát Pod Radhoštěm. EU procurement records (TED) list a contract award by Ministerstvo obrany (15 Mar 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2004",
+            "Registered"
+          ],
+          [
+            "Frenštát Pod Radhoštěm, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 26842441",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2004",
+            "Registered"
+          ],
+          [
+            "Frenštát Pod Radhoštěm, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 26842441",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Ministerstvo obrany",
+            "sub": "TED notice 158980-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "15 Mar 2024",
+            "desc": "TED notice 158980-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Ministerstvo obrany",
+            "sub": "TED notice 158980-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "15 Mar 2024",
+            "desc": "TED notice 158980-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Ministerstvo obrany",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Ministerstvo obrany",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity CAIRO CZ spol. s r.o., IČO 26842441",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/26842441"
+        },
+        {
+          "claim": "Contract award by Ministerstvo obrany (TED 158980-2024)",
+          "sources": 1,
+          "date": "15 Mar 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/158980-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Frenštát Pod Radhoštěm",
+          "Registered office"
+        ]
+      ]
+    },
+    "cb-servis-centrum-s-r-o": {
+      "developments": [
+        {
+          "date": "17 Sep 2024",
+          "title": "Contract award by Ministerstvo obrany",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/556984-2024"
+        }
+      ],
+      "country": "CZ",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "CB SERVIS CENTRUM s.r.o. is a Czech company registered in 1993, with its seat in Borek. EU procurement records (TED) list a contract award by Ministerstvo obrany (17 Sep 2024).",
+        "overview": "CB SERVIS CENTRUM s.r.o. is a Czech company registered in 1993, with its seat in Borek. EU procurement records (TED) list a contract award by Ministerstvo obrany (17 Sep 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1993",
+            "Registered"
+          ],
+          [
+            "Borek, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 48201464",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1993",
+            "Registered"
+          ],
+          [
+            "Borek, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 48201464",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Ministerstvo obrany",
+            "sub": "TED notice 556984-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "17 Sep 2024",
+            "desc": "TED notice 556984-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Ministerstvo obrany",
+            "sub": "TED notice 556984-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "17 Sep 2024",
+            "desc": "TED notice 556984-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Ministerstvo obrany",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Ministerstvo obrany",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity CB SERVIS CENTRUM s.r.o., IČO 48201464",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/48201464"
+        },
+        {
+          "claim": "Contract award by Ministerstvo obrany (TED 556984-2024)",
+          "sources": 1,
+          "date": "17 Sep 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/556984-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Borek",
+          "Registered office"
+        ]
+      ]
+    },
+    "ceska-zbrojovka-s-a": {
+      "developments": [
+        {
+          "date": "03 Jan 2024",
+          "title": "Contract award by División Económica y Técnica (Cuerpo Nacional de Policía)",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/4424-2024"
+        }
+      ],
+      "country": "CZ",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · verified · relevant competence, no military sale on record"
+        ]
+      ],
+      "about": {
+        "workspace": "Česká zbrojovka a.s. is a Czech company registered in 1992, with its seat in Uherský Brod. EU procurement records (TED) list a contract award by División Económica y Técnica (Cuerpo Nacional de Policía) (03 Jan 2024).",
+        "overview": "Česká zbrojovka a.s. is a Czech company registered in 1992, with its seat in Uherský Brod. EU procurement records (TED) list a contract award by División Económica y Técnica (Cuerpo Nacional de Policía) (03 Jan 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1992",
+            "Registered"
+          ],
+          [
+            "Uherský Brod, Czechia",
+            "Headquarters"
+          ],
+          [
+            "LEI 315700KBFUUW0BAPI714",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1992",
+            "Registered"
+          ],
+          [
+            "Uherský Brod, Czechia",
+            "Headquarters"
+          ],
+          [
+            "LEI 315700KBFUUW0BAPI714",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · División Económica y Técnica (Cuerpo Nacional de Policía)",
+            "sub": "TED notice 4424-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "03 Jan 2024",
+            "desc": "TED notice 4424-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · División Económica y Técnica (Cuerpo Nacional de Policía)",
+            "sub": "TED notice 4424-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "03 Jan 2024",
+            "desc": "TED notice 4424-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "División Económica y Técnica (Cuerpo Nacional de Policía)",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "División Económica y Técnica (Cuerpo Nacional de Policía)",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Česká zbrojovka a.s., LEI 315700KBFUUW0BAPI714",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/315700KBFUUW0BAPI714"
+        },
+        {
+          "claim": "Contract award by División Económica y Técnica (Cuerpo Nacional de Policía) (TED 4424-2024)",
+          "sources": 1,
+          "date": "03 Jan 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/4424-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Uherský Brod",
+          "Registered office"
+        ]
+      ]
+    },
+    "croy-s-r-o": {
+      "developments": [
+        {
+          "date": "19 Apr 2024",
+          "title": "Contract award by Česká republika - Ministerstvo obrany",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/232872-2024"
+        }
+      ],
+      "country": "CZ",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "CROY s.r.o. is a Czech company registered in 1992, with its seat in Rakovník. EU procurement records (TED) list a contract award by Česká republika - Ministerstvo obrany (19 Apr 2024).",
+        "overview": "CROY s.r.o. is a Czech company registered in 1992, with its seat in Rakovník. EU procurement records (TED) list a contract award by Česká republika - Ministerstvo obrany (19 Apr 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1992",
+            "Registered"
+          ],
+          [
+            "Rakovník, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 45147647",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1992",
+            "Registered"
+          ],
+          [
+            "Rakovník, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 45147647",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Česká republika - Ministerstvo obrany",
+            "sub": "TED notice 232872-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "19 Apr 2024",
+            "desc": "TED notice 232872-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Česká republika - Ministerstvo obrany",
+            "sub": "TED notice 232872-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "19 Apr 2024",
+            "desc": "TED notice 232872-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Česká republika - Ministerstvo obrany",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Česká republika - Ministerstvo obrany",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity CROY s.r.o., IČO 45147647",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/45147647"
+        },
+        {
+          "claim": "Contract award by Česká republika - Ministerstvo obrany (TED 232872-2024)",
+          "sources": 1,
+          "date": "19 Apr 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/232872-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Rakovník",
+          "Registered office"
+        ]
+      ]
+    },
+    "colt-cz-defence-solutions-s-r-o": {
+      "developments": [
+        {
+          "date": "29 Apr 2024",
+          "title": "Contract award by Česká republika - Ministerstvo obrany",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/254675-2024"
+        },
+        {
+          "date": "15 Mar 2024",
+          "title": "Contract award by Česká republika - Ministerstvo obrany",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/159292-2024"
+        }
+      ],
+      "country": "CZ",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "Colt CZ Defence Solutions s.r.o. is a Czech company registered in 1993, with its seat in Uherský Brod. EU procurement records (TED) list a contract award by Česká republika - Ministerstvo obrany (29 Apr 2024). EU procurement records (TED) list a contract award by Česká republika - Ministerstvo obrany (15 Mar 2024).",
+        "overview": "Colt CZ Defence Solutions s.r.o. is a Czech company registered in 1993, with its seat in Uherský Brod. EU procurement records (TED) list a contract award by Česká republika - Ministerstvo obrany (29 Apr 2024). EU procurement records (TED) list a contract award by Česká republika - Ministerstvo obrany (15 Mar 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1993",
+            "Registered"
+          ],
+          [
+            "Uherský Brod, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 49451961",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1993",
+            "Registered"
+          ],
+          [
+            "Uherský Brod, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 49451961",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Česká republika - Ministerstvo obrany",
+            "sub": "TED notice 254675-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "29 Apr 2024",
+            "desc": "TED notice 254675-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Česká republika - Ministerstvo obrany",
+            "sub": "TED notice 159292-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "15 Mar 2024",
+            "desc": "TED notice 159292-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Česká republika - Ministerstvo obrany",
+            "sub": "TED notice 254675-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "29 Apr 2024",
+            "desc": "TED notice 254675-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Česká republika - Ministerstvo obrany",
+            "sub": "TED notice 159292-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "15 Mar 2024",
+            "desc": "TED notice 159292-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Česká republika - Ministerstvo obrany",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Česká republika - Ministerstvo obrany",
+            "role": "Customer · TED award",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Česká republika - Ministerstvo obrany",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Česká republika - Ministerstvo obrany",
+            "role": "Customer · TED award",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Colt CZ Defence Solutions s.r.o., IČO 49451961",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/49451961"
+        },
+        {
+          "claim": "Contract award by Česká republika - Ministerstvo obrany (TED 254675-2024)",
+          "sources": 1,
+          "date": "29 Apr 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/254675-2024"
+        },
+        {
+          "claim": "Contract award by Česká republika - Ministerstvo obrany (TED 159292-2024)",
+          "sources": 1,
+          "date": "15 Mar 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/159292-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Uherský Brod",
+          "Registered office"
+        ]
+      ]
+    },
+    "gisat-s-r-o": {
+      "developments": [
+        {
+          "date": "11 Nov 2025",
+          "title": "European Defence Fund project 101223957",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101223957/EDF"
+        }
+      ],
+      "country": "CZ",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "GISAT s.r.o. is a Czech company registered in 2001, with its seat in Praha. It takes part in 1 European Defence Fund project (2025).",
+        "overview": "GISAT s.r.o. is a Czech company registered in 2001, with its seat in Praha. It takes part in 1 European Defence Fund project (2025)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2001",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 26438003",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2001",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 26438003",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101223957",
+            "sub": "EU defence research and development · call EDF-2024-LS-RA-CHALLENGE",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "11 Nov 2025",
+            "desc": "Call EDF-2024-LS-RA-CHALLENGE",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101223957",
+            "sub": "EU defence research and development · call EDF-2024-LS-RA-CHALLENGE",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "11 Nov 2025",
+            "desc": "Call EDF-2024-LS-RA-CHALLENGE",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity GISAT s.r.o., IČO 26438003",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/26438003"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101223957",
+          "sources": 1,
+          "date": "11 Nov 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101223957/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Praha",
+          "Registered office"
+        ]
+      ]
+    },
+    "geneproof-a-s": {
+      "developments": [
+        {
+          "date": "05 Sep 2024",
+          "title": "Contract award by Ministerstvo obrany",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/533780-2024"
+        }
+      ],
+      "country": "CZ",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "GeneProof a.s. is a Czech company registered in 2005, with its seat in Brno. EU procurement records (TED) list a contract award by Ministerstvo obrany (05 Sep 2024).",
+        "overview": "GeneProof a.s. is a Czech company registered in 2005, with its seat in Brno. EU procurement records (TED) list a contract award by Ministerstvo obrany (05 Sep 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2005",
+            "Registered"
+          ],
+          [
+            "Brno, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 26981947",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2005",
+            "Registered"
+          ],
+          [
+            "Brno, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 26981947",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Ministerstvo obrany",
+            "sub": "TED notice 533780-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "05 Sep 2024",
+            "desc": "TED notice 533780-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Ministerstvo obrany",
+            "sub": "TED notice 533780-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "05 Sep 2024",
+            "desc": "TED notice 533780-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Ministerstvo obrany",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Ministerstvo obrany",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity GeneProof a.s., IČO 26981947",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/26981947"
+        },
+        {
+          "claim": "Contract award by Ministerstvo obrany (TED 533780-2024)",
+          "sources": 1,
+          "date": "05 Sep 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/533780-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Brno",
+          "Registered office"
+        ]
+      ]
+    },
+    "intriple-a-s": {
+      "developments": [
+        {
+          "date": "22 Apr 2024",
+          "title": "Contract award by Ministère de la Défense",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/236610-2024"
+        }
+      ],
+      "country": "CZ",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "INTRIPLE, a.s. is a Czech company registered in 2006, with its seat in Praha. EU procurement records (TED) list a contract award by Ministère de la Défense (22 Apr 2024).",
+        "overview": "INTRIPLE, a.s. is a Czech company registered in 2006, with its seat in Praha. EU procurement records (TED) list a contract award by Ministère de la Défense (22 Apr 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2006",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 27448827",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2006",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 27448827",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Ministère de la Défense",
+            "sub": "TED notice 236610-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "22 Apr 2024",
+            "desc": "TED notice 236610-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Ministère de la Défense",
+            "sub": "TED notice 236610-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "22 Apr 2024",
+            "desc": "TED notice 236610-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Ministère de la Défense",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Ministère de la Défense",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity INTRIPLE, a.s., IČO 27448827",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/27448827"
+        },
+        {
+          "claim": "Contract award by Ministère de la Défense (TED 236610-2024)",
+          "sources": 1,
+          "date": "22 Apr 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/236610-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Praha",
+          "Registered office"
+        ]
+      ]
+    },
+    "mgm-compro-s-r-o": {
+      "developments": [
+        {
+          "date": "01 Dec 2023",
+          "title": "European Defence Fund project 101121421",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121421/EDF"
+        }
+      ],
+      "country": "CZ",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "MGM COMPRO s.r.o. is a Czech company registered in 2014, with its seat in Zlín. It takes part in 1 European Defence Fund project (2023).",
+        "overview": "MGM COMPRO s.r.o. is a Czech company registered in 2014, with its seat in Zlín. It takes part in 1 European Defence Fund project (2023)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2014",
+            "Registered"
+          ],
+          [
+            "Zlín, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 03093212",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2014",
+            "Registered"
+          ],
+          [
+            "Zlín, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 03093212",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101121421",
+            "sub": "EU defence research and development · call EDF-2022-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "01 Dec 2023",
+            "desc": "Call EDF-2022-RA",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101121421",
+            "sub": "EU defence research and development · call EDF-2022-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "01 Dec 2023",
+            "desc": "Call EDF-2022-RA",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity MGM COMPRO s.r.o., IČO 03093212",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/03093212"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121421",
+          "sources": 1,
+          "date": "01 Dec 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121421/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Zlín",
+          "Registered office"
+        ]
+      ]
+    },
+    "respilon-membranes-s-r-o": {
+      "developments": [
+        {
+          "date": "07 Dec 2022",
+          "title": "European Defence Fund project 101110262",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101110262/EDF"
+        }
+      ],
+      "country": "CZ",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "RESPILON Membranes s.r.o. is a Czech company registered in 2021, with its seat in Brno. It takes part in 1 European Defence Fund project (2022).",
+        "overview": "RESPILON Membranes s.r.o. is a Czech company registered in 2021, with its seat in Brno. It takes part in 1 European Defence Fund project (2022)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2021",
+            "Registered"
+          ],
+          [
+            "Brno, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 10994611",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2021",
+            "Registered"
+          ],
+          [
+            "Brno, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 10994611",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101110262",
+            "sub": "EU defence research and development · call EDF-2021-OPEN-R-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "07 Dec 2022",
+            "desc": "Call EDF-2021-OPEN-R-2",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101110262",
+            "sub": "EU defence research and development · call EDF-2021-OPEN-R-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "07 Dec 2022",
+            "desc": "Call EDF-2021-OPEN-R-2",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity RESPILON Membranes s.r.o., IČO 10994611",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/10994611"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101110262",
+          "sources": 1,
+          "date": "07 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101110262/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Brno",
+          "Registered office"
+        ]
+      ]
+    },
+    "stratosyst-s-r-o": {
+      "developments": [
+        {
+          "date": "19 Dec 2022",
+          "title": "European Defence Fund project 101103150",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103150/EDF"
+        }
+      ],
+      "country": "CZ",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "STRATOSYST s.r.o. is a Czech company registered in 2019, with its seat in Praha. It takes part in 1 European Defence Fund project (2022).",
+        "overview": "STRATOSYST s.r.o. is a Czech company registered in 2019, with its seat in Praha. It takes part in 1 European Defence Fund project (2022)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2019",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 08135738",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2019",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 08135738",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101103150",
+            "sub": "EU defence research and development · call EDF-2021-C4ISR-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "19 Dec 2022",
+            "desc": "Call EDF-2021-C4ISR-D-2",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101103150",
+            "sub": "EU defence research and development · call EDF-2021-C4ISR-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "19 Dec 2022",
+            "desc": "Call EDF-2021-C4ISR-D-2",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity STRATOSYST s.r.o., IČO 08135738",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/08135738"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103150",
+          "sources": 1,
+          "date": "19 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103150/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Praha",
+          "Registered office"
+        ]
+      ]
+    },
+    "univerzita-karlova": {
+      "developments": [
+        {
+          "date": "03 Aug 2026",
+          "title": "European Defence Fund project 101305024",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101305024/EDF"
+        }
+      ],
+      "country": "CZ",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Univerzita Karlova is a Czech company, with its seat in Praha. It takes part in 1 European Defence Fund project (2026).",
+        "overview": "Univerzita Karlova is a Czech company, with its seat in Praha. It takes part in 1 European Defence Fund project (2026)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 00216208",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 00216208",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101305024",
+            "sub": "EU defence research and development · call EDF-2025-LS-RA-CHALLENGE",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "03 Aug 2026",
+            "desc": "Call EDF-2025-LS-RA-CHALLENGE",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101305024",
+            "sub": "EU defence research and development · call EDF-2025-LS-RA-CHALLENGE",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "03 Aug 2026",
+            "desc": "Call EDF-2025-LS-RA-CHALLENGE",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Univerzita Karlova, IČO 00216208",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/00216208"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101305024",
+          "sources": 1,
+          "date": "03 Aug 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101305024/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Praha",
+          "Registered office"
+        ]
+      ]
+    },
+    "sig-sauer-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "SIG SAUER INC. is a US company registered in 2000, with its seat in Dover. US federal spending records list it as a recipient of contracts from the US Department of Defense.",
+        "overview": "SIG SAUER INC. is a US company registered in 2000, with its seat in Dover. US federal spending records list it as a recipient of contracts from the US Department of Defense."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2000",
+            "Registered"
+          ],
+          [
+            "Dover, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300M5DQXUVW4X1L11",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2000",
+            "Registered"
+          ],
+          [
+            "Dover, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300M5DQXUVW4X1L11",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "US Department of Defense contracts",
+            "sub": "Recipient profile on USAspending.gov",
+            "status": "Contracts",
+            "icon": "landmark",
+            "date": "",
+            "desc": "Federal spending records",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "US Department of Defense contracts",
+            "sub": "Recipient profile on USAspending.gov",
+            "status": "Contracts",
+            "icon": "landmark",
+            "date": "",
+            "desc": "Federal spending records",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "US Department of Defense",
+            "role": "Customer · federal contracts",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "US Department of Defense",
+            "role": "Customer · federal contracts",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity SIG SAUER INC., LEI 549300M5DQXUVW4X1L11",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/549300M5DQXUVW4X1L11"
+        },
+        {
+          "claim": "Recipient of US Department of Defense contracts",
+          "sources": 1,
+          "date": "",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/0171220c-321a-4609-5065-af7e04637e51-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Dover",
+          "Registered office"
+        ]
+      ]
     }
   }
 }
