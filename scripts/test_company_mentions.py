@@ -1,6 +1,9 @@
 """Run: python3 -m unittest discover -s scripts -p 'test_*.py'"""
+import json
+from pathlib import Path
+import tempfile
 import unittest
-from company_mentions import build_index, mention_key, mentions
+from company_mentions import add_mentions, build_index, mention_key, mentions
 
 DIRECTORY = [
     {"name": "Rheinmetall AG", "country": "DE"},
@@ -39,9 +42,44 @@ class Mentions(unittest.TestCase):
     def test_longest_name_wins(self):
         self.assertEqual(found("Thales Group reported."), {("Thales Group", ("Thales Group",))})
 
-    def test_shared_name_links_only_to_the_single_reviewed_card(self):
-        self.assertEqual(found("Forcit supplies explosives."), {("Oy Forcit Ab", ("Forcit",))})
-        self.assertEqual(found("Leonardo delivered."), set())  # two records, no card: no certain binding
+    def test_shared_name_requires_an_explicit_form(self):
+        self.assertEqual(found("Forcit supplies explosives."), set())
+        self.assertEqual(found("Oy Forcit Ab supplies explosives."), {("Oy Forcit Ab", ("Forcit",))})
+        self.assertEqual(found("Leonardo delivered."), set())
+
+    def test_legal_form_disambiguates_even_without_a_profile(self):
+        directory = [
+            {"name": "Testfirma Oy", "country": "FI"},
+            {"name": "Testfirma GmbH", "country": "DE"},
+        ]
+        for title, expected in [
+            ("Testfirma GmbH published a report", "DE"),
+            ("Testfirma Oy published a report", "FI"),
+            ("Testfirma published a report", None),
+        ]:
+            with self.subTest(title=title):
+                items = [{"title": title}]
+                index = build_index(directory, {"testfirma-oy": {}}, items)
+                self.assertEqual([m["country"] for m in mentions(items[0], index)], [expected] if expected else [])
+
+    def test_conflicting_form_or_two_matches_never_link(self):
+        title = {"title": "Testfirma GmbH published a report"}
+        for directory in [
+            [{"name": "Testfirma Oy", "country": "FI"}],
+            [{"name": "Testfirma GmbH", "country": country} for country in ("DE", "AT")],
+        ]:
+            with self.subTest(directory=directory):
+                self.assertEqual(mentions(title, build_index(directory, {}, [title])), [])
+
+    def test_ambiguous_update_clears_old_link(self):
+        with tempfile.TemporaryDirectory() as temp:
+            directory = Path(temp) / "directory.json"
+            profiles = Path(temp) / "profiles.json"
+            directory.write_text(json.dumps({"companies": DIRECTORY}))
+            profiles.write_text(json.dumps({"profiles": PROFILES}))
+            items = [{"title": "Forcit published a report", "companies": [{"name": "Oy Forcit Ab"}]}]
+            self.assertEqual(add_mentions(items, directory, profiles), 0)
+            self.assertNotIn("companies", items[0])
 
     def test_lowercase_generic_and_place_names_are_not_linked(self):
         self.assertEqual(found("Contact the rheinmetall office."), set())

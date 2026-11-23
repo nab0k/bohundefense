@@ -4,8 +4,7 @@ A company is linked only when its name appears exactly (legal form, accents and 
 word of it is written as a proper noun. Names reduced to a country word, a generic word or an ordinary
 English word are never matched. The rules are those of the company work queue in the FIELD repository
 (collectors/companies/normalize.py and queue.py, EXP-033); keep the two in step when one changes.
-A name shared by several catalogue records links to the one with a reviewed card when there is exactly one,
-otherwise it is not linked (a public company link needs a certain binding, EXP-028).
+A shared name needs an explicit legal form that identifies one catalogue record.
 """
 import re
 import unicodedata
@@ -104,16 +103,37 @@ def build_index(directory, profiles, items):
             continue
         by_key.setdefault(key, []).append(c)
     index = {}
-    for key, cs in by_key.items():
-        if len({(c['name'], c.get('country') or '') for c in cs}) > 1:
-            carded = [c for c in cs if profile_slug(c['name']) in profiles]
-            if len(carded) != 1:
-                continue
-            cs = carded
-        index.setdefault(key[0], []).append((key, cs[0]))
+    for key, candidates in by_key.items():
+        distinct = {(c['name'], c.get('country') or ''): c for c in candidates}
+        index.setdefault(key[0], []).append((key, tuple(distinct.values())))
     for keys in index.values():
         keys.sort(key=lambda kc: -len(kc[0]))  # the longest name wins where names overlap
     return index
+
+
+def legal_forms(text):
+    return tuple(
+        re.sub(r"[^\w]+", "", match.group())
+        for match in _FORM_RE.finditer(text.lower())
+        if match.group() != 'the'
+    )
+
+
+def adjacent_forms(text, start, end):
+    before = re.search(r"[\w.& ]+$", text[:start])
+    prefix = _FORM_RE.finditer(before.group().lower()) if before else ()
+    forms = [
+        match.group() for match in prefix
+        if not before.group()[match.end():].strip() and before.group()[match.start()].isupper()
+        and match.group() != 'the'
+    ]
+    suffix = text[end:].lstrip()
+    while match := _FORM_RE.match(suffix.lower()):
+        if not suffix[:1].isupper() or match.group() == 'the':
+            break
+        forms.append(match.group())
+        suffix = suffix[match.end():].lstrip(" &")
+    return tuple(re.sub(r"[^\w]+", "", form) for form in forms)
 
 
 def mentions(item, index):
@@ -124,22 +144,29 @@ def mentions(item, index):
         i = 0
         while i < len(toks):
             hit = None
-            for key, c in index.get(toks[i][0], ()):
+            for key, candidates in index.get(toks[i][0], ()):
                 n = len(key)
                 window = toks[i:i + n]
                 if len(window) == n and all(w[0] == k for w, k in zip(window, key)) and all(
                         raw[:1].isupper() or raw[:1].isdigit() or norm in JOINERS for norm, raw, _, _ in window):
-                    hit = (n, c, POSSESSIVE.sub('', text[window[0][2]:window[-1][3]]))
+                    start, end = window[0][2], window[-1][3]
+                    forms = adjacent_forms(text, start, end)
+                    if forms:
+                        candidates = tuple(c for c in candidates if legal_forms(c['name']) == forms)
+                    company = candidates[0] if len(candidates) == 1 else None
+                    hit = (n, company, POSSESSIVE.sub('', text[start:end]))
                     break
             if not hit:
                 i += 1
                 continue
             n, c, surface = hit
+            i += n
+            if c is None:
+                continue
             entry = found.setdefault((c['name'], c.get('country') or ''),
                                      {'name': c['name'], 'country': c.get('country') or '', 'text': []})
             if surface not in entry['text']:
                 entry['text'].append(surface)
-            i += n
     return list(found.values())
 
 
@@ -147,8 +174,10 @@ def add_mentions(items, directory_path, profiles_path):
     """Adds item['companies'] where the text names catalogue companies; leaves items as they are if the catalogue is missing."""
     import json
     try:
-        directory = json.loads(open(directory_path, encoding='utf-8').read())['companies']
-        profiles = json.loads(open(profiles_path, encoding='utf-8').read())['profiles']
+        with open(directory_path, encoding='utf-8') as directory_file:
+            directory = json.load(directory_file)['companies']
+        with open(profiles_path, encoding='utf-8') as profiles_file:
+            profiles = json.load(profiles_file)['profiles']
     except (OSError, ValueError, KeyError):
         return 0
     index = build_index(directory, profiles, items)
@@ -158,4 +187,6 @@ def add_mentions(items, directory_path, profiles_path):
         if found:
             item['companies'] = found
             linked += 1
+        else:
+            item.pop('companies', None)
     return linked
