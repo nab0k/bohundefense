@@ -14,7 +14,7 @@ search.addEventListener("blur",()=>{editing=false});
 document.getElementById("reset-filters").addEventListener("click",()=>{search.value="";country.value="";persist(true);render();search.focus()});
 function safeLink(url,label){try{const u=new URL(url);if(u.protocol!=="https:"&&u.protocol!=="http:")return null;const a=document.createElement("a");a.href=u.href;a.textContent=label;a.target="_blank";a.rel="noopener noreferrer";return a}catch{return null}}
 let visibleCount=60;
-const STATUS_LABEL={unverified_candidate:"Unverified candidate",research_publishable:"Research record",published_dataset:"Published dataset"};
+const STATUS_LABEL={unverified_candidate:"Unverified candidate",research_publishable:"Research record",published_dataset:"Published dataset",from_news:"From the news — not verified"};
 function render(){
  const q=search.value.trim().toLocaleLowerCase(),c=country.value;
  const matched=companies.filter(x=>(!c||x.country===c)&&(!q||[x.name,x.country,x.city,x.product,x.about].some(v=>String(v||"").toLocaleLowerCase().includes(q))));

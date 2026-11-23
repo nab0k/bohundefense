@@ -96,7 +96,8 @@ def build_index(directory, profiles, items):
     common = {n for it in items for t in item_texts(it) for n, raw, _, _ in tokens(t) if raw.islower()}
     by_key = {}
     for c in directory:
-        if not c.get('name') or not c.get('country'):
+        # a record found in the news may have no country yet (status from_news): it still gets a link
+        if not c.get('name') or not (c.get('country') or c.get('status') == 'from_news'):
             continue
         key = mention_key(c['name'])
         if not key or (len(key) == 1 and (key[0] in common or key[0] in ORDINARY)):
@@ -104,7 +105,7 @@ def build_index(directory, profiles, items):
         by_key.setdefault(key, []).append(c)
     index = {}
     for key, cs in by_key.items():
-        if len({(c['name'], c['country']) for c in cs}) > 1:
+        if len({(c['name'], c.get('country') or '') for c in cs}) > 1:
             carded = [c for c in cs if profile_slug(c['name']) in profiles]
             if len(carded) != 1:
                 continue
@@ -134,7 +135,8 @@ def mentions(item, index):
                 i += 1
                 continue
             n, c, surface = hit
-            entry = found.setdefault((c['name'], c['country']), {'name': c['name'], 'country': c['country'], 'text': []})
+            entry = found.setdefault((c['name'], c.get('country') or ''),
+                                     {'name': c['name'], 'country': c.get('country') or '', 'text': []})
             if surface not in entry['text']:
                 entry['text'].append(surface)
             i += n
