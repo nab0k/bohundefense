@@ -48384,6 +48384,726 @@
         ]
       ],
       "card_hash": "6816adceacb45e7c"
+    },
+    "scandinavian-avionics-a-s": {
+      "developments": [
+        {
+          "date": "08 Jan 2024",
+          "title": "Contract award by Danish Ministry of Defence Acquisition and Logistics Organisation",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/10858-2024"
+        }
+      ],
+      "country": "DK",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "SCANDINAVIAN AVIONICS A/S is a Danish company registered in 2004, with its seat in Billund. EU procurement records (TED) list a contract award by Danish Ministry of Defence Acquisition and Logistics Organisation (08 Jan 2024).",
+        "overview": "SCANDINAVIAN AVIONICS A/S is a Danish company registered in 2004, with its seat in Billund. EU procurement records (TED) list a contract award by Danish Ministry of Defence Acquisition and Logistics Organisation (08 Jan 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2004",
+            "Registered"
+          ],
+          [
+            "Billund, Denmark",
+            "Headquarters"
+          ],
+          [
+            "LEI 213800JPSXLBWHDI3A73",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2004",
+            "Registered"
+          ],
+          [
+            "Billund, Denmark",
+            "Headquarters"
+          ],
+          [
+            "LEI 213800JPSXLBWHDI3A73",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Danish Ministry of Defence Acquisition and Logistics Organisation",
+            "sub": "TED notice 10858-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "08 Jan 2024",
+            "desc": "TED notice 10858-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Danish Ministry of Defence Acquisition and Logistics Organisation",
+            "sub": "TED notice 10858-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "08 Jan 2024",
+            "desc": "TED notice 10858-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Danish Ministry of Defence Acquisition and Logistics Organisation",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Danish Ministry of Defence Acquisition and Logistics Organisation",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity SCANDINAVIAN AVIONICS A/S, LEI 213800JPSXLBWHDI3A73",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/213800JPSXLBWHDI3A73"
+        },
+        {
+          "claim": "Contract award by Danish Ministry of Defence Acquisition and Logistics Organisation (TED 10858-2024)",
+          "sources": 1,
+          "date": "08 Jan 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/10858-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Billund",
+          "Registered office"
+        ]
+      ],
+      "card_hash": "493ed23af31eae4a"
+    },
+    "bae-systems-gcs-international-limited": {
+      "developments": [],
+      "country": "GB",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "BAE SYSTEMS GCS INTERNATIONAL LIMITED is a British company registered in 2019, with its seat in Camberley. US federal spending records list it as a recipient of contracts from the US Department of Defense.",
+        "overview": "BAE SYSTEMS GCS INTERNATIONAL LIMITED is a British company registered in 2019, with its seat in Camberley. US federal spending records list it as a recipient of contracts from the US Department of Defense."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2019",
+            "Registered"
+          ],
+          [
+            "Camberley, United Kingdom",
+            "Headquarters"
+          ],
+          [
+            "LEI 984500L4Z376D41B6205",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2019",
+            "Registered"
+          ],
+          [
+            "Camberley, United Kingdom",
+            "Headquarters"
+          ],
+          [
+            "LEI 984500L4Z376D41B6205",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "US Department of Defense contracts",
+            "sub": "Recipient profile on USAspending.gov",
+            "status": "Contracts",
+            "icon": "landmark",
+            "date": "",
+            "desc": "Federal spending records",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "US Department of Defense contracts",
+            "sub": "Recipient profile on USAspending.gov",
+            "status": "Contracts",
+            "icon": "landmark",
+            "date": "",
+            "desc": "Federal spending records",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "US Department of Defense",
+            "role": "Customer · federal contracts",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "US Department of Defense",
+            "role": "Customer · federal contracts",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity BAE SYSTEMS GCS INTERNATIONAL LIMITED, LEI 984500L4Z376D41B6205",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/984500L4Z376D41B6205"
+        },
+        {
+          "claim": "Recipient of US Department of Defense contracts",
+          "sources": 1,
+          "date": "",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/2c6b9a4f-669c-a26f-ef17-c5199450bda4-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Camberley",
+          "Registered office"
+        ]
+      ],
+      "card_hash": "0b2fb4e24e7e4617"
+    },
+    "cess-plus-solutions": {
+      "developments": [
+        {
+          "date": "05 Jan 2024",
+          "title": "Contract award by Unitatea Militara 0251 Bucuresti",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/8595-2024"
+        }
+      ],
+      "country": "RO",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "CESS PLUS SOLUTIONS S.R.L. is a Romanian company registered in 2022, with its seat in Mogoșoaia. EU procurement records (TED) list a contract award by Unitatea Militara 0251 Bucuresti (05 Jan 2024).",
+        "overview": "CESS PLUS SOLUTIONS S.R.L. is a Romanian company registered in 2022, with its seat in Mogoșoaia. EU procurement records (TED) list a contract award by Unitatea Militara 0251 Bucuresti (05 Jan 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2022",
+            "Registered"
+          ],
+          [
+            "Mogoșoaia, Romania",
+            "Headquarters"
+          ],
+          [
+            "LEI 78720045UEAATT3ZF885",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2022",
+            "Registered"
+          ],
+          [
+            "Mogoșoaia, Romania",
+            "Headquarters"
+          ],
+          [
+            "LEI 78720045UEAATT3ZF885",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Unitatea Militara 0251 Bucuresti",
+            "sub": "TED notice 8595-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "05 Jan 2024",
+            "desc": "TED notice 8595-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Unitatea Militara 0251 Bucuresti",
+            "sub": "TED notice 8595-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "05 Jan 2024",
+            "desc": "TED notice 8595-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Unitatea Militara 0251 Bucuresti",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Unitatea Militara 0251 Bucuresti",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity CESS PLUS SOLUTIONS S.R.L., LEI 78720045UEAATT3ZF885",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/78720045UEAATT3ZF885"
+        },
+        {
+          "claim": "Contract award by Unitatea Militara 0251 Bucuresti (TED 8595-2024)",
+          "sources": 1,
+          "date": "05 Jan 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/8595-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Mogoșoaia",
+          "Registered office"
+        ]
+      ],
+      "card_hash": "a9e979f1e57b7db5"
+    },
+    "global-military-products-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "Global Military Products, Inc. is a US company registered in 2009, with its seat in Wilmington. US federal spending records list it as a recipient of contracts from the US Department of Defense.",
+        "overview": "Global Military Products, Inc. is a US company registered in 2009, with its seat in Wilmington. US federal spending records list it as a recipient of contracts from the US Department of Defense."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2009",
+            "Registered"
+          ],
+          [
+            "Wilmington, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 254900F1IGZUPUXNX726",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2009",
+            "Registered"
+          ],
+          [
+            "Wilmington, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 254900F1IGZUPUXNX726",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "US Department of Defense contracts",
+            "sub": "Recipient profile on USAspending.gov",
+            "status": "Contracts",
+            "icon": "landmark",
+            "date": "",
+            "desc": "Federal spending records",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "US Department of Defense contracts",
+            "sub": "Recipient profile on USAspending.gov",
+            "status": "Contracts",
+            "icon": "landmark",
+            "date": "",
+            "desc": "Federal spending records",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "US Department of Defense",
+            "role": "Customer · federal contracts",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "US Department of Defense",
+            "role": "Customer · federal contracts",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Global Military Products, Inc., LEI 254900F1IGZUPUXNX726",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/254900F1IGZUPUXNX726"
+        },
+        {
+          "claim": "Recipient of US Department of Defense contracts",
+          "sources": 1,
+          "date": "",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/8df2d6bc-e363-72b0-b415-bb999441a393-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Wilmington",
+          "Registered office"
+        ]
+      ],
+      "card_hash": "f94b0edec8f159c2"
+    },
+    "u-s-ordnance": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "U.S. ORDNANCE is a US company registered in 1997, with its seat in Mccarran. US federal spending records list it as a recipient of contracts from the US Department of Defense.",
+        "overview": "U.S. ORDNANCE is a US company registered in 1997, with its seat in Mccarran. US federal spending records list it as a recipient of contracts from the US Department of Defense."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1997",
+            "Registered"
+          ],
+          [
+            "Mccarran, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300NHNBDE0P2QVC41",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1997",
+            "Registered"
+          ],
+          [
+            "Mccarran, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300NHNBDE0P2QVC41",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "US Department of Defense contracts",
+            "sub": "Recipient profile on USAspending.gov",
+            "status": "Contracts",
+            "icon": "landmark",
+            "date": "",
+            "desc": "Federal spending records",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "US Department of Defense contracts",
+            "sub": "Recipient profile on USAspending.gov",
+            "status": "Contracts",
+            "icon": "landmark",
+            "date": "",
+            "desc": "Federal spending records",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "US Department of Defense",
+            "role": "Customer · federal contracts",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "US Department of Defense",
+            "role": "Customer · federal contracts",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity U.S. ORDNANCE, LEI 549300NHNBDE0P2QVC41",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/549300NHNBDE0P2QVC41"
+        },
+        {
+          "claim": "Recipient of US Department of Defense contracts",
+          "sources": 1,
+          "date": "",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/4981a525-8bf4-deb3-39fb-d794076e75c8-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Mccarran",
+          "Registered office"
+        ]
+      ],
+      "card_hash": "ec79174669ba74cb"
     }
   }
 }
