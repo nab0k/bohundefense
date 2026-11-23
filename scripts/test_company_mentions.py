@@ -48,5 +48,14 @@ class Mentions(unittest.TestCase):
         self.assertEqual(found("Defence Systems in Finland grow."), set())
 
 
+class FromNews(unittest.TestCase):
+    def test_record_without_country_still_links(self):  # owner 23.11.2026: "from the news, not verified"
+        directory = [{"name": "Saronic Technologies", "country": None, "status": "from_news"},
+                     {"name": "Nowhere Systems Ltd", "country": None, "status": "unverified_candidate"}]
+        items = [{"title": "Saronic Technologies and Nowhere Systems win a navy deal"}]
+        got = mentions(items[0], build_index(directory, {}, items))
+        self.assertEqual(got, [{"name": "Saronic Technologies", "country": "", "text": ["Saronic Technologies"]}])
+
+
 if __name__ == "__main__":
     unittest.main()

@@ -55,6 +55,16 @@ class CardsFromDb(unittest.TestCase):
         self.assertEqual(out['profiles_added'], [])
         self.assertEqual(json.loads((self.root / 'atlas/company-profiles-v1.json').read_text())['profiles'].get('patria-oyj'), before)
 
+    def test_companies_from_the_news_get_a_marked_catalogue_record(self):  # owner 23.11.2026
+        news = [{'name': 'Rocket Lab', 'country': 'US'}, {'name': 'Saronic Technologies', 'country': ''},
+                {'name': 'ROCKET LAB', 'country': 'US'}]
+        out = M.apply([], self.root, news)
+        self.assertEqual(out['news_added'], ['US Rocket Lab', '-- Saronic Technologies'])
+        rows = json.loads((self.root / 'atlas/companies-directory-v1.json').read_text())['companies']
+        rec = [r for r in rows if r['name'] == 'Saronic Technologies'][0]
+        self.assertEqual((rec['status'], rec['country'], rec['city']), ('from_news', None, None))
+        self.assertEqual(M.apply([], self.root, news)['news_added'], [])  # second run: no duplicates
+
     def test_incomplete_or_unplaceable_is_skipped(self):
         co = copy.deepcopy(CO)
         co['claims'] = [c for c in co['claims'] if c['ref'] != 'b4:level']

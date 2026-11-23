@@ -47,7 +47,9 @@ def fetch():
         sys.exit(f'RPC failed, HTTP status {e.code}; no credentials logged')
 
 
-def apply(companies, root):
+def apply(companies, root, news=()):
+    """news: [{'name', 'country'}] companies found in the news by FIELD (owner 23.11.2026): a catalogue record
+    with status 'from_news' ("From the news — not verified") so a news item can link to it; no profile, no map count."""
     root = Path(root)
     ppath, dpath = root / 'atlas/company-profiles-v1.json', root / 'atlas/companies-directory-v1.json'
     gpath, mpath = root / 'atlas/company-country-groups.geojson', root / 'atlas/notion-research-map.geojson'
@@ -83,7 +85,18 @@ def apply(companies, root):
             continue  # a published profile is never replaced
         profiles['profiles'][k] = build(co['company_id'], claims, sources, co['country'], co['reviewed'])
         added.append(f"{co['country']} {name}")
-    if added or catalogue:
+    names = {catalogue_norm(r['name']) for r in rows}
+    news_added = []
+    for n in news:
+        name, country = (n.get('name') or '').strip(), (n.get('country') or None)
+        key = catalogue_norm(name)
+        if not key or key in names:  # already in the catalogue under any country: no second record
+            continue
+        rows.append({'name': name, 'country': country, 'city': None, 'website': None, 'category': None,
+                     'about': None, 'status': 'from_news'})
+        names.add(key)
+        news_added.append(f"{country or '--'} {name}")
+    if added or catalogue or news_added:
         directory['total'] = len(rows)
         if SOURCE not in directory['sources']:
             directory['sources'].append(SOURCE)
@@ -91,21 +104,25 @@ def apply(companies, root):
         ppath.write_text(json.dumps(profiles, ensure_ascii=False, indent=2))
         dpath.write_text(json.dumps(directory, ensure_ascii=False, separators=(',', ':')))
         gpath.write_text(json.dumps(groups, ensure_ascii=False))
-    return {'profiles_added': added, 'catalogue_added': catalogue, 'skipped': skipped,
+    return {'profiles_added': added, 'catalogue_added': catalogue, 'news_added': news_added, 'skipped': skipped,
             'profiles_total': len(profiles['profiles']), 'catalogue_total': len(rows)}
 
 
 if __name__ == '__main__':
     data = json.loads(Path(sys.argv[1]).read_text()) if len(sys.argv) > 1 else fetch()
-    result = apply(data or [], '.')
+    if isinstance(data, dict):  # FIELD dispatch since 23.11.2026: {"cards": [...], "catalogue": [...]}
+        result = apply(data.get('cards') or [], '.', data.get('catalogue') or [])
+    else:
+        result = apply(data or [], '.')
     print(json.dumps(result, ensure_ascii=False, indent=1))
     out = os.environ.get('GITHUB_OUTPUT')
     if out:
         with open(out, 'a') as f:
-            f.write(f"added={len(result['profiles_added'])}\n")
+            f.write(f"added={len(result['profiles_added']) + len(result['news_added'])}\n")
     body = Path('company-cards-summary.md')
     body.write_text('Company cards from the database (autofill, B4CE-04 step 3.5).\n\n'
                     + f"Profiles added: {len(result['profiles_added'])}; catalogue records added: {len(result['catalogue_added'])}; "
+                    + f"companies from the news added to the catalogue (not verified): {len(result['news_added'])}; "
                     + f"total profiles {result['profiles_total']}, catalogue {result['catalogue_total']}.\n\n"
                     + ''.join(f'- {a}\n' for a in result['profiles_added'])
                     + ('\nSkipped:\n' + ''.join(f'- {n}: {why}\n' for n, why in result['skipped']) if result['skipped'] else ''))

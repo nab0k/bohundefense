@@ -80,6 +80,7 @@ export const STATUS_LABEL = {
   unverified_candidate: 'Unverified research candidate',
   research_publishable: 'Research index record',
   published_dataset: 'Published dataset entry',
+  from_news: 'From the news — not verified',
 };
 
 export const norm = s => String(s || '').normalize('NFKC').trim().toLocaleLowerCase();
