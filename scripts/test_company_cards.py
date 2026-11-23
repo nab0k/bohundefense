@@ -71,12 +71,14 @@ class CardsFromDb(unittest.TestCase):
         self.assertEqual(M.apply([co], self.root)['profiles_updated'], [])  # same claims again: no rebuild
 
     def test_companies_from_the_news_get_a_marked_catalogue_record(self):  # owner 23.11.2026
-        news = [{'name': 'Rocket Lab', 'country': 'US'}, {'name': 'Saronic Technologies', 'country': ''},
-                {'name': 'ROCKET LAB', 'country': 'US'}]
+        # made-up names: the test runs on a copy of the live catalogue, which real news companies reach too
+        # (23.11.2026 a publication part with Rocket Lab and Saronic stopped on this test)
+        news = [{'name': 'Testnews Rocketworks', 'country': 'US'}, {'name': 'Testnews Seadrones', 'country': ''},
+                {'name': 'TESTNEWS ROCKETWORKS', 'country': 'US'}]
         out = M.apply([], self.root, news)
-        self.assertEqual(out['news_added'], ['US Rocket Lab', '-- Saronic Technologies'])
+        self.assertEqual(out['news_added'], ['US Testnews Rocketworks', '-- Testnews Seadrones'])
         rows = json.loads((self.root / 'atlas/companies-directory-v1.json').read_text())['companies']
-        rec = [r for r in rows if r['name'] == 'Saronic Technologies'][0]
+        rec = [r for r in rows if r['name'] == 'Testnews Seadrones'][0]
         self.assertEqual((rec['status'], rec['country'], rec['city']), ('from_news', None, None))
         self.assertEqual(M.apply([], self.root, news)['news_added'], [])  # second run: no duplicates
 
