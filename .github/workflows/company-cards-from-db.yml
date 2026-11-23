@@ -11,15 +11,22 @@ on:
       cards_gz_b64:
         description: 'Cards from the FIELD autofill (gzip + base64 JSON); empty = read the database'
         default: ''
+      publish:
+        description: 'Publish on main at once (D-20261123-COMPANY-CARDS-AUTOPUBLISH); false = pull request'
+        default: 'false'
+      then_feed:
+        description: 'Refresh the synthesis feed after the cards (so new texts link to them)'
+        default: 'false'
   schedule:
     - cron: '50 4 * * *'
 
 permissions:
   contents: write
   pull-requests: write
+  actions: write
 
 concurrency:
-  group: company-cards-from-db
+  group: source-wire-refresh  # shared with the feed job: both push to main
   cancel-in-progress: false
 
 jobs:
@@ -41,7 +48,7 @@ jobs:
           if [ "$n" != "0" ]; then echo "An auto/company-cards pull request is open; it is updated after release"; fi
       - name: Build cards
         id: cards
-        if: steps.open.outputs.count == '0'
+        if: steps.open.outputs.count == '0' || github.event.inputs.publish == 'true'
         env:
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
           CARDS: ${{ github.event.inputs.cards_gz_b64 }}
@@ -57,8 +64,21 @@ jobs:
         run: |
           python -c "import json; [json.load(open(f)) for f in ('atlas/company-profiles-v1.json','atlas/companies-directory-v1.json','atlas/company-country-groups.geojson')]; print('json ok')"
           python -m unittest discover -s scripts -p 'test_*.py'
+      - name: Publish on main (automatic, owner 23.11.2026)
+        if: success() && github.event.inputs.publish == 'true' && steps.cards.outputs.added != '' && steps.cards.outputs.added != '0'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add atlas/company-profiles-v1.json atlas/companies-directory-v1.json atlas/company-country-groups.geojson
+          git commit -m "data(companies): cards and news companies, published automatically (D-20261123-COMPANY-CARDS-AUTOPUBLISH)"
+          for i in 1 2 3; do git pull --rebase origin main && git push origin HEAD:main && break; sleep 5; done
+      - name: Refresh the feed after the cards
+        if: always() && github.event.inputs.then_feed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run automatic-synthesis-feed.yml --ref main || echo "feed refresh not started; the feed schedule stays"
       - name: Pull request
-        if: steps.cards.outputs.added != '' && steps.cards.outputs.added != '0'
+        if: github.event.inputs.publish != 'true' && steps.cards.outputs.added != '' && steps.cards.outputs.added != '0'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
