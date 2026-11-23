@@ -47482,6 +47482,194 @@
         ]
       ],
       "card_hash": "003ec064f335a661"
+    },
+    "mortar-investments-a-s": {
+      "developments": [],
+      "country": "CZ",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "MORTAR INVESTMENTS a.s. is a Czech company registered in 2006, with its seat in Praha.",
+        "overview": "MORTAR INVESTMENTS a.s. is a Czech company registered in 2006, with its seat in Praha."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2006",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 27442233",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2006",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 27442233",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity MORTAR INVESTMENTS a.s., IČO 27442233",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/27442233"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Praha",
+          "Registered office"
+        ]
+      ],
+      "card_hash": "5fc53c2638893ec0"
+    },
+    "rescue-trailer-s-r-o": {
+      "developments": [],
+      "country": "CZ",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Rescue Trailer s.r.o. is a Czech company registered in 2023, with its seat in Chrastava.",
+        "overview": "Rescue Trailer s.r.o. is a Czech company registered in 2023, with its seat in Chrastava."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2023",
+            "Registered"
+          ],
+          [
+            "Chrastava, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 17901839",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2023",
+            "Registered"
+          ],
+          [
+            "Chrastava, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 17901839",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Rescue Trailer s.r.o., IČO 17901839",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/17901839"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Chrastava",
+          "Registered office"
+        ]
+      ],
+      "card_hash": "9c537ded9a677297"
     }
   }
 }
