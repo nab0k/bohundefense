@@ -47294,6 +47294,194 @@
         ]
       ],
       "card_hash": "235f5dc4fa557ce3"
+    },
+    "forte-a-s": {
+      "developments": [],
+      "country": "CZ",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "FORTE a.s. is a Czech company registered in 1997, with its seat in Mostkovice.",
+        "overview": "FORTE a.s. is a Czech company registered in 1997, with its seat in Mostkovice."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1997",
+            "Registered"
+          ],
+          [
+            "Mostkovice, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 25322303",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1997",
+            "Registered"
+          ],
+          [
+            "Mostkovice, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 25322303",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity FORTE a.s., IČO 25322303",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/25322303"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Mostkovice",
+          "Registered office"
+        ]
+      ],
+      "card_hash": "d4852d9812f1742c"
+    },
+    "savox-communications-oyj": {
+      "developments": [],
+      "country": "FI",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Savox Communications Oyj is a Finnish company registered in 1995, with its seat in Espoo.",
+        "overview": "Savox Communications Oyj is a Finnish company registered in 1995, with its seat in Espoo."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1995",
+            "Registered"
+          ],
+          [
+            "Espoo, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 1031081-1",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1995",
+            "Registered"
+          ],
+          [
+            "Espoo, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 1031081-1",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Savox Communications Oyj, Y-tunnus 1031081-1",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=1031081-1"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Espoo",
+          "Registered office"
+        ]
+      ],
+      "card_hash": "003ec064f335a661"
     }
   }
 }
