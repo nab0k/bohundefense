@@ -30,8 +30,9 @@ def completeness(r):  # same as scripts/build-company-publication.py
 def fetch():
     base = os.environ.get('SUPABASE_URL', 'https://tecrucawzukxqtchpxrh.supabase.co').rstrip('/')
     key = os.environ.get('SUPABASE_SERVICE_ROLE_KEY', '')
-    if not key:
-        sys.exit('SUPABASE_SERVICE_ROLE_KEY not configured; site files unchanged')
+    if not key:  # the FIELD job sends the cards with the dispatch; the daily fallback has nothing to read
+        print('no cards in the dispatch and no SUPABASE_SERVICE_ROLE_KEY; site files unchanged')
+        return []
     headers = {'apikey': key, 'Content-Type': 'application/json'}
     if key.startswith('eyJ'):
         headers['Authorization'] = 'Bearer ' + key
@@ -40,6 +41,9 @@ def fetch():
         with urllib.request.urlopen(req, timeout=60) as r:
             return json.load(r)
     except urllib.error.HTTPError as e:
+        if e.code in (401, 403):  # a stale key must not fail the daily fallback; the FIELD dispatch carries the cards
+            print(f'RPC refused the key (HTTP {e.code}); site files unchanged')
+            return []
         sys.exit(f'RPC failed, HTTP status {e.code}; no credentials logged')
 
 
