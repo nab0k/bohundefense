@@ -49104,6 +49104,156 @@
         ]
       ],
       "card_hash": "ec79174669ba74cb"
+    },
+    "def-spec-sp-z-o-o": {
+      "developments": [
+        {
+          "date": "25 Jun 2024",
+          "title": "Contract award by Jednostka Wojskowa Nr 4026",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/374737-2024"
+        }
+      ],
+      "country": "PL",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "\"DEF-SPEC\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ is a Polish company registered in 2013, with its seat in Lubin. EU procurement records (TED) list a contract award by Jednostka Wojskowa Nr 4026 (25 Jun 2024).",
+        "overview": "\"DEF-SPEC\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ is a Polish company registered in 2013, with its seat in Lubin. EU procurement records (TED) list a contract award by Jednostka Wojskowa Nr 4026 (25 Jun 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2013",
+            "Registered"
+          ],
+          [
+            "Lubin, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000456864",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2013",
+            "Registered"
+          ],
+          [
+            "Lubin, Poland",
+            "Headquarters"
+          ],
+          [
+            "KRS 0000456864",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Jednostka Wojskowa Nr 4026",
+            "sub": "TED notice 374737-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "25 Jun 2024",
+            "desc": "TED notice 374737-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Jednostka Wojskowa Nr 4026",
+            "sub": "TED notice 374737-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "25 Jun 2024",
+            "desc": "TED notice 374737-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Jednostka Wojskowa Nr 4026",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Jednostka Wojskowa Nr 4026",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity \"DEF-SPEC\" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ, KRS 0000456864",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://api-krs.ms.gov.pl/api/krs/OdpisAktualny/0000456864?rejestr=P&format=json"
+        },
+        {
+          "claim": "Contract award by Jednostka Wojskowa Nr 4026 (TED 374737-2024)",
+          "sources": 1,
+          "date": "25 Jun 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/374737-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Lubin",
+          "Registered office"
+        ]
+      ],
+      "card_hash": "251aa1fcc7cba822"
     }
   }
 }
