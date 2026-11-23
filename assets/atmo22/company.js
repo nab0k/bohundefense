@@ -337,10 +337,13 @@ function wsRows(vm) {
   }
   const filled = [has.products && productTree(vm), has.technologies && technologies(vm)].filter(Boolean).join('');
   const missing = [!has.classification && 'Industrial classification', !has.products && 'Products', !has.technologies && 'Technologies'].filter(Boolean);
-  return `<div class="row ws-main">${programmes(vm, true)}${developments(vm, true)}</div>
+  // owner 23.11.2026 «что с нумерацией блоков?»: panels are numbered in the order they appear, not by their fixed id
+  let n = 0;
+  const renumber = html => html.replace(/<span class="p-num">\d+\.<\/span>/g, () => `<span class="p-num">${String(++n).padStart(2, '0')}.</span>`);
+  return renumber(`<div class="row ws-main">${programmes(vm, true)}${developments(vm, true)}</div>
        <div class="row ws-side">${relationships(vm, true)}${evidence(vm, true)}${filled}</div>
        ${has.classification ? `<div class="row ws-full">${classification(vm, true)}</div>` : ''}
-       <p class="ws-pending">${icon('circle-dot', 'ico ico-s')}<b>Not assessed yet:</b> ${missing.map(esc).join(' · ')}. These sections appear once they are backed by sources.</p>`;
+       <p class="ws-pending">${icon('circle-dot', 'ico ico-s')}<b>Not assessed yet:</b> ${missing.map(esc).join(' · ')}. These sections appear once they are backed by sources.</p>`);
 }
 
 /* ---------- page ---------- */
