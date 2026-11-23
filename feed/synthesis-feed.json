@@ -3,6 +3,797 @@
   "notice": "Syntheses prepared by machine from open sources and approved by the editor. Check the sources.",
   "items": [
     {
+      "id": "syn-1245",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-20",
+      "title": "Türkiye Inducts First Three Bayraktar Kızılelma Unmanned Fighter Aircraft",
+      "summary": "Türkiye officially inducted the first three production units of the Bayraktar Kızılelma into its security forces' inventory following the completion of acceptance trials.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Türkiye officially inducted the first three production units of the Bayraktar Kızılelma into its security forces' inventory following the completion of acceptance trials."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "20 Jul 2021: Conceptual design renderings of the MİUS / KIZILELMA platform publicly unveiled by Baykar.",
+            "8 Oct 2025: Conducts first successful live-fire weapons tests utilizing TOLUN and TEBER-82 precision-guided munitions (Testing).",
+            "29 Nov 2025: Performs historic air-to-air beyond-visual-range (BVR) engagement test, destroying a target drone with a Gökdoğan missile guided by Aselsan's MURAD AESA radar.",
+            "28 Dec 2025: Completes world's first autonomous close-formation flight involving two unmanned fighter jets using smart-fleet autonomy algorithms.",
+            "20 May 2026: Conducts autonomous cooperative formation flight with Italian M-346 trainer aircraft, demonstrating manned-unmanned teaming capabilities (Agreement).",
+            "13 Jul 2026: Successfully engages target using a JET-230 supersonic ballistic missile from internal bays.",
+            "19 Nov 2026: First three production units officially complete acceptance trials and are inducted into Turkish security forces' inventory (Testing)."
+          ],
+          "list": true,
+          "links": [
+            "https://baykartech.com/en/press/a-first-in-global-aviation-history-kizilelma-enters-turkiyes-inventory/",
+            "https://clashreport.com/defense/articles/baykar-kizilelma-three-jets-delivered-inventory-ebocdfqgwhj",
+            "https://en.wikipedia.org/wiki/Bayraktar_K%C4%B1z%C4%B1lelma",
+            "https://aeromorning.com/en/baykar-technology-reports-major-milestones-for-bayraktar-kizilelma-unmanned-fighter-jet/",
+            "https://clashreport.com/defense/articles/baykar-kizilelma-three-jets-delivered-inventory-ebocdfqgwhj",
+            "https://clashreport.com/defense/articles/baykar-kizilelma-three-jets-delivered-inventory-ebocdfqgwhj",
+            "https://baykartech.com/en/press/a-first-in-global-aviation-history-kizilelma-enters-turkiyes-inventory/"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Since Baykar publicly unveiled the conceptual design in July 2021, the Kızılelma program has progressed through maiden flight, live-fire weapons integration with Aselsan's MURAD radar, and autonomous formation testing, culminating in its 2026 operational induction."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Bayraktar KIZILELMA depends on Aselsan (Türkiye) — Active Electronically Scanned Array (AESA) Radar (MURAD)."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence procurement and supply chain professionals should monitor Baykar and Aselsan as unmanned combat aircraft transition from flight testing to active military inventories."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Türkiye officially inducted the first three production units of the Bayraktar Kızılelma into its security forces' inventory following the completion of acceptance trials.",
+        "Context: 20 Jul 2021: Conceptual design renderings of the MİUS / KIZILELMA platform publicly unveiled by Baykar. 8 Oct 2025: Conducts first successful live-fire weapons tests utilizing TOLUN and TEBER-82 precision-guided munitions (Testing). 29 Nov 2025: Performs historic air-to-air beyond-visual-range (BVR) engagement test, destroying a target drone with a Gökdoğan missile guided by Aselsan's MURAD AESA radar. 28 Dec 2025: Completes world's first autonomous close-formation flight involving two unmanned fighter jets using smart-fleet autonomy algorithms. 20 May 2026: Conducts autonomous cooperative formation flight with Italian M-346 trainer aircraft, demonstrating manned-unmanned teaming capabilities (Agreement). 13 Jul 2026: Successfully engages target using a JET-230 supersonic ballistic missile from internal bays. 19 Nov 2026: First three production units officially complete acceptance trials and are inducted into Turkish security forces' inventory (Testing).",
+        "The bigger picture: Since Baykar publicly unveiled the conceptual design in July 2021, the Kızılelma program has progressed through maiden flight, live-fire weapons integration with Aselsan's MURAD radar, and autonomous formation testing, culminating in its 2026 operational induction.",
+        "Down the supply chain: Bayraktar KIZILELMA depends on Aselsan (Türkiye) — Active Electronically Scanned Array (AESA) Radar (MURAD).",
+        "Why it matters: Defence procurement and supply chain professionals should monitor Baykar and Aselsan as unmanned combat aircraft transition from flight testing to active military inventories.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "TheDefenseWatch.com",
+          "url": "https://thedefensewatch.com/aerospace-aviation/bayraktar-kizilelma-enters-turkish-military-service/"
+        }
+      ],
+      "place": {
+        "label": "Istanbul, Turkey",
+        "lat": 41.0082,
+        "lon": 28.9784
+      }
+    },
+    {
+      "id": "syn-1246",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-21",
+      "title": "U.S. Navy adds $72.6M to accelerate F‑35 Block 4 software, tightening schedule",
+      "summary": "The award, announced on 20 Nov 2026, adds scope and raises the contract ceiling.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "The award, announced on 20 Nov 2026, adds scope and raises the contract ceiling."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1994: The Department of Defense merged separate service projects to form the Joint Strike Fighter program, setting the path for common multirole stealth aircraft.",
+            "2 Aug 2016: The U.S. Air Force declared IOC for the F-35A variant.",
+            "28 Feb 2019: The U.S. Navy declared IOC for the carrier-based F-35C variant.",
+            "Apr 2023: Technology Refresh 3 (TR-3) hardware/software suite encountered delivery constraints, becoming the critical path bottleneck for Block 4 integration.",
+            "Mar 2024: The Department of Defense formally approved Milestone C, transitioning the F-35 program into full-rate production (Approved).",
+            "22 Oct 2026: Lockheed Martin and the Department of War announced a multiyear framework agreement covering up to 850 U.S. aircraft across Lots 21–30 and ongoing modification support (Agreement).",
+            "20 Nov 2026: The U.S. Navy issued contract modification P00047 worth $72.6 million to accelerate F-35 Block 4 software and cybersecurity enhancements (Contract, USD 72.581 million)."
+          ],
+          "list": true,
+          "links": [
+            "https://thedisorderofthings.com/2014/05/16/aircraft-stories-the-f-35-joint-strike-fighter-part-i/",
+            "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_development",
+            "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_development",
+            "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_development",
+            "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_development",
+            "https://news.lockheedmartin.com/2026-10-22-New-Framework-Agreement-for-Multiyear-F-35-Production-and-Sustainment",
+            "https://wisevoter.com/world/us/2026/11/21/navy-adds-72-6m-lockheed-f35-block4-contract"
+          ]
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "L3Harris Technologies depends on Integrated Core Processor (ICP) hardware supporting TR-3 and Block 4 upgrades — Mission Processor."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Program managers and suppliers such as Lockheed Martin and L3Harris should prioritize software integration and secure the ICP hardware supply to meet the accelerated Block 4 schedule."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "The award, announced on 20 Nov 2026, adds scope and raises the contract ceiling.",
+        "Context: 1994: The Department of Defense merged separate service projects to form the Joint Strike Fighter program, setting the path for common multirole stealth aircraft. 2 Aug 2016: The U.S. Air Force declared IOC for the F-35A variant. 28 Feb 2019: The U.S. Navy declared IOC for the carrier-based F-35C variant. Apr 2023: Technology Refresh 3 (TR-3) hardware/software suite encountered delivery constraints, becoming the critical path bottleneck for Block 4 integration. Mar 2024: The Department of Defense formally approved Milestone C, transitioning the F-35 program into full-rate production (Approved). 22 Oct 2026: Lockheed Martin and the Department of War announced a multiyear framework agreement covering up to 850 U.S. aircraft across Lots 21–30 and ongoing modification support (Agreement). 20 Nov 2026: The U.S. Navy issued contract modification P00047 worth $72.6 million to accelerate F-35 Block 4 software and cybersecurity enhancements (Contract, USD 72.581 million).",
+        "Down the supply chain: L3Harris Technologies depends on Integrated Core Processor (ICP) hardware supporting TR-3 and Block 4 upgrades — Mission Processor.",
+        "Why it matters: Program managers and suppliers such as Lockheed Martin and L3Harris should prioritize software integration and secure the ICP hardware supply to meet the accelerated Block 4 schedule.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "DefenseBook",
+          "url": "https://defensebook.com/lockheed-martin-gets-72-6m-more-to-speed-up-f-35-block-4-software-development/"
+        }
+      ],
+      "place": {
+        "label": "Fort Worth, Texas",
+        "lat": 32.7555,
+        "lon": -97.3308
+      }
+    },
+    {
+      "id": "syn-1257",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-21",
+      "title": "Trump to Keynote Reagan National Defense Forum",
+      "summary": "President Donald Trump is scheduled to deliver the keynote address at the 13th annual Reagan National Defense Forum at the Reagan Presidential Library in Simi Valley, California.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "President Donald Trump is scheduled to deliver the keynote address at the 13th annual Reagan National Defense Forum at the Reagan Presidential Library in Simi Valley, California."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "7 Dec 2019: The 7th annual RNDF brought together top congressional and defense industry leaders to debate the health of the national defense and multi-year defense funding priorities.",
+            "Dec 2023: The 11th annual RNDF featured keynote addresses from defense leadership centering on defense innovation, artificial intelligence integration, and the theme \"Ten Years of Promoting Peace Through Strength\".",
+            "6 Dec 2024: The 12th annual RNDF convened defense stakeholders to debate security assistance funding, supply chain constraints, and transatlantic defense cooperation.",
+            "21 Apr 2026: The submission of the President's Fiscal Year 2027 Defense Budget request outlined core defense funding lines and capability targets.",
+            "20 Nov 2026: The Ronald Reagan Presidential Foundation and Institute officially announced that President Donald J. Trump will deliver the keynote address at the upcoming 13th annual RNDF under the theme \"Rebuilding Strength, Restoring Peace\" (Plan)."
+          ],
+          "list": true,
+          "links": [
+            "https://www.mckeongrp.com/reagan-national-defense-forum-continues-to-be-a-success",
+            "https://sfvnewsportal.town.news/g/los-angeles-ca/n/227299/reagan-national-defense-forum-2023",
+            "https://www.mckeongrp.com/reagan-national-defense-forum-continues-to-be-a-success",
+            "https://www.mckeongrp.com/reagan-national-defense-forum-continues-to-be-a-success",
+            "https://www.mckeongrp.com/reagan-national-defense-forum-continues-to-be-a-success"
+          ]
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base.",
+            "US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "The Reagan National Defense Forum has evolved from a multi-year funding debate platform into a key convergence point for defense leadership, technology startups, and administration priorities Signal: presidential engagement underscores the growing alignment between political leadership and defense tech hubs."
+          ],
+          "list": false
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense business development and procurement professionals should monitor the keynote for signals regarding administration defense priorities and industrial base engagement."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "President Donald Trump is scheduled to deliver the keynote address at the 13th annual Reagan National Defense Forum at the Reagan Presidential Library in Simi Valley, California.",
+        "Context: 7 Dec 2019: The 7th annual RNDF brought together top congressional and defense industry leaders to debate the health of the national defense and multi-year defense funding priorities. Dec 2023: The 11th annual RNDF featured keynote addresses from defense leadership centering on defense innovation, artificial intelligence integration, and the theme \"Ten Years of Promoting Peace Through Strength\". 6 Dec 2024: The 12th annual RNDF convened defense stakeholders to debate security assistance funding, supply chain constraints, and transatlantic defense cooperation. 21 Apr 2026: The submission of the President's Fiscal Year 2027 Defense Budget request outlined core defense funding lines and capability targets. 20 Nov 2026: The Ronald Reagan Presidential Foundation and Institute officially announced that President Donald J. Trump will deliver the keynote address at the upcoming 13th annual RNDF under the theme \"Rebuilding Strength, Restoring Peace\" (Plan).",
+        "Policy direction: US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base. US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress.",
+        "The bigger picture: The Reagan National Defense Forum has evolved from a multi-year funding debate platform into a key convergence point for defense leadership, technology startups, and administration priorities Signal: presidential engagement underscores the growing alignment between political leadership and defense tech hubs.",
+        "Why it matters: Defense business development and procurement professionals should monitor the keynote for signals regarding administration defense priorities and industrial base engagement.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "The Defense Log",
+          "url": "https://thedefenselog.com/trump-reagan-national-defense-forum-keynote/"
+        }
+      ],
+      "place": {
+        "label": "Simi Valley",
+        "lat": 34.2694,
+        "lon": -118.7815
+      }
+    },
+    {
+      "id": "syn-1280",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-21",
+      "title": "Babcock installs masts on Type 31 frigate HMS Active",
+      "summary": "Babcock fitted the 48-tonne combined forward and mid masts to HMS Active using the 68-metre Goliath crane at Rosyth.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Babcock fitted the 48-tonne combined forward and mid masts to HMS Active using the 68-metre Goliath crane at Rosyth."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "15 Nov 2019: UK Ministry of Defence formally awards Babcock International Group a £1.25 billion contract to design and build five Type 31 general-purpose frigates (Contract).",
+            "23 Sep 2025: Babcock and BAE Systems Bofors sign a long-term in-service support agreement for the 40mm and 57mm naval gun systems (Agreement).",
+            "9 Dec 2025: Keel is laid for the third Type 31 frigate, HMS Formidable.",
+            "24 Feb 2026: HMS Active is rolled out of the Venturer Hall at Rosyth.",
+            "25 Mar 2026: HMS Active enters the water for the first time during a local float-off operation.",
+            "13 May 2026: Babcock announces a £140 million non-recurring contract charge/loss provision due to design changes and higher-than-expected rework during outfitting (Contract).",
+            "21 Nov 2026: Forward and mid masts (combined weight of 48 tonnes) are installed on HMS Active using the Rosyth Goliath crane."
+          ],
+          "list": true,
+          "links": [
+            "https://en.wikipedia.org/wiki/Type_31_frigate",
+            "https://www.themanufacturer.com/articles/babcock-and-bae-systems-bofors-partner-to-support-type-31-frigate-guns/",
+            "https://militarnyi.com/en/news/delivery-of-first-british-type-31-frigate-delayed-by-two-years-until-2028/",
+            "https://www.navaltoday.com/2026/11/20/construction-milestone-reached-for-uks-second-type-31-frigate",
+            "https://www.navaltoday.com/2026/11/20/construction-milestone-reached-for-uks-second-type-31-frigate",
+            "https://ukdefencejournal.org.uk/babcock-raises-type-31-frigate-cost-estimate-after-outfit/",
+            "https://www.navaltoday.com/2026/11/20/construction-milestone-reached-for-uks-second-type-31-frigate"
+          ]
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Combat Management System & Radars depends on Thales Nederland (Netherlands/UK) — provides the TACTICOS combat management system and NS110 4D AESA radar.",
+            "Naval Gun Systems depends on BAE Systems Bofors (Sweden) — supplies the 57mm Mk3 and 40mm Mk4 main gun systems.",
+            "Gearboxes depends on Renk Group (Germany) — supplies the reduction gearboxes."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Supply chain and procurement professionals should monitor Rosyth outfitting schedules and cost provisions to manage component delivery timelines."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Babcock fitted the 48-tonne combined forward and mid masts to HMS Active using the 68-metre Goliath crane at Rosyth.",
+        "Context: 15 Nov 2019: UK Ministry of Defence formally awards Babcock International Group a £1.25 billion contract to design and build five Type 31 general-purpose frigates (Contract). 23 Sep 2025: Babcock and BAE Systems Bofors sign a long-term in-service support agreement for the 40mm and 57mm naval gun systems (Agreement). 9 Dec 2025: Keel is laid for the third Type 31 frigate, HMS Formidable. 24 Feb 2026: HMS Active is rolled out of the Venturer Hall at Rosyth. 25 Mar 2026: HMS Active enters the water for the first time during a local float-off operation. 13 May 2026: Babcock announces a £140 million non-recurring contract charge/loss provision due to design changes and higher-than-expected rework during outfitting (Contract). 21 Nov 2026: Forward and mid masts (combined weight of 48 tonnes) are installed on HMS Active using the Rosyth Goliath crane.",
+        "Down the supply chain: Combat Management System & Radars depends on Thales Nederland (Netherlands/UK) — provides the TACTICOS combat management system and NS110 4D AESA radar. Naval Gun Systems depends on BAE Systems Bofors (Sweden) — supplies the 57mm Mk3 and 40mm Mk4 main gun systems. Gearboxes depends on Renk Group (Germany) — supplies the reduction gearboxes.",
+        "Why it matters: Supply chain and procurement professionals should monitor Rosyth outfitting schedules and cost provisions to manage component delivery timelines.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "UK Defence Journal",
+          "url": "https://ukdefencejournal.org.uk/british-frigate-hms-active-takes-shape-in-scotland/"
+        },
+        {
+          "n": 2,
+          "title": "The Defense Log",
+          "url": "https://thedefenselog.com/hms-active-type-31-frigate-masts/"
+        }
+      ],
+      "place": {
+        "label": "Rosyth",
+        "lat": 56.03,
+        "lon": -3.44
+      },
+      "companies": [
+        {
+          "name": "Thales Nederland",
+          "country": "NL",
+          "text": [
+            "Thales Nederland"
+          ]
+        },
+        {
+          "name": "RENK Group AG",
+          "country": "DE",
+          "text": [
+            "Renk Group"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "syn-1282",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-21",
+      "title": "UN Confirms 1,630+ Drone Deaths in Sudan",
+      "summary": "The UN Human Rights Office reported that drone strikes killed over 1,630 civilians out of 2,230 total verified deaths between January and October 2026.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "The UN Human Rights Office reported that drone strikes killed over 1,630 civilians out of 2,230 total verified deaths between January and October 2026."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "15 Apr 2023: Outbreak of armed conflict across Sudan between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF), immediately triggering widespread international monitoring.",
+            "May 2026: Human Rights Watch publishes \"From Bogotá to El Fasher,\" documenting the deployment of foreign mercenary drone operators supporting RSF operations.",
+            "30 Jun 2026: OHCHR mid-year figures record at least 1,390 civilian deaths in the first half of 2026, with over 80 percent attributed directly to drone strikes.",
+            "12 Oct 2026: Integrated Food Security Phase Classification (IPC) flags severe famine risks across Darfur and Kordofan driven by infrastructure and market drone destruction.",
+            "23 Oct 2026: UN High Commissioner for Human Rights Volker Türk strongly condemns a fresh wave of drone attacks targeting electrical grids and fuel depots across 11 states.",
+            "17 Nov 2026: OHCHR publishes its comprehensive 10-month assessment confirming over 1,630 drone-related civilian fatalities out of 2,230 total deaths between January and October 2026."
+          ],
+          "list": true,
+          "links": [
+            "https://thedefensepost.com/2026/11/19/drone-strikes-civilians-sudan/",
+            "https://www.ungeneva.org/en/news-media/press-briefing/2026/11/un-geneva-press-briefing-2",
+            "https://thedefensepost.com",
+            "https://www.ungeneva.org/en/news-media/press-briefing/2026/11/un-geneva-press-briefing-2",
+            "https://www.ungeneva.org/en/news-media/press-briefing/2026/11/un-geneva-press-briefing-2",
+            "https://www.ungeneva.org/en/news-media/press-briefing/2026/11/un-geneva-press-briefing-2"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Since the conflict's 2023 outbreak, uncrewed aerial systems have evolved into the primary driver of civilian casualties and infrastructure collapse across Sudan, signaling a heavy reliance on illicitly sourced commercial components and foreign contractors."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Military Uncrewed Aerial Systems (UAS) utilized in the Sudanese conflict (including fixed-wing strike/reconnaissance drones like China's FH-95 used by SAF, and auxiliary systems operated by RSF networks) depends on Commercial off-the-shelf (COTS) flight controllers, GPS/GNSS navigation modules, and encrypted telemetry data links."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense supply chain and compliance professionals should tighten screening on dual-use COTS flight controllers, GNSS modules, and telemetry links to prevent diversion to embargoed actors."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "The UN Human Rights Office reported that drone strikes killed over 1,630 civilians out of 2,230 total verified deaths between January and October 2026.",
+        "Context: 15 Apr 2023: Outbreak of armed conflict across Sudan between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF), immediately triggering widespread international monitoring. May 2026: Human Rights Watch publishes \"From Bogotá to El Fasher,\" documenting the deployment of foreign mercenary drone operators supporting RSF operations. 30 Jun 2026: OHCHR mid-year figures record at least 1,390 civilian deaths in the first half of 2026, with over 80 percent attributed directly to drone strikes. 12 Oct 2026: Integrated Food Security Phase Classification (IPC) flags severe famine risks across Darfur and Kordofan driven by infrastructure and market drone destruction. 23 Oct 2026: UN High Commissioner for Human Rights Volker Türk strongly condemns a fresh wave of drone attacks targeting electrical grids and fuel depots across 11 states. 17 Nov 2026: OHCHR publishes its comprehensive 10-month assessment confirming over 1,630 drone-related civilian fatalities out of 2,230 total deaths between January and October 2026.",
+        "The bigger picture: Since the conflict's 2023 outbreak, uncrewed aerial systems have evolved into the primary driver of civilian casualties and infrastructure collapse across Sudan, signaling a heavy reliance on illicitly sourced commercial components and foreign contractors.",
+        "Down the supply chain: Military Uncrewed Aerial Systems (UAS) utilized in the Sudanese conflict (including fixed-wing strike/reconnaissance drones like China's FH-95 used by SAF, and auxiliary systems operated by RSF networks) depends on Commercial off-the-shelf (COTS) flight controllers, GPS/GNSS navigation modules, and encrypted telemetry data links.",
+        "Why it matters: Defense supply chain and compliance professionals should tighten screening on dual-use COTS flight controllers, GNSS modules, and telemetry links to prevent diversion to embargoed actors.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Sudan: UN report details deadly civilian impact of surge in drone strikes",
+          "url": "https://www.ohchr.org/en/press-releases/2026/11/sudan-un-report-details-dearly-impact-up-of-sunge-in-drone-strikes"
+        },
+        {
+          "n": 2,
+          "title": "Defense And Tech",
+          "url": "https://defenseandtech.com/un-report-drone-strikes-sudan-civilian-deaths-2026/"
+        }
+      ],
+      "place": {
+        "label": "Khartoum",
+        "lat": 15.5,
+        "lon": 32.53
+      }
+    },
+    {
+      "id": "syn-1283",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-21",
+      "title": "Saab licences MAPAM mortar production to Poland amid global defence partnership surge",
+      "summary": "Saab has signed a licensing agreement with Polish defence company Dezamet to produce MAPAM mortar munitions in Poland.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Saab has signed a licensing agreement with Polish defence company Dezamet to produce MAPAM mortar munitions in Poland."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "15 Nov 2017: The ARA San Juan (TR-1700 class) is lost at sea with 44 crew members, leaving Argentina without operational submarine capabilities.",
+            "May 2023: Preliminary discussions begin regarding prospective foreign partnerships to reconstitute the submarine arm, focusing on European builders.",
+            "Oct 2024: Argentine Defense Minister Luis Petri signs a Letter of Intent (LoI) with France during a visit to Paris, initiating formal negotiations with Naval Group for three Scorpène-class submarines.",
+            "15 Sep 2026: The executive submits the draft 2027 national budget to the Chamber of Deputies, incorporating a public credit authorization of USD 2.31 billion specifically earmarked for the acquisition of three conventional submarines.",
+            "5 Oct 2026: Chief of the Naval Staff Admiral Juan Carlos Romay confirms at Mar del Plata Naval Base that fleet renewal remains a top priority contingent on finalized external financing.",
+            "7 Oct 2026: Chief of the Joint Staff Admiral Marcelo Dalle Nogare publicly announces that both France (Naval Group) and Germany (TKMS) have submitted formal offers featuring full financing packages for three submarines (Scorpène Evolved vs. Type 209NG).",
+            "20 Nov 2026: Defence media and regional reporting highlight the advanced stage of the dual French and German bids, pending final executive selection and legislative approval of the credit lines."
+          ],
+          "list": true,
+          "links": [
+            "https://meta-defense.fr/en/2026/10/08/brazil-offers-scorpene-argentina/",
+            "https://en.wikipedia.org/wiki/Scorp%C3%A8ne-class_submarine",
+            "https://en.wikipedia.org/wiki/Scorp%C3%A8ne-class_submarine",
+            "https://www.bairdmaritime.com/security/naval/naval-submersibles/argentina-submarine-purchase-financing-offers",
+            "https://meta-defense.fr/en/2026/10/08/brazil-offers-scorpene-argentina/",
+            "https://www.bairdmaritime.com/security/naval/naval-submersibles/argentina-submarine-purchase-financing-offers",
+            "https://www.armyrecognition.com/news/navy-news/2026/france-and-germany-compete-to-shape-argentinas-submarine-revival-in-the-south-atlantic"
+          ]
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Suppliers and integrators should watch the Polish licensing deal as it signals rising demand for advanced munitions and potential follow‑on contracts linked to larger defence programmes."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Saab has signed a licensing agreement with Polish defence company Dezamet to produce MAPAM mortar munitions in Poland.",
+        "Context: 15 Nov 2017: The ARA San Juan (TR-1700 class) is lost at sea with 44 crew members, leaving Argentina without operational submarine capabilities. May 2023: Preliminary discussions begin regarding prospective foreign partnerships to reconstitute the submarine arm, focusing on European builders. Oct 2024: Argentine Defense Minister Luis Petri signs a Letter of Intent (LoI) with France during a visit to Paris, initiating formal negotiations with Naval Group for three Scorpène-class submarines. 15 Sep 2026: The executive submits the draft 2027 national budget to the Chamber of Deputies, incorporating a public credit authorization of USD 2.31 billion specifically earmarked for the acquisition of three conventional submarines. 5 Oct 2026: Chief of the Naval Staff Admiral Juan Carlos Romay confirms at Mar del Plata Naval Base that fleet renewal remains a top priority contingent on finalized external financing. 7 Oct 2026: Chief of the Joint Staff Admiral Marcelo Dalle Nogare publicly announces that both France (Naval Group) and Germany (TKMS) have submitted formal offers featuring full financing packages for three submarines (Scorpène Evolved vs. Type 209NG). 20 Nov 2026: Defence media and regional reporting highlight the advanced stage of the dual French and German bids, pending final executive selection and legislative approval of the credit lines.",
+        "Why it matters: Suppliers and integrators should watch the Polish licensing deal as it signals rising demand for advanced munitions and potential follow‑on contracts linked to larger defence programmes.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "DEFENCE – Baltic News",
+          "url": "https://balticnews.com/swedens-saab-signs-mapam-mortar-munitions-licensing-agreement-for-production-in-poland/"
+        }
+      ],
+      "place": {
+        "label": "Warsaw",
+        "lat": 52.23,
+        "lon": 21.01
+      },
+      "companies": [
+        {
+          "name": "Dezamet",
+          "country": "PL",
+          "text": [
+            "Dezamet"
+          ]
+        },
+        {
+          "name": "Naval Group",
+          "country": "FR",
+          "text": [
+            "Naval Group"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "syn-1285",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-21",
+      "title": "Dutch F-35s Land on Finnish Highway",
+      "summary": "Royal Netherlands Air Force F-35A fighters from 322 Squadron successfully landed on Highway 9 in Finland during Exercise Protective Fence 26.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Royal Netherlands Air Force F-35A fighters from 322 Squadron successfully landed on Highway 9 in Finland during Exercise Protective Fence 26."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "22 Sep 2025: The Finnish Air Force conducts Exercise Protective Fence 25, focusing on dispersed combat operations and road-base operations with regional partners.",
+            "4 Nov 2026: The Finnish Air Force officially details Exercise Protective Fence 26, scheduling it for November 19–27 with 4,100 personnel and over 40 aircraft, featuring Dutch F-35s.",
+            "18 Nov 2026: The Jännevirta highway strip on Highway 9 in Siilinjärvi is officially closed to civilian traffic to prepare for road-base flight operations.",
+            "20 Nov 2026: Royal Netherlands Air Force F-35A fighters from 322 Squadron successfully land on Highway 9 in Finland during Exercise Protective Fence 26."
+          ],
+          "list": true,
+          "links": [
+            "https://migflug.com/afterburner/dutch-f-35-finnish-highway-9-kuopio-protective-fence-2026/",
+            "https://migflug.com/afterburner/dutch-f-35-finnish-highway-9-kuopio-protective-fence-2026/",
+            "https://migflug.com/afterburner/dutch-f-35-finnish-highway-9-kuopio-protective-fence-2026/",
+            "https://defence-blog.com/dutch-f-35-stealth-fighters-land-on-finnish-highway/"
+          ]
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "NL — Defensienota 2024: Sterk, slim en samen (2024-09-05): Structural €2.4 billion a year more for Defence so the Netherlands meets the NATO 2% norm; €1.5 billion extra for combat power, including two ASW frigates, extra NH90 helicopters and uncrewed vessels."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following dispersed operations exercises in September 2025 and November 2026, air forces are increasingly prioritizing road-base operations and Agile Combat Employment."
+          ],
+          "list": false
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense contractors and logisticians should account for dispersed basing requirements in future aircraft maintenance and support packages."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Royal Netherlands Air Force F-35A fighters from 322 Squadron successfully landed on Highway 9 in Finland during Exercise Protective Fence 26.",
+        "Context: 22 Sep 2025: The Finnish Air Force conducts Exercise Protective Fence 25, focusing on dispersed combat operations and road-base operations with regional partners. 4 Nov 2026: The Finnish Air Force officially details Exercise Protective Fence 26, scheduling it for November 19–27 with 4,100 personnel and over 40 aircraft, featuring Dutch F-35s. 18 Nov 2026: The Jännevirta highway strip on Highway 9 in Siilinjärvi is officially closed to civilian traffic to prepare for road-base flight operations. 20 Nov 2026: Royal Netherlands Air Force F-35A fighters from 322 Squadron successfully land on Highway 9 in Finland during Exercise Protective Fence 26.",
+        "Policy direction: NL — Defensienota 2024: Sterk, slim en samen (2024-09-05): Structural €2.4 billion a year more for Defence so the Netherlands meets the NATO 2% norm; €1.5 billion extra for combat power, including two ASW frigates, extra NH90 helicopters and uncrewed vessels.",
+        "The bigger picture: Following dispersed operations exercises in September 2025 and November 2026, air forces are increasingly prioritizing road-base operations and Agile Combat Employment.",
+        "Why it matters: Defense contractors and logisticians should account for dispersed basing requirements in future aircraft maintenance and support packages.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "dutch-f-35-stealth-fighters-land-on-finnish-highway",
+          "url": "https://defence-blog.com/dutch-f-35-stealth-fighters-land-on-finnish-highway/"
+        }
+      ],
+      "place": {
+        "label": "Kuopio",
+        "lat": 62.89,
+        "lon": 27.68
+      }
+    },
+    {
+      "id": "syn-1292",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-21",
+      "title": "CCW Review Conference Agrees Compromise Mandate on Autonomous Weapons",
+      "summary": "Facing firm resistance from the US and Russia against binding rules, delegates at the Seventh Review Conference of the CCW in Geneva settled on a compromise mandate to elaborate an instrument on lethal autonomous weapons systems over the next two years.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Facing firm resistance from the US and Russia against binding rules, delegates at the Seventh Review Conference of the CCW in Geneva settled on a compromise mandate to elaborate an instrument on lethal autonomous weapons systems over the next two years."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "Nov 2013: Parties to the CCW agree to initiate formal discussions on autonomous weapons following a proposal by France, leading to the creation of an informal expert meeting structure.",
+            "2 Dec 2024: The UN General Assembly adopts Resolution 79/62 on LAWS with broad international backing, noting potential two-tiered regulatory frameworks.",
+            "13 May 2025: The UN holds its first-ever informal thematic consultations on autonomous weapons systems in New York, drawing 96 states.",
+            "5 Sep 2025: A coalition of 42 states delivers a joint statement at the GGE session demanding immediate transition toward formal treaty negotiations.",
+            "30 Mar 2026: The GGE convenes in Geneva for its primary 2026 sessions under mounting pressure to conclude a comprehensive regulatory framework ahead of the upcoming review conference.",
+            "16 Nov 2026: The Seventh Review Conference of the CCW opens at the Palais des Nations in Geneva under the presidency of Ambassador Julien Thöni of Switzerland.",
+            "21 Nov 2026: The Seventh Review Conference runs into overtime; facing firm resistance from the US and Russia against binding rules, delegates settle on a compromise mandate to elaborate an instrument over the next two years."
+          ],
+          "list": true,
+          "links": [
+            "https://autonomousweapons.org/global-legal-framework-milestones/",
+            "https://asil.org/insights/volume-29-issue-1/",
+            "https://www.un.org/en/peaceandsecurity/autonomous-weapon-systems-frequently-asked-questions",
+            "https://www.un.org/en/peaceandsecurity/autonomous-weapon-systems-frequently-asked-questions",
+            "https://strategicforecast.cissajk.org.pk/will-states-be-able-to-regulate-autonomous-weapons-an-assessment-of-ccw-debates-on-laws/",
+            "https://www.ungeneva.org/en/meetings-events/events/observances-special-events/2026/11/seventh-review-conference-high",
+            "https://www.un.org/en/peaceandsecurity/autonomous-weapon-systems-frequently-asked-questions"
+          ]
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "US — Unleashing U.S. Military Drone Dominance (Secretary of Defense memorandum) (2025-07-10): Ramp up US production and fielding of low-cost drones: buy American-made drones and parts, equip combat units, and delegate drone procurement authority down to commanders."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Terminal guidance and automated target recognition depends on Electro-Optical / Infrared (EO/IR) Sensor Modules — Advanced optical seeker and targeting arrays required for terminal guidance and automated target recognition (ATR). Bottleneck: Germanium and indium processing and high-purity optical components."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence contractors and procurement teams should monitor the upcoming two-year instrument elaboration process, as future international rules will impact software architecture, human supervision requirements, and testing documentation for autonomous targeting systems."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Facing firm resistance from the US and Russia against binding rules, delegates at the Seventh Review Conference of the CCW in Geneva settled on a compromise mandate to elaborate an instrument on lethal autonomous weapons systems over the next two years.",
+        "Context: Nov 2013: Parties to the CCW agree to initiate formal discussions on autonomous weapons following a proposal by France, leading to the creation of an informal expert meeting structure. 2 Dec 2024: The UN General Assembly adopts Resolution 79/62 on LAWS with broad international backing, noting potential two-tiered regulatory frameworks. 13 May 2025: The UN holds its first-ever informal thematic consultations on autonomous weapons systems in New York, drawing 96 states. 5 Sep 2025: A coalition of 42 states delivers a joint statement at the GGE session demanding immediate transition toward formal treaty negotiations. 30 Mar 2026: The GGE convenes in Geneva for its primary 2026 sessions under mounting pressure to conclude a comprehensive regulatory framework ahead of the upcoming review conference. 16 Nov 2026: The Seventh Review Conference of the CCW opens at the Palais des Nations in Geneva under the presidency of Ambassador Julien Thöni of Switzerland. 21 Nov 2026: The Seventh Review Conference runs into overtime; facing firm resistance from the US and Russia against binding rules, delegates settle on a compromise mandate to elaborate an instrument over the next two years.",
+        "Policy direction: US — Unleashing U.S. Military Drone Dominance (Secretary of Defense memorandum) (2025-07-10): Ramp up US production and fielding of low-cost drones: buy American-made drones and parts, equip combat units, and delegate drone procurement authority down to commanders.",
+        "Down the supply chain: Terminal guidance and automated target recognition depends on Electro-Optical / Infrared (EO/IR) Sensor Modules — Advanced optical seeker and targeting arrays required for terminal guidance and automated target recognition (ATR). Bottleneck: Germanium and indium processing and high-purity optical components.",
+        "Why it matters: Defence contractors and procurement teams should monitor the upcoming two-year instrument elaboration process, as future international rules will impact software architecture, human supervision requirements, and testing documentation for autonomous targeting systems.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defence Matters",
+          "url": "https://defencematters.eu/geneva-autonomous-weapons-us-russia-binding-rules/"
+        },
+        {
+          "n": 2,
+          "title": "Информационен център на Министерство на oтбраната",
+          "url": "https://armymedia.bg/2026/11/21/%d1%83%d1%87%d0%b0%d1%81%d1%82%d0%bd%d0%b8%d1%86%d0%b8%d1%82%d0%b5-%d0%b2-%d0%ba%d0%be%d0%bd%d1%84%d0%b5%d1%80%d0%b5%d0%bd%d1%86%d0%b8%d1%8f-%d0%bd%d0%b0-%d0%be%d0%be%d0%bd-%d0%b7%d0%b0-%d1%80%d0%be/"
+        }
+      ],
+      "place": {
+        "label": "Geneva",
+        "lat": 46.2044,
+        "lon": 6.1432
+      }
+    },
+    {
+      "id": "syn-1294",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-21",
+      "title": "Brigata Aeromobile Friuli Completes CAEX II-2026",
+      "summary": "During Joint Stars 2026 at Capo Teulada, the Brigata Aeromobile Friuli completed Complex Aviation Exercise II-2026 to verify command and control capabilities and aeromobile combat skills.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "During Joint Stars 2026 at Capo Teulada, the Brigata Aeromobile Friuli completed Complex Aviation Exercise II-2026 to verify command and control capabilities and aeromobile combat skills."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "7 Jun 2025: AVES conducts CAEX I/2025 under the Joint Stars 2025 umbrella using the Brigata Aeromobile “Friuli” as a Combat Aviation Brigade.",
+            "11 Dec 2025: AVES executes CAEX II/2025 across Viterbo, Chiusdino, and Siena integrating CBRN threat scenarios and Mangusta/Muflone exercises.",
+            "21 Nov 2026: Brigata Aeromobile “Friuli” successfully completes Complex Aviation Exercise (CAEX) II-2026 during Joint Stars 2026 at Capo Teulada, Sardinia, testing C2 architectures (IMPERIO, BMS SIRIO, SSAW) and C-UAS/SMI roles."
+          ],
+          "list": true,
+          "links": [
+            "https://www.airholic.it/caex-2025-laviazione-dellesercito-in-azione-con-elicotteri-e-fanteria-aeromobile/",
+            "https://www.difesaonline.it/2025/12/11/complessa-esercitazione-pluriarma-dellaviazione-dellesercito/",
+            "https://aresdifesa.it/complex-aviation-exercise-ii-2026-per-la-brigata-aeromobile-friuli/"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Building on previous iterations in 2025 and late 2025, AVES continues to refine combat aviation brigade structures and C2 systems, signaling an ongoing focus on integrated multi-domain operations."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Leonardo Helicopters depends on Multi-role and Attack Helicopters (AH-129 Mangusta, UH-90, UH-169, CH-47F) — Multi-role and Attack Helicopters."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence procurement and supply chain professionals should monitor these evolving C2 and helicopter integration requirements."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "During Joint Stars 2026 at Capo Teulada, the Brigata Aeromobile Friuli completed Complex Aviation Exercise II-2026 to verify command and control capabilities and aeromobile combat skills.",
+        "Context: 7 Jun 2025: AVES conducts CAEX I/2025 under the Joint Stars 2025 umbrella using the Brigata Aeromobile “Friuli” as a Combat Aviation Brigade. 11 Dec 2025: AVES executes CAEX II/2025 across Viterbo, Chiusdino, and Siena integrating CBRN threat scenarios and Mangusta/Muflone exercises. 21 Nov 2026: Brigata Aeromobile “Friuli” successfully completes Complex Aviation Exercise (CAEX) II-2026 during Joint Stars 2026 at Capo Teulada, Sardinia, testing C2 architectures (IMPERIO, BMS SIRIO, SSAW) and C-UAS/SMI roles.",
+        "The bigger picture: Building on previous iterations in 2025 and late 2025, AVES continues to refine combat aviation brigade structures and C2 systems, signaling an ongoing focus on integrated multi-domain operations.",
+        "Down the supply chain: Leonardo Helicopters depends on Multi-role and Attack Helicopters (AH-129 Mangusta, UH-90, UH-169, CH-47F) — Multi-role and Attack Helicopters.",
+        "Why it matters: Defence procurement and supply chain professionals should monitor these evolving C2 and helicopter integration requirements.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Complex Aviation Exercise II-2026 per la Brigata Aeromobile “Friuli”",
+          "url": "https://aresdifesa.it/complex-aviation-exercise-ii-2026-per-la-brigata-aeromobile-friuli/"
+        }
+      ],
+      "place": {
+        "label": "Capo Teulada",
+        "lat": 38.9,
+        "lon": 8.6
+      }
+    },
+    {
+      "id": "syn-1304",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-21",
+      "title": "French De Grasse SSN joins active fleet, highlighting NATO submarine buildup",
+      "summary": "The French Navy placed the Suffren‑class submarine De Grasse (S638) into active service on 20 Nov 2026, granting it full operational deployment status.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "The French Navy placed the Suffren‑class submarine De Grasse (S638) into active service on 20 Nov 2026, granting it full operational deployment status."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "Jun 1994: Newport News Shipbuilding and General Dynamics Electric Boat receive initial contract awards for the joint design of the New Attack Submarine (subsequently designated Virginia-class) (Contract).",
+            "31 Dec 2024: NDAA for Fiscal Year 2025 incorporates provisions to reinforce multi-year procurement authorities and accelerate Virginia-class output.",
+            "6 Jan 2025: Australian supplier AML3D delivers prototype copper-nickel additive-manufactured tailpiece components for testing on a Virginia-class submarine under MIB/BlueForge Alliance initiatives.",
+            "25 Jul 2025: Following the decommissioning of USS Helena, the Virginia class becomes the most numerous active submarine class in the U.S. Navy.",
+            "23 Oct 2026: Bird-Johnson Propeller Company breaks ground on a new Propulsor Center of Excellence in Mississippi, backed by joint U.S.-Australia funding to boost rotor production.",
+            "11 Nov 2026: VEEM Ltd secures its first direct purchase orders worth A$800,000 from Huntington Ingalls Industries for specialized submarine components (Contract).",
+            "19 Nov 2026: Congressional Budget Office (CBO) releases its FY2027 shipbuilding assessment, noting a build rate of ~1.13 units/year against a requirement of ~2.33 units/year needed to sustain both U.S. goals and AUKUS transfers."
+          ],
+          "list": true,
+          "links": [
+            "https://en.wikipedia.org/wiki/Virginia-class_submarine",
+            "https://en.wikipedia.org/wiki/Virginia-class_submarine",
+            "https://aml3d.com/aml3d-supports-aukus-with-virginia-submarine-component",
+            "https://en.wikipedia.org/wiki/Virginia-class_submarine",
+            "https://en.wikipedia.org/wiki/Virginia-class_submarine",
+            "https://www.navalnews.com/naval-news/2026/11/australian-propulsion-specialist-veem-wins-work-on-us-submarines/",
+            "https://en.wikipedia.org/wiki/Virginia-class_submarine"
+          ]
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Virginia-class submarine depends on S9G Nuclear Reactor core and propulsion components — Supplied by Westinghouse Electric Company and BWX Technologies.",
+            "Virginia-class submarine depends on Copper-nickel additive manufacturing parts — Advanced structural pipe/tailpiece elements supplied via specialized fabricators including AML3D."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Procurement and supply‑chain teams in NATO shipyards should reassess capacity plans and secure additional component contracts to meet the heightened demand highlighted by France’s new SSN and the CBO’s build‑rate gap."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "The French Navy placed the Suffren‑class submarine De Grasse (S638) into active service on 20 Nov 2026, granting it full operational deployment status.",
+        "Context: Jun 1994: Newport News Shipbuilding and General Dynamics Electric Boat receive initial contract awards for the joint design of the New Attack Submarine (subsequently designated Virginia-class) (Contract). 31 Dec 2024: NDAA for Fiscal Year 2025 incorporates provisions to reinforce multi-year procurement authorities and accelerate Virginia-class output. 6 Jan 2025: Australian supplier AML3D delivers prototype copper-nickel additive-manufactured tailpiece components for testing on a Virginia-class submarine under MIB/BlueForge Alliance initiatives. 25 Jul 2025: Following the decommissioning of USS Helena, the Virginia class becomes the most numerous active submarine class in the U.S. Navy. 23 Oct 2026: Bird-Johnson Propeller Company breaks ground on a new Propulsor Center of Excellence in Mississippi, backed by joint U.S.-Australia funding to boost rotor production. 11 Nov 2026: VEEM Ltd secures its first direct purchase orders worth A$800,000 from Huntington Ingalls Industries for specialized submarine components (Contract). 19 Nov 2026: Congressional Budget Office (CBO) releases its FY2027 shipbuilding assessment, noting a build rate of ~1.13 units/year against a requirement of ~2.33 units/year needed to sustain both U.S. goals and AUKUS transfers.",
+        "Down the supply chain: Virginia-class submarine depends on S9G Nuclear Reactor core and propulsion components — Supplied by Westinghouse Electric Company and BWX Technologies. Virginia-class submarine depends on Copper-nickel additive manufacturing parts — Advanced structural pipe/tailpiece elements supplied via specialized fabricators including AML3D.",
+        "Why it matters: Procurement and supply‑chain teams in NATO shipyards should reassess capacity plans and secure additional component contracts to meet the heightened demand highlighted by France’s new SSN and the CBO’s build‑rate gap.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Naval News",
+          "url": "https://www.navalnews.com/naval-news/2026/11/french-navy-suffren-class-ssn-de-grasse-active-service/"
+        }
+      ],
+      "place": {
+        "label": "Paris",
+        "lat": 48.8566,
+        "lon": 2.3522
+      }
+    },
+    {
       "id": "syn-1219",
       "status": "approved",
       "kind": "Synthesis",
@@ -7523,928 +8314,6 @@
         "label": "London",
         "lat": 51.5,
         "lon": -0.12
-      }
-    },
-    {
-      "id": "syn-1176",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-20",
-      "title": "Historical review highlights the manufacturing legacy of the Luger P08",
-      "summary": "A historical retrospective details the manufacturing intricacies and military legacy of the Luger P08 pistol used in World War I and World War II.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "A historical retrospective details the manufacturing intricacies and military legacy of the Luger P08 pistol used in World War I and World War II."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "1898: Georg Luger patents the toggle-locked recoil-operated semi-automatic pistol design built upon Hugo Borchardt's concepts.",
-            "Jul 1914: WWI mobilization drives mass production of P08 sidearms by DWM and the Royal Arsenal at Erfurt.",
-            "28 Jun 1919: Treaty of Versailles imposes strict limits on German arms manufacturing, halting new military P08 production lines and forcing transition to police/reworked configurations.",
-            "1925: Simson & Co. of Suhl begins producing and refurbishing P08s for the Weimar Republic's military.",
-            "1930: Mauser takes over primary P08 manufacturing operations from DWM.",
-            "1934: Mauser resumes secret-code military contract production (K-date) under re-armering initiatives (Contract).",
-            "1938: Germany officially adopts the Walther P38 to replace the P08 as the standard service pistol, though P08 production continues into World War II until 1943."
-          ],
-          "list": true,
-          "links": [
-            "https://en.wikipedia.org/wiki/Luger_pistol",
-            "https://en.wikipedia.org/wiki/Luger_pistol",
-            "https://en.wikipedia.org/wiki/Luger_pistol",
-            "https://naguns.com/mil-surp-guides/german-p08-luger-guide/",
-            "https://en.wikipedia.org/wiki/Luger_pistol",
-            "https://oldsteelarsenal.com/luger-p08-markings-explained/",
-            "https://www.nramuseum.org/guns/the-galleries/world-war-i-and-firearms-innovation/case-34-world-war-i-the-central-powers/dwm-p08-luger-semi-automatic-pistol.aspx"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Signal: historical reliance on specialized artisanal fitting."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Toggle-Lock Mechanism & Receiver depends on specialized artisanal fitting and machine work at DWM, Erfurt, and Mauser."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense procurement and supply chain professionals should note how complex toggle-lock mechanisms historically relied on specialized artisanal fitting across manufacturers like DWM, Erfurt, and Mauser."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "A historical retrospective details the manufacturing intricacies and military legacy of the Luger P08 pistol used in World War I and World War II.",
-        "Context: 1898: Georg Luger patents the toggle-locked recoil-operated semi-automatic pistol design built upon Hugo Borchardt's concepts. Jul 1914: WWI mobilization drives mass production of P08 sidearms by DWM and the Royal Arsenal at Erfurt. 28 Jun 1919: Treaty of Versailles imposes strict limits on German arms manufacturing, halting new military P08 production lines and forcing transition to police/reworked configurations. 1925: Simson & Co. of Suhl begins producing and refurbishing P08s for the Weimar Republic's military. 1930: Mauser takes over primary P08 manufacturing operations from DWM. 1934: Mauser resumes secret-code military contract production (K-date) under re-armering initiatives (Contract). 1938: Germany officially adopts the Walther P38 to replace the P08 as the standard service pistol, though P08 production continues into World War II until 1943.",
-        "The bigger picture: Signal: historical reliance on specialized artisanal fitting.",
-        "Down the supply chain: Toggle-Lock Mechanism & Receiver depends on specialized artisanal fitting and machine work at DWM, Erfurt, and Mauser.",
-        "Why it matters: Defense procurement and supply chain professionals should note how complex toggle-lock mechanisms historically relied on specialized artisanal fitting across manufacturers like DWM, Erfurt, and Mauser.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Unveiling the Legacy: German Army’s Use of the Luger P08",
-          "url": "https://militarysphere.com/unveiling-the-legacy-german-armys-use-the-luger-p08/"
-        },
-        {
-          "n": 2,
-          "title": "MilitarySphere.com",
-          "url": "https://militarysphere.com/luger-p08-usage-by-german-army/"
-        }
-      ],
-      "place": {
-        "label": "Germany",
-        "lat": 51.16,
-        "lon": 10.45
-      }
-    },
-    {
-      "id": "syn-1177",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-20",
-      "title": "Hensoldt and ZF Partner for SPEXER Radar Production",
-      "summary": "Hensoldt signed a formal cooperation agreement with ZF Friedrichshafen in Berlin to establish serial production lines and automated testing for the SPEXER radar family.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Hensoldt signed a formal cooperation agreement with ZF Friedrichshafen in Berlin to establish serial production lines and automated testing for the SPEXER radar family."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "30 Jul 2024: Rheinmetall Air Defence awarded Hensoldt a contract worth nearly €100 million to supply SPEXER 2000M 3D MkIII radars for the Skyranger 30 anti-aircraft tank system destined for Germany and Austria (Contract, EUR 100 million).",
-            "Jul 2025: Hensoldt announced the supply of SPEXER 2000 3D MkIII radars to Ukraine as part of a broader air defence package alongside TRML-4D radars.",
-            "12 Dec 2025: Hensoldt and Rheinmetall signed a long-term framework agreement valid until the 2030s for the flexible delivery of large quantities of SPEXER 2000 radars for ground-based air defence and Skyranger 30 systems (Agreement).",
-            "18 Nov 2026: Hensoldt and ZF Friedrichshafen signed a formal cooperation agreement at the Federal Ministry for Economic Affairs and Energy in Berlin to establish serial production lines and automated testing for SPEXER radars (Agreement)."
-          ],
-          "list": true,
-          "links": [
-            "https://www.hensoldt.net/news/hensoldt-receives-major-orders-for-army-air-defence",
-            "https://envantermedya.com/en/spexer-radar-hensoldt-ground-surveillance/",
-            "https://spartanat.com/en/radars-for-rheinmetall-air-defence-systems",
-            "https://www.hensoldt.net/news/hensoldt-receives-major-orders-for-army-air-defence"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following prior supply contracts for the Skyranger 30 and Ukraine, and a long-term framework agreement with Rheinmetall, the industry is increasingly leveraging automotive manufacturing capacity to scale air defense production through the 2030s."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Hensoldt SPEXER radar family depends on Boxer GTK and Pandur EVO chassis structural interfaces — Carrier Platforms & Integration Hardware: Wheeled and tracked vehicle integration components."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense supply chain professionals should monitor how non-traditional industrial partnerships can expand capacity and alleviate bottlenecks in high-demand sensor manufacturing."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Hensoldt signed a formal cooperation agreement with ZF Friedrichshafen in Berlin to establish serial production lines and automated testing for the SPEXER radar family.",
-        "Context: 30 Jul 2024: Rheinmetall Air Defence awarded Hensoldt a contract worth nearly €100 million to supply SPEXER 2000M 3D MkIII radars for the Skyranger 30 anti-aircraft tank system destined for Germany and Austria (Contract, EUR 100 million). Jul 2025: Hensoldt announced the supply of SPEXER 2000 3D MkIII radars to Ukraine as part of a broader air defence package alongside TRML-4D radars. 12 Dec 2025: Hensoldt and Rheinmetall signed a long-term framework agreement valid until the 2030s for the flexible delivery of large quantities of SPEXER 2000 radars for ground-based air defence and Skyranger 30 systems (Agreement). 18 Nov 2026: Hensoldt and ZF Friedrichshafen signed a formal cooperation agreement at the Federal Ministry for Economic Affairs and Energy in Berlin to establish serial production lines and automated testing for SPEXER radars (Agreement).",
-        "The bigger picture: Following prior supply contracts for the Skyranger 30 and Ukraine, and a long-term framework agreement with Rheinmetall, the industry is increasingly leveraging automotive manufacturing capacity to scale air defense production through the 2030s.",
-        "Down the supply chain: Hensoldt SPEXER radar family depends on Boxer GTK and Pandur EVO chassis structural interfaces — Carrier Platforms & Integration Hardware: Wheeled and tracked vehicle integration components.",
-        "Why it matters: Defense supply chain professionals should monitor how non-traditional industrial partnerships can expand capacity and alleviate bottlenecks in high-demand sensor manufacturing.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "AdriaDefense",
-          "url": "https://www.adriadefense.com/hensoldt-partners-with-zf-to-expand-production-of-counter-drone-radars-in-germany/"
-        }
-      ],
-      "place": {
-        "label": "Berlin",
-        "lat": 52.52,
-        "lon": 13.4
-      },
-      "companies": [
-        {
-          "name": "HENSOLDT AG",
-          "country": "DE",
-          "text": [
-            "Hensoldt"
-          ]
-        },
-        {
-          "name": "ZF Friedrichshafen AG",
-          "country": "DE",
-          "text": [
-            "ZF Friedrichshafen"
-          ]
-        },
-        {
-          "name": "Rheinmetall AG",
-          "country": "DE",
-          "text": [
-            "Rheinmetall"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "syn-1179",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-20",
-      "title": "Netherlands joins Patria CAVS programme as eighth member",
-      "summary": "The Dutch Ministry of Defence signed the Technical Arrangement at NEDS 2026 in Rotterdam, formally making the Netherlands the eighth participating nation in the CAVS programme.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "The Dutch Ministry of Defence signed the Technical Arrangement at NEDS 2026 in Rotterdam, formally making the Netherlands the eighth participating nation in the CAVS programme."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "2020: Finland, Estonia, and Latvia agreed to initiate a joint research and development programme for the Common Armoured Vehicle System (CAVS) based on the Patria 6×6 platform.",
-            "Sep 2025: Norway and the United Kingdom officially joined the CAVS agreement (Agreement).",
-            "18 Dec 2025: Germany and Patria concluded two major serial procurement contracts valued at over €2 billion for up to 876 vehicles in four variants, including NEMO mortar and Kongsberg RCWS configurations (Contract, EUR 2 billion).",
-            "24 Feb 2026: Patria delivered the first batch of five CAVS 6×6 vehicles to the German Bundeswehr in Zeithain, Germany (Delivered).",
-            "12 Mar 2026: Patria and Latvia signed a comprehensive Life Cycle Support (LCS) agreement to streamline local MRO, spare parts provisioning, and national security of supply (Agreement).",
-            "11 Aug 2026: Patria and KNDS Deutschland established a formal framework agreement to transition final assembly and integration of German CAVS vehicles into Germany (KNDS Germany Maintenance / Freisen plant) (Agreement).",
-            "24 Aug 2026: Norway placed a firm order for 20 Patria 6×6 command-and-control vehicles (with options for 40 more) valued at approximately NOK 500 million under the Nordic CAVS framework (NOK 500 million)."
-          ],
-          "list": true,
-          "links": [
-            "https://en.wikipedia.org/wiki/Patria_6%C3%976",
-            "https://www.patriagroup.com/about-us/research-and-innovations/common-armoured-vehicle-system-cavs-programme",
-            "https://www.patriagroup.com/newsroom/news/2025/patria-and-germany-sign-two-serial-contracts-valued-over-2-billion-euros-within-the-cavs-programme",
-            "https://www.patriagroup.com/about-us/research-and-innovations/common-armoured-vehicle-system-cavs-programme",
-            "https://www.patriagroup.com/newsroom/news/2026/patria-and-latvia-sign-comprehensive-life-cycle-support-agreement-for-cavs-6x6-armoured-vehicle-fleet",
-            "https://www.patriagroup.com/about-us/research-and-innovations/common-armoured-vehicle-system-cavs-programme",
-            "https://www.patriagroup.com/about-us/research-and-innovations/common-armoured-vehicle-system-cavs-programme"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Since the CAVS programme was initiated in 2020 by Finland, Estonia, and Latvia, it has progressively expanded through sequential partner approvals and major procurement contracts across Europe, signaling a clear long-term consolidation around standardized multi-national vehicle platforms."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "CAVS Programme depends on Patria — Prime System Integrator: Vehicle architecture, core platform development, and final assembly.",
-            "Patria 6x6 depends on Patria NEMO 120mm mortar system — Turreted Mortar Systems integration."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defence procurement and supply chain professionals should monitor the expanding CAVS framework for upcoming co-production and life-cycle support opportunities tied to the growing multi-national fleet."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "The Dutch Ministry of Defence signed the Technical Arrangement at NEDS 2026 in Rotterdam, formally making the Netherlands the eighth participating nation in the CAVS programme.",
-        "Context: 2020: Finland, Estonia, and Latvia agreed to initiate a joint research and development programme for the Common Armoured Vehicle System (CAVS) based on the Patria 6×6 platform. Sep 2025: Norway and the United Kingdom officially joined the CAVS agreement (Agreement). 18 Dec 2025: Germany and Patria concluded two major serial procurement contracts valued at over €2 billion for up to 876 vehicles in four variants, including NEMO mortar and Kongsberg RCWS configurations (Contract, EUR 2 billion). 24 Feb 2026: Patria delivered the first batch of five CAVS 6×6 vehicles to the German Bundeswehr in Zeithain, Germany (Delivered). 12 Mar 2026: Patria and Latvia signed a comprehensive Life Cycle Support (LCS) agreement to streamline local MRO, spare parts provisioning, and national security of supply (Agreement). 11 Aug 2026: Patria and KNDS Deutschland established a formal framework agreement to transition final assembly and integration of German CAVS vehicles into Germany (KNDS Germany Maintenance / Freisen plant) (Agreement). 24 Aug 2026: Norway placed a firm order for 20 Patria 6×6 command-and-control vehicles (with options for 40 more) valued at approximately NOK 500 million under the Nordic CAVS framework (NOK 500 million).",
-        "The bigger picture: Since the CAVS programme was initiated in 2020 by Finland, Estonia, and Latvia, it has progressively expanded through sequential partner approvals and major procurement contracts across Europe, signaling a clear long-term consolidation around standardized multi-national vehicle platforms.",
-        "Down the supply chain: CAVS Programme depends on Patria — Prime System Integrator: Vehicle architecture, core platform development, and final assembly. Patria 6x6 depends on Patria NEMO 120mm mortar system — Turreted Mortar Systems integration.",
-        "Why it matters: Defence procurement and supply chain professionals should monitor the expanding CAVS framework for upcoming co-production and life-cycle support opportunities tied to the growing multi-national fleet.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "The Netherlands signed the Technical Arrangement (TA) at the NIDV Exhibition Defence & Security (NEDS) 2026 in Rotterdam",
-          "url": "https://timesofdefence.com"
-        },
-        {
-          "n": 2,
-          "title": "Times Of Defence",
-          "url": "https://www.timesofdefence.com.tr/netherlands-signs-technical-arrangement-to-join-multinational-patria-6x6-common-armoured-vehicle-system-cavs-programme-at-neds-2026/"
-        },
-        {
-          "n": 3,
-          "title": "DEFENCE – Baltic News",
-          "url": "https://balticnews.com/finlands-patria-adds-netherlands-as-eighth-nation-in-cavs-armoured-vehicle-programme/"
-        }
-      ],
-      "place": {
-        "label": "Rotterdam",
-        "lat": 51.9244,
-        "lon": 4.4777
-      },
-      "companies": [
-        {
-          "name": "Patria Oyj",
-          "country": "FI",
-          "text": [
-            "Patria"
-          ]
-        },
-        {
-          "name": "KNDS Deutschland GmbH & Co. KG",
-          "country": "DE",
-          "text": [
-            "KNDS Deutschland"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "syn-1180",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-20",
-      "title": "Royal Navy pivots to hybrid fleet with autonomous systems",
-      "summary": "The Royal Navy has established a hybrid fleet model combining conventional warships with uncrewed surface and subsurface systems as outlined in the Strategic Defence Review and Defence Investment Plan. During the 1st Autonomous Squadron commissioning at HMNB Portsmouth, the service introduced the K3 Kraken Scout and Rattler-class boats for swarm-based air defence and anti-submarine missions.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "The Royal Navy has established a hybrid fleet model combining conventional warships with uncrewed surface and subsurface systems as outlined in the Strategic Defence Review and Defence Investment Plan. During the 1st Autonomous Squadron commissioning at HMNB Portsmouth, the service introduced the K3 Kraken Scout and Rattler-class boats for swarm-based air defence and anti-submarine missions."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "Dec 2025: Norway orders Type 26 frigates: Norway committed £10 billion in December 2025 to buy British Type 26 frigates (commitment, GBP 10 billion) (Contract).",
-            "28 Oct 2026: Chancellor John Healey presented the Autumn Budget, formally confirming full funding for the DIP and establishing a hard target for core defence spending to reach 3% of GDP by 2030, alongside a pathway to 3.5% by 2035.",
-            "29 Oct 2026: Restricted airspace was applied over fifty defence sites as part of an initial rollout to harden British military bases against uncrewed aerial systems under protective security measures.",
-            "3 Nov 2026: Navantia UK opened a new 5,000 square-metre fabrication hall at its Belfast shipyard, supporting the build programme for three Royal Fleet Auxiliary support ships.",
-            "8 Nov 2026: Defence minister Luke Pollard announced that the 1 billion Golden Valley Development in Cheltenham could significantly support the Defence Investment Plan's strategic cyber and innovation goals.",
-            "12 Nov 2026: Royal Navy orders mine-hunting motherships: Royal Navy to buy three mine-hunting motherships (Contract).",
-            "13 Nov 2026: the first aircraft touched down on the new surface on Friday 13 November (milestone)."
-          ],
-          "list": true,
-          "links": [
-            "https://defence-industry.eu/royal-navy-to-buy-three-mine-hunting-motherships-in-deal-linked-to-norways-type-26-order/",
-            "https://www.gov.uk/government/news/defence-contracts-to-prioritise-british-jobs-and-skills",
-            "https://ukdefencejournal.org.uk/restricted-airspace-now-covers-fifty-defence-sites/",
-            "https://defence-industry.eu/navantia-uk-opens-new-belfast-fabrication-hall-to-build-three-royal-fleet-auxiliary-support-ships/",
-            "https://ukdefencejournal.org.uk/golden-valley-could-aid-cyber-aims-defence-minister-says/",
-            "https://defence-industry.eu/royal-navy-to-buy-three-mine-hunting-motherships-in-deal-linked-to-norways-type-26-order/",
-            "https://ukdefencejournal.org.uk/raf-brize-norton-runway-replaced-in-sixteen-weeks/"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "As traditional surface combatant numbers remain constrained, the Ministry of Defence is accelerating integration of low-cost autonomous effectors to meet growing security challenges."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Defence Industrial Base (DIB) Platforms & Heavy Manufacturing depends on BAE Systems (Naval/Submarines/Air), Rolls-Royce (Marine/Aero Propulsion), Babcock International (Dockyards/Maintenance) — Major UK defence contractors and platforms.",
-            "runway depends on Pavement Quality Concrete.",
-            "runway depends on Grooved Marshall Asphalt."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defence contractors and suppliers should monitor opportunities in autonomous systems and modular maritime payloads as procurement priorities shift toward cost-effective uncrewed force multipliers."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "The Royal Navy has established a hybrid fleet model combining conventional warships with uncrewed surface and subsurface systems as outlined in the Strategic Defence Review and Defence Investment Plan. During the 1st Autonomous Squadron commissioning at HMNB Portsmouth, the service introduced the K3 Kraken Scout and Rattler-class boats for swarm-based air defence and anti-submarine missions.",
-        "Context: Dec 2025: Norway orders Type 26 frigates: Norway committed £10 billion in December 2025 to buy British Type 26 frigates (commitment, GBP 10 billion) (Contract). 28 Oct 2026: Chancellor John Healey presented the Autumn Budget, formally confirming full funding for the DIP and establishing a hard target for core defence spending to reach 3% of GDP by 2030, alongside a pathway to 3.5% by 2035. 29 Oct 2026: Restricted airspace was applied over fifty defence sites as part of an initial rollout to harden British military bases against uncrewed aerial systems under protective security measures. 3 Nov 2026: Navantia UK opened a new 5,000 square-metre fabrication hall at its Belfast shipyard, supporting the build programme for three Royal Fleet Auxiliary support ships. 8 Nov 2026: Defence minister Luke Pollard announced that the 1 billion Golden Valley Development in Cheltenham could significantly support the Defence Investment Plan's strategic cyber and innovation goals. 12 Nov 2026: Royal Navy orders mine-hunting motherships: Royal Navy to buy three mine-hunting motherships (Contract). 13 Nov 2026: the first aircraft touched down on the new surface on Friday 13 November (milestone).",
-        "The bigger picture: As traditional surface combatant numbers remain constrained, the Ministry of Defence is accelerating integration of low-cost autonomous effectors to meet growing security challenges.",
-        "Down the supply chain: Defence Industrial Base (DIB) Platforms & Heavy Manufacturing depends on BAE Systems (Naval/Submarines/Air), Rolls-Royce (Marine/Aero Propulsion), Babcock International (Dockyards/Maintenance) — Major UK defence contractors and platforms. runway depends on Pavement Quality Concrete. runway depends on Grooved Marshall Asphalt.",
-        "Why it matters: Defence contractors and suppliers should monitor opportunities in autonomous systems and modular maritime payloads as procurement priorities shift toward cost-effective uncrewed force multipliers.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Armees.com",
-          "url": "https://armees.com/la-grande-bretagne-commande-13-croiseurs-furtifs-dun-coup-la-royal-navy-prepare-un-virage-que-personne-navait-vu-venir/"
-        }
-      ],
-      "place": {
-        "label": "United Kingdom",
-        "lat": 55.3781,
-        "lon": -3.436
-      },
-      "companies": [
-        {
-          "name": "NAVANTIA SA",
-          "country": "ES",
-          "text": [
-            "Navantia"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "syn-1181",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-20",
-      "title": "Raytheon Awards Tomahawk SRM Contract to Ursa Major and Avio USA",
-      "summary": "Raytheon awarded a joint multi-year contract to Ursa Major and Avio USA to design, develop, and qualify a new solid rocket motor booster for the Tactical Tomahawk program.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Raytheon awarded a joint multi-year contract to Ursa Major and Avio USA to design, develop, and qualify a new solid rocket motor booster for the Tactical Tomahawk program."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "1983: The Tomahawk cruise missile officially enters operational service with the U.S. Navy (Delivered).",
-            "2004: Block IV (Tactical Tomahawk) enters operational testing and evaluation phase.",
-            "2013: Operational test launch program for Block IV concludes, with the Tomahawk Weapon System cleared from DOT&E operational oversight following high reliability records.",
-            "2020: Raytheon secures major production contracts to transition legacy blocks into modern Block V configurations (Contract).",
-            "17 Aug 2026: Raytheon received a seven-year Tomahawk contract supporting a production ramp to over 1,000 missiles a year (Contract, USD 22.9 billion).",
-            "22 Oct 2026: Nikon Advanced Manufacturing announces a U.S. Department of War Cornerstone Other Transaction Authority (COTA) contract under the Industrial Base Analysis and Sustainment programme to supply large-format laser powder bed fusion (L-PBF) systems (based on the Nikon SLM Solutions NXG-E platform with 2-meter build heights) for printing Tomahawk mid-bodies in Long Beach, California (Contract).",
-            "29 Oct 2026: German defense media reported that German additive manufacturing technology (via Nikon SLM Solutions based in Lübeck) is being directly deployed for U.S. Tomahawk missile production following a contract awarded to Nikon Advanced Manufacturing."
-          ],
-          "list": true,
-          "links": [
-            "https://en.wikipedia.org/wiki/Tomahawk_missile",
-            "https://en.wikipedia.org/wiki/Tomahawk_missile",
-            "https://en.wikipedia.org/wiki/Tomahawk_missile",
-            "https://en.wikipedia.org/wiki/Tomahawk_missile",
-            "https://addithive.com/2026/10/24/am-bottleneck-brief-7-qualified-large-format-lpbf-munitions-gate/",
-            "https://manufacturingdigital.com/news/inside-nikon-ams-department-of-war-tomahawk-contract",
-            "https://www.hartpunkt.de/additive-fertigungstechnologie-aus-deutschland-kommt-bei-tomahawk-produktion-zum-einsatz/"
-          ]
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base.",
-            "US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress."
-          ],
-          "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following multi-year production scaling contracts initiated in 2020 and 2026, the defense industrial base is diversifying component suppliers to support high-rate output exceeding 1,000 missiles annually."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Tomahawk Land Attack Missile depends on Nikon Advanced Manufacturing.",
-            "Tomahawk Land Attack Missile depends on Williams International.",
-            "Tomahawk Land Attack Missile depends on Defense contractors — Warhead Assemblies: WDU-36/B unitary high-explosive payloads containing PBXN-107 fill."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Procurement professionals should monitor this new propulsion qualification pathway as an indicator of expanding supply chain resilience for long-range precision munitions."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Raytheon awarded a joint multi-year contract to Ursa Major and Avio USA to design, develop, and qualify a new solid rocket motor booster for the Tactical Tomahawk program.",
-        "Context: 1983: The Tomahawk cruise missile officially enters operational service with the U.S. Navy (Delivered). 2004: Block IV (Tactical Tomahawk) enters operational testing and evaluation phase. 2013: Operational test launch program for Block IV concludes, with the Tomahawk Weapon System cleared from DOT&E operational oversight following high reliability records. 2020: Raytheon secures major production contracts to transition legacy blocks into modern Block V configurations (Contract). 17 Aug 2026: Raytheon received a seven-year Tomahawk contract supporting a production ramp to over 1,000 missiles a year (Contract, USD 22.9 billion). 22 Oct 2026: Nikon Advanced Manufacturing announces a U.S. Department of War Cornerstone Other Transaction Authority (COTA) contract under the Industrial Base Analysis and Sustainment programme to supply large-format laser powder bed fusion (L-PBF) systems (based on the Nikon SLM Solutions NXG-E platform with 2-meter build heights) for printing Tomahawk mid-bodies in Long Beach, California (Contract). 29 Oct 2026: German defense media reported that German additive manufacturing technology (via Nikon SLM Solutions based in Lübeck) is being directly deployed for U.S. Tomahawk missile production following a contract awarded to Nikon Advanced Manufacturing.",
-        "Policy direction: US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base. US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress.",
-        "The bigger picture: Following multi-year production scaling contracts initiated in 2020 and 2026, the defense industrial base is diversifying component suppliers to support high-rate output exceeding 1,000 missiles annually.",
-        "Down the supply chain: Tomahawk Land Attack Missile depends on Nikon Advanced Manufacturing. Tomahawk Land Attack Missile depends on Williams International. Tomahawk Land Attack Missile depends on Defense contractors — Warhead Assemblies: WDU-36/B unitary high-explosive payloads containing PBXN-107 fill.",
-        "Why it matters: Procurement professionals should monitor this new propulsion qualification pathway as an indicator of expanding supply chain resilience for long-range precision munitions.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Times Of Defence",
-          "url": "https://www.timesofdefence.com.tr/raytheon-awards-joint-multi-year-contract-to-ursa-major-and-avio-usa-to-design-develop-and-qualify-solid-rocket-motor-booster-for-tomahawk-cruise-missile/"
-        }
-      ],
-      "place": {
-        "label": "United States",
-        "lat": 38.8951,
-        "lon": -77.0364
-      },
-      "companies": [
-        {
-          "name": "RAYTHEON COMPANY",
-          "country": "US",
-          "text": [
-            "Raytheon"
-          ]
-        },
-        {
-          "name": "Nikon SLM Solutions AG",
-          "country": "DE",
-          "text": [
-            "Nikon SLM Solutions"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "syn-1182",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-20",
-      "title": "Argentina Signs LoI with Italy for Three Fincantieri FCX20 Corvettes",
-      "summary": "On November 18, 2026, the Defense Ministers of Argentina and Italy signed a formal Letter of Intent in Rome regarding the procurement of up to three FCX20 corvettes. Fincantieri officially published a press release detailing the Argentine Navy's interest in the full-configuration corvettes on November 19, 2026.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "On November 18, 2026, the Defense Ministers of Argentina and Italy signed a formal Letter of Intent in Rome regarding the procurement of up to three FCX20 corvettes. Fincantieri officially published a press release detailing the Argentine Navy's interest in the full-configuration corvettes on November 19, 2026."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "21 Feb 2026: Launch of the future Italian Navy offshore patrol vessel Ugolino Vivaldi, whose design serves as the baseline platform for the FCX20 family.",
-            "22 Apr 2026: Fincantieri actively markets the FCX20 / new-generation offshore patrol vessel concept internationally, including pitches to the Royal Malaysian Navy.",
-            "18 Nov 2026: Defense Ministers of Argentina (Carlos Alberto Presti) and Italy (Guido Crosetto) sign a formal Letter of Intent (LoI) in Rome regarding the procurement of up to three FCX20 corvettes and potential secondary vessel transfers.",
-            "19 Nov 2026: Fincantieri officially publishes the press release detailing the Argentine Navy's interest in up to three full-configuration FCX20 corvettes with an Integrated Logistic Support (ILS) package (Plan)."
-          ],
-          "list": true,
-          "links": [
-            "https://www.bairdmaritime.com/security/naval/naval-ships/argentina-italy-fincantieri-fcx20-corvettes",
-            "https://adj.com.my/2026/04/22/fincantieri-offering-best-of-italian-naval-vessels/",
-            "https://www.timesofdefence.com.tr/argentine-navy-signs-letter-of-intent-for-up-to-three-fincantieri-fcx20-full-configuration-corvettes-following-rome-ministerial-agreement/",
-            "https://www.timesofdefence.com.tr/argentine-navy-signs-letter-of-intent-for-up-to-three-fincantieri-fcx20-full-configuration-corvettes-following-rome-ministerial-agreement/"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following the launch of the baseline Ugolino Vivaldi in February 2026 and subsequent international marketing efforts in April 2026, the FCX20 concept has advanced from a promotional design to a formal government-to-government framework agreement signed in November 2026, signaling growing export momentum for Fincantieri's modular corvette family."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Fincantieri S.p.A. depends on Hull Integration.",
-            "Orizzonte Sistemi Navali / Leonardo S.p.A. depends on Combat Management System & Radar.",
-            "Propulsion Plant depends on CODLAD system — Propulsion Plant: Combined Diesel-Electric and Diesel (CODLAD) system utilizing main diesel engines, electric propulsion motors, and reduction gears."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense contractors and subsystem providers specializing in hull integration, combat management systems, radars, and CODLAD propulsion should monitor contract developments to engage with Fincantieri and partner firms on upcoming supply chain opportunities."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "On November 18, 2026, the Defense Ministers of Argentina and Italy signed a formal Letter of Intent in Rome regarding the procurement of up to three FCX20 corvettes. Fincantieri officially published a press release detailing the Argentine Navy's interest in the full-configuration corvettes on November 19, 2026.",
-        "Context: 21 Feb 2026: Launch of the future Italian Navy offshore patrol vessel Ugolino Vivaldi, whose design serves as the baseline platform for the FCX20 family. 22 Apr 2026: Fincantieri actively markets the FCX20 / new-generation offshore patrol vessel concept internationally, including pitches to the Royal Malaysian Navy. 18 Nov 2026: Defense Ministers of Argentina (Carlos Alberto Presti) and Italy (Guido Crosetto) sign a formal Letter of Intent (LoI) in Rome regarding the procurement of up to three FCX20 corvettes and potential secondary vessel transfers. 19 Nov 2026: Fincantieri officially publishes the press release detailing the Argentine Navy's interest in up to three full-configuration FCX20 corvettes with an Integrated Logistic Support (ILS) package (Plan).",
-        "The bigger picture: Following the launch of the baseline Ugolino Vivaldi in February 2026 and subsequent international marketing efforts in April 2026, the FCX20 concept has advanced from a promotional design to a formal government-to-government framework agreement signed in November 2026, signaling growing export momentum for Fincantieri's modular corvette family.",
-        "Down the supply chain: Fincantieri S.p.A. depends on Hull Integration. Orizzonte Sistemi Navali / Leonardo S.p.A. depends on Combat Management System & Radar. Propulsion Plant depends on CODLAD system — Propulsion Plant: Combined Diesel-Electric and Diesel (CODLAD) system utilizing main diesel engines, electric propulsion motors, and reduction gears.",
-        "Why it matters: Defense contractors and subsystem providers specializing in hull integration, combat management systems, radars, and CODLAD propulsion should monitor contract developments to engage with Fincantieri and partner firms on upcoming supply chain opportunities.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Times Of Defence",
-          "url": "https://www.timesofdefence.com.tr/argentine-navy-signs-letter-of-intent-for-up-to-three-fincantieri-fcx20-full-configuration-corvettes-following-rome-ministerial-agreement/"
-        },
-        {
-          "n": 2,
-          "title": "Armees.com",
-          "url": "https://armees.com/argentine-corvettes-fcx20-navires-italiens-2026/"
-        }
-      ],
-      "place": {
-        "label": "Rome",
-        "lat": 41.9028,
-        "lon": 12.4964
-      },
-      "companies": [
-        {
-          "name": "FINCANTIERI S.p.A.",
-          "country": "IT",
-          "text": [
-            "Fincantieri"
-          ]
-        },
-        {
-          "name": "ORIZZONTE SISTEMI NAVALI S.p.A.",
-          "country": "IT",
-          "text": [
-            "Orizzonte Sistemi Navali"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "syn-1183",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-20",
-      "title": "QFI Expands Drone Production and Pledges €10M for Ukraine Support",
-      "summary": "Quantum Systems and Frontline Robotics pledged over €10 million for local maintenance, operator training, and a support hotline in Ukraine. Joint venture Quantum Frontline Industries secured a follow-on contract from the National Guard of Ukraine to supply Linza and Zoom drones through 2027.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Quantum Systems and Frontline Robotics pledged over €10 million for local maintenance, operator training, and a support hotline in Ukraine. Joint venture Quantum Frontline Industries secured a follow-on contract from the National Guard of Ukraine to supply Linza and Zoom drones through 2027."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "15 Dec 2025: Quantum Systems and Frontline Robotics established the \"Quantum Frontline Industries\" (QFI) joint venture under the \"Build with Ukraine\" initiative to mass-produce Ukrainian-developed drones in Germany.",
-            "Feb 2026: QFI commenced serial production of the Frontline Robotics Linza 3.0 multi-purpose drone in Germany under an initial contract for 10,000 systems destined for Ukraine (Contract).",
-            "5 Oct 2026: QFI secured a larger follow-on contract from the National Guard of Ukraine for delivery of Linza multi-purpose and Zoom reconnaissance drones throughout 2027 (Contract).",
-            "19 Nov 2026: Quantum Systems and Frontline Robotics pledged over €10 million (>€10,000,000 EUR) toward local maintenance, operator training, and a support hotline in Ukraine (EUR 10 million)."
-          ],
-          "list": true,
-          "links": [
-            "https://www.autonomyglobal.co/quantum-systems-and-frontline-robotics-launch-first-joint-co-production-of-ukrainian-drones-in-europe-under-new-government-iinitiative/",
-            "https://quantum-systems.com/news/drone-support-in-ukraine-2027/",
-            "https://defensetalks.com/quantum-systems-ukraine-drone-production/",
-            "https://quantum-systems.com/news/drone-support-in-ukraine-2027/"
-          ]
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "EU — Preserving Peace – Defence Readiness Roadmap 2030 (2025-10-16): Milestones towards full EU defence readiness by 2030, with four flagships: European Drone Defence Initiative, Eastern Flank Watch, European Air Shield and European Space Shield."
-          ],
-          "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following the December 2025 establishment of QFI and the February 2026 launch of serial production in Germany, industrial co-production is scaling up to meet the 2027 Ukrainian National Guard order, signalling a deeper integration of Ukrainian UAS designs with European manufacturing capacity."
-          ],
-          "list": false
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defence procurement and supply chain professionals should monitor QFI's fivefold capacity expansion and ensure lifecycle support infrastructure keeps pace with scaled drone deliveries."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Quantum Systems and Frontline Robotics pledged over €10 million for local maintenance, operator training, and a support hotline in Ukraine. Joint venture Quantum Frontline Industries secured a follow-on contract from the National Guard of Ukraine to supply Linza and Zoom drones through 2027.",
-        "Context: 15 Dec 2025: Quantum Systems and Frontline Robotics established the \"Quantum Frontline Industries\" (QFI) joint venture under the \"Build with Ukraine\" initiative to mass-produce Ukrainian-developed drones in Germany. Feb 2026: QFI commenced serial production of the Frontline Robotics Linza 3.0 multi-purpose drone in Germany under an initial contract for 10,000 systems destined for Ukraine (Contract). 5 Oct 2026: QFI secured a larger follow-on contract from the National Guard of Ukraine for delivery of Linza multi-purpose and Zoom reconnaissance drones throughout 2027 (Contract). 19 Nov 2026: Quantum Systems and Frontline Robotics pledged over €10 million (>€10,000,000 EUR) toward local maintenance, operator training, and a support hotline in Ukraine (EUR 10 million).",
-        "Policy direction: EU — Preserving Peace – Defence Readiness Roadmap 2030 (2025-10-16): Milestones towards full EU defence readiness by 2030, with four flagships: European Drone Defence Initiative, Eastern Flank Watch, European Air Shield and European Space Shield.",
-        "The bigger picture: Following the December 2025 establishment of QFI and the February 2026 launch of serial production in Germany, industrial co-production is scaling up to meet the 2027 Ukrainian National Guard order, signalling a deeper integration of Ukrainian UAS designs with European manufacturing capacity.",
-        "Why it matters: Defence procurement and supply chain professionals should monitor QFI's fivefold capacity expansion and ensure lifecycle support infrastructure keeps pace with scaled drone deliveries.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Militär Aktuell – Sicherheit im Fokus",
-          "url": "https://militaeraktuell.at/quantum-systems-industrielle-kapazitaet-ukraine/"
-        },
-        {
-          "n": 2,
-          "title": "DEFENCE – Baltic News",
-          "url": "https://balticnews.com/germanys-quantum-systems-and-frontline-robotics-commit-over-e10m-to-ukraine-drone-support-through-2027/"
-        },
-        {
-          "n": 3,
-          "title": "The Defense Log",
-          "url": "https://thedefenselog.com/quantum-frontline-industries-drone-production/"
-        }
-      ],
-      "place": {
-        "label": "Ukraine",
-        "lat": 48.3794,
-        "lon": 31.1656
-      },
-      "companies": [
-        {
-          "name": "Quantum-Systems",
-          "country": "DE",
-          "text": [
-            "Quantum Systems"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "syn-1185",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-20",
-      "title": "GAO report reveals unlocated F-35 parts",
-      "summary": "A GAO report revealed that the Department of Defense struggles to track F-35 spare parts, with over one million items unlocated as of March 2026.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "A GAO report revealed that the Department of Defense struggles to track F-35 spare parts, with over one million items unlocated as of March 2026."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "26 Oct 2001: Lockheed Martin selected as the prime contractor for the Joint Strike Fighter program following the X-35 concept demonstration phase.",
-            "17 Jul 2019: Following Turkey's acquisition of the Russian S-400 air defense system, the U.S. formally removed Turkey from the F-35 partnership and initiated a supply chain transition.",
-            "Aug 2023: The F-35 Joint Program Office and Lockheed Martin agreed on terms for Lot 15-17 production contracts, establishing baseline pricing for up to 398 jets (Contract).",
-            "2026: F-35 price : Italy’s F-35 program, which involves the eventual purchase of 115 aircraft, cost Italy €782 million in 2026, less than the the €961 million planners last year forecast it would receive (price, EUR 782 million) (Plan).",
-            "Mar 2026: As of March 2026, this pool comprised approximately 26 million spare parts valued at around $31 billion, the GAO reported (milestone).",
-            "Jul 2026: U.S. Air Force orders Lockheed Martin: The U.S. Air Force awarded Lockheed Martin a $1.6 billion contract for more spare parts in July (Contract, USD 1.6 billion).",
-            "22 Oct 2026: Lockheed Martin and the Pentagon announced a 10-year framework agreement for 850 U.S. F-35 aircraft and sustainment integration (Agreement)."
-          ],
-          "list": true,
-          "links": [
-            "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement",
-            "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement",
-            "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_procurement",
-            "https://www.defensenews.com/global/europe/2026/11/13/italy-boosts-gcap-fighter-spending-as-army-vehicles-take-a-hit-in-budget/",
-            "https://www.defensenews.com/pentagon/2026/11/10/pentagon-cant-track-millions-of-f-35-spare-parts-watchdog-finds/",
-            "https://www.defensenews.com/pentagon/2026/11/10/pentagon-cant-track-millions-of-f-35-spare-parts-watchdog-finds/",
-            "https://news.lockheedmartin.com/2026-10-22-New-Framework-Agreement-for-Multiyear-F-35-Production-and-Sustainment"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "The F-35 program evolved from prime contractor selection in October 2001 through production contracts and supply chain adjustments, signaling ongoing logistical challenges in sustainment integration."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Lockheed Martin depends on Alcoa / RTI International Metals — supplier of structural titanium plate, billet, and heavy structural bulkheads.",
-            "F-35 Joint Program Office depends on Lockheed Martin.",
-            "F-35 Joint Program Office depends on Pratt & Whitney."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense industry supply chain managers should audit inventory tracking systems to address growing component visibility gaps."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "A GAO report revealed that the Department of Defense struggles to track F-35 spare parts, with over one million items unlocated as of March 2026.",
-        "Context: 26 Oct 2001: Lockheed Martin selected as the prime contractor for the Joint Strike Fighter program following the X-35 concept demonstration phase. 17 Jul 2019: Following Turkey's acquisition of the Russian S-400 air defense system, the U.S. formally removed Turkey from the F-35 partnership and initiated a supply chain transition. Aug 2023: The F-35 Joint Program Office and Lockheed Martin agreed on terms for Lot 15-17 production contracts, establishing baseline pricing for up to 398 jets (Contract). 2026: F-35 price : Italy’s F-35 program, which involves the eventual purchase of 115 aircraft, cost Italy €782 million in 2026, less than the the €961 million planners last year forecast it would receive (price, EUR 782 million) (Plan). Mar 2026: As of March 2026, this pool comprised approximately 26 million spare parts valued at around $31 billion, the GAO reported (milestone). Jul 2026: U.S. Air Force orders Lockheed Martin: The U.S. Air Force awarded Lockheed Martin a $1.6 billion contract for more spare parts in July (Contract, USD 1.6 billion). 22 Oct 2026: Lockheed Martin and the Pentagon announced a 10-year framework agreement for 850 U.S. F-35 aircraft and sustainment integration (Agreement).",
-        "The bigger picture: The F-35 program evolved from prime contractor selection in October 2001 through production contracts and supply chain adjustments, signaling ongoing logistical challenges in sustainment integration.",
-        "Down the supply chain: Lockheed Martin depends on Alcoa / RTI International Metals — supplier of structural titanium plate, billet, and heavy structural bulkheads. F-35 Joint Program Office depends on Lockheed Martin. F-35 Joint Program Office depends on Pratt & Whitney.",
-        "Why it matters: Defense industry supply chain managers should audit inventory tracking systems to address growing component visibility gaps.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Zone Armée",
-          "url": "https://www.zonearmee.com/le-pentagone-perd-la-trace-de-26-millions-de-pieces-pour-ses-f-35-affectant-la-disponibilite-operationnelle/"
-        }
-      ],
-      "place": {
-        "label": "Washington, D.C.",
-        "lat": 38.8951,
-        "lon": -77.0364
-      }
-    },
-    {
-      "id": "syn-1186",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-20",
-      "title": "FFG Secures Major Dutch ACSV and WiSENT 2 Orders",
-      "summary": "The Netherlands awarded FFG a major contract for ACSV tracked support vehicles under the CGPV project alongside WiSENT 2 armoured recovery vehicles.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "The Netherlands awarded FFG a major contract for ACSV tracked support vehicles under the CGPV project alongside WiSENT 2 armoured recovery vehicles."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "2015: Norway placed its initial order for 6 WiSENT 2 Armoured Recovery Vehicles (ARVs) and 6 Armoured Engineer Vehicles (AEVs).",
-            "May 2018: The Norwegian Defence Material Agency (FMA) signed a contract for 51 units of FFG's Armoured Combat Support Vehicle (ACSV / PMMC G5) variant (Contract).",
-            "Jun 2023: The Ministry of Defence of the Netherlands announced plans to procure the Norwegian-derived M-GBAD air-defense system on the PMMC G5 / ACSV platform and outlined a requirement for 100 to 150 vehicles under the Combat General Purpose Vehicle (CGPV) project (Plan).",
-            "25 Apr 2025: Reports confirmed that the Netherlands formalized its intent to acquire 100–150 CGPV tracked support vehicles from FFG.",
-            "24 Aug 2026: DEUTZ AG completed its strategic acquisition of FFG Flensburger Fahrzeugbau Gesellschaft mbH, integrating FFG as a specialized defense business unit.",
-            "Oct 2026: Norway placed a follow-on order for 3 additional WiSENT 2 ARVs valued at approximately NOK 370 million under the Nansen program (NOK 370 million)."
-          ],
-          "list": true,
-          "links": [
-            "https://nordicdefencesector.com/en/article/norway-orders-three-more-wisent-2-recovery-vehicles-from-ffg",
-            "https://en.wikipedia.org/wiki/PMMC_G5",
-            "https://en.wikipedia.org/wiki/PMMC_G5",
-            "https://en.wikipedia.org/wiki/PMMC_G5",
-            "https://en.wikipedia.org/wiki/PMMC_G5",
-            "https://nordicdefencesector.com/en/article/norway-orders-three-more-wisent-2-recovery-vehicles-from-ffg"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following Norway's initial 2015 and 2018 vehicle orders, subsequent Dutch framework intentions and Deutz's 2026 acquisition of FFG culminated in integrated major procurement contracts, signaling a shift toward standardized modular tracked fleets and consolidated European defense industrial ties."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Miller Industries depends on Miller Industries Towing Equipment — Specialized recovery modules and crane subsystems integrated into recovery variants."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense procurement and supply chain professionals should monitor FFG delivery timelines and Dutch industrial participation opportunities for tracked support and recovery subsystems."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "The Netherlands awarded FFG a major contract for ACSV tracked support vehicles under the CGPV project alongside WiSENT 2 armoured recovery vehicles.",
-        "Context: 2015: Norway placed its initial order for 6 WiSENT 2 Armoured Recovery Vehicles (ARVs) and 6 Armoured Engineer Vehicles (AEVs). May 2018: The Norwegian Defence Material Agency (FMA) signed a contract for 51 units of FFG's Armoured Combat Support Vehicle (ACSV / PMMC G5) variant (Contract). Jun 2023: The Ministry of Defence of the Netherlands announced plans to procure the Norwegian-derived M-GBAD air-defense system on the PMMC G5 / ACSV platform and outlined a requirement for 100 to 150 vehicles under the Combat General Purpose Vehicle (CGPV) project (Plan). 25 Apr 2025: Reports confirmed that the Netherlands formalized its intent to acquire 100–150 CGPV tracked support vehicles from FFG. 24 Aug 2026: DEUTZ AG completed its strategic acquisition of FFG Flensburger Fahrzeugbau Gesellschaft mbH, integrating FFG as a specialized defense business unit. Oct 2026: Norway placed a follow-on order for 3 additional WiSENT 2 ARVs valued at approximately NOK 370 million under the Nansen program (NOK 370 million).",
-        "The bigger picture: Following Norway's initial 2015 and 2018 vehicle orders, subsequent Dutch framework intentions and Deutz's 2026 acquisition of FFG culminated in integrated major procurement contracts, signaling a shift toward standardized modular tracked fleets and consolidated European defense industrial ties.",
-        "Down the supply chain: Miller Industries depends on Miller Industries Towing Equipment — Specialized recovery modules and crane subsystems integrated into recovery variants.",
-        "Why it matters: Defense procurement and supply chain professionals should monitor FFG delivery timelines and Dutch industrial participation opportunities for tracked support and recovery subsystems.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Times Of Defence",
-          "url": "https://www.timesofdefence.com.tr/ffg-deutz-group-secures-major-dutch-orders-for-modular-acsv-tracked-vehicles-under-cgpv-project-and-wisent-2-armoured-recovery-vehicles/"
-        },
-        {
-          "n": 2,
-          "title": "Der Monitor für Defence und Sicherheitspolitik",
-          "url": "https://www.hartpunkt.de/niederlaendische-streitkraefte-bestellen-bergepanzer-wisent-2-und-mehrzweckplattform-acsv/"
-        }
-      ],
-      "place": {
-        "label": "Rotterdam",
-        "lat": 51.9244,
-        "lon": 4.4777
-      }
-    },
-    {
-      "id": "syn-1187",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-20",
-      "title": "Baykar Delivers First Three KIZILELMA Unmanned Fighters",
-      "summary": "Baykar announced that the first three production units completed acceptance trials and entered the inventory of Turkish security forces.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Baykar announced that the first three production units completed acceptance trials and entered the inventory of Turkish security forces."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "20 Jul 2021: Conceptual design renderings of the MİUS / KIZILELMA platform publicly unveiled by Baykar.",
-            "8 Oct 2025: Conducts first successful live-fire weapons tests utilizing TOLUN and TEBER-82 precision-guided munitions (Testing).",
-            "29 Nov 2025: Performs historic air-to-air beyond-visual-range (BVR) engagement test, destroying a target drone with a Gökdoğan missile guided by Aselsan's MURAD AESA radar.",
-            "28 Dec 2025: Completes world's first autonomous close-formation flight involving two unmanned fighter jets using smart-fleet autonomy algorithms.",
-            "20 May 2026: Conducts autonomous cooperative formation flight with Italian M-346 trainer aircraft, demonstrating manned-unmanned teaming capabilities (Agreement).",
-            "13 Jul 2026: Successfully engages target using a JET-230 supersonic ballistic missile from internal bays.",
-            "19 Nov 2026: First three production units officially complete acceptance trials and are inducted into Turkish security forces' inventory (Testing)."
-          ],
-          "list": true,
-          "links": [
-            "https://baykartech.com/en/press/a-first-in-global-aviation-history-kizilelma-enters-turkiyes-inventory/",
-            "https://clashreport.com/defense/articles/baykar-kizilelma-three-jets-delivered-inventory-ebocdfqgwhj",
-            "https://en.wikipedia.org/wiki/Bayraktar_K%C4%B1z%C4%B1lelma",
-            "https://aeromorning.com/en/baykar-technology-reports-major-milestones-for-bayraktar-kizilelma-unmanned-fighter-jet/",
-            "https://clashreport.com/defense/articles/baykar-kizilelma-three-jets-delivered-inventory-ebocdfqgwhj",
-            "https://clashreport.com/defense/articles/baykar-kizilelma-three-jets-delivered-inventory-ebocdfqgwhj",
-            "https://baykartech.com/en/press/a-first-in-global-aviation-history-kizilelma-enters-turkiyes-inventory/"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following conceptual unveiling in July 2021, the platform progressed rapidly through weapons testing, autonomous formation flights, and manned-unmanned teaming trials before its November 2026 delivery, signaling a rapid shift toward fielded autonomous airpower."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Bayraktar KIZILELMA depends on Aselsan (Türkiye) — Active Electronically Scanned Array (AESA) Radar (MURAD)."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense procurement and supply chain professionals should monitor Baykar's rapid self-funded delivery timeline and integrate opportunities for autonomous fighter sub-systems."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Baykar announced that the first three production units completed acceptance trials and entered the inventory of Turkish security forces.",
-        "Context: 20 Jul 2021: Conceptual design renderings of the MİUS / KIZILELMA platform publicly unveiled by Baykar. 8 Oct 2025: Conducts first successful live-fire weapons tests utilizing TOLUN and TEBER-82 precision-guided munitions (Testing). 29 Nov 2025: Performs historic air-to-air beyond-visual-range (BVR) engagement test, destroying a target drone with a Gökdoğan missile guided by Aselsan's MURAD AESA radar. 28 Dec 2025: Completes world's first autonomous close-formation flight involving two unmanned fighter jets using smart-fleet autonomy algorithms. 20 May 2026: Conducts autonomous cooperative formation flight with Italian M-346 trainer aircraft, demonstrating manned-unmanned teaming capabilities (Agreement). 13 Jul 2026: Successfully engages target using a JET-230 supersonic ballistic missile from internal bays. 19 Nov 2026: First three production units officially complete acceptance trials and are inducted into Turkish security forces' inventory (Testing).",
-        "The bigger picture: Following conceptual unveiling in July 2021, the platform progressed rapidly through weapons testing, autonomous formation flights, and manned-unmanned teaming trials before its November 2026 delivery, signaling a rapid shift toward fielded autonomous airpower.",
-        "Down the supply chain: Bayraktar KIZILELMA depends on Aselsan (Türkiye) — Active Electronically Scanned Array (AESA) Radar (MURAD).",
-        "Why it matters: Defense procurement and supply chain professionals should monitor Baykar's rapid self-funded delivery timeline and integrate opportunities for autonomous fighter sub-systems.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Times Of Defence",
-          "url": "https://www.timesofdefence.com.tr/baykar-delivers-first-three-bayraktar-kizilelma-unmanned-fighter-aircraft-to-turkish-security-forces-entering-operational-inventory-after-600-test-and-training-sorties/"
-        }
-      ],
-      "place": {
-        "label": "Türkiye",
-        "lat": 38.9637,
-        "lon": 35.2433
       }
     }
   ]
