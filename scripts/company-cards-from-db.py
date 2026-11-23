@@ -47,6 +47,11 @@ def fetch():
         sys.exit(f'RPC failed, HTTP status {e.code}; no credentials logged')
 
 
+def card_hash(claims, sources):
+    import hashlib
+    return hashlib.sha256(json.dumps([claims, sources], ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:16]
+
+
 def apply(companies, root, news=()):
     """news: [{'name', 'country'}] companies found in the news by FIELD (owner 23.11.2026): a catalogue record
     with status 'from_news' ("From the news — not verified") so a news item can link to it; no profile, no map count."""
@@ -58,7 +63,7 @@ def apply(companies, root, news=()):
     by_key = {(catalogue_norm(r['name']), r.get('country')): r['name'] for r in directory['companies']}
     point_keys = {(catalogue_norm(f['properties']['name']), f['properties'].get('country') or '') for f in points}
     by_country = {f['properties']['country']: f for f in groups['features']}
-    added, catalogue, skipped = [], [], []
+    added, catalogue, skipped, updated = [], [], [], []
     rows = directory['companies']
     for co in sorted(companies, key=lambda c: (c['country'] or '', c['name'])):
         claims, sources = co['claims'] or [], co['sources'] or []
@@ -81,9 +86,18 @@ def apply(companies, root, news=()):
                 by_country[rec['country']]['properties']['count'] += 1
             catalogue.append(name)
         k = slug(name)
-        if k in profiles['profiles']:
-            continue  # a published profile is never replaced
-        profiles['profiles'][k] = build(co['company_id'], claims, sources, co['country'], co['reviewed'])
+        card = build(co['company_id'], claims, sources, co['country'], co['reviewed'])
+        card['card_hash'] = card_hash(claims, sources)
+        old = profiles['profiles'].get(k)
+        if old is not None:
+            # owner 23.11.2026 (D-20261123-COMPANY-CARDS-AUTOPUBLISH): a card built by this builder is rebuilt when
+            # its sourced claims changed (EDF project details, refreshes); any other published profile stays as is
+            if not str(old.get('method') or '').startswith('BOHUN slice 3 card') or old.get('card_hash') == card['card_hash']:
+                continue
+            profiles['profiles'][k] = card
+            updated.append(f"{co['country']} {name}")
+            continue
+        profiles['profiles'][k] = card
         added.append(f"{co['country']} {name}")
     names = {catalogue_norm(r['name']) for r in rows}
     news_added = []
@@ -96,7 +110,7 @@ def apply(companies, root, news=()):
                      'about': None, 'status': 'from_news'})
         names.add(key)
         news_added.append(f"{country or '--'} {name}")
-    if added or catalogue or news_added:
+    if added or catalogue or news_added or updated:
         directory['total'] = len(rows)
         if SOURCE not in directory['sources']:
             directory['sources'].append(SOURCE)
@@ -104,7 +118,8 @@ def apply(companies, root, news=()):
         ppath.write_text(json.dumps(profiles, ensure_ascii=False, indent=2))
         dpath.write_text(json.dumps(directory, ensure_ascii=False, separators=(',', ':')))
         gpath.write_text(json.dumps(groups, ensure_ascii=False))
-    return {'profiles_added': added, 'catalogue_added': catalogue, 'news_added': news_added, 'skipped': skipped,
+    return {'profiles_added': added, 'profiles_updated': updated, 'catalogue_added': catalogue, 'news_added': news_added,
+            'skipped': skipped,
             'profiles_total': len(profiles['profiles']), 'catalogue_total': len(rows)}
 
 
@@ -118,11 +133,12 @@ if __name__ == '__main__':
     out = os.environ.get('GITHUB_OUTPUT')
     if out:
         with open(out, 'a') as f:
-            f.write(f"added={len(result['profiles_added']) + len(result['news_added'])}\n")
+            f.write(f"added={len(result['profiles_added']) + len(result['news_added']) + len(result['profiles_updated'])}\n")
     body = Path('company-cards-summary.md')
     body.write_text('Company cards from the database (autofill, B4CE-04 step 3.5).\n\n'
                     + f"Profiles added: {len(result['profiles_added'])}; catalogue records added: {len(result['catalogue_added'])}; "
                     + f"companies from the news added to the catalogue (not verified): {len(result['news_added'])}; "
+                    + f"profiles rebuilt from changed claims: {len(result['profiles_updated'])}; "
                     + f"total profiles {result['profiles_total']}, catalogue {result['catalogue_total']}.\n\n"
                     + ''.join(f'- {a}\n' for a in result['profiles_added'])
                     + ('\nSkipped:\n' + ''.join(f'- {n}: {why}\n' for n, why in result['skipped']) if result['skipped'] else ''))

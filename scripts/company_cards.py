@@ -29,6 +29,40 @@ def plural(n, word):
     return f'{n} {word}' + ('' if n == 1 else 's')
 
 
+def money(v):
+    """€19.7M / €950K."""
+    if v is None:
+        return None
+    return f'€{v / 1e6:.1f}M' if v >= 1e6 else f'€{v / 1e3:.0f}K'
+
+
+def years(a, b):
+    a, b = (a or '')[:4], (b or '')[:4]
+    return f'{a}–{b}' if a and b and a != b else a or b
+
+
+def edf_line(p):
+    """A programme line for an EDF project with details (owner 23.11.2026): what the project is, the company's role
+    and money, dates, link."""
+    e = p['edf']
+    head = ' — '.join(x for x in (e.get('acronym'), e.get('title')) if x) or f'European Defence Fund project {p["ref"]}'
+    role = {'coordinator': 'Coordinator', 'participant': 'Participant'}.get(e.get('role') or '', 'Partner')
+    bits = [role]
+    if e.get('company_eu'):
+        bits.append(f'EU funding {money(e["company_eu"])}' + (f' of {money(e["eu_total"])}' if e.get('eu_total') else ''))
+    elif e.get('eu_total'):
+        bits.append(f'project {money(e["eu_total"])}')
+    if e.get('partners'):
+        bits.append(f'{e["partners"]} partners')
+    span = years(e.get('start'), e.get('end'))
+    if span:
+        bits.append(span)
+    topic = e.get('topic') or e.get('call') or ''
+    return {'title': head, 'sub': ' · '.join(bits), 'status': 'Grant · ' + (e.get('status') or 'Signed'), 'icon': 'coins',
+            'date': fmt(p['date']), 'desc': f'EDF {topic}'.strip(), 'color': 'orange', 'href': e.get('url') or p.get('url'),
+            '_order': (e.get('status') != 'Ongoing', -(e.get('company_eu') or 0), p.get('date') or '')}
+
+
 def build(co, claims, sources, country, reviewed):
     date_text = fmt(reviewed)
     v = {c['ref']: c['value'] for c in claims}
@@ -57,6 +91,15 @@ def build(co, claims, sources, country, reviewed):
     if edf:
         yrs = sorted({p['date'][:4] for p in edf if p.get('date')})
         parts.append(f'It takes part in {plural(len(edf), "European Defence Fund project")}' + (f' ({yrs[0]}–{yrs[-1]})' if len(yrs) > 1 else f' ({yrs[0]})' if yrs else '') + '.')
+        det = [p['edf'] for p in edf if p.get('edf')]
+        if det:
+            lead = sum(1 for e in det if e.get('role') == 'coordinator')
+            got = sum(e.get('company_eu') or 0 for e in det)
+            live = sum(1 for e in det if e.get('status') == 'Ongoing')
+            extra = [f'coordinates {lead}' if lead else '', f'{live} ongoing' if live else '',
+                     f'EU funding to the company {money(got)}' if got else '']
+            if any(extra):
+                parts.append('Of these, ' + ', '.join(x for x in extra if x) + '.')
     for t in ted:
         parts.append(f'EU procurement records (TED) list a contract award by {t["counterpart"]} ({fmt(t["date"])}).')
     if us:
@@ -71,16 +114,24 @@ def build(co, claims, sources, country, reviewed):
 
     programmes = []
     for p in progs:
-        if p['kind'] == 'edf_grant':
+        if p['kind'] == 'edf_grant' and p.get('edf'):
+            programmes.append(edf_line(p))
+        elif p['kind'] == 'edf_grant':
             call = p['counterpart'].split('(EDF)')[-1].strip()
             programmes.append({'title': f'European Defence Fund project {p["ref"]}', 'sub': f'EU defence research and development · call {call}',
-                               'status': 'Grant', 'icon': 'coins', 'date': fmt(p['date']), 'desc': f'Call {call}', 'color': 'orange'})
+                               'status': 'Grant', 'icon': 'coins', 'date': fmt(p['date']), 'desc': f'Call {call}', 'color': 'orange',
+                               'href': p.get('url')})
         elif p['kind'] == 'tender_award':
             programmes.append({'title': f'Contract award · {p["counterpart"]}', 'sub': f'TED notice {p["ref"]}', 'status': 'Contract award',
                                'icon': 'landmark', 'date': fmt(p['date']), 'desc': f'TED notice {p["ref"]}', 'color': 'orange'})
         else:
             programmes.append({'title': 'US Department of Defense contracts', 'sub': 'Recipient profile on USAspending.gov',
                                'status': 'Contracts', 'icon': 'landmark', 'date': '', 'desc': 'Federal spending records', 'color': 'orange'})
+
+    if any('_order' in x for x in programmes):  # ongoing first, then by the company's EU funding
+        programmes.sort(key=lambda x: x.get('_order') or (True, 0, ''))
+    for x in programmes:
+        x.pop('_order', None)
 
     tree, items = [], []
     for p in prods:
@@ -112,7 +163,8 @@ def build(co, claims, sources, country, reviewed):
     evidence.append({'claim': 'Technologies, financials and relationships beyond these records', 'sources': 0, 'date': date_text,
                      'status': 'Not assessed yet', 'source': 'BOHUN', 'href': ''})
 
-    devs = [{'date': fmt(p['date']), 'title': (f'European Defence Fund project {p["ref"]}' if p['kind'] == 'edf_grant' else f'Contract award by {p["counterpart"]}'),
+    devs = [{'date': fmt(p['date']), 'title': ((' — '.join(x for x in ((p.get('edf') or {}).get('acronym'), (p.get('edf') or {}).get('title')) if x)
+                                                or f'European Defence Fund project {p["ref"]}') if p['kind'] == 'edf_grant' else f'Contract award by {p["counterpart"]}'),
              'tags': ['EDF' if p['kind'] == 'edf_grant' else 'TED'], 'color': 'blue', 'href': p['url']}
             for p in progs if p.get('date')][:6]
     level_short = meta.split(' · ')[0].replace('Defence participation', 'Defence')
