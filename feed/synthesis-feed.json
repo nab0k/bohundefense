@@ -264,10 +264,10 @@
           ]
         },
         {
-          "name": "THALES S.A.",
+          "name": "Thales Alenia Space",
           "country": "FR",
           "text": [
-            "Thales"
+            "Thales Alenia Space"
           ]
         },
         {
@@ -275,6 +275,13 @@
           "country": "FR",
           "text": [
             "Eutelsat"
+          ]
+        },
+        {
+          "name": "Airbus Defence",
+          "country": "",
+          "text": [
+            "Airbus Defence"
           ]
         },
         {
@@ -432,6 +439,20 @@
           "text": [
             "Rheinmetall"
           ]
+        },
+        {
+          "name": "Rheinmetall Caracal",
+          "country": "DE",
+          "text": [
+            "Rheinmetall Caracal"
+          ]
+        },
+        {
+          "name": "Armoured Car Systems GmbH",
+          "country": "",
+          "text": [
+            "Armoured Car Systems"
+          ]
         }
       ]
     },
@@ -503,7 +524,16 @@
         "label": "Ottawa",
         "lat": 45.4215,
         "lon": -75.6972
-      }
+      },
+      "companies": [
+        {
+          "name": "Bell Textron",
+          "country": "US",
+          "text": [
+            "Bell Textron"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-233",
@@ -579,7 +609,16 @@
         "label": "Strait of Hormuz",
         "lat": 26.5667,
         "lon": 56.25
-      }
+      },
+      "companies": [
+        {
+          "name": "Saronic",
+          "country": "US",
+          "text": [
+            "Saronic"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-234",
@@ -808,6 +847,13 @@
           "text": [
             "Dynamit Nobel Defence"
           ]
+        },
+        {
+          "name": "Dynamit Nobel Defence Hungary Zrt",
+          "country": "",
+          "text": [
+            "Dynamit Nobel Defence Hungary Zrt"
+          ]
         }
       ]
     },
@@ -887,7 +933,37 @@
         "label": "Beijing",
         "lat": 39.9042,
         "lon": 116.4074
-      }
+      },
+      "companies": [
+        {
+          "name": "Aviation Industry Corporation of China",
+          "country": "",
+          "text": [
+            "Aviation Industry Corporation of China"
+          ]
+        },
+        {
+          "name": "Shenyang Aircraft Corporation",
+          "country": "",
+          "text": [
+            "Shenyang Aircraft"
+          ]
+        },
+        {
+          "name": "China State Shipbuilding Corporation",
+          "country": "",
+          "text": [
+            "China State Shipbuilding"
+          ]
+        },
+        {
+          "name": "Hudong-Zhonghua Shipbuilding",
+          "country": "",
+          "text": [
+            "Hudong-Zhonghua Shipbuilding"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-260",
@@ -1033,7 +1109,16 @@
         "label": "Ottawa",
         "lat": 45.4215,
         "lon": -75.6972
-      }
+      },
+      "companies": [
+        {
+          "name": "GE Aerospace",
+          "country": "",
+          "text": [
+            "GE Aerospace"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1263",
@@ -1185,10 +1270,24 @@
       },
       "companies": [
         {
+          "name": "Hanwha Ocean",
+          "country": "KR",
+          "text": [
+            "Hanwha Ocean"
+          ]
+        },
+        {
           "name": "NAVANTIA SA",
           "country": "ES",
           "text": [
             "Navantia"
+          ]
+        },
+        {
+          "name": "Hanwha Systems",
+          "country": "",
+          "text": [
+            "Hanwha Systems"
           ]
         },
         {
@@ -1553,6 +1652,13 @@
           ]
         },
         {
+          "name": "Thales Suisse SA",
+          "country": "",
+          "text": [
+            "Thales Suisse"
+          ]
+        },
+        {
           "name": "Thales Nederland",
           "country": "NL",
           "text": [
@@ -1649,7 +1755,30 @@
         "label": "Washington, D.C.",
         "lat": 38.8951,
         "lon": -77.0364
-      }
+      },
+      "companies": [
+        {
+          "name": "General Atomics",
+          "country": "US",
+          "text": [
+            "General Atomics"
+          ]
+        },
+        {
+          "name": "Anduril",
+          "country": "US",
+          "text": [
+            "Anduril"
+          ]
+        },
+        {
+          "name": "Shield AI",
+          "country": "US",
+          "text": [
+            "Shield AI"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1215",
@@ -1830,6 +1959,20 @@
           "text": [
             "Damen Naval"
           ]
+        },
+        {
+          "name": "Alewijnse",
+          "country": "NL",
+          "text": [
+            "Alewijnse"
+          ]
+        },
+        {
+          "name": "Damen Shipyards Galati",
+          "country": "",
+          "text": [
+            "Damen Shipyards Galați"
+          ]
         }
       ]
     },
@@ -1911,7 +2054,30 @@
         "label": "HMAS Albatross, Nowra, Australia",
         "lat": -34.8667,
         "lon": 150.5333
-      }
+      },
+      "companies": [
+        {
+          "name": "Sikorsky",
+          "country": "US",
+          "text": [
+            "Sikorsky"
+          ]
+        },
+        {
+          "name": "Sikorsky Australia",
+          "country": "AU",
+          "text": [
+            "Sikorsky Australia"
+          ]
+        },
+        {
+          "name": "Sikorsky Aircraft Corporation",
+          "country": "",
+          "text": [
+            "Sikorsky Aircraft"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1222",
@@ -2182,7 +2348,30 @@
         "label": "Istanbul, Turkey",
         "lat": 41.0082,
         "lon": 28.9784
-      }
+      },
+      "companies": [
+        {
+          "name": "Bayraktar",
+          "country": "TR",
+          "text": [
+            "Bayraktar"
+          ]
+        },
+        {
+          "name": "Baykar",
+          "country": "TR",
+          "text": [
+            "Baykar"
+          ]
+        },
+        {
+          "name": "Aselsan",
+          "country": "TR",
+          "text": [
+            "Aselsan"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1217",
@@ -2370,7 +2559,23 @@
         "label": "London",
         "lat": 51.5074,
         "lon": -0.1278
-      }
+      },
+      "companies": [
+        {
+          "name": "General Dynamics United Kingdom Ltd",
+          "country": "",
+          "text": [
+            "General Dynamics United Kingdom"
+          ]
+        },
+        {
+          "name": "Airbus Defence",
+          "country": "",
+          "text": [
+            "Airbus Defence"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1214",
@@ -2524,7 +2729,30 @@
         "label": "Washington, D.C.",
         "lat": 38.8951,
         "lon": -77.0364
-      }
+      },
+      "companies": [
+        {
+          "name": "Anduril",
+          "country": "US",
+          "text": [
+            "Anduril"
+          ]
+        },
+        {
+          "name": "Castelion",
+          "country": "US",
+          "text": [
+            "Castelion"
+          ]
+        },
+        {
+          "name": "Sierra Nevada Corporation",
+          "country": "",
+          "text": [
+            "Sierra Nevada"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1205",
@@ -2696,7 +2924,30 @@
         "label": "Shenzhen",
         "lat": 22.5431,
         "lon": 114.0579
-      }
+      },
+      "companies": [
+        {
+          "name": "Boeing Commercial Airplanes",
+          "country": "US",
+          "text": [
+            "Boeing Commercial Airplanes"
+          ]
+        },
+        {
+          "name": "GE Aerospace",
+          "country": "",
+          "text": [
+            "GE Aerospace"
+          ]
+        },
+        {
+          "name": "General Electric",
+          "country": "US",
+          "text": [
+            "General Electric"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1255",
@@ -2786,10 +3037,24 @@
       },
       "companies": [
         {
-          "name": "THALES S.A.",
+          "name": "Airbus Defence",
+          "country": "",
+          "text": [
+            "Airbus Defence"
+          ]
+        },
+        {
+          "name": "Thales Alenia Space",
           "country": "FR",
           "text": [
-            "Thales"
+            "Thales Alenia Space"
+          ]
+        },
+        {
+          "name": "SpaceX",
+          "country": "US",
+          "text": [
+            "SpaceX"
           ]
         },
         {
@@ -3180,7 +3445,16 @@
           "url": "https://www.zonearmee.com/nouvelles-restrictions-sur-starlink-entravent-la-defense-ukrainienne-en-pleine-guerre-intense/"
         }
       ],
-      "place": null
+      "place": null,
+      "companies": [
+        {
+          "name": "SpaceX",
+          "country": "US",
+          "text": [
+            "SpaceX"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1274",
@@ -3618,7 +3892,16 @@
           "url": "https://thedefenselog.com/cfl-120-karpat-medium-tank-120mm-gun/"
         }
       ],
-      "place": null
+      "place": null,
+      "companies": [
+        {
+          "name": "FNSS Savunma Sistemleri A.Ş",
+          "country": "TR",
+          "text": [
+            "FNSS Savunma Sistemleri A.Ş"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1261",
@@ -3699,7 +3982,30 @@
         "label": "Washington, D.C.",
         "lat": 38.8951,
         "lon": -77.0364
-      }
+      },
+      "companies": [
+        {
+          "name": "Newport News Shipbuilding",
+          "country": "",
+          "text": [
+            "Newport News Shipbuilding"
+          ]
+        },
+        {
+          "name": "General Dynamics Electric Boat",
+          "country": "",
+          "text": [
+            "General Dynamics Electric Boat"
+          ]
+        },
+        {
+          "name": "Huntington Ingalls Industries",
+          "country": "",
+          "text": [
+            "Huntington Ingalls Industries"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1260",
@@ -3779,7 +4085,16 @@
         "label": "Washington, D.C.",
         "lat": 38.8951,
         "lon": -77.0364
-      }
+      },
+      "companies": [
+        {
+          "name": "Rhoman Aerospace",
+          "country": "",
+          "text": [
+            "Rhoman Aerospace"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1258",
@@ -4021,10 +4336,24 @@
       },
       "companies": [
         {
+          "name": "GKN Fokker",
+          "country": "NL",
+          "text": [
+            "GKN Fokker"
+          ]
+        },
+        {
           "name": "Airbus Helicopters Deutschland GmbH",
           "country": "DE",
           "text": [
             "Airbus Helicopters Deutschland"
+          ]
+        },
+        {
+          "name": "Leonardo Helicopters",
+          "country": "IT",
+          "text": [
+            "Leonardo Helicopters"
           ]
         }
       ]
@@ -4680,7 +5009,16 @@
         "label": "Capo Teulada",
         "lat": 38.9,
         "lon": 8.6
-      }
+      },
+      "companies": [
+        {
+          "name": "Leonardo Helicopters",
+          "country": "IT",
+          "text": [
+            "Leonardo Helicopters"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1295",
@@ -4944,6 +5282,13 @@
           "country": "FR",
           "text": [
             "Thales"
+          ]
+        },
+        {
+          "name": "Hanwha Systems",
+          "country": "",
+          "text": [
+            "Hanwha Systems"
           ]
         },
         {
@@ -5678,7 +6023,30 @@
         "label": "Turkey",
         "lat": 38.9637,
         "lon": 35.2433
-      }
+      },
+      "companies": [
+        {
+          "name": "Baykar",
+          "country": "TR",
+          "text": [
+            "Baykar"
+          ]
+        },
+        {
+          "name": "Bayraktar",
+          "country": "TR",
+          "text": [
+            "Bayraktar"
+          ]
+        },
+        {
+          "name": "Aselsan",
+          "country": "TR",
+          "text": [
+            "Aselsan"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1293",
@@ -5955,6 +6323,13 @@
           "text": [
             "Helsing"
           ]
+        },
+        {
+          "name": "STARK Defence GmbH",
+          "country": "",
+          "text": [
+            "STARK Defence"
+          ]
         }
       ]
     },
@@ -6202,7 +6577,30 @@
         "label": "Warsaw",
         "lat": 52.2297,
         "lon": 21.0122
-      }
+      },
+      "companies": [
+        {
+          "name": "Meteor",
+          "country": "FR",
+          "text": [
+            "Meteor"
+          ]
+        },
+        {
+          "name": "Honeywell Life Support",
+          "country": "US",
+          "text": [
+            "Honeywell Life Support"
+          ]
+        },
+        {
+          "name": "Honeywell",
+          "country": "US",
+          "text": [
+            "Honeywell"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1248",
@@ -6285,7 +6683,16 @@
         "label": "Whiteman Air Force Base",
         "lat": 38.7303,
         "lon": -93.5557
-      }
+      },
+      "companies": [
+        {
+          "name": "Boeing Defense",
+          "country": "",
+          "text": [
+            "Boeing Defense"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1219",
@@ -6452,7 +6859,30 @@
         "label": "Paris",
         "lat": 48.8566,
         "lon": 2.3522
-      }
+      },
+      "companies": [
+        {
+          "name": "Newport News Shipbuilding",
+          "country": "",
+          "text": [
+            "Newport News Shipbuilding"
+          ]
+        },
+        {
+          "name": "General Dynamics Electric Boat",
+          "country": "",
+          "text": [
+            "General Dynamics Electric Boat"
+          ]
+        },
+        {
+          "name": "Huntington Ingalls Industries",
+          "country": "",
+          "text": [
+            "Huntington Ingalls Industries"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1292",
@@ -6619,6 +7049,13 @@
       },
       "companies": [
         {
+          "name": "Babcock",
+          "country": "GB",
+          "text": [
+            "Babcock"
+          ]
+        },
+        {
           "name": "Thales Nederland",
           "country": "NL",
           "text": [
@@ -6781,7 +7218,16 @@
         "label": "Fort Worth, Texas",
         "lat": 32.7555,
         "lon": -97.3308
-      }
+      },
+      "companies": [
+        {
+          "name": "L3Harris",
+          "country": "US",
+          "text": [
+            "L3Harris"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-236",
@@ -6869,6 +7315,27 @@
             "Quantum Systems",
             "Quantum-Systems"
           ]
+        },
+        {
+          "name": "Quantum Systems Japan K.K",
+          "country": "",
+          "text": [
+            "Quantum Systems Japan K.K"
+          ]
+        },
+        {
+          "name": "Mitsubishi Chemical",
+          "country": "JP",
+          "text": [
+            "Mitsubishi Chemical"
+          ]
+        },
+        {
+          "name": "Panasonic",
+          "country": "JP",
+          "text": [
+            "Panasonic"
+          ]
         }
       ]
     },
@@ -6950,6 +7417,20 @@
         "lon": -75.1652
       },
       "companies": [
+        {
+          "name": "Hanwha Defense USA",
+          "country": "",
+          "text": [
+            "Hanwha Defense USA"
+          ]
+        },
+        {
+          "name": "Hanwha Philly Shipyard",
+          "country": "",
+          "text": [
+            "Hanwha Philly Shipyard"
+          ]
+        },
         {
           "name": "FINCANTIERI S.p.A.",
           "country": "IT",
@@ -7209,7 +7690,16 @@
         "label": "Liege",
         "lat": 50.6326,
         "lon": 5.5797
-      }
+      },
+      "companies": [
+        {
+          "name": "Accuracy International AX",
+          "country": "",
+          "text": [
+            "Accuracy International AX"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-225",
@@ -7365,7 +7855,23 @@
         "label": "Gölbaşı",
         "lat": 39.7853,
         "lon": 32.8083
-      }
+      },
+      "companies": [
+        {
+          "name": "Aselsan",
+          "country": "TR",
+          "text": [
+            "Aselsan"
+          ]
+        },
+        {
+          "name": "AB MikroNano",
+          "country": "",
+          "text": [
+            "MikroNano"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-265",
@@ -7451,6 +7957,27 @@
             "Quantum Systems",
             "Quantum-Systems"
           ]
+        },
+        {
+          "name": "Quantum Systems Japan K.K",
+          "country": "",
+          "text": [
+            "Quantum Systems Japan K.K"
+          ]
+        },
+        {
+          "name": "Mitsubishi Chemical",
+          "country": "JP",
+          "text": [
+            "Mitsubishi Chemical"
+          ]
+        },
+        {
+          "name": "Panasonic",
+          "country": "JP",
+          "text": [
+            "Panasonic"
+          ]
         }
       ]
     },
@@ -7520,7 +8047,16 @@
         "label": "Melbourne",
         "lat": -37.8136,
         "lon": 144.9631
-      }
+      },
+      "companies": [
+        {
+          "name": "Toll Group",
+          "country": "",
+          "text": [
+            "Toll Group"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-262",
@@ -7662,7 +8198,16 @@
         "label": "Kyiv",
         "lat": 50.4501,
         "lon": 30.5234
-      }
+      },
+      "companies": [
+        {
+          "name": "L3Harris",
+          "country": "US",
+          "text": [
+            "L3Harris"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-259",
@@ -7730,7 +8275,23 @@
         "label": "Redditch",
         "lat": 52.3085,
         "lon": -1.9363
-      }
+      },
+      "companies": [
+        {
+          "name": "L3Harris",
+          "country": "US",
+          "text": [
+            "L3Harris"
+          ]
+        },
+        {
+          "name": "Aerojet Rocketdyne",
+          "country": "US",
+          "text": [
+            "Aerojet Rocketdyne"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-258",
@@ -7822,10 +8383,24 @@
           ]
         },
         {
+          "name": "Nikon Advanced Manufacturing",
+          "country": "",
+          "text": [
+            "Nikon Advanced Manufacturing"
+          ]
+        },
+        {
           "name": "Nikon SLM Solutions AG",
           "country": "DE",
           "text": [
             "Nikon SLM Solutions"
+          ]
+        },
+        {
+          "name": "Williams International",
+          "country": "",
+          "text": [
+            "Williams International"
           ]
         }
       ]
@@ -7899,7 +8474,23 @@
         "label": "Barrow-in-Furness",
         "lat": 54.1132,
         "lon": -3.2267
-      }
+      },
+      "companies": [
+        {
+          "name": "Babcock",
+          "country": "GB",
+          "text": [
+            "Babcock"
+          ]
+        },
+        {
+          "name": "Rolls-Royce Submarines",
+          "country": "GB",
+          "text": [
+            "Rolls-Royce Submarines"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-289",
@@ -7989,6 +8580,13 @@
           ]
         },
         {
+          "name": "Airbus Defence",
+          "country": "",
+          "text": [
+            "Airbus Defence"
+          ]
+        },
+        {
           "name": "AEROSPACELAB",
           "country": "BE",
           "text": [
@@ -7996,10 +8594,10 @@
           ]
         },
         {
-          "name": "THALES S.A.",
+          "name": "Thales Alenia Space",
           "country": "FR",
           "text": [
-            "Thales"
+            "Thales Alenia Space"
           ]
         },
         {
@@ -8184,7 +8782,37 @@
         "label": "Prague",
         "lat": 50.0755,
         "lon": 14.4378
-      }
+      },
+      "companies": [
+        {
+          "name": "L3Harris",
+          "country": "US",
+          "text": [
+            "L3Harris"
+          ]
+        },
+        {
+          "name": "Aerojet Rocketdyne",
+          "country": "US",
+          "text": [
+            "Aerojet Rocketdyne"
+          ]
+        },
+        {
+          "name": "Hypersonica",
+          "country": "DE",
+          "text": [
+            "Hypersonica"
+          ]
+        },
+        {
+          "name": "Plural",
+          "country": "GB",
+          "text": [
+            "Plural"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-357",
