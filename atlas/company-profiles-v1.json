@@ -22823,7 +22823,7 @@
       "developments": [
         {
           "date": "20 Oct 2025",
-          "title": "European Defence Fund project 101224135",
+          "title": "Q-ARM — Quantum Agile and Resilient Military Communications",
           "tags": [
             "EDF"
           ],
@@ -22832,7 +22832,7 @@
         },
         {
           "date": "18 Nov 2024",
-          "title": "European Defence Fund project 101167770",
+          "title": "NEMO — NEMO (laNguagE Modules develOpment) will develop a demonstrator of a variety of Human Language Technologies (HLTs) tailored on the needs of Defence, especially user-driven adaptation.",
           "tags": [
             "EDF"
           ],
@@ -22841,7 +22841,7 @@
         },
         {
           "date": "08 Dec 2022",
-          "title": "European Defence Fund project 101103208",
+          "title": "ACTING — Advanced European platform and network of Cybersecurity training and exercises centres",
           "tags": [
             "EDF"
           ],
@@ -22861,8 +22861,8 @@
         ]
       ],
       "about": {
-        "workspace": "DEFENCE RESEARCH INSTITUTE is a French company registered in 2019, with its seat in Boulogne-Billancourt. It takes part in 3 European Defence Fund projects (2022–2025).",
-        "overview": "DEFENCE RESEARCH INSTITUTE is a French company registered in 2019, with its seat in Boulogne-Billancourt. It takes part in 3 European Defence Fund projects (2022–2025)."
+        "workspace": "DEFENCE RESEARCH INSTITUTE is a French company registered in 2019, with its seat in Boulogne-Billancourt. It takes part in 3 European Defence Fund projects (2022–2025). Of these, 3 ongoing, EU funding to the company €637K.",
+        "overview": "DEFENCE RESEARCH INSTITUTE is a French company registered in 2019, with its seat in Boulogne-Billancourt. It takes part in 3 European Defence Fund projects (2022–2025). Of these, 3 ongoing, EU funding to the company €637K."
       },
       "facts": {
         "workspace": [
@@ -22907,60 +22907,66 @@
       "programmes": {
         "workspace": [
           {
-            "title": "European Defence Fund project 101224135",
-            "sub": "EU defence research and development · call EDF-2024-LS-RA-DIS",
-            "status": "Grant",
-            "icon": "coins",
-            "date": "20 Oct 2025",
-            "desc": "Call EDF-2024-LS-RA-DIS",
-            "color": "orange"
-          },
-          {
-            "title": "European Defence Fund project 101167770",
-            "sub": "EU defence research and development · call EDF-2023-LS-RA-CHALLENGE",
-            "status": "Grant",
-            "icon": "coins",
-            "date": "18 Nov 2024",
-            "desc": "Call EDF-2023-LS-RA-CHALLENGE",
-            "color": "orange"
-          },
-          {
-            "title": "European Defence Fund project 101103208",
-            "sub": "EU defence research and development · call EDF-2021-CYBER-D-2",
-            "status": "Grant",
+            "title": "ACTING — Advanced European platform and network of Cybersecurity training and exercises centres",
+            "sub": "Participant · EU funding €250K of €16.3M · 30 partners · 2022–2026",
+            "status": "Grant · Ongoing",
             "icon": "coins",
             "date": "08 Dec 2022",
-            "desc": "Call EDF-2021-CYBER-D-2",
-            "color": "orange"
+            "desc": "EDF EDF-2021-CYBER-D-IECTE-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103208/EDF"
+          },
+          {
+            "title": "NEMO — NEMO (laNguagE Modules develOpment) will develop a demonstrator of a variety of Human Language Technologies (HLTs) tailored on the needs of Defence, especially user-driven adaptation.",
+            "sub": "Participant · EU funding €224K of €6.0M · 15 partners · 2024–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "18 Nov 2024",
+            "desc": "EDF EDF-2023-LS-RA-CHALLENGE-DIGIT-HLTP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167770/EDF"
+          },
+          {
+            "title": "Q-ARM — Quantum Agile and Resilient Military Communications",
+            "sub": "Participant · EU funding €163K of €5.0M · 10 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "20 Oct 2025",
+            "desc": "EDF EDF-2024-LS-RA-DIS-QUANT-STEP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224135/EDF"
           }
         ],
         "overview": [
           {
-            "title": "European Defence Fund project 101224135",
-            "sub": "EU defence research and development · call EDF-2024-LS-RA-DIS",
-            "status": "Grant",
-            "icon": "coins",
-            "date": "20 Oct 2025",
-            "desc": "Call EDF-2024-LS-RA-DIS",
-            "color": "orange"
-          },
-          {
-            "title": "European Defence Fund project 101167770",
-            "sub": "EU defence research and development · call EDF-2023-LS-RA-CHALLENGE",
-            "status": "Grant",
-            "icon": "coins",
-            "date": "18 Nov 2024",
-            "desc": "Call EDF-2023-LS-RA-CHALLENGE",
-            "color": "orange"
-          },
-          {
-            "title": "European Defence Fund project 101103208",
-            "sub": "EU defence research and development · call EDF-2021-CYBER-D-2",
-            "status": "Grant",
+            "title": "ACTING — Advanced European platform and network of Cybersecurity training and exercises centres",
+            "sub": "Participant · EU funding €250K of €16.3M · 30 partners · 2022–2026",
+            "status": "Grant · Ongoing",
             "icon": "coins",
             "date": "08 Dec 2022",
-            "desc": "Call EDF-2021-CYBER-D-2",
-            "color": "orange"
+            "desc": "EDF EDF-2021-CYBER-D-IECTE-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103208/EDF"
+          },
+          {
+            "title": "NEMO — NEMO (laNguagE Modules develOpment) will develop a demonstrator of a variety of Human Language Technologies (HLTs) tailored on the needs of Defence, especially user-driven adaptation.",
+            "sub": "Participant · EU funding €224K of €6.0M · 15 partners · 2024–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "18 Nov 2024",
+            "desc": "EDF EDF-2023-LS-RA-CHALLENGE-DIGIT-HLTP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167770/EDF"
+          },
+          {
+            "title": "Q-ARM — Quantum Agile and Resilient Military Communications",
+            "sub": "Participant · EU funding €163K of €5.0M · 10 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "20 Oct 2025",
+            "desc": "EDF EDF-2024-LS-RA-DIS-QUANT-STEP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224135/EDF"
           }
         ]
       },
@@ -23036,7 +23042,8 @@
           "Boulogne-Billancourt",
           "Registered office"
         ]
-      ]
+      ],
+      "card_hash": "fdd090670dcf8024"
     },
     "diodon-drone-technology": {
       "developments": [
@@ -31553,7 +31560,7 @@
       "developments": [
         {
           "date": "12 Dec 2024",
-          "title": "European Defence Fund project 101168050",
+          "title": "ESOCA — European System for Outsized Cargo Airlift (ESOCA)",
           "tags": [
             "EDF"
           ],
@@ -31573,8 +31580,8 @@
         ]
       ],
       "about": {
-        "workspace": "SAFRAN AEROSYSTEMS is a French company registered in 2005, with its seat in Plaisir. It takes part in 1 European Defence Fund project (2024).",
-        "overview": "SAFRAN AEROSYSTEMS is a French company registered in 2005, with its seat in Plaisir. It takes part in 1 European Defence Fund project (2024)."
+        "workspace": "SAFRAN AEROSYSTEMS is a French company registered in 2005, with its seat in Plaisir. It takes part in 1 European Defence Fund project (2024). Of these, EU funding to the company €244K.",
+        "overview": "SAFRAN AEROSYSTEMS is a French company registered in 2005, with its seat in Plaisir. It takes part in 1 European Defence Fund project (2024). Of these, EU funding to the company €244K."
       },
       "facts": {
         "workspace": [
@@ -31619,24 +31626,26 @@
       "programmes": {
         "workspace": [
           {
-            "title": "European Defence Fund project 101168050",
-            "sub": "EU defence research and development · call EDF-2023-RA",
-            "status": "Grant",
+            "title": "ESOCA — European System for Outsized Cargo Airlift (ESOCA)",
+            "sub": "Partner · EU funding €244K of €20.0M · 20 partners · 2024–2026",
+            "status": "Grant · Ended",
             "icon": "coins",
             "date": "12 Dec 2024",
-            "desc": "Call EDF-2023-RA",
-            "color": "orange"
+            "desc": "EDF EDF-2023-RA-PROTMOB-SATOC",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168050/EDF"
           }
         ],
         "overview": [
           {
-            "title": "European Defence Fund project 101168050",
-            "sub": "EU defence research and development · call EDF-2023-RA",
-            "status": "Grant",
+            "title": "ESOCA — European System for Outsized Cargo Airlift (ESOCA)",
+            "sub": "Partner · EU funding €244K of €20.0M · 20 partners · 2024–2026",
+            "status": "Grant · Ended",
             "icon": "coins",
             "date": "12 Dec 2024",
-            "desc": "Call EDF-2023-RA",
-            "color": "orange"
+            "desc": "EDF EDF-2023-RA-PROTMOB-SATOC",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168050/EDF"
           }
         ]
       },
@@ -31696,7 +31705,8 @@
           "Plaisir",
           "Registered office"
         ]
-      ]
+      ],
+      "card_hash": "6ba78be0b925ae2d"
     },
     "safran-aircraft-engines": {
       "developments": [
@@ -47670,6 +47680,382 @@
         ]
       ],
       "card_hash": "9c537ded9a677297"
+    },
+    "forsolution-cz-s-r-o": {
+      "developments": [],
+      "country": "CZ",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "FORSOLUTION CZ s.r.o. is a Czech company registered in 2016, with its seat in Praha.",
+        "overview": "FORSOLUTION CZ s.r.o. is a Czech company registered in 2016, with its seat in Praha."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2016",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 04747500",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2016",
+            "Registered"
+          ],
+          [
+            "Praha, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 04747500",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity FORSOLUTION CZ s.r.o., IČO 04747500",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/04747500"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Praha",
+          "Registered office"
+        ]
+      ],
+      "card_hash": "ff5d791ef21c6315"
+    },
+    "ray-service-a-s": {
+      "developments": [],
+      "country": "CZ",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Ray Service, a.s. is a Czech company registered in 2007, with its seat in Staré Město.",
+        "overview": "Ray Service, a.s. is a Czech company registered in 2007, with its seat in Staré Město."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2007",
+            "Registered"
+          ],
+          [
+            "Staré Město, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 27756203",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2007",
+            "Registered"
+          ],
+          [
+            "Staré Město, Czechia",
+            "Headquarters"
+          ],
+          [
+            "IČO 27756203",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Ray Service, a.s., IČO 27756203",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/27756203"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Staré Město",
+          "Registered office"
+        ]
+      ],
+      "card_hash": "41b5bc87ade8909f"
+    },
+    "frestems-oy": {
+      "developments": [],
+      "country": "FI",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Frestems Oy is a Finnish company registered in 1998, with its seat in Sastamala.",
+        "overview": "Frestems Oy is a Finnish company registered in 1998, with its seat in Sastamala."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1998",
+            "Registered"
+          ],
+          [
+            "Sastamala, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 1466367-3",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1998",
+            "Registered"
+          ],
+          [
+            "Sastamala, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 1466367-3",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Frestems Oy, Y-tunnus 1466367-3",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=1466367-3"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Sastamala",
+          "Registered office"
+        ]
+      ],
+      "card_hash": "479ebbaad245b589"
+    },
+    "senop-oy": {
+      "developments": [],
+      "country": "FI",
+      "reviewed": "2026-11-23",
+      "status_label": "Reviewed card · 23 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Senop Oy is a Finnish company registered in 2002, with its seat in Kangasala.",
+        "overview": "Senop Oy is a Finnish company registered in 2002, with its seat in Kangasala."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2002",
+            "Registered"
+          ],
+          [
+            "Kangasala, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 1795926-9",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2002",
+            "Registered"
+          ],
+          [
+            "Kangasala, Finland",
+            "Headquarters"
+          ],
+          [
+            "Y-tunnus 1795926-9",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Senop Oy, Y-tunnus 1795926-9",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=1795926-9"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "23 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Kangasala",
+          "Registered office"
+        ]
+      ],
+      "card_hash": "6816adceacb45e7c"
     }
   }
 }
