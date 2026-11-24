@@ -2419,6 +2419,188 @@
       ]
     },
     {
+      "id": "syn-788",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-12",
+      "title": "NAVAIR Awards Leonardo DRS AN/AAQ-45 DAIRCM LRIP Contract",
+      "summary": "NAVAIR awarded Leonardo DRS a three-year IDIQ contract for the low-rate initial production phase of the AN/AAQ-45 DAIRCM system.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "NAVAIR awarded Leonardo DRS a three-year IDIQ contract for the low-rate initial production phase of the AN/AAQ-45 DAIRCM system."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "Dec 2015: Joint Urgent Operational Need Statement (JUONS SO-0010) issued to fast-track lightweight infrared countermeasures for rotary-wing and tilt-rotor aircraft.",
+            "2016: Initial operational deployments and theater testing of the DAIRCM system begin under urgent operational fielding rules.",
+            "9 Oct 2018: Flight testing and integration trials of DAIRCM components occur on platforms including the HH-60G and A/MH-6M (Testing).",
+            "20 Jul 2020: Leonardo DRS receives a $120 million Engineering and Manufacturing Development (EMD) contract from NAVAIR for design maturity and production-representative hardware (Contract, USD 120 million).",
+            "28 Oct 2020: General Atomics and industry partners successfully flight-test the DAIRCM system inside an MQ-9 Self-Protection Pod at Yuma Proving Grounds.",
+            "Mar 2024: NAVAIR issues a $23.5 million contract modification to further advance the engineering and technical baseline of the system (Contract, USD 23.5 million).",
+            "10 Nov 2026: NAVAIR awards Leonardo DRS a three-year IDIQ contract for the low-rate initial production (LRIP) phase of the AN/AAQ-45 DAIRCM system (Contract)."
+          ],
+          "list": true,
+          "links": [
+            "https://theaviationist.com/2026/11/11/daircm-for-usmc-uh-1y-and-ah-1z/",
+            "https://www.govinfo.gov/content/pkg/CRPT-117hrpt118/html/CRPT-117hrpt118.htm",
+            "https://theaviationist.com/2026/11/11/daircm-for-usmc-uh-1y-and-ah-1z/",
+            "https://www.govinfo.gov/content/pkg/CRPT-117hrpt118/html/CRPT-117hrpt118.htm",
+            "https://www.ga-asi.com/ga-asi-successfully-completes-self-protection-system-demo-on-mq-9",
+            "https://defensewarroom.com/2026/11/11/daircm-production-contract-leonardo-drs/",
+            "https://www.govinfo.gov/content/pkg/CRPT-117hrpt118/html/CRPT-117hrpt118.htm"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following initial urgent operational needs statements in 2015 and subsequent EMD contracts in 2020, the DAIRCM program has progressed through flight testing on rotary-wing and unmanned platforms to enter formal low-rate initial production in late 2026; Signal: transition from rapid prototyping to serialized defense procurement."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "DAIRCM System depends on Infrared focal plane arrays and processing units — Microelectronics & Focal Plane Arrays subject to defense microelectronics domestic sourcing regulations."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense procurement and supply chain professionals should monitor component sourcing for infrared focal plane arrays and processing units as production scales under domestic regulations."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "NAVAIR awarded Leonardo DRS a three-year IDIQ contract for the low-rate initial production phase of the AN/AAQ-45 DAIRCM system.",
+        "Context: Dec 2015: Joint Urgent Operational Need Statement (JUONS SO-0010) issued to fast-track lightweight infrared countermeasures for rotary-wing and tilt-rotor aircraft. 2016: Initial operational deployments and theater testing of the DAIRCM system begin under urgent operational fielding rules. 9 Oct 2018: Flight testing and integration trials of DAIRCM components occur on platforms including the HH-60G and A/MH-6M (Testing). 20 Jul 2020: Leonardo DRS receives a $120 million Engineering and Manufacturing Development (EMD) contract from NAVAIR for design maturity and production-representative hardware (Contract, USD 120 million). 28 Oct 2020: General Atomics and industry partners successfully flight-test the DAIRCM system inside an MQ-9 Self-Protection Pod at Yuma Proving Grounds. Mar 2024: NAVAIR issues a $23.5 million contract modification to further advance the engineering and technical baseline of the system (Contract, USD 23.5 million). 10 Nov 2026: NAVAIR awards Leonardo DRS a three-year IDIQ contract for the low-rate initial production (LRIP) phase of the AN/AAQ-45 DAIRCM system (Contract).",
+        "The bigger picture: Following initial urgent operational needs statements in 2015 and subsequent EMD contracts in 2020, the DAIRCM program has progressed through flight testing on rotary-wing and unmanned platforms to enter formal low-rate initial production in late 2026; Signal: transition from rapid prototyping to serialized defense procurement.",
+        "Down the supply chain: DAIRCM System depends on Infrared focal plane arrays and processing units — Microelectronics & Focal Plane Arrays subject to defense microelectronics domestic sourcing regulations.",
+        "Why it matters: Defense procurement and supply chain professionals should monitor component sourcing for infrared focal plane arrays and processing units as production scales under domestic regulations.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Militär Aktuell – Sicherheit im Fokus",
+          "url": "https://militaeraktuell.at/leonardo-auftrag-selbstschutzsystem-us-marine/"
+        }
+      ],
+      "place": {
+        "label": "Washington, D.C.",
+        "lat": 38.9072,
+        "lon": -77.0369
+      },
+      "companies": [
+        {
+          "name": "General Atomics",
+          "country": "US",
+          "text": [
+            "General Atomics"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "syn-789",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-12",
+      "title": "Farsight Vision and INTEC Group partner for German defense market integration",
+      "summary": "Farsight Vision and INTEC Group signed a Memorandum of Understanding in Germany to adapt and integrate combat-proven Ukrainian software and autonomous systems for German defense requirements.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "Farsight Vision and INTEC Group signed a Memorandum of Understanding in Germany to adapt and integrate combat-proven Ukrainian software and autonomous systems for German defense requirements."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "4 Feb 2025: Farsight Vision operations scale up software platforms for drone media processing and tactical mission planning in Ukraine.",
+            "11 Feb 2026: Estonia’s state-owned fund manager SmartCap (SmartCap Defence Fund) invests in Farsight Vision to support product development and international market expansion.",
+            "13 Jul 2026: Farsight Vision partners with Teletactica to integrate long-distance high-quality photo and data transmission modules for ISR drones.",
+            "23 Sep 2026: Ukraine and Finland sign a bilateral \"Drone Deal\" framework promoting joint production and cross-border defense tech cooperation.",
+            "5 Oct 2026: Farsight Vision unveils a laser-sensor and 3D terrain-model navigation module for Unmanned Ground Vehicles (UGVs) to navigate during GPS-denied operations.",
+            "12 Nov 2026: Farsight Vision and INTEC Group sign a Memorandum of Understanding (MoU) in Germany to adapt and integrate combat-proven Ukrainian software and autonomous systems for German defense requirements (Agreement)."
+          ],
+          "list": true,
+          "links": [
+            "https://dev.ua/en/news/ty-mozhesh-pokhodyty-po-terytorii-i-zrozumity-shcho-u-tebe-pid-nohamy-yak-vlashtovanyi-defense-startap-1738599935",
+            "https://smartcap.ee/news/",
+            "https://thedefender.media/en/2026/07/fsv-localizer/",
+            "https://www.defenceinnovationmedia.com/the-nordics-are-betting-on-ukrainian-defence-tech-2/",
+            "https://thedefender.media/en/2026/10/farsight-vision-unveils-ugv-navigation-module/",
+            "https://www.hartpunkt.de/ukrainische-farsight-vision-und-intec-group-unterzeichnen-kooperationsvereinbarung/"
+          ]
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "EU — White Paper for European Defence – Readiness 2030 and ReArm Europe Plan (2025-03-19): Close critical capability gaps in seven priority areas (including air and missile defence and artillery) and build a stronger European defence industrial base; ReArm Europe enables over €800 billion of defence spending.",
+            "EU — Council Regulation establishing the Security Action for Europe (SAFE) instrument (2025-05-27): Up to €150 billion in EU loans for member states investing in defence industrial production through common procurement of priority capabilities."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Cross-border defense tech partnerships and investments are scaling up across Europe to integrate combat-proven Ukrainian autonomous systems into allied military requirements, backed by new EU defense funding instruments."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Farsight Vision ISR Software & Autonomous Navigation/Terrain Mapping Suite depends on Farsight Vision — High-resolution digital terrain mapping and 3D point-cloud processing algorithms.",
+            "Farsight Vision ISR Software & Autonomous Navigation/Terrain Mapping Suite depends on INTEC Group Engineering & System Integration — Laser/LiDAR sensors and optical hardware integration for UGV/UAV spatial orientation."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Business development and procurement professionals should monitor this integration effort to identify opportunities for embedding autonomous navigation software and LiDAR hardware into allied unmanned systems."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "Farsight Vision and INTEC Group signed a Memorandum of Understanding in Germany to adapt and integrate combat-proven Ukrainian software and autonomous systems for German defense requirements.",
+        "Context: 4 Feb 2025: Farsight Vision operations scale up software platforms for drone media processing and tactical mission planning in Ukraine. 11 Feb 2026: Estonia’s state-owned fund manager SmartCap (SmartCap Defence Fund) invests in Farsight Vision to support product development and international market expansion. 13 Jul 2026: Farsight Vision partners with Teletactica to integrate long-distance high-quality photo and data transmission modules for ISR drones. 23 Sep 2026: Ukraine and Finland sign a bilateral \"Drone Deal\" framework promoting joint production and cross-border defense tech cooperation. 5 Oct 2026: Farsight Vision unveils a laser-sensor and 3D terrain-model navigation module for Unmanned Ground Vehicles (UGVs) to navigate during GPS-denied operations. 12 Nov 2026: Farsight Vision and INTEC Group sign a Memorandum of Understanding (MoU) in Germany to adapt and integrate combat-proven Ukrainian software and autonomous systems for German defense requirements (Agreement).",
+        "Policy direction: EU — White Paper for European Defence – Readiness 2030 and ReArm Europe Plan (2025-03-19): Close critical capability gaps in seven priority areas (including air and missile defence and artillery) and build a stronger European defence industrial base; ReArm Europe enables over €800 billion of defence spending. EU — Council Regulation establishing the Security Action for Europe (SAFE) instrument (2025-05-27): Up to €150 billion in EU loans for member states investing in defence industrial production through common procurement of priority capabilities.",
+        "The bigger picture: Cross-border defense tech partnerships and investments are scaling up across Europe to integrate combat-proven Ukrainian autonomous systems into allied military requirements, backed by new EU defense funding instruments.",
+        "Down the supply chain: Farsight Vision ISR Software & Autonomous Navigation/Terrain Mapping Suite depends on Farsight Vision — High-resolution digital terrain mapping and 3D point-cloud processing algorithms. Farsight Vision ISR Software & Autonomous Navigation/Terrain Mapping Suite depends on INTEC Group Engineering & System Integration — Laser/LiDAR sensors and optical hardware integration for UGV/UAV spatial orientation.",
+        "Why it matters: Business development and procurement professionals should monitor this integration effort to identify opportunities for embedding autonomous navigation software and LiDAR hardware into allied unmanned systems.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "INTEC Group Press Release",
+          "url": "https://intec.group/wp-content/uploads/2025/12/Leistungen-1260x640-1-1024x512.png"
+        },
+        {
+          "n": 2,
+          "title": "Der Monitor für Defence und Sicherheitspolitik",
+          "url": "https://www.hartpunkt.de/ukrainische-farsight-vision-und-intec-group-unterzeichnen-kooperationsvereinbarung/"
+        }
+      ],
+      "place": {
+        "label": "Germany",
+        "lat": 51.1657,
+        "lon": 10.4515
+      }
+    },
+    {
       "id": "syn-1233",
       "status": "approved",
       "kind": "Synthesis",
@@ -4139,74 +4321,6 @@
       ]
     },
     {
-      "id": "syn-1308",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-21",
-      "title": "Two Tankers Struck Off Oman as Strait of Hormuz Disruptions Continue",
-      "summary": "Two outbound oil tankers were struck by unknown projectiles in separate incidents north and east of Khasab, Oman, with no casualties reported.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Two outbound oil tankers were struck by unknown projectiles in separate incidents north and east of Khasab, Oman, with no casualties reported."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "28 Feb 2026: Conflict breaks out following US-Israeli strikes against Iran, leading Tehran to attempt enforcement of restrictions on shipping through the Strait of Hormuz.",
-            "16 Nov 2026: An LPG tanker is attacked approximately 7 nautical miles north of Khasab, Oman.",
-            "17 Nov 2026: A tanker is struck by an unknown projectile 13 nautical miles north of Khasab, causing an onboard fire and leaving one crew member missing.",
-            "20 Nov 2026: UKMTO releases its weekly security overview noting that Strait of Hormuz traffic remains roughly 65% below pre-conflict levels amidst multiple tanker attacks.",
-            "21 Nov 2026: Two separate outbound tankers are struck by unknown projectiles north and east of Khasab, Oman, as reported by UKMTO."
-          ],
-          "list": true,
-          "links": [
-            "https://www.iranintl.com/en/202611215627",
-            "https://www.marineinsight.com/strait-hormuz-shipping-65-below-tanker-attacks/",
-            "https://www.aa.com.tr/en/middle-east/2-oil-tankers-struck-by-unknown-projectiles-off-oman-uk-maritime-agency/4132768",
-            "https://www.marineinsight.com/strait-hormuz-shipping-65-below-tanker-attacks/",
-            "https://www.aa.com.tr/en/middle-east/2-oil-tankers-struck-by-unknown-projectiles-off-oman-uk-maritime-agency/4132768"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Since conflict erupted on 28 Feb 2026, repeated tanker attacks have kept Strait of Hormuz traffic roughly 65 percent below pre-conflict levels, signaling persistent transit risks."
-          ],
-          "list": false
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Supply chain and procurement professionals managing Persian Gulf routes must reassess threat levels and reroute vessels to avoid high-risk areas."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Two outbound oil tankers were struck by unknown projectiles in separate incidents north and east of Khasab, Oman, with no casualties reported.",
-        "Context: 28 Feb 2026: Conflict breaks out following US-Israeli strikes against Iran, leading Tehran to attempt enforcement of restrictions on shipping through the Strait of Hormuz. 16 Nov 2026: An LPG tanker is attacked approximately 7 nautical miles north of Khasab, Oman. 17 Nov 2026: A tanker is struck by an unknown projectile 13 nautical miles north of Khasab, causing an onboard fire and leaving one crew member missing. 20 Nov 2026: UKMTO releases its weekly security overview noting that Strait of Hormuz traffic remains roughly 65% below pre-conflict levels amidst multiple tanker attacks. 21 Nov 2026: Two separate outbound tankers are struck by unknown projectiles north and east of Khasab, Oman, as reported by UKMTO.",
-        "The bigger picture: Since conflict erupted on 28 Feb 2026, repeated tanker attacks have kept Strait of Hormuz traffic roughly 65 percent below pre-conflict levels, signaling persistent transit risks.",
-        "Why it matters: Supply chain and procurement professionals managing Persian Gulf routes must reassess threat levels and reroute vessels to avoid high-risk areas.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Информационен център на Министерство на oтбраната",
-          "url": "https://armymedia.bg/2026/11/21/%d1%82%d0%b0%d0%bd%d0%ba%d0%b5%d1%80-%d0%b5-%d0%bf%d0%be%d1%80%d0%b0%d0%b7%d0%b5%d0%bd-%d0%be%d1%82-%d0%bd%d0%b5%d0%b8%d0%b4%d0%b5%d0%bd%d1%82%d0%b8%d1%84%d0%b8%d1%86%d0%b8%d1%80%d0%b0%d0%bd-%d1%81/"
-        }
-      ],
-      "place": {
-        "label": "Khasab",
-        "lat": 26.1738,
-        "lon": 56.2497
-      }
-    },
-    {
       "id": "syn-1259",
       "status": "approved",
       "kind": "Synthesis",
@@ -4274,78 +4388,6 @@
         "label": "Pucheng",
         "lat": 34.9583,
         "lon": 109.5833
-      }
-    },
-    {
-      "id": "syn-1309",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-21",
-      "title": "New Chinese Jet Drone Spotted at Pucheng Test Base",
-      "summary": "Commercial imagery publicly released in November 2026 revealed an unidentified jet-powered uncrewed aerial vehicle with a ~20-meter wingspan, dorsal intake, and V-tail on the apron at Pucheng Neifu Airport. The imagery, originally captured in April 2026, was analyzed by open-source researchers and defense media, highlighting resemblances to the U.S. Navy's MQ-25 Stingray configuration.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Commercial imagery publicly released in November 2026 revealed an unidentified jet-powered uncrewed aerial vehicle with a ~20-meter wingspan, dorsal intake, and V-tail on the apron at Pucheng Neifu Airport. The imagery, originally captured in April 2026, was analyzed by open-source researchers and defense media, highlighting resemblances to the U.S. Navy's MQ-25 Stingray configuration."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "23 Apr 2026: Satellite imagery captures an unidentified single-engine jet drone with a ~20-meter wingspan, dorsal intake, and V-tail on the apron at Pucheng Neifu Airport alongside other advanced airframes.",
-            "20 Nov 2026: Commercial imagery and analyses are publicly released by open-source researchers and defense media (including The War Zone and La zone de guerre), highlighting resemblances to the U.S. Navy's MQ-25 Stingray configuration.",
-            "21 Nov 2026: Industry coverage via China Drone Watch evaluates the platform's potential roles in aerial refueling, persistent reconnaissance, or strike support."
-          ],
-          "list": true,
-          "links": [
-            "https://migflug.com/afterburner/fr/china-mq-25-like-drone-pucheng-flight-test-centre-2026/",
-            "https://migflug.com/afterburner/fr/china-mq-25-like-drone-pucheng-flight-test-centre-2026/",
-            "https://www.dronesense.ai/china-drone-watch-19/"
-          ]
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Satellite and commercial imagery from April and November 2026 trace the emergence of a new jet drone at Pucheng, prompting ongoing evaluations of its potential for aerial refueling, reconnaissance, or strike support Signal: large-scale uncrewed platform configurations are appearing at test sites."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "UAV depends on Flight control actuation and autonomous navigation suites — Flight control and navigation."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense-industry supply chain and procurement professionals monitoring Chinese uncrewed aviation developments should assess component vulnerabilities under existing dual-use export controls restricting high-performance turbofan and flight software technologies."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Commercial imagery publicly released in November 2026 revealed an unidentified jet-powered uncrewed aerial vehicle with a ~20-meter wingspan, dorsal intake, and V-tail on the apron at Pucheng Neifu Airport. The imagery, originally captured in April 2026, was analyzed by open-source researchers and defense media, highlighting resemblances to the U.S. Navy's MQ-25 Stingray configuration.",
-        "Context: 23 Apr 2026: Satellite imagery captures an unidentified single-engine jet drone with a ~20-meter wingspan, dorsal intake, and V-tail on the apron at Pucheng Neifu Airport alongside other advanced airframes. 20 Nov 2026: Commercial imagery and analyses are publicly released by open-source researchers and defense media (including The War Zone and La zone de guerre), highlighting resemblances to the U.S. Navy's MQ-25 Stingray configuration. 21 Nov 2026: Industry coverage via China Drone Watch evaluates the platform's potential roles in aerial refueling, persistent reconnaissance, or strike support.",
-        "The bigger picture: Satellite and commercial imagery from April and November 2026 trace the emergence of a new jet drone at Pucheng, prompting ongoing evaluations of its potential for aerial refueling, reconnaissance, or strike support Signal: large-scale uncrewed platform configurations are appearing at test sites.",
-        "Down the supply chain: UAV depends on Flight control actuation and autonomous navigation suites — Flight control and navigation.",
-        "Why it matters: Defense-industry supply chain and procurement professionals monitoring Chinese uncrewed aviation developments should assess component vulnerabilities under existing dual-use export controls restricting high-performance turbofan and flight software technologies.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "DroneSense",
-          "url": "https://www.dronesense.ai/china-drone-watch-19/"
-        }
-      ],
-      "place": {
-        "label": "Pucheng",
-        "lat": 34.9575,
-        "lon": 109.5894
       }
     },
     {
