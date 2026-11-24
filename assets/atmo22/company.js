@@ -7,6 +7,7 @@ import { directory, industry, researchMap, countries, wire, demo, profile, isDem
 import { mountShell, icon } from './shell.js';
 import { drawHalftone, bboxAround } from './halftone.js';
 import { flag } from './flags.js';
+import * as P2 from './company-page2.js';
 
 const params = new URL(location.href).searchParams;
 const state = { view: params.get('view') === 'overview' ? 'overview' : 'workspace', vm: null, demo: null, mapSpan: 34 };
@@ -68,7 +69,7 @@ function overlayProfile(vm, p) {
     facts: p.facts || vm.facts, attributes: p.attributes || [], presence: p.presence || vm.presence, taxonomy: { ...vm.taxonomy, ...(p.taxonomy || {}) },
     developments: p.developments || vm.developments, programmes: p.programmes || vm.programmes, productTree: p.productTree || [], productAccordion: p.productAccordion || [],
     technologies: p.technologies || [], relationships: p.relationships || vm.relationships, evidence: p.evidence || vm.evidence, footprint: p.footprint || vm.footprint,
-    website: safeUrl(p.website) || vm.website };
+    website: safeUrl(p.website) || vm.website, page: p.page && p.page.v === 2 ? p.page : null };
 }
 const aboutCaption = vm => vm.mode === 'profile'
   ? `Reference card · reviewed ${esc(fmtDate(vm.reviewed))} · every claim linked to a public source below`
@@ -137,7 +138,7 @@ function heroWorkspace(vm) {
         </div>
         <div class="hero-side">${actions()}${monogram(vm)}</div>
       </div>
-      ${tabs()}
+      ${vm.page ? P2.hero(vm) : `${tabs()}
       <div class="hero-grid">
         <div class="hero-about">
           <p class="about">${vm.about.workspace ? esc(vm.about.workspace) : '<span class="muted">No public description available.</span>'}</p>
@@ -146,7 +147,7 @@ function heroWorkspace(vm) {
         </div>
         <div class="hero-attrs"><h3>Key attributes</h3><div class="chips">${vm.attributes.length ? vm.attributes.map(a => `<span class="chip chip-soft">${esc(a)}</span>`).join('') : '<span class="chip is-none">Not assigned</span>'}</div></div>
         <div class="hero-presence"><h3>Presence</h3><p>${vm.presence.map(esc).join(' · ')}</p><div class="presence-shape"><canvas data-presence aria-hidden="true"></canvas><span>${icon('map-pin', 'ico ico-xs')}${esc(vm.city || vm.countryName)}</span></div></div>
-      </div>
+      </div>`}
     </div>
   </section>`;
 }
@@ -347,11 +348,21 @@ function wsRows(vm) {
 }
 
 /* ---------- page ---------- */
+const FOOT = `<footer class="page-foot">Public beta · Research index coverage is incomplete · Companies are not Bohun Defence clients or partners · City-centre markers are not facility addresses · <a href="/about-project.html">Methodology &amp; limitations</a></footer>`;
 function render() {
   const vm = state.vm, ws = state.view === 'workspace';
   document.body.dataset.view = state.view;
   document.title = `${vm.name} | Company Intelligence | Bohun Defence`;
   if (vm.mode !== 'demo') for (const k of ['workspace', 'overview']) vm.facts[k] = vm.facts[k].filter(f => f[0] !== '—');
+  if (ws && vm.page) {  // EXP-035: page v2
+    content.innerHTML = `${heroWorkspace(vm)}<div data-pv2-rows><p class="caption" style="padding:16px 0">Loading…</p></div>`;
+    P2.rows(vm, state.items).then(html => {
+      content.querySelector('[data-pv2-rows]').innerHTML = html;
+      content.insertAdjacentHTML('beforeend', FOOT);
+      bind(); P2.bind(vm, state.items); drawMaps();
+    });
+    return;
+  }
   content.innerHTML = ws
     ? `${heroWorkspace(vm)}
        ${wsRows(vm)}`
@@ -359,7 +370,7 @@ function render() {
        <section class="panel ov-r1" aria-label="Summary and classification">${demoTag()}<div class="ov-summary"><p class="about">${vm.about.overview ? esc(vm.about.overview) : '<span class="muted">No public description available.</span>'}</p>${vm.mode !== 'demo' ? `<p class="caption">${vm.mode === 'profile' ? aboutCaption(vm) : 'From the public research index · not independently verified'}</p>` : ''}${facts(vm.facts.overview)}</div>${classification(vm, false)}</section>
        <div class="row ov-r2">${developments(vm, false)}${productAccordion(vm)}${relationships(vm, false)}</div>
        <div class="row ov-r3">${programmes(vm, false)}${evidence(vm, false)}${footprint(vm)}</div>`;
-  content.insertAdjacentHTML('beforeend', `<footer class="page-foot">Public beta · Research index coverage is incomplete · Companies are not Bohun Defence clients or partners · City-centre markers are not facility addresses · <a href="/about-project.html">Methodology &amp; limitations</a></footer>`);
+  content.insertAdjacentHTML('beforeend', FOOT);
   content.querySelectorAll('.panel').forEach(p => p.classList.toggle('is-empty', !!p.querySelector('.p-body .empty')));
   bind();
   drawMaps();
@@ -445,7 +456,7 @@ function renderPicker(items, msg) {
 async function main() {
   mountShell({ active: 'companies', variant: state.view });
   let items;
-  try { items = await directory(); } catch {
+  try { items = await directory(); state.items = items; } catch {
     content.innerHTML = `<section class="hero hero-pick"><h1 class="name">Company intelligence</h1>${empty('circle-alert', 'The public research index is temporarily unavailable. No substitute data is shown.')}</section>`;
     return;
   }

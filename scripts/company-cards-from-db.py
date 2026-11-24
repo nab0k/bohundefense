@@ -47,9 +47,13 @@ def fetch():
         sys.exit(f'RPC failed, HTTP status {e.code}; no credentials logged')
 
 
-def card_hash(claims, sources):
+PAGE_VERSION = 2  # EXP-035: bump to rebuild every card of this builder once when the page format changes
+
+
+def card_hash(claims, sources, network=None, products=None):
     import hashlib
-    return hashlib.sha256(json.dumps([claims, sources], ensure_ascii=False, sort_keys=True).encode()).hexdigest()[:16]
+    return hashlib.sha256(json.dumps([claims, sources, network or [], products or [], PAGE_VERSION], ensure_ascii=False,
+                                     sort_keys=True).encode()).hexdigest()[:16]
 
 
 def apply(companies, root, news=()):
@@ -86,8 +90,8 @@ def apply(companies, root, news=()):
                 by_country[rec['country']]['properties']['count'] += 1
             catalogue.append(name)
         k = slug(name)
-        card = build(co['company_id'], claims, sources, co['country'], co['reviewed'])
-        card['card_hash'] = card_hash(claims, sources)
+        card = build(co['company_id'], claims, sources, co['country'], co['reviewed'], co.get('network'), co.get('products'))
+        card['card_hash'] = card_hash(claims, sources, co.get('network'), co.get('products'))
         old = profiles['profiles'].get(k)
         if old is not None:
             # owner 23.11.2026 (D-20261123-COMPANY-CARDS-AUTOPUBLISH): a card built by this builder is rebuilt when

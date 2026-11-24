@@ -63,7 +63,7 @@ def edf_line(p):
             '_order': (e.get('status') != 'Ongoing', -(e.get('company_eu') or 0), p.get('date') or '')}
 
 
-def build(co, claims, sources, country, reviewed):
+def build(co, claims, sources, country, reviewed, network=None, products=None):
     date_text = fmt(reviewed)
     v = {c['ref']: c['value'] for c in claims}
     src = {s['ref']: s for s in sources}
@@ -180,7 +180,144 @@ def build(co, claims, sources, country, reviewed):
         'productTree': tree, 'productAccordion': accordion, 'technologies': [],
         'relationships': {'workspace': ws, 'overview': ws[:5]},
         'evidence': evidence, 'footprint': [[city, 'Registered office']] if city else [],
+        'page': page(name, regno, reg, progs, mil, about, facts, network or [], products or []),
     }
+
+
+# ---------- page v2 (EXP-035, owner 23.11.2026: summary with figures, what's new, activity, network, sources) ----------
+NETWORK_TYPES = ('funder', 'investor', 'owner', 'subsidiary', 'group', 'customer', 'supplier', 'partner', 'research',
+                 'competitor', 'funded')
+TOP_PARTNERS = 8
+
+
+def same_group(a, b):
+    """'NAVAL GROUP BELGIUM' belongs to 'NAVAL GROUP': one name starts with the other, whole words."""
+    a, b = catalogue_norm(a), catalogue_norm(b)
+    return bool(a and b and a != b and (a.startswith(b + ' ') or b.startswith(a + ' ')))
+
+
+def page(name, regno, reg, progs, mil, about, facts, news_network, news_products):
+    """Everything the v2 page shows; every figure and link points to a numbered source."""
+    srcs = []
+
+    def cite(title, url):
+        for i, x in enumerate(srcs, 1):
+            if x['url'] == url:
+                return i
+        srcs.append({'title': title, 'url': url})
+        return len(srcs)
+    n_reg = cite(f'{SOURCE_LABEL.get(reg["kind"]) or "Register"} · {REGISTER.get(regno["scheme"], regno["scheme"])} {regno["value"]}', reg['url'])
+
+    # activity: each project or contract once, its own source
+    activity, det = [], []
+    for p in progs:
+        e = p.get('edf') or {}
+        if p['kind'] == 'edf_grant':
+            line = edf_line(p) if e else {'title': f'European Defence Fund project {p["ref"]}', 'sub': 'EU defence research and development',
+                                          'status': 'Grant', 'href': p.get('url'), '_order': (True, 0, p.get('date') or '')}
+            n = cite(f'EU Funding & Tenders portal · {e.get("acronym") or p["ref"]}', line.get('href') or p.get('url'))
+            activity.append({'title': line['title'], 'sub': line['sub'], 'status': line['status'], 'date': fmt(p.get('date')),
+                             'iso': p.get('date') or '', 'ongoing': e.get('status') == 'Ongoing', 'src': n, '_o': line.get('_order')})
+            if e:
+                det.append(e)
+        elif p['kind'] == 'tender_award':
+            n = cite(f'TED notice {p["ref"]}', p.get('url'))
+            activity.append({'title': f'Contract award · {p["counterpart"]}', 'sub': f'TED notice {p["ref"]}', 'status': 'Contract award',
+                             'date': fmt(p.get('date')), 'iso': p.get('date') or '', 'ongoing': False, 'src': n, '_o': (True, 0, p.get('date') or '')})
+        else:
+            n = cite('USAspending.gov recipient profile', p.get('url'))
+            activity.append({'title': 'US Department of Defense contracts', 'sub': 'Recipient profile on USAspending.gov', 'status': 'Contracts',
+                             'date': '', 'iso': '', 'ongoing': False, 'src': n, '_o': (True, 0, '')})
+    activity.sort(key=lambda x: x['_o'] or (True, 0, ''))
+    for x in activity:
+        x.pop('_o', None)
+    edf_src = sorted({a['src'] for a in activity if a['status'].startswith('Grant')})
+
+    # figures: only what the sources state
+    figures = []
+    if det:
+        got = sum(e.get('company_eu') or 0 for e in det)
+        if got:
+            figures.append({'value': money(got), 'label': 'EU defence funding to the company', 'src': edf_src})
+        figures.append({'value': str(len([p for p in progs if p['kind'] == 'edf_grant'])), 'label': 'European Defence Fund projects', 'src': edf_src})
+        live = sum(1 for e in det if e.get('status') == 'Ongoing')
+        if live:
+            figures.append({'value': str(live), 'label': 'ongoing now', 'src': edf_src})
+        lead = sum(1 for e in det if e.get('role') == 'coordinator')
+        partners = {catalogue_norm(q['name']) for e in det for q in e.get('participants') or [] if q.get('name') and not same_group(q['name'], name)
+                    and catalogue_norm(q['name']) != catalogue_norm(name)}
+        if lead:
+            figures.append({'value': str(lead), 'label': 'projects it coordinates', 'src': edf_src})
+        elif partners:
+            figures.append({'value': str(len(partners)), 'label': 'organisations it shares EDF projects with', 'src': edf_src})
+    else:
+        if any(a['status'] == 'Contract award' for a in activity):
+            figures.append({'value': str(sum(1 for a in activity if a['status'] == 'Contract award')), 'label': 'contract awards on record',
+                            'src': [a['src'] for a in activity if a['status'] == 'Contract award']})
+
+    # network: EDF funder, group entities and partners from the card; customers, suppliers and the rest from the news
+    net = []
+    if det or any(p['kind'] == 'edf_grant' for p in progs):
+        got = sum(e.get('company_eu') or 0 for e in det)
+        k = len([p for p in progs if p['kind'] == 'edf_grant'])
+        net.append({'type': 'funder', 'name': 'European Commission · European Defence Fund', 'sub': plural(k, 'grant') + (f' · {money(got)}' if got else ''),
+                    'status': 'verified', 'src': edf_src[:1]})
+    group, count, info = {}, {}, {}
+    for e in det:
+        n = cite(f'EU Funding & Tenders portal · {e.get("acronym") or e.get("project")}', e.get('url'))
+        for q in e.get('participants') or []:
+            nm = q.get('name')
+            if not nm or catalogue_norm(nm) == catalogue_norm(name):
+                continue
+            if same_group(nm, name):
+                g = group.setdefault(catalogue_norm(nm), {'type': 'group', 'name': nm.title() if nm.isupper() else nm, 'country': q.get('country'),
+                                                           'roles': set(), 'src': []})
+                g['roles'].add(f'coordinates {e.get("acronym")}' if q.get('role') == 'coordinator' else f'in {e.get("acronym")}')
+                g['src'].append(n)
+                continue
+            key = catalogue_norm(nm)
+            count[key] = count.get(key, 0) + 1
+            info.setdefault(key, {'name': nm, 'country': q.get('country'), 'kind': q.get('kind'), 'src': []})['src'].append(n)
+    for g in group.values():
+        roles = sorted(g.pop('roles'), key=lambda r: not r.startswith('coordinates'))
+        net.append(dict(g, sub='Group entity · ' + ', '.join(roles[:2]) + (f' +{len(roles) - 2}' if len(roles) > 2 else ''),
+                        status='verified', src=sorted(set(g['src']))[:3]))
+    for key in sorted(count, key=lambda k: (-count[k], k))[:TOP_PARTNERS]:
+        x = info[key]
+        net.append({'type': 'research' if x['kind'] in ('research', 'public') else 'partner', 'name': x['name'], 'country': x['country'],
+                    'sub': f'{plural(count[key], "joint EDF project")}', 'status': 'verified', 'src': sorted(set(x['src']))[:3]})
+    seen = {catalogue_norm(x['name']) for x in net}
+    label = {'customer': 'Customer', 'supplier': 'Supplier', 'funder': 'Funder', 'investor': 'Investor', 'owner': 'Owner',
+             'subsidiary': 'Subsidiary', 'competitor': 'Competitor', 'funded': 'Funded by the company'}
+    for x in news_network:
+        if x.get('type') not in label or catalogue_norm(x['name']) in seen:
+            continue
+        ev = [dict(q, src=cite(q.get('url') and q['url'].split('/')[2].replace('www.', '') or 'News', q['url'])) for q in x.get('evidence') or [] if q.get('url')]
+        amount = f' · {x["currency"] or ""} {x["amount"] / 1e6:,.0f}M'.replace('  ', ' ') if x.get('amount') and x['amount'] >= 1e6 else ''
+        net.append({'type': x['type'], 'name': x['name'], 'country': x.get('country'), 'in_catalogue': bool(x.get('in_catalogue')),
+                    'sub': label[x['type']] + amount + (' · reported, not confirmed' if x.get('status') != 'verified' else ''),
+                    'status': 'verified' if x.get('status') == 'verified' else 'candidate',
+                    'quote': (ev[0]['quote'] if ev else None), 'src': [q['src'] for q in ev]})
+        seen.add(catalogue_norm(x['name']))
+
+    # products: the company's site (military products) and the news
+    prods = []
+    for p in mil:
+        prods.append({'name': p['name'], 'role': 'makes', 'status': 'supported', 'quote': ' '.join(p['quote'].split())[:200],
+                      'src': [cite('Company website', p['url'])]})
+    have = {catalogue_norm(p['name']) for p in prods}
+    for p in news_products:
+        if catalogue_norm(p['name']) in have:
+            continue
+        ev = [q for q in p.get('evidence') or [] if q.get('url')]
+        prods.append({'name': p['name'], 'role': p.get('role') or 'makes', 'status': p.get('status') or 'candidate',
+                      'quote': ev[0]['quote'] if ev else None,
+                      'src': [cite(q['url'].split('/')[2].replace('www.', ''), q['url']) for q in ev]})
+        have.add(catalogue_norm(p['name']))
+
+    return {'v': 2, 'lead': about, 'lead_src': [n_reg] + edf_src[:1], 'figures': figures[:4],
+            'facts': [[v, l, n_reg if l == 'Register' else None] for v, l in facts], 'activity': activity,
+            'network': net, 'products': prods, 'sources': srcs}
 
 
 def slug(name):
