@@ -26,7 +26,7 @@ const shortName = (n, r) => {
 export const TYPES = [
   ['funder', 'Funders & donors'], ['investor', 'Investors'], ['owner', 'Owners'], ['group', 'Group entities'], ['subsidiary', 'Subsidiaries'],
   ['customer', 'Customers'], ['supplier', 'Suppliers & contractors'], ['partner', 'Industrial partners'], ['research', 'Research partners'],
-  ['competitor', 'Competitors'], ['funded', 'Funded by the company'],
+  ['competitor', 'Competitors'], ['funded', 'Funded by the company'], ['acquired', 'Acquisitions'],
 ];
 const LEFT = new Set(['partner', 'research']);
 
@@ -48,8 +48,10 @@ function whatsNew(vm, items) {
   const mine = items.filter(x => (x.companies || []).some(c => { const k = key(c.name); return k && (k === me || (legal && k === legal)); }))
     .map(x => ({ iso: x.date, kind: x.kind || 'Synthesis', title: x.title, line: (x.summary || '').split(/(?<=\.)\s/)[0], href: '/#ed-' + String(x.id || '').replace(/[^a-z0-9-]/gi, ''),
       src: (x.sources || [])[0] }));
-  const events = (vm.page.activity || []).filter(a => a.iso).map(a => ({ iso: a.iso, kind: a.status.startsWith('Grant') ? 'EDF project' : 'Contract', title: a.title, line: a.sub, src: null, fn: [a.src] }));
-  return [...mine, ...events].sort((a, b) => String(b.iso).localeCompare(String(a.iso))).slice(0, 6);
+  const year = new Date(Date.now() - 365 * 864e5).toISOString().slice(0, 10);  // "new" = the last twelve months
+  const events = (vm.page.activity || []).filter(a => a.iso && a.iso >= year).map(a => ({ iso: a.iso, kind: a.status.startsWith('Grant') ? 'EDF project' : 'Contract', title: a.title, line: a.sub, src: null, fn: [a.src] }));
+  const press = (vm.page.news || []).filter(n => n.iso >= year).map(n => ({ iso: n.iso, kind: n.kind, title: n.title, line: n.line, fn: [n.src] }));
+  return [...mine, ...events, ...press].sort((a, b) => String(b.iso).localeCompare(String(a.iso))).slice(0, 6);
 }
 
 export function hero(vm) {
@@ -86,7 +88,10 @@ function newsPanel(list) {
 function network(vm, resolve) {
   const nodes = (vm.page.network || []).slice();
   if (!nodes.length) return '';
-  const right = nodes.filter(n => !LEFT.has(n.type)).slice(0, 10), left = nodes.filter(n => LEFT.has(n.type)).slice(0, 8);
+  let right = nodes.filter(n => !LEFT.has(n.type)), left = nodes.filter(n => LEFT.has(n.type)).slice(0, 8);
+  right = right.slice(0, left.length ? 10 : 16);
+  if (!left.length && right.length > 5) { const half = Math.ceil(right.length / 2); left = right.slice(half); right = right.slice(0, half); }  // no partners: use both sides
+  else if (!right.length && left.length > 5) { const half = Math.ceil(left.length / 2); right = left.slice(half); left = left.slice(0, half); }
   const W = 1000, H = Math.max(300, 46 * Math.max(right.length, left.length) + 40), CX = 500, CY = H / 2;
   const place = (list, a0, a1) => list.map((n, i) => { const a = (a0 + (a1 - a0) * (list.length > 1 ? i / (list.length - 1) : 0.5)) * Math.PI / 180; return [n, CX + 250 * Math.cos(a), CY + (H / 2 - 24) * Math.sin(a)]; });
   const pts = [...place(right, -70, 70), ...place(left, 250, 110)];
@@ -103,7 +108,7 @@ function network(vm, resolve) {
   state.nodes = pts.map(p => p[0]);
   return `<section class="panel pv2-panel" id="pv2-network"><header><h2>Network</h2><p>Funders, group entities, customers, suppliers, partners and competitors named in public sources. Select a type or a node.</p></header>
     <div class="pv2-chips">${chips}</div><div class="pv2-graph">${svg}</div><div class="pv2-detail" aria-live="polite"></div>
-    <div class="pv2-legend"><span><i class="ln"></i>official record or checked quote</span><span><i class="ln is-dash"></i>reported in the press, not confirmed</span><span>Partners: most joint EDF projects first</span></div></section>`;
+    <div class="pv2-legend"><span><i class="ln"></i>official record or checked quote</span><span><i class="ln is-dash"></i>reported in the press, not confirmed</span>${nodes.some(n => LEFT.has(n.type)) ? '<span>Partners: most joint EDF projects first</span>' : ''}</div></section>`;
 }
 const state = { nodes: [] };
 

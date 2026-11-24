@@ -437,7 +437,7 @@
 .pv2-graph svg{width:100%;max-width:1060px;height:auto;display:block;margin:0 auto}
 .pv2-e{stroke:#c9cfdc;stroke-width:1.4}.pv2-e.is-dash{stroke-dasharray:5 4}
 .pv2-e.t-funder,.pv2-e.t-investor{stroke:#d08a2e}.pv2-e.t-group,.pv2-e.t-owner,.pv2-e.t-subsidiary{stroke:#16264d}
-.pv2-e.t-customer{stroke:#5b3cc4}.pv2-e.t-supplier{stroke:#2a7ab0}.pv2-e.t-competitor{stroke:#c0392b}
+.pv2-e.t-customer{stroke:#5b3cc4}.pv2-e.t-acquired,.pv2-e.t-funded{stroke:#16264d}.pv2-e.t-supplier{stroke:#2a7ab0}.pv2-e.t-competitor{stroke:#c0392b}
 .pv2-n{cursor:pointer}.pv2-n circle{fill:#fff;stroke:#7b8499;stroke-width:2}
 .pv2-n.t-funder circle,.pv2-n.t-investor circle{stroke:#d08a2e}.pv2-n.t-group circle,.pv2-n.t-owner circle,.pv2-n.t-subsidiary circle{stroke:#16264d;fill:#16264d}
 .pv2-n.t-customer circle{stroke:#5b3cc4}.pv2-n.t-supplier circle{stroke:#2a7ab0}.pv2-n.t-research circle{stroke:#2a9d8f}.pv2-n.t-competitor circle{stroke:#c0392b}
