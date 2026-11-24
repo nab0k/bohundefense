@@ -90,6 +90,44 @@ class CardsFromDb(unittest.TestCase):
         co['claims'] = [c for c in co['claims'] if c['ref'] != 'b4:city']
         self.assertEqual(M.apply([co], self.root)['profiles_added'], [])
 
+    def test_page_v2_figures_network_sources(self):  # EXP-035
+        co = copy.deepcopy(CO)
+        co['claims'][3]['value']['edf'] = {
+            'acronym': 'ALPHA', 'title': 'Alpha project', 'status': 'Ongoing', 'role': 'coordinator', 'company_eu': 2.5e6, 'eu_total': 9e6,
+            'partners': 3, 'start': '2025-01-01', 'end': '2027-12-31', 'url': 'https://ec.europa.eu/x/101000001/EDF',
+            'participants': [{'name': 'TESTFIRMA SWEDEN AB', 'country': 'SE', 'kind': 'company', 'role': 'participant'},
+                             {'name': 'PARTNER INDUSTRIES GMBH', 'country': 'DE', 'kind': 'company', 'role': 'participant'},
+                             {'name': 'NATIONAL LAB', 'country': 'FI', 'kind': 'research', 'role': 'participant'}]}
+        co['network'] = [{'type': 'customer', 'name': 'Finnish Navy', 'status': 'verified',
+                          'evidence': [{'quote': 'The Finnish Navy ordered …', 'url': 'https://news.example/a', 'date': None}]},
+                         {'type': 'supplier', 'name': 'Partner Industries', 'status': 'candidate', 'evidence': []},
+                         {'type': 'bogus', 'name': 'X'}]
+        co['products'] = [{'name': 'Widget', 'role': 'makes', 'status': 'verified',
+                           'evidence': [{'quote': 'makes the Widget', 'url': 'https://news.example/b'}]}]
+        out = M.apply([co], self.root)
+        prof = json.loads((self.root / 'atlas/company-profiles-v1.json').read_text())['profiles']
+        pg = prof['testfirma-oy']['page']
+        self.assertEqual(pg['v'], 2)
+        self.assertEqual([f['value'] for f in pg['figures']], ['€2.5M', '1', '1', '1'])  # funding, projects, ongoing, coordinates
+        types = {(n['type'], n['name']) for n in pg['network']}
+        self.assertIn(('funder', 'European Commission · European Defence Fund'), types)
+        self.assertIn(('group', 'Testfirma Sweden Ab'), types)  # same group, not a partner
+        self.assertIn(('partner', 'PARTNER INDUSTRIES GMBH'), types)
+        self.assertIn(('research', 'NATIONAL LAB'), types)
+        self.assertIn(('customer', 'Finnish Navy'), types)
+        self.assertNotIn('Partner Industries', {n['name'] for n in pg['network']})  # already there as an EDF partner
+        self.assertNotIn('X', {n['name'] for n in pg['network']})
+        urls = [x['url'] for x in pg['sources']]
+        self.assertEqual(len(urls), len(set(urls)))  # one link, one number
+        for n in pg['network'] + pg['products']:
+            for i in n.get('src') or []:
+                self.assertTrue(1 <= i <= len(urls))
+        self.assertEqual(pg['products'][0]['name'], 'Widget')
+        # the network and products are part of the card hash: a new relation rebuilds the card
+        co2 = copy.deepcopy(co); co2['products'] = []
+        self.assertNotEqual(M.card_hash(co['claims'], co['sources'], co['network'], co['products']),
+                            M.card_hash(co2['claims'], co2['sources'], co2['network'], co2['products']))
+
 
 if __name__ == '__main__':
     unittest.main()
