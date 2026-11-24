@@ -9352,6 +9352,24 @@
         ],
         "products": [
           {
+            "name": "De Grasse",
+            "role": "makes",
+            "status": "verified",
+            "quote": "The admission came about five months after Naval Group delivered the boat on June 24.",
+            "src": [
+              26
+            ]
+          },
+          {
+            "name": "Barracuda program",
+            "role": "makes",
+            "status": "verified",
+            "quote": "Naval Group designs and builds the boats in Cherbourg and supports them from Toulon.",
+            "src": [
+              26
+            ]
+          },
+          {
             "name": "Defence and Intervention Frigates (FDI)",
             "role": "makes",
             "status": "verified",
@@ -9366,7 +9384,7 @@
             "status": "verified",
             "quote": "Cutaway and infographic of the SEAGENT XL by Naval Group.",
             "src": [
-              26
+              27
             ]
           },
           {
@@ -9375,7 +9393,7 @@
             "status": "verified",
             "quote": "France’s Naval Group has unveiled the SCX26, a future warship concept exploring how large surface combatants could evolve to meet the demands of naval warfare in the coming decades.",
             "src": [
-              27
+              28
             ]
           },
           {
@@ -9402,7 +9420,7 @@
             "status": "candidate",
             "quote": "Naval Group, Chantiers de l’Atlantique, and TechnicAtome are spearheading the joint industrial effort.",
             "src": [
-              28
+              29
             ]
           },
           {
@@ -9420,7 +9438,7 @@
             "status": "verified",
             "quote": "The firm is developing a towed array for the Royal Netherlands Navy for the future Orka-class submarines ordered from France’s Naval Group.",
             "src": [
-              29
+              30
             ]
           },
           {
@@ -9429,7 +9447,7 @@
             "status": "verified",
             "quote": "A UK-specific variant of the Principal Anti-Air Missile System (PAAMS) co-developed with France and Italy, the Sea Viper ‘system of systems’ includes a 48-cell SYLVER A50 VLS sourced from Naval Group: Aster 30 and the shorter range Aster 15 are currently only qualified for launch from the SYLVER lau",
             "src": [
-              30
+              31
             ]
           },
           {
@@ -9438,7 +9456,7 @@
             "status": "candidate",
             "quote": "With a platform provided by French Couach shipyard and the Naval Group Steeris command, control and mission planning system for unmanned platforms (being UAVs, USVs and UUVs), the Seaquest S is built by composite materiel and 9.3 metres long",
             "src": [
-              31
+              32
             ]
           }
         ],
@@ -9544,6 +9562,10 @@
             "url": "https://www.rumaniamilitary.ro/submarine-noi-pentru-argentina"
           },
           {
+            "title": "euroarsenal.com",
+            "url": "https://euroarsenal.com/france-puts-de-grasse-its-fourth-barracuda-attack-submarine-into-active-service/"
+          },
+          {
             "title": "navalnews.com",
             "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/naval-group-to-build-ucuv-underwater-combat-drone-demonstrator-for-french-navy/"
           },
@@ -9569,7 +9591,7 @@
           }
         ]
       },
-      "card_hash": "c21755389c667d88"
+      "card_hash": "91993a473cece232"
     },
     "raytheon-company": {
       "developments": [],
