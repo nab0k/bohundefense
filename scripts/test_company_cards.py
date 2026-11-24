@@ -128,6 +128,38 @@ class CardsFromDb(unittest.TestCase):
         self.assertNotEqual(M.card_hash(co['claims'], co['sources'], co['network'], co['products']),
                             M.card_hash(co2['claims'], co2['sources'], co2['network'], co2['products']))
 
+    def test_card_from_us_contracts_only(self):  # EXP-035: a card made by the FIELD contracts step, no EDF
+        co = {'company_id': 'co_us', 'name': 'Shield AI', 'country': 'US', 'reviewed': '2026-11-24', 'claims': [
+            {'ref': 'b4:legal_name', 'value': 'SHIELD AI INC'},
+            {'ref': 'b4:regno', 'value': {'scheme': 'US_UEI', 'value': 'DVEJNK717BB6'}},
+            {'ref': 'b4:level', 'value': {'level': 'L3', 'confidence': 'verified', 'rule': 'R03'}},
+            {'ref': 'b4:spend', 'value': {'kind': 'spend_total', 'register': 'USAspending.gov', 'buyer': 'US Department of Defense',
+             'period': 'FY2025–26', 'amount': 14.7e6, 'currency': 'USD', 'count': 6, 'url': 'https://www.usaspending.gov/recipient/h/latest',
+             'top_buyer': {'name': 'Department of the Navy', 'amount': 14.7e6}, 'buyers': [{'name': 'Department of the Navy', 'amount': 14.7e6}]}},
+            {'ref': 'b4:ctr1', 'value': {'kind': 'contract', 'register': 'USAspending.gov', 'ref': 'N1', 'buyer': 'Department of the Navy',
+             'title': 'V-BAT VTOL unmanned aircraft', 'amount': 11.3e6, 'currency': 'USD', 'date': '2025-09-03', 'end': '2099-12-01',
+             'url': 'https://www.usaspending.gov/award/CONT_N1'}},
+            {'ref': 'b4:sub1', 'value': {'kind': 'subcontract', 'register': 'USAspending.gov', 'supplier': 'ACME PARTS INC', 'country': 'US',
+             'prime': 'SHIELD AI INC', 'date': '2025-09-30', 'url': 'https://www.usaspending.gov/search'}}],
+              'sources': [{'ref': 'b4:reg', 'title': 'USAspending recipient profile (SAM UEI)', 'url': 'https://www.usaspending.gov/recipient/h/latest',
+                           'kind': 'contract_register'}]}
+        rows = json.loads((self.root / 'atlas/companies-directory-v1.json').read_text())
+        rows['companies'].append({'name': 'Shield AI', 'country': 'US', 'city': None, 'status': 'from_news'})
+        (self.root / 'atlas/companies-directory-v1.json').write_text(json.dumps(rows))
+        out = M.apply([co], self.root)
+        self.assertEqual(out['profiles_added'], ['US Shield AI'], out)
+        card = json.loads((self.root / 'atlas/company-profiles-v1.json').read_text())['profiles']['shield-ai']
+        self.assertIn('US$14.7M obligated to it by the Department of Defense in FY2025–26 across 6 contracts', card['about']['workspace'])
+        pg = card['page']
+        self.assertEqual(pg['figures'][0]['value'], 'US$14.7M')
+        self.assertIn('almost all Department of the Navy', pg['figures'][0]['label'])
+        self.assertEqual(pg['activity'][0]['title'], 'V-BAT VTOL unmanned aircraft')
+        self.assertTrue(pg['activity'][0]['ongoing'])
+        types = {(n['type'], n['name']) for n in pg['network']}
+        self.assertIn(('customer', 'Department of the Navy'), types)
+        self.assertIn(('supplier', 'ACME PARTS INC'), types)
+        self.assertEqual(pg['facts'][-1][:2], ['UEI DVEJNK717BB6', 'Register'])
+
 
 if __name__ == '__main__':
     unittest.main()
