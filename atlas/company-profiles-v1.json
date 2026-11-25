@@ -109174,6 +109174,186 @@
         ]
       },
       "card_hash": "7f2a2490a9915829"
+    },
+    "ionq": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "IONQ, INC. is a US company, with its seat in College Park. US federal spending records show US$0K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 1 contracts; the largest customer is the Missile Defense Agency.",
+        "overview": "IONQ, INC. is a US company, with its seat in College Park. US federal spending records show US$0K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 1 contracts; the largest customer is the Missile Defense Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "College Park, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI EH32NDF7YPM7",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "College Park, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI EH32NDF7YPM7",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity IONQ, INC., UEI EH32NDF7YPM7",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/1041cc55-fb49-d173-78bc-c85a15f042b7-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/1041cc55-fb49-d173-78bc-c85a15f042b7-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "College Park",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "IONQ, INC. is a US company, with its seat in College Park. US federal spending records show US$0K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 1 contracts; the largest customer is the Missile Defense Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$0K",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026, almost all Missile Defense Agency",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "1",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "College Park, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI EH32NDF7YPM7",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Scalable homeland innovative enterprise layered defense (SHIELD) initial ORDER.",
+            "sub": "Missile Defense Agency · US$0K · 2026–2035",
+            "status": "Contract",
+            "date": "21 Jan 2026",
+            "iso": "2026-01-21",
+            "ongoing": true,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Missile Defense Agency",
+            "sub": "Customer · US$1K · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              2
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Air Force Research Lab",
+            "country": null,
+            "in_catalogue": false,
+            "sub": "Customer · US$7.5M",
+            "status": "verified",
+            "quote": "The Air Force Research Lab has awarded quantum computing firm IonQ a $7.5 million follow-on contract to bridge the gap between the lab and the field for the highly advanced technology.",
+            "src": [
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI EH32NDF7YPM7",
+            "url": "https://www.usaspending.gov/recipient/1041cc55-fb49-d173-78bc-c85a15f042b7-C/latest"
+          },
+          {
+            "title": "USAspending.gov · HQ085926FG316",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_HQ085926FG316_9700_HQ085926DG413_9700"
+          },
+          {
+            "title": "airandspaceforces.com",
+            "url": "https://www.airandspaceforces.com/afrl-push-quantum-tech-to-the-field/"
+          }
+        ]
+      },
+      "card_hash": "3b0546d9dc938bf6"
     }
   }
 }
