@@ -70156,6 +70156,11 @@
           "label": "Märkämaalaus",
           "level": "L0",
           "icon": "box"
+        },
+        {
+          "label": "Mavatech puhdistusjärjestelmät",
+          "level": "L0",
+          "icon": "box"
         }
       ],
       "productAccordion": [
@@ -70187,12 +70192,17 @@
             ],
             [
               "Raepuhallus",
-              "Pintakäsittely Raepuhallus Märkämaalaus Maalaus ja hiekkapuhallus",
+              "Palvelut Konepajatuotanto Pintakäsittely Raepuhallus",
               "grey"
             ],
             [
               "Märkämaalaus",
-              "Märkämaalaus",
+              "Pintakäsittely Raepuhallus Märkämaalaus",
+              "grey"
+            ],
+            [
+              "Mavatech puhdistusjärjestelmät",
+              "CBRN-tuotteiden valmistus (Mavatech puhdistusjärjestelmät puolustus- ja turvallisuus- sekä siviilisektoreille).",
               "grey"
             ]
           ]
@@ -70226,7 +70236,43 @@
           "Hyvinkää",
           "Registered office"
         ]
-      ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Suomen Terästekniikka Oy is a Finnish company registered in 1992, with its seat in Hyvinkää.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1992",
+            "Registered",
+            null
+          ],
+          [
+            "Hyvinkää, Finland",
+            "Headquarters",
+            null
+          ],
+          [
+            "Y-tunnus 0891394-7",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · Y-tunnus 0891394-7",
+            "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=0891394-7"
+          }
+        ]
+      },
+      "card_hash": "7a4c3e22d1d5e89a"
     },
     "teknologian-tutkimuskeskus-vtt-oy": {
       "developments": [
@@ -116648,6 +116694,1581 @@
         ]
       },
       "card_hash": "d89a5d117409cda2"
+    },
+    "abeking-rasmussen-schiffs-und-yachtwerft-se": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "ABEKING & RASMUSSEN Schiffs- und Yachtwerft SE is a German company registered in 2015, with its seat in Lemwerder.",
+        "overview": "ABEKING & RASMUSSEN Schiffs- und Yachtwerft SE is a German company registered in 2015, with its seat in Lemwerder."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2015",
+            "Registered"
+          ],
+          [
+            "Lemwerder, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900LPV0ORXGGNGX88",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2015",
+            "Registered"
+          ],
+          [
+            "Lemwerder, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900LPV0ORXGGNGX88",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Yachts",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Special Vessels",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Maintenance, repair and refit services",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "SWATH@A&R vessels",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Yachts",
+              "Our yachts, naval, and special vessels lead in technological innovation.",
+              "grey"
+            ],
+            [
+              "Special Vessels",
+              "Our yachts, naval, and special vessels lead in technological innovation.",
+              "grey"
+            ],
+            [
+              "Maintenance, repair and refit services",
+              "We provide comprehensive maintenance, repair and refit services, carried out by our skilled professionals who are experts in their craft and",
+              "grey"
+            ],
+            [
+              "SWATH@A&R vessels",
+              "Since then, the shipyard has delivered 25 SWATH@A&R vessels, known for their exceptional stability even in rough seas.",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ABEKING & RASMUSSEN Schiffs- und Yachtwerft SE, LEI 529900LPV0ORXGGNGX88",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900LPV0ORXGGNGX88"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Lemwerder",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ABEKING & RASMUSSEN Schiffs- und Yachtwerft SE is a German company registered in 2015, with its seat in Lemwerder.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2015",
+            "Registered",
+            null
+          ],
+          [
+            "Lemwerder, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900LPV0ORXGGNGX88",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900LPV0ORXGGNGX88",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900LPV0ORXGGNGX88"
+          }
+        ]
+      },
+      "card_hash": "31bf65600c33b263"
+    },
+    "agt-gmbh": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "AGT GmbH is a German company registered in 1988, with its seat in Stephanskirchen.",
+        "overview": "AGT GmbH is a German company registered in 1988, with its seat in Stephanskirchen."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1988",
+            "Registered"
+          ],
+          [
+            "Stephanskirchen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900PHUGWT24KCX310",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1988",
+            "Registered"
+          ],
+          [
+            "Stephanskirchen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900PHUGWT24KCX310",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Aluminiumgussteile",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Sand- und Kokillenguss",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Aluminiumgussteile",
+              "Als Tochter der Arnold & Richter Cine Technik kann sie heute auf über 50 Jahre Erfahrung in der Herstellung von hochpräzisen Aluminiumgusste",
+              "grey"
+            ],
+            [
+              "Sand- und Kokillenguss",
+              "Als Hersteller von Präzisions-Sand- und Kokillenguss mit einer Kapazität für Klein-, Mittel- und Großserien von 0,1 bis 30 Kilogramm Stückge",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity AGT GmbH, LEI 529900PHUGWT24KCX310",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900PHUGWT24KCX310"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Stephanskirchen",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "AGT GmbH is a German company registered in 1988, with its seat in Stephanskirchen.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1988",
+            "Registered",
+            null
+          ],
+          [
+            "Stephanskirchen, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900PHUGWT24KCX310",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900PHUGWT24KCX310",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900PHUGWT24KCX310"
+          }
+        ]
+      },
+      "card_hash": "bb9b69a6285ed0ad"
+    },
+    "autonomous-teaming-solutions-ats-gmbh": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Autonomous Teaming Solutions ATS GmbH is a German company registered in 2013, with its seat in München.",
+        "overview": "Autonomous Teaming Solutions ATS GmbH is a German company registered in 2013, with its seat in München."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2013",
+            "Registered"
+          ],
+          [
+            "München, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 3912007AK36DBKSVCP12",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2013",
+            "Registered"
+          ],
+          [
+            "München, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 3912007AK36DBKSVCP12",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "C-UAS",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "AT-ULMA",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "C-UAS",
+              "C-UAS that detects, tracks, and mitigates hostile aerial threats at different ranges",
+              "grey"
+            ],
+            [
+              "AT-ULMA",
+              "On October 11 we demonstrated our lightweight mobile counter-UAS solution AT-ULMA at DefTech Day at Fliegerhorst Erding.",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Autonomous Teaming Solutions ATS GmbH, LEI 3912007AK36DBKSVCP12",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/3912007AK36DBKSVCP12"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "München",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Autonomous Teaming Solutions ATS GmbH is a German company registered in 2013, with its seat in München.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2013",
+            "Registered",
+            null
+          ],
+          [
+            "München, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 3912007AK36DBKSVCP12",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 3912007AK36DBKSVCP12",
+            "url": "https://api.gleif.org/api/v1/lei-records/3912007AK36DBKSVCP12"
+          }
+        ]
+      },
+      "card_hash": "06a9b6cd6ea1a02e"
+    },
+    "bernd-munstermann-gmbh-co-kg": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Bernd Münstermann GmbH & Co. KG is a German company registered in 1987, with its seat in Telgte.",
+        "overview": "Bernd Münstermann GmbH & Co. KG is a German company registered in 1987, with its seat in Telgte."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1987",
+            "Registered"
+          ],
+          [
+            "Telgte, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900WKIJJ1TAZP3N40",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1987",
+            "Registered"
+          ],
+          [
+            "Telgte, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900WKIJJ1TAZP3N40",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Thermoprozessanlagen",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Automatisierungssysteme",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Fasersammeltrommel",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Fasersammelbänder",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Schwebetrockner",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Thermoprozessanlagen",
+              "Unser Schwerpunkt liegt auf Thermoprozessanlagen zum Trocknen, Erwärmen, Aushärten, Kalzinieren und Kühlen.",
+              "grey"
+            ],
+            [
+              "Automatisierungssysteme",
+              "Entdecken Sie unsere individuellen Lösungen für thermische Prozesse, Automatisierungssysteme und Luftreinhaltung.",
+              "grey"
+            ],
+            [
+              "Fasersammeltrommel",
+              "Fasersammeltrommeln trennen Mineralfasern vom Prozessluftstrom und formen daraus ein gleichmäßiges Primärvlies.",
+              "grey"
+            ],
+            [
+              "Fasersammelbänder",
+              "Fasersammelbänder sammeln lose Glasfasern aus dem Prozessluftstrom und formen daraus eine gleichmäßige Fasermatte für die anschließende Aush",
+              "grey"
+            ],
+            [
+              "Schwebetrockner",
+              "Schwebetrockner führen empfindliche Folien und Bahnwaren berührungslos durch den Trocknungsprozess.",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Bernd Münstermann GmbH & Co. KG, LEI 529900WKIJJ1TAZP3N40",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900WKIJJ1TAZP3N40"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Telgte",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Bernd Münstermann GmbH & Co. KG is a German company registered in 1987, with its seat in Telgte.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1987",
+            "Registered",
+            null
+          ],
+          [
+            "Telgte, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900WKIJJ1TAZP3N40",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900WKIJJ1TAZP3N40",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900WKIJJ1TAZP3N40"
+          }
+        ]
+      },
+      "card_hash": "08c145b620cd1501"
+    },
+    "diehl-aviation-laupheim-gmbh": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Diehl Aviation Laupheim GmbH is a German company, with its seat in Laupheim.",
+        "overview": "Diehl Aviation Laupheim GmbH is a German company, with its seat in Laupheim."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Laupheim, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900U1U3SWNU4TVQ39",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Laupheim, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900U1U3SWNU4TVQ39",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Diehl Aviation Laupheim GmbH, LEI 529900U1U3SWNU4TVQ39",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900U1U3SWNU4TVQ39"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Laupheim",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Diehl Aviation Laupheim GmbH is a German company, with its seat in Laupheim.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "Laupheim, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900U1U3SWNU4TVQ39",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900U1U3SWNU4TVQ39",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900U1U3SWNU4TVQ39"
+          }
+        ]
+      },
+      "card_hash": "67feeb3a82d6d408"
+    },
+    "frequentis-comsoft-gmbh": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "FREQUENTIS COMSOFT GmbH is a German company registered in 2016, with its seat in Karlsruhe.",
+        "overview": "FREQUENTIS COMSOFT GmbH is a German company registered in 2016, with its seat in Karlsruhe."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2016",
+            "Registered"
+          ],
+          [
+            "Karlsruhe, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900M02PZS96B4GC45",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2016",
+            "Registered"
+          ],
+          [
+            "Karlsruhe, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900M02PZS96B4GC45",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Digital Tower",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "X10 VoICE",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "GuardX",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "ARTAS",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "MosaiX",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "MCS 3020 IP",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "MarTRX Command and Control",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "smartVTS",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Digital Tower",
+              "The FAA granted System Design Approval (SDA) to the Frequentis Digital Tower system, making it the first to achieve this milestone for use i",
+              "grey"
+            ],
+            [
+              "X10 VoICE",
+              "In the next phase of the program, Frequentis will begin delivering its latest voice communication system, the Frequentis X10 VoICE.",
+              "grey"
+            ],
+            [
+              "GuardX",
+              "Frequentis offers two exceptional products tailored to meet the specific needs of legal recording in the air traffic management domain: Guar",
+              "grey"
+            ],
+            [
+              "ARTAS",
+              "EUROCONTROL has awarded Frequentis a new long-term contract as industrial partner for Europe's leading air traffic management surveillance t",
+              "grey"
+            ],
+            [
+              "MosaiX",
+              "The Frequentis MosaiX digital platform helps organisations in safety-critical industries break down operational silos, integrate voice and d",
+              "grey"
+            ],
+            [
+              "MCS 3020 IP",
+              "MAR product brief: MCS 3020 IP (US) DOWNLOAD",
+              "grey"
+            ],
+            [
+              "MarTRX Command and Control",
+              "MAR solution brief: MarTRX Command and Control (US) DOWNLOAD",
+              "grey"
+            ],
+            [
+              "smartVTS",
+              "MAR solution brief: smartVTS (US) DOWNLOAD",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity FREQUENTIS COMSOFT GmbH, LEI 529900M02PZS96B4GC45",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900M02PZS96B4GC45"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Karlsruhe",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "FREQUENTIS COMSOFT GmbH is a German company registered in 2016, with its seat in Karlsruhe.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2016",
+            "Registered",
+            null
+          ],
+          [
+            "Karlsruhe, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900M02PZS96B4GC45",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900M02PZS96B4GC45",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900M02PZS96B4GC45"
+          }
+        ]
+      },
+      "card_hash": "dab5027253f1ccd7"
+    },
+    "ohb-digital-connect-gmbh": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "OHB Digital Connect GmbH is a German company registered in 2001, with its seat in Bremen.",
+        "overview": "OHB Digital Connect GmbH is a German company registered in 2001, with its seat in Bremen."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2001",
+            "Registered"
+          ],
+          [
+            "Bremen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 391200MLLVZOXXGQMD44",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2001",
+            "Registered"
+          ],
+          [
+            "Bremen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 391200MLLVZOXXGQMD44",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity OHB Digital Connect GmbH, LEI 391200MLLVZOXXGQMD44",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/391200MLLVZOXXGQMD44"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Bremen",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "OHB Digital Connect GmbH is a German company registered in 2001, with its seat in Bremen.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2001",
+            "Registered",
+            null
+          ],
+          [
+            "Bremen, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 391200MLLVZOXXGQMD44",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 391200MLLVZOXXGQMD44",
+            "url": "https://api.gleif.org/api/v1/lei-records/391200MLLVZOXXGQMD44"
+          }
+        ]
+      },
+      "card_hash": "c5147ade75aeefed"
+    },
+    "dedienne-aerospace": {
+      "developments": [],
+      "country": "FR",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "DEDIENNE AEROSPACE is a French company registered in 1955, with its seat in Toulouse.",
+        "overview": "DEDIENNE AEROSPACE is a French company registered in 1955, with its seat in Toulouse."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1955",
+            "Registered"
+          ],
+          [
+            "Toulouse, France",
+            "Headquarters"
+          ],
+          [
+            "LEI 969500LLZ9OJ8QFO2K22",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1955",
+            "Registered"
+          ],
+          [
+            "Toulouse, France",
+            "Headquarters"
+          ],
+          [
+            "LEI 969500LLZ9OJ8QFO2K22",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Engine Stands",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Towbars",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Fluid Dispensers",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Tooling Services",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Engine Stands",
+              "Aircraft tooling, engine stands, engine tooling, Ground Support Equipment, Engine Change Kits or Shipping Containers, you will find everythi",
+              "grey"
+            ],
+            [
+              "Towbars",
+              "For repositioning aircraft in a hangar or on the ramp, towbars are a GSE must-have! Our towbars are suitable for all types of aircraft.",
+              "grey"
+            ],
+            [
+              "Fluid Dispensers",
+              "We propose a wide range of fluid dispensers for aircraft hydraulic tanks, engines, APUs, CSDs, landing gear struts, actuators, and many more",
+              "grey"
+            ],
+            [
+              "Tooling Services",
+              "We are experts in tooling services : for periodic certification, repairs, calibration, upgrades, load testing, leasing, stock, training, and",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity DEDIENNE AEROSPACE, LEI 969500LLZ9OJ8QFO2K22",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/969500LLZ9OJ8QFO2K22"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Toulouse",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "DEDIENNE AEROSPACE is a French company registered in 1955, with its seat in Toulouse.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1955",
+            "Registered",
+            null
+          ],
+          [
+            "Toulouse, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 969500LLZ9OJ8QFO2K22",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 969500LLZ9OJ8QFO2K22",
+            "url": "https://api.gleif.org/api/v1/lei-records/969500LLZ9OJ8QFO2K22"
+          }
+        ]
+      },
+      "card_hash": "36fa8d259caa0a90"
+    },
+    "abc": {
+      "developments": [],
+      "country": "NO",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "ABC is a Norwegian company registered in 2016, with its seat in Overhalla.",
+        "overview": "ABC is a Norwegian company registered in 2016, with its seat in Overhalla."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2016",
+            "Registered"
+          ],
+          [
+            "Overhalla, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 916664974",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2016",
+            "Registered"
+          ],
+          [
+            "Overhalla, Norway",
+            "Headquarters"
+          ],
+          [
+            "Org.nr 916664974",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Software ORCHID and CASTOR",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Services",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Technical Support",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Maintenance",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Rental",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Upgrade",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Technical Assistance",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Spare parts",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "On site installation",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Training",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Software ORCHID and CASTOR",
+              "our software ORCHID and CASTOR, answer the different needs of the applications for the test benches.",
+              "grey"
+            ],
+            [
+              "Services",
+              "The diversity of our services guarantees the availability and sustainability of the benches.",
+              "grey"
+            ],
+            [
+              "Technical Support",
+              "Technical Support",
+              "grey"
+            ],
+            [
+              "Maintenance",
+              "Maintenance",
+              "grey"
+            ],
+            [
+              "Rental",
+              "Rental",
+              "grey"
+            ],
+            [
+              "Upgrade",
+              "Upgrade",
+              "grey"
+            ],
+            [
+              "Technical Assistance",
+              "Technical Assistance",
+              "grey"
+            ],
+            [
+              "Spare parts",
+              "Spare parts",
+              "grey"
+            ],
+            [
+              "On site installation",
+              "On site installation",
+              "grey"
+            ],
+            [
+              "Training",
+              "Training",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ABC, Org.nr 916664974",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://data.brreg.no/enhetsregisteret/api/enheter/916664974"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Overhalla",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ABC is a Norwegian company registered in 2016, with its seat in Overhalla.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2016",
+            "Registered",
+            null
+          ],
+          [
+            "Overhalla, Norway",
+            "Headquarters",
+            null
+          ],
+          [
+            "Org.nr 916664974",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · Org.nr 916664974",
+            "url": "https://data.brreg.no/enhetsregisteret/api/enheter/916664974"
+          }
+        ]
+      },
+      "card_hash": "a09f3076ea263983"
     }
   }
 }
