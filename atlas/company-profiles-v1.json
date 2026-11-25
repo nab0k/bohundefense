@@ -109354,6 +109354,436 @@
         ]
       },
       "card_hash": "3b0546d9dc938bf6"
+    },
+    "born-gmbh-knitwear-for-fashion-engineering": {
+      "developments": [
+        {
+          "date": "31 Aug 2026",
+          "title": "FAST-TRAIN — Fused Analytics and Smart Textiles for real-time operational readiness in soldier TRAINing",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304741/EDF"
+        },
+        {
+          "date": "21 Aug 2026",
+          "title": "SALUBRIS — Strategic Autonomous Logistic Uncrewed Battlefield tRiage Intervention System",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304840/EDF"
+        },
+        {
+          "date": "23 Apr 2025",
+          "title": "MINEFIELD — Energy autonomous smart clothing to enhance soldier safety and connectivity in the battleground",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168167/EDF"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Born GmbH, knitwear for fashion & engineering is a German company registered in 1991, with its seat in Dingelstädt. It takes part in 3 European Defence Fund projects (2025–2026). Of these, 3 ongoing, EU funding to the company €1.3M.",
+        "overview": "Born GmbH, knitwear for fashion & engineering is a German company registered in 1991, with its seat in Dingelstädt. It takes part in 3 European Defence Fund projects (2025–2026). Of these, 3 ongoing, EU funding to the company €1.3M."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1991",
+            "Registered"
+          ],
+          [
+            "Dingelstädt, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900MT2FUM02S59R73",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1991",
+            "Registered"
+          ],
+          [
+            "Dingelstädt, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900MT2FUM02S59R73",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "SALUBRIS — Strategic Autonomous Logistic Uncrewed Battlefield tRiage Intervention System",
+            "sub": "Participant · EU funding €680K of €10.0M · 19 partners · 2026–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "21 Aug 2026",
+            "desc": "EDF EDF-2025-RA-MCBRN-ATE",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304840/EDF"
+          },
+          {
+            "title": "FAST-TRAIN — Fused Analytics and Smart Textiles for real-time operational readiness in soldier TRAINing",
+            "sub": "Participant · EU funding €350K of €4.0M · 7 partners · 2026–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "31 Aug 2026",
+            "desc": "EDF EDF-2025-LS-RA-SMERO-NT",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304741/EDF"
+          },
+          {
+            "title": "MINEFIELD — Energy autonomous smart clothing to enhance soldier safety and connectivity in the battleground",
+            "sub": "Participant · EU funding €307K of €3.2M · 7 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "23 Apr 2025",
+            "desc": "EDF EDF-2023-LS-RA-SMERO-NT",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168167/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "SALUBRIS — Strategic Autonomous Logistic Uncrewed Battlefield tRiage Intervention System",
+            "sub": "Participant · EU funding €680K of €10.0M · 19 partners · 2026–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "21 Aug 2026",
+            "desc": "EDF EDF-2025-RA-MCBRN-ATE",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304840/EDF"
+          },
+          {
+            "title": "FAST-TRAIN — Fused Analytics and Smart Textiles for real-time operational readiness in soldier TRAINing",
+            "sub": "Participant · EU funding €350K of €4.0M · 7 partners · 2026–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "31 Aug 2026",
+            "desc": "EDF EDF-2025-LS-RA-SMERO-NT",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304741/EDF"
+          },
+          {
+            "title": "MINEFIELD — Energy autonomous smart clothing to enhance soldier safety and connectivity in the battleground",
+            "sub": "Participant · EU funding €307K of €3.2M · 7 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "23 Apr 2025",
+            "desc": "EDF EDF-2023-LS-RA-SMERO-NT",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168167/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 3 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 3 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Born GmbH, knitwear for fashion & engineering, LEI 529900MT2FUM02S59R73",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900MT2FUM02S59R73"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101304741",
+          "sources": 1,
+          "date": "31 Aug 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304741/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101304840",
+          "sources": 1,
+          "date": "21 Aug 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304840/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101168167",
+          "sources": 1,
+          "date": "23 Apr 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168167/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Dingelstädt",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Born GmbH, knitwear for fashion & engineering is a German company registered in 1991, with its seat in Dingelstädt. It takes part in 3 European Defence Fund projects (2025–2026). Of these, 3 ongoing, EU funding to the company €1.3M.",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "€1.3M",
+            "label": "EU defence funding to the company",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "value": "3",
+            "label": "European Defence Fund projects",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "value": "3",
+            "label": "ongoing now",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "value": "29",
+            "label": "organisations it shares EDF projects with",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "1991",
+            "Registered",
+            null
+          ],
+          [
+            "Dingelstädt, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900MT2FUM02S59R73",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "SALUBRIS — Strategic Autonomous Logistic Uncrewed Battlefield tRiage Intervention System",
+            "sub": "Participant · EU funding €680K of €10.0M · 19 partners · 2026–2029",
+            "status": "Grant · Ongoing",
+            "date": "21 Aug 2026",
+            "iso": "2026-08-21",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "FAST-TRAIN — Fused Analytics and Smart Textiles for real-time operational readiness in soldier TRAINing",
+            "sub": "Participant · EU funding €350K of €4.0M · 7 partners · 2026–2029",
+            "status": "Grant · Ongoing",
+            "date": "31 Aug 2026",
+            "iso": "2026-08-31",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "MINEFIELD — Energy autonomous smart clothing to enhance soldier safety and connectivity in the battleground",
+            "sub": "Participant · EU funding €307K of €3.2M · 7 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "date": "23 Apr 2025",
+            "iso": "2025-04-23",
+            "ongoing": true,
+            "src": 4
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "3 grants · €1.3M",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "research",
+            "name": "TEKNOLOGISK INSTITUT",
+            "country": "DK",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ABINSULA SRL",
+            "country": "IT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ADAMANT AERODIASTIMIKES EFARMOGES ETAIREIA PERIORISMENIS EFTHYNIS",
+            "country": "EL",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              4
+            ]
+          },
+          {
+            "type": "research",
+            "name": "ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA",
+            "country": "IT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "BIODRONE AS",
+            "country": "NO",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "BRAIN INNOVATION BV",
+            "country": "NL",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "DEFSECINTEL SOLUTIONS OU",
+            "country": "EE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "DIGITAL UNIFORMS - TECHNOLOGIES & SOLUTIONS SRL",
+            "country": "IT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900MT2FUM02S59R73",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900MT2FUM02S59R73"
+          },
+          {
+            "title": "EU Funding & Tenders portal · FAST-TRAIN",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304741/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · SALUBRIS",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304840/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · MINEFIELD",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168167/EDF"
+          }
+        ]
+      },
+      "card_hash": "5f8ff06b106b2d3b"
     }
   }
 }
