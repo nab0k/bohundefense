@@ -9665,8 +9665,8 @@
         ]
       ],
       "about": {
-        "workspace": "RAYTHEON COMPANY is a US company registered in 1953, with its seat in Wilmington. US federal spending records list it as a recipient of contracts from the US Department of Defense.",
-        "overview": "RAYTHEON COMPANY is a US company registered in 1953, with its seat in Wilmington. US federal spending records list it as a recipient of contracts from the US Department of Defense."
+        "workspace": "RAYTHEON COMPANY is a US company registered in 1953, with its seat in Wilmington. US federal spending records show US$22.0B obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 2,123 contracts; the largest customer is the Department of the Navy.",
+        "overview": "RAYTHEON COMPANY is a US company registered in 1953, with its seat in Wilmington. US federal spending records show US$22.0B obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 2,123 contracts; the largest customer is the Department of the Navy."
       },
       "facts": {
         "workspace": [
@@ -9767,6 +9767,14 @@
           "href": "https://api.gleif.org/api/v1/lei-records/YR6K3WJN0KKLUPZSNL57"
         },
         {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/cce9df51-3950-87f4-0b34-4353d5a08f32-C/latest"
+        },
+        {
           "claim": "Recipient of US Department of Defense contracts",
           "sources": 1,
           "date": "",
@@ -9788,7 +9796,542 @@
           "Wilmington",
           "Registered office"
         ]
-      ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "RAYTHEON COMPANY is a US company registered in 1953, with its seat in Wilmington. US federal spending records show US$22.0B obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 2,123 contracts; the largest customer is the Department of the Navy.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$22.0B",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "src": [
+              11
+            ]
+          },
+          {
+            "value": "2,123",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              11
+            ]
+          },
+          {
+            "value": "US$7.7B",
+            "label": "largest customer: Department of the Navy",
+            "src": [
+              11
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "1953",
+            "Registered",
+            null
+          ],
+          [
+            "Wilmington, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI YR6K3WJN0KKLUPZSNL57",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "IGF::OT::IGF 10 FIRE units for qatar",
+            "sub": "Department of the Army · US$5.6B · 2014–2025",
+            "status": "Contract",
+            "date": "19 Dec 2014",
+            "iso": "2014-12-19",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "AN/SPY-6(V) hardware production",
+            "sub": "Department of the Navy · US$5.1B · 2022–2031",
+            "status": "Contract",
+            "date": "31 Mar 2022",
+            "iso": "2022-03-31",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "Undefinitized contract action (UCA) for lower TIER AIR and missile defense system (LTAMDS)",
+            "sub": "Department of the Army · US$3.8B · 2024–2031",
+            "status": "Contract",
+            "date": "31 Jul 2024",
+            "iso": "2024-07-31",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "Advanced medium range AIR-TO-AIR missile (AMRAAM)LOTS 39-40",
+            "sub": "Department of the Air Force · US$3.4B · 2025–2030",
+            "status": "Contract",
+            "date": "31 Jul 2025",
+            "iso": "2025-07-31",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "FY 23-25 SM-3 block IIA AURS",
+            "sub": "Defense Contract Management Agency · US$3.3B · 2024–2031",
+            "status": "Contract",
+            "date": "25 Jul 2024",
+            "iso": "2024-07-25",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "Lot 24-26 production - FMS",
+            "sub": "Department of the Navy · US$3.1B · 2024–2029",
+            "status": "Contract",
+            "date": "27 Sep 2024",
+            "iso": "2024-09-27",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "SM-3 BLK IIA RDT&E guided missile rounds",
+            "sub": "Defense Contract Management Agency · US$2.8B · 2015–2025",
+            "status": "Contract",
+            "date": "22 Jul 2015",
+            "iso": "2015-07-22",
+            "ongoing": false,
+            "src": 9
+          },
+          {
+            "title": "Advanced medium range AIR to AIR missile (AMRAAM) production lot 37",
+            "sub": "Department of the Air Force · US$2.5B · 2023–2030",
+            "status": "Contract",
+            "date": "20 Jun 2023",
+            "iso": "2023-06-20",
+            "ongoing": true,
+            "src": 10
+          },
+          {
+            "title": "US Department of Defense contracts",
+            "sub": "Recipient profile on USAspending.gov",
+            "status": "Contracts",
+            "date": "",
+            "iso": "",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$15.9B · 2 contracts",
+            "status": "verified",
+            "src": [
+              4,
+              8,
+              11,
+              16
+            ],
+            "quote": "The U.S. Navy has ordered $6.3 million in initial logistics support and training from Raytheon"
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$15.0B · 2 contracts",
+            "status": "verified",
+            "src": [
+              3,
+              5,
+              11
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$10.9B · 2 contracts",
+            "status": "verified",
+            "src": [
+              6,
+              10,
+              11
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Contract Management Agency",
+            "sub": "Customer · US$6.1B · 2 contracts",
+            "status": "verified",
+            "src": [
+              7,
+              9
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Missile Defense Agency",
+            "sub": "Customer · US$2.6B",
+            "status": "verified",
+            "src": [
+              11
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$1.0B",
+            "status": "verified",
+            "src": [
+              11
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "DYNAMIC SEALING TECHNOLOGIES LLC",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              12
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "RED RIVER TECHNOLOGY LLC",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              12
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "SCI TECHNOLOGY, INC",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              12
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "SPARTRONICS PLAISTOW, INC.",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              12
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "RANTEC POWER SYSTEMS INC.",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              12
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "NEVADA HEAT TREATING, LLC",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              12
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "MICRO SYSTEMS, INC",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              12
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "MERCURY SYSTEMS INC",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              12
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "PRODUCTS SUPPORT, LLC",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              12
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "EMC TECHNOLOGIES, INC.",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              12
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "DRS SUSTAINMENT SYSTEMS, INC",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              12
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "AERO ELECTRONICS SYSTEMS, INC.",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              12
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "Ursa Major",
+            "country": "US",
+            "in_catalogue": true,
+            "sub": "Supplier",
+            "status": "verified",
+            "quote": "RTX business Raytheon has awarded a joint multi-year contract to Ursa Major and Avio USA to design, develop, and qualify a new solid rocket motor (SRM) booster for the U.S. Navy’s Tactical Tomahawk long-range cruise missile program",
+            "src": [
+              13
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "Avio USA",
+            "country": "US",
+            "in_catalogue": true,
+            "sub": "Supplier",
+            "status": "verified",
+            "quote": "RTX business Raytheon has awarded a joint multi-year contract to Ursa Major and Avio USA to design, develop, and qualify a new solid rocket motor (SRM) booster for the U.S. Navy’s Tactical Tomahawk long-range cruise missile program",
+            "src": [
+              13
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "DARPA",
+            "country": null,
+            "in_catalogue": false,
+            "sub": "Customer",
+            "status": "verified",
+            "quote": "Raytheon to develop all-optical signal processing for DARPA to speed threat response",
+            "src": [
+              14
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of War",
+            "country": null,
+            "in_catalogue": false,
+            "sub": "Customer",
+            "status": "verified",
+            "quote": "The SM-6 is one of several munitions Raytheon is producing at accelerated rates under a series of contracts with the Department of War.",
+            "src": [
+              15
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Taiwan’s air force",
+            "country": null,
+            "in_catalogue": false,
+            "sub": "Customer · US$6.3M · reported, not confirmed",
+            "status": "candidate",
+            "quote": "The U.S. Navy has ordered $6.3 million in initial logistics support and training from Raytheon so Taiwan’s air force can use the AGM-154C Joint Standoff Weapon on its F-16 Block 20 fighters",
+            "src": [
+              16
+            ]
+          }
+        ],
+        "products": [
+          {
+            "name": "SM-6",
+            "role": "makes",
+            "status": "verified",
+            "quote": "The SM-6 is one of several munitions Raytheon is producing at accelerated rates under a series of contracts with the Department of War.",
+            "src": [
+              15
+            ]
+          },
+          {
+            "name": "ESSM Block 2",
+            "role": "makes",
+            "status": "verified",
+            "quote": "Raytheon leads the multinational industry consortium responsible for the manufacture and delivery of ESSM Block 2.",
+            "src": [
+              17,
+              18
+            ]
+          },
+          {
+            "name": "AIM-120 Advanced Medium-Range Air-to-Air Missiles (AMRAAMs)",
+            "role": "makes",
+            "status": "candidate",
+            "quote": "The announcement follows a September award to RTX subsidiary Raytheon for a five-year AMRAAM production contract , with options for two additional years, valued at up to $20.7 billion.",
+            "src": [
+              19
+            ]
+          },
+          {
+            "name": "Marine-Flugkörper",
+            "role": "makes",
+            "status": "candidate",
+            "quote": "baut der zu RTX gehörende US-Rüstungskonzern Raytheon seine Produktion in dieser Waffenkategorie",
+            "src": [
+              20
+            ]
+          },
+          {
+            "name": "Photonic Integrated Circuit Architectures for Scalable System Objectives, or PICASSO, program",
+            "role": "supplies to",
+            "status": "verified",
+            "quote": "The RTX business will design and demonstrate photonic circuits under the Photonic Integrated Circuit Architectures for Scalable System Objectives, or PICASSO, program.",
+            "src": [
+              14
+            ]
+          },
+          {
+            "name": "AN/APG-82(V)1 AESA radar",
+            "role": "supplies to",
+            "status": "candidate",
+            "quote": "Equipped with Raytheon’s AN/APG-82(V)1 AESA radar",
+            "src": [
+              21
+            ]
+          }
+        ],
+        "news": [
+          {
+            "iso": "2026-11-01",
+            "kind": "Supplier",
+            "title": "Supplier: Ursa Major",
+            "line": "RTX business Raytheon has awarded a joint multi-year contract to Ursa Major and Avio USA to design, develop, and qualify a new solid rocket motor (SRM) booster for the U.S. Navy’s Tactical Tomahawk long-range cruise missile program",
+            "src": 13
+          },
+          {
+            "iso": "2026-11-01",
+            "kind": "Supplier",
+            "title": "Supplier: Avio USA",
+            "line": "RTX business Raytheon has awarded a joint multi-year contract to Ursa Major and Avio USA to design, develop, and qualify a new solid rocket motor (SRM) booster for the U.S. Navy’s Tactical Tomahawk long-range cruise missile program",
+            "src": 13
+          }
+        ],
+        "sources": [
+          {
+            "title": "GLEIF · LEI YR6K3WJN0KKLUPZSNL57",
+            "url": "https://api.gleif.org/api/v1/lei-records/YR6K3WJN0KKLUPZSNL57"
+          },
+          {
+            "title": "USAspending.gov recipient profile",
+            "url": "https://www.usaspending.gov/recipient/01c4a3a3-b4c5-ce4e-822b-d17f09985001-C/latest"
+          },
+          {
+            "title": "USAspending.gov · W31P4Q15C0022",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q15C0022_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0002422C5500",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0002422C5500_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W31P4Q24C0024",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q24C0024_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · FA865925CB003",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA865925CB003_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · HQ085124C0001",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_HQ085124C0001_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001924C0032",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001924C0032_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · HQ027615C0003",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_HQ027615C0003_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · FA867523C0037",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA867523C0037_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · US Department of Defense · FY2026–27, to 25 Nov 2026",
+            "url": "https://www.usaspending.gov/recipient/cce9df51-3950-87f4-0b34-4353d5a08f32-C/latest"
+          },
+          {
+            "title": "USAspending.gov · sub-award",
+            "url": "https://www.usaspending.gov/search"
+          },
+          {
+            "title": "timesofdefence.com.tr",
+            "url": "https://www.timesofdefence.com.tr/raytheon-awards-joint-multi-year-contract-to-ursa-major-and-avio-usa-to-design-develop-and-qualify-solid-rocket-motor-booster-for-tomahawk-cruise-missile/"
+          },
+          {
+            "title": "defence-industry.eu",
+            "url": "https://defence-industry.eu/raytheon-to-develop-all-optical-signal-processing-for-darpa-to-speed-threat-response/"
+          },
+          {
+            "title": "defence-industry.eu",
+            "url": "https://defence-industry.eu/raytheon-ramps-up-sm-6-production-to-reach-hundreds-of-missiles-a-year/"
+          },
+          {
+            "title": "defence-blog.com",
+            "url": "https://defence-blog.com/taiwans-f-16s-get-jsow-support-as-missiles-run-years-late/"
+          },
+          {
+            "title": "navalnews.com",
+            "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/raytheon-continues-essm-block-2-production-ramp-up-as-programme-marks-1000th-missile-delivery/"
+          },
+          {
+            "title": "defence-industry.eu",
+            "url": "https://defence-industry.eu/u-s-navy-says-essm-block-2-deliveries-reach-1000-for-12-nation-nato-seasparrow-consortium/"
+          },
+          {
+            "title": "twz.com",
+            "url": "https://www.twz.com/air/japan-to-assemble-amraam-missiles-as-u-s-moves-to-dramatically-boost-aim-120-production"
+          },
+          {
+            "title": "hartpunkt.de",
+            "url": "https://www.hartpunkt.de/raytheon-sondiert-moegliche-koproduktion-von-marine-flugkoerpern-in-deutschland/"
+          },
+          {
+            "title": "timesofdefence.com.tr",
+            "url": "https://www.timesofdefence.com.tr/u-s-air-force-begins-permanent-f-15ex-eagle-ii-deployment-at-kadena-air-base-okinawa-restoring-resident-air-superiority-presence-after-47-years/"
+          }
+        ]
+      },
+      "card_hash": "7f924b36750a0b16"
     },
     "mbda-france": {
       "developments": [
@@ -75112,8 +75655,8 @@
         ]
       ],
       "about": {
-        "workspace": "SIG SAUER INC. is a US company registered in 2000, with its seat in Dover. US federal spending records list it as a recipient of contracts from the US Department of Defense.",
-        "overview": "SIG SAUER INC. is a US company registered in 2000, with its seat in Dover. US federal spending records list it as a recipient of contracts from the US Department of Defense."
+        "workspace": "SIG SAUER INC. is a US company registered in 2000, with its seat in Dover. US federal spending records show US$614.5M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 288 contracts; the largest customer is the Department of the Army.",
+        "overview": "SIG SAUER INC. is a US company registered in 2000, with its seat in Dover. US federal spending records show US$614.5M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 288 contracts; the largest customer is the Department of the Army."
       },
       "facts": {
         "workspace": [
@@ -75214,6 +75757,14 @@
           "href": "https://api.gleif.org/api/v1/lei-records/549300M5DQXUVW4X1L11"
         },
         {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/0171220c-321a-4609-5065-af7e04637e51-C/latest"
+        },
+        {
           "claim": "Recipient of US Department of Defense contracts",
           "sources": 1,
           "date": "",
@@ -75238,11 +75789,26 @@
       ],
       "page": {
         "v": 2,
-        "lead": "SIG SAUER INC. is a US company registered in 2000, with its seat in Dover. US federal spending records list it as a recipient of contracts from the US Department of Defense.",
+        "lead": "SIG SAUER INC. is a US company registered in 2000, with its seat in Dover. US federal spending records show US$614.5M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 288 contracts; the largest customer is the Department of the Army.",
         "lead_src": [
           1
         ],
-        "figures": [],
+        "figures": [
+          {
+            "value": "US$614.5M",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all Department of the Army",
+            "src": [
+              2
+            ]
+          },
+          {
+            "value": "288",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              2
+            ]
+          }
+        ],
         "facts": [
           [
             "2000",
@@ -75262,6 +75828,78 @@
         ],
         "activity": [
           {
+            "title": "To place a delivery order for XM1192 blank LINKED, XM1192 blank CARTON, 6.8MM XM1188 RRA LNK, and 6.8MM XM1188 RRA CRT i",
+            "sub": "Department of the Army · US$103.0M · 2026–2027",
+            "status": "Contract",
+            "date": "15 Apr 2026",
+            "iso": "2026-04-15",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "NEXT generation squad weapon",
+            "sub": "Department of the Army · US$95.9M · 2025–2027",
+            "status": "Contract",
+            "date": "19 Dec 2025",
+            "iso": "2025-12-19",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "Foreign military SALE (FMS) requirements between the government and government of israel for the MANUFACTURING, ASSEMBLI",
+            "sub": "Department of the Army · US$95.2M · 2025–2026",
+            "status": "Contract",
+            "date": "18 Jul 2025",
+            "iso": "2025-07-18",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Delivery order for AMMUNITION.",
+            "sub": "Department of the Army · US$73.5M · 2024–2026",
+            "status": "Contract",
+            "date": "31 May 2024",
+            "iso": "2024-05-31",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "To purchase NGSW carbines",
+            "sub": "Department of the Army · US$59.5M · 2026–2027",
+            "status": "Contract",
+            "date": "29 Apr 2026",
+            "iso": "2026-04-29",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "Delivery order for XM1188 reduced range CARTON, XM1188 reduced range LINKED, XM1184 special purpose cartridge components",
+            "sub": "Department of the Army · US$57.2M · 2025–2027",
+            "status": "Contract",
+            "date": "17 Apr 2025",
+            "iso": "2025-04-17",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "To procure XM250 production order weapons and accessories and XM7 spares",
+            "sub": "Department of the Army · US$19.8M · 2025–2027",
+            "status": "Contract",
+            "date": "21 May 2025",
+            "iso": "2025-05-21",
+            "ongoing": true,
+            "src": 9
+          },
+          {
+            "title": "Delivery order for NEXT generation squad weapon ammunition components and TESTING.",
+            "sub": "Department of the Army · US$15.9M · 2024–2027",
+            "status": "Contract",
+            "date": "05 Aug 2024",
+            "iso": "2024-08-05",
+            "ongoing": true,
+            "src": 10
+          },
+          {
             "title": "US Department of Defense contracts",
             "sub": "Recipient profile on USAspending.gov",
             "status": "Contracts",
@@ -75271,8 +75909,48 @@
             "src": 2
           }
         ],
-        "network": [],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$1.1B · 8 contracts",
+            "status": "verified",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$1.5M",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$1.4M",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "U.S. Special Operations Command",
+            "sub": "Customer · US$249K",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
         "products": [],
+        "news": [],
         "sources": [
           {
             "title": "GLEIF · LEI 549300M5DQXUVW4X1L11",
@@ -75281,10 +75959,42 @@
           {
             "title": "USAspending.gov recipient profile",
             "url": "https://www.usaspending.gov/recipient/0171220c-321a-4609-5065-af7e04637e51-C/latest"
+          },
+          {
+            "title": "USAspending.gov · W15QKN26F0164",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN26F0164_9700_W15QKN22D0008_9700"
+          },
+          {
+            "title": "USAspending.gov · W15QKN26F0052",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN26F0052_9700_W15QKN22D0008_9700"
+          },
+          {
+            "title": "USAspending.gov · W15QKN25C0021",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN25C0021_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W15QKN24F0296",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN24F0296_9700_W15QKN22D0008_9700"
+          },
+          {
+            "title": "USAspending.gov · W15QKN26F0146",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN26F0146_9700_W15QKN22D0008_9700"
+          },
+          {
+            "title": "USAspending.gov · W15QKN25F0194",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN25F0194_9700_W15QKN22D0008_9700"
+          },
+          {
+            "title": "USAspending.gov · W15QKN25F0229",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN25F0229_9700_W15QKN22D0008_9700"
+          },
+          {
+            "title": "USAspending.gov · W15QKN24F0422",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN24F0422_9700_W15QKN22D0008_9700"
           }
         ]
       },
-      "card_hash": "82a7c7e163e25a76"
+      "card_hash": "76bf665ab385399b"
     },
     "urc-systems-spol-s-r-o": {
       "developments": [],
@@ -78414,8 +79124,8 @@
         ]
       ],
       "about": {
-        "workspace": "Global Military Products, Inc. is a US company registered in 2009, with its seat in Wilmington. US federal spending records list it as a recipient of contracts from the US Department of Defense.",
-        "overview": "Global Military Products, Inc. is a US company registered in 2009, with its seat in Wilmington. US federal spending records list it as a recipient of contracts from the US Department of Defense."
+        "workspace": "Global Military Products, Inc. is a US company registered in 2009, with its seat in Wilmington. US federal spending records show US$255K obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 13 contracts; the largest customer is the U.S. Special Operations Command.",
+        "overview": "Global Military Products, Inc. is a US company registered in 2009, with its seat in Wilmington. US federal spending records show US$255K obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 13 contracts; the largest customer is the U.S. Special Operations Command."
       },
       "facts": {
         "workspace": [
@@ -78516,6 +79226,14 @@
           "href": "https://api.gleif.org/api/v1/lei-records/254900F1IGZUPUXNX726"
         },
         {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/8df2d6bc-e363-72b0-b415-bb999441a393-C/latest"
+        },
+        {
           "claim": "Recipient of US Department of Defense contracts",
           "sources": 1,
           "date": "",
@@ -78540,11 +79258,26 @@
       ],
       "page": {
         "v": 2,
-        "lead": "Global Military Products, Inc. is a US company registered in 2009, with its seat in Wilmington. US federal spending records list it as a recipient of contracts from the US Department of Defense.",
+        "lead": "Global Military Products, Inc. is a US company registered in 2009, with its seat in Wilmington. US federal spending records show US$255K obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 13 contracts; the largest customer is the U.S. Special Operations Command.",
         "lead_src": [
           1
         ],
-        "figures": [],
+        "figures": [
+          {
+            "value": "US$255K",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all U.S. Special Operations Command",
+            "src": [
+              2
+            ]
+          },
+          {
+            "value": "13",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              2
+            ]
+          }
+        ],
         "facts": [
           [
             "2009",
@@ -78564,6 +79297,78 @@
         ],
         "activity": [
           {
+            "title": "Special ammunition and weapons systems FMS requirement",
+            "sub": "Department of the Army · US$638.3M · 2025–2027",
+            "status": "Contract",
+            "date": "23 Sep 2025",
+            "iso": "2025-09-23",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "Purchase of ammunition",
+            "sub": "Department of the Army · US$306.8M · 2023–2026",
+            "status": "Contract",
+            "date": "17 Apr 2023",
+            "iso": "2023-04-17",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "Special ammunition and weapons systems requirements",
+            "sub": "Defense Contract Management Agency · US$273.3M · 2024",
+            "status": "Contract",
+            "date": "03 Jan 2024",
+            "iso": "2024-01-03",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Delivery order for 159,094 60MM FULL range practice cartridge (FRPC) shell bodies and first article TEST.",
+            "sub": "Department of the Army · US$10.5M · 2026–2029",
+            "status": "Contract",
+            "date": "13 Apr 2026",
+            "iso": "2026-04-13",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "Delivery order for 78,886 60MM FPRC shell bodies and 42,885 60MM HE HF-1 shell bodies and AFAT clins for 60MM HE HF-1 (M",
+            "sub": "Department of the Army · US$9.0M · 2025–2027",
+            "status": "Contract",
+            "date": "27 Aug 2025",
+            "iso": "2025-08-27",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "Delivery order #2 60/81MM mortar shell bodies",
+            "sub": "Department of the Army · US$5.2M · 2024–2026",
+            "status": "Contract",
+            "date": "24 Sep 2024",
+            "iso": "2024-09-24",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "Special ammunition and weapons systems requirements",
+            "sub": "Department of the Army · US$3.9M · 2024–2025",
+            "status": "Contract",
+            "date": "27 Sep 2024",
+            "iso": "2024-09-27",
+            "ongoing": false,
+            "src": 9
+          },
+          {
+            "title": "Special ammunition and weapons systems requirements",
+            "sub": "Department of the Army · US$3.4M · 2025–2026",
+            "status": "Contract",
+            "date": "29 Sep 2025",
+            "iso": "2025-09-29",
+            "ongoing": false,
+            "src": 10
+          },
+          {
             "title": "US Department of Defense contracts",
             "sub": "Recipient profile on USAspending.gov",
             "status": "Contracts",
@@ -78573,8 +79378,39 @@
             "src": 2
           }
         ],
-        "network": [],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$977.2M · 7 contracts",
+            "status": "verified",
+            "src": [
+              3,
+              4,
+              6
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Contract Management Agency",
+            "sub": "Customer · US$273.3M · 1 contract",
+            "status": "verified",
+            "src": [
+              5
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "U.S. Special Operations Command",
+            "sub": "Customer · US$255K",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
         "products": [],
+        "news": [],
         "sources": [
           {
             "title": "GLEIF · LEI 254900F1IGZUPUXNX726",
@@ -78583,10 +79419,42 @@
           {
             "title": "USAspending.gov recipient profile",
             "url": "https://www.usaspending.gov/recipient/8df2d6bc-e363-72b0-b415-bb999441a393-C/latest"
+          },
+          {
+            "title": "USAspending.gov · W519TC25F0388",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC25F0388_9700_W52P1J22D0007_9700"
+          },
+          {
+            "title": "USAspending.gov · W519TC23F0196",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC23F0196_9700_W52P1J22D0007_9700"
+          },
+          {
+            "title": "USAspending.gov · W519TC24F0005",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC24F0005_9700_W52P1J22D0007_9700"
+          },
+          {
+            "title": "USAspending.gov · W15QKN26F0155",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN26F0155_9700_W15QKN24D0031_9700"
+          },
+          {
+            "title": "USAspending.gov · W15QKN25F0363",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN25F0363_9700_W15QKN24D0031_9700"
+          },
+          {
+            "title": "USAspending.gov · W15QKN24F0550",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN24F0550_9700_W15QKN24D0031_9700"
+          },
+          {
+            "title": "USAspending.gov · W519TC24F0476",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC24F0476_9700_W52P1J22D0007_9700"
+          },
+          {
+            "title": "USAspending.gov · W519TC25F0407",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC25F0407_9700_W52P1J22D0007_9700"
           }
         ]
       },
-      "card_hash": "e3ea451e2d3d1901"
+      "card_hash": "1f8ca5c9521028c6"
     },
     "u-s-ordnance": {
       "developments": [],
@@ -78602,8 +79470,8 @@
         ]
       ],
       "about": {
-        "workspace": "U.S. ORDNANCE is a US company registered in 1997, with its seat in Mccarran. US federal spending records list it as a recipient of contracts from the US Department of Defense.",
-        "overview": "U.S. ORDNANCE is a US company registered in 1997, with its seat in Mccarran. US federal spending records list it as a recipient of contracts from the US Department of Defense."
+        "workspace": "U.S. ORDNANCE is a US company registered in 1997, with its seat in Mccarran. US federal spending records show US$18.1M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 8 contracts; the largest customer is the Department of the Army.",
+        "overview": "U.S. ORDNANCE is a US company registered in 1997, with its seat in Mccarran. US federal spending records show US$18.1M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 8 contracts; the largest customer is the Department of the Army."
       },
       "facts": {
         "workspace": [
@@ -78704,6 +79572,14 @@
           "href": "https://api.gleif.org/api/v1/lei-records/549300NHNBDE0P2QVC41"
         },
         {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/4981a525-8bf4-deb3-39fb-d794076e75c8-C/latest"
+        },
+        {
           "claim": "Recipient of US Department of Defense contracts",
           "sources": 1,
           "date": "",
@@ -78728,11 +79604,26 @@
       ],
       "page": {
         "v": 2,
-        "lead": "U.S. ORDNANCE is a US company registered in 1997, with its seat in Mccarran. US federal spending records list it as a recipient of contracts from the US Department of Defense.",
+        "lead": "U.S. ORDNANCE is a US company registered in 1997, with its seat in Mccarran. US federal spending records show US$18.1M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 8 contracts; the largest customer is the Department of the Army.",
         "lead_src": [
           1
         ],
-        "figures": [],
+        "figures": [
+          {
+            "value": "US$18.1M",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all Department of the Army",
+            "src": [
+              2
+            ]
+          },
+          {
+            "value": "8",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              2
+            ]
+          }
+        ],
         "facts": [
           [
             "1997",
@@ -78752,6 +79643,78 @@
         ],
         "activity": [
           {
+            "title": "The purpose of this delivery order is to purchase MK19 grenade machine GUNS, spare PARTS, barrel ASSEMBLIES, and provide",
+            "sub": "Department of the Army · US$14.1M · 2026–2027",
+            "status": "Contract",
+            "date": "26 Mar 2026",
+            "iso": "2026-03-26",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "UKRAINE: the purpose of this delivery order is to procure MOD3 MK19 grenade machine GUNS, spare PARTS, and barrel ASSEMB",
+            "sub": "Department of the Army · US$10.5M · 2025–2026",
+            "status": "Contract",
+            "date": "17 Jun 2025",
+            "iso": "2025-06-17",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "UKRAINE: the purpose of this delivery order is to procure MOD3 MK19 grenade machine GUNS, spare PARTS, and barrel ASSEMB",
+            "sub": "Department of the Army · US$10.2M · 2025",
+            "status": "Contract",
+            "date": "27 Feb 2025",
+            "iso": "2025-02-27",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Delivery order for M2/M2A1 machine GUN requirements",
+            "sub": "Department of the Army · US$8.1M · 2025–2027",
+            "status": "Contract",
+            "date": "11 Sep 2025",
+            "iso": "2025-09-11",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "Delivery order",
+            "sub": "Department of the Army · US$2.0M · 2026",
+            "status": "Contract",
+            "date": "31 Mar 2026",
+            "iso": "2026-03-31",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Purchase of outside continental united states (OCONUS) training for the M2A1, CPMG, and MK19.",
+            "sub": "Department of the Army · US$142K · 2024–2026",
+            "status": "Contract",
+            "date": "31 Jul 2024",
+            "iso": "2024-07-31",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "Procurement of M2, M240B and M2A1 training from U.S. ORDNANCE. total price $59,200.00",
+            "sub": "Department of the Army · US$40K · 2018–2019",
+            "status": "Contract",
+            "date": "07 Dec 2018",
+            "iso": "2018-12-07",
+            "ongoing": false,
+            "src": 9
+          },
+          {
+            "title": "Contract SPE7L126V9180",
+            "sub": "Defense Logistics Agency · US$1K · 2026",
+            "status": "Contract",
+            "date": "06 May 2026",
+            "iso": "2026-05-06",
+            "ongoing": false,
+            "src": 10
+          },
+          {
             "title": "US Department of Defense contracts",
             "sub": "Recipient profile on USAspending.gov",
             "status": "Contracts",
@@ -78761,8 +79724,31 @@
             "src": 2
           }
         ],
-        "network": [],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$63.2M · 7 contracts",
+            "status": "verified",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$2K · 1 contract",
+            "status": "verified",
+            "src": [
+              2,
+              10
+            ]
+          }
+        ],
         "products": [],
+        "news": [],
         "sources": [
           {
             "title": "GLEIF · LEI 549300NHNBDE0P2QVC41",
@@ -78771,10 +79757,42 @@
           {
             "title": "USAspending.gov recipient profile",
             "url": "https://www.usaspending.gov/recipient/4981a525-8bf4-deb3-39fb-d794076e75c8-C/latest"
+          },
+          {
+            "title": "USAspending.gov · W15QKN26F0123",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN26F0123_9700_W15QKN22D0013_9700"
+          },
+          {
+            "title": "USAspending.gov · W15QKN25F0227",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN25F0227_9700_W15QKN22D0013_9700"
+          },
+          {
+            "title": "USAspending.gov · W15QKN25F0122",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN25F0122_9700_W15QKN22D0013_9700"
+          },
+          {
+            "title": "USAspending.gov · W15QKN25F0411",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN25F0411_9700_W15QKN24D0047_9700"
+          },
+          {
+            "title": "USAspending.gov · W15QKN26F0152",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN26F0152_9700_W15QKN22D0013_9700"
+          },
+          {
+            "title": "USAspending.gov · W15QKN24C0053",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN24C0053_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W56HZV19P0023",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV19P0023_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7L126V9180",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7L126V9180_9700_-NONE-_-NONE-"
           }
         ]
       },
-      "card_hash": "1cf5facc1a53cc65"
+      "card_hash": "938b04d0b8647276"
     },
     "def-spec-sp-z-o-o": {
       "developments": [
