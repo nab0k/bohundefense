@@ -84386,8 +84386,8 @@
         ]
       ],
       "about": {
-        "workspace": "Lockheed Martin Canada is a Canadian company, with its seat in Kanata. Canada’s open contract records list 8 federal contracts with it (2006–2024), 8 of them with defence buyers.",
-        "overview": "Lockheed Martin Canada is a Canadian company, with its seat in Kanata. Canada’s open contract records list 8 federal contracts with it (2006–2024), 8 of them with defence buyers."
+        "workspace": "Lockheed Martin Canada is a Canadian company, with its seat in Kanata. Canada’s open contract records list 8 federal contracts with it (2006–2024), 1 of them defence contracts (a defence buyer, defence goods or R&D).",
+        "overview": "Lockheed Martin Canada is a Canadian company, with its seat in Kanata. Canada’s open contract records list 8 federal contracts with it (2006–2024), 1 of them defence contracts (a defence buyer, defence goods or R&D)."
       },
       "facts": {
         "workspace": [
@@ -84466,14 +84466,14 @@
       ],
       "page": {
         "v": 2,
-        "lead": "Lockheed Martin Canada is a Canadian company, with its seat in Kanata. Canada’s open contract records list 8 federal contracts with it (2006–2024), 8 of them with defence buyers.",
+        "lead": "Lockheed Martin Canada is a Canadian company, with its seat in Kanata. Canada’s open contract records list 8 federal contracts with it (2006–2024), 1 of them defence contracts (a defence buyer, defence goods or R&D).",
         "lead_src": [
           1
         ],
         "figures": [
           {
             "value": "8",
-            "label": "contracts on record (8 with defence buyers)",
+            "label": "contracts on record (1 defence contracts)",
             "src": [
               2,
               3,
@@ -84632,7 +84632,7 @@
           }
         ]
       },
-      "card_hash": "466473f0de0ed792"
+      "card_hash": "b3e7fe4821a4060b"
     },
     "arx-robotics-gmbh": {
       "developments": [
@@ -85424,8 +85424,8 @@
         ]
       ],
       "about": {
-        "workspace": "L3HARRIS TECHNOLOGIES, INC. is a US company, with its seat in Colorado Springs. US federal spending records show US$979.4M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 807 contracts; the largest customer is the Department of the Navy.",
-        "overview": "L3HARRIS TECHNOLOGIES, INC. is a US company, with its seat in Colorado Springs. US federal spending records show US$979.4M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 807 contracts; the largest customer is the Department of the Navy."
+        "workspace": "L3HARRIS TECHNOLOGIES, INC. is a US company, with its seat in Colorado Springs. US federal spending records show US$561.5M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 578 contracts; the largest customer is the Department of the Navy.",
+        "overview": "L3HARRIS TECHNOLOGIES, INC. is a US company, with its seat in Colorado Springs. US federal spending records show US$561.5M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 578 contracts; the largest customer is the Department of the Navy."
       },
       "facts": {
         "workspace": [
@@ -85485,7 +85485,7 @@
           "date": "25 Nov 2026",
           "status": "Verified",
           "source": "USAspending.gov",
-          "href": "https://www.usaspending.gov/recipient/43e64fda-dda9-b9c9-d190-9f4a13183e8b-C/latest"
+          "href": "https://www.usaspending.gov/recipient/8beded26-8074-58f5-93e9-67ed780b7ac4-C/latest"
         },
         {
           "claim": "Technologies, financials and relationships beyond these records",
@@ -85504,27 +85504,27 @@
       ],
       "page": {
         "v": 2,
-        "lead": "L3HARRIS TECHNOLOGIES, INC. is a US company, with its seat in Colorado Springs. US federal spending records show US$979.4M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 807 contracts; the largest customer is the Department of the Navy.",
+        "lead": "L3HARRIS TECHNOLOGIES, INC. is a US company, with its seat in Colorado Springs. US federal spending records show US$561.5M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 578 contracts; the largest customer is the Department of the Navy.",
         "lead_src": [
           1
         ],
         "figures": [
           {
-            "value": "US$979.4M",
-            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "value": "US$561.5M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026",
             "src": [
               10
             ]
           },
           {
-            "value": "807",
+            "value": "578",
             "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
             "src": [
               10
             ]
           },
           {
-            "value": "US$368.8M",
+            "value": "US$350.3M",
             "label": "largest customer: Department of the Navy",
             "src": [
               10
@@ -85545,49 +85545,13 @@
         ],
         "activity": [
           {
-            "title": "Combat mission systems support",
-            "sub": "Department of the Air Force · US$677.3M · 2019–2027",
-            "status": "Contract",
-            "date": "24 Jan 2019",
-            "iso": "2019-01-24",
-            "ongoing": true,
-            "src": 2
-          },
-          {
             "title": "AN/ALQ-214 A(V)4 system",
             "sub": "Defense Contract Management Agency · US$542.2M · 2017–2026",
             "status": "Contract",
             "date": "27 Sep 2017",
             "iso": "2017-09-27",
             "ongoing": false,
-            "src": 3
-          },
-          {
-            "title": "Manpack FULL RATE production (FRP) 3 competitive procurement award of radio TRANSMITTERS, WARRANTIES, related ancillary ",
-            "sub": "Department of the Army · US$265.5M · 2023–2024",
-            "status": "Contract",
-            "date": "23 May 2023",
-            "iso": "2023-05-23",
-            "ongoing": false,
-            "src": 4
-          },
-          {
-            "title": "MET sustainment support UCA",
-            "sub": "Department of the Army · US$262.1M · 2020–2028",
-            "status": "Contract",
-            "date": "21 Apr 2020",
-            "iso": "2020-04-21",
-            "ongoing": true,
-            "src": 5
-          },
-          {
-            "title": "Manpack FULL RATE production (FRP)4 competitive procurement award of radio TRANSMITTERS, WARRANTIES, related ancillary E",
-            "sub": "Department of the Army · US$253.6M · 2024–2028",
-            "status": "Contract",
-            "date": "11 Sep 2024",
-            "iso": "2024-09-11",
-            "ongoing": true,
-            "src": 6
+            "src": 2
           },
           {
             "title": "SDA tracking layer tranche 0, WIDE field of VIEW (WFOV) program",
@@ -85596,23 +85560,59 @@
             "date": "02 Oct 2020",
             "iso": "2020-10-02",
             "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "This leader radio FULL RATE production order authorizes the purchase of radio and communications EQUIPMENT.",
+            "sub": "Department of the Army · US$166.3M · 2024–2026",
+            "status": "Contract",
+            "date": "18 Sep 2024",
+            "iso": "2024-09-18",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "ULV shipboard SCPC/DYNAMIC modem system",
+            "sub": "Defense Contract Management Agency · US$126.7M · 2014–2017",
+            "status": "Contract",
+            "date": "26 Feb 2014",
+            "iso": "2014-02-26",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Nulka Y payloads production",
+            "sub": "Department of the Navy · US$120.3M · 2021–2027",
+            "status": "Contract",
+            "date": "30 Sep 2021",
+            "iso": "2021-09-30",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "The purpose of this delivery order is to issue the second delivery order quantity for radio transmitter (R/T) against co",
+            "sub": "Department of the Army · US$115.8M · 2024–2026",
+            "status": "Contract",
+            "date": "15 May 2024",
+            "iso": "2024-05-15",
+            "ongoing": false,
             "src": 7
           },
           {
-            "title": "Counter communications systems meadowland production",
-            "sub": "Department of the Air Force · US$206.1M · 2021–2028",
+            "title": "Advanced integrated defensive electronic warfare systems (AIDEWS) (V)4 SHIP SETS, spares and related services in support",
+            "sub": "Department of the Air Force · US$111.4M · 2018–2026",
             "status": "Contract",
-            "date": "22 Oct 2021",
-            "iso": "2021-10-22",
-            "ongoing": true,
+            "date": "25 Oct 2018",
+            "iso": "2018-10-25",
+            "ongoing": false,
             "src": 8
           },
           {
-            "title": "This performance WORK statement (PWS) for wideband satellite communications (SATCOM) operations and technical support II",
-            "sub": "Department of the Air Force · US$185.7M · 2018–2027",
+            "title": "Contract M6785423F2096",
+            "sub": "Department of the Navy · US$109.1M · 2023–2027",
             "status": "Contract",
-            "date": "01 Dec 2018",
-            "iso": "2018-12-01",
+            "date": "09 Mar 2023",
+            "iso": "2023-03-09",
             "ongoing": true,
             "src": 9
           }
@@ -85620,50 +85620,53 @@
         "network": [
           {
             "type": "customer",
-            "name": "Department of the Air Force",
-            "sub": "Customer · US$1.5B · 4 contracts",
+            "name": "Defense Contract Management Agency",
+            "sub": "Customer · US$668.9M · 2 contracts",
             "status": "verified",
             "src": [
               2,
-              7,
-              8
+              5
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$579.7M · 2 contracts",
+            "status": "verified",
+            "src": [
+              6,
+              9,
+              10
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$364.3M · 2 contracts",
+            "status": "verified",
+            "src": [
+              3,
+              8,
+              10
             ]
           },
           {
             "type": "customer",
             "name": "Department of the Army",
-            "sub": "Customer · US$965.4M · 3 contracts",
+            "sub": "Customer · US$300.2M · 2 contracts",
             "status": "verified",
             "src": [
               4,
-              5,
-              6,
+              7,
+              10,
               12
             ],
             "quote": "L3Harris Technologies has received a $36 million order in support of the U.S. Army for the Hawkeye™ 4 Lite satellite communications terminal."
           },
           {
             "type": "customer",
-            "name": "Defense Contract Management Agency",
-            "sub": "Customer · US$542.2M · 1 contract",
-            "status": "verified",
-            "src": [
-              3
-            ]
-          },
-          {
-            "type": "customer",
-            "name": "Department of the Navy",
-            "sub": "Customer · US$368.8M",
-            "status": "verified",
-            "src": [
-              10
-            ]
-          },
-          {
-            "type": "customer",
             "name": "U.S. Special Operations Command",
-            "sub": "Customer · US$228.5M",
+            "sub": "Customer · US$150.5M",
             "status": "verified",
             "src": [
               10
@@ -85672,7 +85675,7 @@
           {
             "type": "customer",
             "name": "Defense Logistics Agency",
-            "sub": "Customer · US$12.7M",
+            "sub": "Customer · US$10.8M",
             "status": "verified",
             "src": [
               10
@@ -85707,40 +85710,40 @@
             "url": "https://search.gleif.org/#/record/549300UTE50ZMDBG8A20"
           },
           {
-            "title": "USAspending.gov · FA881919C0002",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_FA881919C0002_9700_-NONE-_-NONE-"
-          },
-          {
             "title": "USAspending.gov · N0001917C0090",
             "url": "https://www.usaspending.gov/award/CONT_AWD_N0001917C0090_9700_-NONE-_-NONE-"
-          },
-          {
-            "title": "USAspending.gov · W15P7T23F0040",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T23F0040_9700_W15P7T16D0002_9700"
-          },
-          {
-            "title": "USAspending.gov · W52P1J20C0014",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_W52P1J20C0014_9700_-NONE-_-NONE-"
-          },
-          {
-            "title": "USAspending.gov · W15P7T24F0061",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T24F0061_9700_W15P7T16D0002_9700"
           },
           {
             "title": "USAspending.gov · HQ085021C0002",
             "url": "https://www.usaspending.gov/award/CONT_AWD_HQ085021C0002_9700_-NONE-_-NONE-"
           },
           {
-            "title": "USAspending.gov · FA881922C0001",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_FA881922C0001_9700_-NONE-_-NONE-"
+            "title": "USAspending.gov · W15P7T24F0051",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T24F0051_9700_W15P7T15D0016_9700"
           },
           {
-            "title": "USAspending.gov · W9126019C0001",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_W9126019C0001_9700_-NONE-_-NONE-"
+            "title": "USAspending.gov · N0003914C0041",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0003914C0041_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0002421C5525",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0002421C5525_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W15P7T24F0046",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T24F0046_9700_W15P7T22D0001_9700"
+          },
+          {
+            "title": "USAspending.gov · FA852319F0001",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA852319F0001_9700_FA854017D0002_9700"
+          },
+          {
+            "title": "USAspending.gov · M6785423F2096",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_M6785423F2096_9700_M6785422D2090_9700"
           },
           {
             "title": "USAspending.gov · US Department of Defense · FY2026–27, to 25 Nov 2026",
-            "url": "https://www.usaspending.gov/recipient/43e64fda-dda9-b9c9-d190-9f4a13183e8b-C/latest"
+            "url": "https://www.usaspending.gov/recipient/8beded26-8074-58f5-93e9-67ed780b7ac4-C/latest"
           },
           {
             "title": "USAspending.gov · sub-award",
@@ -85756,7 +85759,7 @@
           }
         ]
       },
-      "card_hash": "df9cf1c6fd957d48"
+      "card_hash": "ada49c6dc72ea4b0"
     },
     "ait-austrian-institute-of-technology-gmbh": {
       "developments": [
@@ -86455,8 +86458,8 @@
         ]
       ],
       "about": {
-        "workspace": "BOMBARDIER is a Canadian company, with its seat in Dorval. Canada’s open contract records list 44 federal contracts with it (2004–2015), 43 of them with defence buyers.",
-        "overview": "BOMBARDIER is a Canadian company, with its seat in Dorval. Canada’s open contract records list 44 federal contracts with it (2004–2015), 43 of them with defence buyers."
+        "workspace": "BOMBARDIER is a Canadian company, with its seat in Dorval. Canada’s open contract records list 44 federal contracts with it (2004–2015), 1 of them defence contracts (a defence buyer, defence goods or R&D).",
+        "overview": "BOMBARDIER is a Canadian company, with its seat in Dorval. Canada’s open contract records list 44 federal contracts with it (2004–2015), 1 of them defence contracts (a defence buyer, defence goods or R&D)."
       },
       "facts": {
         "workspace": [
@@ -86535,14 +86538,14 @@
       ],
       "page": {
         "v": 2,
-        "lead": "BOMBARDIER is a Canadian company, with its seat in Dorval. Canada’s open contract records list 44 federal contracts with it (2004–2015), 43 of them with defence buyers.",
+        "lead": "BOMBARDIER is a Canadian company, with its seat in Dorval. Canada’s open contract records list 44 federal contracts with it (2004–2015), 1 of them defence contracts (a defence buyer, defence goods or R&D).",
         "lead_src": [
           1
         ],
         "figures": [
           {
             "value": "44",
-            "label": "contracts on record (43 with defence buyers)",
+            "label": "contracts on record (1 defence contracts)",
             "src": [
               2,
               3,
@@ -86710,7 +86713,7 @@
           }
         ]
       },
-      "card_hash": "e1a2864da626db25"
+      "card_hash": "a79cb09bf80e71d8"
     },
     "cae-inc": {
       "developments": [],
@@ -86726,8 +86729,8 @@
         ]
       ],
       "about": {
-        "workspace": "CAE INC. is a Canadian company registered in 2014, with its seat in Montreal. Canada’s open contract records list 256 federal contracts with it (2004–2026), 158 of them with defence buyers.",
-        "overview": "CAE INC. is a Canadian company registered in 2014, with its seat in Montreal. Canada’s open contract records list 256 federal contracts with it (2004–2026), 158 of them with defence buyers."
+        "workspace": "CAE INC. is a Canadian company registered in 2014, with its seat in Montreal. Canada’s open contract records list 256 federal contracts with it (2004–2026), 42 of them defence contracts (a defence buyer, defence goods or R&D).",
+        "overview": "CAE INC. is a Canadian company registered in 2014, with its seat in Montreal. Canada’s open contract records list 256 federal contracts with it (2004–2026), 42 of them defence contracts (a defence buyer, defence goods or R&D)."
       },
       "facts": {
         "workspace": [
@@ -86835,14 +86838,14 @@
       ],
       "page": {
         "v": 2,
-        "lead": "CAE INC. is a Canadian company registered in 2014, with its seat in Montreal. Canada’s open contract records list 256 federal contracts with it (2004–2026), 158 of them with defence buyers.",
+        "lead": "CAE INC. is a Canadian company registered in 2014, with its seat in Montreal. Canada’s open contract records list 256 federal contracts with it (2004–2026), 42 of them defence contracts (a defence buyer, defence goods or R&D).",
         "lead_src": [
           1
         ],
         "figures": [
           {
             "value": "256",
-            "label": "contracts on record (158 with defence buyers)",
+            "label": "contracts on record (42 defence contracts)",
             "src": [
               2,
               3,
@@ -87068,7 +87071,7 @@
           }
         ]
       },
-      "card_hash": "8caddddef2a588a2"
+      "card_hash": "870f750a7360c072"
     },
     "ohb-system-ag": {
       "developments": [
@@ -113554,6 +113557,1133 @@
         ]
       },
       "card_hash": "5e6b66ce24c734f2"
+    },
+    "steyr-motors-ag": {
+      "developments": [],
+      "country": "AT",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Steyr Motors AG is a Austrian company registered in 2022, with its seat in Steyr-Gleink.",
+        "overview": "Steyr Motors AG is a Austrian company registered in 2022, with its seat in Steyr-Gleink."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2022",
+            "Registered"
+          ],
+          [
+            "Steyr-Gleink, Austria",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900I7M6Z1HG0L8440",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2022",
+            "Registered"
+          ],
+          [
+            "Steyr-Gleink, Austria",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900I7M6Z1HG0L8440",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Steyr Motors AG, LEI 529900I7M6Z1HG0L8440",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900I7M6Z1HG0L8440"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Steyr-Gleink",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Steyr Motors AG is a Austrian company registered in 2022, with its seat in Steyr-Gleink.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2022",
+            "Registered",
+            null
+          ],
+          [
+            "Steyr-Gleink, Austria",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900I7M6Z1HG0L8440",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900I7M6Z1HG0L8440",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900I7M6Z1HG0L8440"
+          }
+        ]
+      },
+      "card_hash": "6e68120467bd7650"
+    },
+    "asis-gmbh-automation-systems-intelligent-solutions": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "ASIS GmbH Automation Systems & Intelligent Solutions is a German company registered in 1998, with its seat in Landshut.",
+        "overview": "ASIS GmbH Automation Systems & Intelligent Solutions is a German company registered in 1998, with its seat in Landshut."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1998",
+            "Registered"
+          ],
+          [
+            "Landshut, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900W3JF2CC1TO7K86",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1998",
+            "Registered"
+          ],
+          [
+            "Landshut, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900W3JF2CC1TO7K86",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Painting Systems",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Powder Coating Systems",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Enameling Systems",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Isybot Grinding Cobot",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "FPX Measuring Table",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Surface-Detect Color Measurement Cells",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Manufacturing Automation",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Painting Systems",
+              "ASIS develops and implements automated wet painting systems as turnkey solutions—from pretreatment through paint application to drying and q",
+              "grey"
+            ],
+            [
+              "Powder Coating Systems",
+              "ASIS develops and implements automated powder coating systems as fully integrated turnkey solutions—from pretreatment and powder application",
+              "grey"
+            ],
+            [
+              "Enameling Systems",
+              "ASIS develops and implements automated enameling systems as turnkey solutions—from pretreatment and enamel application to firing and quality",
+              "grey"
+            ],
+            [
+              "Isybot Grinding Cobot",
+              "Isybot Grinding Cobot Plug-and-Work solution for automated grinding and polishing tasks.",
+              "grey"
+            ],
+            [
+              "FPX Measuring Table",
+              "FPX Measuring Table Automated and reproducible measurement of test panels, reference parts, and surface samples in a laboratory setting.",
+              "grey"
+            ],
+            [
+              "Surface-Detect Color Measurement Cells",
+              "Surface-Detect Color Measurement Cells Automated inspection of color, texture, and other surface characteristics directly on the production ",
+              "grey"
+            ],
+            [
+              "Manufacturing Automation",
+              "Manufacturing Automation Custom robotics and automation solutions for handling, assembly, machining, and other demanding production tasks.",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ASIS GmbH Automation Systems & Intelligent Solutions, LEI 529900W3JF2CC1TO7K86",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900W3JF2CC1TO7K86"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Landshut",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ASIS GmbH Automation Systems & Intelligent Solutions is a German company registered in 1998, with its seat in Landshut.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1998",
+            "Registered",
+            null
+          ],
+          [
+            "Landshut, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900W3JF2CC1TO7K86",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900W3JF2CC1TO7K86",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900W3JF2CC1TO7K86"
+          }
+        ]
+      },
+      "card_hash": "5aabe9760063da22"
+    },
+    "albatross-projects-gmbh": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Albatross Projects GmbH is a German company registered in 1992, with its seat in Nattheim.",
+        "overview": "Albatross Projects GmbH is a German company registered in 1992, with its seat in Nattheim."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1992",
+            "Registered"
+          ],
+          [
+            "Nattheim, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900NU7GHVL4GAKE29",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1992",
+            "Registered"
+          ],
+          [
+            "Nattheim, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900NU7GHVL4GAKE29",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Absorber",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Absorber",
+              "Hochleistungs-Absorber von",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Albatross Projects GmbH, LEI 529900NU7GHVL4GAKE29",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900NU7GHVL4GAKE29"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Nattheim",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Albatross Projects GmbH is a German company registered in 1992, with its seat in Nattheim.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1992",
+            "Registered",
+            null
+          ],
+          [
+            "Nattheim, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900NU7GHVL4GAKE29",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900NU7GHVL4GAKE29",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900NU7GHVL4GAKE29"
+          }
+        ]
+      },
+      "card_hash": "4d1faa2a5ba3170c"
+    },
+    "bertrandt-ag": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Bertrandt Aktiengesellschaft is a German company registered in 1996, with its seat in Ehningen.",
+        "overview": "Bertrandt Aktiengesellschaft is a German company registered in 1996, with its seat in Ehningen."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1996",
+            "Registered"
+          ],
+          [
+            "Ehningen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900DRBK1K538NYX30",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1996",
+            "Registered"
+          ],
+          [
+            "Ehningen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900DRBK1K538NYX30",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "BumbleB",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "violis – die Virtual Testing Platform",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Bernd",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Light-MES",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "evoVIU Smart Camera",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "evoTrQ",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Digital Twin Solution",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "M³® Gewichtsmanagement",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Ball Impact Device",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "BumbleB",
+              "BumbleB Das autonome Shuttle-Projekt für ländliche Regionen.",
+              "grey"
+            ],
+            [
+              "violis – die Virtual Testing Platform",
+              "violis – die Virtual Testing Platform violis ist die technische Plattform, die den kompletten Testprozess virtualisiert.",
+              "grey"
+            ],
+            [
+              "Bernd",
+              "Bernd Der KI-Assistent für Ihre Engineering und Produktentwicklung.",
+              "grey"
+            ],
+            [
+              "Light-MES",
+              "Light-MES Unser flexibles, leichtgewichtiges Manufacturing Execution System schafft Transparenz und Kontrolle in Ihrer Fertigung.",
+              "grey"
+            ],
+            [
+              "evoVIU Smart Camera",
+              "evoVIU Smart Camera & IoT-Edge Camera: Bildverarbeitung für Jeden – Einfach. Schnell. Überall.",
+              "grey"
+            ],
+            [
+              "evoTrQ",
+              "evoTrQ Bauteilnachverfolgung: evoTrQ erweitert die Möglichkeiten in Ihrem Presswerk",
+              "grey"
+            ],
+            [
+              "Digital Twin Solution",
+              "Digital Twin Solution Unser digitaler Zwilling auf Ihre Bedürfnisse zugeschnitten.",
+              "grey"
+            ],
+            [
+              "M³® Gewichtsmanagement",
+              "M³® Gewichtsmanagement Ihre individuelle branchenspezifische Lösung zum Thema Leichtbau",
+              "grey"
+            ],
+            [
+              "Ball Impact Device",
+              "Ball Impact Device Kalibriert. Prüfvorschriftskonform. Leichte, sichere Handhabung. Unsere mobile Kugelfall-Schussvorrichtung.",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Bertrandt Aktiengesellschaft, LEI 529900DRBK1K538NYX30",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900DRBK1K538NYX30"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Ehningen",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Bertrandt Aktiengesellschaft is a German company registered in 1996, with its seat in Ehningen.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1996",
+            "Registered",
+            null
+          ],
+          [
+            "Ehningen, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900DRBK1K538NYX30",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900DRBK1K538NYX30",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900DRBK1K538NYX30"
+          }
+        ]
+      },
+      "card_hash": "0c17f327ae376ab1"
+    },
+    "elbe-flugzeugwerke-gmbh": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Elbe Flugzeugwerke GmbH is a German company registered in 1990, with its seat in Dresden.",
+        "overview": "Elbe Flugzeugwerke GmbH is a German company registered in 1990, with its seat in Dresden."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1990",
+            "Registered"
+          ],
+          [
+            "Dresden, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900CMC1RFWNU19U93",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1990",
+            "Registered"
+          ],
+          [
+            "Dresden, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900CMC1RFWNU19U93",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Elbe Flugzeugwerke GmbH, LEI 529900CMC1RFWNU19U93",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900CMC1RFWNU19U93"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Dresden",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Elbe Flugzeugwerke GmbH is a German company registered in 1990, with its seat in Dresden.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1990",
+            "Registered",
+            null
+          ],
+          [
+            "Dresden, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900CMC1RFWNU19U93",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900CMC1RFWNU19U93",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900CMC1RFWNU19U93"
+          }
+        ]
+      },
+      "card_hash": "b3f978c42b56475b"
+    },
+    "ohb-se": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "OHB SE is a German company registered in 1993, with its seat in Bremen.",
+        "overview": "OHB SE is a German company registered in 1993, with its seat in Bremen."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1993",
+            "Registered"
+          ],
+          [
+            "Bremen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 391200Y9EA2FRAPKRQ70",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1993",
+            "Registered"
+          ],
+          [
+            "Bremen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 391200Y9EA2FRAPKRQ70",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "AIT-Facilities (Assembly, Integration & Testing)",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "AIT-Facilities (Assembly, Integration & Testing)",
+              "Modernste AIT-Facilities (Assembly, Integration & Testing) sichern dabei einen effizienten Prozess von der Konzeption bis zur Startbereitsch",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity OHB SE, LEI 391200Y9EA2FRAPKRQ70",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/391200Y9EA2FRAPKRQ70"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Bremen",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "OHB SE is a German company registered in 1993, with its seat in Bremen.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1993",
+            "Registered",
+            null
+          ],
+          [
+            "Bremen, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 391200Y9EA2FRAPKRQ70",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 391200Y9EA2FRAPKRQ70",
+            "url": "https://api.gleif.org/api/v1/lei-records/391200Y9EA2FRAPKRQ70"
+          }
+        ]
+      },
+      "card_hash": "df89507ba0812a86"
+    },
+    "arescosmo-s-p-a": {
+      "developments": [],
+      "country": "IT",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "ARESCOSMO S.P.A. is a Italian company registered in 1987, with its seat in Aprilia.",
+        "overview": "ARESCOSMO S.P.A. is a Italian company registered in 1987, with its seat in Aprilia."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1987",
+            "Registered"
+          ],
+          [
+            "Aprilia, Italy",
+            "Headquarters"
+          ],
+          [
+            "LEI 815600F32FBF06F1A396",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1987",
+            "Registered"
+          ],
+          [
+            "Aprilia, Italy",
+            "Headquarters"
+          ],
+          [
+            "LEI 815600F32FBF06F1A396",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ARESCOSMO S.P.A., LEI 815600F32FBF06F1A396",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/815600F32FBF06F1A396"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Aprilia",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ARESCOSMO S.P.A. is a Italian company registered in 1987, with its seat in Aprilia.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1987",
+            "Registered",
+            null
+          ],
+          [
+            "Aprilia, Italy",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 815600F32FBF06F1A396",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 815600F32FBF06F1A396",
+            "url": "https://api.gleif.org/api/v1/lei-records/815600F32FBF06F1A396"
+          }
+        ]
+      },
+      "card_hash": "7e18421c4fbb9118"
     }
   }
 }
