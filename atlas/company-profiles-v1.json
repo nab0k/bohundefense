@@ -65027,6 +65027,11 @@
           "level": "L0",
           "icon": "box",
           "selected": true
+        },
+        {
+          "label": "Ballistic protection",
+          "level": "L0",
+          "icon": "box"
         }
       ],
       "productAccordion": [
@@ -65038,7 +65043,12 @@
           "items": [
             [
               "Mast systems",
-              "Our adaptable mast systems provide rapidly deployable elevation solutions for sensors, antennas, radars, relays, surveillance, and mission-s",
+              "Our adaptable mast systems provide rapidly deployable elevation solutions for sensors, antennas, radars, relays, surveillance, and mission‑s",
+              "grey"
+            ],
+            [
+              "Ballistic protection",
+              "layered survivability (ballistic protection, EMP, and NBC measures) and optional camouflage support mission continuity.",
               "grey"
             ]
           ]
@@ -65072,7 +65082,43 @@
           "Ylikiiminki",
           "Registered office"
         ]
-      ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Conlog Oy is a Finnish company registered in 2006, with its seat in Ylikiiminki.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2006",
+            "Registered",
+            null
+          ],
+          [
+            "Ylikiiminki, Finland",
+            "Headquarters",
+            null
+          ],
+          [
+            "Y-tunnus 2029239-7",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · Y-tunnus 2029239-7",
+            "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=2029239-7"
+          }
+        ]
+      },
+      "card_hash": "3bd3080348c2e3ce"
     },
     "crown-defence-oy": {
       "developments": [],
@@ -118269,6 +118315,475 @@
         ]
       },
       "card_hash": "a09f3076ea263983"
+    },
+    "airbus-defence-and-space-gmbh": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "AIRBUS DEFENCE AND SPACE GMBH is a German company registered in 1994, with its seat in Taufkirchen.",
+        "overview": "AIRBUS DEFENCE AND SPACE GMBH is a German company registered in 1994, with its seat in Taufkirchen."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1994",
+            "Registered"
+          ],
+          [
+            "Taufkirchen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900OFZBZWJFOYDZ63",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1994",
+            "Registered"
+          ],
+          [
+            "Taufkirchen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900OFZBZWJFOYDZ63",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity AIRBUS DEFENCE AND SPACE GMBH, LEI 529900OFZBZWJFOYDZ63",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900OFZBZWJFOYDZ63"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Taufkirchen",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "AIRBUS DEFENCE AND SPACE GMBH is a German company registered in 1994, with its seat in Taufkirchen.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1994",
+            "Registered",
+            null
+          ],
+          [
+            "Taufkirchen, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900OFZBZWJFOYDZ63",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900OFZBZWJFOYDZ63",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900OFZBZWJFOYDZ63"
+          }
+        ]
+      },
+      "card_hash": "7baefc77096f7e74"
+    },
+    "avilus-gmbh": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "AVILUS GmbH is a German company registered in 2021, with its seat in Ismaning.",
+        "overview": "AVILUS GmbH is a German company registered in 2021, with its seat in Ismaning."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2021",
+            "Registered"
+          ],
+          [
+            "Ismaning, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 9845003BD5BO1C2A7858",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2021",
+            "Registered"
+          ],
+          [
+            "Ismaning, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 9845003BD5BO1C2A7858",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Wespe",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Bussard",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Wespe",
+              "Wespe was developed as a multi-role uncrewed aircraft capable of carrying mission-specific payloads wherever they are needed.",
+              "grey"
+            ],
+            [
+              "Bussard",
+              "Bussard provides persistent situational awareness through long-endurance autonomous operations, enabling informed decisions across defense, ",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity AVILUS GmbH, LEI 9845003BD5BO1C2A7858",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/9845003BD5BO1C2A7858"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Ismaning",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "AVILUS GmbH is a German company registered in 2021, with its seat in Ismaning.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2021",
+            "Registered",
+            null
+          ],
+          [
+            "Ismaning, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 9845003BD5BO1C2A7858",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 9845003BD5BO1C2A7858",
+            "url": "https://api.gleif.org/api/v1/lei-records/9845003BD5BO1C2A7858"
+          }
+        ]
+      },
+      "card_hash": "818588db68dc3dc4"
+    },
+    "baeck-gmbh-co-kg": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Baeck GMBH & Co KG is a German company registered in 1952, with its seat in Norderstedt.",
+        "overview": "Baeck GMBH & Co KG is a German company registered in 1952, with its seat in Norderstedt."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1952",
+            "Registered"
+          ],
+          [
+            "Norderstedt, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900SWJT3Q3O5QQL05",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1952",
+            "Registered"
+          ],
+          [
+            "Norderstedt, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900SWJT3Q3O5QQL05",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Lagervorhaltung",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Primärbatterien",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Mechanische Bauelemente",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Kühlkörper",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Lagervorhaltung",
+              "Lieferungen „just in time“ durch moderne Lagervorhaltung.",
+              "grey"
+            ],
+            [
+              "Primärbatterien",
+              "Mit Primärbatterien bezeichnet man heute alle nicht wiederaufladbaren Batterien.",
+              "grey"
+            ],
+            [
+              "Mechanische Bauelemente",
+              "Die Bezeichnung „Mechanische Bauelemente“ ist ein Sammelbegriff für alle nichtelektrischen Komponenten.",
+              "grey"
+            ],
+            [
+              "Kühlkörper",
+              "Ein Kühlkörper ist ein passives Element zur Wärmeableitung.",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Baeck GMBH & Co KG, LEI 529900SWJT3Q3O5QQL05",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900SWJT3Q3O5QQL05"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Norderstedt",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Baeck GMBH & Co KG is a German company registered in 1952, with its seat in Norderstedt.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1952",
+            "Registered",
+            null
+          ],
+          [
+            "Norderstedt, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900SWJT3Q3O5QQL05",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900SWJT3Q3O5QQL05",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900SWJT3Q3O5QQL05"
+          }
+        ]
+      },
+      "card_hash": "bde82c4c689ca70f"
     }
   }
 }
