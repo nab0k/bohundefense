@@ -102889,6 +102889,756 @@
         ]
       },
       "card_hash": "fe33b5a22ed5f7ec"
+    },
+    "logiicdev-gmbh": {
+      "developments": [
+        {
+          "date": "29 Oct 2025",
+          "title": "Small UAS — SEP-211097550 - Small UAS",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224328/EDF"
+        },
+        {
+          "date": "28 Oct 2025",
+          "title": "SNADE — Smart Navigation for Autonomous Drones in Extreme Environments",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224367/EDF"
+        }
+      ],
+      "country": "AT",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Logiicdev GmbH is a Austrian company registered in 2024, with its seat in Graz-Wetzelsdorf. It takes part in 2 European Defence Fund projects (2025). Of these, 2 ongoing, EU funding to the company €641K.",
+        "overview": "Logiicdev GmbH is a Austrian company registered in 2024, with its seat in Graz-Wetzelsdorf. It takes part in 2 European Defence Fund projects (2025). Of these, 2 ongoing, EU funding to the company €641K."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2024",
+            "Registered"
+          ],
+          [
+            "Graz-Wetzelsdorf, Austria",
+            "Headquarters"
+          ],
+          [
+            "LEI 98450001599PMBC89D88",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2024",
+            "Registered"
+          ],
+          [
+            "Graz-Wetzelsdorf, Austria",
+            "Headquarters"
+          ],
+          [
+            "LEI 98450001599PMBC89D88",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "SNADE — Smart Navigation for Autonomous Drones in Extreme Environments",
+            "sub": "Participant · EU funding €329K of €4.8M · 6 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "28 Oct 2025",
+            "desc": "EDF EDF-2024-LS-RA-CHALLENGE-SENS-RADNP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224367/EDF"
+          },
+          {
+            "title": "Small UAS — SEP-211097550 - Small UAS",
+            "sub": "Participant · EU funding €312K of €11.0M · 11 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "29 Oct 2025",
+            "desc": "EDF EDF-2024-DA-C4ISR-SEEU-STEP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224328/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "SNADE — Smart Navigation for Autonomous Drones in Extreme Environments",
+            "sub": "Participant · EU funding €329K of €4.8M · 6 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "28 Oct 2025",
+            "desc": "EDF EDF-2024-LS-RA-CHALLENGE-SENS-RADNP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224367/EDF"
+          },
+          {
+            "title": "Small UAS — SEP-211097550 - Small UAS",
+            "sub": "Participant · EU funding €312K of €11.0M · 11 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "29 Oct 2025",
+            "desc": "EDF EDF-2024-DA-C4ISR-SEEU-STEP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224328/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Logiicdev GmbH, LEI 98450001599PMBC89D88",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/98450001599PMBC89D88"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224328",
+          "sources": 1,
+          "date": "29 Oct 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224328/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224367",
+          "sources": 1,
+          "date": "28 Oct 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224367/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Graz-Wetzelsdorf",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Logiicdev GmbH is a Austrian company registered in 2024, with its seat in Graz-Wetzelsdorf. It takes part in 2 European Defence Fund projects (2025). Of these, 2 ongoing, EU funding to the company €641K.",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "€641K",
+            "label": "EU defence funding to the company",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "2",
+            "label": "European Defence Fund projects",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "2",
+            "label": "ongoing now",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "15",
+            "label": "organisations it shares EDF projects with",
+            "src": [
+              2,
+              3
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "2024",
+            "Registered",
+            null
+          ],
+          [
+            "Graz-Wetzelsdorf, Austria",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 98450001599PMBC89D88",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "SNADE — Smart Navigation for Autonomous Drones in Extreme Environments",
+            "sub": "Participant · EU funding €329K of €4.8M · 6 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "date": "28 Oct 2025",
+            "iso": "2025-10-28",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "Small UAS — SEP-211097550 - Small UAS",
+            "sub": "Participant · EU funding €312K of €11.0M · 11 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "date": "29 Oct 2025",
+            "iso": "2025-10-29",
+            "ongoing": true,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "2 grants · €641K",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ADDITESS ADVANCED INTEGRATED TECHNOLOGY SOLUTIONS & SERVICES LTD",
+            "country": "CY",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "AGRICLIMA CONSULTING AB",
+            "country": "SE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "BEYOND SEMICONDUCTOR, RAZISKAVE IN RAZVOJ, D.O.O.",
+            "country": "SI",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "DEVSLATE GROUP UAB",
+            "country": "LT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ECLIPTIC DEFENCE AND SPACE LTD",
+            "country": "CY",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ICT LEGAL CONSULTING INTERNATIONAL BV",
+            "country": "NL",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "Intelekt TV LLC",
+            "country": "UA",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "KAPAMED INTERNATIONAL SRL",
+            "country": "RO",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 98450001599PMBC89D88",
+            "url": "https://api.gleif.org/api/v1/lei-records/98450001599PMBC89D88"
+          },
+          {
+            "title": "EU Funding & Tenders portal · Small UAS",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224328/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · SNADE",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224367/EDF"
+          }
+        ]
+      },
+      "card_hash": "82fadfa3e0b73923"
+    },
+    "rebel-alliance-s-r-l": {
+      "developments": [
+        {
+          "date": "26 Oct 2026",
+          "title": "TALON — Tactical Affordable Loitering Ordnance and Nodes",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304941/EDF"
+        },
+        {
+          "date": "21 Aug 2026",
+          "title": "SALUBRIS — Strategic Autonomous Logistic Uncrewed Battlefield tRiage Intervention System",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304840/EDF"
+        }
+      ],
+      "country": "IT",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "REBEL ALLIANCE S.R.L. is a Italian company registered in 2010, with its seat in Firenze. It takes part in 2 European Defence Fund projects (2026). Of these, 1 ongoing, EU funding to the company €564K.",
+        "overview": "REBEL ALLIANCE S.R.L. is a Italian company registered in 2010, with its seat in Firenze. It takes part in 2 European Defence Fund projects (2026). Of these, 1 ongoing, EU funding to the company €564K."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2010",
+            "Registered"
+          ],
+          [
+            "Firenze, Italy",
+            "Headquarters"
+          ],
+          [
+            "LEI 815600A131144BF61C20",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2010",
+            "Registered"
+          ],
+          [
+            "Firenze, Italy",
+            "Headquarters"
+          ],
+          [
+            "LEI 815600A131144BF61C20",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "SALUBRIS — Strategic Autonomous Logistic Uncrewed Battlefield tRiage Intervention System",
+            "sub": "Participant · EU funding €311K of €10.0M · 19 partners · 2026–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "21 Aug 2026",
+            "desc": "EDF EDF-2025-RA-MCBRN-ATE",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304840/EDF"
+          },
+          {
+            "title": "TALON — Tactical Affordable Loitering Ordnance and Nodes",
+            "sub": "Participant · EU funding €253K of €9.8M · 12 partners · 2026–2028",
+            "status": "Grant · Forthcoming",
+            "icon": "coins",
+            "date": "26 Oct 2026",
+            "desc": "EDF EDF-2025-DA-SI-GROUND-DAMM",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304941/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "SALUBRIS — Strategic Autonomous Logistic Uncrewed Battlefield tRiage Intervention System",
+            "sub": "Participant · EU funding €311K of €10.0M · 19 partners · 2026–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "21 Aug 2026",
+            "desc": "EDF EDF-2025-RA-MCBRN-ATE",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304840/EDF"
+          },
+          {
+            "title": "TALON — Tactical Affordable Loitering Ordnance and Nodes",
+            "sub": "Participant · EU funding €253K of €9.8M · 12 partners · 2026–2028",
+            "status": "Grant · Forthcoming",
+            "icon": "coins",
+            "date": "26 Oct 2026",
+            "desc": "EDF EDF-2025-DA-SI-GROUND-DAMM",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304941/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity REBEL ALLIANCE S.R.L., LEI 815600A131144BF61C20",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/815600A131144BF61C20"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101304941",
+          "sources": 1,
+          "date": "26 Oct 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304941/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101304840",
+          "sources": 1,
+          "date": "21 Aug 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304840/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Firenze",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "REBEL ALLIANCE S.R.L. is a Italian company registered in 2010, with its seat in Firenze. It takes part in 2 European Defence Fund projects (2026). Of these, 1 ongoing, EU funding to the company €564K.",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "€564K",
+            "label": "EU defence funding to the company",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "2",
+            "label": "European Defence Fund projects",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "1",
+            "label": "ongoing now",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "29",
+            "label": "organisations it shares EDF projects with",
+            "src": [
+              2,
+              3
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "2010",
+            "Registered",
+            null
+          ],
+          [
+            "Firenze, Italy",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 815600A131144BF61C20",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "SALUBRIS — Strategic Autonomous Logistic Uncrewed Battlefield tRiage Intervention System",
+            "sub": "Participant · EU funding €311K of €10.0M · 19 partners · 2026–2029",
+            "status": "Grant · Ongoing",
+            "date": "21 Aug 2026",
+            "iso": "2026-08-21",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "TALON — Tactical Affordable Loitering Ordnance and Nodes",
+            "sub": "Participant · EU funding €253K of €9.8M · 12 partners · 2026–2028",
+            "status": "Grant · Forthcoming",
+            "date": "26 Oct 2026",
+            "iso": "2026-10-26",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "2 grants · €564K",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "research",
+            "name": "ALMA MATER STUDIORUM - UNIVERSITA DI BOLOGNA",
+            "country": "IT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ALPHA CONSULTANTS S.R.L.",
+            "country": "IT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "BIODRONE AS",
+            "country": "NO",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "BORN GMBH KNITWEAR FOR FASHION & ENGINEERING",
+            "country": "DE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "CELLOCK LTD",
+            "country": "CY",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "DEFSECINTEL SOLUTIONS OU",
+            "country": "EE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "DIGITAL UNIFORMS - TECHNOLOGIES & SOLUTIONS SRL",
+            "country": "IT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ENGINEERING - INGEGNERIA INFORMATICA SPA",
+            "country": "IT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 815600A131144BF61C20",
+            "url": "https://api.gleif.org/api/v1/lei-records/815600A131144BF61C20"
+          },
+          {
+            "title": "EU Funding & Tenders portal · TALON",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304941/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · SALUBRIS",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304840/EDF"
+          }
+        ]
+      },
+      "card_hash": "6da53f8ce28ceb8e"
     }
   }
 }
