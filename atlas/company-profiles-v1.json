@@ -120105,6 +120105,1352 @@
         ]
       },
       "card_hash": "594e48a10218e262"
+    },
+    "naval-group-belgium": {
+      "developments": [
+        {
+          "date": "17 Aug 2026",
+          "title": "European Defence Fund project 101304685",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304685/EDF"
+        },
+        {
+          "date": "19 Nov 2025",
+          "title": "European Defence Fund project 101224382",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224382/EDF"
+        },
+        {
+          "date": "18 Nov 2024",
+          "title": "European Defence Fund project 101167894",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167894/EDF"
+        },
+        {
+          "date": "23 Nov 2023",
+          "title": "European Defence Fund project 101121408",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121408/EDF"
+        },
+        {
+          "date": "08 Dec 2022",
+          "title": "European Defence Fund project 101103208",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103208/EDF"
+        }
+      ],
+      "country": "BE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "NAVAL GROUP BELGIUM is a Belgian company registered in 2016, with its seat in Brussels. It takes part in 5 European Defence Fund projects (2022–2026).",
+        "overview": "NAVAL GROUP BELGIUM is a Belgian company registered in 2016, with its seat in Brussels. It takes part in 5 European Defence Fund projects (2022–2026)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2016",
+            "Registered"
+          ],
+          [
+            "Brussels, Belgium",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300TY3TYTHJJ0R412",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2016",
+            "Registered"
+          ],
+          [
+            "Brussels, Belgium",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300TY3TYTHJJ0R412",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101304685",
+            "sub": "EU defence research and development · call EDF-2025-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "17 Aug 2026",
+            "desc": "Call EDF-2025-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304685/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101224382",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "19 Nov 2025",
+            "desc": "Call EDF-2024-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224382/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101167894",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "18 Nov 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167894/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101121408",
+            "sub": "EU defence research and development · call EDF-2022-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "23 Nov 2023",
+            "desc": "Call EDF-2022-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121408/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101103208",
+            "sub": "EU defence research and development · call EDF-2021-CYBER-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "08 Dec 2022",
+            "desc": "Call EDF-2021-CYBER-D-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103208/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101304685",
+            "sub": "EU defence research and development · call EDF-2025-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "17 Aug 2026",
+            "desc": "Call EDF-2025-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304685/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101224382",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "19 Nov 2025",
+            "desc": "Call EDF-2024-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224382/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101167894",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "18 Nov 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167894/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101121408",
+            "sub": "EU defence research and development · call EDF-2022-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "23 Nov 2023",
+            "desc": "Call EDF-2022-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121408/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 5 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 5 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity NAVAL GROUP BELGIUM, LEI 549300TY3TYTHJJ0R412",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/549300TY3TYTHJJ0R412"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101304685",
+          "sources": 1,
+          "date": "17 Aug 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304685/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224382",
+          "sources": 1,
+          "date": "19 Nov 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224382/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167894",
+          "sources": 1,
+          "date": "18 Nov 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167894/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121408",
+          "sources": 1,
+          "date": "23 Nov 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121408/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103208",
+          "sources": 1,
+          "date": "08 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103208/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Brussels",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "NAVAL GROUP BELGIUM is a Belgian company registered in 2016, with its seat in Brussels. It takes part in 5 European Defence Fund projects (2022–2026).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2016",
+            "Registered",
+            null
+          ],
+          [
+            "Brussels, Belgium",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 549300TY3TYTHJJ0R412",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101103208",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "08 Dec 2022",
+            "iso": "2022-12-08",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "European Defence Fund project 101121408",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "23 Nov 2023",
+            "iso": "2023-11-23",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "European Defence Fund project 101167894",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "18 Nov 2024",
+            "iso": "2024-11-18",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "European Defence Fund project 101224382",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "19 Nov 2025",
+            "iso": "2025-11-19",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "European Defence Fund project 101304685",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "17 Aug 2026",
+            "iso": "2026-08-17",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "5 grants",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 549300TY3TYTHJJ0R412",
+            "url": "https://api.gleif.org/api/v1/lei-records/549300TY3TYTHJJ0R412"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101304685",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304685/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101224382",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224382/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101167894",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167894/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101121408",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121408/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101103208",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103208/EDF"
+          }
+        ]
+      },
+      "card_hash": "9953ce1298d42aae"
+    },
+    "comnet-naval-communication-gmbh": {
+      "developments": [
+        {
+          "date": "22 Jan 2024",
+          "title": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/41668-2024"
+        },
+        {
+          "date": "18 Jan 2024",
+          "title": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/35483-2024"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "COMNET Naval Communication GmbH is a German company registered in 2013, with its seat in Bremen. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (22 Jan 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (18 Jan 2024).",
+        "overview": "COMNET Naval Communication GmbH is a German company registered in 2013, with its seat in Bremen. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (22 Jan 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (18 Jan 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2013",
+            "Registered"
+          ],
+          [
+            "Bremen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 3912007LKFH3KDBJSD43",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2013",
+            "Registered"
+          ],
+          [
+            "Bremen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 3912007LKFH3KDBJSD43",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 41668-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "22 Jan 2024",
+            "desc": "TED notice 41668-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 35483-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "18 Jan 2024",
+            "desc": "TED notice 35483-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 41668-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "22 Jan 2024",
+            "desc": "TED notice 41668-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 35483-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "18 Jan 2024",
+            "desc": "TED notice 35483-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity COMNET Naval Communication GmbH, LEI 3912007LKFH3KDBJSD43",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/3912007LKFH3KDBJSD43"
+        },
+        {
+          "claim": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (TED 41668-2024)",
+          "sources": 1,
+          "date": "22 Jan 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/41668-2024"
+        },
+        {
+          "claim": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (TED 35483-2024)",
+          "sources": 1,
+          "date": "18 Jan 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/35483-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Bremen",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "COMNET Naval Communication GmbH is a German company registered in 2013, with its seat in Bremen. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (22 Jan 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (18 Jan 2024).",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "2",
+            "label": "contract awards on record",
+            "src": [
+              3,
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "2013",
+            "Registered",
+            null
+          ],
+          [
+            "Bremen, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 3912007LKFH3KDBJSD43",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 35483-2024",
+            "status": "Contract award",
+            "date": "18 Jan 2024",
+            "iso": "2024-01-18",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 41668-2024",
+            "status": "Contract award",
+            "date": "22 Jan 2024",
+            "iso": "2024-01-22",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 3912007LKFH3KDBJSD43",
+            "url": "https://api.gleif.org/api/v1/lei-records/3912007LKFH3KDBJSD43"
+          },
+          {
+            "title": "TED notice 41668-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/41668-2024"
+          },
+          {
+            "title": "TED notice 35483-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/35483-2024"
+          }
+        ]
+      },
+      "card_hash": "1e393360d6a82f4f"
+    },
+    "diehl-aerospace-gmbh": {
+      "developments": [
+        {
+          "date": "23 Oct 2026",
+          "title": "European Defence Fund project 101304940",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304940/EDF"
+        },
+        {
+          "date": "15 Sep 2026",
+          "title": "European Defence Fund project 101302981",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302981/EDF"
+        },
+        {
+          "date": "19 Dec 2022",
+          "title": "European Defence Fund project 101103669",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+        },
+        {
+          "date": "16 Dec 2022",
+          "title": "European Defence Fund project 101103592",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103592/EDF"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Diehl Aerospace GmbH is a German company, with its seat in Überlingen. It takes part in 4 European Defence Fund projects (2022–2026).",
+        "overview": "Diehl Aerospace GmbH is a German company, with its seat in Überlingen. It takes part in 4 European Defence Fund projects (2022–2026)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Überlingen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900A537NG7Z9I2L25",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Überlingen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900A537NG7Z9I2L25",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101304940",
+            "sub": "EU defence research and development · call EDF-2025-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "23 Oct 2026",
+            "desc": "Call EDF-2025-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304940/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101302981",
+            "sub": "EU defence research and development · call EDF-2025-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "15 Sep 2026",
+            "desc": "Call EDF-2025-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302981/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101103669",
+            "sub": "EU defence research and development · call EDF-2021-AIR-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "19 Dec 2022",
+            "desc": "Call EDF-2021-AIR-D-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101103592",
+            "sub": "EU defence research and development · call EDF-2021-AIR-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "16 Dec 2022",
+            "desc": "Call EDF-2021-AIR-D-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103592/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101304940",
+            "sub": "EU defence research and development · call EDF-2025-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "23 Oct 2026",
+            "desc": "Call EDF-2025-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304940/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101302981",
+            "sub": "EU defence research and development · call EDF-2025-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "15 Sep 2026",
+            "desc": "Call EDF-2025-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302981/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101103669",
+            "sub": "EU defence research and development · call EDF-2021-AIR-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "19 Dec 2022",
+            "desc": "Call EDF-2021-AIR-D-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101103592",
+            "sub": "EU defence research and development · call EDF-2021-AIR-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "16 Dec 2022",
+            "desc": "Call EDF-2021-AIR-D-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103592/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 4 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 4 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Diehl Aerospace GmbH, LEI 529900A537NG7Z9I2L25",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900A537NG7Z9I2L25"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101304940",
+          "sources": 1,
+          "date": "23 Oct 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304940/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101302981",
+          "sources": 1,
+          "date": "15 Sep 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302981/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103669",
+          "sources": 1,
+          "date": "19 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103592",
+          "sources": 1,
+          "date": "16 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103592/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Überlingen",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Diehl Aerospace GmbH is a German company, with its seat in Überlingen. It takes part in 4 European Defence Fund projects (2022–2026).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "Überlingen, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900A537NG7Z9I2L25",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101103592",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "16 Dec 2022",
+            "iso": "2022-12-16",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "European Defence Fund project 101103669",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "19 Dec 2022",
+            "iso": "2022-12-19",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "European Defence Fund project 101302981",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "15 Sep 2026",
+            "iso": "2026-09-15",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "European Defence Fund project 101304940",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "23 Oct 2026",
+            "iso": "2026-10-23",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "4 grants",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900A537NG7Z9I2L25",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900A537NG7Z9I2L25"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101304940",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304940/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101302981",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302981/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101103669",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101103592",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103592/EDF"
+          }
+        ]
+      },
+      "card_hash": "8c78c87565ad19b9"
+    },
+    "helsing": {
+      "developments": [
+        {
+          "date": "06 Dec 2023",
+          "title": "European Defence Fund project 101121414",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121414/EDF"
+        },
+        {
+          "date": "19 Dec 2022",
+          "title": "European Defence Fund project 101103669",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Helsing GmbH is a German company registered in 2021, with its seat in München. It takes part in 2 European Defence Fund projects (2022–2023).",
+        "overview": "Helsing GmbH is a German company registered in 2021, with its seat in München. It takes part in 2 European Defence Fund projects (2022–2023)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2021",
+            "Registered"
+          ],
+          [
+            "München, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 391200QIYOWD36F0DU18",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2021",
+            "Registered"
+          ],
+          [
+            "München, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 391200QIYOWD36F0DU18",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101121414",
+            "sub": "EU defence research and development · call EDF-2022-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "06 Dec 2023",
+            "desc": "Call EDF-2022-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121414/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101103669",
+            "sub": "EU defence research and development · call EDF-2021-AIR-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "19 Dec 2022",
+            "desc": "Call EDF-2021-AIR-D-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101121414",
+            "sub": "EU defence research and development · call EDF-2022-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "06 Dec 2023",
+            "desc": "Call EDF-2022-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121414/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101103669",
+            "sub": "EU defence research and development · call EDF-2021-AIR-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "19 Dec 2022",
+            "desc": "Call EDF-2021-AIR-D-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Helsing GmbH, LEI 391200QIYOWD36F0DU18",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/391200QIYOWD36F0DU18"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121414",
+          "sources": 1,
+          "date": "06 Dec 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121414/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103669",
+          "sources": 1,
+          "date": "19 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "München",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Helsing GmbH is a German company registered in 2021, with its seat in München. It takes part in 2 European Defence Fund projects (2022–2023).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2021",
+            "Registered",
+            null
+          ],
+          [
+            "München, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 391200QIYOWD36F0DU18",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101103669",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "19 Dec 2022",
+            "iso": "2022-12-19",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "European Defence Fund project 101121414",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "06 Dec 2023",
+            "iso": "2023-12-06",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "2 grants",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "BAAINBw",
+            "country": null,
+            "in_catalogue": false,
+            "sub": "Customer",
+            "status": "verified",
+            "quote": "Das deutsche Defence-Tech-Unternehmen Helsing hat dem Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (BAAINBw) den Quellcode des Mission Operating System Bundeswehr (MissionOSBw) übergeben.",
+            "src": [
+              4
+            ]
+          }
+        ],
+        "products": [
+          {
+            "name": "Clarity",
+            "role": "makes",
+            "status": "verified",
+            "quote": "Helsing hat heute in Berlin eine agentenbasierte KI-Plattform (Agentic Intelligence Platform) mit dem Namen Clarity für die Zielerkennung und Zielzuweisung vorgestellt.",
+            "src": [
+              5,
+              6
+            ]
+          },
+          {
+            "name": "submarine-hunting underwater gliders",
+            "role": "makes",
+            "status": "verified",
+            "quote": "Helsing is scaling back its Plymouth operation a year after opening a factory there to build submarine-hunting underwater gliders.",
+            "src": [
+              7
+            ]
+          },
+          {
+            "name": "dronele de atac",
+            "role": "makes",
+            "status": "candidate",
+            "quote": "Două modele germane de drone de atac, dezvoltate de companiile Stark și Helsing",
+            "src": [
+              8
+            ]
+          }
+        ],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 391200QIYOWD36F0DU18",
+            "url": "https://api.gleif.org/api/v1/lei-records/391200QIYOWD36F0DU18"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101121414",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121414/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101103669",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+          },
+          {
+            "title": "militaeraktuell.at",
+            "url": "https://militaeraktuell.at/helsing-bundeswehr-quellcode-luftkampfsysteme/"
+          },
+          {
+            "title": "hartpunkt.de",
+            "url": "https://www.hartpunkt.de/helsing-stellt-neue-targeting-software-clarity-vor/"
+          },
+          {
+            "title": "defence-industry.eu",
+            "url": "https://defence-industry.eu/helsing-introduces-clarity-ai-platform-to-identify-potential-military-targets-for-operator-review/"
+          },
+          {
+            "title": "navylookout.com",
+            "url": "https://www.navylookout.com/helsing-cuts-plymouth-workforce-after-royal-navy-selects-ocean-infinity-for-atlantic-net/"
+          },
+          {
+            "title": "defenseromania.ro",
+            "url": "https://www.defenseromania.ro/drone-si-tehnologii-emergentegermania-lasa-in-urma-anii-de-scepticism-fata-de-dronele-de-atac-si-pregateste-intrarea-sistemelor-stark-si-helsing-in-dotarea-trupelor-de-pe-flancul-estic-652374.html"
+          }
+        ]
+      },
+      "card_hash": "305af5d0d6e959b4"
     }
   }
 }
