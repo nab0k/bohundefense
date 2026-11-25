@@ -106868,8 +106868,99 @@
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "TraXon 2 Hybrid",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Steer-by-Wire",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Hybrid Brake-by-Wire",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "CDC Skyhook",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "City Bus CMS",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "City Bus Assist",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Airbags, steering wheels, and seat belts",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Test benches",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "TraXon 2 Hybrid",
+              "With the TraXon 2 Hybrid, ZF is developing a driveline solution that reduces greenhouse gas emissions while meeting upcoming, more stringent",
+              "grey"
+            ],
+            [
+              "Steer-by-Wire",
+              "At the 2026 Automotive News PACE Awards, ZF received two awards for technologies driving this transformation: Steer-by-Wire and Hybrid Brake",
+              "grey"
+            ],
+            [
+              "Hybrid Brake-by-Wire",
+              "At the 2026 Automotive News PACE Awards, ZF received two awards for technologies driving this transformation: Steer-by-Wire and Hybrid Brake",
+              "grey"
+            ],
+            [
+              "CDC Skyhook",
+              "CDC Skyhook improves ride comfort and stability, whereas City Bus CMS combines state-of-the-art detection and braking assistance to mitigate",
+              "grey"
+            ],
+            [
+              "City Bus CMS",
+              "CDC Skyhook improves ride comfort and stability, whereas City Bus CMS combines state-of-the-art detection and braking assistance to mitigate",
+              "grey"
+            ],
+            [
+              "City Bus Assist",
+              "At bus stops, City Bus Assist helps drivers through curb detection and steering assistance. Its intelligent kneeling behavior enhances acces",
+              "grey"
+            ],
+            [
+              "Airbags, steering wheels, and seat belts",
+              "We continuously enhance and redefine crucial safety products like airbags, steering wheels, and seat belts to set new standards in safety.",
+              "grey"
+            ],
+            [
+              "Test benches",
+              "ZF Test Systems develops and produces test benches for on- and off-road mobility. For more than 35 years we have been specialists for valida",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -107009,7 +107100,7 @@
           }
         ]
       },
-      "card_hash": "3994e5bf8b413ae1"
+      "card_hash": "594d396678831c6c"
     },
     "rohde-schwarz-gmbh-co-kommanditgesellschaft": {
       "developments": [
@@ -118784,6 +118875,1124 @@
         ]
       },
       "card_hash": "bde82c4c689ca70f"
+    },
+    "ffg-flensburger-fahrzeugbau-gesellschaft-mbh": {
+      "developments": [
+        {
+          "date": "12 Jun 2024",
+          "title": "Contract award by Forsvarsministeriets Materiel- og Indkøbsstyrelse",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/347062-2024"
+        },
+        {
+          "date": "23 May 2024",
+          "title": "Contract award by Forsvarsministeriets Materiel- og Indkøbsstyrelse",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/304300-2024"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "FFG Flensburger Fahrzeugbau Gesellschaft mbH is a German company registered in 1988, with its seat in Flensburg. EU procurement records (TED) list a contract award by Forsvarsministeriets Materiel- og Indkøbsstyrelse (12 Jun 2024). EU procurement records (TED) list a contract award by Forsvarsministeriets Materiel- og Indkøbsstyrelse (23 May 2024).",
+        "overview": "FFG Flensburger Fahrzeugbau Gesellschaft mbH is a German company registered in 1988, with its seat in Flensburg. EU procurement records (TED) list a contract award by Forsvarsministeriets Materiel- og Indkøbsstyrelse (12 Jun 2024). EU procurement records (TED) list a contract award by Forsvarsministeriets Materiel- og Indkøbsstyrelse (23 May 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1988",
+            "Registered"
+          ],
+          [
+            "Flensburg, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900P96P0D7LFWF553",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1988",
+            "Registered"
+          ],
+          [
+            "Flensburg, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900P96P0D7LFWF553",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Forsvarsministeriets Materiel- og Indkøbsstyrelse",
+            "sub": "TED notice 347062-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "12 Jun 2024",
+            "desc": "TED notice 347062-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Forsvarsministeriets Materiel- og Indkøbsstyrelse",
+            "sub": "TED notice 304300-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "23 May 2024",
+            "desc": "TED notice 304300-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Forsvarsministeriets Materiel- og Indkøbsstyrelse",
+            "sub": "TED notice 347062-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "12 Jun 2024",
+            "desc": "TED notice 347062-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Forsvarsministeriets Materiel- og Indkøbsstyrelse",
+            "sub": "TED notice 304300-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "23 May 2024",
+            "desc": "TED notice 304300-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Forsvarsministeriets Materiel- og Indkøbsstyrelse",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Forsvarsministeriets Materiel- og Indkøbsstyrelse",
+            "role": "Customer · TED award",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Forsvarsministeriets Materiel- og Indkøbsstyrelse",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Forsvarsministeriets Materiel- og Indkøbsstyrelse",
+            "role": "Customer · TED award",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity FFG Flensburger Fahrzeugbau Gesellschaft mbH, LEI 529900P96P0D7LFWF553",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900P96P0D7LFWF553"
+        },
+        {
+          "claim": "Contract award by Forsvarsministeriets Materiel- og Indkøbsstyrelse (TED 347062-2024)",
+          "sources": 1,
+          "date": "12 Jun 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/347062-2024"
+        },
+        {
+          "claim": "Contract award by Forsvarsministeriets Materiel- og Indkøbsstyrelse (TED 304300-2024)",
+          "sources": 1,
+          "date": "23 May 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/304300-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Flensburg",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "FFG Flensburger Fahrzeugbau Gesellschaft mbH is a German company registered in 1988, with its seat in Flensburg. EU procurement records (TED) list a contract award by Forsvarsministeriets Materiel- og Indkøbsstyrelse (12 Jun 2024). EU procurement records (TED) list a contract award by Forsvarsministeriets Materiel- og Indkøbsstyrelse (23 May 2024).",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "2",
+            "label": "contract awards on record",
+            "src": [
+              3,
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "1988",
+            "Registered",
+            null
+          ],
+          [
+            "Flensburg, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900P96P0D7LFWF553",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract award · Forsvarsministeriets Materiel- og Indkøbsstyrelse",
+            "sub": "TED notice 304300-2024",
+            "status": "Contract award",
+            "date": "23 May 2024",
+            "iso": "2024-05-23",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "Contract award · Forsvarsministeriets Materiel- og Indkøbsstyrelse",
+            "sub": "TED notice 347062-2024",
+            "status": "Contract award",
+            "date": "12 Jun 2024",
+            "iso": "2024-06-12",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [],
+        "products": [
+          {
+            "name": "Armoured Combat Support Vehicle",
+            "role": "makes",
+            "status": "verified",
+            "quote": "die von der FFG Flensburger Fahrzeugbau GmbH entwickelte Kettenplattform „Armoured Combat Support Vehicle“ (ACSV)",
+            "src": [
+              4
+            ]
+          }
+        ],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900P96P0D7LFWF553",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900P96P0D7LFWF553"
+          },
+          {
+            "title": "TED notice 347062-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/347062-2024"
+          },
+          {
+            "title": "TED notice 304300-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/304300-2024"
+          },
+          {
+            "title": "hartpunkt.de",
+            "url": "https://www.hartpunkt.de/ffg-bindet-niederlaendische-unternehmen-in-die-acsv-produktion-ein/"
+          }
+        ]
+      },
+      "card_hash": "045ce7de01d48b56"
+    },
+    "mtu-aero-engines": {
+      "developments": [
+        {
+          "date": "23 Oct 2026",
+          "title": "European Defence Fund project 101304670",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304670/EDF"
+        },
+        {
+          "date": "14 Oct 2026",
+          "title": "European Defence Fund project 101300447",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101300447/EDF"
+        },
+        {
+          "date": "12 Dec 2025",
+          "title": "European Defence Fund project 101224375",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224375/EDF"
+        },
+        {
+          "date": "07 Dec 2023",
+          "title": "European Defence Fund project 101121450",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121450/EDF"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "MTU Aero Engines AG is a German company registered in 2005, with its seat in München. It takes part in 4 European Defence Fund projects (2023–2026).",
+        "overview": "MTU Aero Engines AG is a German company registered in 2005, with its seat in München. It takes part in 4 European Defence Fund projects (2023–2026)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2005",
+            "Registered"
+          ],
+          [
+            "München, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900807L67JY81RD65",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2005",
+            "Registered"
+          ],
+          [
+            "München, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900807L67JY81RD65",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101304670",
+            "sub": "EU defence research and development · call EDF-2025-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "23 Oct 2026",
+            "desc": "Call EDF-2025-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304670/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101300447",
+            "sub": "EU defence research and development · call EDF-2025-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "14 Oct 2026",
+            "desc": "Call EDF-2025-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101300447/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101224375",
+            "sub": "EU defence research and development · call EDF-2024-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224375/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101121450",
+            "sub": "EU defence research and development · call EDF-2022-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "07 Dec 2023",
+            "desc": "Call EDF-2022-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121450/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101304670",
+            "sub": "EU defence research and development · call EDF-2025-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "23 Oct 2026",
+            "desc": "Call EDF-2025-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304670/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101300447",
+            "sub": "EU defence research and development · call EDF-2025-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "14 Oct 2026",
+            "desc": "Call EDF-2025-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101300447/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101224375",
+            "sub": "EU defence research and development · call EDF-2024-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224375/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101121450",
+            "sub": "EU defence research and development · call EDF-2022-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "07 Dec 2023",
+            "desc": "Call EDF-2022-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121450/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 4 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 4 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity MTU Aero Engines AG, LEI 529900807L67JY81RD65",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900807L67JY81RD65"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101304670",
+          "sources": 1,
+          "date": "23 Oct 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304670/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101300447",
+          "sources": 1,
+          "date": "14 Oct 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101300447/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224375",
+          "sources": 1,
+          "date": "12 Dec 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224375/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121450",
+          "sources": 1,
+          "date": "07 Dec 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121450/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "München",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "MTU Aero Engines AG is a German company registered in 2005, with its seat in München. It takes part in 4 European Defence Fund projects (2023–2026).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2005",
+            "Registered",
+            null
+          ],
+          [
+            "München, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900807L67JY81RD65",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101121450",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "07 Dec 2023",
+            "iso": "2023-12-07",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "European Defence Fund project 101224375",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "12 Dec 2025",
+            "iso": "2025-12-12",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "European Defence Fund project 101300447",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "14 Oct 2026",
+            "iso": "2026-10-14",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "European Defence Fund project 101304670",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "23 Oct 2026",
+            "iso": "2026-10-23",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "4 grants",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900807L67JY81RD65",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900807L67JY81RD65"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101304670",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304670/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101300447",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101300447/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101224375",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224375/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101121450",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121450/EDF"
+          }
+        ]
+      },
+      "card_hash": "2ae10edcecd11a39"
+    },
+    "rolls-royce-solutions-gmbh": {
+      "developments": [
+        {
+          "date": "17 Aug 2026",
+          "title": "European Defence Fund project 101302020",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+        },
+        {
+          "date": "01 Aug 2024",
+          "title": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/463203-2024"
+        },
+        {
+          "date": "19 Jun 2024",
+          "title": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/363170-2024"
+        },
+        {
+          "date": "25 Mar 2024",
+          "title": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/177984-2024"
+        },
+        {
+          "date": "14 Mar 2024",
+          "title": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/153822-2024"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "Rolls-Royce Solutions GmbH is a German company registered in 1911, with its seat in Friedrichshafen. It takes part in 1 European Defence Fund project (2026). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (01 Aug 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung (19 Jun 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung (25 Mar 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (14 Mar 2024).",
+        "overview": "Rolls-Royce Solutions GmbH is a German company registered in 1911, with its seat in Friedrichshafen. It takes part in 1 European Defence Fund project (2026). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (01 Aug 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung (19 Jun 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung (25 Mar 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (14 Mar 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1911",
+            "Registered"
+          ],
+          [
+            "Friedrichshafen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 5299007A0ZR910RUXA95",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1911",
+            "Registered"
+          ],
+          [
+            "Friedrichshafen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 5299007A0ZR910RUXA95",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101302020",
+            "sub": "EU defence research and development · call EDF-2025-LS-RA-SI",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "17 Aug 2026",
+            "desc": "Call EDF-2025-LS-RA-SI",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 463203-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "01 Aug 2024",
+            "desc": "TED notice 463203-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "sub": "TED notice 363170-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "19 Jun 2024",
+            "desc": "TED notice 363170-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "sub": "TED notice 177984-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "25 Mar 2024",
+            "desc": "TED notice 177984-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 153822-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "14 Mar 2024",
+            "desc": "TED notice 153822-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101302020",
+            "sub": "EU defence research and development · call EDF-2025-LS-RA-SI",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "17 Aug 2026",
+            "desc": "Call EDF-2025-LS-RA-SI",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 463203-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "01 Aug 2024",
+            "desc": "TED notice 463203-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "sub": "TED notice 363170-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "19 Jun 2024",
+            "desc": "TED notice 363170-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "sub": "TED notice 177984-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "25 Mar 2024",
+            "desc": "TED notice 177984-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "role": "Customer · TED award",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "role": "Customer · TED award",
+            "x": 0.9,
+            "y": 0.45,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.18,
+            "y": 0.84,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "role": "Customer · TED award",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "role": "Customer · TED award",
+            "x": 0.9,
+            "y": 0.45,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.18,
+            "y": 0.84,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Rolls-Royce Solutions GmbH, LEI 5299007A0ZR910RUXA95",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/5299007A0ZR910RUXA95"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101302020",
+          "sources": 1,
+          "date": "17 Aug 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+        },
+        {
+          "claim": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (TED 463203-2024)",
+          "sources": 1,
+          "date": "01 Aug 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/463203-2024"
+        },
+        {
+          "claim": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung (TED 363170-2024)",
+          "sources": 1,
+          "date": "19 Jun 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/363170-2024"
+        },
+        {
+          "claim": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung (TED 177984-2024)",
+          "sources": 1,
+          "date": "25 Mar 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/177984-2024"
+        },
+        {
+          "claim": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (TED 153822-2024)",
+          "sources": 1,
+          "date": "14 Mar 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/153822-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Friedrichshafen",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Rolls-Royce Solutions GmbH is a German company registered in 1911, with its seat in Friedrichshafen. It takes part in 1 European Defence Fund project (2026). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (01 Aug 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung (19 Jun 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung (25 Mar 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (14 Mar 2024).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "4",
+            "label": "contract awards on record",
+            "src": [
+              6,
+              5,
+              4,
+              3
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "1911",
+            "Registered",
+            null
+          ],
+          [
+            "Friedrichshafen, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 5299007A0ZR910RUXA95",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 153822-2024",
+            "status": "Contract award",
+            "date": "14 Mar 2024",
+            "iso": "2024-03-14",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "sub": "TED notice 177984-2024",
+            "status": "Contract award",
+            "date": "25 Mar 2024",
+            "iso": "2024-03-25",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "sub": "TED notice 363170-2024",
+            "status": "Contract award",
+            "date": "19 Jun 2024",
+            "iso": "2024-06-19",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 463203-2024",
+            "status": "Contract award",
+            "date": "01 Aug 2024",
+            "iso": "2024-08-01",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "European Defence Fund project 101302020",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "17 Aug 2026",
+            "iso": "2026-08-17",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 5299007A0ZR910RUXA95",
+            "url": "https://api.gleif.org/api/v1/lei-records/5299007A0ZR910RUXA95"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101302020",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+          },
+          {
+            "title": "TED notice 463203-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/463203-2024"
+          },
+          {
+            "title": "TED notice 363170-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/363170-2024"
+          },
+          {
+            "title": "TED notice 177984-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/177984-2024"
+          },
+          {
+            "title": "TED notice 153822-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/153822-2024"
+          }
+        ]
+      },
+      "card_hash": "594e48a10218e262"
     }
   }
 }
