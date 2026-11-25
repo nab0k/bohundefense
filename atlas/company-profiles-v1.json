@@ -116122,6 +116122,532 @@
         ]
       },
       "card_hash": "40491e7f1a255637"
+    },
+    "thales-deutschland-gmbh": {
+      "developments": [
+        {
+          "date": "22 Oct 2026",
+          "title": "European Defence Fund project 101304820",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304820/EDF"
+        },
+        {
+          "date": "08 Dec 2022",
+          "title": "European Defence Fund project 101103651",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103651/EDF"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Thales Deutschland GmbH is a German company, with its seat in Ditzingen. It takes part in 2 European Defence Fund projects (2022–2026).",
+        "overview": "Thales Deutschland GmbH is a German company, with its seat in Ditzingen. It takes part in 2 European Defence Fund projects (2022–2026)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Ditzingen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 52990034Z2W52HQJPW64",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Ditzingen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 52990034Z2W52HQJPW64",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101304820",
+            "sub": "EU defence research and development · call EDF-2025-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "22 Oct 2026",
+            "desc": "Call EDF-2025-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304820/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101103651",
+            "sub": "EU defence research and development · call EDF-2021-DIGIT-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "08 Dec 2022",
+            "desc": "Call EDF-2021-DIGIT-D-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103651/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101304820",
+            "sub": "EU defence research and development · call EDF-2025-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "22 Oct 2026",
+            "desc": "Call EDF-2025-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304820/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101103651",
+            "sub": "EU defence research and development · call EDF-2021-DIGIT-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "08 Dec 2022",
+            "desc": "Call EDF-2021-DIGIT-D-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103651/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Thales Deutschland GmbH, LEI 52990034Z2W52HQJPW64",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/52990034Z2W52HQJPW64"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101304820",
+          "sources": 1,
+          "date": "22 Oct 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304820/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103651",
+          "sources": 1,
+          "date": "08 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103651/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Ditzingen",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Thales Deutschland GmbH is a German company, with its seat in Ditzingen. It takes part in 2 European Defence Fund projects (2022–2026).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "Ditzingen, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 52990034Z2W52HQJPW64",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101103651",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "08 Dec 2022",
+            "iso": "2022-12-08",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "European Defence Fund project 101304820",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "22 Oct 2026",
+            "iso": "2026-10-22",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "2 grants",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 52990034Z2W52HQJPW64",
+            "url": "https://api.gleif.org/api/v1/lei-records/52990034Z2W52HQJPW64"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101304820",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304820/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101103651",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103651/EDF"
+          }
+        ]
+      },
+      "card_hash": "46f59d9264ff52f0"
+    },
+    "systematic-a-s": {
+      "developments": [
+        {
+          "date": "29 Mar 2024",
+          "title": "Contract award by Gynybos resursų agentūra prie Krašto apsaugos ministerijos",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/190112-2024"
+        }
+      ],
+      "country": "DK",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "SYSTEMATIC A/S is a Danish company registered in 1985, with its seat in Aarhus C. EU procurement records (TED) list a contract award by Gynybos resursų agentūra prie Krašto apsaugos ministerijos (29 Mar 2024).",
+        "overview": "SYSTEMATIC A/S is a Danish company registered in 1985, with its seat in Aarhus C. EU procurement records (TED) list a contract award by Gynybos resursų agentūra prie Krašto apsaugos ministerijos (29 Mar 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1985",
+            "Registered"
+          ],
+          [
+            "Aarhus C, Denmark",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300720GBVIGHGSZ16",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1985",
+            "Registered"
+          ],
+          [
+            "Aarhus C, Denmark",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300720GBVIGHGSZ16",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Gynybos resursų agentūra prie Krašto apsaugos ministerijos",
+            "sub": "TED notice 190112-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "29 Mar 2024",
+            "desc": "TED notice 190112-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Gynybos resursų agentūra prie Krašto apsaugos ministerijos",
+            "sub": "TED notice 190112-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "29 Mar 2024",
+            "desc": "TED notice 190112-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Gynybos resursų agentūra prie Krašto apsaugos ministerijos",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Gynybos resursų agentūra prie Krašto apsaugos ministerijos",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity SYSTEMATIC A/S, LEI 549300720GBVIGHGSZ16",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/549300720GBVIGHGSZ16"
+        },
+        {
+          "claim": "Contract award by Gynybos resursų agentūra prie Krašto apsaugos ministerijos (TED 190112-2024)",
+          "sources": 1,
+          "date": "29 Mar 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/190112-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Aarhus C",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "SYSTEMATIC A/S is a Danish company registered in 1985, with its seat in Aarhus C. EU procurement records (TED) list a contract award by Gynybos resursų agentūra prie Krašto apsaugos ministerijos (29 Mar 2024).",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "1",
+            "label": "contract awards on record",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "1985",
+            "Registered",
+            null
+          ],
+          [
+            "Aarhus C, Denmark",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 549300720GBVIGHGSZ16",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract award · Gynybos resursų agentūra prie Krašto apsaugos ministerijos",
+            "sub": "TED notice 190112-2024",
+            "status": "Contract award",
+            "date": "29 Mar 2024",
+            "iso": "2024-03-29",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Bundeswehr-Sanitätsdienst",
+            "country": null,
+            "in_catalogue": false,
+            "sub": "Customer · reported, not confirmed",
+            "status": "candidate",
+            "quote": "Nach Abschluss der Entwicklungsphase konnte der Hersteller Systematic die beauftragten Softwareprodukte für das Sanitätsdienstliche Führungs- und Einsatzsystem (SAFES) planmäßig ausliefern, wie aus einer Mitteilung des Unternehmens hervorgeht.",
+            "src": [
+              3
+            ]
+          }
+        ],
+        "products": [
+          {
+            "name": "SitaWare Headquarters",
+            "role": "makes",
+            "status": "verified",
+            "quote": "The new office is directly tied to the LAND 4140 programme, under which Systematic will supply SitaWare Headquarters as the first tranche of the Australian Army’s next-generation Battle Management System.",
+            "src": [
+              4
+            ]
+          },
+          {
+            "name": "SitaWare",
+            "role": "makes",
+            "status": "verified",
+            "quote": "Other European makers of military software include Denmark’s Systematic, whose SitaWare product is used by the Bundeswehr and parts of NATO",
+            "src": [
+              5
+            ]
+          },
+          {
+            "name": "SitaWare Battlefield Health",
+            "role": "makes",
+            "status": "candidate",
+            "quote": "Der Sanitätsdienst der Bundeswehr wird die Patientenströme in Zukunft mit der Software SitaWare Battlefield Health im Einsatzgebiet digital steuern.",
+            "src": [
+              3
+            ]
+          },
+          {
+            "name": "LAND 4140 programme",
+            "role": "supplies to",
+            "status": "verified",
+            "quote": "The new office is directly tied to the LAND 4140 programme, under which Systematic will supply SitaWare Headquarters as the first tranche of the Australian Army’s next-generation Battle Management System.",
+            "src": [
+              4
+            ]
+          }
+        ],
+        "news": [
+          {
+            "iso": "2026-10-28",
+            "kind": "Customer",
+            "title": "Customer: Bundeswehr-Sanitätsdienst",
+            "line": "Nach Abschluss der Entwicklungsphase konnte der Hersteller Systematic die beauftragten Softwareprodukte für das Sanitätsdienstliche Führungs- und Einsatzsystem (SAFES) planmäßig ausliefern, wie aus einer Mitteilung des Unternehmens hervorgeht.",
+            "src": 3
+          }
+        ],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 549300720GBVIGHGSZ16",
+            "url": "https://api.gleif.org/api/v1/lei-records/549300720GBVIGHGSZ16"
+          },
+          {
+            "title": "TED notice 190112-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/190112-2024"
+          },
+          {
+            "title": "hartpunkt.de",
+            "url": "https://www.hartpunkt.de/bundeswehr-sanitaetsdienst-erhaelt-sitaware-battlefield-health-von-systematic/"
+          },
+          {
+            "title": "balticnews.com",
+            "url": "https://balticnews.com/denmarks-systematic-opens-canberra-office-to-deliver-a98m-australian-army-battle-management-system/"
+          },
+          {
+            "title": "defensenews.com",
+            "url": "https://www.defensenews.com/news/2026/11/16/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/"
+          }
+        ]
+      },
+      "card_hash": "d89a5d117409cda2"
     }
   }
 }
