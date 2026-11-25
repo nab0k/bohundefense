@@ -127147,6 +127147,425 @@
         ]
       },
       "card_hash": "2049ad9887d265d6"
+    },
+    "integracion-tecnologica-empresarial-s-l": {
+      "developments": [
+        {
+          "date": "19 Jan 2024",
+          "title": "Contract award by Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/38981-2024"
+        }
+      ],
+      "country": "ES",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · verified · relevant competence, no military sale on record"
+        ]
+      ],
+      "about": {
+        "workspace": "INTEGRACION TECNOLOGICA EMPRESARIAL SL is a Spanish company registered in 2002, with its seat in Villaviciosa De Odón. EU procurement records (TED) list a contract award by Jefatura de Asuntos Económicos del Mando de Apoyo Logístico (19 Jan 2024).",
+        "overview": "INTEGRACION TECNOLOGICA EMPRESARIAL SL is a Spanish company registered in 2002, with its seat in Villaviciosa De Odón. EU procurement records (TED) list a contract award by Jefatura de Asuntos Económicos del Mando de Apoyo Logístico (19 Jan 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2002",
+            "Registered"
+          ],
+          [
+            "Villaviciosa De Odón, Spain",
+            "Headquarters"
+          ],
+          [
+            "LEI 9598008R8U094TQY3L93",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2002",
+            "Registered"
+          ],
+          [
+            "Villaviciosa De Odón, Spain",
+            "Headquarters"
+          ],
+          [
+            "LEI 9598008R8U094TQY3L93",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+            "sub": "TED notice 38981-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "19 Jan 2024",
+            "desc": "TED notice 38981-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+            "sub": "TED notice 38981-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "19 Jan 2024",
+            "desc": "TED notice 38981-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity INTEGRACION TECNOLOGICA EMPRESARIAL SL, LEI 9598008R8U094TQY3L93",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/9598008R8U094TQY3L93"
+        },
+        {
+          "claim": "Contract award by Jefatura de Asuntos Económicos del Mando de Apoyo Logístico (TED 38981-2024)",
+          "sources": 1,
+          "date": "19 Jan 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/38981-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Villaviciosa De Odón",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "INTEGRACION TECNOLOGICA EMPRESARIAL SL is a Spanish company registered in 2002, with its seat in Villaviciosa De Odón. EU procurement records (TED) list a contract award by Jefatura de Asuntos Económicos del Mando de Apoyo Logístico (19 Jan 2024).",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "1",
+            "label": "contract awards on record",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "2002",
+            "Registered",
+            null
+          ],
+          [
+            "Villaviciosa De Odón, Spain",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 9598008R8U094TQY3L93",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract award · Jefatura de Asuntos Económicos del Mando de Apoyo Logístico",
+            "sub": "TED notice 38981-2024",
+            "status": "Contract award",
+            "date": "19 Jan 2024",
+            "iso": "2024-01-19",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 9598008R8U094TQY3L93",
+            "url": "https://api.gleif.org/api/v1/lei-records/9598008R8U094TQY3L93"
+          },
+          {
+            "title": "TED notice 38981-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/38981-2024"
+          }
+        ]
+      },
+      "card_hash": "4a43a32d17b078bf"
+    },
+    "isotta-fraschini-motori-s-p-a": {
+      "developments": [
+        {
+          "date": "17 Aug 2026",
+          "title": "European Defence Fund project 101302020",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+        }
+      ],
+      "country": "IT",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "ISOTTA FRASCHINI MOTORI S.P.A. is a Italian company registered in 1995, with its seat in Bari. It takes part in 1 European Defence Fund project (2026).",
+        "overview": "ISOTTA FRASCHINI MOTORI S.P.A. is a Italian company registered in 1995, with its seat in Bari. It takes part in 1 European Defence Fund project (2026)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1995",
+            "Registered"
+          ],
+          [
+            "Bari, Italy",
+            "Headquarters"
+          ],
+          [
+            "LEI 815600E8F4E6786B0A28",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1995",
+            "Registered"
+          ],
+          [
+            "Bari, Italy",
+            "Headquarters"
+          ],
+          [
+            "LEI 815600E8F4E6786B0A28",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101302020",
+            "sub": "EU defence research and development · call EDF-2025-LS-RA-SI",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "17 Aug 2026",
+            "desc": "Call EDF-2025-LS-RA-SI",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101302020",
+            "sub": "EU defence research and development · call EDF-2025-LS-RA-SI",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "17 Aug 2026",
+            "desc": "Call EDF-2025-LS-RA-SI",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ISOTTA FRASCHINI MOTORI S.P.A., LEI 815600E8F4E6786B0A28",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/815600E8F4E6786B0A28"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101302020",
+          "sources": 1,
+          "date": "17 Aug 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Bari",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ISOTTA FRASCHINI MOTORI S.P.A. is a Italian company registered in 1995, with its seat in Bari. It takes part in 1 European Defence Fund project (2026).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1995",
+            "Registered",
+            null
+          ],
+          [
+            "Bari, Italy",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 815600E8F4E6786B0A28",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101302020",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "17 Aug 2026",
+            "iso": "2026-08-17",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 815600E8F4E6786B0A28",
+            "url": "https://api.gleif.org/api/v1/lei-records/815600E8F4E6786B0A28"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101302020",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+          }
+        ]
+      },
+      "card_hash": "dc9ccc3f4de7e1bc"
     }
   }
 }
