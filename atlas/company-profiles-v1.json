@@ -106407,6 +106407,865 @@
         ]
       },
       "card_hash": "3a1af7a7bc451474"
+    },
+    "renk": {
+      "developments": [
+        {
+          "date": "17 Aug 2026",
+          "title": "MINERVA — Modular Integration of Naval Energy Systems for Resilient Vessels Application",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+        },
+        {
+          "date": "06 Dec 2024",
+          "title": "MARTE — Main ARmoured Tank of Europe",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+        },
+        {
+          "date": "23 Jul 2024",
+          "title": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/441846-2024"
+        },
+        {
+          "date": "29 May 2024",
+          "title": "Contract award by HIL Heeresinstandsetzungslogistik GmbH",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/318297-2024"
+        },
+        {
+          "date": "15 Feb 2024",
+          "title": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/96561-2024"
+        },
+        {
+          "date": "31 Jan 2024",
+          "title": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/65027-2024"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "RENK GmbH is a German company registered in 2020, with its seat in Augsburg. It takes part in 2 European Defence Fund projects (2024–2026). Of these, 2 ongoing, EU funding to the company €1.3M. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (23 Jul 2024). EU procurement records (TED) list a contract award by HIL Heeresinstandsetzungslogistik GmbH (29 May 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung (15 Feb 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (31 Jan 2024).",
+        "overview": "RENK GmbH is a German company registered in 2020, with its seat in Augsburg. It takes part in 2 European Defence Fund projects (2024–2026). Of these, 2 ongoing, EU funding to the company €1.3M. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (23 Jul 2024). EU procurement records (TED) list a contract award by HIL Heeresinstandsetzungslogistik GmbH (29 May 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung (15 Feb 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (31 Jan 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2020",
+            "Registered"
+          ],
+          [
+            "Augsburg, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 894500DAJJ2W78HOJY11",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2020",
+            "Registered"
+          ],
+          [
+            "Augsburg, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 894500DAJJ2W78HOJY11",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "MINERVA — Modular Integration of Naval Energy Systems for Resilient Vessels Application",
+            "sub": "Participant · EU funding €1.1M of €19.7M · 25 partners · 2026–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "17 Aug 2026",
+            "desc": "EDF EDF-2025-LS-RA-SI-ENERENV-NH2PS-STEP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+          },
+          {
+            "title": "MARTE — Main ARmoured Tank of Europe",
+            "sub": "Participant · EU funding €167K of €20.0M · 51 partners · 2024–2026",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "06 Dec 2024",
+            "desc": "EDF EDF-2023-DA-GROUND-MBT",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 441846-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "23 Jul 2024",
+            "desc": "TED notice 441846-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · HIL Heeresinstandsetzungslogistik GmbH",
+            "sub": "TED notice 318297-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "29 May 2024",
+            "desc": "TED notice 318297-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "sub": "TED notice 96561-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "15 Feb 2024",
+            "desc": "TED notice 96561-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 65027-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "31 Jan 2024",
+            "desc": "TED notice 65027-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "MINERVA — Modular Integration of Naval Energy Systems for Resilient Vessels Application",
+            "sub": "Participant · EU funding €1.1M of €19.7M · 25 partners · 2026–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "17 Aug 2026",
+            "desc": "EDF EDF-2025-LS-RA-SI-ENERENV-NH2PS-STEP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+          },
+          {
+            "title": "MARTE — Main ARmoured Tank of Europe",
+            "sub": "Participant · EU funding €167K of €20.0M · 51 partners · 2024–2026",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "06 Dec 2024",
+            "desc": "EDF EDF-2023-DA-GROUND-MBT",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 441846-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "23 Jul 2024",
+            "desc": "TED notice 441846-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · HIL Heeresinstandsetzungslogistik GmbH",
+            "sub": "TED notice 318297-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "29 May 2024",
+            "desc": "TED notice 318297-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "HIL Heeresinstandsetzungslogistik GmbH",
+            "role": "Customer · TED award",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "role": "Customer · TED award",
+            "x": 0.9,
+            "y": 0.45,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.18,
+            "y": 0.84,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "HIL Heeresinstandsetzungslogistik GmbH",
+            "role": "Customer · TED award",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "role": "Customer · TED award",
+            "x": 0.9,
+            "y": 0.45,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.18,
+            "y": 0.84,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity RENK GmbH, LEI 894500DAJJ2W78HOJY11",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/894500DAJJ2W78HOJY11"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101302020",
+          "sources": 1,
+          "date": "17 Aug 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167893",
+          "sources": 1,
+          "date": "06 Dec 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+        },
+        {
+          "claim": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (TED 441846-2024)",
+          "sources": 1,
+          "date": "23 Jul 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/441846-2024"
+        },
+        {
+          "claim": "Contract award by HIL Heeresinstandsetzungslogistik GmbH (TED 318297-2024)",
+          "sources": 1,
+          "date": "29 May 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/318297-2024"
+        },
+        {
+          "claim": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung (TED 96561-2024)",
+          "sources": 1,
+          "date": "15 Feb 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/96561-2024"
+        },
+        {
+          "claim": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (TED 65027-2024)",
+          "sources": 1,
+          "date": "31 Jan 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/65027-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Augsburg",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "RENK GmbH is a German company registered in 2020, with its seat in Augsburg. It takes part in 2 European Defence Fund projects (2024–2026). Of these, 2 ongoing, EU funding to the company €1.3M. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (23 Jul 2024). EU procurement records (TED) list a contract award by HIL Heeresinstandsetzungslogistik GmbH (29 May 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung (15 Feb 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (31 Jan 2024).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "€1.3M",
+            "label": "EU defence funding to the company",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "2",
+            "label": "European Defence Fund projects",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "2",
+            "label": "ongoing now",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "71",
+            "label": "organisations it shares EDF projects with",
+            "src": [
+              2,
+              3
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "2020",
+            "Registered",
+            null
+          ],
+          [
+            "Augsburg, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 894500DAJJ2W78HOJY11",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "MINERVA — Modular Integration of Naval Energy Systems for Resilient Vessels Application",
+            "sub": "Participant · EU funding €1.1M of €19.7M · 25 partners · 2026–2029",
+            "status": "Grant · Ongoing",
+            "date": "17 Aug 2026",
+            "iso": "2026-08-17",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "MARTE — Main ARmoured Tank of Europe",
+            "sub": "Participant · EU funding €167K of €20.0M · 51 partners · 2024–2026",
+            "status": "Grant · Ongoing",
+            "date": "06 Dec 2024",
+            "iso": "2024-12-06",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 65027-2024",
+            "status": "Contract award",
+            "date": "31 Jan 2024",
+            "iso": "2024-01-31",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "sub": "TED notice 96561-2024",
+            "status": "Contract award",
+            "date": "15 Feb 2024",
+            "iso": "2024-02-15",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Contract award · HIL Heeresinstandsetzungslogistik GmbH",
+            "sub": "TED notice 318297-2024",
+            "status": "Contract award",
+            "date": "29 May 2024",
+            "iso": "2024-05-29",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 441846-2024",
+            "status": "Contract award",
+            "date": "23 Jul 2024",
+            "iso": "2024-07-23",
+            "ongoing": false,
+            "src": 4
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "2 grants · €1.3M",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "group",
+            "name": "Renk Magnet-Motor Gmbh",
+            "country": "DE",
+            "src": [
+              3
+            ],
+            "sub": "Group entity · in MARTE",
+            "status": "verified"
+          },
+          {
+            "type": "partner",
+            "name": "CAFA TECH OU",
+            "country": "EE",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "research",
+            "name": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",
+            "country": "NL",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "AISENT SRL",
+            "country": "IT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "BAE SYSTEMS BOFORS AB",
+            "country": "SE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "research",
+            "name": "BALTIJOS PAZANGIU TECHNOLOGIJU INSTITUTAS",
+            "country": "LT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "CENTRO DE EXCELENCIA PID RD SA",
+            "country": "ES",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "CETENA SPA CENTRO PER GLI STUDI DI TECNICA NAVALE",
+            "country": "IT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "CIVITANAVI SYSTEMS SPA",
+            "country": "IT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 894500DAJJ2W78HOJY11",
+            "url": "https://api.gleif.org/api/v1/lei-records/894500DAJJ2W78HOJY11"
+          },
+          {
+            "title": "EU Funding & Tenders portal · MINERVA",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · MARTE",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+          },
+          {
+            "title": "TED notice 441846-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/441846-2024"
+          },
+          {
+            "title": "TED notice 318297-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/318297-2024"
+          },
+          {
+            "title": "TED notice 96561-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/96561-2024"
+          },
+          {
+            "title": "TED notice 65027-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/65027-2024"
+          }
+        ]
+      },
+      "card_hash": "7acfe92529321c47"
+    },
+    "zf-friedrichshafen-ag": {
+      "developments": [
+        {
+          "date": "25 Sep 2024",
+          "title": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/576333-2024"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "ZF Friedrichshafen AG is a German company registered in 1921, with its seat in Friedrichshafen. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung (25 Sep 2024).",
+        "overview": "ZF Friedrichshafen AG is a German company registered in 1921, with its seat in Friedrichshafen. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung (25 Sep 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1921",
+            "Registered"
+          ],
+          [
+            "Friedrichshafen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900CAYOWB8YIG7X25",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1921",
+            "Registered"
+          ],
+          [
+            "Friedrichshafen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900CAYOWB8YIG7X25",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "sub": "TED notice 576333-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "25 Sep 2024",
+            "desc": "TED notice 576333-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "sub": "TED notice 576333-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "25 Sep 2024",
+            "desc": "TED notice 576333-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ZF Friedrichshafen AG, LEI 529900CAYOWB8YIG7X25",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900CAYOWB8YIG7X25"
+        },
+        {
+          "claim": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung (TED 576333-2024)",
+          "sources": 1,
+          "date": "25 Sep 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/576333-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Friedrichshafen",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ZF Friedrichshafen AG is a German company registered in 1921, with its seat in Friedrichshafen. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung (25 Sep 2024).",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "1",
+            "label": "contract awards on record",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "1921",
+            "Registered",
+            null
+          ],
+          [
+            "Friedrichshafen, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900CAYOWB8YIG7X25",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "sub": "TED notice 576333-2024",
+            "status": "Contract award",
+            "date": "25 Sep 2024",
+            "iso": "2024-09-25",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "HENSOLDT AG",
+            "country": "DE",
+            "in_catalogue": true,
+            "sub": "Customer · reported, not confirmed",
+            "status": "candidate",
+            "quote": "Wie Hensoldt in einer Mitteilung weiter schreibt, werde ZF eine skalierbare Serienfertigung für Spexer-Radare aufbauen und so die Produktionskapazitäten von Hensoldt erweitern.",
+            "src": [
+              3
+            ]
+          }
+        ],
+        "products": [
+          {
+            "name": "Spexer-Radare",
+            "role": "makes",
+            "status": "candidate",
+            "quote": "Der deutsche Sensorspezialist Hensoldt und die ZF Friedrichshafen AG haben gestern eine Kooperationsvereinbarung zum Bau von Spexer-Radaren unterschrieben.",
+            "src": [
+              3
+            ]
+          }
+        ],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900CAYOWB8YIG7X25",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900CAYOWB8YIG7X25"
+          },
+          {
+            "title": "TED notice 576333-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/576333-2024"
+          },
+          {
+            "title": "hartpunkt.de",
+            "url": "https://www.hartpunkt.de/hensoldt-laesst-spexer-radare-zur-drohnenabwehr-bei-zf-bauen/"
+          }
+        ]
+      },
+      "card_hash": "3994e5bf8b413ae1"
     }
   }
 }
