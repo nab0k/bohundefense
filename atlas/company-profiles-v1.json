@@ -124212,6 +124212,844 @@
         ]
       },
       "card_hash": "1c4ea3dd138a988e"
+    },
+    "exail-robotics-belgium": {
+      "developments": [
+        {
+          "date": "18 Nov 2024",
+          "title": "European Defence Fund project 101167894",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167894/EDF"
+        }
+      ],
+      "country": "BE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Exail Robotics Belgium is a Belgian company registered in 2018, with its seat in Moeskroen. It takes part in 1 European Defence Fund project (2024).",
+        "overview": "Exail Robotics Belgium is a Belgian company registered in 2018, with its seat in Moeskroen. It takes part in 1 European Defence Fund project (2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2018",
+            "Registered"
+          ],
+          [
+            "Moeskroen, Belgium",
+            "Headquarters"
+          ],
+          [
+            "LEI 6994002M62NVI09D1P25",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2018",
+            "Registered"
+          ],
+          [
+            "Moeskroen, Belgium",
+            "Headquarters"
+          ],
+          [
+            "LEI 6994002M62NVI09D1P25",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101167894",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "18 Nov 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167894/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101167894",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "18 Nov 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167894/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Exail Robotics Belgium, LEI 6994002M62NVI09D1P25",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/6994002M62NVI09D1P25"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167894",
+          "sources": 1,
+          "date": "18 Nov 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167894/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Moeskroen",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Exail Robotics Belgium is a Belgian company registered in 2018, with its seat in Moeskroen. It takes part in 1 European Defence Fund project (2024).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2018",
+            "Registered",
+            null
+          ],
+          [
+            "Moeskroen, Belgium",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 6994002M62NVI09D1P25",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101167894",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "18 Nov 2024",
+            "iso": "2024-11-18",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 6994002M62NVI09D1P25",
+            "url": "https://api.gleif.org/api/v1/lei-records/6994002M62NVI09D1P25"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101167894",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167894/EDF"
+          }
+        ]
+      },
+      "card_hash": "ab9c3e62ebbe5dd1"
+    },
+    "eurospike-gmbh": {
+      "developments": [
+        {
+          "date": "09 Apr 2024",
+          "title": "Contract award by National Company Romtehnica S.A.",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/207012-2024"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · verified · relevant competence, no military sale on record"
+        ]
+      ],
+      "about": {
+        "workspace": "EuroSpike GmbH is a German company registered in 2004, with its seat in Röthenbach An Der Pegnitz. EU procurement records (TED) list a contract award by National Company Romtehnica S.A. (09 Apr 2024).",
+        "overview": "EuroSpike GmbH is a German company registered in 2004, with its seat in Röthenbach An Der Pegnitz. EU procurement records (TED) list a contract award by National Company Romtehnica S.A. (09 Apr 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2004",
+            "Registered"
+          ],
+          [
+            "Röthenbach An Der Pegnitz, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900IQ7MRH2WRZAK27",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2004",
+            "Registered"
+          ],
+          [
+            "Röthenbach An Der Pegnitz, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900IQ7MRH2WRZAK27",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · National Company Romtehnica S.A.",
+            "sub": "TED notice 207012-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "09 Apr 2024",
+            "desc": "TED notice 207012-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · National Company Romtehnica S.A.",
+            "sub": "TED notice 207012-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "09 Apr 2024",
+            "desc": "TED notice 207012-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "National Company Romtehnica S.A.",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "National Company Romtehnica S.A.",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity EuroSpike GmbH, LEI 529900IQ7MRH2WRZAK27",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900IQ7MRH2WRZAK27"
+        },
+        {
+          "claim": "Contract award by National Company Romtehnica S.A. (TED 207012-2024)",
+          "sources": 1,
+          "date": "09 Apr 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/207012-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Röthenbach An Der Pegnitz",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "EuroSpike GmbH is a German company registered in 2004, with its seat in Röthenbach An Der Pegnitz. EU procurement records (TED) list a contract award by National Company Romtehnica S.A. (09 Apr 2024).",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "1",
+            "label": "contract awards on record",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "2004",
+            "Registered",
+            null
+          ],
+          [
+            "Röthenbach An Der Pegnitz, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900IQ7MRH2WRZAK27",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract award · National Company Romtehnica S.A.",
+            "sub": "TED notice 207012-2024",
+            "status": "Contract award",
+            "date": "09 Apr 2024",
+            "iso": "2024-04-09",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900IQ7MRH2WRZAK27",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900IQ7MRH2WRZAK27"
+          },
+          {
+            "title": "TED notice 207012-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/207012-2024"
+          }
+        ]
+      },
+      "card_hash": "52a30863f0e5db7d"
+    },
+    "exide-technologies-gmbh": {
+      "developments": [
+        {
+          "date": "19 Jul 2024",
+          "title": "Contract award by HIL Heeresinstandsetzungslogistik GmbH",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/435546-2024"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · verified · relevant competence, no military sale on record"
+        ]
+      ],
+      "about": {
+        "workspace": "Exide Technologies GmbH is a German company registered in 2002, with its seat in Büdingen. EU procurement records (TED) list a contract award by HIL Heeresinstandsetzungslogistik GmbH (19 Jul 2024).",
+        "overview": "Exide Technologies GmbH is a German company registered in 2002, with its seat in Büdingen. EU procurement records (TED) list a contract award by HIL Heeresinstandsetzungslogistik GmbH (19 Jul 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2002",
+            "Registered"
+          ],
+          [
+            "Büdingen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 52990013DI2TVUK0H824",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2002",
+            "Registered"
+          ],
+          [
+            "Büdingen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 52990013DI2TVUK0H824",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · HIL Heeresinstandsetzungslogistik GmbH",
+            "sub": "TED notice 435546-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "19 Jul 2024",
+            "desc": "TED notice 435546-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · HIL Heeresinstandsetzungslogistik GmbH",
+            "sub": "TED notice 435546-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "19 Jul 2024",
+            "desc": "TED notice 435546-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "HIL Heeresinstandsetzungslogistik GmbH",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "HIL Heeresinstandsetzungslogistik GmbH",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Exide Technologies GmbH, LEI 52990013DI2TVUK0H824",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/52990013DI2TVUK0H824"
+        },
+        {
+          "claim": "Contract award by HIL Heeresinstandsetzungslogistik GmbH (TED 435546-2024)",
+          "sources": 1,
+          "date": "19 Jul 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/435546-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Büdingen",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Exide Technologies GmbH is a German company registered in 2002, with its seat in Büdingen. EU procurement records (TED) list a contract award by HIL Heeresinstandsetzungslogistik GmbH (19 Jul 2024).",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "1",
+            "label": "contract awards on record",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "2002",
+            "Registered",
+            null
+          ],
+          [
+            "Büdingen, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 52990013DI2TVUK0H824",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract award · HIL Heeresinstandsetzungslogistik GmbH",
+            "sub": "TED notice 435546-2024",
+            "status": "Contract award",
+            "date": "19 Jul 2024",
+            "iso": "2024-07-19",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 52990013DI2TVUK0H824",
+            "url": "https://api.gleif.org/api/v1/lei-records/52990013DI2TVUK0H824"
+          },
+          {
+            "title": "TED notice 435546-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/435546-2024"
+          }
+        ]
+      },
+      "card_hash": "81d4d1c0b7a7ce9d"
+    },
+    "edrivelab-s-r-l": {
+      "developments": [
+        {
+          "date": "04 Aug 2026",
+          "title": "European Defence Fund project 101304558",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304558/EDF"
+        }
+      ],
+      "country": "IT",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "EDRIVELAB S.R.L. is a Italian company registered in 2017, with its seat in Collecchio. It takes part in 1 European Defence Fund project (2026).",
+        "overview": "EDRIVELAB S.R.L. is a Italian company registered in 2017, with its seat in Collecchio. It takes part in 1 European Defence Fund project (2026)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2017",
+            "Registered"
+          ],
+          [
+            "Collecchio, Italy",
+            "Headquarters"
+          ],
+          [
+            "LEI 8156009E8823E4B5DF49",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2017",
+            "Registered"
+          ],
+          [
+            "Collecchio, Italy",
+            "Headquarters"
+          ],
+          [
+            "LEI 8156009E8823E4B5DF49",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101304558",
+            "sub": "EU defence research and development · call EDF-2025-LS-RA-DIS",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "04 Aug 2026",
+            "desc": "Call EDF-2025-LS-RA-DIS",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304558/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101304558",
+            "sub": "EU defence research and development · call EDF-2025-LS-RA-DIS",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "04 Aug 2026",
+            "desc": "Call EDF-2025-LS-RA-DIS",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304558/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity EDRIVELAB S.R.L., LEI 8156009E8823E4B5DF49",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/8156009E8823E4B5DF49"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101304558",
+          "sources": 1,
+          "date": "04 Aug 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304558/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Collecchio",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "EDRIVELAB S.R.L. is a Italian company registered in 2017, with its seat in Collecchio. It takes part in 1 European Defence Fund project (2026).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2017",
+            "Registered",
+            null
+          ],
+          [
+            "Collecchio, Italy",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 8156009E8823E4B5DF49",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101304558",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "04 Aug 2026",
+            "iso": "2026-08-04",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 8156009E8823E4B5DF49",
+            "url": "https://api.gleif.org/api/v1/lei-records/8156009E8823E4B5DF49"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101304558",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304558/EDF"
+          }
+        ]
+      },
+      "card_hash": "56f1b1dbfe5b9fdd"
     }
   }
 }
