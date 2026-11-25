@@ -80030,8 +80030,8 @@
         ]
       ],
       "about": {
-        "workspace": "LOCKHEED MARTIN CORPORATION is a US company, with its seat in Fort Worth. US federal spending records show US$47.2B obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 5,100 contracts; the largest customer is the Department of the Navy.",
-        "overview": "LOCKHEED MARTIN CORPORATION is a US company, with its seat in Fort Worth. US federal spending records show US$47.2B obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 5,100 contracts; the largest customer is the Department of the Navy."
+        "workspace": "LOCKHEED MARTIN CORPORATION is a US company, with its seat in Fort Worth. US federal spending records show US$40.1B obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 1,271 contracts; the largest customer is the Department of the Navy.",
+        "overview": "LOCKHEED MARTIN CORPORATION is a US company, with its seat in Fort Worth. US federal spending records show US$40.1B obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 1,271 contracts; the largest customer is the Department of the Navy."
       },
       "facts": {
         "workspace": [
@@ -80110,27 +80110,27 @@
       ],
       "page": {
         "v": 2,
-        "lead": "LOCKHEED MARTIN CORPORATION is a US company, with its seat in Fort Worth. US federal spending records show US$47.2B obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 5,100 contracts; the largest customer is the Department of the Navy.",
+        "lead": "LOCKHEED MARTIN CORPORATION is a US company, with its seat in Fort Worth. US federal spending records show US$40.1B obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 1,271 contracts; the largest customer is the Department of the Navy.",
         "lead_src": [
           1
         ],
         "figures": [
           {
-            "value": "US$47.2B",
-            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "value": "US$40.1B",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026",
             "src": [
               1
             ]
           },
           {
-            "value": "5,100",
+            "value": "1,271",
             "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
             "src": [
               1
             ]
           },
           {
-            "value": "US$17.8B",
+            "value": "US$17.0B",
             "label": "largest customer: Department of the Navy",
             "src": [
               1
@@ -80214,12 +80214,12 @@
             "src": 8
           },
           {
-            "title": "FOLLOW-ON agile sustainment to the raptor (FASTER)",
-            "sub": "Defense Contract Management Agency · US$8.8B · 2008–2024",
+            "title": "FY21-23 global F-35 AIR system sustainment",
+            "sub": "Department of the Navy · US$7.9B · 2020–2027",
             "status": "Contract",
-            "date": "01 Jan 2008",
-            "iso": "2008-01-01",
-            "ongoing": false,
+            "date": "31 Dec 2020",
+            "iso": "2020-12-31",
+            "ongoing": true,
             "src": 9
           }
         ],
@@ -80227,7 +80227,7 @@
           {
             "type": "customer",
             "name": "Department of the Navy",
-            "sub": "Customer · US$107.7B · 3 contracts",
+            "sub": "Customer · US$114.8B · 4 contracts",
             "status": "verified",
             "src": [
               1,
@@ -80240,7 +80240,7 @@
           {
             "type": "customer",
             "name": "Department of the Army",
-            "sub": "Customer · US$38.2B · 2 contracts",
+            "sub": "Customer · US$35.6B · 2 contracts",
             "status": "verified",
             "src": [
               1,
@@ -80252,18 +80252,8 @@
           },
           {
             "type": "customer",
-            "name": "Defense Contract Management Agency",
-            "sub": "Customer · US$21.1B · 2 contracts",
-            "status": "verified",
-            "src": [
-              5,
-              9
-            ]
-          },
-          {
-            "type": "customer",
             "name": "Missile Defense Agency",
-            "sub": "Customer · US$15.3B · 1 contract",
+            "sub": "Customer · US$14.8B · 1 contract",
             "status": "verified",
             "src": [
               1,
@@ -80272,8 +80262,17 @@
           },
           {
             "type": "customer",
+            "name": "Defense Contract Management Agency",
+            "sub": "Customer · US$12.3B · 1 contract",
+            "status": "verified",
+            "src": [
+              5
+            ]
+          },
+          {
+            "type": "customer",
             "name": "Department of the Air Force",
-            "sub": "Customer · US$5.8B",
+            "sub": "Customer · US$3.4B",
             "status": "verified",
             "src": [
               1,
@@ -80283,8 +80282,8 @@
           },
           {
             "type": "customer",
-            "name": "U.S. Special Operations Command",
-            "sub": "Customer · US$724.7M",
+            "name": "Defense Advanced Research Projects Agency",
+            "sub": "Customer · US$245.9M",
             "status": "verified",
             "src": [
               1
@@ -80625,8 +80624,8 @@
             "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q24C0022_9700_-NONE-_-NONE-"
           },
           {
-            "title": "USAspending.gov · FA861108C2897",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_FA861108C2897_9700_-NONE-_-NONE-"
+            "title": "USAspending.gov · N0001921C0020",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001921C0020_9700_-NONE-_-NONE-"
           },
           {
             "title": "USAspending.gov · sub-award",
@@ -80742,7 +80741,7 @@
           }
         ]
       },
-      "card_hash": "0b932362526b1461"
+      "card_hash": "1072b03cf2112e18"
     },
     "echodyne-corp": {
       "developments": [],
@@ -81003,8 +81002,8 @@
         ]
       ],
       "about": {
-        "workspace": "GRID AERO, INC. is a US company, with its seat in San Leandro. US federal spending records show US$75K obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 1 contracts; the largest customer is the Department of the Air Force.",
-        "overview": "GRID AERO, INC. is a US company, with its seat in San Leandro. US federal spending records show US$75K obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 1 contracts; the largest customer is the Department of the Air Force."
+        "workspace": "GRID AERO, INC. is a US company, with its seat in San Leandro. US federal spending records show US$75K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 1 contracts; the largest customer is the Department of the Air Force.",
+        "overview": "GRID AERO, INC. is a US company, with its seat in San Leandro. US federal spending records show US$75K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 1 contracts; the largest customer is the Department of the Air Force."
       },
       "facts": {
         "workspace": [
@@ -81083,14 +81082,14 @@
       ],
       "page": {
         "v": 2,
-        "lead": "GRID AERO, INC. is a US company, with its seat in San Leandro. US federal spending records show US$75K obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 1 contracts; the largest customer is the Department of the Air Force.",
+        "lead": "GRID AERO, INC. is a US company, with its seat in San Leandro. US federal spending records show US$75K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 1 contracts; the largest customer is the Department of the Air Force.",
         "lead_src": [
           1
         ],
         "figures": [
           {
             "value": "US$75K",
-            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all Department of the Air Force",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026, almost all Department of the Air Force",
             "src": [
               1
             ]
@@ -81179,7 +81178,7 @@
           }
         ]
       },
-      "card_hash": "081072340804640f"
+      "card_hash": "195378305f9bfc62"
     },
     "spirit-aerosystems": {
       "developments": [],
