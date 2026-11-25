@@ -15308,7 +15308,7 @@
       "developments": [
         {
           "date": "23 Sep 2026",
-          "title": "SPIRIT — Small Pitch Improved Resolution for Infrared Technology",
+          "title": "European Defence Fund project 101304763",
           "tags": [
             "EDF"
           ],
@@ -15317,7 +15317,7 @@
         },
         {
           "date": "16 Dec 2024",
-          "title": "ECOSYSTEM — European COmon SupplY chain for Sovereign T2SL and infrarEd Modules.",
+          "title": "European Defence Fund project 101167777",
           "tags": [
             "EDF"
           ],
@@ -15337,8 +15337,8 @@
         ]
       ],
       "about": {
-        "workspace": "LYNRED is a French company registered in 1986, with its seat in Veurey-Voroize. It takes part in 2 European Defence Fund projects (2024–2026). Of these, coordinates 1, 1 ongoing, EU funding to the company €7.4M.",
-        "overview": "LYNRED is a French company registered in 1986, with its seat in Veurey-Voroize. It takes part in 2 European Defence Fund projects (2024–2026). Of these, coordinates 1, 1 ongoing, EU funding to the company €7.4M."
+        "workspace": "LYNRED is a French company registered in 1986, with its seat in Veurey-Voroize. It takes part in 2 European Defence Fund projects (2024–2026).",
+        "overview": "LYNRED is a French company registered in 1986, with its seat in Veurey-Voroize. It takes part in 2 European Defence Fund projects (2024–2026)."
       },
       "facts": {
         "workspace": [
@@ -15383,51 +15383,172 @@
       "programmes": {
         "workspace": [
           {
-            "title": "ECOSYSTEM — European COmon SupplY chain for Sovereign T2SL and infrarEd Modules.",
-            "sub": "Participant · EU funding €890K of €20.0M · 15 partners · 2024–2027",
-            "status": "Grant · Ongoing",
-            "icon": "coins",
-            "date": "16 Dec 2024",
-            "desc": "EDF EDF-2023-RA-SENS-OPTD",
-            "color": "orange",
-            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167777/EDF"
-          },
-          {
-            "title": "SPIRIT — Small Pitch Improved Resolution for Infrared Technology",
-            "sub": "Coordinator · EU funding €6.5M of €29.0M · 15 partners · 2026–2030",
-            "status": "Grant · Forthcoming",
+            "title": "European Defence Fund project 101304763",
+            "sub": "EU defence research and development · call EDF-2025-DA",
+            "status": "Grant",
             "icon": "coins",
             "date": "23 Sep 2026",
-            "desc": "EDF EDF-2025-DA-SENS-IRD-STEP",
+            "desc": "Call EDF-2025-DA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304763/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101167777",
+            "sub": "EU defence research and development · call EDF-2023-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "16 Dec 2024",
+            "desc": "Call EDF-2023-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167777/EDF"
           }
         ],
         "overview": [
           {
-            "title": "ECOSYSTEM — European COmon SupplY chain for Sovereign T2SL and infrarEd Modules.",
-            "sub": "Participant · EU funding €890K of €20.0M · 15 partners · 2024–2027",
-            "status": "Grant · Ongoing",
-            "icon": "coins",
-            "date": "16 Dec 2024",
-            "desc": "EDF EDF-2023-RA-SENS-OPTD",
-            "color": "orange",
-            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167777/EDF"
-          },
-          {
-            "title": "SPIRIT — Small Pitch Improved Resolution for Infrared Technology",
-            "sub": "Coordinator · EU funding €6.5M of €29.0M · 15 partners · 2026–2030",
-            "status": "Grant · Forthcoming",
+            "title": "European Defence Fund project 101304763",
+            "sub": "EU defence research and development · call EDF-2025-DA",
+            "status": "Grant",
             "icon": "coins",
             "date": "23 Sep 2026",
-            "desc": "EDF EDF-2025-DA-SENS-IRD-STEP",
+            "desc": "Call EDF-2025-DA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304763/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101167777",
+            "sub": "EU defence research and development · call EDF-2023-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "16 Dec 2024",
+            "desc": "Call EDF-2023-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167777/EDF"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "CAPT640-02",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "YOCTO1024",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "SPACE SIROCCO SW",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "ARGO MW SL",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "SEEGNUS MW SL",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "GALATEA MW SL",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "EOLE MW",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "PICO640S BB 7-14",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "ATI640",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "EYESENTIAL SW",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "ATTO256-02",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "CAPT640-02",
+              "The CAPT640-02 thermal image sensor, the result of over 20 years of expertise in microbolometer technology, enhances the perception capabili",
+              "grey"
+            ],
+            [
+              "YOCTO1024",
+              "YOCTO1024 A compact thermal sensor offering a high‑resolution image",
+              "grey"
+            ],
+            [
+              "SPACE SIROCCO SW",
+              "SPACE SIROCCO SW Starring array infrared detector for new space hyperspectral and spectroscopy imaging applications",
+              "grey"
+            ],
+            [
+              "ARGO MW SL",
+              "ARGO MW SL The new VGA solution for photon limited conditions",
+              "grey"
+            ],
+            [
+              "SEEGNUS MW SL",
+              "SEEGNUS MW SL The first 7.5µm pitch SXGA detector within the PlugUp platform",
+              "grey"
+            ],
+            [
+              "GALATEA MW SL",
+              "GALATEA MW SL The first SWAP detector within the PlugUp platform",
+              "grey"
+            ],
+            [
+              "EOLE MW",
+              "EOLE MW The new VGA sensor for Optical Gas Imaging (OGI) applications",
+              "grey"
+            ],
+            [
+              "PICO640S BB 7-14",
+              "PICO640S BB 7-14 Designed to reduce your environmental impact with optical gas imaging",
+              "grey"
+            ],
+            [
+              "ATI640",
+              "ATI640 Ready to sense, Ready to image",
+              "grey"
+            ],
+            [
+              "EYESENTIAL SW",
+              "EYESENTIAL SW See beyond what is visible",
+              "grey"
+            ],
+            [
+              "ATTO256-02",
+              "ATTO256-02 Higher sensitivity for limitless applications",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -15493,45 +15614,12 @@
       ],
       "page": {
         "v": 2,
-        "lead": "LYNRED is a French company registered in 1986, with its seat in Veurey-Voroize. It takes part in 2 European Defence Fund projects (2024–2026). Of these, coordinates 1, 1 ongoing, EU funding to the company €7.4M.",
+        "lead": "LYNRED is a French company registered in 1986, with its seat in Veurey-Voroize. It takes part in 2 European Defence Fund projects (2024–2026).",
         "lead_src": [
           1,
           2
         ],
-        "figures": [
-          {
-            "value": "€7.4M",
-            "label": "EU defence funding to the company",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "value": "2",
-            "label": "European Defence Fund projects",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "value": "1",
-            "label": "ongoing now",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "value": "1",
-            "label": "projects it coordinates",
-            "src": [
-              2,
-              3
-            ]
-          }
-        ],
+        "figures": [],
         "facts": [
           [
             "1986",
@@ -15551,18 +15639,18 @@
         ],
         "activity": [
           {
-            "title": "ECOSYSTEM — European COmon SupplY chain for Sovereign T2SL and infrarEd Modules.",
-            "sub": "Participant · EU funding €890K of €20.0M · 15 partners · 2024–2027",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101167777",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "16 Dec 2024",
             "iso": "2024-12-16",
-            "ongoing": true,
+            "ongoing": false,
             "src": 3
           },
           {
-            "title": "SPIRIT — Small Pitch Improved Resolution for Infrared Technology",
-            "sub": "Coordinator · EU funding €6.5M of €29.0M · 15 partners · 2026–2030",
-            "status": "Grant · Forthcoming",
+            "title": "European Defence Fund project 101304763",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "23 Sep 2026",
             "iso": "2026-09-23",
             "ongoing": false,
@@ -15573,90 +15661,7 @@
           {
             "type": "funder",
             "name": "European Commission · European Defence Fund",
-            "sub": "2 grants · €7.4M",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "AIM INFRAROT-MODULE GMBH",
-            "country": "DE",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "type": "research",
-            "name": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
-            "country": "FR",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "EXOSENS ADVANCED IMAGING BELGIUM",
-            "country": "BE",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "COMPTEK SOLUTIONS OY",
-            "country": "FI",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              3
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "E4 DEFENSE SYSTEMS SL",
-            "country": "ES",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "ENSEMBLE3 SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
-            "country": "PL",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              3
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "ESCRIBANO MECHANICAL AND ENGINEERING S.L.U.",
-            "country": "ES",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "FALCONERS OU",
-            "country": "EE",
-            "sub": "1 joint EDF project",
+            "sub": "2 grants",
             "status": "verified",
             "src": [
               2
@@ -15664,22 +15669,23 @@
           }
         ],
         "products": [],
+        "news": [],
         "sources": [
           {
             "title": "Company register · SIREN 334835709",
             "url": "https://recherche-entreprises.api.gouv.fr/search?q=334835709"
           },
           {
-            "title": "EU Funding & Tenders portal · SPIRIT",
+            "title": "EU Funding & Tenders portal · 101304763",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304763/EDF"
           },
           {
-            "title": "EU Funding & Tenders portal · ECOSYSTEM",
+            "title": "EU Funding & Tenders portal · 101167777",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167777/EDF"
           }
         ]
       },
-      "card_hash": "2759cd76853534c3"
+      "card_hash": "8d3a0c29e156c1b6"
     },
     "halogen-as": {
       "developments": [
@@ -126316,6 +126322,200 @@
         ]
       },
       "card_hash": "1f7b3a6badace9bc"
+    },
+    "global-logistics-support-gmbh": {
+      "developments": [
+        {
+          "date": "22 Apr 2024",
+          "title": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/238144-2024"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "Global Logistics Support GmbH is a German company, with its seat in Altdöbern. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung (22 Apr 2024).",
+        "overview": "Global Logistics Support GmbH is a German company, with its seat in Altdöbern. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung (22 Apr 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Altdöbern, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900XT9ORER3GYKV94",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Altdöbern, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900XT9ORER3GYKV94",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "sub": "TED notice 238144-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "22 Apr 2024",
+            "desc": "TED notice 238144-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "sub": "TED notice 238144-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "22 Apr 2024",
+            "desc": "TED notice 238144-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Global Logistics Support GmbH, LEI 529900XT9ORER3GYKV94",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900XT9ORER3GYKV94"
+        },
+        {
+          "claim": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung (TED 238144-2024)",
+          "sources": 1,
+          "date": "22 Apr 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/238144-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Altdöbern",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Global Logistics Support GmbH is a German company, with its seat in Altdöbern. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung (22 Apr 2024).",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "1",
+            "label": "contract awards on record",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Altdöbern, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900XT9ORER3GYKV94",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "sub": "TED notice 238144-2024",
+            "status": "Contract award",
+            "date": "22 Apr 2024",
+            "iso": "2024-04-22",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900XT9ORER3GYKV94",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900XT9ORER3GYKV94"
+          },
+          {
+            "title": "TED notice 238144-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/238144-2024"
+          }
+        ]
+      },
+      "card_hash": "4f8619be7b1d1c0f"
     }
   }
 }
