@@ -66841,10 +66841,15 @@
       },
       "productTree": [
         {
-          "label": "Simulaatiot",
+          "label": "jäähdytys-, ilmastointi- ja lämmönhallintalaitteet",
           "level": "L0",
           "icon": "box",
           "selected": true
+        },
+        {
+          "label": "Simulaatiot",
+          "level": "L0",
+          "icon": "box"
         },
         {
           "label": "Kylmäsuunnittelu",
@@ -66864,6 +66869,11 @@
           "dot": "blue",
           "open": true,
           "items": [
+            [
+              "jäähdytys-, ilmastointi- ja lämmönhallintalaitteet",
+              "Lumikko suunnittelee, valmistaa ja huoltaa jäähdytys-, ilmastointi- ja lämmönhallintalaitteet kriittisiin olosuhteisiin puolustusteollisuute",
+              "grey"
+            ],
             [
               "Simulaatiot",
               "Simulaatiot ovat keskeinen osa tuotekehitysprosessiamme, sillä niiden avulla voimme ennakoida ja optimoida tuotteidemme suorituskykyä ennen ",
@@ -66910,7 +66920,43 @@
           "Seinäjoki",
           "Registered office"
         ]
-      ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Lumikko Oy is a Finnish company registered in 1989, with its seat in Seinäjoki.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1989",
+            "Registered",
+            null
+          ],
+          [
+            "Seinäjoki, Finland",
+            "Headquarters",
+            null
+          ],
+          [
+            "Y-tunnus 0750742-9",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · Y-tunnus 0750742-9",
+            "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=0750742-9"
+          }
+        ]
+      },
+      "card_hash": "9bdce402779b8f88"
     },
     "milcon-oy": {
       "developments": [],
@@ -66973,8 +67019,79 @@
         "workspace": [],
         "overview": []
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Antennit ja mastot",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Teholähteet ja invertterit",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "EMC- ja EMP-suodattimet",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Liittimet",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Kaapelit ja johtimet",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Audiolaitteet ja radioiden varusteet",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Antennit ja mastot",
+              "Antennit ja mastot",
+              "grey"
+            ],
+            [
+              "Teholähteet ja invertterit",
+              "Teholähteet ja invertterit",
+              "grey"
+            ],
+            [
+              "EMC- ja EMP-suodattimet",
+              "EMC- ja EMP-suodattimet",
+              "grey"
+            ],
+            [
+              "Liittimet",
+              "Liittimet",
+              "grey"
+            ],
+            [
+              "Kaapelit ja johtimet",
+              "Kaapelit ja johtimet",
+              "grey"
+            ],
+            [
+              "Audiolaitteet ja radioiden varusteet",
+              "Audiolaitteet ja radioiden varusteet",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [],
@@ -67003,7 +67120,43 @@
           "Pirkkala",
           "Registered office"
         ]
-      ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Milcon Oy is a Finnish company registered in 2003, with its seat in Pirkkala.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2003",
+            "Registered",
+            null
+          ],
+          [
+            "Pirkkala, Finland",
+            "Headquarters",
+            null
+          ],
+          [
+            "Y-tunnus 1858118-1",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · Y-tunnus 1858118-1",
+            "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=1858118-1"
+          }
+        ]
+      },
+      "card_hash": "0e2560b499f4389a"
     },
     "nixu-oy": {
       "developments": [
@@ -114684,6 +114837,1291 @@
         ]
       },
       "card_hash": "7e18421c4fbb9118"
+    },
+    "airbus-helicopters-deutschland-gmbh": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "AIRBUS HELICOPTERS DEUTSCHLAND GMBH is a German company registered in 1991, with its seat in Donauwörth.",
+        "overview": "AIRBUS HELICOPTERS DEUTSCHLAND GMBH is a German company registered in 1991, with its seat in Donauwörth."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1991",
+            "Registered"
+          ],
+          [
+            "Donauwörth, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900CT05GZLJ1W5I25",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1991",
+            "Registered"
+          ],
+          [
+            "Donauwörth, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900CT05GZLJ1W5I25",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity AIRBUS HELICOPTERS DEUTSCHLAND GMBH, LEI 529900CT05GZLJ1W5I25",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900CT05GZLJ1W5I25"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Donauwörth",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "AIRBUS HELICOPTERS DEUTSCHLAND GMBH is a German company registered in 1991, with its seat in Donauwörth.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1991",
+            "Registered",
+            null
+          ],
+          [
+            "Donauwörth, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900CT05GZLJ1W5I25",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900CT05GZLJ1W5I25",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900CT05GZLJ1W5I25"
+          }
+        ]
+      },
+      "card_hash": "a4c0fef363a42db9"
+    },
+    "barth-prazisionstechnik-gmbh": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Barth Präzisionstechnik GmbH is a German company, with its seat in Ertingen.",
+        "overview": "Barth Präzisionstechnik GmbH is a German company, with its seat in Ertingen."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Ertingen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900SD40ENW87UNE04",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Ertingen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900SD40ENW87UNE04",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Cellringe",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Leitwerk",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Leitwerksträger",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Adapter",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Surrogate",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Cellringe",
+              "Wir sind europaweit bisher der einzige Serienlieferant für Komponenten der Elektrolysestacks – die Cellringe!",
+              "grey"
+            ],
+            [
+              "Leitwerk",
+              "KOMPONENTEN Leitwerk · Leitwerksträger · Adapter",
+              "grey"
+            ],
+            [
+              "Leitwerksträger",
+              "KOMPONENTEN Leitwerk · Leitwerksträger · Adapter",
+              "grey"
+            ],
+            [
+              "Adapter",
+              "KOMPONENTEN Leitwerk · Leitwerksträger · Adapter",
+              "grey"
+            ],
+            [
+              "Surrogate",
+              "Surrogate",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Barth Präzisionstechnik GmbH, LEI 529900SD40ENW87UNE04",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900SD40ENW87UNE04"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Ertingen",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Barth Präzisionstechnik GmbH is a German company, with its seat in Ertingen.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "Ertingen, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900SD40ENW87UNE04",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900SD40ENW87UNE04",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900SD40ENW87UNE04"
+          }
+        ]
+      },
+      "card_hash": "d87842900a616214"
+    },
+    "bergolin-gmbh-co-kg": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Bergolin GmbH & Co. KG is a German company registered in 1987, with its seat in Osterholz Scharmbeck.",
+        "overview": "Bergolin GmbH & Co. KG is a German company registered in 1987, with its seat in Osterholz Scharmbeck."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1987",
+            "Registered"
+          ],
+          [
+            "Osterholz Scharmbeck, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 391200HQCBTGZ9IB9F25",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1987",
+            "Registered"
+          ],
+          [
+            "Osterholz Scharmbeck, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 391200HQCBTGZ9IB9F25",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "BergoLED Speed Repair System",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Antorit 800 6E800",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "BergoLED Speed Repair System",
+              "Sparen Sie bis zu 90% der Reparaturzeit und arbeiten Sie das ganze Jahr über mit dem neuen BergoLED Speed Repair System",
+              "grey"
+            ],
+            [
+              "Antorit 800 6E800",
+              "Antorit 800 6E800 ist eine oberflächentolerante 2K-Epoxid-Dickschichtbeschichtung für das Unterwasserschiff – für Brack- und Seewasser geeig",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Bergolin GmbH & Co. KG, LEI 391200HQCBTGZ9IB9F25",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/391200HQCBTGZ9IB9F25"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Osterholz Scharmbeck",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Bergolin GmbH & Co. KG is a German company registered in 1987, with its seat in Osterholz Scharmbeck.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1987",
+            "Registered",
+            null
+          ],
+          [
+            "Osterholz Scharmbeck, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 391200HQCBTGZ9IB9F25",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 391200HQCBTGZ9IB9F25",
+            "url": "https://api.gleif.org/api/v1/lei-records/391200HQCBTGZ9IB9F25"
+          }
+        ]
+      },
+      "card_hash": "e6623bcf0fc426ae"
+    },
+    "ensinger-gmbh": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Ensinger GmbH is a German company registered in 1980, with its seat in Nufringen.",
+        "overview": "Ensinger GmbH is a German company registered in 1980, with its seat in Nufringen."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1980",
+            "Registered"
+          ],
+          [
+            "Nufringen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 5299003K15UH52OGV581",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1980",
+            "Registered"
+          ],
+          [
+            "Nufringen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 5299003K15UH52OGV581",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Compounds",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Shapes",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Composites",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Filaments",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Sintered Plastics",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "PI Powder",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Substrates",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Machined parts",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Injection molded parts",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Profiles",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Insulbar",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Customised tubes",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Compounds",
+              "High-Performance Products Compounds Shapes Composites Filaments Sintered Plastics PI Powder Substrates",
+              "grey"
+            ],
+            [
+              "Shapes",
+              "High-Performance Products Compounds Shapes Composites Filaments Sintered Plastics PI Powder Substrates",
+              "grey"
+            ],
+            [
+              "Composites",
+              "High-Performance Products Compounds Shapes Composites Filaments Sintered Plastics PI Powder Substrates",
+              "grey"
+            ],
+            [
+              "Filaments",
+              "High-Performance Products Compounds Shapes Composites Filaments Sintered Plastics PI Powder Substrates",
+              "grey"
+            ],
+            [
+              "Sintered Plastics",
+              "High-Performance Products Compounds Shapes Composites Filaments Sintered Plastics PI Powder Substrates",
+              "grey"
+            ],
+            [
+              "PI Powder",
+              "High-Performance Products Compounds Shapes Composites Filaments Sintered Plastics PI Powder Substrates",
+              "grey"
+            ],
+            [
+              "Substrates",
+              "High-Performance Products Compounds Shapes Composites Filaments Sintered Plastics PI Powder Substrates",
+              "grey"
+            ],
+            [
+              "Machined parts",
+              "finished parts from ensinger Machined parts injection molded parts profiles Insulbar customised tubes Microsystems Direct forming",
+              "grey"
+            ],
+            [
+              "Injection molded parts",
+              "finished parts from ensinger Machined parts injection molded parts profiles Insulbar customised tubes Microsystems Direct forming",
+              "grey"
+            ],
+            [
+              "Profiles",
+              "finished parts from ensinger Machined parts injection molded parts profiles Insulbar customised tubes Microsystems Direct forming",
+              "grey"
+            ],
+            [
+              "Insulbar",
+              "finished parts from ensinger Machined parts injection molded parts profiles Insulbar customised tubes Microsystems Direct forming",
+              "grey"
+            ],
+            [
+              "Customised tubes",
+              "finished parts from ensinger Machined parts injection molded parts profiles Insulbar customised tubes Microsystems Direct forming",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Ensinger GmbH, LEI 5299003K15UH52OGV581",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/5299003K15UH52OGV581"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Nufringen",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Ensinger GmbH is a German company registered in 1980, with its seat in Nufringen.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1980",
+            "Registered",
+            null
+          ],
+          [
+            "Nufringen, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 5299003K15UH52OGV581",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 5299003K15UH52OGV581",
+            "url": "https://api.gleif.org/api/v1/lei-records/5299003K15UH52OGV581"
+          }
+        ]
+      },
+      "card_hash": "83f59bbcae698a45"
+    },
+    "prostep-ag": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "PROSTEP AG is a German company registered in 2001, with its seat in Darmstadt.",
+        "overview": "PROSTEP AG is a German company registered in 2001, with its seat in Darmstadt."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2001",
+            "Registered"
+          ],
+          [
+            "Darmstadt, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 391200IZBLBBXHVCSI80",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2001",
+            "Registered"
+          ],
+          [
+            "Darmstadt, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 391200IZBLBBXHVCSI80",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "OpenPDM INTEGRATE",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "OpenDXM COLLABORATE",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "OpenCLM TRACEABILITY",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "OpenPDM MIGRATE",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "OpenDXM GlobalX SaaS",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "OpenPDM SaaS",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "OpenDESC",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "OpenPDM CCenter",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "OpenPDM SHIP",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "OpenPDM INTEGRATE",
+              "OpenPDM INTEGRATE Connecting Data across all Domains providing consistent Information",
+              "grey"
+            ],
+            [
+              "OpenDXM COLLABORATE",
+              "OpenDXM COLLABORATE Collaboration Platform for Automated, Secure, Cross-Enterprise Data Exchange",
+              "grey"
+            ],
+            [
+              "OpenCLM TRACEABILITY",
+              "OpenCLM TRACEABILITY Built for Regulated Industries: Trust, Compliance, and Control",
+              "grey"
+            ],
+            [
+              "OpenPDM MIGRATE",
+              "OpenPDM MIGRATE PLM Migration for Mergers and Acquisitions (M&A), Consolidation, and Digital Transformation",
+              "grey"
+            ],
+            [
+              "OpenDXM GlobalX SaaS",
+              "PROSTEP SaaS Offering OpenDXM GlobalX SaaS OpenPDM SaaS",
+              "grey"
+            ],
+            [
+              "OpenPDM SaaS",
+              "PROSTEP SaaS Offering OpenDXM GlobalX SaaS OpenPDM SaaS",
+              "grey"
+            ],
+            [
+              "OpenDESC",
+              "OEM and Supplier Solutions OpenDESC OpenPDM CCenter",
+              "grey"
+            ],
+            [
+              "OpenPDM CCenter",
+              "OEM and Supplier Solutions OpenDESC OpenPDM CCenter",
+              "grey"
+            ],
+            [
+              "OpenPDM SHIP",
+              "OpenPDM SHIP – Reliable Integration for Marine, Offshore and Plant Manufacturing Industry",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity PROSTEP AG, LEI 391200IZBLBBXHVCSI80",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/391200IZBLBBXHVCSI80"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Darmstadt",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "PROSTEP AG is a German company registered in 2001, with its seat in Darmstadt.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2001",
+            "Registered",
+            null
+          ],
+          [
+            "Darmstadt, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 391200IZBLBBXHVCSI80",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 391200IZBLBBXHVCSI80",
+            "url": "https://api.gleif.org/api/v1/lei-records/391200IZBLBBXHVCSI80"
+          }
+        ]
+      },
+      "card_hash": "5d5afcf7e70dc10c"
+    },
+    "a-i-m-all-in-metal-gmbh": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "a.i.m. all in metal GmbH is a German company registered in 1993, with its seat in Lengefeld.",
+        "overview": "a.i.m. all in metal GmbH is a German company registered in 1993, with its seat in Lengefeld."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1993",
+            "Registered"
+          ],
+          [
+            "Lengefeld, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900ZQGFJTW5YU5S59",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1993",
+            "Registered"
+          ],
+          [
+            "Lengefeld, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900ZQGFJTW5YU5S59",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity a.i.m. all in metal GmbH, LEI 529900ZQGFJTW5YU5S59",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900ZQGFJTW5YU5S59"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Lengefeld",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "a.i.m. all in metal GmbH is a German company registered in 1993, with its seat in Lengefeld.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1993",
+            "Registered",
+            null
+          ],
+          [
+            "Lengefeld, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900ZQGFJTW5YU5S59",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900ZQGFJTW5YU5S59",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900ZQGFJTW5YU5S59"
+          }
+        ]
+      },
+      "card_hash": "8dca0db4590171e7"
+    },
+    "3deus-dynamics": {
+      "developments": [],
+      "country": "FR",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "3DEUS DYNAMICS is a French company registered in 2020, with its seat in Rillieux-La-Pape.",
+        "overview": "3DEUS DYNAMICS is a French company registered in 2020, with its seat in Rillieux-La-Pape."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2020",
+            "Registered"
+          ],
+          [
+            "Rillieux-La-Pape, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 890216609",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2020",
+            "Registered"
+          ],
+          [
+            "Rillieux-La-Pape, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 890216609",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Modèles anatomiques standard",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Joints & autres pièces Résistance au feu",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Joints & autres pièces Blindage EMI",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Joints & autres pièces Cellule d’aéronef",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Co-développement",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Impression à la demande",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Modèles anatomiques standard",
+              "Nous sommes en mesure de produire des modèles anatomiques standardisés ou patient-spécifiques, ultra-réalistes au toucher, biocompatibles et",
+              "grey"
+            ],
+            [
+              "Joints & autres pièces Résistance au feu",
+              "Joints & autres pièces Résistance au feu",
+              "grey"
+            ],
+            [
+              "Joints & autres pièces Blindage EMI",
+              "Joints & autres pièces Blindage EMI",
+              "grey"
+            ],
+            [
+              "Joints & autres pièces Cellule d’aéronef",
+              "Joints & autres pièces Cellule d’aéronef",
+              "grey"
+            ],
+            [
+              "Co-développement",
+              "Co-développement de produits innovants, avec l’ utilisation de nouveaux matériaux et l’optimisation des prototypes pour améliorer leur répét",
+              "grey"
+            ],
+            [
+              "Impression à la demande",
+              "Un service d’impression à la demande pour des petites et moyennes séries , incluant une unité de production certifiée ISO 13485 pour les app",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity 3DEUS DYNAMICS, SIREN 890216609",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=890216609"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Rillieux-La-Pape",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "3DEUS DYNAMICS is a French company registered in 2020, with its seat in Rillieux-La-Pape.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2020",
+            "Registered",
+            null
+          ],
+          [
+            "Rillieux-La-Pape, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "SIREN 890216609",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · SIREN 890216609",
+            "url": "https://recherche-entreprises.api.gouv.fr/search?q=890216609"
+          }
+        ]
+      },
+      "card_hash": "40491e7f1a255637"
     }
   }
 }
