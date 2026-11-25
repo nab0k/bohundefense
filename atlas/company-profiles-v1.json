@@ -106191,6 +106191,449 @@
         ]
       },
       "card_hash": "6175da8b2c67fa19"
+    },
+    "mbda-espana-sl": {
+      "developments": [
+        {
+          "date": "23 Oct 2026",
+          "title": "EICACS 2 — European Initiative for Collaborative Air Combat Standardisation 2",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304940/EDF"
+        },
+        {
+          "date": "28 Nov 2025",
+          "title": "NEREUS — Naval systEm of systems and integRatEd sUrvivability of future EU platformS",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224749/EDF"
+        },
+        {
+          "date": "19 Dec 2022",
+          "title": "EICACS — European Initiative for Collaborative Air Combat Standardization",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+        }
+      ],
+      "country": "ES",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "MBDA ESPAÑA SL is a Spanish company registered in 2014, with its seat in Madrid. It takes part in 3 European Defence Fund projects (2022–2026). Of these, 2 ongoing, EU funding to the company €1.0M.",
+        "overview": "MBDA ESPAÑA SL is a Spanish company registered in 2014, with its seat in Madrid. It takes part in 3 European Defence Fund projects (2022–2026). Of these, 2 ongoing, EU funding to the company €1.0M."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2014",
+            "Registered"
+          ],
+          [
+            "Madrid, Spain",
+            "Headquarters"
+          ],
+          [
+            "LEI 213800PHRRSB7WQ49T02",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2014",
+            "Registered"
+          ],
+          [
+            "Madrid, Spain",
+            "Headquarters"
+          ],
+          [
+            "LEI 213800PHRRSB7WQ49T02",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "NEREUS — Naval systEm of systems and integRatEd sUrvivability of future EU platformS",
+            "sub": "Partner · EU funding €358K of €45.0M · 36 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "28 Nov 2025",
+            "desc": "EDF EDF-2024-DA-NAVAL-FNP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224749/EDF"
+          },
+          {
+            "title": "EICACS — European Initiative for Collaborative Air Combat Standardization",
+            "sub": "Partner · EU funding €250K of €74.8M · 37 partners · 2022–2026",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "19 Dec 2022",
+            "desc": "EDF EDF-2021-AIR-D-CAC-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+          },
+          {
+            "title": "EICACS 2 — European Initiative for Collaborative Air Combat Standardisation 2",
+            "sub": "Partner · EU funding €402K of €49.0M · 38 partners · 2026–2029",
+            "status": "Grant · Forthcoming",
+            "icon": "coins",
+            "date": "23 Oct 2026",
+            "desc": "EDF EDF-2025-DA-AIR-CAC",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304940/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "NEREUS — Naval systEm of systems and integRatEd sUrvivability of future EU platformS",
+            "sub": "Partner · EU funding €358K of €45.0M · 36 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "28 Nov 2025",
+            "desc": "EDF EDF-2024-DA-NAVAL-FNP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224749/EDF"
+          },
+          {
+            "title": "EICACS — European Initiative for Collaborative Air Combat Standardization",
+            "sub": "Partner · EU funding €250K of €74.8M · 37 partners · 2022–2026",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "19 Dec 2022",
+            "desc": "EDF EDF-2021-AIR-D-CAC-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+          },
+          {
+            "title": "EICACS 2 — European Initiative for Collaborative Air Combat Standardisation 2",
+            "sub": "Partner · EU funding €402K of €49.0M · 38 partners · 2026–2029",
+            "status": "Grant · Forthcoming",
+            "icon": "coins",
+            "date": "23 Oct 2026",
+            "desc": "EDF EDF-2025-DA-AIR-CAC",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304940/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 3 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 3 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity MBDA ESPAÑA SL, LEI 213800PHRRSB7WQ49T02",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/213800PHRRSB7WQ49T02"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101304940",
+          "sources": 1,
+          "date": "23 Oct 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304940/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224749",
+          "sources": 1,
+          "date": "28 Nov 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224749/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103669",
+          "sources": 1,
+          "date": "19 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Madrid",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "MBDA ESPAÑA SL is a Spanish company registered in 2014, with its seat in Madrid. It takes part in 3 European Defence Fund projects (2022–2026). Of these, 2 ongoing, EU funding to the company €1.0M.",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "€1.0M",
+            "label": "EU defence funding to the company",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "value": "3",
+            "label": "European Defence Fund projects",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "value": "2",
+            "label": "ongoing now",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "value": "68",
+            "label": "organisations it shares EDF projects with",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "2014",
+            "Registered",
+            null
+          ],
+          [
+            "Madrid, Spain",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 213800PHRRSB7WQ49T02",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "NEREUS — Naval systEm of systems and integRatEd sUrvivability of future EU platformS",
+            "sub": "Partner · EU funding €358K of €45.0M · 36 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "date": "28 Nov 2025",
+            "iso": "2025-11-28",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "EICACS — European Initiative for Collaborative Air Combat Standardization",
+            "sub": "Partner · EU funding €250K of €74.8M · 37 partners · 2022–2026",
+            "status": "Grant · Ongoing",
+            "date": "19 Dec 2022",
+            "iso": "2022-12-19",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "EICACS 2 — European Initiative for Collaborative Air Combat Standardisation 2",
+            "sub": "Partner · EU funding €402K of €49.0M · 38 partners · 2026–2029",
+            "status": "Grant · Forthcoming",
+            "date": "23 Oct 2026",
+            "iso": "2026-10-23",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "3 grants · €1.0M",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "AIRBUS DEFENCE AND SPACE GMBH",
+            "country": "DE",
+            "sub": "4 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              4
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ELETTRONICA SPA",
+            "country": "IT",
+            "sub": "3 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ESG Elektroniksystem- und Logistik-Gesellschaft mit beschrankter Haftung",
+            "country": "DE",
+            "sub": "3 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "INDRA SISTEMAS SA",
+            "country": "ES",
+            "sub": "3 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "LEONARDO - SOCIETA PER AZIONI",
+            "country": "IT",
+            "sub": "3 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "MBDA FRANCE",
+            "country": "FR",
+            "sub": "3 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "MBDA ITALIA SPA",
+            "country": "IT",
+            "sub": "3 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "CAFA TECH OU",
+            "country": "EE",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 213800PHRRSB7WQ49T02",
+            "url": "https://api.gleif.org/api/v1/lei-records/213800PHRRSB7WQ49T02"
+          },
+          {
+            "title": "EU Funding & Tenders portal · EICACS 2",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304940/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · NEREUS",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224749/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · EICACS",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+          }
+        ]
+      },
+      "card_hash": "3a1af7a7bc451474"
     }
   }
 }
