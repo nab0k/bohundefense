@@ -9326,6 +9326,18 @@
             ]
           },
           {
+            "type": "customer",
+            "name": "Direction générale de l’armement",
+            "country": null,
+            "in_catalogue": false,
+            "sub": "Customer · reported, not confirmed",
+            "status": "candidate",
+            "quote": "qui appartient à la Direction générale de l’armement (DGA), client de Naval Group.",
+            "src": [
+              25
+            ]
+          },
+          {
             "type": "supplier",
             "name": "Van Halteren Technologies",
             "country": null,
@@ -9334,7 +9346,7 @@
             "status": "candidate",
             "quote": "Naval Group and Van Halteren Technologies sign contract to collaborate on international submarine programme",
             "src": [
-              25
+              26
             ]
           },
           {
@@ -9346,7 +9358,7 @@
             "status": "candidate",
             "quote": "This is the first submarine contract to extend Team Orka’s cooperation beyond the Replacement Netherlands Submarine Capability (RNSC) programme.",
             "src": [
-              25
+              26
             ]
           },
           {
@@ -9358,7 +9370,7 @@
             "status": "candidate",
             "quote": "Francezii cu Naval Group sunt și ei în competiție și oferă Scorpene în condițiile în care francezii sunt deja prezenți în America de Sud prin contractul cu Brazilia, acolo unde trei submarine Scorpene fabricate în Brazilia au fost deja lansate la apă în timp ce cel de-al patrulea este în construcție",
             "src": [
-              26
+              27
             ]
           },
           {
@@ -9370,7 +9382,7 @@
             "status": "candidate",
             "quote": "Francezii cu Naval Group sunt și ei în competiție și oferă Scorpene în condițiile în care francezii sunt deja prezenți în America de Sud prin contractul cu Brazilia, acolo unde trei submarine Scorpene fabricate în Brazilia au fost deja lansate la apă în timp ce cel de-al patrulea este în construcție",
             "src": [
-              26
+              27
             ]
           }
         ],
@@ -9381,7 +9393,7 @@
             "status": "verified",
             "quote": "The admission came about five months after Naval Group delivered the boat on June 24.",
             "src": [
-              27
+              28
             ]
           },
           {
@@ -9390,7 +9402,7 @@
             "status": "verified",
             "quote": "Naval Group designs and builds the boats in Cherbourg and supports them from Toulon.",
             "src": [
-              27
+              28
             ]
           },
           {
@@ -9408,7 +9420,7 @@
             "status": "verified",
             "quote": "Cutaway and infographic of the SEAGENT XL by Naval Group.",
             "src": [
-              28
+              29
             ]
           },
           {
@@ -9417,7 +9429,7 @@
             "status": "verified",
             "quote": "France’s Naval Group has unveiled the SCX26, a future warship concept exploring how large surface combatants could evolve to meet the demands of naval warfare in the coming decades.",
             "src": [
-              29
+              30
             ]
           },
           {
@@ -9444,7 +9456,7 @@
             "status": "candidate",
             "quote": "Naval Group, Chantiers de l’Atlantique, and TechnicAtome are spearheading the joint industrial effort.",
             "src": [
-              30
+              31
             ]
           },
           {
@@ -9453,7 +9465,7 @@
             "status": "candidate",
             "quote": "Francezii cu Naval Group sunt și ei în competiție și oferă Scorpene în condițiile în care francezii sunt deja prezenți în America de Sud prin contractul cu Brazilia, acolo unde trei submarine Scorpene fabricate în Brazilia au fost deja lansate la apă în timp ce cel de-al patrulea este în construcție",
             "src": [
-              26
+              27
             ]
           },
           {
@@ -9462,7 +9474,7 @@
             "status": "verified",
             "quote": "The firm is developing a towed array for the Royal Netherlands Navy for the future Orka-class submarines ordered from France’s Naval Group.",
             "src": [
-              31
+              32
             ]
           },
           {
@@ -9471,7 +9483,7 @@
             "status": "verified",
             "quote": "A UK-specific variant of the Principal Anti-Air Missile System (PAAMS) co-developed with France and Italy, the Sea Viper ‘system of systems’ includes a 48-cell SYLVER A50 VLS sourced from Naval Group: Aster 30 and the shorter range Aster 15 are currently only qualified for launch from the SYLVER lau",
             "src": [
-              32
+              33
             ]
           },
           {
@@ -9480,7 +9492,7 @@
             "status": "candidate",
             "quote": "With a platform provided by French Couach shipyard and the Naval Group Steeris command, control and mission planning system for unmanned platforms (being UAVs, USVs and UUVs), the Seaquest S is built by composite materiel and 9.3 metres long",
             "src": [
-              33
+              34
             ]
           }
         ],
@@ -9612,6 +9624,10 @@
             "url": "https://www.navalnews.com/naval-news/2026/10/pt-pal-and-naval-group-explore-submarine-mro-cooperation/"
           },
           {
+            "title": "naval-group.com",
+            "url": "https://www.naval-group.com/fr/actualites/le-saviez-vous-mise-leau-dun-sous-marin-comment-seffectue-le-transfert"
+          },
+          {
             "title": "euro-sd.com",
             "url": "https://euro-sd.com/2026/11/news/sea/54760/naval-group-van-halteren-technologies/"
           },
@@ -9649,7 +9665,7 @@
           }
         ]
       },
-      "card_hash": "2c3ec49accb95247"
+      "card_hash": "0d829b88755f74a4"
     },
     "raytheon-company": {
       "developments": [],
