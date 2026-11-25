@@ -126516,6 +126516,637 @@
         ]
       },
       "card_hash": "4f8619be7b1d1c0f"
+    },
+    "helzel-messtechnik-gmbh": {
+      "developments": [
+        {
+          "date": "07 Dec 2022",
+          "title": "European Defence Fund project 101103607",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103607/EDF"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Helzel Messtechnik GmbH is a German company registered in 1995, with its seat in Kaltenkirchen. It takes part in 1 European Defence Fund project (2022).",
+        "overview": "Helzel Messtechnik GmbH is a German company registered in 1995, with its seat in Kaltenkirchen. It takes part in 1 European Defence Fund project (2022)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1995",
+            "Registered"
+          ],
+          [
+            "Kaltenkirchen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900MQF5CCPV0JUQ10",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1995",
+            "Registered"
+          ],
+          [
+            "Kaltenkirchen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900MQF5CCPV0JUQ10",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101103607",
+            "sub": "EU defence research and development · call EDF-2021-DIS-RDIS-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "07 Dec 2022",
+            "desc": "Call EDF-2021-DIS-RDIS-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103607/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101103607",
+            "sub": "EU defence research and development · call EDF-2021-DIS-RDIS-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "07 Dec 2022",
+            "desc": "Call EDF-2021-DIS-RDIS-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103607/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Helzel Messtechnik GmbH, LEI 529900MQF5CCPV0JUQ10",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900MQF5CCPV0JUQ10"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103607",
+          "sources": 1,
+          "date": "07 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103607/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Kaltenkirchen",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Helzel Messtechnik GmbH is a German company registered in 1995, with its seat in Kaltenkirchen. It takes part in 1 European Defence Fund project (2022).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1995",
+            "Registered",
+            null
+          ],
+          [
+            "Kaltenkirchen, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900MQF5CCPV0JUQ10",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101103607",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "07 Dec 2022",
+            "iso": "2022-12-07",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900MQF5CCPV0JUQ10",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900MQF5CCPV0JUQ10"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101103607",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103607/EDF"
+          }
+        ]
+      },
+      "card_hash": "9b6a5ca3b095a1ce"
+    },
+    "free-space-srl": {
+      "developments": [
+        {
+          "date": "28 Nov 2024",
+          "title": "European Defence Fund project 101167641",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167641/EDF"
+        }
+      ],
+      "country": "IT",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "FREE SPACE SRL is a Italian company registered in 2017, with its seat in Pisa. It takes part in 1 European Defence Fund project (2024).",
+        "overview": "FREE SPACE SRL is a Italian company registered in 2017, with its seat in Pisa. It takes part in 1 European Defence Fund project (2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2017",
+            "Registered"
+          ],
+          [
+            "Pisa, Italy",
+            "Headquarters"
+          ],
+          [
+            "LEI 8156003264148966A937",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2017",
+            "Registered"
+          ],
+          [
+            "Pisa, Italy",
+            "Headquarters"
+          ],
+          [
+            "LEI 8156003264148966A937",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101167641",
+            "sub": "EU defence research and development · call EDF-2023-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "28 Nov 2024",
+            "desc": "Call EDF-2023-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167641/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101167641",
+            "sub": "EU defence research and development · call EDF-2023-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "28 Nov 2024",
+            "desc": "Call EDF-2023-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167641/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity FREE SPACE SRL, LEI 8156003264148966A937",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/8156003264148966A937"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167641",
+          "sources": 1,
+          "date": "28 Nov 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167641/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Pisa",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "FREE SPACE SRL is a Italian company registered in 2017, with its seat in Pisa. It takes part in 1 European Defence Fund project (2024).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2017",
+            "Registered",
+            null
+          ],
+          [
+            "Pisa, Italy",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 8156003264148966A937",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101167641",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "28 Nov 2024",
+            "iso": "2024-11-28",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 8156003264148966A937",
+            "url": "https://api.gleif.org/api/v1/lei-records/8156003264148966A937"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101167641",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167641/EDF"
+          }
+        ]
+      },
+      "card_hash": "74d6c575b1043e70"
+    },
+    "fokker-services-b-v": {
+      "developments": [
+        {
+          "date": "09 Aug 2024",
+          "title": "Contract award by Ministerie van Defensie",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/479926-2024"
+        }
+      ],
+      "country": "NL",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "Fokker Services B.V. is a Dutch company registered in 1996, with its seat in Hoofddorp. EU procurement records (TED) list a contract award by Ministerie van Defensie (09 Aug 2024).",
+        "overview": "Fokker Services B.V. is a Dutch company registered in 1996, with its seat in Hoofddorp. EU procurement records (TED) list a contract award by Ministerie van Defensie (09 Aug 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1996",
+            "Registered"
+          ],
+          [
+            "Hoofddorp, Netherlands",
+            "Headquarters"
+          ],
+          [
+            "LEI 724500H8OB1URAHBU015",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1996",
+            "Registered"
+          ],
+          [
+            "Hoofddorp, Netherlands",
+            "Headquarters"
+          ],
+          [
+            "LEI 724500H8OB1URAHBU015",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Ministerie van Defensie",
+            "sub": "TED notice 479926-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "09 Aug 2024",
+            "desc": "TED notice 479926-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Ministerie van Defensie",
+            "sub": "TED notice 479926-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "09 Aug 2024",
+            "desc": "TED notice 479926-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Ministerie van Defensie",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Ministerie van Defensie",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Fokker Services B.V., LEI 724500H8OB1URAHBU015",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/724500H8OB1URAHBU015"
+        },
+        {
+          "claim": "Contract award by Ministerie van Defensie (TED 479926-2024)",
+          "sources": 1,
+          "date": "09 Aug 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/479926-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Hoofddorp",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Fokker Services B.V. is a Dutch company registered in 1996, with its seat in Hoofddorp. EU procurement records (TED) list a contract award by Ministerie van Defensie (09 Aug 2024).",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "1",
+            "label": "contract awards on record",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "1996",
+            "Registered",
+            null
+          ],
+          [
+            "Hoofddorp, Netherlands",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 724500H8OB1URAHBU015",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract award · Ministerie van Defensie",
+            "sub": "TED notice 479926-2024",
+            "status": "Contract award",
+            "date": "09 Aug 2024",
+            "iso": "2024-08-09",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 724500H8OB1URAHBU015",
+            "url": "https://api.gleif.org/api/v1/lei-records/724500H8OB1URAHBU015"
+          },
+          {
+            "title": "TED notice 479926-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/479926-2024"
+          }
+        ]
+      },
+      "card_hash": "2049ad9887d265d6"
     }
   }
 }
