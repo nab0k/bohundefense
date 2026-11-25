@@ -81,79 +81,6 @@
       }
     },
     {
-      "id": "syn-260",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-10-31",
-      "title": "DIA Confirms Russian Nuclear Satellite Program",
-      "summary": "The U.S. Defense Intelligence Agency confirmed that Russia is developing a nuclear-armed orbital satellite in violation of the 1967 Outer Space Treaty.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "The U.S. Defense Intelligence Agency confirmed that Russia is developing a nuclear-armed orbital satellite in violation of the 1967 Outer Space Treaty."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "15 Jul 2020: Cosmos 2543 conducts an on-orbit anti-satellite weapons test, ejecting a projectile in proximity to another object, highlighting active Russian co-orbital inspection and interference capabilities.",
-            "16 May 2024: U.S. officials publicly flag Russian deployment of a co-orbital counterspace asset designed to shadow American satellites, mirroring concerns over ongoing nuclear ASAT development.",
-            "5 Dec 2024: Public disclosures reveal that Cosmos 2553 was designed to evaluate components and structural survivability for a nuclear-armed anti-satellite space weapon system.",
-            "May 2025: Russia launches Cosmos 2588, which subsequently maneuvers within approximately 93 kilometers of a U.S. government satellite, demonstrating aggressive proximity operations.",
-            "May 2026: Construction activity accelerates at Russian ground-based laser facilities such as Kalina, intended to permanently damage satellite optical sensors.",
-            "26 Oct 2026: The U.S. Defense Intelligence Agency releases Challenges to Security in Space 2026, officially confirming that Russia is developing an orbital satellite designed to carry a nuclear weapon in violation of the Outer Space Treaty.",
-            "31 Oct 2026: Defence Industry Europe publishes comprehensive threat analysis detailing DIA findings on the nuclear satellite program, Cosmos 2553, and persistent laser/jamming assets (Peresvet, Kalina)."
-          ],
-          "list": true
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Russian counterspace activities have evolved from co-orbital tests in 2020 through proximity operations in 2025 to advanced laser and nuclear-armed satellite programs in 2026, signaling persistent threats to orbital assets."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Russian Spacecraft Command and Control Systems depends on Specialized Space-Qualified Microelectronics — High-reliability radiation-hardened integrated circuits required for spacecraft command, control, and payload management. Bottlenecked by Western export controls; Russia increasingly sources substitutions through Chinese commercial networks and third-party intermediaries in Hong Kong.",
-            "Spacecraft Structural Assemblies depends on Titanium and Special Alloy Structural Components — High-strength frame and shielding materials required to withstand extreme thermal and radiation launch/orbital environments. Sourced via restricted international supply networks.",
-            "Counterspace Surveillance Systems (Kalina, Peresvet) depends on Optical Sensors and Precision Dazzling Components — Assemblies utilized in ground-based and space-based counterspace surveillance systems (e.g., Kalina, Peresvet) depending on high-grade optical glass and precision micro-optics."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense procurement and supply chain professionals should monitor export controls on space-qualified microelectronics and hardening technologies as orbital threat levels rise."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "The U.S. Defense Intelligence Agency confirmed that Russia is developing a nuclear-armed orbital satellite in violation of the 1967 Outer Space Treaty.",
-        "Context: 15 Jul 2020: Cosmos 2543 conducts an on-orbit anti-satellite weapons test, ejecting a projectile in proximity to another object, highlighting active Russian co-orbital inspection and interference capabilities. 16 May 2024: U.S. officials publicly flag Russian deployment of a co-orbital counterspace asset designed to shadow American satellites, mirroring concerns over ongoing nuclear ASAT development. 5 Dec 2024: Public disclosures reveal that Cosmos 2553 was designed to evaluate components and structural survivability for a nuclear-armed anti-satellite space weapon system. May 2025: Russia launches Cosmos 2588, which subsequently maneuvers within approximately 93 kilometers of a U.S. government satellite, demonstrating aggressive proximity operations. May 2026: Construction activity accelerates at Russian ground-based laser facilities such as Kalina, intended to permanently damage satellite optical sensors. 26 Oct 2026: The U.S. Defense Intelligence Agency releases Challenges to Security in Space 2026, officially confirming that Russia is developing an orbital satellite designed to carry a nuclear weapon in violation of the Outer Space Treaty. 31 Oct 2026: Defence Industry Europe publishes comprehensive threat analysis detailing DIA findings on the nuclear satellite program, Cosmos 2553, and persistent laser/jamming assets (Peresvet, Kalina).",
-        "The bigger picture: Russian counterspace activities have evolved from co-orbital tests in 2020 through proximity operations in 2025 to advanced laser and nuclear-armed satellite programs in 2026, signaling persistent threats to orbital assets.",
-        "Down the supply chain: Russian Spacecraft Command and Control Systems depends on Specialized Space-Qualified Microelectronics — High-reliability radiation-hardened integrated circuits required for spacecraft command, control, and payload management. Bottlenecked by Western export controls; Russia increasingly sources substitutions through Chinese commercial networks and third-party intermediaries in Hong Kong. Spacecraft Structural Assemblies depends on Titanium and Special Alloy Structural Components — High-strength frame and shielding materials required to withstand extreme thermal and radiation launch/orbital environments. Sourced via restricted international supply networks. Counterspace Surveillance Systems (Kalina, Peresvet) depends on Optical Sensors and Precision Dazzling Components — Assemblies utilized in ground-based and space-based counterspace surveillance systems (e.g., Kalina, Peresvet) depending on high-grade optical glass and precision micro-optics.",
-        "Why it matters: Defense procurement and supply chain professionals should monitor export controls on space-qualified microelectronics and hardening technologies as orbital threat levels rise.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Defence Industry Europe",
-          "url": "https://defence-industry.eu/defense-intelligence-agency-says-russian-nuclear-satellite-program-could-threaten-thousands-of-spacecraft/"
-        }
-      ],
-      "place": {
-        "label": "Washington",
-        "lat": 38.8951,
-        "lon": -77.0364
-      }
-    },
-    {
       "id": "syn-291",
       "status": "approved",
       "kind": "Synthesis",
@@ -4110,296 +4037,6 @@
       ]
     },
     {
-      "id": "syn-259",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-10-31",
-      "title": "GKN Aerospace gains Nadcap accreditation for laser wire additive manufacturing",
-      "summary": "GKN Aerospace has become the first company worldwide to achieve Nadcap accreditation for Laser Wire Directed Energy Deposition.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "GKN Aerospace has become the first company worldwide to achieve Nadcap accreditation for Laser Wire Directed Energy Deposition."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "28 Jul 2023: L3Harris Technologies completed its acquisition of Aerojet Rocketdyne, turning it into the Missile Solutions segment to scale up propulsion and energetics manufacturing (USD 4.7 billion).",
-            "2024: GKN Aerospace invested over SEK 600 million in a new factory facility in Trollhättan dedicated to the industrialisation of metal additive manufacturing (SEK 600 million).",
-            "20 Oct 2026: L3Harris opened its 60,000-square-foot \"Arsenal of Freedom\" solid rocket motor manufacturing facility in Camden, Arkansas, designed to double GMLRS production capacity and cut lead times (USD 216 million).",
-            "30 Oct 2026: L3Harris reported a record $53.2 billion backlog driven by high book-to-bill ratios in Missile Solutions (11.8) alongside multi-billion-dollar undefinitized propulsion contracts for THAAD and PAC-3 (USD 53.2 billion)."
-          ],
-          "list": true
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "NATO — The Hague Summit Declaration (2025-06-25): Allies commit to 5% of GDP a year by 2035: at least 3.5% on core defence requirements and up to 1.5% on broader security spending, including the defence industrial base."
-          ],
-          "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following investments in metal additive manufacturing facilities, suppliers are securing independent process validation to scale up advanced aerospace component production."
-          ],
-          "list": false
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Procurement and supply chain professionals should track certified additive manufacturing partners to reduce material waste and lead times for complex components."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "GKN Aerospace has become the first company worldwide to achieve Nadcap accreditation for Laser Wire Directed Energy Deposition.",
-        "Context: 28 Jul 2023: L3Harris Technologies completed its acquisition of Aerojet Rocketdyne, turning it into the Missile Solutions segment to scale up propulsion and energetics manufacturing (USD 4.7 billion). 2024: GKN Aerospace invested over SEK 600 million in a new factory facility in Trollhättan dedicated to the industrialisation of metal additive manufacturing (SEK 600 million). 20 Oct 2026: L3Harris opened its 60,000-square-foot \"Arsenal of Freedom\" solid rocket motor manufacturing facility in Camden, Arkansas, designed to double GMLRS production capacity and cut lead times (USD 216 million). 30 Oct 2026: L3Harris reported a record $53.2 billion backlog driven by high book-to-bill ratios in Missile Solutions (11.8) alongside multi-billion-dollar undefinitized propulsion contracts for THAAD and PAC-3 (USD 53.2 billion).",
-        "Policy direction: NATO — The Hague Summit Declaration (2025-06-25): Allies commit to 5% of GDP a year by 2035: at least 3.5% on core defence requirements and up to 1.5% on broader security spending, including the defence industrial base.",
-        "The bigger picture: Following investments in metal additive manufacturing facilities, suppliers are securing independent process validation to scale up advanced aerospace component production.",
-        "Why it matters: Procurement and supply chain professionals should track certified additive manufacturing partners to reduce material waste and lead times for complex components.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Defence Industry Europe",
-          "url": "https://defence-industry.eu/gkn-aerospace-becomes-first-to-gain-nadcap-accreditation-for-laser-wire-additive-manufacturing/"
-        }
-      ],
-      "place": {
-        "label": "Redditch",
-        "lat": 52.3085,
-        "lon": -1.9363
-      },
-      "companies": [
-        {
-          "name": "L3Harris Technologies",
-          "country": "US",
-          "text": [
-            "L3Harris Technologies"
-          ]
-        },
-        {
-          "name": "Aerojet Rocketdyne",
-          "country": "US",
-          "text": [
-            "Aerojet Rocketdyne"
-          ]
-        },
-        {
-          "name": "L3Harris",
-          "country": "US",
-          "text": [
-            "L3Harris"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "syn-258",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-10-31",
-      "title": "Raytheon ramps Tomahawk output as additive manufacturing expands",
-      "summary": "Raytheon secured a seven-year Tomahawk contract in August 2026 to support a production ramp to over 1,000 missiles a year. Nikon Advanced Manufacturing announced a contract in October 2026 to supply large-format laser powder bed fusion systems for printing Tomahawk mid-bodies.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Raytheon secured a seven-year Tomahawk contract in August 2026 to support a production ramp to over 1,000 missiles a year. Nikon Advanced Manufacturing announced a contract in October 2026 to supply large-format laser powder bed fusion systems for printing Tomahawk mid-bodies."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "1983: The Tomahawk cruise missile officially enters operational service with the U.S. Navy (Delivered).",
-            "2004: Block IV (Tactical Tomahawk) enters operational testing and evaluation phase.",
-            "2013: Operational test launch program for Block IV concludes, with the Tomahawk Weapon System cleared from DOT&E operational oversight following high reliability records.",
-            "2020: Raytheon secures major production contracts to transition legacy blocks into modern Block V configurations (Contract).",
-            "17 Aug 2026: Raytheon received a seven-year Tomahawk contract supporting a production ramp to over 1,000 missiles a year (Contract, USD 22.9 billion).",
-            "22 Oct 2026: Nikon Advanced Manufacturing announces a U.S. Department of War Cornerstone Other Transaction Authority (COTA) contract under the Industrial Base Analysis and Sustainment programme to supply large-format laser powder bed fusion (L-PBF) systems (based on the Nikon SLM Solutions NXG-E platform with 2-meter build heights) for printing Tomahawk mid-bodies in Long Beach, California (Contract).",
-            "29 Oct 2026: German defense media reported that German additive manufacturing technology (via Nikon SLM Solutions based in Lübeck) is being directly deployed for U.S. Tomahawk missile production following a contract awarded to Nikon Advanced Manufacturing."
-          ],
-          "list": true
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base.",
-            "US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress."
-          ],
-          "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following multiyear production contracts initiated in 2020 and large-scale manufacturing awards in late 2026, the defense industrial base is scaling up to meet surging long-term demand for complex cruise missiles."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Tomahawk Land Attack Missile depends on Nikon Advanced Manufacturing.",
-            "Tomahawk Land Attack Missile depends on Williams International.",
-            "Tomahawk Land Attack Missile depends on Defense contractors — Warhead Assemblies: WDU-36/B unitary high-explosive payloads containing PBXN-107 fill."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defense supply chain professionals should monitor additive manufacturing integration and supplier bottlenecks to align component delivery with upcoming multiyear production ramps."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Raytheon secured a seven-year Tomahawk contract in August 2026 to support a production ramp to over 1,000 missiles a year. Nikon Advanced Manufacturing announced a contract in October 2026 to supply large-format laser powder bed fusion systems for printing Tomahawk mid-bodies.",
-        "Context: 1983: The Tomahawk cruise missile officially enters operational service with the U.S. Navy (Delivered). 2004: Block IV (Tactical Tomahawk) enters operational testing and evaluation phase. 2013: Operational test launch program for Block IV concludes, with the Tomahawk Weapon System cleared from DOT&E operational oversight following high reliability records. 2020: Raytheon secures major production contracts to transition legacy blocks into modern Block V configurations (Contract). 17 Aug 2026: Raytheon received a seven-year Tomahawk contract supporting a production ramp to over 1,000 missiles a year (Contract, USD 22.9 billion). 22 Oct 2026: Nikon Advanced Manufacturing announces a U.S. Department of War Cornerstone Other Transaction Authority (COTA) contract under the Industrial Base Analysis and Sustainment programme to supply large-format laser powder bed fusion (L-PBF) systems (based on the Nikon SLM Solutions NXG-E platform with 2-meter build heights) for printing Tomahawk mid-bodies in Long Beach, California (Contract). 29 Oct 2026: German defense media reported that German additive manufacturing technology (via Nikon SLM Solutions based in Lübeck) is being directly deployed for U.S. Tomahawk missile production following a contract awarded to Nikon Advanced Manufacturing.",
-        "Policy direction: US — 2026 National Defense Strategy (2026-01-23): Four lines of effort: defend the homeland (including Golden Dome missile defence), deter China in the Indo-Pacific, more burden-sharing by allies, and supercharge the US defence industrial base. US — PAC-3 MSE framework agreement under the Acquisition Transformation Strategy (2026-01-06): Seven-year framework agreements for proven munitions, giving industry long-term demand so it invests in capacity; PAC-3 MSE output to rise from about 600 to about 2,000 a year, subject to Congress.",
-        "The bigger picture: Following multiyear production contracts initiated in 2020 and large-scale manufacturing awards in late 2026, the defense industrial base is scaling up to meet surging long-term demand for complex cruise missiles.",
-        "Down the supply chain: Tomahawk Land Attack Missile depends on Nikon Advanced Manufacturing. Tomahawk Land Attack Missile depends on Williams International. Tomahawk Land Attack Missile depends on Defense contractors — Warhead Assemblies: WDU-36/B unitary high-explosive payloads containing PBXN-107 fill.",
-        "Why it matters: Defense supply chain professionals should monitor additive manufacturing integration and supplier bottlenecks to align component delivery with upcoming multiyear production ramps.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Defence Industry Europe",
-          "url": "https://defence-industry.eu/raytheon-critical-munitions-output-jumps-more-than-90-before-next-phase-of-missile-expansion/"
-        }
-      ],
-      "place": {
-        "label": "Waltham",
-        "lat": 42.3765,
-        "lon": -71.2356
-      },
-      "companies": [
-        {
-          "name": "RAYTHEON COMPANY",
-          "country": "US",
-          "text": [
-            "Raytheon"
-          ]
-        },
-        {
-          "name": "Nikon Advanced Manufacturing",
-          "country": "",
-          "text": [
-            "Nikon Advanced Manufacturing"
-          ]
-        },
-        {
-          "name": "Nikon SLM Solutions AG",
-          "country": "DE",
-          "text": [
-            "Nikon SLM Solutions"
-          ]
-        },
-        {
-          "name": "Williams International",
-          "country": "",
-          "text": [
-            "Williams International"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "syn-290",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-01",
-      "title": "UK nuclear defence investment to rise by over £20 billion",
-      "summary": "The UK Ministry of Defence announced an increase in nuclear defence investment by over £20 billion for the financial years 2026–27 to 2029–30 compared to the preceding four years.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "The UK Ministry of Defence announced an increase in nuclear defence investment by over £20 billion for the financial years 2026–27 to 2029–30 compared to the preceding four years."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "Mar 2007: Work begins on the concept phase of the successor ballistic missile submarine programme (later named Dreadnought), following parliamentary approval.",
-            "2023: HMS Vanguard emerged from a refit at Devonport in 2023 that took around seven and a half years against a planned three and a half.",
-            "Oct 2023: The UK government awards contracts worth £4 billion to BAE Systems, Rolls-Royce, and Babcock to support SSN-AUKUS design, infrastructure, and long-lead items (Contract, GBP 4 billion).",
-            "2025: Rolls-Royce is awarded an 8-year contract (named \"Unity\") valued at approximately £9 billion by the UK Ministry of Defence for naval reactor design, manufacture, and support (Contract, GBP 9 billion).",
-            "May 2025: Ministry of Defence notes that £3.37 billion of the £10 billion contingency set aside for the Dreadnought class (£31 billion base cost, up to £41 billion total ceiling) had been accessed as of March 2024 (GBP 41 billion).",
-            "Jul 2026: The Ministry of Defence announces Delivery Phase 4 (DP4) for the Dreadnought programme, funding the first boat through final build, sea trials, and certification (Testing).",
-            "30 Oct 2026: The Submarine Delivery Agency publishes its Annual Report and Accounts 2025/2026, announcing the formation of the Submarine Production Alliance and the ambition to double production rates for up to 12 SSN-AUKUS submarines."
-          ],
-          "list": true
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following early concept work in 2007, the Dreadnought and SSN-AUKUS programmes have scaled significantly through major funding phases and multi-billion-pound supplier contracts by 2026, pointing to a sustained, long-term expansion of the UK's sovereign submarine manufacturing capacity."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "Rolls-Royce Submarines depends on Nuclear Reactor Plant / Nuclear Steam Raising Plant — Sole-source provider of UK naval nuclear reactors."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "The Dreadnought and SSN‑AUKUS programmes involve upcoming infrastructure and manufacturing investments."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "The UK Ministry of Defence announced an increase in nuclear defence investment by over £20 billion for the financial years 2026–27 to 2029–30 compared to the preceding four years.",
-        "Context: Mar 2007: Work begins on the concept phase of the successor ballistic missile submarine programme (later named Dreadnought), following parliamentary approval. 2023: HMS Vanguard emerged from a refit at Devonport in 2023 that took around seven and a half years against a planned three and a half. Oct 2023: The UK government awards contracts worth £4 billion to BAE Systems, Rolls-Royce, and Babcock to support SSN-AUKUS design, infrastructure, and long-lead items (Contract, GBP 4 billion). 2025: Rolls-Royce is awarded an 8-year contract (named \"Unity\") valued at approximately £9 billion by the UK Ministry of Defence for naval reactor design, manufacture, and support (Contract, GBP 9 billion). May 2025: Ministry of Defence notes that £3.37 billion of the £10 billion contingency set aside for the Dreadnought class (£31 billion base cost, up to £41 billion total ceiling) had been accessed as of March 2024 (GBP 41 billion). Jul 2026: The Ministry of Defence announces Delivery Phase 4 (DP4) for the Dreadnought programme, funding the first boat through final build, sea trials, and certification (Testing). 30 Oct 2026: The Submarine Delivery Agency publishes its Annual Report and Accounts 2025/2026, announcing the formation of the Submarine Production Alliance and the ambition to double production rates for up to 12 SSN-AUKUS submarines.",
-        "The bigger picture: Following early concept work in 2007, the Dreadnought and SSN-AUKUS programmes have scaled significantly through major funding phases and multi-billion-pound supplier contracts by 2026, pointing to a sustained, long-term expansion of the UK's sovereign submarine manufacturing capacity.",
-        "Down the supply chain: Rolls-Royce Submarines depends on Nuclear Reactor Plant / Nuclear Steam Raising Plant — Sole-source provider of UK naval nuclear reactors.",
-        "Why it matters: The Dreadnought and SSN‑AUKUS programmes involve upcoming infrastructure and manufacturing investments.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Defence Industry Europe",
-          "url": "https://defence-industry.eu/uk-nuclear-defence-investment-to-rise-by-over-20-billion-as-submarine-and-warhead-work-expands/"
-        }
-      ],
-      "place": {
-        "label": "Barrow-in-Furness",
-        "lat": 54.1132,
-        "lon": -3.2267
-      },
-      "companies": [
-        {
-          "name": "Babcock",
-          "country": "GB",
-          "text": [
-            "Babcock"
-          ]
-        },
-        {
-          "name": "Rolls-Royce Submarines",
-          "country": "GB",
-          "text": [
-            "Rolls-Royce Submarines"
-          ]
-        }
-      ]
-    },
-    {
       "id": "syn-289",
       "status": "approved",
       "kind": "Synthesis",
@@ -4991,6 +4628,153 @@
           ]
         }
       ]
+    },
+    {
+      "id": "syn-1316",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-23",
+      "title": "UAC Delivers Third 2026 Su-57 Batch With Upgraded Systems",
+      "summary": "UAC delivered a new batch of Su-57 fighters to the Russian Aerospace Forces on November 19, 2026, featuring modernized onboard systems and an upgraded weapons complex.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "UAC delivered a new batch of Su-57 fighters to the Russian Aerospace Forces on November 19, 2026, featuring modernized onboard systems and an upgraded weapons complex."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "Feb 2026: First Su-57 delivery of 2026 (0).",
+            "Sep 2026: Second Su-57 delivery of 2026 (0).",
+            "19 Nov 2026: Third Su-57 delivery of 2026 announced by UAC/Rostec."
+          ],
+          "list": true,
+          "links": [
+            "https://www.timesofdefence.com.tr/united-aircraft-corporation-hands-over-third-2026-batch-of-upgraded-sukhoi-su-57-fifth-generation-fighters-to-russian-aerospace-forces/",
+            "https://www.timesofdefence.com.tr/united-aircraft-corporation-hands-over-third-2026-batch-of-upgraded-sukhoi-su-57-fifth-generation-fighters-to-russian-aerospace-forces/",
+            "https://www.aerotime.aero/articles/russia-third-su-57-fighter-batch-2026"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Su-57 deliveries progressed through February, September, and November 2026, though exact quantities and engine statuses remain undisclosed."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Su-57 depends on onboard systems.",
+            "Su-57 depends on low-observable cruise missiles.",
+            "Su-57 depends on engines."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense industry professionals should monitor UAC production rates and export efforts for the Su-57E variant."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "UAC delivered a new batch of Su-57 fighters to the Russian Aerospace Forces on November 19, 2026, featuring modernized onboard systems and an upgraded weapons complex.",
+        "Context: Feb 2026: First Su-57 delivery of 2026 (0). Sep 2026: Second Su-57 delivery of 2026 (0). 19 Nov 2026: Third Su-57 delivery of 2026 announced by UAC/Rostec.",
+        "The bigger picture: Su-57 deliveries progressed through February, September, and November 2026, though exact quantities and engine statuses remain undisclosed.",
+        "Down the supply chain: Su-57 depends on onboard systems. Su-57 depends on low-observable cruise missiles. Su-57 depends on engines.",
+        "Why it matters: Defense industry professionals should monitor UAC production rates and export efforts for the Su-57E variant.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Russia’s UAC Delivers Third 2026 Batch of Su-57 Fighters With Upgraded Systems and New Weapons Capability",
+          "url": "https://defensewarroom.com/2026/11/23/russia-upgraded-su-57-fighters-batch/"
+        }
+      ],
+      "place": {
+        "label": "Moscow",
+        "lat": 55.7558,
+        "lon": 37.6173
+      }
+    },
+    {
+      "id": "syn-1321",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-23",
+      "title": "India Receives Second Diving Support Craft",
+      "summary": "India received the second diving support craft, DSC A21, built by Titagarh Rail Systems Limited at Naval Dockyard Mumbai on 20 November 2026.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "India received the second diving support craft, DSC A21, built by Titagarh Rail Systems Limited at Naval Dockyard Mumbai on 20 November 2026."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "12 Feb 2021: Ministry of Defence signed the five-vessel contract with Titagarh Rail Systems Limited (Contract).",
+            "30 Oct 2023: Second vessel (DSC A21) launched onto the Hooghly River at Titagarh.",
+            "Sep 2025: First craft, DSC A20, delivered (Delivered).",
+            "16 Dec 2025: First craft, DSC A20, commissioned at Kochi (Delivered).",
+            "20 Nov 2026: India received DSC A21 at Naval Dockyard Mumbai."
+          ],
+          "list": true,
+          "links": [
+            "https://indefencemag.com/india-receives-second-domestically-built-diving-craft/",
+            "https://indefencemag.com/india-receives-second-domestically-built-diving-craft/",
+            "https://indefencemag.com/india-receives-second-domestically-built-diving-craft/",
+            "https://indefencemag.com/india-receives-second-domestically-built-diving-craft/",
+            "https://indefencemag.com/india-receives-second-domestically-built-diving-craft/"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Following the initial contract signed on 12 February 2021 and the delivery of the first craft DSC A20 in September 2025, the program continues with the November 2026 delivery of DSC A21 to strengthen naval support capabilities."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Titagarh Rail Systems Limited depends on Naval Science and Technological Laboratory (NSTL) — Hydrodynamic analysis and model testing during the design phase.",
+            "Titagarh Rail Systems Limited depends on Indian Register of Shipping — Naval classification rules and regulatory survey framework."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence procurement and supply chain professionals should monitor Titagarh Rail Systems Limited's progress on the remaining hulls of the five-vessel auxiliary program."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "India received the second diving support craft, DSC A21, built by Titagarh Rail Systems Limited at Naval Dockyard Mumbai on 20 November 2026.",
+        "Context: 12 Feb 2021: Ministry of Defence signed the five-vessel contract with Titagarh Rail Systems Limited (Contract). 30 Oct 2023: Second vessel (DSC A21) launched onto the Hooghly River at Titagarh. Sep 2025: First craft, DSC A20, delivered (Delivered). 16 Dec 2025: First craft, DSC A20, commissioned at Kochi (Delivered). 20 Nov 2026: India received DSC A21 at Naval Dockyard Mumbai.",
+        "The bigger picture: Following the initial contract signed on 12 February 2021 and the delivery of the first craft DSC A20 in September 2025, the program continues with the November 2026 delivery of DSC A21 to strengthen naval support capabilities.",
+        "Down the supply chain: Titagarh Rail Systems Limited depends on Naval Science and Technological Laboratory (NSTL) — Hydrodynamic analysis and model testing during the design phase. Titagarh Rail Systems Limited depends on Indian Register of Shipping — Naval classification rules and regulatory survey framework.",
+        "Why it matters: Defence procurement and supply chain professionals should monitor Titagarh Rail Systems Limited's progress on the remaining hulls of the five-vessel auxiliary program.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "India receives second domestically built diving craft",
+          "url": "https://indefencemag.com/india-receives-second-domestically-built-diving-craft/"
+        }
+      ],
+      "place": null
     },
     {
       "id": "syn-211",
@@ -8284,6 +8068,102 @@
       ]
     },
     {
+      "id": "syn-1330",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-24",
+      "title": "USAF Moves F-35A Demo Team to Luke AFB",
+      "summary": "The U.S. Air Force announced it is moving its F-35A Lightning II Demonstration Team from Hill Air Force Base, Utah, to the 56th Fighter Wing at Luke Air Force Base, Arizona, ahead of the 2027 airshow season.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "The U.S. Air Force announced it is moving its F-35A Lightning II Demonstration Team from Hill Air Force Base, Utah, to the 56th Fighter Wing at Luke Air Force Base, Arizona, ahead of the 2027 airshow season."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "1994: The Department of Defense merged separate service projects to form the Joint Strike Fighter program, setting the path for common multirole stealth aircraft.",
+            "2 Aug 2016: The U.S. Air Force declared IOC for the F-35A variant.",
+            "28 Feb 2019: The U.S. Navy declared IOC for the carrier-based F-35C variant.",
+            "Apr 2023: Technology Refresh 3 (TR-3) hardware/software suite encountered delivery constraints, becoming the critical path bottleneck for Block 4 integration.",
+            "Mar 2024: The Department of Defense formally approved Milestone C, transitioning the F-35 program into full-rate production (Approved).",
+            "22 Oct 2026: Lockheed Martin and the Department of War announced a multiyear framework agreement covering up to 850 U.S. aircraft across Lots 21–30 and ongoing modification support (Agreement).",
+            "20 Nov 2026: The U.S. Navy issued contract modification P00047 worth $72.6 million to accelerate F-35 Block 4 software and cybersecurity enhancements (Contract, USD 72.581 million)."
+          ],
+          "list": true,
+          "links": [
+            "https://thedisorderofthings.com/2014/05/16/aircraft-stories-the-f-35-joint-strike-fighter-part-i/",
+            "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_development",
+            "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_development",
+            "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_development",
+            "https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II_development",
+            "https://news.lockheedmartin.com/2026-10-22-New-Framework-Agreement-for-Multiyear-F-35-Production-and-Sustainment",
+            "https://wisevoter.com/world/us/2026/11/21/navy-adds-72-6m-lockheed-f35-block4-contract"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Since the Department of Defense formed the Joint Strike Fighter program in January 1994, the F-35 enterprise has expanded from initial development to full-rate production under Milestone C in March 2024, alongside ongoing Block 4 software and hardware enhancements."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "L3Harris Technologies depends on Integrated Core Processor (ICP) hardware supporting TR-3 and Block 4 upgrades — Mission Processor."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense procurement and supply chain professionals should monitor how training hub shifts and ongoing Block 4 upgrades impact operational readiness and component demand."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "The U.S. Air Force announced it is moving its F-35A Lightning II Demonstration Team from Hill Air Force Base, Utah, to the 56th Fighter Wing at Luke Air Force Base, Arizona, ahead of the 2027 airshow season.",
+        "Context: 1994: The Department of Defense merged separate service projects to form the Joint Strike Fighter program, setting the path for common multirole stealth aircraft. 2 Aug 2016: The U.S. Air Force declared IOC for the F-35A variant. 28 Feb 2019: The U.S. Navy declared IOC for the carrier-based F-35C variant. Apr 2023: Technology Refresh 3 (TR-3) hardware/software suite encountered delivery constraints, becoming the critical path bottleneck for Block 4 integration. Mar 2024: The Department of Defense formally approved Milestone C, transitioning the F-35 program into full-rate production (Approved). 22 Oct 2026: Lockheed Martin and the Department of War announced a multiyear framework agreement covering up to 850 U.S. aircraft across Lots 21–30 and ongoing modification support (Agreement). 20 Nov 2026: The U.S. Navy issued contract modification P00047 worth $72.6 million to accelerate F-35 Block 4 software and cybersecurity enhancements (Contract, USD 72.581 million).",
+        "The bigger picture: Since the Department of Defense formed the Joint Strike Fighter program in January 1994, the F-35 enterprise has expanded from initial development to full-rate production under Milestone C in March 2024, alongside ongoing Block 4 software and hardware enhancements.",
+        "Down the supply chain: L3Harris Technologies depends on Integrated Core Processor (ICP) hardware supporting TR-3 and Block 4 upgrades — Mission Processor.",
+        "Why it matters: Defense procurement and supply chain professionals should monitor how training hub shifts and ongoing Block 4 upgrades impact operational readiness and component demand.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "The Defense Log",
+          "url": "https://thedefenselog.com/f-35a-team-luke-air-force-base/"
+        }
+      ],
+      "place": {
+        "label": "Glendale",
+        "lat": 33.5387,
+        "lon": -112.186
+      },
+      "companies": [
+        {
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "country": "US",
+          "text": [
+            "Lockheed Martin"
+          ]
+        },
+        {
+          "name": "L3Harris Technologies",
+          "country": "US",
+          "text": [
+            "L3Harris Technologies"
+          ]
+        }
+      ]
+    },
+    {
       "id": "syn-1334",
       "status": "approved",
       "kind": "Synthesis",
@@ -9582,6 +9462,79 @@
           "n": 1,
           "title": "Países Bajos se suma a la compra conjunta del sistema antiaéreo polaco de muy corto alcance Piorun financiada con fondos",
           "url": "https://www.infodefensa.com/texto-diario/mostrar/6104931/paises-bajos-suma-compra-conjunta-sistema-antiaereo-polaco-muy-corto-alcance-piorun-financiada-fondos-europeos"
+        }
+      ],
+      "place": {
+        "label": "The Hague",
+        "lat": 52.0705,
+        "lon": 4.3007
+      }
+    },
+    {
+      "id": "syn-1331",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-24",
+      "title": "The Hague Forum Yields 10 Deals",
+      "summary": "The European Defence Innovation Forum in The Hague drew around 1,500 participants and over 60 exhibiting companies. The event produced several industry agreements, including a memorandum on the WARDEN air defense missile.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "The European Defence Innovation Forum in The Hague drew around 1,500 participants and over 60 exhibiting companies. The event produced several industry agreements, including a memorandum on the WARDEN air defense missile."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "2025: Indian defence tech startups raised $304 million across 61 transactions (Funding).",
+            "23 Nov 2026: India's defence tech funding dropped to $73 million across 27 deals in 2026.",
+            "24 Nov 2026: European Defence Innovation Forum in The Hague yields up to 10 deals as Ukraine’s wartime experience shapes talks."
+          ],
+          "list": true,
+          "links": [
+            "https://defenceinnovationreview.com/2026/11/23/indias-defence-tech-funding-plummets-76-in-2026/",
+            "https://defenceinnovationreview.com/2026/11/23/indias-defence-tech-funding-plummets-76-in-2026/",
+            "https://thedefenselog.com/european-defense-innovation-forum-hague-deals/"
+          ]
+        },
+        {
+          "label": "Policy direction",
+          "lines": [
+            "EU — White Paper for European Defence – Readiness 2030 and ReArm Europe Plan (2025-03-19): Close critical capability gaps in seven priority areas (including air and missile defence and artillery) and build a stronger European defence industrial base; ReArm Europe enables over €800 billion of defence spending.",
+            "EU — Council Regulation establishing the Security Action for Europe (SAFE) instrument (2025-05-27): Up to €150 billion in EU loans for member states investing in defence industrial production through common procurement of priority capabilities."
+          ],
+          "list": false
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "European defense innovation initiatives are advancing rapidly through framework agreements and forums, driven by urgent operational lessons."
+          ],
+          "list": false
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defense industry business development professionals should track emerging European consortia and partnership opportunities arising from these new framework agreements."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "The European Defence Innovation Forum in The Hague drew around 1,500 participants and over 60 exhibiting companies. The event produced several industry agreements, including a memorandum on the WARDEN air defense missile.",
+        "Context: 2025: Indian defence tech startups raised $304 million across 61 transactions (Funding). 23 Nov 2026: India's defence tech funding dropped to $73 million across 27 deals in 2026. 24 Nov 2026: European Defence Innovation Forum in The Hague yields up to 10 deals as Ukraine’s wartime experience shapes talks.",
+        "Policy direction: EU — White Paper for European Defence – Readiness 2030 and ReArm Europe Plan (2025-03-19): Close critical capability gaps in seven priority areas (including air and missile defence and artillery) and build a stronger European defence industrial base; ReArm Europe enables over €800 billion of defence spending. EU — Council Regulation establishing the Security Action for Europe (SAFE) instrument (2025-05-27): Up to €150 billion in EU loans for member states investing in defence industrial production through common procurement of priority capabilities.",
+        "The bigger picture: European defense innovation initiatives are advancing rapidly through framework agreements and forums, driven by urgent operational lessons.",
+        "Why it matters: Defense industry business development professionals should track emerging European consortia and partnership opportunities arising from these new framework agreements.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "European Defence Innovation Forum in The Hague yields up to 10 deals as Ukraine’s wartime experience shapes talks",
+          "url": "https://thedefenselog.com/european-defense-innovation-forum-hague-deals/"
         }
       ],
       "place": {
