@@ -115,11 +115,14 @@ def build(co, claims, sources, country, reviewed, network=None, products=None):
     for d in deals:
         if d['kind'] == 'spend_total' and d.get('amount'):
             top = d.get('top_buyer') or {}
-            parts.append(f'US federal spending records show {money(d["amount"], "USD")} obligated to it by the Department of Defense in '
+            # FIELD counts defence goods and defence R&D only since 25.11.2026 (claim 'scope')
+            what = ' for defence goods and defence R&D' if d.get('scope') else ''
+            parts.append(f'US federal spending records show {money(d["amount"], "USD")} obligated to it by the Department of Defense{what} in '
                          f'{d["period"]} across {d["count"]:,} contracts' + (f'; the largest customer is the {top["name"]}' if top.get('name') else '') + '.')
         elif d['kind'] == 'contract_count':
             parts.append(f'Canada’s open contract records list {d["count"]:,} federal contracts with it ({(d.get("first") or "")[:4]}–{(d.get("last") or "")[:4]})'
-                         + (f', {d["defence"]:,} of them with defence buyers' if d.get('defence') else '') + '.')
+                         + ((f', {d["defence"]:,} of them defence contracts (a defence buyer, defence goods or R&D)' if d.get('scope')
+                             else f', {d["defence"]:,} of them with defence buyers') if d.get('defence') else '') + '.')
     if us and not any(d['kind'] == 'spend_total' for d in deals):
         parts.append('US federal spending records list it as a recipient of contracts from the US Department of Defense.')
     if mil:
@@ -299,7 +302,8 @@ def page(name, regno, reg, progs, mil, about, facts, news_network, news_products
     if spend or deals:  # EXP-035: what public registers say the buyers spent with the company
         for p in spend[:2]:
             n = cite(f'{p["register"]} · {p["buyer"]} · {p["period"]}', p.get('url'))
-            figures.append({'value': money(p['amount'], p.get('currency')), 'label': f'{p["buyer"]} obligations, {p["period"]}', 'src': [n]})
+            what = ' for defence goods and R&D' if p.get('scope') else ''
+            figures.append({'value': money(p['amount'], p.get('currency')), 'label': f'{p["buyer"]} obligations{what}, {p["period"]}', 'src': [n]})
             if p.get('count'):
                 figures.append({'value': f'{p["count"]:,}', 'label': f'contracts with activity, {p["period"]}', 'src': [n]})
             if p.get('top_buyer') and p['top_buyer']['amount'] < 0.9 * p['amount']:
@@ -309,7 +313,7 @@ def page(name, regno, reg, progs, mil, about, facts, news_network, news_products
         if deals and not spend:
             big = max(deals, key=lambda p: p.get('amount') or 0)
             total = max([p.get('register_count') or 0 for p in deals] + [c['count'] for c in counted] + [len(deals)])
-            figures.append({'value': f'{total:,}', 'label': 'contracts on record' + (f' ({counted[0]["defence"]:,} with defence buyers)' if counted and counted[0].get('defence') else ''), 'src': sorted({a['src'] for a in activity if a['status'] == 'Contract'})[:3]})
+            figures.append({'value': f'{total:,}', 'label': 'contracts on record' + ((f' ({counted[0]["defence"]:,} defence contracts)' if counted[0].get('scope') else f' ({counted[0]["defence"]:,} with defence buyers)') if counted and counted[0].get('defence') else ''), 'src': sorted({a['src'] for a in activity if a['status'] == 'Contract'})[:3]})
             if big.get('amount'):
                 figures.append({'value': money(big['amount'], big.get('currency')), 'label': f'largest: {big.get("buyer")}, {fmt(big.get("date"))[-4:]}',
                                 'src': [a['src'] for a in activity if a['title'] == big.get('title')][:1]})

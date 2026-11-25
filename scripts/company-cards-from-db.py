@@ -56,9 +56,12 @@ def card_hash(claims, sources, network=None, products=None):
                                      sort_keys=True).encode()).hexdigest()[:16]
 
 
-def apply(companies, root, news=()):
+def apply(companies, root, news=(), withdrawn=()):
     """news: [{'name', 'country'}] companies found in the news by FIELD (owner 23.11.2026): a catalogue record
-    with status 'from_news' ("From the news — not verified") so a news item can link to it; no profile, no map count."""
+    with status 'from_news' ("From the news — not verified") so a news item can link to it; no profile, no map count.
+    withdrawn: [{'name', 'country'}] cards FIELD withdrew (owner 25.11.2026 «Yes, defence codes only»: a card made from
+    DoD purchases that are not defence goods): the profile built by this builder is removed, and a catalogue record this
+    builder added for it becomes an unverified candidate; a manual profile is never touched."""
     root = Path(root)
     ppath, dpath = root / 'atlas/company-profiles-v1.json', root / 'atlas/companies-directory-v1.json'
     gpath, mpath = root / 'atlas/company-country-groups.geojson', root / 'atlas/notion-research-map.geojson'
@@ -103,6 +106,20 @@ def apply(companies, root, news=()):
             continue
         profiles['profiles'][k] = card
         added.append(f"{co['country']} {name}")
+    removed = []
+    for w in withdrawn:
+        key = (catalogue_norm(w.get('name') or ''), w.get('country') or None)
+        name = by_key.get(key) or w.get('name') or ''
+        k = slug(name)
+        old = profiles['profiles'].get(k)
+        if old is None or not str(old.get('method') or '').startswith('BOHUN slice 3 card'):
+            continue
+        del profiles['profiles'][k]
+        for r in rows:
+            if (catalogue_norm(r['name']), r.get('country')) == key and r.get('status') == 'research_publishable' \
+                    and not (r.get('website') or r.get('about') or r.get('category')):
+                r['status'] = 'unverified_candidate'
+        removed.append(f"{w.get('country') or '--'} {name}")
     names = {catalogue_norm(r['name']) for r in rows}
     news_added = []
     for n in news:
@@ -114,7 +131,7 @@ def apply(companies, root, news=()):
                      'about': None, 'status': 'from_news'})
         names.add(key)
         news_added.append(f"{country or '--'} {name}")
-    if added or catalogue or news_added or updated:
+    if added or catalogue or news_added or updated or removed:
         directory['total'] = len(rows)
         if SOURCE not in directory['sources']:
             directory['sources'].append(SOURCE)
@@ -122,7 +139,8 @@ def apply(companies, root, news=()):
         ppath.write_text(json.dumps(profiles, ensure_ascii=False, indent=2))
         dpath.write_text(json.dumps(directory, ensure_ascii=False, separators=(',', ':')))
         gpath.write_text(json.dumps(groups, ensure_ascii=False))
-    return {'profiles_added': added, 'profiles_updated': updated, 'catalogue_added': catalogue, 'news_added': news_added,
+    return {'profiles_added': added, 'profiles_updated': updated, 'profiles_removed': removed, 'catalogue_added': catalogue,
+            'news_added': news_added,
             'skipped': skipped,
             'profiles_total': len(profiles['profiles']), 'catalogue_total': len(rows)}
 
@@ -130,19 +148,20 @@ def apply(companies, root, news=()):
 if __name__ == '__main__':
     data = json.loads(Path(sys.argv[1]).read_text()) if len(sys.argv) > 1 else fetch()
     if isinstance(data, dict):  # FIELD dispatch since 23.11.2026: {"cards": [...], "catalogue": [...]}
-        result = apply(data.get('cards') or [], '.', data.get('catalogue') or [])
+        result = apply(data.get('cards') or [], '.', data.get('catalogue') or [], data.get('withdrawn') or [])
     else:
         result = apply(data or [], '.')
     print(json.dumps(result, ensure_ascii=False, indent=1))
     out = os.environ.get('GITHUB_OUTPUT')
     if out:
         with open(out, 'a') as f:
-            f.write(f"added={len(result['profiles_added']) + len(result['news_added']) + len(result['profiles_updated'])}\n")
+            f.write(f"added={len(result['profiles_added']) + len(result['news_added']) + len(result['profiles_updated']) + len(result['profiles_removed'])}\n")
     body = Path('company-cards-summary.md')
     body.write_text('Company cards from the database (autofill, B4CE-04 step 3.5).\n\n'
                     + f"Profiles added: {len(result['profiles_added'])}; catalogue records added: {len(result['catalogue_added'])}; "
                     + f"companies from the news added to the catalogue (not verified): {len(result['news_added'])}; "
                     + f"profiles rebuilt from changed claims: {len(result['profiles_updated'])}; "
+                    + f"profiles withdrawn (no defence contracts): {len(result['profiles_removed'])}; "
                     + f"total profiles {result['profiles_total']}, catalogue {result['catalogue_total']}.\n\n"
                     + ''.join(f'- {a}\n' for a in result['profiles_added'])
                     + ('\nSkipped:\n' + ''.join(f'- {n}: {why}\n' for n, why in result['skipped']) if result['skipped'] else ''))
