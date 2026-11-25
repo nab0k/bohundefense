@@ -91558,6 +91558,3276 @@
         ]
       },
       "card_hash": "f54280493c7b7a42"
+    },
+    "avl-list-gmbh": {
+      "developments": [
+        {
+          "date": "16 Dec 2022",
+          "title": "INDY — Energy Independent and Efficient Deployable Military Camps",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103388/EDF"
+        }
+      ],
+      "country": "AT",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "AVL List GmbH is a Austrian company registered in 1979, with its seat in Graz. It takes part in 1 European Defence Fund project (2022). Of these, EU funding to the company €449K.",
+        "overview": "AVL List GmbH is a Austrian company registered in 1979, with its seat in Graz. It takes part in 1 European Defence Fund project (2022). Of these, EU funding to the company €449K."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1979",
+            "Registered"
+          ],
+          [
+            "Graz, Austria",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900J7EWWGQ375DL84",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1979",
+            "Registered"
+          ],
+          [
+            "Graz, Austria",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900J7EWWGQ375DL84",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "INDY — Energy Independent and Efficient Deployable Military Camps",
+            "sub": "Participant · EU funding €449K of €14.2M · 22 partners · 2022–2025",
+            "status": "Grant · Ended",
+            "icon": "coins",
+            "date": "16 Dec 2022",
+            "desc": "EDF EDF-2021-ENERENV-D-EEMC-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103388/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "INDY — Energy Independent and Efficient Deployable Military Camps",
+            "sub": "Participant · EU funding €449K of €14.2M · 22 partners · 2022–2025",
+            "status": "Grant · Ended",
+            "icon": "coins",
+            "date": "16 Dec 2022",
+            "desc": "EDF EDF-2021-ENERENV-D-EEMC-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103388/EDF"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "PreonLab",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "AVL Scenario Designer",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "AVL Scenario Simulator",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "AVL VSM",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "AVL SIMcloud",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "AVL CLD C50",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Battery pack for hybrid electric vehicle",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Pouch module with a coated aluminum monoframe",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "AVL ATENE",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "PreonLab",
+              "Model.CONNECT™ PreonLab",
+              "grey"
+            ],
+            [
+              "AVL Scenario Designer",
+              "PreonLab AVL Scenario Designer™",
+              "grey"
+            ],
+            [
+              "AVL Scenario Simulator",
+              "AVL Scenario Designer™ AVL Scenario Simulator™",
+              "grey"
+            ],
+            [
+              "AVL VSM",
+              "AVL Scenario Simulator™ AVL VSM™",
+              "grey"
+            ],
+            [
+              "AVL SIMcloud",
+              "Simulation Software as a Service AVL SIMcloud™",
+              "grey"
+            ],
+            [
+              "AVL CLD C50",
+              "Press Release AVL CLD C50 Meets EPA PS-2 Requirements in Independent RATA",
+              "grey"
+            ],
+            [
+              "Battery pack for hybrid electric vehicle",
+              "McLaren Speedtail Battery pack development project from initial concept to start of production (SOP), incorporating modules into the battery",
+              "grey"
+            ],
+            [
+              "Pouch module with a coated aluminum monoframe",
+              "LG Pouch module with a coated aluminum monoframe. Now produced in very large batches and installed in the Audi e-tron and Porsche Taycan, fo",
+              "grey"
+            ],
+            [
+              "AVL ATENE",
+              "AVL ATENE™ AVL ATENE™ is an innovative solution designed to manage and optimize energy usage",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity AVL List GmbH, LEI 529900J7EWWGQ375DL84",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900J7EWWGQ375DL84"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103388",
+          "sources": 1,
+          "date": "16 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103388/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Graz",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "AVL List GmbH is a Austrian company registered in 1979, with its seat in Graz. It takes part in 1 European Defence Fund project (2022). Of these, EU funding to the company €449K.",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "€449K",
+            "label": "EU defence funding to the company",
+            "src": [
+              2
+            ]
+          },
+          {
+            "value": "1",
+            "label": "European Defence Fund projects",
+            "src": [
+              2
+            ]
+          },
+          {
+            "value": "21",
+            "label": "organisations it shares EDF projects with",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "1979",
+            "Registered",
+            null
+          ],
+          [
+            "Graz, Austria",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900J7EWWGQ375DL84",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "INDY — Energy Independent and Efficient Deployable Military Camps",
+            "sub": "Participant · EU funding €449K of €14.2M · 22 partners · 2022–2025",
+            "status": "Grant · Ended",
+            "date": "16 Dec 2022",
+            "iso": "2022-12-16",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant · €449K",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "C&V DEFENCE",
+            "country": "BE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "CAFA TECH OU",
+            "country": "EE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "research",
+            "name": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "country": "FR",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "EQUIPOS MOVILES DE CAMPANA ARPA SA",
+            "country": "ES",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "research",
+            "name": "FRAUNHOFER GESELLSCHAFT ZUR FORDERUNG DER ANGEWANDTEN FORSCHUNG EV",
+            "country": "DE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "HENSOLDT NEXEYA FRANCE",
+            "country": "FR",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "INDRA FACTORIA TECNOLOGICA SL",
+            "country": "ES",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "INDRA SISTEMAS SA",
+            "country": "ES",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900J7EWWGQ375DL84",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900J7EWWGQ375DL84"
+          },
+          {
+            "title": "EU Funding & Tenders portal · INDY",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103388/EDF"
+          }
+        ]
+      },
+      "card_hash": "ce0e771959f1009a"
+    },
+    "beyond-gravity-austria-gmbh": {
+      "developments": [
+        {
+          "date": "16 Dec 2022",
+          "title": "NAVGUARD — Advanced Galileo PRS resilience for EU Defence",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103596/EDF"
+        }
+      ],
+      "country": "AT",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Beyond Gravity Austria GmbH is a Austrian company registered in 1983, with its seat in Wien. It takes part in 1 European Defence Fund project (2022). Of these, 1 ongoing, EU funding to the company €960K.",
+        "overview": "Beyond Gravity Austria GmbH is a Austrian company registered in 1983, with its seat in Wien. It takes part in 1 European Defence Fund project (2022). Of these, 1 ongoing, EU funding to the company €960K."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1983",
+            "Registered"
+          ],
+          [
+            "Wien, Austria",
+            "Headquarters"
+          ],
+          [
+            "LEI 5299002BL21IQ3B45Q05",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1983",
+            "Registered"
+          ],
+          [
+            "Wien, Austria",
+            "Headquarters"
+          ],
+          [
+            "LEI 5299002BL21IQ3B45Q05",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "NAVGUARD — Advanced Galileo PRS resilience for EU Defence",
+            "sub": "Participant · EU funding €960K of €24.4M · 28 partners · 2022–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "16 Dec 2022",
+            "desc": "EDF EDF-2021-SPACE-D-SGNS-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103596/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "NAVGUARD — Advanced Galileo PRS resilience for EU Defence",
+            "sub": "Participant · EU funding €960K of €24.4M · 28 partners · 2022–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "16 Dec 2022",
+            "desc": "EDF EDF-2021-SPACE-D-SGNS-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103596/EDF"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "Payload fairings",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Interstage adapters",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Satellite dispensers",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Antennas",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Drive electronics",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Payload fairings",
+              "For decades, our payload fairings, interstage adapters, dispensers, payload adapters and separation systems have been the first choice for p",
+              "grey"
+            ],
+            [
+              "Interstage adapters",
+              "For decades, our payload fairings, interstage adapters, dispensers, payload adapters and separation systems have been the first choice for p",
+              "grey"
+            ],
+            [
+              "Satellite dispensers",
+              "Beyond Gravity is a world leader in the manufacture of satellite dispensers. The cylindrically shaped carbon fibre structures make it possib",
+              "grey"
+            ],
+            [
+              "Antennas",
+              "High-Quality Antennas for Telecom, TT&C, DDL, ISL, and GNSS Receive/Transmit with a 50+ Year Track Record of Success.",
+              "grey"
+            ],
+            [
+              "Drive electronics",
+              "Drive electronics for high-performance and reliable satellite mechanism management, trusted by leading satellite manufacturers and operators",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Beyond Gravity Austria GmbH, LEI 5299002BL21IQ3B45Q05",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/5299002BL21IQ3B45Q05"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103596",
+          "sources": 1,
+          "date": "16 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103596/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Wien",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Beyond Gravity Austria GmbH is a Austrian company registered in 1983, with its seat in Wien. It takes part in 1 European Defence Fund project (2022). Of these, 1 ongoing, EU funding to the company €960K.",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "€960K",
+            "label": "EU defence funding to the company",
+            "src": [
+              2
+            ]
+          },
+          {
+            "value": "1",
+            "label": "European Defence Fund projects",
+            "src": [
+              2
+            ]
+          },
+          {
+            "value": "1",
+            "label": "ongoing now",
+            "src": [
+              2
+            ]
+          },
+          {
+            "value": "27",
+            "label": "organisations it shares EDF projects with",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "1983",
+            "Registered",
+            null
+          ],
+          [
+            "Wien, Austria",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 5299002BL21IQ3B45Q05",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "NAVGUARD — Advanced Galileo PRS resilience for EU Defence",
+            "sub": "Participant · EU funding €960K of €24.4M · 28 partners · 2022–2028",
+            "status": "Grant · Ongoing",
+            "date": "16 Dec 2022",
+            "iso": "2022-12-16",
+            "ongoing": true,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant · €960K",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "AEROSPACELAB",
+            "country": "BE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ANTWERP SPACE N.V.",
+            "country": "BE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "BEYOND GRAVITY GERMANY GMBH",
+            "country": "DE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "BEYOND GRAVITY SWEDEN AB",
+            "country": "SE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "CIPHERBIT SL",
+            "country": "ES",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "DIEHL DEFENCE GMBH & CO. KG",
+            "country": "DE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ELETTRONICA SPA",
+            "country": "IT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "FDC SARL",
+            "country": "FR",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 5299002BL21IQ3B45Q05",
+            "url": "https://api.gleif.org/api/v1/lei-records/5299002BL21IQ3B45Q05"
+          },
+          {
+            "title": "EU Funding & Tenders portal · NAVGUARD",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103596/EDF"
+          }
+        ]
+      },
+      "card_hash": "0b1ed797f226574a"
+    },
+    "schiebel-elektronische-gerate-gmbh": {
+      "developments": [
+        {
+          "date": "28 Nov 2025",
+          "title": "SQORPION — Spin-based Quantum Optics for Robust and Precise Inertial Sensing, Orientation and Navigation",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224744/EDF"
+        }
+      ],
+      "country": "AT",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Schiebel Elektronische Geräte GmbH is a Austrian company registered in 1986, with its seat in Wien. It takes part in 1 European Defence Fund project (2025). Of these, 1 ongoing, EU funding to the company €581K.",
+        "overview": "Schiebel Elektronische Geräte GmbH is a Austrian company registered in 1986, with its seat in Wien. It takes part in 1 European Defence Fund project (2025). Of these, 1 ongoing, EU funding to the company €581K."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1986",
+            "Registered"
+          ],
+          [
+            "Wien, Austria",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900X2C5RZQQBH6T29",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1986",
+            "Registered"
+          ],
+          [
+            "Wien, Austria",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900X2C5RZQQBH6T29",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "SQORPION — Spin-based Quantum Optics for Robust and Precise Inertial Sensing, Orientation and Navigation",
+            "sub": "Participant · EU funding €581K of €8.7M · 7 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "28 Nov 2025",
+            "desc": "EDF EDF-2024-LS-RA-DIS-QUANT-STEP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224744/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "SQORPION — Spin-based Quantum Optics for Robust and Precise Inertial Sensing, Orientation and Navigation",
+            "sub": "Participant · EU funding €581K of €8.7M · 7 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "28 Nov 2025",
+            "desc": "EDF EDF-2024-LS-RA-DIS-QUANT-STEP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224744/EDF"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "CAMCOPTER® S-101 UAS",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "CAMCOPTER® S-301 UAS",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "MIMID™",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "ATMID™",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "AN-19/2",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "CAMCOPTER® S-101 UAS",
+              "CAMCOPTER® S-101 UAS",
+              "grey"
+            ],
+            [
+              "CAMCOPTER® S-301 UAS",
+              "CAMCOPTER® S-301 UAS",
+              "grey"
+            ],
+            [
+              "MIMID™",
+              "Based on the proven technology of the AN-19/2, the MIMID™ is a highly convenient, one-piece mine detector that is capable of detecting minim",
+              "grey"
+            ],
+            [
+              "ATMID™",
+              "The ATMID™ All Terrain Mine Detector is the ultimate in mine clearance technology. It is highly effective in detecting minimum-metal-content",
+              "grey"
+            ],
+            [
+              "AN-19/2",
+              "The AN-19/2 is one of the most widely used mine detectors in the world for both humanitarian and military purposes.",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Schiebel Elektronische Geräte GmbH, LEI 529900X2C5RZQQBH6T29",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900X2C5RZQQBH6T29"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224744",
+          "sources": 1,
+          "date": "28 Nov 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224744/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Wien",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Schiebel Elektronische Geräte GmbH is a Austrian company registered in 1986, with its seat in Wien. It takes part in 1 European Defence Fund project (2025). Of these, 1 ongoing, EU funding to the company €581K.",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "€581K",
+            "label": "EU defence funding to the company",
+            "src": [
+              2
+            ]
+          },
+          {
+            "value": "1",
+            "label": "European Defence Fund projects",
+            "src": [
+              2
+            ]
+          },
+          {
+            "value": "1",
+            "label": "ongoing now",
+            "src": [
+              2
+            ]
+          },
+          {
+            "value": "6",
+            "label": "organisations it shares EDF projects with",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "1986",
+            "Registered",
+            null
+          ],
+          [
+            "Wien, Austria",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900X2C5RZQQBH6T29",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "SQORPION — Spin-based Quantum Optics for Robust and Precise Inertial Sensing, Orientation and Navigation",
+            "sub": "Participant · EU funding €581K of €8.7M · 7 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "date": "28 Nov 2025",
+            "iso": "2025-11-28",
+            "ongoing": true,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant · €581K",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "COSYLAB LABORATORIJ ZA KONTROLNE SISTEME DD",
+            "country": "SI",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "research",
+            "name": "IHP GMBH - LEIBNIZ INSTITUTE FOR HIGH PERFORMANCE MICROELECTRONICS",
+            "country": "DE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "research",
+            "name": "INSTITUT JOZEF STEFAN",
+            "country": "SI",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "research",
+            "name": "JOHANNES GUTENBERG-UNIVERSITAT MAINZ",
+            "country": "DE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "NORTHROP GRUMMAN ITALIA S.P.A.",
+            "country": "IT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "research",
+            "name": "SILICON AUSTRIA LABS GMBH",
+            "country": "AT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900X2C5RZQQBH6T29",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900X2C5RZQQBH6T29"
+          },
+          {
+            "title": "EU Funding & Tenders portal · SQORPION",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224744/EDF"
+          }
+        ]
+      },
+      "card_hash": "7babd2404eb72333"
+    },
+    "aerospacelab": {
+      "developments": [
+        {
+          "date": "16 Dec 2022",
+          "title": "NAVGUARD — Advanced Galileo PRS resilience for EU Defence",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103596/EDF"
+        }
+      ],
+      "country": "BE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "AEROSPACELAB is a Belgian company registered in 2016, with its seat in Mont-Saint-Guibert. It takes part in 1 European Defence Fund project (2022). Of these, 1 ongoing, EU funding to the company €1.1M.",
+        "overview": "AEROSPACELAB is a Belgian company registered in 2016, with its seat in Mont-Saint-Guibert. It takes part in 1 European Defence Fund project (2022). Of these, 1 ongoing, EU funding to the company €1.1M."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2016",
+            "Registered"
+          ],
+          [
+            "Mont-Saint-Guibert, Belgium",
+            "Headquarters"
+          ],
+          [
+            "LEI 64883NV268O0HAGG4939",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2016",
+            "Registered"
+          ],
+          [
+            "Mont-Saint-Guibert, Belgium",
+            "Headquarters"
+          ],
+          [
+            "LEI 64883NV268O0HAGG4939",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "NAVGUARD — Advanced Galileo PRS resilience for EU Defence",
+            "sub": "Participant · EU funding €1.1M of €24.4M · 28 partners · 2022–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "16 Dec 2022",
+            "desc": "EDF EDF-2021-SPACE-D-SGNS-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103596/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "NAVGUARD — Advanced Galileo PRS resilience for EU Defence",
+            "sub": "Participant · EU funding €1.1M of €24.4M · 28 partners · 2022–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "16 Dec 2022",
+            "desc": "EDF EDF-2021-SPACE-D-SGNS-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103596/EDF"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "ITAR‑free development & European supply chain",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "ITAR‑free development & European supply chain",
+              "ITAR‑free development & European supply chain",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity AEROSPACELAB, LEI 64883NV268O0HAGG4939",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/64883NV268O0HAGG4939"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103596",
+          "sources": 1,
+          "date": "16 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103596/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Mont-Saint-Guibert",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "AEROSPACELAB is a Belgian company registered in 2016, with its seat in Mont-Saint-Guibert. It takes part in 1 European Defence Fund project (2022). Of these, 1 ongoing, EU funding to the company €1.1M.",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "€1.1M",
+            "label": "EU defence funding to the company",
+            "src": [
+              2
+            ]
+          },
+          {
+            "value": "1",
+            "label": "European Defence Fund projects",
+            "src": [
+              2
+            ]
+          },
+          {
+            "value": "1",
+            "label": "ongoing now",
+            "src": [
+              2
+            ]
+          },
+          {
+            "value": "27",
+            "label": "organisations it shares EDF projects with",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "2016",
+            "Registered",
+            null
+          ],
+          [
+            "Mont-Saint-Guibert, Belgium",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 64883NV268O0HAGG4939",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "NAVGUARD — Advanced Galileo PRS resilience for EU Defence",
+            "sub": "Participant · EU funding €1.1M of €24.4M · 28 partners · 2022–2028",
+            "status": "Grant · Ongoing",
+            "date": "16 Dec 2022",
+            "iso": "2022-12-16",
+            "ongoing": true,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant · €1.1M",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ANTWERP SPACE N.V.",
+            "country": "BE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "BEYOND GRAVITY AUSTRIA GMBH",
+            "country": "AT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "BEYOND GRAVITY GERMANY GMBH",
+            "country": "DE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "BEYOND GRAVITY SWEDEN AB",
+            "country": "SE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "CIPHERBIT SL",
+            "country": "ES",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "DIEHL DEFENCE GMBH & CO. KG",
+            "country": "DE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ELETTRONICA SPA",
+            "country": "IT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "FDC SARL",
+            "country": "FR",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 64883NV268O0HAGG4939",
+            "url": "https://api.gleif.org/api/v1/lei-records/64883NV268O0HAGG4939"
+          },
+          {
+            "title": "EU Funding & Tenders portal · NAVGUARD",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103596/EDF"
+          }
+        ]
+      },
+      "card_hash": "8ba8dc471783a885"
+    },
+    "john-cockerill-defense": {
+      "developments": [
+        {
+          "date": "09 Dec 2022",
+          "title": "MARSEUS — Modular ARchitecture Solution for EU States",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103595/EDF"
+        }
+      ],
+      "country": "BE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "JOHN COCKERILL DEFENSE is a Belgian company registered in 2014, with its seat in Ans. It takes part in 1 European Defence Fund project (2022). Of these, EU funding to the company €1.0M.",
+        "overview": "JOHN COCKERILL DEFENSE is a Belgian company registered in 2014, with its seat in Ans. It takes part in 1 European Defence Fund project (2022). Of these, EU funding to the company €1.0M."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2014",
+            "Registered"
+          ],
+          [
+            "Ans, Belgium",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900TY2GYO7NSVF328",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2014",
+            "Registered"
+          ],
+          [
+            "Ans, Belgium",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900TY2GYO7NSVF328",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "MARSEUS — Modular ARchitecture Solution for EU States",
+            "sub": "Participant · EU funding €1.0M of €25.0M · 15 partners · 2022–2026",
+            "status": "Grant · Ended",
+            "icon": "coins",
+            "date": "09 Dec 2022",
+            "desc": "EDF EDF-2021-GROUND-D-3CA-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103595/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "MARSEUS — Modular ARchitecture Solution for EU States",
+            "sub": "Participant · EU funding €1.0M of €25.0M · 15 partners · 2022–2026",
+            "status": "Grant · Ended",
+            "icon": "coins",
+            "date": "09 Dec 2022",
+            "desc": "EDF EDF-2021-GROUND-D-3CA-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103595/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity JOHN COCKERILL DEFENSE, LEI 529900TY2GYO7NSVF328",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900TY2GYO7NSVF328"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103595",
+          "sources": 1,
+          "date": "09 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103595/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Ans",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "JOHN COCKERILL DEFENSE is a Belgian company registered in 2014, with its seat in Ans. It takes part in 1 European Defence Fund project (2022). Of these, EU funding to the company €1.0M.",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "€1.0M",
+            "label": "EU defence funding to the company",
+            "src": [
+              2
+            ]
+          },
+          {
+            "value": "1",
+            "label": "European Defence Fund projects",
+            "src": [
+              2
+            ]
+          },
+          {
+            "value": "14",
+            "label": "organisations it shares EDF projects with",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "2014",
+            "Registered",
+            null
+          ],
+          [
+            "Ans, Belgium",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900TY2GYO7NSVF328",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "MARSEUS — Modular ARchitecture Solution for EU States",
+            "sub": "Participant · EU funding €1.0M of €25.0M · 15 partners · 2022–2026",
+            "status": "Grant · Ended",
+            "date": "09 Dec 2022",
+            "iso": "2022-12-09",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant · €1.0M",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ADDITESS ADVANCED INTEGRATED TECHNOLOGY SOLUTIONS & SERVICES LTD",
+            "country": "CY",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ARQUUS",
+            "country": "FR",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "BAE SYSTEMS HAGGLUNDS",
+            "country": "SE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "BERTIN EXENSOR AB",
+            "country": "SE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "BULL SAS",
+            "country": "FR",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "DELAIR",
+            "country": "FR",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "EXOSENS ADVANCED IMAGING BELGIUM",
+            "country": "BE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "FN HERSTAL SA",
+            "country": "BE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900TY2GYO7NSVF328",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900TY2GYO7NSVF328"
+          },
+          {
+            "title": "EU Funding & Tenders portal · MARSEUS",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103595/EDF"
+          }
+        ]
+      },
+      "card_hash": "c29ecaa42e63505c"
+    },
+    "metallwerk-elisenhutte": {
+      "developments": [
+        {
+          "date": "25 Sep 2024",
+          "title": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/575355-2024"
+        },
+        {
+          "date": "25 Sep 2024",
+          "title": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/576308-2024"
+        },
+        {
+          "date": "02 Aug 2024",
+          "title": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/466326-2024"
+        },
+        {
+          "date": "24 Jan 2024",
+          "title": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/47991-2024"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "Metallwerk Elisenhütte GmbH is a German company registered in 1968, with its seat in Nassau. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (25 Sep 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (25 Sep 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (02 Aug 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (24 Jan 2024).",
+        "overview": "Metallwerk Elisenhütte GmbH is a German company registered in 1968, with its seat in Nassau. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (25 Sep 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (25 Sep 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (02 Aug 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (24 Jan 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1968",
+            "Registered"
+          ],
+          [
+            "Nassau, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900AN6RFIZOMZXG63",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1968",
+            "Registered"
+          ],
+          [
+            "Nassau, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900AN6RFIZOMZXG63",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 575355-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "25 Sep 2024",
+            "desc": "TED notice 575355-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 576308-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "25 Sep 2024",
+            "desc": "TED notice 576308-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 466326-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "02 Aug 2024",
+            "desc": "TED notice 466326-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 47991-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "24 Jan 2024",
+            "desc": "TED notice 47991-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 575355-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "25 Sep 2024",
+            "desc": "TED notice 575355-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 576308-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "25 Sep 2024",
+            "desc": "TED notice 576308-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 466326-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "02 Aug 2024",
+            "desc": "TED notice 466326-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 47991-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "24 Jan 2024",
+            "desc": "TED notice 47991-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.9,
+            "y": 0.45,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.9,
+            "y": 0.45,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Metallwerk Elisenhütte GmbH, LEI 529900AN6RFIZOMZXG63",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900AN6RFIZOMZXG63"
+        },
+        {
+          "claim": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (TED 575355-2024)",
+          "sources": 1,
+          "date": "25 Sep 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/575355-2024"
+        },
+        {
+          "claim": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (TED 576308-2024)",
+          "sources": 1,
+          "date": "25 Sep 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/576308-2024"
+        },
+        {
+          "claim": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (TED 466326-2024)",
+          "sources": 1,
+          "date": "02 Aug 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/466326-2024"
+        },
+        {
+          "claim": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (TED 47991-2024)",
+          "sources": 1,
+          "date": "24 Jan 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/47991-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Nassau",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Metallwerk Elisenhütte GmbH is a German company registered in 1968, with its seat in Nassau. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (25 Sep 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (25 Sep 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (02 Aug 2024). EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (24 Jan 2024).",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "4",
+            "label": "contract awards on record",
+            "src": [
+              5,
+              4,
+              2,
+              3
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "1968",
+            "Registered",
+            null
+          ],
+          [
+            "Nassau, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900AN6RFIZOMZXG63",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 47991-2024",
+            "status": "Contract award",
+            "date": "24 Jan 2024",
+            "iso": "2024-01-24",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 466326-2024",
+            "status": "Contract award",
+            "date": "02 Aug 2024",
+            "iso": "2024-08-02",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 575355-2024",
+            "status": "Contract award",
+            "date": "25 Sep 2024",
+            "iso": "2024-09-25",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 576308-2024",
+            "status": "Contract award",
+            "date": "25 Sep 2024",
+            "iso": "2024-09-25",
+            "ongoing": false,
+            "src": 3
+          }
+        ],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900AN6RFIZOMZXG63",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900AN6RFIZOMZXG63"
+          },
+          {
+            "title": "TED notice 575355-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/575355-2024"
+          },
+          {
+            "title": "TED notice 576308-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/576308-2024"
+          },
+          {
+            "title": "TED notice 466326-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/466326-2024"
+          },
+          {
+            "title": "TED notice 47991-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/47991-2024"
+          }
+        ]
+      },
+      "card_hash": "806e6e68dcbe407f"
+    },
+    "multiverse-computing-sl": {
+      "developments": [
+        {
+          "date": "03 Aug 2026",
+          "title": "AI-SHIELD — Secure, Human-AI, Interactive, Edge, Language, Dialogue",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101305024/EDF"
+        }
+      ],
+      "country": "ES",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "MULTIVERSE COMPUTING SL is a Spanish company registered in 2019, with its seat in Gipuzkoa. It takes part in 1 European Defence Fund project (2026). Of these, coordinates 1, EU funding to the company €1.2M.",
+        "overview": "MULTIVERSE COMPUTING SL is a Spanish company registered in 2019, with its seat in Gipuzkoa. It takes part in 1 European Defence Fund project (2026). Of these, coordinates 1, EU funding to the company €1.2M."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2019",
+            "Registered"
+          ],
+          [
+            "Gipuzkoa, Spain",
+            "Headquarters"
+          ],
+          [
+            "LEI 894500YIPP5LC1STIW26",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2019",
+            "Registered"
+          ],
+          [
+            "Gipuzkoa, Spain",
+            "Headquarters"
+          ],
+          [
+            "LEI 894500YIPP5LC1STIW26",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "AI-SHIELD — Secure, Human-AI, Interactive, Edge, Language, Dialogue",
+            "sub": "Coordinator · EU funding €1.2M of €4.9M · 7 partners · 2026–2030",
+            "status": "Grant · Forthcoming",
+            "icon": "coins",
+            "date": "03 Aug 2026",
+            "desc": "EDF EDF-2025-LS-RA-CHALLENGE-DIGIT-HAIDP-STEP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101305024/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "AI-SHIELD — Secure, Human-AI, Interactive, Edge, Language, Dialogue",
+            "sub": "Coordinator · EU funding €1.2M of €4.9M · 7 partners · 2026–2030",
+            "status": "Grant · Forthcoming",
+            "icon": "coins",
+            "date": "03 Aug 2026",
+            "desc": "EDF EDF-2025-LS-RA-CHALLENGE-DIGIT-HAIDP-STEP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101305024/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity MULTIVERSE COMPUTING SL, LEI 894500YIPP5LC1STIW26",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/894500YIPP5LC1STIW26"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101305024",
+          "sources": 1,
+          "date": "03 Aug 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101305024/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Gipuzkoa",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "MULTIVERSE COMPUTING SL is a Spanish company registered in 2019, with its seat in Gipuzkoa. It takes part in 1 European Defence Fund project (2026). Of these, coordinates 1, EU funding to the company €1.2M.",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "€1.2M",
+            "label": "EU defence funding to the company",
+            "src": [
+              2
+            ]
+          },
+          {
+            "value": "1",
+            "label": "European Defence Fund projects",
+            "src": [
+              2
+            ]
+          },
+          {
+            "value": "1",
+            "label": "projects it coordinates",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "2019",
+            "Registered",
+            null
+          ],
+          [
+            "Gipuzkoa, Spain",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 894500YIPP5LC1STIW26",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "AI-SHIELD — Secure, Human-AI, Interactive, Edge, Language, Dialogue",
+            "sub": "Coordinator · EU funding €1.2M of €4.9M · 7 partners · 2026–2030",
+            "status": "Grant · Forthcoming",
+            "date": "03 Aug 2026",
+            "iso": "2026-08-03",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant · €1.2M",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "C&V DEFENCE",
+            "country": "BE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "research",
+            "name": "INSTYTUT CHEMII BIOORGANICZNEJ POLSKIEJ AKADEMII NAUK",
+            "country": "PL",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "OESIA NETWORKS SL",
+            "country": "ES",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "research",
+            "name": "SXOLI IKARON",
+            "country": "EL",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "research",
+            "name": "UNIVERZITA KARLOVA",
+            "country": "CZ",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "WISER TECHNOLOGY SOLUTIONS EOOD",
+            "country": "BG",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 894500YIPP5LC1STIW26",
+            "url": "https://api.gleif.org/api/v1/lei-records/894500YIPP5LC1STIW26"
+          },
+          {
+            "title": "EU Funding & Tenders portal · AI-SHIELD",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101305024/EDF"
+          }
+        ]
+      },
+      "card_hash": "8a24ebc3eef6db50"
+    },
+    "nederlandse-organisatie-voor-toegepast-natuurwetenschappelijk-onderzoek-tno": {
+      "developments": [
+        {
+          "date": "08 Dec 2023",
+          "title": "HiTDOC — Hidden Threat Detection – Organisation of a technological Challenge",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121350/EDF"
+        },
+        {
+          "date": "16 Dec 2022",
+          "title": "INDY — Energy Independent and Efficient Deployable Military Camps",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103388/EDF"
+        }
+      ],
+      "country": "NL",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO is a Dutch company registered in 1932, with its seat in 'S-Gravenhage. It takes part in 2 European Defence Fund projects (2022–2023). Of these, 1 ongoing, EU funding to the company €2.1M.",
+        "overview": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO is a Dutch company registered in 1932, with its seat in 'S-Gravenhage. It takes part in 2 European Defence Fund projects (2022–2023). Of these, 1 ongoing, EU funding to the company €2.1M."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1932",
+            "Registered"
+          ],
+          [
+            "'S-Gravenhage, Netherlands",
+            "Headquarters"
+          ],
+          [
+            "LEI 724500AZSGBRY55MNS59",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1932",
+            "Registered"
+          ],
+          [
+            "'S-Gravenhage, Netherlands",
+            "Headquarters"
+          ],
+          [
+            "LEI 724500AZSGBRY55MNS59",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "HiTDOC — Hidden Threat Detection – Organisation of a technological Challenge",
+            "sub": "Participant · EU funding €1.3M of €4.7M · 4 partners · 2023–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "08 Dec 2023",
+            "desc": "EDF EDF-2022-LS-RA-CHALLENGE-DIGIT-HTDO",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121350/EDF"
+          },
+          {
+            "title": "INDY — Energy Independent and Efficient Deployable Military Camps",
+            "sub": "Participant · EU funding €880K of €14.2M · 22 partners · 2022–2025",
+            "status": "Grant · Ended",
+            "icon": "coins",
+            "date": "16 Dec 2022",
+            "desc": "EDF EDF-2021-ENERENV-D-EEMC-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103388/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "HiTDOC — Hidden Threat Detection – Organisation of a technological Challenge",
+            "sub": "Participant · EU funding €1.3M of €4.7M · 4 partners · 2023–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "08 Dec 2023",
+            "desc": "EDF EDF-2022-LS-RA-CHALLENGE-DIGIT-HTDO",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121350/EDF"
+          },
+          {
+            "title": "INDY — Energy Independent and Efficient Deployable Military Camps",
+            "sub": "Participant · EU funding €880K of €14.2M · 22 partners · 2022–2025",
+            "status": "Grant · Ended",
+            "icon": "coins",
+            "date": "16 Dec 2022",
+            "desc": "EDF EDF-2021-ENERENV-D-EEMC-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103388/EDF"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "Powder Based Printer",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Powder Based Printer",
+              "Een voorbeeld van een TNO 3D-printer is de Powder Based Printer.",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO, LEI 724500AZSGBRY55MNS59",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/724500AZSGBRY55MNS59"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121350",
+          "sources": 1,
+          "date": "08 Dec 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121350/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103388",
+          "sources": 1,
+          "date": "16 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103388/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "'S-Gravenhage",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Nederlandse Organisatie voor toegepast-natuurwetenschappelijk onderzoek TNO is a Dutch company registered in 1932, with its seat in 'S-Gravenhage. It takes part in 2 European Defence Fund projects (2022–2023). Of these, 1 ongoing, EU funding to the company €2.1M.",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "€2.1M",
+            "label": "EU defence funding to the company",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "2",
+            "label": "European Defence Fund projects",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "1",
+            "label": "ongoing now",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "22",
+            "label": "organisations it shares EDF projects with",
+            "src": [
+              2,
+              3
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "1932",
+            "Registered",
+            null
+          ],
+          [
+            "'S-Gravenhage, Netherlands",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 724500AZSGBRY55MNS59",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "HiTDOC — Hidden Threat Detection – Organisation of a technological Challenge",
+            "sub": "Participant · EU funding €1.3M of €4.7M · 4 partners · 2023–2028",
+            "status": "Grant · Ongoing",
+            "date": "08 Dec 2023",
+            "iso": "2023-12-08",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "INDY — Energy Independent and Efficient Deployable Military Camps",
+            "sub": "Participant · EU funding €880K of €14.2M · 22 partners · 2022–2025",
+            "status": "Grant · Ended",
+            "date": "16 Dec 2022",
+            "iso": "2022-12-16",
+            "ongoing": false,
+            "src": 3
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "2 grants · €2.1M",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "research",
+            "name": "FRAUNHOFER GESELLSCHAFT ZUR FORDERUNG DER ANGEWANDTEN FORSCHUNG EV",
+            "country": "DE",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "research",
+            "name": "INSTITUTO NACIONAL DE TECNICA AEROESPACIAL ESTEBAN TERRADAS",
+            "country": "ES",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "AVL LIST GMBH",
+            "country": "AT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "C&V DEFENCE",
+            "country": "BE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "CAFA TECH OU",
+            "country": "EE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "research",
+            "name": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+            "country": "FR",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "EQUIPOS MOVILES DE CAMPANA ARPA SA",
+            "country": "ES",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "HENSOLDT NEXEYA FRANCE",
+            "country": "FR",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 724500AZSGBRY55MNS59",
+            "url": "https://api.gleif.org/api/v1/lei-records/724500AZSGBRY55MNS59"
+          },
+          {
+            "title": "EU Funding & Tenders portal · HiTDOC",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121350/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · INDY",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103388/EDF"
+          }
+        ]
+      },
+      "card_hash": "a6bc7ed1bc4c4dca"
+    },
+    "castelion": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "CASTELION CORPORATION is a US company, with its seat in Torrance. US federal spending records show US$181.4M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 8 contracts; the largest customer is the Department of the Navy.",
+        "overview": "CASTELION CORPORATION is a US company, with its seat in Torrance. US federal spending records show US$181.4M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 8 contracts; the largest customer is the Department of the Navy."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Torrance, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI U56KN6TRS3K1",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Torrance, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI U56KN6TRS3K1",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity CASTELION CORPORATION, UEI U56KN6TRS3K1",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/2e793a61-7aa3-b7ff-70d3-0c1164c19b56-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/2e793a61-7aa3-b7ff-70d3-0c1164c19b56-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Torrance",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "CASTELION CORPORATION is a US company, with its seat in Torrance. US federal spending records show US$181.4M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 8 contracts; the largest customer is the Department of the Navy.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$181.4M",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all Department of the Navy",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "8",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Torrance, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI U56KN6TRS3K1",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Per SOW, G/R LIST, and technical proposal",
+            "sub": "Department of the Navy · US$155.0M · 2026–2028",
+            "status": "Contract",
+            "date": "25 Feb 2026",
+            "iso": "2026-02-25",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "LOW-COST highly manufacturable LONG-RANGE strike weapon production small business independent research (SBIR) phase III",
+            "sub": "Department of the Air Force · US$55.8M · 2024–2026",
+            "status": "Contract",
+            "date": "02 Oct 2024",
+            "iso": "2024-10-02",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "Per SOW, cdrls and technical proposal",
+            "sub": "Department of the Navy · US$23.4M · 2026–2027",
+            "status": "Contract",
+            "date": "11 Jun 2026",
+            "iso": "2026-06-11",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "Future operational capabilities for the US (FOCUS)",
+            "sub": "Department of the Air Force · US$18.9M · 2023–2027",
+            "status": "Contract",
+            "date": "11 Sep 2023",
+            "iso": "2023-09-11",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "Compact hypersonic MISSILE/EFFECTOR reactive material (CHYMERA) warhead prototype and demonstration",
+            "sub": "Missile Defense Agency · US$2.0M · 2025–2027",
+            "status": "Contract",
+            "date": "08 Sep 2025",
+            "iso": "2025-09-08",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "New phase II - effort ENTITLED, hypersonic equipage from twenty FOOT equivalent UNIT CONTAINER, proposal F2D-11201. cast",
+            "sub": "Department of the Army · US$1.8M · 2025–2027",
+            "status": "Contract",
+            "date": "11 Mar 2025",
+            "iso": "2025-03-11",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "KU-BAND affordable resiliently manufactured AESA (KARMA)",
+            "sub": "Department of the Air Force · US$1.4M · 2025–2027",
+            "status": "Contract",
+            "date": "05 Apr 2025",
+            "iso": "2025-04-05",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "Scalable homeland innovative enterprise layered defense (SHIELD) initial ORDER.",
+            "sub": "Missile Defense Agency · US$0K · 2025–2035",
+            "status": "Contract",
+            "date": "29 Dec 2025",
+            "iso": "2025-12-29",
+            "ongoing": true,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$356.7M · 2 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              4
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$78.0M · 3 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              3,
+              5
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$2.9M · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              7
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Missile Defense Agency",
+            "sub": "Customer · US$2.0M · 2 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              6,
+              9
+            ]
+          },
+          {
+            "type": "competitor",
+            "name": "LOCKHEED MARTIN CORPORATION",
+            "country": "US",
+            "in_catalogue": true,
+            "sub": "Competitor",
+            "status": "verified",
+            "quote": "Lockheed Martin’s prototype will go against submissions from Anduril, Castelion, Mach Industries and RTX.",
+            "src": [
+              10
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "United States Air Force",
+            "country": null,
+            "in_catalogue": false,
+            "sub": "Customer",
+            "status": "verified",
+            "quote": "The United States Air Force (USAF) has awarded Anduril and Castelion contracts to develop prototypes under the Counter-Air Missile Program (CAMP).",
+            "src": [
+              11
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Air Force Research Laboratory",
+            "country": null,
+            "in_catalogue": false,
+            "sub": "Customer · US$16.4M · reported, not confirmed",
+            "status": "candidate",
+            "quote": "Castelion has been awarded a contract modification to its existing work with the Air Force Research Laboratory to begin Blackbeard integration activities with the F-16.",
+            "src": [
+              12
+            ]
+          }
+        ],
+        "products": [
+          {
+            "name": "Blackbeard",
+            "role": "makes",
+            "status": "candidate",
+            "quote": "Castelion’s Hypersonic ‘Blackbeard’ Missile",
+            "src": [
+              12
+            ]
+          }
+        ],
+        "news": [
+          {
+            "iso": "2026-10-27",
+            "kind": "Competitor",
+            "title": "Competitor: LOCKHEED MARTIN CORPORATION",
+            "line": "Lockheed Martin’s prototype will go against submissions from Anduril, Castelion, Mach Industries and RTX.",
+            "src": 10
+          },
+          {
+            "iso": "2026-10-27",
+            "kind": "Customer",
+            "title": "Customer: Air Force Research Laboratory",
+            "line": "Castelion has been awarded a contract modification to its existing work with the Air Force Research Laboratory to begin Blackbeard integration activities with the F-16.",
+            "src": 12
+          }
+        ],
+        "sources": [
+          {
+            "title": "Register · UEI U56KN6TRS3K1",
+            "url": "https://www.usaspending.gov/recipient/2e793a61-7aa3-b7ff-70d3-0c1164c19b56-C/latest"
+          },
+          {
+            "title": "USAspending.gov · N6833526F1022",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N6833526F1022_9700_N6833526G0006_9700"
+          },
+          {
+            "title": "USAspending.gov · FA861224CB010",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA861224CB010_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N6833526F1138",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N6833526F1138_9700_N6833526G0006_9700"
+          },
+          {
+            "title": "USAspending.gov · FA238523CB007",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA238523CB007_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · HQ086025CE025",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_HQ086025CE025_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W912CG25C0009",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W912CG25C0009_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · FA865125CB026",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA865125CB026_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · HQ085926FF347",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_HQ085926FF347_9700_HQ085926DE866_9700"
+          },
+          {
+            "title": "navalnews.com",
+            "url": "https://www.navalnews.com/naval-news/2026/10/lockheed-martin-showcases-1000-km-prsm-inc-4-prototype/"
+          },
+          {
+            "title": "defence24.com",
+            "url": "https://defence24.com/industry/the-us-is-developing-a-programme-of-low-cost-missiles-contracts-awarded-to-two-companies"
+          },
+          {
+            "title": "airandspaceforces.com",
+            "url": "https://www.airandspaceforces.com/f-16-jets-castelion-hypersonic-blackbeard-missile/"
+          }
+        ]
+      },
+      "card_hash": "0c815cdcd9513c96"
     }
   }
 }
