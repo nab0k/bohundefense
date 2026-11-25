@@ -99245,6 +99245,2254 @@
         ]
       },
       "card_hash": "43b23b31f543dca7"
+    },
+    "lambda-x-high-tech": {
+      "developments": [
+        {
+          "date": "30 Oct 2025",
+          "title": "NINJA2 — Non Interferable Non Jammable Accurate Ammunition",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224095/EDF"
+        },
+        {
+          "date": "20 Nov 2024",
+          "title": "STAALION — Space Threats Analysis based on Automated reaL-time In-situ capabilities and Onboard processing decentralized Network",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168170/EDF"
+        },
+        {
+          "date": "05 Dec 2022",
+          "title": "P2P-FSO — Platform to Platform Free Space Optical link",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102758/EDF"
+        }
+      ],
+      "country": "BE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Lambda-X High Tech is a Belgian company registered in 2023, with its seat in Nivelles. It takes part in 3 European Defence Fund projects (2022–2025). Of these, 3 ongoing, EU funding to the company €1.2M.",
+        "overview": "Lambda-X High Tech is a Belgian company registered in 2023, with its seat in Nivelles. It takes part in 3 European Defence Fund projects (2022–2025). Of these, 3 ongoing, EU funding to the company €1.2M."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2023",
+            "Registered"
+          ],
+          [
+            "Nivelles, Belgium",
+            "Headquarters"
+          ],
+          [
+            "LEI 699400JGE1SFGJSG6258",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2023",
+            "Registered"
+          ],
+          [
+            "Nivelles, Belgium",
+            "Headquarters"
+          ],
+          [
+            "LEI 699400JGE1SFGJSG6258",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "P2P-FSO — Platform to Platform Free Space Optical link",
+            "sub": "Participant · EU funding €522K of €3.4M · 6 partners · 2022–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "05 Dec 2022",
+            "desc": "EDF EDF-2021-OPEN-D-SME-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102758/EDF"
+          },
+          {
+            "title": "NINJA2 — Non Interferable Non Jammable Accurate Ammunition",
+            "sub": "Participant · EU funding €431K of €29.6M · 17 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "30 Oct 2025",
+            "desc": "EDF EDF-2024-RA-GROUND-IWAS",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224095/EDF"
+          },
+          {
+            "title": "STAALION — Space Threats Analysis based on Automated reaL-time In-situ capabilities and Onboard processing decentralized Network",
+            "sub": "Participant · EU funding €280K of €6.0M · 7 partners · 2024–2026",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "20 Nov 2024",
+            "desc": "EDF EDF-2023-LS-DA-SME-NT",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168170/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "P2P-FSO — Platform to Platform Free Space Optical link",
+            "sub": "Participant · EU funding €522K of €3.4M · 6 partners · 2022–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "05 Dec 2022",
+            "desc": "EDF EDF-2021-OPEN-D-SME-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102758/EDF"
+          },
+          {
+            "title": "NINJA2 — Non Interferable Non Jammable Accurate Ammunition",
+            "sub": "Participant · EU funding €431K of €29.6M · 17 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "30 Oct 2025",
+            "desc": "EDF EDF-2024-RA-GROUND-IWAS",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224095/EDF"
+          },
+          {
+            "title": "STAALION — Space Threats Analysis based on Automated reaL-time In-situ capabilities and Onboard processing decentralized Network",
+            "sub": "Participant · EU funding €280K of €6.0M · 7 partners · 2024–2026",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "20 Nov 2024",
+            "desc": "EDF EDF-2023-LS-DA-SME-NT",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168170/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 3 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 3 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Lambda-X High Tech, LEI 699400JGE1SFGJSG6258",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/699400JGE1SFGJSG6258"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224095",
+          "sources": 1,
+          "date": "30 Oct 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224095/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101168170",
+          "sources": 1,
+          "date": "20 Nov 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168170/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101102758",
+          "sources": 1,
+          "date": "05 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102758/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Nivelles",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Lambda-X High Tech is a Belgian company registered in 2023, with its seat in Nivelles. It takes part in 3 European Defence Fund projects (2022–2025). Of these, 3 ongoing, EU funding to the company €1.2M.",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "€1.2M",
+            "label": "EU defence funding to the company",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "value": "3",
+            "label": "European Defence Fund projects",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "value": "3",
+            "label": "ongoing now",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "value": "26",
+            "label": "organisations it shares EDF projects with",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "2023",
+            "Registered",
+            null
+          ],
+          [
+            "Nivelles, Belgium",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 699400JGE1SFGJSG6258",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "P2P-FSO — Platform to Platform Free Space Optical link",
+            "sub": "Participant · EU funding €522K of €3.4M · 6 partners · 2022–2028",
+            "status": "Grant · Ongoing",
+            "date": "05 Dec 2022",
+            "iso": "2022-12-05",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "NINJA2 — Non Interferable Non Jammable Accurate Ammunition",
+            "sub": "Participant · EU funding €431K of €29.6M · 17 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "date": "30 Oct 2025",
+            "iso": "2025-10-30",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "STAALION — Space Threats Analysis based on Automated reaL-time In-situ capabilities and Onboard processing decentralized Network",
+            "sub": "Participant · EU funding €280K of €6.0M · 7 partners · 2024–2026",
+            "status": "Grant · Ongoing",
+            "date": "20 Nov 2024",
+            "iso": "2024-11-20",
+            "ongoing": true,
+            "src": 3
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "3 grants · €1.2M",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "group",
+            "name": "Lambda-X Sa",
+            "country": "BE",
+            "src": [
+              4
+            ],
+            "sub": "Group entity · in P2P-FSO",
+            "status": "verified"
+          },
+          {
+            "type": "research",
+            "name": "AALBORG UNIVERSITET",
+            "country": "DK",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "AMPHINICY LUXEMBOURG SARL",
+            "country": "LU",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              4
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ASENSE NOVA SL",
+            "country": "ES",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              4
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "COMPANIA NATIONALA ROMARM SA",
+            "country": "RO",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "research",
+            "name": "FRAUNHOFER GESELLSCHAFT ZUR FORDERUNG DER ANGEWANDTEN FORSCHUNG EV",
+            "country": "DE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "GMV AEROSPACE AND DEFENCE SA",
+            "country": "ES",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "HELLENIC INSTRUMENTS IKE",
+            "country": "EL",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              4
+            ]
+          },
+          {
+            "type": "research",
+            "name": "IMMS INSTITUT FUER MIKROELEKTRONIK- UND MECHATRONIK-SYSTEME GMBH",
+            "country": "DE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 699400JGE1SFGJSG6258",
+            "url": "https://api.gleif.org/api/v1/lei-records/699400JGE1SFGJSG6258"
+          },
+          {
+            "title": "EU Funding & Tenders portal · NINJA2",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224095/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · STAALION",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168170/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · P2P-FSO",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102758/EDF"
+          }
+        ]
+      },
+      "card_hash": "ac87d286a6151bd1"
+    },
+    "hensoldt-sensors-gmbh": {
+      "developments": [
+        {
+          "date": "23 Oct 2026",
+          "title": "EICACS 2 — European Initiative for Collaborative Air Combat Standardisation 2",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304940/EDF"
+        },
+        {
+          "date": "22 Oct 2026",
+          "title": "TRIDENT — Next generaTion Resilient long-range European Counter-Battery system via heterogeneous Sensor fusion, AI-enhanced Decision support and firE coNTrol",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304820/EDF"
+        },
+        {
+          "date": "02 Oct 2026",
+          "title": "SHIMBAD — SHIpborne MultiBand AESA Demonstrator",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304839/EDF"
+        },
+        {
+          "date": "16 Dec 2025",
+          "title": "ENGRT II — European Next Generation Rotorcraft Technologies Phase II",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224727/EDF"
+        },
+        {
+          "date": "12 Dec 2025",
+          "title": "AURIGA — ArmoURed Infantry Ground Assault",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224662/EDF"
+        },
+        {
+          "date": "12 Dec 2025",
+          "title": "HYROGLIVE — Hypersonic Radar and Optical signature collecting GLIde VEhicle",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101307740/EDF"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "HENSOLDT SENSORS GMBH is a German company registered in 2015, with its seat in Taufkirchen. It takes part in 18 European Defence Fund projects (2022–2026). Of these, 14 ongoing, EU funding to the company €32.8M.",
+        "overview": "HENSOLDT SENSORS GMBH is a German company registered in 2015, with its seat in Taufkirchen. It takes part in 18 European Defence Fund projects (2022–2026). Of these, 14 ongoing, EU funding to the company €32.8M."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2015",
+            "Registered"
+          ],
+          [
+            "Taufkirchen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 2138004CCKDSH6RE1G26",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2015",
+            "Registered"
+          ],
+          [
+            "Taufkirchen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 2138004CCKDSH6RE1G26",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "EUDAAS2 — European Detect & Avoid System, phase 2",
+            "sub": "Participant · EU funding €8.0M of €40.0M · 10 partners · 2024–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "18 Nov 2024",
+            "desc": "EDF EDF-2023-DA-C4ISR-DAA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167931/EDF"
+          },
+          {
+            "title": "REACT II — Responsive Electronic Attack for Cooperation Tasks II",
+            "sub": "Participant · EU funding €7.8M of €40.0M · 20 partners · 2023–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "29 Nov 2023",
+            "desc": "EDF EDF-2022-DA-AIR-AEW",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121456/EDF"
+          },
+          {
+            "title": "EISNET — EUROPEAN INTERACTIVE SENSOR-BASED DYNAMIC DEFENCE NETWORK",
+            "sub": "Participant · EU funding €2.7M of €26.3M · 24 partners · 2024–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "10 Dec 2024",
+            "desc": "EDF EDF-2023-DA-SENS-GRID",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168047/EDF"
+          },
+          {
+            "title": "SCEPTER — European Multifunction System Concept applied to Communications, Electronic Warfare and Radar",
+            "sub": "Participant · EU funding €2.6M of €35.0M · 15 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "05 Dec 2025",
+            "desc": "EDF EDF-2024-RA-SENS-ART",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224281/EDF"
+          },
+          {
+            "title": "HYROGLIVE — Hypersonic Radar and Optical signature collecting GLIde VEhicle",
+            "sub": "Participant · EU funding €1.3M of €78.0M · 23 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "EDF EDF-2024-DA-EUCI-2-AIRDEF-CHGV",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101307740/EDF"
+          },
+          {
+            "title": "EICACS — European Initiative for Collaborative Air Combat Standardization",
+            "sub": "Participant · EU funding €1.1M of €74.8M · 37 partners · 2022–2026",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "19 Dec 2022",
+            "desc": "EDF EDF-2021-AIR-D-CAC-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+          },
+          {
+            "title": "BEAST — Boosting European Advanced Missile System Technologies (BEAST)",
+            "sub": "Participant · EU funding €900K of €34.9M · 21 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "13 Nov 2025",
+            "desc": "EDF EDF-2024-RA-AIR-AAM",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224302/EDF"
+          },
+          {
+            "title": "FESPAN — Forecasting Electromagnetic Signal Propagation Anomalies",
+            "sub": "Participant · EU funding €695K of €21.7M · 25 partners · 2024–2027",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "28 Nov 2024",
+            "desc": "EDF EDF-2023-RA-SENS-EMSP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167641/EDF"
+          },
+          {
+            "title": "ENGRT II — European Next Generation Rotorcraft Technologies Phase II",
+            "sub": "Participant · EU funding €504K of €100.0M · 53 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "16 Dec 2025",
+            "desc": "EDF EDF-2024-DA-AIR-NGRT",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224727/EDF"
+          },
+          {
+            "title": "AGAMI_EURIGAMI — European Innovative GaN Advanced Microwave Integration",
+            "sub": "Participant · EU funding €498K of €24.6M · 35 partners · 2022–2027",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "16 Dec 2022",
+            "desc": "EDF EDF-2021-MATCOMP-R-RF-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102983/EDF"
+          },
+          {
+            "title": "EPICURE — European Packaging for highly Integrated Circuits for Reliable Electronics",
+            "sub": "Participant · EU funding €478K of €25.0M · 25 partners · 2023–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "04 Dec 2023",
+            "desc": "EDF EDF-2022-RA-MATCOMP-PACOMP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121426/EDF"
+          },
+          {
+            "title": "CARMENTA PF — CARMENTA PRIMUM FUGA",
+            "sub": "Participant · EU funding €371K of €33.0M · 18 partners · 2024–2027",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "05 Dec 2024",
+            "desc": "EDF EDF-2023-DA-AIR-SPS",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167826/EDF"
+          },
+          {
+            "title": "AURIGA — ArmoURed Infantry Ground Assault",
+            "sub": "Partner · EU funding €70K of €25.0M · 47 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "EDF EDF-2024-DA-GROUND-AIFV",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224662/EDF"
+          },
+          {
+            "title": "MARTE — Main ARmoured Tank of Europe",
+            "sub": "Partner · EU funding €67K of €20.0M · 51 partners · 2024–2026",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "06 Dec 2024",
+            "desc": "EDF EDF-2023-DA-GROUND-MBT",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+          },
+          {
+            "title": "SHIMBAD — SHIpborne MultiBand AESA Demonstrator",
+            "sub": "Participant · EU funding €4.2M of €29.4M · 20 partners · 2026–2030",
+            "status": "Grant · Forthcoming",
+            "icon": "coins",
+            "date": "02 Oct 2026",
+            "desc": "EDF EDF-2025-DA-SENS-MB4DR-STEP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304839/EDF"
+          },
+          {
+            "title": "EICACS 2 — European Initiative for Collaborative Air Combat Standardisation 2",
+            "sub": "Partner · EU funding €574K of €49.0M · 38 partners · 2026–2029",
+            "status": "Grant · Forthcoming",
+            "icon": "coins",
+            "date": "23 Oct 2026",
+            "desc": "EDF EDF-2025-DA-AIR-CAC",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304940/EDF"
+          },
+          {
+            "title": "TRIDENT — Next generaTion Resilient long-range European Counter-Battery system via heterogeneous Sensor fusion, AI-enhanced Decision support and firE coNTrol",
+            "sub": "Partner · EU funding €511K of €20.0M · 34 partners · 2026–2029",
+            "status": "Grant · Forthcoming",
+            "icon": "coins",
+            "date": "22 Oct 2026",
+            "desc": "EDF EDF-2025-RA-GROUND-CBC",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304820/EDF"
+          },
+          {
+            "title": "FASETT — Future Air System for European Tactical Transportation",
+            "sub": "Participant · EU funding €480K of €30.0M · 36 partners · 2023–2025",
+            "status": "Grant · Ended",
+            "icon": "coins",
+            "date": "07 Dec 2023",
+            "desc": "EDF EDF-2022-RA-PROTMOB-FMTC",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121450/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "EUDAAS2 — European Detect & Avoid System, phase 2",
+            "sub": "Participant · EU funding €8.0M of €40.0M · 10 partners · 2024–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "18 Nov 2024",
+            "desc": "EDF EDF-2023-DA-C4ISR-DAA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167931/EDF"
+          },
+          {
+            "title": "REACT II — Responsive Electronic Attack for Cooperation Tasks II",
+            "sub": "Participant · EU funding €7.8M of €40.0M · 20 partners · 2023–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "29 Nov 2023",
+            "desc": "EDF EDF-2022-DA-AIR-AEW",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121456/EDF"
+          },
+          {
+            "title": "EISNET — EUROPEAN INTERACTIVE SENSOR-BASED DYNAMIC DEFENCE NETWORK",
+            "sub": "Participant · EU funding €2.7M of €26.3M · 24 partners · 2024–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "10 Dec 2024",
+            "desc": "EDF EDF-2023-DA-SENS-GRID",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168047/EDF"
+          },
+          {
+            "title": "SCEPTER — European Multifunction System Concept applied to Communications, Electronic Warfare and Radar",
+            "sub": "Participant · EU funding €2.6M of €35.0M · 15 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "05 Dec 2025",
+            "desc": "EDF EDF-2024-RA-SENS-ART",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224281/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 18 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 18 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity HENSOLDT SENSORS GMBH, LEI 2138004CCKDSH6RE1G26",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/2138004CCKDSH6RE1G26"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101304940",
+          "sources": 1,
+          "date": "23 Oct 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304940/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101304820",
+          "sources": 1,
+          "date": "22 Oct 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304820/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101304839",
+          "sources": 1,
+          "date": "02 Oct 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304839/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224727",
+          "sources": 1,
+          "date": "16 Dec 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224727/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224662",
+          "sources": 1,
+          "date": "12 Dec 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224662/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101307740",
+          "sources": 1,
+          "date": "12 Dec 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101307740/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224281",
+          "sources": 1,
+          "date": "05 Dec 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224281/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224302",
+          "sources": 1,
+          "date": "13 Nov 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224302/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101168047",
+          "sources": 1,
+          "date": "10 Dec 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168047/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167893",
+          "sources": 1,
+          "date": "06 Dec 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167826",
+          "sources": 1,
+          "date": "05 Dec 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167826/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167641",
+          "sources": 1,
+          "date": "28 Nov 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167641/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167931",
+          "sources": 1,
+          "date": "18 Nov 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167931/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121450",
+          "sources": 1,
+          "date": "07 Dec 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121450/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121426",
+          "sources": 1,
+          "date": "04 Dec 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121426/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121456",
+          "sources": 1,
+          "date": "29 Nov 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121456/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103669",
+          "sources": 1,
+          "date": "19 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101102983",
+          "sources": 1,
+          "date": "16 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102983/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Taufkirchen",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "HENSOLDT SENSORS GMBH is a German company registered in 2015, with its seat in Taufkirchen. It takes part in 18 European Defence Fund projects (2022–2026). Of these, 14 ongoing, EU funding to the company €32.8M.",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "€32.8M",
+            "label": "EU defence funding to the company",
+            "src": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "value": "18",
+            "label": "European Defence Fund projects",
+            "src": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "value": "14",
+            "label": "ongoing now",
+            "src": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19
+            ]
+          },
+          {
+            "value": "237",
+            "label": "organisations it shares EDF projects with",
+            "src": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15,
+              16,
+              17,
+              18,
+              19
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "2015",
+            "Registered",
+            null
+          ],
+          [
+            "Taufkirchen, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 2138004CCKDSH6RE1G26",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "EUDAAS2 — European Detect & Avoid System, phase 2",
+            "sub": "Participant · EU funding €8.0M of €40.0M · 10 partners · 2024–2028",
+            "status": "Grant · Ongoing",
+            "date": "18 Nov 2024",
+            "iso": "2024-11-18",
+            "ongoing": true,
+            "src": 14
+          },
+          {
+            "title": "REACT II — Responsive Electronic Attack for Cooperation Tasks II",
+            "sub": "Participant · EU funding €7.8M of €40.0M · 20 partners · 2023–2029",
+            "status": "Grant · Ongoing",
+            "date": "29 Nov 2023",
+            "iso": "2023-11-29",
+            "ongoing": true,
+            "src": 17
+          },
+          {
+            "title": "EISNET — EUROPEAN INTERACTIVE SENSOR-BASED DYNAMIC DEFENCE NETWORK",
+            "sub": "Participant · EU funding €2.7M of €26.3M · 24 partners · 2024–2028",
+            "status": "Grant · Ongoing",
+            "date": "10 Dec 2024",
+            "iso": "2024-12-10",
+            "ongoing": true,
+            "src": 10
+          },
+          {
+            "title": "SCEPTER — European Multifunction System Concept applied to Communications, Electronic Warfare and Radar",
+            "sub": "Participant · EU funding €2.6M of €35.0M · 15 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "date": "05 Dec 2025",
+            "iso": "2025-12-05",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "HYROGLIVE — Hypersonic Radar and Optical signature collecting GLIde VEhicle",
+            "sub": "Participant · EU funding €1.3M of €78.0M · 23 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "date": "12 Dec 2025",
+            "iso": "2025-12-12",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "EICACS — European Initiative for Collaborative Air Combat Standardization",
+            "sub": "Participant · EU funding €1.1M of €74.8M · 37 partners · 2022–2026",
+            "status": "Grant · Ongoing",
+            "date": "19 Dec 2022",
+            "iso": "2022-12-19",
+            "ongoing": true,
+            "src": 18
+          },
+          {
+            "title": "BEAST — Boosting European Advanced Missile System Technologies (BEAST)",
+            "sub": "Participant · EU funding €900K of €34.9M · 21 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "date": "13 Nov 2025",
+            "iso": "2025-11-13",
+            "ongoing": true,
+            "src": 9
+          },
+          {
+            "title": "FESPAN — Forecasting Electromagnetic Signal Propagation Anomalies",
+            "sub": "Participant · EU funding €695K of €21.7M · 25 partners · 2024–2027",
+            "status": "Grant · Ongoing",
+            "date": "28 Nov 2024",
+            "iso": "2024-11-28",
+            "ongoing": true,
+            "src": 13
+          },
+          {
+            "title": "ENGRT II — European Next Generation Rotorcraft Technologies Phase II",
+            "sub": "Participant · EU funding €504K of €100.0M · 53 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "date": "16 Dec 2025",
+            "iso": "2025-12-16",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "AGAMI_EURIGAMI — European Innovative GaN Advanced Microwave Integration",
+            "sub": "Participant · EU funding €498K of €24.6M · 35 partners · 2022–2027",
+            "status": "Grant · Ongoing",
+            "date": "16 Dec 2022",
+            "iso": "2022-12-16",
+            "ongoing": true,
+            "src": 19
+          },
+          {
+            "title": "EPICURE — European Packaging for highly Integrated Circuits for Reliable Electronics",
+            "sub": "Participant · EU funding €478K of €25.0M · 25 partners · 2023–2028",
+            "status": "Grant · Ongoing",
+            "date": "04 Dec 2023",
+            "iso": "2023-12-04",
+            "ongoing": true,
+            "src": 16
+          },
+          {
+            "title": "CARMENTA PF — CARMENTA PRIMUM FUGA",
+            "sub": "Participant · EU funding €371K of €33.0M · 18 partners · 2024–2027",
+            "status": "Grant · Ongoing",
+            "date": "05 Dec 2024",
+            "iso": "2024-12-05",
+            "ongoing": true,
+            "src": 12
+          },
+          {
+            "title": "AURIGA — ArmoURed Infantry Ground Assault",
+            "sub": "Partner · EU funding €70K of €25.0M · 47 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "date": "12 Dec 2025",
+            "iso": "2025-12-12",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "MARTE — Main ARmoured Tank of Europe",
+            "sub": "Partner · EU funding €67K of €20.0M · 51 partners · 2024–2026",
+            "status": "Grant · Ongoing",
+            "date": "06 Dec 2024",
+            "iso": "2024-12-06",
+            "ongoing": true,
+            "src": 11
+          },
+          {
+            "title": "SHIMBAD — SHIpborne MultiBand AESA Demonstrator",
+            "sub": "Participant · EU funding €4.2M of €29.4M · 20 partners · 2026–2030",
+            "status": "Grant · Forthcoming",
+            "date": "02 Oct 2026",
+            "iso": "2026-10-02",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "EICACS 2 — European Initiative for Collaborative Air Combat Standardisation 2",
+            "sub": "Partner · EU funding €574K of €49.0M · 38 partners · 2026–2029",
+            "status": "Grant · Forthcoming",
+            "date": "23 Oct 2026",
+            "iso": "2026-10-23",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "TRIDENT — Next generaTion Resilient long-range European Counter-Battery system via heterogeneous Sensor fusion, AI-enhanced Decision support and firE coNTrol",
+            "sub": "Partner · EU funding €511K of €20.0M · 34 partners · 2026–2029",
+            "status": "Grant · Forthcoming",
+            "date": "22 Oct 2026",
+            "iso": "2026-10-22",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "FASETT — Future Air System for European Tactical Transportation",
+            "sub": "Participant · EU funding €480K of €30.0M · 36 partners · 2023–2025",
+            "status": "Grant · Ended",
+            "date": "07 Dec 2023",
+            "iso": "2023-12-07",
+            "ongoing": false,
+            "src": 15
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "18 grants · €32.8M",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "INDRA SISTEMAS SA",
+            "country": "ES",
+            "sub": "16 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "LEONARDO - SOCIETA PER AZIONI",
+            "country": "IT",
+            "sub": "15 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ELETTRONICA SPA",
+            "country": "IT",
+            "sub": "14 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3,
+              5
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "SAAB AKTIEBOLAG",
+            "country": "SE",
+            "sub": "14 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "AIRBUS DEFENCE AND SPACE GMBH",
+            "country": "DE",
+            "sub": "11 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              5,
+              7
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "THALES LAS FRANCE SAS",
+            "country": "FR",
+            "sub": "10 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "THALES DMS FRANCE SAS",
+            "country": "FR",
+            "sub": "9 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              5,
+              8
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "THALES SIX GTS FRANCE SAS",
+            "country": "FR",
+            "sub": "9 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3,
+              5
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 2138004CCKDSH6RE1G26",
+            "url": "https://api.gleif.org/api/v1/lei-records/2138004CCKDSH6RE1G26"
+          },
+          {
+            "title": "EU Funding & Tenders portal · EICACS 2",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304940/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · TRIDENT",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304820/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · SHIMBAD",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304839/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · ENGRT II",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224727/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · AURIGA",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224662/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · HYROGLIVE",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101307740/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · SCEPTER",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224281/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · BEAST",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224302/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · EISNET",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168047/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · MARTE",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · CARMENTA PF",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167826/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · FESPAN",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167641/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · EUDAAS2",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167931/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · FASETT",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121450/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · EPICURE",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121426/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · REACT II",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121456/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · EICACS",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · AGAMI_EURIGAMI",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102983/EDF"
+          }
+        ]
+      },
+      "card_hash": "2d8e8aa751b710e9"
+    },
+    "embention-sistemas-inteligentes-sa": {
+      "developments": [
+        {
+          "date": "17 Aug 2026",
+          "title": "SKYRAPTOR — Mass-affordable, cost-efficient drone-based loitering munition & Small UCAS weapon systems",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304909/EDF"
+        },
+        {
+          "date": "05 Dec 2024",
+          "title": "ACTUS — Advanced capabilities & Certification for Tactical UAV Systems",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168046/EDF"
+        },
+        {
+          "date": "01 Dec 2023",
+          "title": "iMEDCAP — Development of intelligent military capabilities for monitoring, medical care and evacuation for contagious, injured and contaminated personnel",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121421/EDF"
+        }
+      ],
+      "country": "ES",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "EMBENTION SISTEMAS INTELIGENTES SA is a Spanish company registered in 2007, with its seat in Alicante/Alacant. It takes part in 3 European Defence Fund projects (2023–2026). Of these, 2 ongoing, EU funding to the company €4.3M.",
+        "overview": "EMBENTION SISTEMAS INTELIGENTES SA is a Spanish company registered in 2007, with its seat in Alicante/Alacant. It takes part in 3 European Defence Fund projects (2023–2026). Of these, 2 ongoing, EU funding to the company €4.3M."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2007",
+            "Registered"
+          ],
+          [
+            "Alicante/Alacant, Spain",
+            "Headquarters"
+          ],
+          [
+            "LEI 959800HC6GKQUQBXCJ98",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2007",
+            "Registered"
+          ],
+          [
+            "Alicante/Alacant, Spain",
+            "Headquarters"
+          ],
+          [
+            "LEI 959800HC6GKQUQBXCJ98",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "ACTUS — Advanced capabilities & Certification for Tactical UAV Systems",
+            "sub": "Participant · EU funding €2.3M of €42.0M · 23 partners · 2024–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "05 Dec 2024",
+            "desc": "EDF EDF-2023-DA-C4ISR-TRPAS",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168046/EDF"
+          },
+          {
+            "title": "iMEDCAP — Development of intelligent military capabilities for monitoring, medical care and evacuation for contagious, injured and contaminated personnel",
+            "sub": "Participant · EU funding €1.0M of €24.9M · 25 partners · 2023–2027",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "01 Dec 2023",
+            "desc": "EDF EDF-2022-RA-MCBRN-HICP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121421/EDF"
+          },
+          {
+            "title": "SKYRAPTOR — Mass-affordable, cost-efficient drone-based loitering munition & Small UCAS weapon systems",
+            "sub": "Participant · EU funding €1.0M of €9.8M · 11 partners · 2026–2029",
+            "status": "Grant · Forthcoming",
+            "icon": "coins",
+            "date": "17 Aug 2026",
+            "desc": "EDF EDF-2025-DA-SI-GROUND-DAMM",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304909/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "ACTUS — Advanced capabilities & Certification for Tactical UAV Systems",
+            "sub": "Participant · EU funding €2.3M of €42.0M · 23 partners · 2024–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "05 Dec 2024",
+            "desc": "EDF EDF-2023-DA-C4ISR-TRPAS",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168046/EDF"
+          },
+          {
+            "title": "iMEDCAP — Development of intelligent military capabilities for monitoring, medical care and evacuation for contagious, injured and contaminated personnel",
+            "sub": "Participant · EU funding €1.0M of €24.9M · 25 partners · 2023–2027",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "01 Dec 2023",
+            "desc": "EDF EDF-2022-RA-MCBRN-HICP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121421/EDF"
+          },
+          {
+            "title": "SKYRAPTOR — Mass-affordable, cost-efficient drone-based loitering munition & Small UCAS weapon systems",
+            "sub": "Participant · EU funding €1.0M of €9.8M · 11 partners · 2026–2029",
+            "status": "Grant · Forthcoming",
+            "icon": "coins",
+            "date": "17 Aug 2026",
+            "desc": "EDF EDF-2025-DA-SI-GROUND-DAMM",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304909/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 3 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 3 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity EMBENTION SISTEMAS INTELIGENTES SA, LEI 959800HC6GKQUQBXCJ98",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/959800HC6GKQUQBXCJ98"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101304909",
+          "sources": 1,
+          "date": "17 Aug 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304909/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101168046",
+          "sources": 1,
+          "date": "05 Dec 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168046/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121421",
+          "sources": 1,
+          "date": "01 Dec 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121421/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Alicante/Alacant",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "EMBENTION SISTEMAS INTELIGENTES SA is a Spanish company registered in 2007, with its seat in Alicante/Alacant. It takes part in 3 European Defence Fund projects (2023–2026). Of these, 2 ongoing, EU funding to the company €4.3M.",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "€4.3M",
+            "label": "EU defence funding to the company",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "value": "3",
+            "label": "European Defence Fund projects",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "value": "2",
+            "label": "ongoing now",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "value": "51",
+            "label": "organisations it shares EDF projects with",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "2007",
+            "Registered",
+            null
+          ],
+          [
+            "Alicante/Alacant, Spain",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 959800HC6GKQUQBXCJ98",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "ACTUS — Advanced capabilities & Certification for Tactical UAV Systems",
+            "sub": "Participant · EU funding €2.3M of €42.0M · 23 partners · 2024–2028",
+            "status": "Grant · Ongoing",
+            "date": "05 Dec 2024",
+            "iso": "2024-12-05",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "iMEDCAP — Development of intelligent military capabilities for monitoring, medical care and evacuation for contagious, injured and contaminated personnel",
+            "sub": "Participant · EU funding €1.0M of €24.9M · 25 partners · 2023–2027",
+            "status": "Grant · Ongoing",
+            "date": "01 Dec 2023",
+            "iso": "2023-12-01",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "SKYRAPTOR — Mass-affordable, cost-efficient drone-based loitering munition & Small UCAS weapon systems",
+            "sub": "Participant · EU funding €1.0M of €9.8M · 11 partners · 2026–2029",
+            "status": "Grant · Forthcoming",
+            "date": "17 Aug 2026",
+            "iso": "2026-08-17",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "3 grants · €4.3M",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "CY.R.I.C CYPRUS RESEARCH AND INNOVATION CENTER LTD",
+            "country": "CY",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "INTRACOM DEFENSE AE",
+            "country": "EL",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "research",
+            "name": "PANEPISTIMIO PATRON",
+            "country": "EL",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "SAFRAN ELECTRONICS & DEFENSE",
+            "country": "FR",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              3,
+              4
+            ]
+          },
+          {
+            "type": "research",
+            "name": "TECHNISCHE UNIVERSITAET MUENCHEN",
+            "country": "DE",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              3,
+              4
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "28DIGITAL",
+            "country": "BE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "AES AEROSPACE EMBEDDED SOLUTIONS GMBH",
+            "country": "DE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "research",
+            "name": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+            "country": "AT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 959800HC6GKQUQBXCJ98",
+            "url": "https://api.gleif.org/api/v1/lei-records/959800HC6GKQUQBXCJ98"
+          },
+          {
+            "title": "EU Funding & Tenders portal · SKYRAPTOR",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304909/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · ACTUS",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168046/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · iMEDCAP",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121421/EDF"
+          }
+        ]
+      },
+      "card_hash": "79ed606b41d7187f"
+    },
+    "telefonica-ingenieria-de-seguridad": {
+      "developments": [
+        {
+          "date": "12 Dec 2025",
+          "title": "5G COMPAD 2.0 — 5G Communications for Peacekeeping and Defence 2.0",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101218568/EDF"
+        },
+        {
+          "date": "12 Dec 2025",
+          "title": "AURIGA — ArmoURed Infantry Ground Assault",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224662/EDF"
+        }
+      ],
+      "country": "ES",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "TELEFONICA INGENIERIA DE SEGURIDAD SA is a Spanish company, with its seat in Madrid. It takes part in 2 European Defence Fund projects (2025). Of these, 2 ongoing, EU funding to the company €1.1M.",
+        "overview": "TELEFONICA INGENIERIA DE SEGURIDAD SA is a Spanish company, with its seat in Madrid. It takes part in 2 European Defence Fund projects (2025). Of these, 2 ongoing, EU funding to the company €1.1M."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Madrid, Spain",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300CTHDQZJ8606W78",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Madrid, Spain",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300CTHDQZJ8606W78",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "5G COMPAD 2.0 — 5G Communications for Peacekeeping and Defence 2.0",
+            "sub": "Participant · EU funding €674K of €25.0M · 28 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "EDF EDF-2024-DA-C4ISR-COMS-STEP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101218568/EDF"
+          },
+          {
+            "title": "AURIGA — ArmoURed Infantry Ground Assault",
+            "sub": "Participant · EU funding €394K of €25.0M · 47 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "EDF EDF-2024-DA-GROUND-AIFV",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224662/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "5G COMPAD 2.0 — 5G Communications for Peacekeeping and Defence 2.0",
+            "sub": "Participant · EU funding €674K of €25.0M · 28 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "EDF EDF-2024-DA-C4ISR-COMS-STEP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101218568/EDF"
+          },
+          {
+            "title": "AURIGA — ArmoURed Infantry Ground Assault",
+            "sub": "Participant · EU funding €394K of €25.0M · 47 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "EDF EDF-2024-DA-GROUND-AIFV",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224662/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity TELEFONICA INGENIERIA DE SEGURIDAD SA, LEI 549300CTHDQZJ8606W78",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/549300CTHDQZJ8606W78"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101218568",
+          "sources": 1,
+          "date": "12 Dec 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101218568/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224662",
+          "sources": 1,
+          "date": "12 Dec 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224662/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Madrid",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "TELEFONICA INGENIERIA DE SEGURIDAD SA is a Spanish company, with its seat in Madrid. It takes part in 2 European Defence Fund projects (2025). Of these, 2 ongoing, EU funding to the company €1.1M.",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "€1.1M",
+            "label": "EU defence funding to the company",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "2",
+            "label": "European Defence Fund projects",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "2",
+            "label": "ongoing now",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "67",
+            "label": "organisations it shares EDF projects with",
+            "src": [
+              2,
+              3
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Madrid, Spain",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 549300CTHDQZJ8606W78",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "5G COMPAD 2.0 — 5G Communications for Peacekeeping and Defence 2.0",
+            "sub": "Participant · EU funding €674K of €25.0M · 28 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "date": "12 Dec 2025",
+            "iso": "2025-12-12",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "AURIGA — ArmoURed Infantry Ground Assault",
+            "sub": "Participant · EU funding €394K of €25.0M · 47 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "date": "12 Dec 2025",
+            "iso": "2025-12-12",
+            "ongoing": true,
+            "src": 3
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "2 grants · €1.1M",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "research",
+            "name": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+            "country": "AT",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "INTRACOM DEFENSE AE",
+            "country": "EL",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "KONGSBERG DEFENCE & AEROSPACE AS",
+            "country": "NO",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "LATVIJAS MOBILAIS TELEFONS SIA",
+            "country": "LV",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "LEONARDO - SOCIETA PER AZIONI",
+            "country": "IT",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "THALES SIX GTS FRANCE SAS",
+            "country": "FR",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "AARONIA AG",
+            "country": "DE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "AISENT SRL",
+            "country": "IT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 549300CTHDQZJ8606W78",
+            "url": "https://api.gleif.org/api/v1/lei-records/549300CTHDQZJ8606W78"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 5G COMPAD 2.0",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101218568/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · AURIGA",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224662/EDF"
+          }
+        ]
+      },
+      "card_hash": "9da91512f58bf299"
     }
   }
 }
