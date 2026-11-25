@@ -84008,6 +84008,1777 @@
         ]
       },
       "card_hash": "0b7a9350659559f7"
+    },
+    "bae-systems-controls-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "BAE SYSTEMS CONTROLS INC. is a US company, with its seat in Endicott. US federal spending records show US$12.4M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 98 contracts; the largest customer is the Department of the Air Force.",
+        "overview": "BAE SYSTEMS CONTROLS INC. is a US company, with its seat in Endicott. US federal spending records show US$12.4M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 98 contracts; the largest customer is the Department of the Air Force."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Endicott, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI HC3ZN7CJFGT1",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Endicott, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI HC3ZN7CJFGT1",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity BAE SYSTEMS CONTROLS INC., UEI HC3ZN7CJFGT1",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/7e197a1a-5b85-427f-5ad5-5211f68b42bb-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/7e197a1a-5b85-427f-5ad5-5211f68b42bb-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Endicott",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "BAE SYSTEMS CONTROLS INC. is a US company, with its seat in Endicott. US federal spending records show US$12.4M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 98 contracts; the largest customer is the Department of the Air Force.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$12.4M",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "98",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$6.0M",
+            "label": "largest customer: Department of the Air Force",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Endicott, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI HC3ZN7CJFGT1",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Hybrid flight controll computer (HFLCC) production",
+            "sub": "Department of the Air Force · US$37.0M · 2022–2028",
+            "status": "Contract",
+            "date": "18 Aug 2022",
+            "iso": "2022-08-18",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "Hybrid flight control computer (HFLCC) production KITS",
+            "sub": "Department of the Air Force · US$4.9M · 2026–2028",
+            "status": "Contract",
+            "date": "21 Jul 2026",
+            "iso": "2026-07-21",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "Repair of KC-135 FUEL management computer",
+            "sub": "Defense Contract Management Agency · US$2.2M · 2023–2026",
+            "status": "Contract",
+            "date": "27 Dec 2023",
+            "iso": "2023-12-27",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Hybrid flight control computer (HFLCC) production",
+            "sub": "Department of the Air Force · US$1.8M · 2023–2028",
+            "status": "Contract",
+            "date": "02 Feb 2023",
+            "iso": "2023-02-02",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "NAVY purchase of 10 hflcc production KITS purchase of WRAP cards and VIB fixture update",
+            "sub": "Department of the Air Force · US$1.7M · 2025–2027",
+            "status": "Contract",
+            "date": "12 Mar 2025",
+            "iso": "2025-03-12",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "CHASSIS,ELECTRICAL-",
+            "sub": "Department of the Navy · US$1.5M · 2024–2026",
+            "status": "Contract",
+            "date": "12 Mar 2024",
+            "iso": "2024-03-12",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Basic purchase request for FMS countries bulgaria and poland to BUY TRANSDUCER, motional for the F-16.",
+            "sub": "Defense Logistics Agency · US$1.1M · 2025–2028",
+            "status": "Contract",
+            "date": "27 Oct 2025",
+            "iso": "2025-10-27",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "Repair of KC-135 FUEL FLOW computer",
+            "sub": "Department of the Air Force · US$860K · 2022–2026",
+            "status": "Contract",
+            "date": "05 Aug 2022",
+            "iso": "2022-08-05",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$52.4M · 5 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$5.1M · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              7
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$3.9M · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              8
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Contract Management Agency",
+            "sub": "Customer · US$2.2M · 1 contract",
+            "status": "verified",
+            "src": [
+              4
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI HC3ZN7CJFGT1",
+            "url": "https://www.usaspending.gov/recipient/7e197a1a-5b85-427f-5ad5-5211f68b42bb-C/latest"
+          },
+          {
+            "title": "USAspending.gov · FA823222F0097",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA823222F0097_9700_FA823222D0006_9700"
+          },
+          {
+            "title": "USAspending.gov · FA823226FB230",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA823226FB230_9700_FA823222D0006_9700"
+          },
+          {
+            "title": "USAspending.gov · FA811724F0058",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA811724F0058_9700_FA811723D0008_9700"
+          },
+          {
+            "title": "USAspending.gov · FA823223F0053",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA823223F0053_9700_FA823222D0006_9700"
+          },
+          {
+            "title": "USAspending.gov · FA823225FB047",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA823225FB047_9700_FA823222D0006_9700"
+          },
+          {
+            "title": "USAspending.gov · N0038324FY109",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0038324FY109_9700_N0038321GY101_9700"
+          },
+          {
+            "title": "USAspending.gov · SPRHA426C0002",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRHA426C0002_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · FA811722F0181",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA811722F0181_9700_FA811717D0015_9700"
+          }
+        ]
+      },
+      "card_hash": "6e5dbd1418b5d014"
+    },
+    "drs-network-imaging-systems-llc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "DRS NETWORK & IMAGING SYSTEMS LLC is a US company, with its seat in Melbourne. US federal spending records show US$299.3M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 253 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "DRS NETWORK & IMAGING SYSTEMS LLC is a US company, with its seat in Melbourne. US federal spending records show US$299.3M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 253 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Melbourne, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI MC27B7LGBL34",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Melbourne, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI MC27B7LGBL34",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity DRS NETWORK & IMAGING SYSTEMS LLC, UEI MC27B7LGBL34",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/d2126cd6-57c0-413f-1983-5b4216598036-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/d2126cd6-57c0-413f-1983-5b4216598036-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Melbourne",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "DRS NETWORK & IMAGING SYSTEMS LLC is a US company, with its seat in Melbourne. US federal spending records show US$299.3M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 253 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$299.3M",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "253",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$154.6M",
+            "label": "largest customer: Defense Logistics Agency",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Melbourne, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI MC27B7LGBL34",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract W15P7T04CA205",
+            "sub": "Defense Contract Management Agency · US$330.7M · 2004–2009",
+            "status": "Contract",
+            "date": "30 Mar 2004",
+            "iso": "2004-03-30",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "NRE; IGF::OT::IGF R&D contract for daircm",
+            "sub": "Department of the Navy · US$232.0M · 2016–2026",
+            "status": "Contract",
+            "date": "24 Mar 2016",
+            "iso": "2016-03-24",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "Delivery order for 2.8 KITS and cables for DRS.",
+            "sub": "Defense Logistics Agency · US$199.0M · 2025–2029",
+            "status": "Contract",
+            "date": "12 Feb 2025",
+            "iso": "2025-02-12",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "Missile spares procurement",
+            "sub": "Defense Logistics Agency · US$161.6M · 2023–2027",
+            "status": "Contract",
+            "date": "21 Aug 2023",
+            "iso": "2023-08-21",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "Delivery order to DRS network and imaging for a quantity of 9,754 FWS-I systems against CLIN 0005",
+            "sub": "Department of the Army · US$117.1M · 2024–2027",
+            "status": "Contract",
+            "date": "29 May 2024",
+            "iso": "2024-05-29",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "PU W/ GPS capability ready",
+            "sub": "Defense Information Systems Agency · US$112.4M · 2023–2026",
+            "status": "Contract",
+            "date": "20 Dec 2023",
+            "iso": "2023-12-20",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Purchase family of weapon SIGHTS-INDIVIDUAL (FWS-I) SYSTEMS. FWS-I is a weapon mounted LONG-WAVE infrared sensor that pr",
+            "sub": "Department of the Army · US$76.1M · 2025–2026",
+            "status": "Contract",
+            "date": "30 Jun 2025",
+            "iso": "2025-06-30",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "FWS-I systems",
+            "sub": "Department of the Army · US$63.8M · 2025–2027",
+            "status": "Contract",
+            "date": "10 Sep 2025",
+            "iso": "2025-09-10",
+            "ongoing": true,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$515.2M · 2 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              4,
+              5
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$389.8M · 3 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              6,
+              8
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Contract Management Agency",
+            "sub": "Customer · US$330.7M · 1 contract",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$236.1M · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Information Systems Agency",
+            "sub": "Customer · US$112.4M · 1 contract",
+            "status": "verified",
+            "src": [
+              7
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "U.S. Special Operations Command",
+            "sub": "Customer · US$7.8M",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI MC27B7LGBL34",
+            "url": "https://www.usaspending.gov/recipient/d2126cd6-57c0-413f-1983-5b4216598036-C/latest"
+          },
+          {
+            "title": "USAspending.gov · W15P7T04CA205",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T04CA205_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001916C0015",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001916C0015_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPRRA225F0065",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRRA225F0065_9700_SPRRA220D0012_9700"
+          },
+          {
+            "title": "USAspending.gov · SPRRA223F0083",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRRA223F0083_9700_SPRRA220D0012_9700"
+          },
+          {
+            "title": "USAspending.gov · W91CRB24F0253",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W91CRB24F0253_9700_W91CRB22D0008_9700"
+          },
+          {
+            "title": "USAspending.gov · HC108424F0067",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_HC108424F0067_9700_HC102818D0045_9700"
+          },
+          {
+            "title": "USAspending.gov · W91CRB25FA046",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W91CRB25FA046_9700_W91CRB22D0008_9700"
+          },
+          {
+            "title": "USAspending.gov · W91CRB25FA250",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W91CRB25FA250_9700_W91CRB22D0008_9700"
+          }
+        ]
+      },
+      "card_hash": "c9b6ac2209f7daa8"
+    },
+    "fibrotex-usa-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "FIBROTEX USA INC is a US company, with its seat in Stearns. US federal spending records show US$76.2M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 10 contracts; the largest customer is the Department of the Army.",
+        "overview": "FIBROTEX USA INC is a US company, with its seat in Stearns. US federal spending records show US$76.2M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 10 contracts; the largest customer is the Department of the Army."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Stearns, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI VM88DB2KV4A7",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Stearns, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI VM88DB2KV4A7",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity FIBROTEX USA INC, UEI VM88DB2KV4A7",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/ba6eaca9-7e32-a815-fe74-362b726cf30d-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/ba6eaca9-7e32-a815-fe74-362b726cf30d-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Stearns",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "FIBROTEX USA INC is a US company, with its seat in Stearns. US federal spending records show US$76.2M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 10 contracts; the largest customer is the Department of the Army.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$76.2M",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all Department of the Army",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "10",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Stearns, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI VM88DB2KV4A7",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Camouflage systems",
+            "sub": "Department of the Army · US$48.4M · 2026–2027",
+            "status": "Contract",
+            "date": "18 Jun 2026",
+            "iso": "2026-06-18",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "ULTRA-LIGHTWEIGHT camouflage NET system (ULCANS) production",
+            "sub": "Department of the Army · US$39.8M · 2025–2026",
+            "status": "Contract",
+            "date": "07 Aug 2025",
+            "iso": "2025-08-07",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "Ulcans USMC congressional",
+            "sub": "Department of the Army · US$22.3M · 2026",
+            "status": "Contract",
+            "date": "14 May 2026",
+            "iso": "2026-05-14",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "New developmental delivery order for MCS/BFV, ultra lightweight CAMO NET system (ULCANS)",
+            "sub": "Department of the Army · US$2.4M · 2024–2026",
+            "status": "Contract",
+            "date": "02 Oct 2024",
+            "iso": "2024-10-02",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Final development and LOW-RATE initial production of platform specific mobile camouflage systems",
+            "sub": "Department of the Army · US$2.1M · 2026",
+            "status": "Contract",
+            "date": "26 Feb 2026",
+            "iso": "2026-02-26",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Camouflage systems",
+            "sub": "Department of the Army · US$1.7M · 2026",
+            "status": "Contract",
+            "date": "28 May 2026",
+            "iso": "2026-05-28",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "Camouflage systems",
+            "sub": "Department of the Army · US$1.2M · 2026",
+            "status": "Contract",
+            "date": "07 May 2026",
+            "iso": "2026-05-07",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "Camouflage systems",
+            "sub": "Department of the Army · US$232K · 2026",
+            "status": "Contract",
+            "date": "18 Mar 2026",
+            "iso": "2026-03-18",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$194.4M · 8 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI VM88DB2KV4A7",
+            "url": "https://www.usaspending.gov/recipient/ba6eaca9-7e32-a815-fe74-362b726cf30d-C/latest"
+          },
+          {
+            "title": "USAspending.gov · W911QY26FA135",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W911QY26FA135_9700_W911QY18D0210_9700"
+          },
+          {
+            "title": "USAspending.gov · W911QY25FA120",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W911QY25FA120_9700_W911QY18D0210_9700"
+          },
+          {
+            "title": "USAspending.gov · W911QY26FA118",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W911QY26FA118_9700_W911QY18D0210_9700"
+          },
+          {
+            "title": "USAspending.gov · W911QY25F0001",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W911QY25F0001_9700_W911QY18D0210_9700"
+          },
+          {
+            "title": "USAspending.gov · W911QY26FA051",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W911QY26FA051_9700_W911QY18D0210_9700"
+          },
+          {
+            "title": "USAspending.gov · W911QY26FA126",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W911QY26FA126_9700_W911QY18D0210_9700"
+          },
+          {
+            "title": "USAspending.gov · W911QY26FA106",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W911QY26FA106_9700_W911QY18D0210_9700"
+          },
+          {
+            "title": "USAspending.gov · W911QY26FA069",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W911QY26FA069_9700_W911QY18D0210_9700"
+          }
+        ]
+      },
+      "card_hash": "254cef3de5fb8d19"
+    },
+    "fn-america-llc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "FN AMERICA LLC is a US company, with its seat in Columbia. US federal spending records show US$30.3M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 118 contracts; the largest customer is the Department of the Army.",
+        "overview": "FN AMERICA LLC is a US company, with its seat in Columbia. US federal spending records show US$30.3M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 118 contracts; the largest customer is the Department of the Army."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Columbia, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI EQGGN3DKP8K3",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Columbia, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI EQGGN3DKP8K3",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity FN AMERICA LLC, UEI EQGGN3DKP8K3",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/46540a9b-ffd7-b42b-7063-82f87dd2f13b-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/46540a9b-ffd7-b42b-7063-82f87dd2f13b-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Columbia",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "FN AMERICA LLC is a US company, with its seat in Columbia. US federal spending records show US$30.3M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 118 contracts; the largest customer is the Department of the Army.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$30.3M",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "118",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$25.2M",
+            "label": "largest customer: Department of the Army",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Columbia, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI EQGGN3DKP8K3",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Delivery order",
+            "sub": "Department of the Army · US$10.0M · 2026–2027",
+            "status": "Contract",
+            "date": "26 Feb 2026",
+            "iso": "2026-02-26",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "Delivery order",
+            "sub": "Department of the Army · US$6.0M · 2025–2026",
+            "status": "Contract",
+            "date": "10 Apr 2025",
+            "iso": "2025-04-10",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "Procurement of M240BS for the ARMY.",
+            "sub": "Department of the Army · US$5.0M · 2024–2026",
+            "status": "Contract",
+            "date": "05 Dec 2024",
+            "iso": "2024-12-05",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Delivery order",
+            "sub": "Department of the Army · US$5.0M · 2025–2026",
+            "status": "Contract",
+            "date": "12 Jun 2025",
+            "iso": "2025-06-12",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Procurement of M240 coaxs and M240BS for FMS.",
+            "sub": "Department of the Army · US$4.9M · 2024–2026",
+            "status": "Contract",
+            "date": "03 Sep 2024",
+            "iso": "2024-09-03",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Procurement of M240BS in support of the AIR FORCE.",
+            "sub": "Department of the Army · US$4.7M · 2024–2025",
+            "status": "Contract",
+            "date": "28 Aug 2024",
+            "iso": "2024-08-28",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Delivery order",
+            "sub": "Department of the Army · US$2.6M · 2026–2027",
+            "status": "Contract",
+            "date": "05 Jun 2026",
+            "iso": "2026-06-05",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "Contract SPE7L124P8347",
+            "sub": "Defense Logistics Agency · US$2.4M · 2024–2026",
+            "status": "Contract",
+            "date": "26 Sep 2024",
+            "iso": "2024-09-26",
+            "ongoing": true,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$63.4M · 7 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$7.5M · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              9
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI EQGGN3DKP8K3",
+            "url": "https://www.usaspending.gov/recipient/46540a9b-ffd7-b42b-7063-82f87dd2f13b-C/latest"
+          },
+          {
+            "title": "USAspending.gov · W15QKN26F0084",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN26F0084_9700_W15QKN21D0038_9700"
+          },
+          {
+            "title": "USAspending.gov · W15QKN25F0183",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN25F0183_9700_W15QKN21D0038_9700"
+          },
+          {
+            "title": "USAspending.gov · W15QKN25F0038",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN25F0038_9700_W15QKN21D0038_9700"
+          },
+          {
+            "title": "USAspending.gov · W15QKN25F0222",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN25F0222_9700_W15QKN22D0010_9700"
+          },
+          {
+            "title": "USAspending.gov · W15QKN24F0458",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN24F0458_9700_W15QKN21D0038_9700"
+          },
+          {
+            "title": "USAspending.gov · W15QKN24F0457",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN24F0457_9700_W15QKN21D0038_9700"
+          },
+          {
+            "title": "USAspending.gov · W15QKN26F0195",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN26F0195_9700_W15QKN21D0038_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE7L124P8347",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7L124P8347_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "ac7d4cfe04eb2e00"
+    },
+    "general-dynamics-mission-systems-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "GENERAL DYNAMICS MISSION SYSTEMS, INC. is a US company, with its seat in Taunton. US federal spending records show US$1.7B obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 606 contracts; the largest customer is the Department of the Navy.",
+        "overview": "GENERAL DYNAMICS MISSION SYSTEMS, INC. is a US company, with its seat in Taunton. US federal spending records show US$1.7B obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 606 contracts; the largest customer is the Department of the Navy."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Taunton, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI JHY6AZA6H191",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Taunton, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI JHY6AZA6H191",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity GENERAL DYNAMICS MISSION SYSTEMS, INC., UEI JHY6AZA6H191",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/fc6c95c4-c4df-e1d8-e534-7c27ff6bbe87-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/fc6c95c4-c4df-e1d8-e534-7c27ff6bbe87-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Taunton",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "GENERAL DYNAMICS MISSION SYSTEMS, INC. is a US company, with its seat in Taunton. US federal spending records show US$1.7B obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 606 contracts; the largest customer is the Department of the Navy.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$1.7B",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "606",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$1.0B",
+            "label": "largest customer: Department of the Navy",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Taunton, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI JHY6AZA6H191",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract DAAB0702CF404",
+            "sub": "Defense Contract Management Agency · US$1.4B · 2002–2016",
+            "status": "Contract",
+            "date": "09 Aug 2002",
+            "iso": "2002-08-09",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "SDA tranche 1 operations and integration",
+            "sub": "Department of the Air Force · US$1.1B · 2022–2029",
+            "status": "Contract",
+            "date": "26 May 2022",
+            "iso": "2022-05-26",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "Consolidation and FOLLOW-ON to 22C1003 and 22C1005. FY24 FIRE control OMNIBUS. GFE transportation (SCN).",
+            "sub": "Defense Contract Management Agency · US$517.6M · 2023–2030",
+            "status": "Contract",
+            "date": "01 Oct 2023",
+            "iso": "2023-10-01",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "IGF::OT::IGF",
+            "sub": "Defense Contract Management Agency · US$485.6M · 2015–2026",
+            "status": "Contract",
+            "date": "01 Oct 2015",
+            "iso": "2015-10-01",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "UCA first order LRIP",
+            "sub": "Department of the Army · US$365.0M · 2010–2026",
+            "status": "Contract",
+            "date": "24 Mar 2010",
+            "iso": "2010-03-24",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Refresh 2 US columbia production (UK CLINS)",
+            "sub": "Department of the Navy · US$363.9M · 2025–2030",
+            "status": "Contract",
+            "date": "01 Oct 2025",
+            "iso": "2025-10-01",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "To procure configuration items for the WIN-T FULL RATE PRODUCTION.",
+            "sub": "Defense Contract Management Agency · US$312.4M · 2012–2017",
+            "status": "Contract",
+            "date": "28 Sep 2012",
+            "iso": "2012-09-28",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "FY20 FC omnibus UK",
+            "sub": "Defense Contract Management Agency · US$295.5M · 2019–2024",
+            "status": "Contract",
+            "date": "01 Oct 2019",
+            "iso": "2019-10-01",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Contract Management Agency",
+            "sub": "Customer · US$3.0B · 5 contracts",
+            "status": "verified",
+            "src": [
+              2,
+              4,
+              5
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$1.6B · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$1.4B · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              7
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$485.6M · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              6
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Threat Reduction Agency",
+            "sub": "Customer · US$7.3M",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "USTRANSCOM",
+            "sub": "Customer · US$3.5M",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "TRANSDIGM INC",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              10
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "CRYSTAL GROUP, INC",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              10
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "AFP INDUSTRIES, INC.",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              10
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "GOLDEN STAR TECHNOLOGY INC",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              10
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "NEWARK CORPORATION",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              10
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI JHY6AZA6H191",
+            "url": "https://www.usaspending.gov/recipient/fc6c95c4-c4df-e1d8-e534-7c27ff6bbe87-C/latest"
+          },
+          {
+            "title": "USAspending.gov · DAAB0702CF404",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_DAAB0702CF404_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · HQ085022C0007",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_HQ085022C0007_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0003024C1005",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0003024C1005_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0003016C0005",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0003016C0005_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · 0001",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_0001_9700_W15P7T10DC007_9700"
+          },
+          {
+            "title": "USAspending.gov · N0003026C1005",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0003026C1005_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · 0027",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_0027_9700_W15P7T10DC007_9700"
+          },
+          {
+            "title": "USAspending.gov · N0003020C0005",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0003020C0005_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · sub-award",
+            "url": "https://www.usaspending.gov/search"
+          }
+        ]
+      },
+      "card_hash": "db46e76c24ae7791"
+    },
+    "loc-performance-products-llc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "LOC PERFORMANCE PRODUCTS LLC is a US company, with its seat in Plymouth. US federal spending records show US$140.1M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 107 contracts; the largest customer is the Department of the Army.",
+        "overview": "LOC PERFORMANCE PRODUCTS LLC is a US company, with its seat in Plymouth. US federal spending records show US$140.1M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 107 contracts; the largest customer is the Department of the Army."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Plymouth, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI JT4FKJQPH454",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Plymouth, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI JT4FKJQPH454",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity LOC PERFORMANCE PRODUCTS LLC, UEI JT4FKJQPH454",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/10fd6be1-dd52-bb5c-f6dd-49333c3eff6a-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/10fd6be1-dd52-bb5c-f6dd-49333c3eff6a-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Plymouth",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "LOC PERFORMANCE PRODUCTS LLC is a US company, with its seat in Plymouth. US federal spending records show US$140.1M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 107 contracts; the largest customer is the Department of the Army.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$140.1M",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "107",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$93.2M",
+            "label": "largest customer: Department of the Army",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Plymouth, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI JT4FKJQPH454",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Multiple launch rocket system (MLRS) improved armor CAB (IAC) KITS",
+            "sub": "Department of the Army · US$293.8M · 2018–2028",
+            "status": "Contract",
+            "date": "16 Aug 2018",
+            "iso": "2018-08-16",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "Award of NSN 2530-01-587-6141 for 37,599 EA.",
+            "sub": "Department of the Army · US$63.4M · 2024–2027",
+            "status": "Contract",
+            "date": "04 Dec 2024",
+            "iso": "2024-12-04",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "Abrams FOV T158LL track - second ordering period delivery ORDER.",
+            "sub": "Department of the Army · US$56.9M · 2025–2026",
+            "status": "Contract",
+            "date": "17 Jun 2025",
+            "iso": "2025-06-17",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Track SHOE, VEHICULAR, QTY 27,193 NSN: 2530-00-150-5897 MFR PART NUMBER: 11645125",
+            "sub": "Defense Logistics Agency · US$18.9M · 2026–2027",
+            "status": "Contract",
+            "date": "05 Aug 2026",
+            "iso": "2026-08-05",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "Track SHOE,VEHICULA NSN: 2530-00-692-9316",
+            "sub": "Defense Logistics Agency · US$8.5M · 2026–2027",
+            "status": "Contract",
+            "date": "05 Jun 2026",
+            "iso": "2026-06-05",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "Contract for the purchase of track PAD repair KITS.",
+            "sub": "Department of the Army · US$7.8M · 2026–2029",
+            "status": "Contract",
+            "date": "20 Apr 2026",
+            "iso": "2026-04-20",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "Delivery order to ADD 149 UNITS. NSNS: 2520-01-432-2685, 2520-01-432-2681",
+            "sub": "Defense Logistics Agency · US$6.6M · 2024–2026",
+            "status": "Contract",
+            "date": "01 Aug 2024",
+            "iso": "2024-08-01",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "Gearbox assembly",
+            "sub": "Defense Logistics Agency · US$4.2M · 2024–2026",
+            "status": "Contract",
+            "date": "13 Sep 2024",
+            "iso": "2024-09-13",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$515.0M · 4 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$85.1M · 4 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              5,
+              6
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI JT4FKJQPH454",
+            "url": "https://www.usaspending.gov/recipient/10fd6be1-dd52-bb5c-f6dd-49333c3eff6a-C/latest"
+          },
+          {
+            "title": "USAspending.gov · W15QKN18C0073",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN18C0073_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W912CH25C0012",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH25C0012_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W912CH25F0314",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH25F0314_9700_W912CH24D0025_9700"
+          },
+          {
+            "title": "USAspending.gov · SPRDL126C0113",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRDL126C0113_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPRDL126F0129",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRDL126F0129_9700_SPRDL124D0009_9700"
+          },
+          {
+            "title": "USAspending.gov · W912CH26F0138",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH26F0138_9700_W912CH25D0037_9700"
+          },
+          {
+            "title": "USAspending.gov · SPRDL124F0196",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRDL124F0196_9700_SPRDL120D0093_9700"
+          },
+          {
+            "title": "USAspending.gov · SPRDL124C0067",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRDL124C0067_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "0d19520bc4827bf2"
     }
   }
 }
