@@ -79502,8 +79502,8 @@
         ]
       ],
       "about": {
-        "workspace": "U.S. ORDNANCE is a US company registered in 1997, with its seat in Mccarran. US federal spending records show US$18.1M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 8 contracts; the largest customer is the Department of the Army.",
-        "overview": "U.S. ORDNANCE is a US company registered in 1997, with its seat in Mccarran. US federal spending records show US$18.1M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 8 contracts; the largest customer is the Department of the Army."
+        "workspace": "U.S. ORDNANCE is a US company registered in 1997, with its seat in Mccarran. US federal spending records show US$18.1M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 6 contracts; the largest customer is the Department of the Army.",
+        "overview": "U.S. ORDNANCE is a US company registered in 1997, with its seat in Mccarran. US federal spending records show US$18.1M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 6 contracts; the largest customer is the Department of the Army."
       },
       "facts": {
         "workspace": [
@@ -79636,20 +79636,20 @@
       ],
       "page": {
         "v": 2,
-        "lead": "U.S. ORDNANCE is a US company registered in 1997, with its seat in Mccarran. US federal spending records show US$18.1M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 8 contracts; the largest customer is the Department of the Army.",
+        "lead": "U.S. ORDNANCE is a US company registered in 1997, with its seat in Mccarran. US federal spending records show US$18.1M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 6 contracts; the largest customer is the Department of the Army.",
         "lead_src": [
           1
         ],
         "figures": [
           {
             "value": "US$18.1M",
-            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all Department of the Army",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026, almost all Department of the Army",
             "src": [
               2
             ]
           },
           {
-            "value": "8",
+            "value": "6",
             "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
             "src": [
               2
@@ -79729,24 +79729,6 @@
             "src": 8
           },
           {
-            "title": "Procurement of M2, M240B and M2A1 training from U.S. ORDNANCE. total price $59,200.00",
-            "sub": "Department of the Army · US$40K · 2018–2019",
-            "status": "Contract",
-            "date": "07 Dec 2018",
-            "iso": "2018-12-07",
-            "ongoing": false,
-            "src": 9
-          },
-          {
-            "title": "Contract SPE7L126V9180",
-            "sub": "Defense Logistics Agency · US$1K · 2026",
-            "status": "Contract",
-            "date": "06 May 2026",
-            "iso": "2026-05-06",
-            "ongoing": false,
-            "src": 10
-          },
-          {
             "title": "US Department of Defense contracts",
             "sub": "Recipient profile on USAspending.gov",
             "status": "Contracts",
@@ -79760,22 +79742,12 @@
           {
             "type": "customer",
             "name": "Department of the Army",
-            "sub": "Customer · US$63.2M · 7 contracts",
+            "sub": "Customer · US$63.1M · 6 contracts",
             "status": "verified",
             "src": [
               2,
               3,
               4
-            ]
-          },
-          {
-            "type": "customer",
-            "name": "Defense Logistics Agency",
-            "sub": "Customer · US$2K · 1 contract",
-            "status": "verified",
-            "src": [
-              2,
-              10
             ]
           }
         ],
@@ -79813,18 +79785,10 @@
           {
             "title": "USAspending.gov · W15QKN24C0053",
             "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN24C0053_9700_-NONE-_-NONE-"
-          },
-          {
-            "title": "USAspending.gov · W56HZV19P0023",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV19P0023_9700_-NONE-_-NONE-"
-          },
-          {
-            "title": "USAspending.gov · SPE7L126V9180",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7L126V9180_9700_-NONE-_-NONE-"
           }
         ]
       },
-      "card_hash": "938b04d0b8647276"
+      "card_hash": "5c4beeb4291e89fc"
     },
     "def-spec-sp-z-o-o": {
       "developments": [
@@ -82943,8 +82907,8 @@
         ]
       ],
       "about": {
-        "workspace": "DRS NETWORK & IMAGING SYSTEMS LLC is a US company, with its seat in Melbourne. US federal spending records show US$299.3M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 253 contracts; the largest customer is the Defense Logistics Agency.",
-        "overview": "DRS NETWORK & IMAGING SYSTEMS LLC is a US company, with its seat in Melbourne. US federal spending records show US$299.3M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 253 contracts; the largest customer is the Defense Logistics Agency."
+        "workspace": "DRS NETWORK & IMAGING SYSTEMS LLC is a US company, with its seat in Melbourne. US federal spending records show US$216.7M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 122 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "DRS NETWORK & IMAGING SYSTEMS LLC is a US company, with its seat in Melbourne. US federal spending records show US$216.7M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 122 contracts; the largest customer is the Defense Logistics Agency."
       },
       "facts": {
         "workspace": [
@@ -83023,27 +82987,27 @@
       ],
       "page": {
         "v": 2,
-        "lead": "DRS NETWORK & IMAGING SYSTEMS LLC is a US company, with its seat in Melbourne. US federal spending records show US$299.3M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 253 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead": "DRS NETWORK & IMAGING SYSTEMS LLC is a US company, with its seat in Melbourne. US federal spending records show US$216.7M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 122 contracts; the largest customer is the Defense Logistics Agency.",
         "lead_src": [
           1
         ],
         "figures": [
           {
-            "value": "US$299.3M",
-            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "value": "US$216.7M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026",
             "src": [
               1
             ]
           },
           {
-            "value": "253",
+            "value": "122",
             "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
             "src": [
               1
             ]
           },
           {
-            "value": "US$154.6M",
+            "value": "US$128.2M",
             "label": "largest customer: Defense Logistics Agency",
             "src": [
               1
@@ -83109,22 +83073,13 @@
             "src": 6
           },
           {
-            "title": "PU W/ GPS capability ready",
-            "sub": "Defense Information Systems Agency · US$112.4M · 2023–2026",
-            "status": "Contract",
-            "date": "20 Dec 2023",
-            "iso": "2023-12-20",
-            "ongoing": false,
-            "src": 7
-          },
-          {
             "title": "Purchase family of weapon SIGHTS-INDIVIDUAL (FWS-I) SYSTEMS. FWS-I is a weapon mounted LONG-WAVE infrared sensor that pr",
             "sub": "Department of the Army · US$76.1M · 2025–2026",
             "status": "Contract",
             "date": "30 Jun 2025",
             "iso": "2025-06-30",
             "ongoing": false,
-            "src": 8
+            "src": 7
           },
           {
             "title": "FWS-I systems",
@@ -83133,6 +83088,15 @@
             "date": "10 Sep 2025",
             "iso": "2025-09-10",
             "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "The third generation forward looking infrared (3GEN FLIR) LRIP LOW RATE initial production (LRIP) dewar cooler bench (DC",
+            "sub": "Department of the Army · US$62.6M · 2022–2029",
+            "status": "Contract",
+            "date": "23 Aug 2022",
+            "iso": "2022-08-23",
+            "ongoing": true,
             "src": 9
           }
         ],
@@ -83140,7 +83104,7 @@
           {
             "type": "customer",
             "name": "Defense Logistics Agency",
-            "sub": "Customer · US$515.2M · 2 contracts",
+            "sub": "Customer · US$488.8M · 2 contracts",
             "status": "verified",
             "src": [
               1,
@@ -83151,12 +83115,12 @@
           {
             "type": "customer",
             "name": "Department of the Army",
-            "sub": "Customer · US$389.8M · 3 contracts",
+            "sub": "Customer · US$398.2M · 4 contracts",
             "status": "verified",
             "src": [
               1,
               6,
-              8
+              7
             ]
           },
           {
@@ -83180,17 +83144,17 @@
           },
           {
             "type": "customer",
-            "name": "Defense Information Systems Agency",
-            "sub": "Customer · US$112.4M · 1 contract",
+            "name": "U.S. Special Operations Command",
+            "sub": "Customer · US$5.8M",
             "status": "verified",
             "src": [
-              7
+              1
             ]
           },
           {
             "type": "customer",
-            "name": "U.S. Special Operations Command",
-            "sub": "Customer · US$7.8M",
+            "name": "Defense Microelectronics Activity",
+            "sub": "Customer · US$5K",
             "status": "verified",
             "src": [
               1
@@ -83225,20 +83189,20 @@
             "url": "https://www.usaspending.gov/award/CONT_AWD_W91CRB24F0253_9700_W91CRB22D0008_9700"
           },
           {
-            "title": "USAspending.gov · HC108424F0067",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_HC108424F0067_9700_HC102818D0045_9700"
-          },
-          {
             "title": "USAspending.gov · W91CRB25FA046",
             "url": "https://www.usaspending.gov/award/CONT_AWD_W91CRB25FA046_9700_W91CRB22D0008_9700"
           },
           {
             "title": "USAspending.gov · W91CRB25FA250",
             "url": "https://www.usaspending.gov/award/CONT_AWD_W91CRB25FA250_9700_W91CRB22D0008_9700"
+          },
+          {
+            "title": "USAspending.gov · W909MY22C0023",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W909MY22C0023_9700_-NONE-_-NONE-"
           }
         ]
       },
-      "card_hash": "c9b6ac2209f7daa8"
+      "card_hash": "a546d951d361d142"
     },
     "fibrotex-usa-inc": {
       "developments": [],
@@ -83254,8 +83218,8 @@
         ]
       ],
       "about": {
-        "workspace": "FIBROTEX USA INC is a US company, with its seat in Stearns. US federal spending records show US$76.2M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 10 contracts; the largest customer is the Department of the Army.",
-        "overview": "FIBROTEX USA INC is a US company, with its seat in Stearns. US federal spending records show US$76.2M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 10 contracts; the largest customer is the Department of the Army."
+        "workspace": "FIBROTEX USA INC is a US company, with its seat in Stearns. US federal spending records show US$76.2M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 9 contracts; the largest customer is the Department of the Army.",
+        "overview": "FIBROTEX USA INC is a US company, with its seat in Stearns. US federal spending records show US$76.2M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 9 contracts; the largest customer is the Department of the Army."
       },
       "facts": {
         "workspace": [
@@ -83334,20 +83298,20 @@
       ],
       "page": {
         "v": 2,
-        "lead": "FIBROTEX USA INC is a US company, with its seat in Stearns. US federal spending records show US$76.2M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 10 contracts; the largest customer is the Department of the Army.",
+        "lead": "FIBROTEX USA INC is a US company, with its seat in Stearns. US federal spending records show US$76.2M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 9 contracts; the largest customer is the Department of the Army.",
         "lead_src": [
           1
         ],
         "figures": [
           {
             "value": "US$76.2M",
-            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all Department of the Army",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026, almost all Department of the Army",
             "src": [
               1
             ]
           },
           {
-            "value": "10",
+            "value": "9",
             "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
             "src": [
               1
@@ -83395,22 +83359,13 @@
             "src": 4
           },
           {
-            "title": "New developmental delivery order for MCS/BFV, ultra lightweight CAMO NET system (ULCANS)",
-            "sub": "Department of the Army · US$2.4M · 2024–2026",
-            "status": "Contract",
-            "date": "02 Oct 2024",
-            "iso": "2024-10-02",
-            "ongoing": false,
-            "src": 5
-          },
-          {
             "title": "Final development and LOW-RATE initial production of platform specific mobile camouflage systems",
             "sub": "Department of the Army · US$2.1M · 2026",
             "status": "Contract",
             "date": "26 Feb 2026",
             "iso": "2026-02-26",
             "ongoing": false,
-            "src": 6
+            "src": 5
           },
           {
             "title": "Camouflage systems",
@@ -83419,7 +83374,7 @@
             "date": "28 May 2026",
             "iso": "2026-05-28",
             "ongoing": true,
-            "src": 7
+            "src": 6
           },
           {
             "title": "Camouflage systems",
@@ -83428,7 +83383,7 @@
             "date": "07 May 2026",
             "iso": "2026-05-07",
             "ongoing": true,
-            "src": 8
+            "src": 7
           },
           {
             "title": "Camouflage systems",
@@ -83437,6 +83392,15 @@
             "date": "18 Mar 2026",
             "iso": "2026-03-18",
             "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "S2P2: thermal NETS solicitation # W911S226U3257",
+            "sub": "Department of the Army · US$153K · 2026",
+            "status": "Contract",
+            "date": "29 Jun 2026",
+            "iso": "2026-06-29",
+            "ongoing": false,
             "src": 9
           }
         ],
@@ -83444,7 +83408,7 @@
           {
             "type": "customer",
             "name": "Department of the Army",
-            "sub": "Customer · US$194.4M · 8 contracts",
+            "sub": "Customer · US$192.1M · 8 contracts",
             "status": "verified",
             "src": [
               1,
@@ -83473,10 +83437,6 @@
             "url": "https://www.usaspending.gov/award/CONT_AWD_W911QY26FA118_9700_W911QY18D0210_9700"
           },
           {
-            "title": "USAspending.gov · W911QY25F0001",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_W911QY25F0001_9700_W911QY18D0210_9700"
-          },
-          {
             "title": "USAspending.gov · W911QY26FA051",
             "url": "https://www.usaspending.gov/award/CONT_AWD_W911QY26FA051_9700_W911QY18D0210_9700"
           },
@@ -83491,10 +83451,14 @@
           {
             "title": "USAspending.gov · W911QY26FA069",
             "url": "https://www.usaspending.gov/award/CONT_AWD_W911QY26FA069_9700_W911QY18D0210_9700"
+          },
+          {
+            "title": "USAspending.gov · W911S226PA717",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W911S226PA717_9700_-NONE-_-NONE-"
           }
         ]
       },
-      "card_hash": "254cef3de5fb8d19"
+      "card_hash": "5a4be27e2c22019a"
     },
     "fn-america-llc": {
       "developments": [],
@@ -83510,8 +83474,8 @@
         ]
       ],
       "about": {
-        "workspace": "FN AMERICA LLC is a US company, with its seat in Columbia. US federal spending records show US$30.3M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 118 contracts; the largest customer is the Department of the Army.",
-        "overview": "FN AMERICA LLC is a US company, with its seat in Columbia. US federal spending records show US$30.3M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 118 contracts; the largest customer is the Department of the Army."
+        "workspace": "FN AMERICA LLC is a US company, with its seat in Columbia. US federal spending records show US$30.2M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 100 contracts; the largest customer is the Department of the Army.",
+        "overview": "FN AMERICA LLC is a US company, with its seat in Columbia. US federal spending records show US$30.2M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 100 contracts; the largest customer is the Department of the Army."
       },
       "facts": {
         "workspace": [
@@ -83590,20 +83554,20 @@
       ],
       "page": {
         "v": 2,
-        "lead": "FN AMERICA LLC is a US company, with its seat in Columbia. US federal spending records show US$30.3M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 118 contracts; the largest customer is the Department of the Army.",
+        "lead": "FN AMERICA LLC is a US company, with its seat in Columbia. US federal spending records show US$30.2M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 100 contracts; the largest customer is the Department of the Army.",
         "lead_src": [
           1
         ],
         "figures": [
           {
-            "value": "US$30.3M",
-            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "value": "US$30.2M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026",
             "src": [
               1
             ]
           },
           {
-            "value": "118",
+            "value": "100",
             "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
             "src": [
               1
@@ -83718,7 +83682,7 @@
           {
             "type": "customer",
             "name": "Defense Logistics Agency",
-            "sub": "Customer · US$7.5M · 1 contract",
+            "sub": "Customer · US$7.3M · 1 contract",
             "status": "verified",
             "src": [
               1,
@@ -83767,7 +83731,7 @@
           }
         ]
       },
-      "card_hash": "ac7d4cfe04eb2e00"
+      "card_hash": "e656b0fd7eb60937"
     },
     "general-dynamics-mission-systems-inc": {
       "developments": [],
@@ -83783,8 +83747,8 @@
         ]
       ],
       "about": {
-        "workspace": "GENERAL DYNAMICS MISSION SYSTEMS, INC. is a US company, with its seat in Taunton. US federal spending records show US$1.7B obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 606 contracts; the largest customer is the Department of the Navy.",
-        "overview": "GENERAL DYNAMICS MISSION SYSTEMS, INC. is a US company, with its seat in Taunton. US federal spending records show US$1.7B obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 606 contracts; the largest customer is the Department of the Navy."
+        "workspace": "GENERAL DYNAMICS MISSION SYSTEMS, INC. is a US company, with its seat in Taunton. US federal spending records show US$1.3B obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 301 contracts; the largest customer is the Department of the Navy.",
+        "overview": "GENERAL DYNAMICS MISSION SYSTEMS, INC. is a US company, with its seat in Taunton. US federal spending records show US$1.3B obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 301 contracts; the largest customer is the Department of the Navy."
       },
       "facts": {
         "workspace": [
@@ -83863,27 +83827,27 @@
       ],
       "page": {
         "v": 2,
-        "lead": "GENERAL DYNAMICS MISSION SYSTEMS, INC. is a US company, with its seat in Taunton. US federal spending records show US$1.7B obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 606 contracts; the largest customer is the Department of the Navy.",
+        "lead": "GENERAL DYNAMICS MISSION SYSTEMS, INC. is a US company, with its seat in Taunton. US federal spending records show US$1.3B obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 301 contracts; the largest customer is the Department of the Navy.",
         "lead_src": [
           1
         ],
         "figures": [
           {
-            "value": "US$1.7B",
-            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "value": "US$1.3B",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026",
             "src": [
               1
             ]
           },
           {
-            "value": "606",
+            "value": "301",
             "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
             "src": [
               1
             ]
           },
           {
-            "value": "US$1.0B",
+            "value": "US$897.6M",
             "label": "largest customer: Department of the Navy",
             "src": [
               1
@@ -83922,31 +83886,13 @@
             "src": 3
           },
           {
-            "title": "Consolidation and FOLLOW-ON to 22C1003 and 22C1005. FY24 FIRE control OMNIBUS. GFE transportation (SCN).",
-            "sub": "Defense Contract Management Agency · US$517.6M · 2023–2030",
-            "status": "Contract",
-            "date": "01 Oct 2023",
-            "iso": "2023-10-01",
-            "ongoing": true,
-            "src": 4
-          },
-          {
-            "title": "IGF::OT::IGF",
-            "sub": "Defense Contract Management Agency · US$485.6M · 2015–2026",
-            "status": "Contract",
-            "date": "01 Oct 2015",
-            "iso": "2015-10-01",
-            "ongoing": false,
-            "src": 5
-          },
-          {
             "title": "UCA first order LRIP",
             "sub": "Department of the Army · US$365.0M · 2010–2026",
             "status": "Contract",
             "date": "24 Mar 2010",
             "iso": "2010-03-24",
             "ongoing": false,
-            "src": 6
+            "src": 4
           },
           {
             "title": "Refresh 2 US columbia production (UK CLINS)",
@@ -83955,7 +83901,7 @@
             "date": "01 Oct 2025",
             "iso": "2025-10-01",
             "ongoing": true,
-            "src": 7
+            "src": 5
           },
           {
             "title": "To procure configuration items for the WIN-T FULL RATE PRODUCTION.",
@@ -83964,34 +83910,62 @@
             "date": "28 Sep 2012",
             "iso": "2012-09-28",
             "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Hammerhead prototype",
+            "sub": "Department of the Navy · US$288.6M · 2021–2027",
+            "status": "Contract",
+            "date": "30 Sep 2021",
+            "iso": "2021-09-30",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "DESIGN, DEVELOP, integrate NAVY systems",
+            "sub": "Department of the Navy · US$279.1M · 2019–2027",
+            "status": "Contract",
+            "date": "19 Jul 2019",
+            "iso": "2019-07-19",
+            "ongoing": true,
             "src": 8
           },
           {
-            "title": "FY20 FC omnibus UK",
-            "sub": "Defense Contract Management Agency · US$295.5M · 2019–2024",
+            "title": "GFE transportation - SCN",
+            "sub": "Department of the Navy · US$261.0M · 2022–2028",
             "status": "Contract",
-            "date": "01 Oct 2019",
-            "iso": "2019-10-01",
-            "ongoing": false,
+            "date": "14 Jul 2022",
+            "iso": "2022-07-14",
+            "ongoing": true,
             "src": 9
           }
         ],
         "network": [
           {
             "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$2.1B · 4 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              5,
+              7
+            ]
+          },
+          {
+            "type": "customer",
             "name": "Defense Contract Management Agency",
-            "sub": "Customer · US$3.0B · 5 contracts",
+            "sub": "Customer · US$1.7B · 2 contracts",
             "status": "verified",
             "src": [
               2,
-              4,
-              5
+              6
             ]
           },
           {
             "type": "customer",
             "name": "Department of the Air Force",
-            "sub": "Customer · US$1.6B · 1 contract",
+            "sub": "Customer · US$1.4B · 1 contract",
             "status": "verified",
             "src": [
               1,
@@ -84000,28 +83974,18 @@
           },
           {
             "type": "customer",
-            "name": "Department of the Navy",
-            "sub": "Customer · US$1.4B · 1 contract",
-            "status": "verified",
-            "src": [
-              1,
-              7
-            ]
-          },
-          {
-            "type": "customer",
             "name": "Department of the Army",
-            "sub": "Customer · US$485.6M · 1 contract",
+            "sub": "Customer · US$374.2M · 1 contract",
             "status": "verified",
             "src": [
               1,
-              6
+              4
             ]
           },
           {
             "type": "customer",
-            "name": "Defense Threat Reduction Agency",
-            "sub": "Customer · US$7.3M",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$1.8M",
             "status": "verified",
             "src": [
               1
@@ -84029,8 +83993,8 @@
           },
           {
             "type": "customer",
-            "name": "USTRANSCOM",
-            "sub": "Customer · US$3.5M",
+            "name": "Defense Microelectronics Activity",
+            "sub": "Customer · US$5K",
             "status": "verified",
             "src": [
               1
@@ -84103,14 +84067,6 @@
             "url": "https://www.usaspending.gov/award/CONT_AWD_HQ085022C0007_9700_-NONE-_-NONE-"
           },
           {
-            "title": "USAspending.gov · N0003024C1005",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_N0003024C1005_9700_-NONE-_-NONE-"
-          },
-          {
-            "title": "USAspending.gov · N0003016C0005",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_N0003016C0005_9700_-NONE-_-NONE-"
-          },
-          {
             "title": "USAspending.gov · 0001",
             "url": "https://www.usaspending.gov/award/CONT_AWD_0001_9700_W15P7T10DC007_9700"
           },
@@ -84123,8 +84079,16 @@
             "url": "https://www.usaspending.gov/award/CONT_AWD_0027_9700_W15P7T10DC007_9700"
           },
           {
-            "title": "USAspending.gov · N0003020C0005",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_N0003020C0005_9700_-NONE-_-NONE-"
+            "title": "USAspending.gov · N0002421C6425",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0002421C6425_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0002419C6407",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0002419C6407_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0003022C1003",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0003022C1003_9700_-NONE-_-NONE-"
           },
           {
             "title": "USAspending.gov · sub-award",
@@ -84132,7 +84096,7 @@
           }
         ]
       },
-      "card_hash": "db46e76c24ae7791"
+      "card_hash": "03b40e36bc0dc5bb"
     },
     "loc-performance-products-llc": {
       "developments": [],
@@ -84148,8 +84112,8 @@
         ]
       ],
       "about": {
-        "workspace": "LOC PERFORMANCE PRODUCTS LLC is a US company, with its seat in Plymouth. US federal spending records show US$140.1M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 107 contracts; the largest customer is the Department of the Army.",
-        "overview": "LOC PERFORMANCE PRODUCTS LLC is a US company, with its seat in Plymouth. US federal spending records show US$140.1M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 107 contracts; the largest customer is the Department of the Army."
+        "workspace": "LOC PERFORMANCE PRODUCTS LLC is a US company, with its seat in Plymouth. US federal spending records show US$139.7M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 94 contracts; the largest customer is the Department of the Army.",
+        "overview": "LOC PERFORMANCE PRODUCTS LLC is a US company, with its seat in Plymouth. US federal spending records show US$139.7M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 94 contracts; the largest customer is the Department of the Army."
       },
       "facts": {
         "workspace": [
@@ -84228,20 +84192,20 @@
       ],
       "page": {
         "v": 2,
-        "lead": "LOC PERFORMANCE PRODUCTS LLC is a US company, with its seat in Plymouth. US federal spending records show US$140.1M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 107 contracts; the largest customer is the Department of the Army.",
+        "lead": "LOC PERFORMANCE PRODUCTS LLC is a US company, with its seat in Plymouth. US federal spending records show US$139.7M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 94 contracts; the largest customer is the Department of the Army.",
         "lead_src": [
           1
         ],
         "figures": [
           {
-            "value": "US$140.1M",
-            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "value": "US$139.7M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026",
             "src": [
               1
             ]
           },
           {
-            "value": "107",
+            "value": "94",
             "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
             "src": [
               1
@@ -84332,12 +84296,12 @@
             "src": 8
           },
           {
-            "title": "Gearbox assembly",
-            "sub": "Defense Logistics Agency · US$4.2M · 2024–2026",
+            "title": "Delivery order to ADD 5,220 EA",
+            "sub": "Defense Logistics Agency · US$3.4M · 2025–2027",
             "status": "Contract",
-            "date": "13 Sep 2024",
-            "iso": "2024-09-13",
-            "ongoing": false,
+            "date": "24 Sep 2025",
+            "iso": "2025-09-24",
+            "ongoing": true,
             "src": 9
           }
         ],
@@ -84356,7 +84320,7 @@
           {
             "type": "customer",
             "name": "Defense Logistics Agency",
-            "sub": "Customer · US$85.1M · 4 contracts",
+            "sub": "Customer · US$84.0M · 4 contracts",
             "status": "verified",
             "src": [
               1,
@@ -84401,12 +84365,12 @@
             "url": "https://www.usaspending.gov/award/CONT_AWD_SPRDL124F0196_9700_SPRDL120D0093_9700"
           },
           {
-            "title": "USAspending.gov · SPRDL124C0067",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRDL124C0067_9700_-NONE-_-NONE-"
+            "title": "USAspending.gov · SPRDL125F0232",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRDL125F0232_9700_SPRDL125D0039_9700"
           }
         ]
       },
-      "card_hash": "0d19520bc4827bf2"
+      "card_hash": "f782eaed6da5a8c2"
     },
     "lockheed-martin-canada": {
       "developments": [],
@@ -112663,6 +112627,933 @@
         ]
       },
       "card_hash": "5adc09ddeb60f8ea"
+    },
+    "autoflug-gmbh": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Autoflug GmbH is a German company registered in 2001, with its seat in Rellingen.",
+        "overview": "Autoflug GmbH is a German company registered in 2001, with its seat in Rellingen."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2001",
+            "Registered"
+          ],
+          [
+            "Rellingen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900YHUR8RL9XJL989",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2001",
+            "Registered"
+          ],
+          [
+            "Rellingen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900YHUR8RL9XJL989",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Autoflug GmbH, LEI 529900YHUR8RL9XJL989",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900YHUR8RL9XJL989"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Rellingen",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Autoflug GmbH is a German company registered in 2001, with its seat in Rellingen.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2001",
+            "Registered",
+            null
+          ],
+          [
+            "Rellingen, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900YHUR8RL9XJL989",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900YHUR8RL9XJL989",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900YHUR8RL9XJL989"
+          }
+        ]
+      },
+      "card_hash": "2d10f8bca036bba5"
+    },
+    "knds-deutschland-gmbh-co-kg": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "KNDS Deutschland GmbH & Co. KG is a German company registered in 1998, with its seat in München.",
+        "overview": "KNDS Deutschland GmbH & Co. KG is a German company registered in 1998, with its seat in München."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1998",
+            "Registered"
+          ],
+          [
+            "München, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900K7CE38FO5ZDD76",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1998",
+            "Registered"
+          ],
+          [
+            "München, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900K7CE38FO5ZDD76",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity KNDS Deutschland GmbH & Co. KG, LEI 529900K7CE38FO5ZDD76",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900K7CE38FO5ZDD76"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "München",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "KNDS Deutschland GmbH & Co. KG is a German company registered in 1998, with its seat in München.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1998",
+            "Registered",
+            null
+          ],
+          [
+            "München, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900K7CE38FO5ZDD76",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900K7CE38FO5ZDD76",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900K7CE38FO5ZDD76"
+          }
+        ]
+      },
+      "card_hash": "acacc4ef6be3df88"
+    },
+    "pro-beam-gmbh-co-kgaa": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "pro-beam GmbH & Co. KGaA is a German company registered in 1998, with its seat in Gilching.",
+        "overview": "pro-beam GmbH & Co. KGaA is a German company registered in 1998, with its seat in Gilching."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1998",
+            "Registered"
+          ],
+          [
+            "Gilching, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900UNJIF57NMPY921",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1998",
+            "Registered"
+          ],
+          [
+            "Gilching, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900UNJIF57NMPY921",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "PB WEBAM",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "PB EBM 30S",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Contract manufacturing",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "PB WEBAM",
+              "The production of three-dimensional industrial components is performed by continuously fusing of metal wire within the vacuum of the additiv",
+              "grey"
+            ],
+            [
+              "PB EBM 30S",
+              "Our efficient and process reliable machine concept of the PB EBM 30S allows for a significantly faster production of workpieces.",
+              "grey"
+            ],
+            [
+              "Contract manufacturing",
+              "Whether welding, hardening, perforation or coating: As part of our contract manufacturing, we combine modern process technology with in-dept",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity pro-beam GmbH & Co. KGaA, LEI 529900UNJIF57NMPY921",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900UNJIF57NMPY921"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Gilching",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "pro-beam GmbH & Co. KGaA is a German company registered in 1998, with its seat in Gilching.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1998",
+            "Registered",
+            null
+          ],
+          [
+            "Gilching, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900UNJIF57NMPY921",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900UNJIF57NMPY921",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900UNJIF57NMPY921"
+          }
+        ]
+      },
+      "card_hash": "09b9003a02fc3668"
+    },
+    "airmod": {
+      "developments": [],
+      "country": "FR",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "AIRMOD is a French company registered in 2022, with its seat in La Ciotat.",
+        "overview": "AIRMOD is a French company registered in 2022, with its seat in La Ciotat."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2022",
+            "Registered"
+          ],
+          [
+            "La Ciotat, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 917903221",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2022",
+            "Registered"
+          ],
+          [
+            "La Ciotat, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 917903221",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Conditional Access Modules (CAM)",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Drone Electronic Systems",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Edge Computing solutions",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Conditional Access Modules (CAM)",
+              "Airmod designs, develops and delivers secure and reliable Conditional Access Modules (CAM) to worldwide TV operators.",
+              "grey"
+            ],
+            [
+              "Drone Electronic Systems",
+              "Airmod develops Drone Electronic Systems and Edge Computing solutions thanks to its expertise in video, data processing and embedded AI.",
+              "grey"
+            ],
+            [
+              "Edge Computing solutions",
+              "Airmod develops Drone Electronic Systems and Edge Computing solutions thanks to its expertise in video, data processing and embedded AI.",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity AIRMOD, SIREN 917903221",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=917903221"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "La Ciotat",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "AIRMOD is a French company registered in 2022, with its seat in La Ciotat.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2022",
+            "Registered",
+            null
+          ],
+          [
+            "La Ciotat, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "SIREN 917903221",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · SIREN 917903221",
+            "url": "https://recherche-entreprises.api.gouv.fr/search?q=917903221"
+          }
+        ]
+      },
+      "card_hash": "89e6728088b8ca3f"
+    },
+    "akira-technologies": {
+      "developments": [],
+      "country": "FR",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "AKIRA TECHNOLOGIES is a French company registered in 2003, with its seat in Bayonne.",
+        "overview": "AKIRA TECHNOLOGIES is a French company registered in 2003, with its seat in Bayonne."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2003",
+            "Registered"
+          ],
+          [
+            "Bayonne, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 448046680",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2003",
+            "Registered"
+          ],
+          [
+            "Bayonne, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 448046680",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity AKIRA TECHNOLOGIES, SIREN 448046680",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=448046680"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Bayonne",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "AKIRA TECHNOLOGIES is a French company registered in 2003, with its seat in Bayonne.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2003",
+            "Registered",
+            null
+          ],
+          [
+            "Bayonne, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "SIREN 448046680",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · SIREN 448046680",
+            "url": "https://recherche-entreprises.api.gouv.fr/search?q=448046680"
+          }
+        ]
+      },
+      "card_hash": "457508d7ccc12333"
+    },
+    "robin-radar-systems": {
+      "developments": [],
+      "country": "NL",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Robin Radar Systems B.V. is a Dutch company registered in 2010, with its seat in Delft.",
+        "overview": "Robin Radar Systems B.V. is a Dutch company registered in 2010, with its seat in Delft."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2010",
+            "Registered"
+          ],
+          [
+            "Delft, Netherlands",
+            "Headquarters"
+          ],
+          [
+            "LEI 724500IIOB5CD3C4UZ90",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2010",
+            "Registered"
+          ],
+          [
+            "Delft, Netherlands",
+            "Headquarters"
+          ],
+          [
+            "LEI 724500IIOB5CD3C4UZ90",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "IRIS",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Report Viewer",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "OTM module",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "IRIS tripod",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Micro-shelter",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Bird Viewer",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "IRIS",
+              "IRIS combines leading accuracy, versatility, and coverage in a deployable 29kg package. 360° azimuth coverage Micro-doppler classification L",
+              "grey"
+            ],
+            [
+              "Report Viewer",
+              "Visualise environmental conditions, bird size, speed, altitude, and more with Report Viewer for better risk collision models and effective m",
+              "grey"
+            ],
+            [
+              "OTM module",
+              "Put your radar on the move with our OTM module. Mount on convoys or vehicles to detect, track and classify at speeds of up to 100 km/h (60 m",
+              "grey"
+            ],
+            [
+              "IRIS tripod",
+              "Deploy effortlessly with our optional IRIS tripod. Set up securely at any site in minutes, with an adjustable height of 1.35 m to 2.40 m.",
+              "grey"
+            ],
+            [
+              "Micro-shelter",
+              "For a flexible, no-fuss installation, opt for our micro-shelter at even the most challenging sites, like offshore. It accommodates an antenn",
+              "grey"
+            ],
+            [
+              "Bird Viewer",
+              "Bird Viewer empowers you in the here and now. It translates what MAX detects and tracks in real-time, offering you a live view of your airsp",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Robin Radar Systems B.V., LEI 724500IIOB5CD3C4UZ90",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/724500IIOB5CD3C4UZ90"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Delft",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Robin Radar Systems B.V. is a Dutch company registered in 2010, with its seat in Delft.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2010",
+            "Registered",
+            null
+          ],
+          [
+            "Delft, Netherlands",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 724500IIOB5CD3C4UZ90",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 724500IIOB5CD3C4UZ90",
+            "url": "https://api.gleif.org/api/v1/lei-records/724500IIOB5CD3C4UZ90"
+          }
+        ]
+      },
+      "card_hash": "5e6b66ce24c734f2"
     }
   }
 }
