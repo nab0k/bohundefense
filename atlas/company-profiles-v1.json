@@ -98726,6 +98726,525 @@
         ]
       },
       "card_hash": "9c9fd0ca4981963a"
+    },
+    "neros": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "NEROS, INC. is a US company, with its seat in Torrance. US federal spending records show US$19.0M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 16 contracts; the largest customer is the Department of the Army.",
+        "overview": "NEROS, INC. is a US company, with its seat in Torrance. US federal spending records show US$19.0M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 16 contracts; the largest customer is the Department of the Army."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Torrance, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI JC6XP8B7EC51",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Torrance, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI JC6XP8B7EC51",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity NEROS, INC., UEI JC6XP8B7EC51",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/eadb7f92-3d4e-3e35-50fe-9e83abf18d07-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/eadb7f92-3d4e-3e35-50fe-9e83abf18d07-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Torrance",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "NEROS, INC. is a US company, with its seat in Torrance. US federal spending records show US$19.0M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 16 contracts; the largest customer is the Department of the Army.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$19.0M",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all Department of the Army",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "16",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Torrance, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI JC6XP8B7EC51",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Delivery order 1 for PURPOSE-BUILT attritable system (PBAS) to include small unmanned aircraft systems (SUAS) archer wit",
+            "sub": "Department of the Army · US$17.5M · 2026–2027",
+            "status": "Contract",
+            "date": "01 Jul 2026",
+            "iso": "2026-07-01",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "Custom COMMAND-AND-CONTROL LINK and prototype TESTING: peregrine hybrid",
+            "sub": "Department of the Air Force · US$1.1M · 2024–2026",
+            "status": "Contract",
+            "date": "12 Jun 2024",
+            "iso": "2024-06-12",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "4TH marine division and 4TH light armored reconnaissance battalion HAS a requirement to procure archer 8 FPV drones and ",
+            "sub": "Department of the Navy · US$336K · 2026",
+            "status": "Contract",
+            "date": "02 Jun 2026",
+            "iso": "2026-06-02",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "The contractor shall provide all LABOR, EQUIPMENT, MATERIALS, TOOLS, PARTS, SHIPPING, and all other items necessary to d",
+            "sub": "Department of the Air Force · US$224K · 2026",
+            "status": "Contract",
+            "date": "27 Jan 2026",
+            "iso": "2026-01-27",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "S2P2: UAS solicitation # W911S226U2479",
+            "sub": "Department of the Army · US$216K · 2026",
+            "status": "Contract",
+            "date": "20 Feb 2026",
+            "iso": "2026-02-20",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Neros archer drones",
+            "sub": "Department of the Navy · US$181K · 2026",
+            "status": "Contract",
+            "date": "20 May 2026",
+            "iso": "2026-05-20",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "S2P2: UAS solicitation # W911S226U2857",
+            "sub": "Department of the Army · US$128K · 2026",
+            "status": "Contract",
+            "date": "15 Apr 2026",
+            "iso": "2026-04-15",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "Neros hardware",
+            "sub": "Department of the Navy · US$74K · 2026–2027",
+            "status": "Contract",
+            "date": "20 Jun 2026",
+            "iso": "2026-06-20",
+            "ongoing": true,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$36.0M · 3 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              6,
+              10
+            ],
+            "quote": "Between a $250M raise , a $500M IDIQ contract under the US Army’s Purpose-Built Attritable System (PBAS) program, and $100M in drone orders through the Drone Dominance Program, it’s been a big-dollar year for Neros."
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$1.5M · 2 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              3,
+              5
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$1.2M · 3 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              4,
+              7
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI JC6XP8B7EC51",
+            "url": "https://www.usaspending.gov/recipient/eadb7f92-3d4e-3e35-50fe-9e83abf18d07-C/latest"
+          },
+          {
+            "title": "USAspending.gov · W91CRB26FA251",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W91CRB26FA251_9700_W91CRB26DA011_9700"
+          },
+          {
+            "title": "USAspending.gov · FA864924P0421",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA864924P0421_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · M6786126P0020",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_M6786126P0020_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · FA441726P0012",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA441726P0012_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W911S226FA064",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W911S226FA064_9700_W911S225AA090_9700"
+          },
+          {
+            "title": "USAspending.gov · M2710026P0036",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_M2710026P0036_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W911S226FA113",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W911S226FA113_9700_W911S225AA090_9700"
+          },
+          {
+            "title": "USAspending.gov · N6893626P5254",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N6893626P5254_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "tectonicdefense.com",
+            "url": "https://www.tectonicdefense.com/pentagon-takes-stake-in-neros-with-450m-osc-loan/"
+          }
+        ]
+      },
+      "card_hash": "f782b26107a42b22"
+    },
+    "overland-ai": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "OVERLAND AI INC is a US company, with its seat in Seattle. US federal spending records show US$4.7M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 4 contracts; the largest customer is the Department of the Army.",
+        "overview": "OVERLAND AI INC is a US company, with its seat in Seattle. US federal spending records show US$4.7M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 4 contracts; the largest customer is the Department of the Army."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Seattle, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI KXTMCWJ99EG6",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Seattle, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI KXTMCWJ99EG6",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity OVERLAND AI INC, UEI KXTMCWJ99EG6",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/19a19c9c-2901-2843-1b4c-8761391cb4ee-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/19a19c9c-2901-2843-1b4c-8761391cb4ee-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Seattle",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "OVERLAND AI INC is a US company, with its seat in Seattle. US federal spending records show US$4.7M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 4 contracts; the largest customer is the Department of the Army.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$4.7M",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "4",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$4.0M",
+            "label": "largest customer: Department of the Army",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Seattle, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI KXTMCWJ99EG6",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Small business innovation research phase II",
+            "sub": "Department of the Navy · US$2.2M · 2025–2026",
+            "status": "Contract",
+            "date": "16 May 2025",
+            "iso": "2025-05-16",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "SBIR direct to phase II topic # A254-020 overland AI INC",
+            "sub": "Department of the Army · US$2.0M · 2026–2027",
+            "status": "Contract",
+            "date": "15 Apr 2026",
+            "iso": "2026-04-15",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "Small business innovative research (SBIR) direct to phase II (D2PHII), topic # A254-008, overland AI INC",
+            "sub": "Department of the Army · US$2.0M · 2025–2027",
+            "status": "Contract",
+            "date": "29 Aug 2025",
+            "iso": "2025-08-29",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "Small business innovation RESEARCH, direct to phase II topic A254-P030, xtechoverwatch OPEN topic",
+            "sub": "Department of the Army · US$2.0M · 2026–2027",
+            "status": "Contract",
+            "date": "19 Jan 2026",
+            "iso": "2026-01-19",
+            "ongoing": true,
+            "src": 5
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$10.0M · 3 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              3,
+              4
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$3.0M · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              2
+            ]
+          }
+        ],
+        "products": [
+          {
+            "name": "IBEX UGVs",
+            "role": "makes",
+            "status": "verified",
+            "quote": "Meanwhile, the Marines and the Army’s 75th Ranger Regiment are spending nearly $25 million to buy more than a dozen IBEX UGVs made by Overland AI for logistics and counter-UAV defense missions, company officials said last month.",
+            "src": [
+              6
+            ]
+          }
+        ],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI KXTMCWJ99EG6",
+            "url": "https://www.usaspending.gov/recipient/19a19c9c-2901-2843-1b4c-8761391cb4ee-C/latest"
+          },
+          {
+            "title": "USAspending.gov · M6785425C6532",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_M6785425C6532_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W5170126CA063",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W5170126CA063_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W5170125CA222",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W5170125CA222_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W5170126CA020",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W5170126CA020_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "defenseone.com",
+            "url": "https://www.defenseone.com/defense-systems/2026/11/pentagon-ukraine-ground-robots/417011/"
+          }
+        ]
+      },
+      "card_hash": "43b23b31f543dca7"
     }
   }
 }
