@@ -94828,6 +94828,1434 @@
         ]
       },
       "card_hash": "0c815cdcd9513c96"
+    },
+    "diager-industrie": {
+      "developments": [],
+      "country": "FR",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "DIAGER INDUSTRIE is a French company registered in 1997, with its seat in Poligny.",
+        "overview": "DIAGER INDUSTRIE is a French company registered in 1997, with its seat in Poligny."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1997",
+            "Registered"
+          ],
+          [
+            "Poligny, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 413465055",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1997",
+            "Registered"
+          ],
+          [
+            "Poligny, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 413465055",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity DIAGER INDUSTRIE, SIREN 413465055",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=413465055"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Poligny",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "DIAGER INDUSTRIE is a French company registered in 1997, with its seat in Poligny.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1997",
+            "Registered",
+            null
+          ],
+          [
+            "Poligny, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "SIREN 413465055",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · SIREN 413465055",
+            "url": "https://recherche-entreprises.api.gouv.fr/search?q=413465055"
+          }
+        ]
+      },
+      "card_hash": "df70177f8e967dc6"
+    },
+    "europlacer-industries": {
+      "developments": [],
+      "country": "FR",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "EUROPLACER INDUSTRIES is a French company registered in 1991, with its seat in Rocheserviere.",
+        "overview": "EUROPLACER INDUSTRIES is a French company registered in 1991, with its seat in Rocheserviere."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1991",
+            "Registered"
+          ],
+          [
+            "Rocheserviere, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 383282977",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1991",
+            "Registered"
+          ],
+          [
+            "Rocheserviere, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 383282977",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity EUROPLACER INDUSTRIES, SIREN 383282977",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=383282977"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Rocheserviere",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "EUROPLACER INDUSTRIES is a French company registered in 1991, with its seat in Rocheserviere.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1991",
+            "Registered",
+            null
+          ],
+          [
+            "Rocheserviere, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "SIREN 383282977",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · SIREN 383282977",
+            "url": "https://recherche-entreprises.api.gouv.fr/search?q=383282977"
+          }
+        ]
+      },
+      "card_hash": "ccc43c5eac94993f"
+    },
+    "gauthier-connectique": {
+      "developments": [],
+      "country": "FR",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "GAUTHIER CONNECTIQUE is a French company registered in 1989, with its seat in Avranches.",
+        "overview": "GAUTHIER CONNECTIQUE is a French company registered in 1989, with its seat in Avranches."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1989",
+            "Registered"
+          ],
+          [
+            "Avranches, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 352942577",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1989",
+            "Registered"
+          ],
+          [
+            "Avranches, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 352942577",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Connecteurs aéronautique civil et militaire",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Connecteurs et produits spécifiques",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Raccords pour connecteurs Sub-D, Micro-D, Nano-D, Micro Comp",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Raccords circulaires",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Faux contacts en PTFE",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Traversées étanches de puissance",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Accessoires de câblage pour circuits imprimés",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Connecteurs aéronautique civil et militaire",
+              "Depuis plus de 60 ans, Gauthier Connectique réalise tout type de connecteurs aéronautique civil et militaire, de raccords, d’accessoires de ",
+              "grey"
+            ],
+            [
+              "Connecteurs et produits spécifiques",
+              "Gauthier Connectique développe et réalise des connecteurs et produits spécifiques qui répondent à toutes vos exigences et contraintes techni",
+              "grey"
+            ],
+            [
+              "Raccords pour connecteurs Sub-D, Micro-D, Nano-D, Micro Comp",
+              "Gauthier Connectique réalise tous types de raccords pour connecteurs Sub-D, Micro-D, Nano-D, Micro Comp, haute fiabilité pour ...",
+              "grey"
+            ],
+            [
+              "Raccords circulaires",
+              "Nous réalisons les raccords circulaires pour tous types connecteurs circulaires comme ...",
+              "grey"
+            ],
+            [
+              "Faux contacts en PTFE",
+              "Gauthier connectique fournit tous les principaux avionneurs européens en faux contacts en PTFE pour les connecteurs ...",
+              "grey"
+            ],
+            [
+              "Traversées étanches de puissance",
+              "Traversées étanches de puissance …",
+              "grey"
+            ],
+            [
+              "Accessoires de câblage pour circuits imprimés",
+              "Gauthier connectique vous propose une large gamme d’accessoires de câblage pour circuits imprimés (barrettes de connexion polyamide et PTFE,",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity GAUTHIER CONNECTIQUE, SIREN 352942577",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=352942577"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Avranches",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "GAUTHIER CONNECTIQUE is a French company registered in 1989, with its seat in Avranches.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1989",
+            "Registered",
+            null
+          ],
+          [
+            "Avranches, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "SIREN 352942577",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · SIREN 352942577",
+            "url": "https://recherche-entreprises.api.gouv.fr/search?q=352942577"
+          }
+        ]
+      },
+      "card_hash": "c6196d1d065fe57f"
+    },
+    "hiolle-technologies": {
+      "developments": [],
+      "country": "FR",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "HIOLLE TECHNOLOGIES is a French company registered in 1985, with its seat in Prouvy.",
+        "overview": "HIOLLE TECHNOLOGIES is a French company registered in 1985, with its seat in Prouvy."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1985",
+            "Registered"
+          ],
+          [
+            "Prouvy, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 332909647",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1985",
+            "Registered"
+          ],
+          [
+            "Prouvy, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 332909647",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Équipements électriques embarqués",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Armoires électriques sur-mesure",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Cartes et intégration électroniques",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Bancs de tests standards ou spécifiques",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Machines spéciales sur mesure",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Équipements électriques embarqués",
+              "Équipements électriques embarqués Pour l’aéronautique, la défense et le ferroviaire",
+              "grey"
+            ],
+            [
+              "Armoires électriques sur-mesure",
+              "Armoires électriques sur-mesure Conception, fabrication et installation d’armoires basse tension",
+              "grey"
+            ],
+            [
+              "Cartes et intégration électroniques",
+              "Cartes et intégration électroniques Conception de circuits électroniques et fabrication de cartes et équipements électroniques spécifiques",
+              "grey"
+            ],
+            [
+              "Bancs de tests standards ou spécifiques",
+              "Bancs de tests standards ou spécifiques Conception et fabrication de bancs de tests pour tester vos produits en conditions réelles",
+              "grey"
+            ],
+            [
+              "Machines spéciales sur mesure",
+              "Conception de machines spéciales sur mesure Conception et fabrication de machines spéciales sur mesure, adaptées aux besoins du secteur indu",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity HIOLLE TECHNOLOGIES, SIREN 332909647",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=332909647"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Prouvy",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "HIOLLE TECHNOLOGIES is a French company registered in 1985, with its seat in Prouvy.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1985",
+            "Registered",
+            null
+          ],
+          [
+            "Prouvy, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "SIREN 332909647",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · SIREN 332909647",
+            "url": "https://recherche-entreprises.api.gouv.fr/search?q=332909647"
+          }
+        ]
+      },
+      "card_hash": "4034109dce48b91b"
+    },
+    "huguet-ingenierie": {
+      "developments": [],
+      "country": "FR",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "HUGUET INGENIERIE is a French company registered in 1974, with its seat in Lucon.",
+        "overview": "HUGUET INGENIERIE is a French company registered in 1974, with its seat in Lucon."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1974",
+            "Registered"
+          ],
+          [
+            "Lucon, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 302000211",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1974",
+            "Registered"
+          ],
+          [
+            "Lucon, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 302000211",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity HUGUET INGENIERIE, SIREN 302000211",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=302000211"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Lucon",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "HUGUET INGENIERIE is a French company registered in 1974, with its seat in Lucon.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1974",
+            "Registered",
+            null
+          ],
+          [
+            "Lucon, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "SIREN 302000211",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · SIREN 302000211",
+            "url": "https://recherche-entreprises.api.gouv.fr/search?q=302000211"
+          }
+        ]
+      },
+      "card_hash": "96c907917fcf19b0"
+    },
+    "infinity-space-providers": {
+      "developments": [],
+      "country": "FR",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "INFINITY SPACE PROVIDERS is a French company registered in 2022, with its seat in Toulouse.",
+        "overview": "INFINITY SPACE PROVIDERS is a French company registered in 2022, with its seat in Toulouse."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2022",
+            "Registered"
+          ],
+          [
+            "Toulouse, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 914473418",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2022",
+            "Registered"
+          ],
+          [
+            "Toulouse, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 914473418",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "reusable rockets and hybrid engines",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Krypton’it",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Luthor",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Arcadia Series",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Thriae",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "reusable rockets and hybrid engines",
+              "We design, build and operate reusable rockets and hybrid engines enabling fast, sovereign and cost-effective access to space.",
+              "grey"
+            ],
+            [
+              "Krypton’it",
+              "Krypton’it — Suborbital Micro-Missions 10 kg to 20 km Microgravity, tech validation, research payloads Reusable hybrid micro-launcher",
+              "grey"
+            ],
+            [
+              "Luthor",
+              "Luthor — High-Altitude & Defense Training 60 kg to 150 km Hypersonic target simulation, interceptor testing, high-altitude science Dual-use ",
+              "grey"
+            ],
+            [
+              "Arcadia Series",
+              "Arcadia Series — Orbital Access & Logistics 150 to 1300 kg – SSO Small-sat deployment, orbital mobility, in-orbit services Future reusable o",
+              "grey"
+            ],
+            [
+              "Thriae",
+              "Thriae — Responsive Launch & Rapid Operations Agile small-orbital launcher designed for quick-turnaround missions, offering fast integration",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity INFINITY SPACE PROVIDERS, SIREN 914473418",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=914473418"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Toulouse",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "INFINITY SPACE PROVIDERS is a French company registered in 2022, with its seat in Toulouse.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2022",
+            "Registered",
+            null
+          ],
+          [
+            "Toulouse, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "SIREN 914473418",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · SIREN 914473418",
+            "url": "https://recherche-entreprises.api.gouv.fr/search?q=914473418"
+          }
+        ]
+      },
+      "card_hash": "aeaa5169217aa005"
+    },
+    "general-atomics": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "GENERAL ATOMICS is a US company, with its seat in San Diego. US federal spending records show US$427.4M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 148 contracts; the largest customer is the Department of the Navy.",
+        "overview": "GENERAL ATOMICS is a US company, with its seat in San Diego. US federal spending records show US$427.4M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 148 contracts; the largest customer is the Department of the Navy."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "San Diego, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI TVRYQ3N3B8H5",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "San Diego, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI TVRYQ3N3B8H5",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity GENERAL ATOMICS, UEI TVRYQ3N3B8H5",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/e33e9412-0ef8-71d1-941b-300424a00029-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/e33e9412-0ef8-71d1-941b-300424a00029-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "San Diego",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "GENERAL ATOMICS is a US company, with its seat in San Diego. US federal spending records show US$427.4M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 148 contracts; the largest customer is the Department of the Navy.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$427.4M",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all Department of the Navy",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "148",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "San Diego, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI TVRYQ3N3B8H5",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "CVN 79 emals long lead TIME material",
+            "sub": "Department of the Navy · US$1.8B · 2014–2030",
+            "status": "Contract",
+            "date": "08 May 2014",
+            "iso": "2014-05-08",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "CVN 81 emals PRE-PRODUCTION planning",
+            "sub": "Department of the Navy · US$762.9M · 2022–2032",
+            "status": "Contract",
+            "date": "01 Jan 2022",
+            "iso": "2022-01-01",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "Emals & AAG FFC development phase 1",
+            "sub": "Department of the Navy · US$110.5M · 2025–2028",
+            "status": "Contract",
+            "date": "01 Jan 2025",
+            "iso": "2025-01-01",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "Project 7756",
+            "sub": "Department of the Navy · US$75.9M · 2022–2026",
+            "status": "Contract",
+            "date": "09 May 2022",
+            "iso": "2022-05-09",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "2023-2027 sustainment",
+            "sub": "Department of the Navy · US$44.9M · 2023–2029",
+            "status": "Contract",
+            "date": "01 Jan 2023",
+            "iso": "2023-01-01",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "Demonstration of manhattan spacecraft optical communications terminal",
+            "sub": "Department of the Air Force · US$25.4M · 2023–2027",
+            "status": "Contract",
+            "date": "29 Sep 2023",
+            "iso": "2023-09-29",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "Transformer rectifier",
+            "sub": "Department of the Navy · US$21.4M · 2020–2028",
+            "status": "Contract",
+            "date": "18 Sep 2020",
+            "iso": "2020-09-18",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "For the procurement of SERDS, support equipment TOOLS, logistics support and TDP in support of the depot stand UP for em",
+            "sub": "Department of the Navy · US$18.9M · 2025–2027",
+            "status": "Contract",
+            "date": "29 Aug 2025",
+            "iso": "2025-08-29",
+            "ongoing": true,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$3.2B · 7 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3,
+              12
+            ],
+            "quote": "The Navy in 2025, it brought Anduril, Boeing, General Atomics and Northrop Grumman into work on designs for future carrier-based drones"
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$25.5M · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              7
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$4.4M",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Uniformed Services University of the Health Sciences",
+            "sub": "Customer · US$398K",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Missile Defense Agency",
+            "sub": "Customer · US$0K",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "DARRAH ELECTRIC COMPANY",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              10
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "AFRL",
+            "country": null,
+            "in_catalogue": false,
+            "sub": "Customer · US$99.3M",
+            "status": "verified",
+            "quote": "General Atomics received a $99.3 million contract from AFRL in May 2025 to build a long-endurance, autonomous flying wing aircraft that could fly reconaissance and strike missions, called GHOST .",
+            "src": [
+              11
+            ]
+          }
+        ],
+        "products": [
+          {
+            "name": "Vektrex",
+            "role": "makes",
+            "status": "verified",
+            "quote": "General Atomics hinted at another potential submunition deployment method for its Vektrex maneuvering projectiles from an air-launched missile.",
+            "src": [
+              13
+            ]
+          },
+          {
+            "name": "MQ-9B",
+            "role": "makes",
+            "status": "candidate",
+            "quote": "General Atomics and Saab have flown an airborne early warning radar on an uncrewed MQ-9B, the same aircraft the Royal Air Force operates as Protector",
+            "src": [
+              14
+            ]
+          },
+          {
+            "name": "NextGen",
+            "role": "makes",
+            "status": "candidate",
+            "quote": "General Atomics says it is working on a new hybrid-electric-powered flying-wing-type strike/reconnaissance drone called NextGen that could be able to stay aloft for more than 60 hours.",
+            "src": [
+              15
+            ]
+          },
+          {
+            "name": "Gambit 6",
+            "role": "makes",
+            "status": "candidate",
+            "quote": "Separate progress is being made on the newest member of that family, the air-to-surface optimized Gambit 6, with plans now for a live-fire air-to-ground ordnance demonstration early next year.",
+            "src": [
+              15
+            ]
+          },
+          {
+            "name": "Gambit 1",
+            "role": "makes",
+            "status": "candidate",
+            "quote": "These were the intelligence, surveillance, and reconnaissance (ISR) focused Gambit 1, the air-to-air combat-optimized Gambit 2, an uncrewed ‘red air’ aggressor called Gambit 3, and the stealthy flying wing Gambit 4.",
+            "src": [
+              15
+            ]
+          },
+          {
+            "name": "Gambit 2",
+            "role": "makes",
+            "status": "candidate",
+            "quote": "These were the intelligence, surveillance, and reconnaissance (ISR) focused Gambit 1, the air-to-air combat-optimized Gambit 2, an uncrewed ‘red air’ aggressor called Gambit 3, and the stealthy flying wing Gambit 4.",
+            "src": [
+              15
+            ]
+          },
+          {
+            "name": "Gambit 3",
+            "role": "makes",
+            "status": "candidate",
+            "quote": "These were the intelligence, surveillance, and reconnaissance (ISR) focused Gambit 1, the air-to-air combat-optimized Gambit 2, an uncrewed ‘red air’ aggressor called Gambit 3, and the stealthy flying wing Gambit 4.",
+            "src": [
+              15
+            ]
+          },
+          {
+            "name": "Gambit 5",
+            "role": "makes",
+            "status": "candidate",
+            "quote": "Since then, the company has also added the Gambit 5 , intended for carrier-based operations, and the aforementioned Gambit 6 .",
+            "src": [
+              15
+            ]
+          },
+          {
+            "name": "XQ-67 Off-Board Sensing Station [OBSS]",
+            "role": "makes",
+            "status": "candidate",
+            "quote": "The first example is the XQ-67 Off-Board Sensing Station [OBSS], built in collaboration with Air Force Research Laboratory [AFRL].",
+            "src": [
+              15
+            ]
+          },
+          {
+            "name": "France Libre",
+            "role": "supplies to",
+            "status": "candidate",
+            "quote": "The carrier will feature a 17,200 square meter angled flight deck equipped with the US-designed Electromagnetic Aircraft Launch System (EMALS) and Advanced Arresting Gear (AAG) supplied by General Atomics.",
+            "src": [
+              16
+            ]
+          }
+        ],
+        "news": [
+          {
+            "iso": "2025-05-01",
+            "kind": "Customer",
+            "title": "Customer: AFRL",
+            "line": "General Atomics received a $99.3 million contract from AFRL in May 2025 to build a long-endurance, autonomous flying wing aircraft that could fly reconaissance and strike missions, called GHOST .",
+            "src": 11
+          },
+          {
+            "iso": "2025-01-01",
+            "kind": "Customer",
+            "title": "Customer: U.S. Navy",
+            "line": "The Navy in 2025, it brought Anduril, Boeing, General Atomics and Northrop Grumman into work on designs for future carrier-based drones",
+            "src": 12
+          }
+        ],
+        "sources": [
+          {
+            "title": "Register · UEI TVRYQ3N3B8H5",
+            "url": "https://www.usaspending.gov/recipient/e33e9412-0ef8-71d1-941b-300424a00029-C/latest"
+          },
+          {
+            "title": "USAspending.gov · N0001914C0037",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001914C0037_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001922C0033",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001922C0033_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001925F0028",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001925F0028_9700_N0001921G0014_9700"
+          },
+          {
+            "title": "USAspending.gov · N6600122C4700",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N6600122C4700_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001923F0025",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001923F0025_9700_N0001921G0014_9700"
+          },
+          {
+            "title": "USAspending.gov · FA240123C0013",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA240123C0013_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001920F0609",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001920F0609_9700_N0001916G0006_9700"
+          },
+          {
+            "title": "USAspending.gov · N0001925F0029",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001925F0029_9700_N0001921G0014_9700"
+          },
+          {
+            "title": "USAspending.gov · sub-award",
+            "url": "https://www.usaspending.gov/search"
+          },
+          {
+            "title": "airandspaceforces.com",
+            "url": "https://www.airandspaceforces.com/general-atomics-afrl-next-steps-autonomous-drones/"
+          },
+          {
+            "title": "militarywatchmagazine.com",
+            "url": "https://militarywatchmagazine.com/article/us-navy-carrier-based-unmanned-fighter"
+          },
+          {
+            "title": "navalnews.com",
+            "url": "https://www.navalnews.com/event-news/euronaval-2026/2026/11/general-atomics-concept-eyes-vektrex-in-air-launched-missile/"
+          },
+          {
+            "title": "ukdefencejournal.org.uk",
+            "url": "https://ukdefencejournal.org.uk/early-warning-radar-flown-on-protector-type-airframe/"
+          },
+          {
+            "title": "twz.com",
+            "url": "https://www.twz.com/news-features/general-atomics-developing-strike-recon-flying-wing-called-nextgen-that-uses-hybrid-electric-propulsion"
+          },
+          {
+            "title": "navalnews.com",
+            "url": "https://www.navalnews.com/naval-news/2026/10/french-parliamentary-report-urges-construction-of-a-second-aircraft-carrier-by-2029/"
+          }
+        ]
+      },
+      "card_hash": "a8db8ea1ae98349c"
     }
   }
 }
