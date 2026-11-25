@@ -81928,6 +81928,1216 @@
         ]
       },
       "card_hash": "c366a835485afe50"
+    },
+    "art-craft-fabricators-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "ART CRAFT FABRICATORS INC is a US company, with its seat in Portsmouth. US federal spending records show US$5.9M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 9 contracts; the largest customer is the Department of the Navy.",
+        "overview": "ART CRAFT FABRICATORS INC is a US company, with its seat in Portsmouth. US federal spending records show US$5.9M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 9 contracts; the largest customer is the Department of the Navy."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Portsmouth, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI H4ZMPGLLZ8D9",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Portsmouth, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI H4ZMPGLLZ8D9",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ART CRAFT FABRICATORS INC, UEI H4ZMPGLLZ8D9",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/addb1cbe-c8a6-67c2-2707-df0fa84df61d-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/addb1cbe-c8a6-67c2-2707-df0fa84df61d-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Portsmouth",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ART CRAFT FABRICATORS INC is a US company, with its seat in Portsmouth. US federal spending records show US$5.9M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 9 contracts; the largest customer is the Department of the Navy.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$5.9M",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all Department of the Navy",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "9",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Portsmouth, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI H4ZMPGLLZ8D9",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Repair of OHIO class submarine shafts",
+            "sub": "Department of the Navy · US$8.5M · 2024–2028",
+            "status": "Contract",
+            "date": "18 Sep 2024",
+            "iso": "2024-09-18",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "2010-01-111-9593 OHIO class MAIN propulsion shaftsns 1329/1330 (187TR18913), 1624/1625 (187TR21494)",
+            "sub": "Defense Contract Management Agency · US$4.5M · 2025–2028",
+            "status": "Contract",
+            "date": "16 Sep 2025",
+            "iso": "2025-09-16",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "DDG 51, PROP shaft",
+            "sub": "Defense Contract Management Agency · US$4.3M · 2024–2027",
+            "status": "Contract",
+            "date": "18 Sep 2024",
+            "iso": "2024-09-18",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "Repair of OHIO class submarine shafts",
+            "sub": "Department of the Navy · US$3.5M · 2023–2026",
+            "status": "Contract",
+            "date": "20 Sep 2023",
+            "iso": "2023-09-20",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "DDG 51, stern shaft",
+            "sub": "Defense Contract Management Agency · US$3.5M · 2024–2027",
+            "status": "Contract",
+            "date": "19 Sep 2024",
+            "iso": "2024-09-19",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "DDG 51, PROP shaft",
+            "sub": "Department of the Navy · US$2.3M · 2025–2026",
+            "status": "Contract",
+            "date": "31 Oct 2025",
+            "iso": "2025-10-31",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Repair of OHIO class submarine shafts",
+            "sub": "Defense Contract Management Agency · US$1.2M · 2022–2026",
+            "status": "Contract",
+            "date": "21 Jul 2022",
+            "iso": "2022-07-21",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "SHAFT,SUBMARINE",
+            "sub": "Department of the Navy · US$742K · 2024–2027",
+            "status": "Contract",
+            "date": "26 Sep 2024",
+            "iso": "2024-09-26",
+            "ongoing": true,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$20.8M · 4 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              5
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Contract Management Agency",
+            "sub": "Customer · US$13.6M · 4 contracts",
+            "status": "verified",
+            "src": [
+              3,
+              4,
+              6
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI H4ZMPGLLZ8D9",
+            "url": "https://www.usaspending.gov/recipient/addb1cbe-c8a6-67c2-2707-df0fa84df61d-C/latest"
+          },
+          {
+            "title": "USAspending.gov · N0010424CF014",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0010424CF014_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0010425CF016",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0010425CF016_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0010424FGP00",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0010424FGP00_9700_N0010423DGP01_9700"
+          },
+          {
+            "title": "USAspending.gov · N0010423CF018",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0010423CF018_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0010424FGP01",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0010424FGP01_9700_N0010423DGP01_9700"
+          },
+          {
+            "title": "USAspending.gov · N0010426FGP00",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0010426FGP00_9700_N0010423DGP01_9700"
+          },
+          {
+            "title": "USAspending.gov · N0010422CF014",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0010422CF014_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0010424CZA66",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0010424CZA66_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "09454cabe4231b50"
+    },
+    "aerovironment": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "AEROVIRONMENT, INC is a US company, with its seat in Simi Valley. US federal spending records show US$843.1M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 77 contracts; the largest customer is the Department of the Army.",
+        "overview": "AEROVIRONMENT, INC is a US company, with its seat in Simi Valley. US federal spending records show US$843.1M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 77 contracts; the largest customer is the Department of the Army."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Simi Valley, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900PGHVI29YLZ6221",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Simi Valley, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900PGHVI29YLZ6221",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity AEROVIRONMENT, INC, LEI 529900PGHVI29YLZ6221",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://search.gleif.org/#/record/529900PGHVI29YLZ6221"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/2a80bcad-447f-ea4d-89ad-31b8dab4c2ca-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Simi Valley",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "AEROVIRONMENT, INC is a US company, with its seat in Simi Valley. US federal spending records show US$843.1M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 77 contracts; the largest customer is the Department of the Army.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$843.1M",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "src": [
+              10
+            ]
+          },
+          {
+            "value": "77",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              10
+            ]
+          },
+          {
+            "value": "US$651.5M",
+            "label": "largest customer: Department of the Army",
+            "src": [
+              10
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Simi Valley, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900PGHVI29YLZ6221",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Switchblade hardware PRODUCTION-FMS UK- base year",
+            "sub": "Department of the Army · US$406.5M · 2020–2026",
+            "status": "Contract",
+            "date": "30 Apr 2020",
+            "iso": "2020-04-30",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "Ukraine RQ-20B all environment (AE) 3 and long endurance (LE) PUMA unmanned aircraft systems (UAS) accessories and servi",
+            "sub": "Department of the Army · US$323.1M · 2022–2025",
+            "status": "Contract",
+            "date": "09 Nov 2022",
+            "iso": "2022-11-09",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "LOW altitude stalking and strike ordnance SCD is a",
+            "sub": "Department of the Army · US$254.7M · 2026–2027",
+            "status": "Contract",
+            "date": "02 Jan 2026",
+            "iso": "2026-01-02",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "Loitered MUNITIONS, switchblade 300 and 600 all UP rounds",
+            "sub": "Department of the Army · US$218.0M · 2025–2027",
+            "status": "Contract",
+            "date": "18 Jan 2025",
+            "iso": "2025-01-18",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "Delivery order to purchase all UP ROUNDS, FIRE control systems and smart battery chargers",
+            "sub": "Department of the Army · US$128.0M · 2024–2026",
+            "status": "Contract",
+            "date": "30 Aug 2024",
+            "iso": "2024-08-30",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Award in support of TUAS battalion reconnaissance UAV REQUIREMENT.",
+            "sub": "Department of the Army · US$117.3M · 2026",
+            "status": "Contract",
+            "date": "03 Jun 2026",
+            "iso": "2026-06-03",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "This effort is focused on providing operational utility of these systems for use by department of WAR (DOW) personnel fo",
+            "sub": "Department of the Army · US$80.6M · 2026–2027",
+            "status": "Contract",
+            "date": "02 Jul 2026",
+            "iso": "2026-07-02",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "PUMA AE 3, PUMA LE, PUMA ACCESSORIES, ERA, PUMA software update KIT, contractor logistics supports services (CLS), OCONU",
+            "sub": "Department of the Army · US$62.6M · 2025–2028",
+            "status": "Contract",
+            "date": "30 Apr 2025",
+            "iso": "2025-04-30",
+            "ongoing": true,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$2.2B · 8 contracts",
+            "status": "verified",
+            "src": [
+              2,
+              3,
+              4,
+              12
+            ],
+            "quote": "The Army awarded AeroVironment the E-HEL production contract in September 2026, saying it would provide soldiers with a scalable, affordable directed-energy capability."
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$169.0M",
+            "status": "verified",
+            "src": [
+              10
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$22.0M",
+            "status": "verified",
+            "src": [
+              10
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Missile Defense Agency",
+            "sub": "Customer · US$556K",
+            "status": "verified",
+            "src": [
+              10
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "Leonardo DRS",
+            "country": "US",
+            "in_catalogue": true,
+            "sub": "Supplier",
+            "status": "verified",
+            "quote": "Leonardo DRS wurde von Aerovironment mit der integration wichtiger Subsysteme beauftragt.",
+            "src": [
+              11,
+              12
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Middle East",
+            "country": null,
+            "in_catalogue": false,
+            "sub": "Customer · US$405.0M",
+            "status": "verified",
+            "quote": "AeroVironment says it received a $405 million Middle East order for LOCUST X3 laser systems",
+            "src": [
+              13
+            ]
+          }
+        ],
+        "products": [
+          {
+            "name": "LOCUST X3",
+            "role": "makes",
+            "status": "verified",
+            "quote": "Aerovironment übernimmt die Fertigung des 30-Kilowatt-Systems Locust X3, Leonardo DRS steuert zentrale Komponenten für Energieversorgung und Kühlung bei.",
+            "src": [
+              11,
+              14
+            ]
+          }
+        ],
+        "news": [
+          {
+            "iso": "2026-09-01",
+            "kind": "Customer",
+            "title": "Customer: U.S. Army",
+            "line": "The Army awarded AeroVironment the E-HEL production contract in September 2026, saying it would provide soldiers with a scalable, affordable directed-energy capability.",
+            "src": 12
+          }
+        ],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900PGHVI29YLZ6221",
+            "url": "https://search.gleif.org/#/record/529900PGHVI29YLZ6221"
+          },
+          {
+            "title": "USAspending.gov · W31P4Q20C0024",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q20C0024_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W58RGZ23C0007",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ23C0007_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W91CRB26FA055",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W91CRB26FA055_9700_W91CRB24D0011_9700"
+          },
+          {
+            "title": "USAspending.gov · W91CRB25F0094",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W91CRB25F0094_9700_W91CRB24D0011_9700"
+          },
+          {
+            "title": "USAspending.gov · W91CRB24F0412",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W91CRB24F0412_9700_W91CRB24D0011_9700"
+          },
+          {
+            "title": "USAspending.gov · W58RGZ26F0334",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0334_9700_W58RGZ26G0005_9700"
+          },
+          {
+            "title": "USAspending.gov · W912CH26FA117",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH26FA117_9700_W912CH26DA073_9700"
+          },
+          {
+            "title": "USAspending.gov · W58RGZ25C0019",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ25C0019_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · US Department of Defense · FY2026–27, to 25 Nov 2026",
+            "url": "https://www.usaspending.gov/recipient/2a80bcad-447f-ea4d-89ad-31b8dab4c2ca-C/latest"
+          },
+          {
+            "title": "militaeraktuell.at",
+            "url": "https://militaeraktuell.at/leonardo-us-army-laserwaffen-drohnenabwehr/"
+          },
+          {
+            "title": "defence-industry.eu",
+            "url": "https://defence-industry.eu/leonardo-drs-to-support-aerovironments-locust-x3-production-for-u-s-armys-first-high-energy-laser-weapon-production-program/"
+          },
+          {
+            "title": "defence-industry.eu",
+            "url": "https://defence-industry.eu/aerovironment-says-it-received-a-405-million-middle-east-order-for-locust-x3-laser-systems/"
+          },
+          {
+            "title": "edrmagazine.eu",
+            "url": "https://www.edrmagazine.eu/leonardo-drs-selected-by-av-for-u-s-armys-enduring-high-energy-laser-production-program"
+          }
+        ]
+      },
+      "card_hash": "385703322b0e41df"
+    },
+    "caterpillar": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "CATERPILLAR INC is a US company, with its seat in Irving. US federal spending records show US$257.8M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 254 contracts; the largest customer is the Department of the Army.",
+        "overview": "CATERPILLAR INC is a US company, with its seat in Irving. US federal spending records show US$257.8M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 254 contracts; the largest customer is the Department of the Army."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Irving, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI C9C6HPQLL4A8",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Irving, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI C9C6HPQLL4A8",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity CATERPILLAR INC, UEI C9C6HPQLL4A8",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/9bca02d6-dc64-52ba-4d3e-bc5b38b1f6a5-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/9bca02d6-dc64-52ba-4d3e-bc5b38b1f6a5-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Irving",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "CATERPILLAR INC is a US company, with its seat in Irving. US federal spending records show US$257.8M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 254 contracts; the largest customer is the Department of the Army.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$257.8M",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "254",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$137.9M",
+            "label": "largest customer: Department of the Army",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Irving, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI C9C6HPQLL4A8",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract SPE8EC25F0653",
+            "sub": "Defense Logistics Agency · US$97.2M · 2025–2026",
+            "status": "Contract",
+            "date": "21 May 2025",
+            "iso": "2025-05-21",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "Contract SPE8EC25F0559",
+            "sub": "Defense Logistics Agency · US$83.5M · 2025–2026",
+            "status": "Contract",
+            "date": "29 Apr 2025",
+            "iso": "2025-04-29",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "Contract SPE8EC25F0183",
+            "sub": "Defense Logistics Agency · US$32.6M · 2024–2026",
+            "status": "Contract",
+            "date": "26 Nov 2024",
+            "iso": "2024-11-26",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Delivery order W912CH-26-F-0173 is for the procurement 34 TYPE II EH DOZERS, 34 STTE KITS, and 34 LOTS of ICLS SERVICES.",
+            "sub": "Department of the Army · US$25.3M · 2026–2029",
+            "status": "Contract",
+            "date": "20 Mar 2026",
+            "iso": "2026-03-20",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "The purpose of this FIRM fixed price delivery order is to purchase caterpillar spare parts for the country of ISRAEL. th",
+            "sub": "Department of the Army · US$23.4M · 2025–2026",
+            "status": "Contract",
+            "date": "09 Oct 2025",
+            "iso": "2025-10-09",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "ITEM: ENGINE, diesel NSN: 2815-01-578-3605 QTY: 318",
+            "sub": "Defense Logistics Agency · US$20.8M · 2025–2027",
+            "status": "Contract",
+            "date": "03 Nov 2025",
+            "iso": "2025-11-03",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "This FY21 production order under requirements contract W56HZV-21-D-0034 is for the procurement of 19EA TYPE I ELECTRO-HY",
+            "sub": "Department of the Army · US$19.9M · 2021–2028",
+            "status": "Contract",
+            "date": "29 Mar 2021",
+            "iso": "2021-03-29",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "Delivery order W56HZV-24-F-0236 is for the procurement of 24 TYPE I EH DOZERS, 8 TYPE II EH DOZERS, 11 STTE KITS, and 32",
+            "sub": "Department of the Army · US$19.0M · 2024–2028",
+            "status": "Contract",
+            "date": "27 Mar 2024",
+            "iso": "2024-03-27",
+            "ongoing": true,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$353.8M · 4 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$225.5M · 4 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              5,
+              6
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$323K",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Missile Defense Agency",
+            "sub": "Customer · US$0K",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "TIGHITCO",
+            "country": "US",
+            "in_catalogue": true,
+            "sub": "Supplier · reported, not confirmed",
+            "status": "candidate",
+            "quote": "TIGHITCO is a supplier for Caterpillar Inc. of thermal protection and insulation products.",
+            "src": [
+              10
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI C9C6HPQLL4A8",
+            "url": "https://www.usaspending.gov/recipient/9bca02d6-dc64-52ba-4d3e-bc5b38b1f6a5-C/latest"
+          },
+          {
+            "title": "USAspending.gov · SPE8EC25F0653",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE8EC25F0653_9700_SPE8EC23D0002_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE8EC25F0559",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE8EC25F0559_9700_SPE8EC23D0002_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE8EC25F0183",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE8EC25F0183_9700_SPE8EC23D0002_9700"
+          },
+          {
+            "title": "USAspending.gov · W912CH26F0173",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH26F0173_9700_W56HZV21D0034_9700"
+          },
+          {
+            "title": "USAspending.gov · W91CRB26FA009",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W91CRB26FA009_9700_W91CRB20D0005_9700"
+          },
+          {
+            "title": "USAspending.gov · SPRDL126C0001",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRDL126C0001_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W56HZV21F0172",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV21F0172_9700_W56HZV21D0034_9700"
+          },
+          {
+            "title": "USAspending.gov · W56HZV24F0236",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV24F0236_9700_W56HZV21D0034_9700"
+          },
+          {
+            "title": "aerospacenews.io",
+            "url": "https://aerospacenews.io/news/tighitco-achieves-excellent-level-certification-through-caterpillar-supplier-excellence-pr/"
+          }
+        ]
+      },
+      "card_hash": "e9790231f4358a23"
+    },
+    "gm-defense": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "GM DEFENSE LLC is a US company, with its seat in Warren. US federal spending records show US$284.9M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 434 contracts; the largest customer is the Department of the Army.",
+        "overview": "GM DEFENSE LLC is a US company, with its seat in Warren. US federal spending records show US$284.9M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 434 contracts; the largest customer is the Department of the Army."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Warren, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI U7TPTYVLNWK8",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Warren, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI U7TPTYVLNWK8",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity GM DEFENSE LLC, UEI U7TPTYVLNWK8",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/cec0f228-893b-bedf-9285-e4d369a0e62f-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/cec0f228-893b-bedf-9285-e4d369a0e62f-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Warren",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "GM DEFENSE LLC is a US company, with its seat in Warren. US federal spending records show US$284.9M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 434 contracts; the largest customer is the Department of the Army.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$284.9M",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all Department of the Army",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "434",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Warren, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI U7TPTYVLNWK8",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "The purpose of this delivery order is to procure 691 ISVS and winch KITS as WELL as obligate funding for a portion of IP",
+            "sub": "Department of the Army · US$105.9M · 2026–2027",
+            "status": "Contract",
+            "date": "11 Jun 2026",
+            "iso": "2026-06-11",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "Acquire 829 ISV vehicles with ABS/ESC KITS and vehicle covers",
+            "sub": "Department of the Army · US$99.9M · 2025–2026",
+            "status": "Contract",
+            "date": "24 Sep 2025",
+            "iso": "2025-09-24",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "The purpose of this delivery order is to procure 206 infantry squad VEHICLES, ANTI-LOCK braking SYSTEM/ELECTRONIC stabil",
+            "sub": "Department of the Army · US$32.0M · 2025–2027",
+            "status": "Contract",
+            "date": "30 Sep 2025",
+            "iso": "2025-09-30",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "The purpose of this delivery order is to procure 121 infantry squad VEHICLES, ANTI-LOCK braking SYSTEM/ELECTRONIC stabil",
+            "sub": "Department of the Army · US$18.8M · 2026–2027",
+            "status": "Contract",
+            "date": "04 Mar 2026",
+            "iso": "2026-03-04",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "Delivery order W56HZV-24-F-0108 to contract W56HZV-20-D-0066 is issued pursuant to clause 252.216-7006 (ORDERING)AND par",
+            "sub": "Department of the Army · US$11.9M · 2024–2026",
+            "status": "Contract",
+            "date": "26 Jan 2024",
+            "iso": "2024-01-26",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "This TASK order is for the integration and delivery of the 120MM mortar system ONTO the ISV.",
+            "sub": "Department of the Army · US$7.2M · 2025–2026",
+            "status": "Contract",
+            "date": "12 Aug 2025",
+            "iso": "2025-08-12",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "This TASK order is for the DEVELOPMENT, DELIVERY, and testing of the infantry squad vehicle - utility",
+            "sub": "Department of the Army · US$5.6M · 2025–2026",
+            "status": "Contract",
+            "date": "19 Sep 2025",
+            "iso": "2025-09-19",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "To procure twelve (12) months of systems engineering / program management (SEPM) and integrated product support (IPS) se",
+            "sub": "Department of the Army · US$3.4M · 2026–2027",
+            "status": "Contract",
+            "date": "25 Jun 2026",
+            "iso": "2026-06-25",
+            "ongoing": true,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$566.9M · 8 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$2.9M",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "products": [
+          {
+            "name": "Infantry Squad Vehicles",
+            "role": "makes",
+            "status": "candidate",
+            "quote": "The ISV, from GM Defense, is based on General Motors’s commercial Colorado and Silverado pickups.",
+            "src": [
+              10
+            ]
+          }
+        ],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI U7TPTYVLNWK8",
+            "url": "https://www.usaspending.gov/recipient/cec0f228-893b-bedf-9285-e4d369a0e62f-C/latest"
+          },
+          {
+            "title": "USAspending.gov · W912CH26F0339",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH26F0339_9700_W56HZV20D0066_9700"
+          },
+          {
+            "title": "USAspending.gov · W912CH25F0454",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH25F0454_9700_W56HZV20D0066_9700"
+          },
+          {
+            "title": "USAspending.gov · W912CH25F0473",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH25F0473_9700_W56HZV20D0066_9700"
+          },
+          {
+            "title": "USAspending.gov · W912CH26F0123",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH26F0123_9700_W56HZV20D0066_9700"
+          },
+          {
+            "title": "USAspending.gov · W56HZV24F0108",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV24F0108_9700_W56HZV20D0066_9700"
+          },
+          {
+            "title": "USAspending.gov · W912CH25F0339",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH25F0339_9700_W56HZV20D0066_9700"
+          },
+          {
+            "title": "USAspending.gov · W912CH25F0256",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH25F0256_9700_W56HZV20D0066_9700"
+          },
+          {
+            "title": "USAspending.gov · W912CH26F0315",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH26F0315_9700_W56HZV20D0066_9700"
+          },
+          {
+            "title": "defensenews.com",
+            "url": "https://www.defensenews.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles/"
+          }
+        ]
+      },
+      "card_hash": "a059704f3285c5d9"
     }
   }
 }
