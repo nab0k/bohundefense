@@ -160,6 +160,26 @@ class CardsFromDb(unittest.TestCase):
         self.assertIn(('supplier', 'ACME PARTS INC'), types)
         self.assertEqual(pg['facts'][-1][:2], ['UEI DVEJNK717BB6', 'Register'])
 
+    def test_defence_scope_is_named(self):  # FIELD counts defence goods and R&D only since 25.11.2026
+        co = copy.deepcopy(CO)
+        co['claims'].append({'ref': 'b4:spend', 'value': {'kind': 'spend_total', 'register': 'USAspending.gov', 'buyer': 'US Department of Defense',
+                             'period': 'FY2026–27', 'amount': 2.0e6, 'currency': 'USD', 'count': 3, 'url': 'https://www.usaspending.gov/recipient/h/latest',
+                             'scope': 'DoD contracts for defence goods and defence R&D'}})
+        M.apply([co], self.root)
+        card = json.loads((self.root / 'atlas/company-profiles-v1.json').read_text())['profiles']['testfirma-oy']
+        self.assertIn('by the Department of Defense for defence goods and defence R&D in FY2026–27', card['about']['workspace'])
+        self.assertIn('US Department of Defense obligations for defence goods and R&D, FY2026–27', [f['label'] for f in card['page']['figures']])
+
+    def test_withdrawn_card_leaves_the_site(self):  # owner 25.11.2026 «Yes, defence codes only»
+        self.assertEqual(M.apply([copy.deepcopy(CO)], self.root)['profiles_added'], ['FI Testfirma Oy'])
+        out = M.apply([], self.root, withdrawn=[{'name': 'Testfirma Oy', 'country': 'FI'}, {'name': 'Patria Oyj', 'country': 'FI'}])
+        self.assertEqual(out['profiles_removed'], ['FI Testfirma Oy'])  # a manual profile (Patria) is never touched
+        prof = json.loads((self.root / 'atlas/company-profiles-v1.json').read_text())['profiles']
+        self.assertNotIn('testfirma-oy', prof)
+        rows = json.loads((self.root / 'atlas/companies-directory-v1.json').read_text())['companies']
+        self.assertEqual(next(r for r in rows if r['name'] == 'Testfirma Oy')['status'], 'unverified_candidate')
+        self.assertEqual(M.apply([], self.root, withdrawn=[{'name': 'Testfirma Oy', 'country': 'FI'}])['profiles_removed'], [])
+
 
 if __name__ == '__main__':
     unittest.main()
