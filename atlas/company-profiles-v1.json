@@ -122796,6 +122796,430 @@
         ]
       },
       "card_hash": "60c46f838209aa4a"
+    },
+    "at-s-austria-technologie-systemtechnik-aktiengesellschaft": {
+      "developments": [
+        {
+          "date": "26 Oct 2026",
+          "title": "European Defence Fund project 101302983",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302983/EDF"
+        }
+      ],
+      "country": "AT",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "AT & S Austria Technologie & Systemtechnik Aktiengesellschaft is a Austrian company registered in 1987, with its seat in Leoben-Hinterberg. It takes part in 1 European Defence Fund project (2026).",
+        "overview": "AT & S Austria Technologie & Systemtechnik Aktiengesellschaft is a Austrian company registered in 1987, with its seat in Leoben-Hinterberg. It takes part in 1 European Defence Fund project (2026)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1987",
+            "Registered"
+          ],
+          [
+            "Leoben-Hinterberg, Austria",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900EVOKN4LCCD9321",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1987",
+            "Registered"
+          ],
+          [
+            "Leoben-Hinterberg, Austria",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900EVOKN4LCCD9321",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101302983",
+            "sub": "EU defence research and development · call EDF-2025-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "26 Oct 2026",
+            "desc": "Call EDF-2025-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302983/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101302983",
+            "sub": "EU defence research and development · call EDF-2025-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "26 Oct 2026",
+            "desc": "Call EDF-2025-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302983/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity AT & S Austria Technologie & Systemtechnik Aktiengesellschaft, LEI 529900EVOKN4LCCD9321",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900EVOKN4LCCD9321"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101302983",
+          "sources": 1,
+          "date": "26 Oct 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302983/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Leoben-Hinterberg",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "AT & S Austria Technologie & Systemtechnik Aktiengesellschaft is a Austrian company registered in 1987, with its seat in Leoben-Hinterberg. It takes part in 1 European Defence Fund project (2026).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1987",
+            "Registered",
+            null
+          ],
+          [
+            "Leoben-Hinterberg, Austria",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900EVOKN4LCCD9321",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101302983",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "26 Oct 2026",
+            "iso": "2026-10-26",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900EVOKN4LCCD9321",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900EVOKN4LCCD9321"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101302983",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302983/EDF"
+          }
+        ]
+      },
+      "card_hash": "9265a4f39514e12c"
+    },
+    "atos-secure-digital-gmbh": {
+      "developments": [
+        {
+          "date": "05 Dec 2024",
+          "title": "European Defence Fund project 101167814",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167814/EDF"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Atos Secure Digital GmbH is a German company registered in 2022, with its seat in München. It takes part in 1 European Defence Fund project (2024).",
+        "overview": "Atos Secure Digital GmbH is a German company registered in 2022, with its seat in München. It takes part in 1 European Defence Fund project (2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2022",
+            "Registered"
+          ],
+          [
+            "München, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 5493000GKWL23MABZD98",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2022",
+            "Registered"
+          ],
+          [
+            "München, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 5493000GKWL23MABZD98",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101167814",
+            "sub": "EU defence research and development · call EDF-2023-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "05 Dec 2024",
+            "desc": "Call EDF-2023-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167814/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101167814",
+            "sub": "EU defence research and development · call EDF-2023-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "05 Dec 2024",
+            "desc": "Call EDF-2023-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167814/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Atos Secure Digital GmbH, LEI 5493000GKWL23MABZD98",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/5493000GKWL23MABZD98"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167814",
+          "sources": 1,
+          "date": "05 Dec 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167814/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "München",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Atos Secure Digital GmbH is a German company registered in 2022, with its seat in München. It takes part in 1 European Defence Fund project (2024).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2022",
+            "Registered",
+            null
+          ],
+          [
+            "München, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 5493000GKWL23MABZD98",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101167814",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "05 Dec 2024",
+            "iso": "2024-12-05",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 5493000GKWL23MABZD98",
+            "url": "https://api.gleif.org/api/v1/lei-records/5493000GKWL23MABZD98"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101167814",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167814/EDF"
+          }
+        ]
+      },
+      "card_hash": "102df84621801dc2"
     }
   }
 }
