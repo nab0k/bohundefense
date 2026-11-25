@@ -81482,8 +81482,8 @@
         ]
       ],
       "about": {
-        "workspace": "ART CRAFT FABRICATORS INC is a US company, with its seat in Portsmouth. US federal spending records show US$5.9M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 9 contracts; the largest customer is the Department of the Navy.",
-        "overview": "ART CRAFT FABRICATORS INC is a US company, with its seat in Portsmouth. US federal spending records show US$5.9M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 9 contracts; the largest customer is the Department of the Navy."
+        "workspace": "ART CRAFT FABRICATORS INC is a US company, with its seat in Portsmouth. US federal spending records show US$5.8M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 8 contracts; the largest customer is the Department of the Navy.",
+        "overview": "ART CRAFT FABRICATORS INC is a US company, with its seat in Portsmouth. US federal spending records show US$5.8M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 8 contracts; the largest customer is the Department of the Navy."
       },
       "facts": {
         "workspace": [
@@ -81562,20 +81562,20 @@
       ],
       "page": {
         "v": 2,
-        "lead": "ART CRAFT FABRICATORS INC is a US company, with its seat in Portsmouth. US federal spending records show US$5.9M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 9 contracts; the largest customer is the Department of the Navy.",
+        "lead": "ART CRAFT FABRICATORS INC is a US company, with its seat in Portsmouth. US federal spending records show US$5.8M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 8 contracts; the largest customer is the Department of the Navy.",
         "lead_src": [
           1
         ],
         "figures": [
           {
-            "value": "US$5.9M",
-            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all Department of the Navy",
+            "value": "US$5.8M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026, almost all Department of the Navy",
             "src": [
               1
             ]
           },
           {
-            "value": "9",
+            "value": "8",
             "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
             "src": [
               1
@@ -81672,7 +81672,7 @@
           {
             "type": "customer",
             "name": "Department of the Navy",
-            "sub": "Customer · US$20.8M · 4 contracts",
+            "sub": "Customer · US$20.7M · 4 contracts",
             "status": "verified",
             "src": [
               1,
@@ -81733,7 +81733,7 @@
           }
         ]
       },
-      "card_hash": "09454cabe4231b50"
+      "card_hash": "576e7c4043e28e78"
     },
     "aerovironment": {
       "developments": [],
@@ -82384,8 +82384,8 @@
         ]
       ],
       "about": {
-        "workspace": "MICRO SYSTEMS, INC is a US company, with its seat in Fort Walton Beach. US federal spending records show US$7.8M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 17 contracts; the largest customer is the Department of the Army.",
-        "overview": "MICRO SYSTEMS, INC is a US company, with its seat in Fort Walton Beach. US federal spending records show US$7.8M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 17 contracts; the largest customer is the Department of the Army."
+        "workspace": "MICRO SYSTEMS, INC is a US company, with its seat in Fort Walton Beach. US federal spending records show US$3.8M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 10 contracts; the largest customer is the Department of the Navy.",
+        "overview": "MICRO SYSTEMS, INC is a US company, with its seat in Fort Walton Beach. US federal spending records show US$3.8M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 10 contracts; the largest customer is the Department of the Navy."
       },
       "facts": {
         "workspace": [
@@ -82464,28 +82464,21 @@
       ],
       "page": {
         "v": 2,
-        "lead": "MICRO SYSTEMS, INC is a US company, with its seat in Fort Walton Beach. US federal spending records show US$7.8M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 17 contracts; the largest customer is the Department of the Army.",
+        "lead": "MICRO SYSTEMS, INC is a US company, with its seat in Fort Walton Beach. US federal spending records show US$3.8M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 10 contracts; the largest customer is the Department of the Navy.",
         "lead_src": [
           1
         ],
         "figures": [
           {
-            "value": "US$7.8M",
-            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "value": "US$3.8M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026, almost all Department of the Navy",
             "src": [
               1
             ]
           },
           {
-            "value": "17",
+            "value": "10",
             "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
-            "src": [
-              1
-            ]
-          },
-          {
-            "value": "US$4.0M",
-            "label": "largest customer: Department of the Army",
             "src": [
               1
             ]
@@ -82514,22 +82507,13 @@
             "src": 2
           },
           {
-            "title": "Aerial targets target control system datalink modernization to resolve system obsolesence issues impacting the COMMAND-A",
-            "sub": "Department of the Army · US$6.1M · 2025–2026",
-            "status": "Contract",
-            "date": "01 May 2025",
-            "iso": "2025-05-01",
-            "ongoing": true,
-            "src": 3
-          },
-          {
             "title": "SSS production order for procurement of L-BAND, S-BANDS, DLP, and ground STATIONS.",
             "sub": "Department of the Navy · US$3.3M · 2025–2026",
             "status": "Contract",
             "date": "25 Mar 2025",
             "iso": "2025-03-25",
             "ongoing": false,
-            "src": 4
+            "src": 3
           },
           {
             "title": "SNTC-MSI PRODUCTION, spares",
@@ -82538,75 +82522,74 @@
             "date": "16 Apr 2026",
             "iso": "2026-04-16",
             "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "The ARMY ground aerial target control system (AGATCS) dugway proving grounds (DPG) hardware order is to procure spare ag",
+            "sub": "Department of the Army · US$637K · 2025–2026",
+            "status": "Contract",
+            "date": "26 Sep 2025",
+            "iso": "2025-09-26",
+            "ongoing": false,
             "src": 5
           },
           {
-            "title": "The ARMY ground aerial target control system (AGATCS) ground RAM obsolescence and training project is to resolve system ",
-            "sub": "Department of the Army · US$2.4M · 2025–2026",
+            "title": "The purpose of this order IT to execute ordering period 3 for SSS direct LINK.",
+            "sub": "Department of the Navy · US$566K · 2026",
             "status": "Contract",
-            "date": "19 Aug 2025",
-            "iso": "2025-08-19",
+            "date": "21 Apr 2026",
+            "iso": "2026-04-21",
             "ongoing": true,
             "src": 6
           },
           {
-            "title": "ARMY ground aerial target control system (AGATCS) SUPPORT, development and production (SDP) fiscal year 2025 support",
-            "sub": "Department of the Army · US$2.2M · 2025–2027",
+            "title": "SNTC TTE, CND, BER",
+            "sub": "Department of the Navy · US$426K · 2025–2027",
             "status": "Contract",
-            "date": "01 May 2025",
-            "iso": "2025-05-01",
+            "date": "28 May 2025",
+            "iso": "2025-05-28",
             "ongoing": true,
             "src": 7
           },
           {
-            "title": "Agatcs - NAVY hybrid KIT integration for statement of WORK (SOW) SEE section J",
-            "sub": "Department of the Army · US$2.0M · 2026–2027",
+            "title": "SNTC and AN/DSQ-50A TEST teardown and evaluate (TTE)",
+            "sub": "Department of the Navy · US$322K · 2024–2026",
             "status": "Contract",
-            "date": "30 Jun 2026",
-            "iso": "2026-06-30",
+            "date": "15 May 2024",
+            "iso": "2024-05-15",
             "ongoing": true,
             "src": 8
           },
           {
-            "title": "ARMY ground target control system (AGACTS) TASK order award",
-            "sub": "Department of the Army · US$1.6M · 2026–2027",
+            "title": "ARMY ground aerial target control system (AGATCS) FORD F350 modification",
+            "sub": "Department of the Army · US$268K · 2022–2025",
             "status": "Contract",
-            "date": "07 May 2026",
-            "iso": "2026-05-07",
-            "ongoing": true,
+            "date": "15 Dec 2022",
+            "iso": "2022-12-15",
+            "ongoing": false,
             "src": 9
           }
         ],
         "network": [
           {
             "type": "customer",
-            "name": "Department of the Army",
-            "sub": "Customer · US$18.3M · 5 contracts",
-            "status": "verified",
-            "src": [
-              1,
-              3,
-              6
-            ]
-          },
-          {
-            "type": "customer",
             "name": "Department of the Navy",
-            "sub": "Customer · US$16.3M · 3 contracts",
+            "sub": "Customer · US$17.6M · 6 contracts",
             "status": "verified",
             "src": [
               1,
               2,
-              4
+              3
             ]
           },
           {
             "type": "customer",
-            "name": "Department of the Air Force",
-            "sub": "Customer · US$50K",
+            "name": "Department of the Army",
+            "sub": "Customer · US$906K · 2 contracts",
             "status": "verified",
             "src": [
-              1
+              5,
+              9
             ]
           },
           {
@@ -82631,10 +82614,6 @@
             "url": "https://www.usaspending.gov/award/CONT_AWD_N0001924F0038_9700_N0001924D0006_9700"
           },
           {
-            "title": "USAspending.gov · W900KK25FA024",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK25FA024_9700_W900KK21D0001_9700"
-          },
-          {
             "title": "USAspending.gov · N0001925F2037",
             "url": "https://www.usaspending.gov/award/CONT_AWD_N0001925F2037_9700_N0001924D0006_9700"
           },
@@ -82643,24 +82622,28 @@
             "url": "https://www.usaspending.gov/award/CONT_AWD_N0001926F0276_9700_N0001924D0004_9700"
           },
           {
-            "title": "USAspending.gov · W900KK25FA091",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK25FA091_9700_W900KK21D0001_9700"
+            "title": "USAspending.gov · W900KK25FA147",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK25FA147_9700_W900KK21D0001_9700"
           },
           {
-            "title": "USAspending.gov · W900KK25FA068",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK25FA068_9700_W900KK21D0001_9700"
+            "title": "USAspending.gov · N0001926F0267",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001926F0267_9700_N0001924D0006_9700"
           },
           {
-            "title": "USAspending.gov · W900KK26FA111",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK26FA111_9700_W900KK21D0001_9700"
+            "title": "USAspending.gov · N0001925F2169",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001925F2169_9700_N0001924D0004_9700"
           },
           {
-            "title": "USAspending.gov · W900KK26FA073",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK26FA073_9700_W900KK21D0001_9700"
+            "title": "USAspending.gov · N0001924F1079",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001924F1079_9700_N0001924D0004_9700"
+          },
+          {
+            "title": "USAspending.gov · W900KK23F0026",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK23F0026_9700_W900KK21D0001_9700"
           }
         ]
       },
-      "card_hash": "7ba7f7d33c68b04f"
+      "card_hash": "9292d1a763ccda0e"
     },
     "mpc-products-corporation": {
       "developments": [],
@@ -82676,8 +82659,8 @@
         ]
       ],
       "about": {
-        "workspace": "MPC PRODUCTS CORPORATION is a US company, with its seat in Niles. US federal spending records show US$11.2M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 17 contracts; the largest customer is the Department of the Navy.",
-        "overview": "MPC PRODUCTS CORPORATION is a US company, with its seat in Niles. US federal spending records show US$11.2M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 17 contracts; the largest customer is the Department of the Navy."
+        "workspace": "MPC PRODUCTS CORPORATION is a US company, with its seat in Niles. US federal spending records show US$10.9M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 13 contracts; the largest customer is the Department of the Navy.",
+        "overview": "MPC PRODUCTS CORPORATION is a US company, with its seat in Niles. US federal spending records show US$10.9M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 13 contracts; the largest customer is the Department of the Navy."
       },
       "facts": {
         "workspace": [
@@ -82756,20 +82739,20 @@
       ],
       "page": {
         "v": 2,
-        "lead": "MPC PRODUCTS CORPORATION is a US company, with its seat in Niles. US federal spending records show US$11.2M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 17 contracts; the largest customer is the Department of the Navy.",
+        "lead": "MPC PRODUCTS CORPORATION is a US company, with its seat in Niles. US federal spending records show US$10.9M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 13 contracts; the largest customer is the Department of the Navy.",
         "lead_src": [
           1
         ],
         "figures": [
           {
-            "value": "US$11.2M",
-            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "value": "US$10.9M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026",
             "src": [
               1
             ]
           },
           {
-            "value": "17",
+            "value": "13",
             "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
             "src": [
               1
@@ -82833,22 +82816,13 @@
             "src": 5
           },
           {
-            "title": "Contract SPE7M126P0477",
-            "sub": "Defense Logistics Agency · US$250K · 2025–2026",
-            "status": "Contract",
-            "date": "09 Oct 2025",
-            "iso": "2025-10-09",
-            "ongoing": true,
-            "src": 6
-          },
-          {
             "title": "ACTUATOR,ELECTROMEC",
             "sub": "Defense Logistics Agency · US$204K · 2025–2026",
             "status": "Contract",
             "date": "28 Aug 2025",
             "iso": "2025-08-28",
             "ongoing": false,
-            "src": 7
+            "src": 6
           },
           {
             "title": "Contract SPE7M526P2865",
@@ -82857,7 +82831,7 @@
             "date": "23 Apr 2026",
             "iso": "2026-04-23",
             "ongoing": true,
-            "src": 8
+            "src": 7
           },
           {
             "title": "Overhaul of ELECTRO-MECHANICAL actuator",
@@ -82865,6 +82839,15 @@
             "status": "Contract",
             "date": "29 May 2026",
             "iso": "2026-05-29",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "Contract SPE4A526P2115",
+            "sub": "Defense Logistics Agency · US$118K · 2026–2027",
+            "status": "Contract",
+            "date": "21 Jan 2026",
+            "iso": "2026-01-21",
             "ongoing": true,
             "src": 9
           }
@@ -82884,7 +82867,7 @@
           {
             "type": "customer",
             "name": "Defense Logistics Agency",
-            "sub": "Customer · US$5.6M · 5 contracts",
+            "sub": "Customer · US$5.2M · 5 contracts",
             "status": "verified",
             "src": [
               1,
@@ -82899,7 +82882,7 @@
             "status": "verified",
             "src": [
               1,
-              9
+              8
             ]
           }
         ],
@@ -82927,10 +82910,6 @@
             "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M126P3198_9700_-NONE-_-NONE-"
           },
           {
-            "title": "USAspending.gov · SPE7M126P0477",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M126P0477_9700_-NONE-_-NONE-"
-          },
-          {
             "title": "USAspending.gov · SPRPA125PEK43",
             "url": "https://www.usaspending.gov/award/CONT_AWD_SPRPA125PEK43_9700_-NONE-_-NONE-"
           },
@@ -82941,10 +82920,14 @@
           {
             "title": "USAspending.gov · FA811826F0132",
             "url": "https://www.usaspending.gov/award/CONT_AWD_FA811826F0132_9700_FA811822D0005_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE4A526P2115",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A526P2115_9700_-NONE-_-NONE-"
           }
         ]
       },
-      "card_hash": "0b7a9350659559f7"
+      "card_hash": "3e3a90867b8c51ec"
     },
     "drs-network-imaging-systems-llc": {
       "developments": [],
@@ -112146,6 +112129,540 @@
         ]
       },
       "card_hash": "222a08a330e43d4c"
+    },
+    "rolls-royce-deutschland-ltd-co-kg": {
+      "developments": [
+        {
+          "date": "12 Dec 2025",
+          "title": "European Defence Fund project 101224375",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224375/EDF"
+        },
+        {
+          "date": "07 Dec 2023",
+          "title": "European Defence Fund project 101121450",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121450/EDF"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "ROLLS-ROYCE DEUTSCHLAND LTD & CO KG is a German company registered in 2000, with its seat in Blankenfelde-Mahlow. It takes part in 2 European Defence Fund projects (2023–2025).",
+        "overview": "ROLLS-ROYCE DEUTSCHLAND LTD & CO KG is a German company registered in 2000, with its seat in Blankenfelde-Mahlow. It takes part in 2 European Defence Fund projects (2023–2025)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2000",
+            "Registered"
+          ],
+          [
+            "Blankenfelde-Mahlow, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 213800WSZB8Q7VKENJ92",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2000",
+            "Registered"
+          ],
+          [
+            "Blankenfelde-Mahlow, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 213800WSZB8Q7VKENJ92",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101224375",
+            "sub": "EU defence research and development · call EDF-2024-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224375/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101121450",
+            "sub": "EU defence research and development · call EDF-2022-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "07 Dec 2023",
+            "desc": "Call EDF-2022-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121450/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101224375",
+            "sub": "EU defence research and development · call EDF-2024-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224375/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101121450",
+            "sub": "EU defence research and development · call EDF-2022-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "07 Dec 2023",
+            "desc": "Call EDF-2022-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121450/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ROLLS-ROYCE DEUTSCHLAND LTD & CO KG, LEI 213800WSZB8Q7VKENJ92",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/213800WSZB8Q7VKENJ92"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224375",
+          "sources": 1,
+          "date": "12 Dec 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224375/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121450",
+          "sources": 1,
+          "date": "07 Dec 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121450/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Blankenfelde-Mahlow",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ROLLS-ROYCE DEUTSCHLAND LTD & CO KG is a German company registered in 2000, with its seat in Blankenfelde-Mahlow. It takes part in 2 European Defence Fund projects (2023–2025).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2000",
+            "Registered",
+            null
+          ],
+          [
+            "Blankenfelde-Mahlow, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 213800WSZB8Q7VKENJ92",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101121450",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "07 Dec 2023",
+            "iso": "2023-12-07",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "European Defence Fund project 101224375",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "12 Dec 2025",
+            "iso": "2025-12-12",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "2 grants",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 213800WSZB8Q7VKENJ92",
+            "url": "https://api.gleif.org/api/v1/lei-records/213800WSZB8Q7VKENJ92"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101224375",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224375/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101121450",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121450/EDF"
+          }
+        ]
+      },
+      "card_hash": "5ec054ee38cb6657"
+    },
+    "kratos-unmanned-aerial-systems-inc": {
+      "developments": [
+        {
+          "date": "16 Sep 2024",
+          "title": "Contract award by FMV",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/553221-2024"
+        },
+        {
+          "date": "16 Sep 2024",
+          "title": "Contract award by FMV",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/555492-2024"
+        }
+      ],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · verified · relevant competence, no military sale on record"
+        ]
+      ],
+      "about": {
+        "workspace": "KRATOS UNMANNED AERIAL SYSTEMS, INC. is a US company registered in 1990, with its seat in Sacramento. EU procurement records (TED) list a contract award by FMV (16 Sep 2024). EU procurement records (TED) list a contract award by FMV (16 Sep 2024).",
+        "overview": "KRATOS UNMANNED AERIAL SYSTEMS, INC. is a US company registered in 1990, with its seat in Sacramento. EU procurement records (TED) list a contract award by FMV (16 Sep 2024). EU procurement records (TED) list a contract award by FMV (16 Sep 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1990",
+            "Registered"
+          ],
+          [
+            "Sacramento, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300JX7G42EP1MTL80",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1990",
+            "Registered"
+          ],
+          [
+            "Sacramento, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300JX7G42EP1MTL80",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · FMV",
+            "sub": "TED notice 553221-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "16 Sep 2024",
+            "desc": "TED notice 553221-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · FMV",
+            "sub": "TED notice 555492-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "16 Sep 2024",
+            "desc": "TED notice 555492-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · FMV",
+            "sub": "TED notice 553221-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "16 Sep 2024",
+            "desc": "TED notice 553221-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · FMV",
+            "sub": "TED notice 555492-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "16 Sep 2024",
+            "desc": "TED notice 555492-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "FMV",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "FMV",
+            "role": "Customer · TED award",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "FMV",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "FMV",
+            "role": "Customer · TED award",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity KRATOS UNMANNED AERIAL SYSTEMS, INC., LEI 549300JX7G42EP1MTL80",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/549300JX7G42EP1MTL80"
+        },
+        {
+          "claim": "Contract award by FMV (TED 553221-2024)",
+          "sources": 1,
+          "date": "16 Sep 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/553221-2024"
+        },
+        {
+          "claim": "Contract award by FMV (TED 555492-2024)",
+          "sources": 1,
+          "date": "16 Sep 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/555492-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Sacramento",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "KRATOS UNMANNED AERIAL SYSTEMS, INC. is a US company registered in 1990, with its seat in Sacramento. EU procurement records (TED) list a contract award by FMV (16 Sep 2024). EU procurement records (TED) list a contract award by FMV (16 Sep 2024).",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "2",
+            "label": "contract awards on record",
+            "src": [
+              2,
+              3
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "1990",
+            "Registered",
+            null
+          ],
+          [
+            "Sacramento, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 549300JX7G42EP1MTL80",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract award · FMV",
+            "sub": "TED notice 553221-2024",
+            "status": "Contract award",
+            "date": "16 Sep 2024",
+            "iso": "2024-09-16",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "Contract award · FMV",
+            "sub": "TED notice 555492-2024",
+            "status": "Contract award",
+            "date": "16 Sep 2024",
+            "iso": "2024-09-16",
+            "ongoing": false,
+            "src": 3
+          }
+        ],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 549300JX7G42EP1MTL80",
+            "url": "https://api.gleif.org/api/v1/lei-records/549300JX7G42EP1MTL80"
+          },
+          {
+            "title": "TED notice 553221-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/553221-2024"
+          },
+          {
+            "title": "TED notice 555492-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/555492-2024"
+          }
+        ]
+      },
+      "card_hash": "5adc09ddeb60f8ea"
     }
   }
 }
