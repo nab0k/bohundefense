@@ -106969,6 +106969,1022 @@
         ]
       },
       "card_hash": "3994e5bf8b413ae1"
+    },
+    "rohde-schwarz-gmbh-co-kommanditgesellschaft": {
+      "developments": [
+        {
+          "date": "23 Oct 2026",
+          "title": "EICACS 2 — European Initiative for Collaborative Air Combat Standardisation 2",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304940/EDF"
+        },
+        {
+          "date": "19 Dec 2022",
+          "title": "EICACS — European Initiative for Collaborative Air Combat Standardization",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Rohde & Schwarz GmbH & Co. Kommanditgesellschaft is a German company registered in 1933, with its seat in München. It takes part in 2 European Defence Fund projects (2022–2026). Of these, 1 ongoing, EU funding to the company €1.9M.",
+        "overview": "Rohde & Schwarz GmbH & Co. Kommanditgesellschaft is a German company registered in 1933, with its seat in München. It takes part in 2 European Defence Fund projects (2022–2026). Of these, 1 ongoing, EU funding to the company €1.9M."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1933",
+            "Registered"
+          ],
+          [
+            "München, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900156OVPNZXFJ655",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1933",
+            "Registered"
+          ],
+          [
+            "München, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900156OVPNZXFJ655",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "EICACS — European Initiative for Collaborative Air Combat Standardization",
+            "sub": "Participant · EU funding €1.1M of €74.8M · 37 partners · 2022–2026",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "19 Dec 2022",
+            "desc": "EDF EDF-2021-AIR-D-CAC-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+          },
+          {
+            "title": "EICACS 2 — European Initiative for Collaborative Air Combat Standardisation 2",
+            "sub": "Participant · EU funding €800K of €49.0M · 38 partners · 2026–2029",
+            "status": "Grant · Forthcoming",
+            "icon": "coins",
+            "date": "23 Oct 2026",
+            "desc": "EDF EDF-2025-DA-AIR-CAC",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304940/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "EICACS — European Initiative for Collaborative Air Combat Standardization",
+            "sub": "Participant · EU funding €1.1M of €74.8M · 37 partners · 2022–2026",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "19 Dec 2022",
+            "desc": "EDF EDF-2021-AIR-D-CAC-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+          },
+          {
+            "title": "EICACS 2 — European Initiative for Collaborative Air Combat Standardisation 2",
+            "sub": "Participant · EU funding €800K of €49.0M · 38 partners · 2026–2029",
+            "status": "Grant · Forthcoming",
+            "icon": "coins",
+            "date": "23 Oct 2026",
+            "desc": "EDF EDF-2025-DA-AIR-CAC",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304940/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Rohde & Schwarz GmbH & Co. Kommanditgesellschaft, LEI 529900156OVPNZXFJ655",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900156OVPNZXFJ655"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101304940",
+          "sources": 1,
+          "date": "23 Oct 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304940/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103669",
+          "sources": 1,
+          "date": "19 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "München",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Rohde & Schwarz GmbH & Co. Kommanditgesellschaft is a German company registered in 1933, with its seat in München. It takes part in 2 European Defence Fund projects (2022–2026). Of these, 1 ongoing, EU funding to the company €1.9M.",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "€1.9M",
+            "label": "EU defence funding to the company",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "2",
+            "label": "European Defence Fund projects",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "1",
+            "label": "ongoing now",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "41",
+            "label": "organisations it shares EDF projects with",
+            "src": [
+              2,
+              3
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "1933",
+            "Registered",
+            null
+          ],
+          [
+            "München, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900156OVPNZXFJ655",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "EICACS — European Initiative for Collaborative Air Combat Standardization",
+            "sub": "Participant · EU funding €1.1M of €74.8M · 37 partners · 2022–2026",
+            "status": "Grant · Ongoing",
+            "date": "19 Dec 2022",
+            "iso": "2022-12-19",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "EICACS 2 — European Initiative for Collaborative Air Combat Standardisation 2",
+            "sub": "Participant · EU funding €800K of €49.0M · 38 partners · 2026–2029",
+            "status": "Grant · Forthcoming",
+            "date": "23 Oct 2026",
+            "iso": "2026-10-23",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "2 grants · €1.9M",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "AIRBUS DEFENCE AND SPACE GMBH",
+            "country": "DE",
+            "sub": "4 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "DASSAULT AVIATION",
+            "country": "FR",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "DIEHL AEROSPACE GMBH",
+            "country": "DE",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "DIEHL DEFENCE GMBH & CO. KG",
+            "country": "DE",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "EASN TECHNOLOGY INNOVATION SERVICES BVBA",
+            "country": "BE",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ELETTRONICA SPA",
+            "country": "IT",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ESG Elektroniksystem- und Logistik-Gesellschaft mit beschrankter Haftung",
+            "country": "DE",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "GMV AEROSPACE AND DEFENCE SA",
+            "country": "ES",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900156OVPNZXFJ655",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900156OVPNZXFJ655"
+          },
+          {
+            "title": "EU Funding & Tenders portal · EICACS 2",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304940/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · EICACS",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103669/EDF"
+          }
+        ]
+      },
+      "card_hash": "18654ed58cf683b5"
+    },
+    "tkms-atlas-elektronik-gmbh": {
+      "developments": [
+        {
+          "date": "13 Oct 2026",
+          "title": "SWORD — Stand-off Anti-Submarine Warfare Operations by Remote Deployment",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101300787/EDF"
+        },
+        {
+          "date": "28 Nov 2025",
+          "title": "NEREUS — Naval systEm of systems and integRatEd sUrvivability of future EU platformS",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224749/EDF"
+        },
+        {
+          "date": "29 Oct 2025",
+          "title": "ASTERION — Adaptive and Secure Technology-Enabling Reliable and Integrated Opto-acoustic underwater Networking",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101223924/EDF"
+        },
+        {
+          "date": "10 Dec 2024",
+          "title": "SEACURE — SEabed and Anti-submarine warfare Capability through Unmanned featuRe for Europe",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168134/EDF"
+        },
+        {
+          "date": "18 Nov 2024",
+          "title": "EequalMCM — European Extended Mine Countermeasures (E=MCM)",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167894/EDF"
+        },
+        {
+          "date": "04 Dec 2023",
+          "title": "SCUALE — Sustainable Components for Underwater Acoustics using Lead-free materials in Europe",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121213/EDF"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "TKMS ATLAS ELEKTRONIK GmbH is a German company registered in 2005, with its seat in Bremen. It takes part in 7 European Defence Fund projects (2022–2026). Of these, coordinates 1, 5 ongoing, EU funding to the company €13.1M.",
+        "overview": "TKMS ATLAS ELEKTRONIK GmbH is a German company registered in 2005, with its seat in Bremen. It takes part in 7 European Defence Fund projects (2022–2026). Of these, coordinates 1, 5 ongoing, EU funding to the company €13.1M."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2005",
+            "Registered"
+          ],
+          [
+            "Bremen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900W080ZUNJJI6P76",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2005",
+            "Registered"
+          ],
+          [
+            "Bremen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900W080ZUNJJI6P76",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "EequalMCM — European Extended Mine Countermeasures (E=MCM)",
+            "sub": "Participant · EU funding €3.8M of €45.0M · 22 partners · 2024–2027",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "18 Nov 2024",
+            "desc": "EDF EDF-2023-DA-UWW-MCMC",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167894/EDF"
+          },
+          {
+            "title": "SEACURE — SEabed and Anti-submarine warfare Capability through Unmanned featuRe for Europe",
+            "sub": "Participant · EU funding €2.4M of €44.4M · 36 partners · 2024–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "10 Dec 2024",
+            "desc": "EDF EDF-2023-DA-UWW-ASW",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168134/EDF"
+          },
+          {
+            "title": "SCUALE — Sustainable Components for Underwater Acoustics using Lead-free materials in Europe",
+            "sub": "Participant · EU funding €1.2M of €19.3M · 17 partners · 2023–2026",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "04 Dec 2023",
+            "desc": "EDF EDF-2022-RA-ENERENV-CUW",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121213/EDF"
+          },
+          {
+            "title": "ASTERION — Adaptive and Secure Technology-Enabling Reliable and Integrated Opto-acoustic underwater Networking",
+            "sub": "Participant · EU funding €1.2M of €23.2M · 24 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "29 Oct 2025",
+            "desc": "EDF EDF-2024-RA-UWW-SACOM-STEP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101223924/EDF"
+          },
+          {
+            "title": "NEREUS — Naval systEm of systems and integRatEd sUrvivability of future EU platformS",
+            "sub": "Partner · EU funding €716K of €45.0M · 36 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "28 Nov 2025",
+            "desc": "EDF EDF-2024-DA-NAVAL-FNP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224749/EDF"
+          },
+          {
+            "title": "SWORD — Stand-off Anti-Submarine Warfare Operations by Remote Deployment",
+            "sub": "Coordinator · EU funding €3.6M of €19.9M · 15 partners · 2026–2029",
+            "status": "Grant · Forthcoming",
+            "icon": "coins",
+            "date": "13 Oct 2026",
+            "desc": "EDF EDF-2025-RA-UWW-SOASW",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101300787/EDF"
+          },
+          {
+            "title": "dTHOR — Digital Ship Structural Health Monitoring",
+            "sub": "Partner · EU funding €103K of €14.5M · 37 partners · 2022–2025",
+            "status": "Grant · Ended",
+            "icon": "coins",
+            "date": "07 Dec 2022",
+            "desc": "EDF EDF-2021-NAVAL-R-SSHM-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103257/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "EequalMCM — European Extended Mine Countermeasures (E=MCM)",
+            "sub": "Participant · EU funding €3.8M of €45.0M · 22 partners · 2024–2027",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "18 Nov 2024",
+            "desc": "EDF EDF-2023-DA-UWW-MCMC",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167894/EDF"
+          },
+          {
+            "title": "SEACURE — SEabed and Anti-submarine warfare Capability through Unmanned featuRe for Europe",
+            "sub": "Participant · EU funding €2.4M of €44.4M · 36 partners · 2024–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "10 Dec 2024",
+            "desc": "EDF EDF-2023-DA-UWW-ASW",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168134/EDF"
+          },
+          {
+            "title": "SCUALE — Sustainable Components for Underwater Acoustics using Lead-free materials in Europe",
+            "sub": "Participant · EU funding €1.2M of €19.3M · 17 partners · 2023–2026",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "04 Dec 2023",
+            "desc": "EDF EDF-2022-RA-ENERENV-CUW",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121213/EDF"
+          },
+          {
+            "title": "ASTERION — Adaptive and Secure Technology-Enabling Reliable and Integrated Opto-acoustic underwater Networking",
+            "sub": "Participant · EU funding €1.2M of €23.2M · 24 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "29 Oct 2025",
+            "desc": "EDF EDF-2024-RA-UWW-SACOM-STEP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101223924/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 7 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 7 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity TKMS ATLAS ELEKTRONIK GmbH, LEI 529900W080ZUNJJI6P76",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900W080ZUNJJI6P76"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101300787",
+          "sources": 1,
+          "date": "13 Oct 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101300787/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224749",
+          "sources": 1,
+          "date": "28 Nov 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224749/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101223924",
+          "sources": 1,
+          "date": "29 Oct 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101223924/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101168134",
+          "sources": 1,
+          "date": "10 Dec 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168134/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167894",
+          "sources": 1,
+          "date": "18 Nov 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167894/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121213",
+          "sources": 1,
+          "date": "04 Dec 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121213/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103257",
+          "sources": 1,
+          "date": "07 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103257/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Bremen",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "TKMS ATLAS ELEKTRONIK GmbH is a German company registered in 2005, with its seat in Bremen. It takes part in 7 European Defence Fund projects (2022–2026). Of these, coordinates 1, 5 ongoing, EU funding to the company €13.1M.",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "€13.1M",
+            "label": "EU defence funding to the company",
+            "src": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "value": "7",
+            "label": "European Defence Fund projects",
+            "src": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "value": "5",
+            "label": "ongoing now",
+            "src": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          },
+          {
+            "value": "1",
+            "label": "projects it coordinates",
+            "src": [
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "2005",
+            "Registered",
+            null
+          ],
+          [
+            "Bremen, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900W080ZUNJJI6P76",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "EequalMCM — European Extended Mine Countermeasures (E=MCM)",
+            "sub": "Participant · EU funding €3.8M of €45.0M · 22 partners · 2024–2027",
+            "status": "Grant · Ongoing",
+            "date": "18 Nov 2024",
+            "iso": "2024-11-18",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "SEACURE — SEabed and Anti-submarine warfare Capability through Unmanned featuRe for Europe",
+            "sub": "Participant · EU funding €2.4M of €44.4M · 36 partners · 2024–2028",
+            "status": "Grant · Ongoing",
+            "date": "10 Dec 2024",
+            "iso": "2024-12-10",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "SCUALE — Sustainable Components for Underwater Acoustics using Lead-free materials in Europe",
+            "sub": "Participant · EU funding €1.2M of €19.3M · 17 partners · 2023–2026",
+            "status": "Grant · Ongoing",
+            "date": "04 Dec 2023",
+            "iso": "2023-12-04",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "ASTERION — Adaptive and Secure Technology-Enabling Reliable and Integrated Opto-acoustic underwater Networking",
+            "sub": "Participant · EU funding €1.2M of €23.2M · 24 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "date": "29 Oct 2025",
+            "iso": "2025-10-29",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "NEREUS — Naval systEm of systems and integRatEd sUrvivability of future EU platformS",
+            "sub": "Partner · EU funding €716K of €45.0M · 36 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "date": "28 Nov 2025",
+            "iso": "2025-11-28",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "SWORD — Stand-off Anti-Submarine Warfare Operations by Remote Deployment",
+            "sub": "Coordinator · EU funding €3.6M of €19.9M · 15 partners · 2026–2029",
+            "status": "Grant · Forthcoming",
+            "date": "13 Oct 2026",
+            "iso": "2026-10-13",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "dTHOR — Digital Ship Structural Health Monitoring",
+            "sub": "Partner · EU funding €103K of €14.5M · 37 partners · 2022–2025",
+            "status": "Grant · Ended",
+            "date": "07 Dec 2022",
+            "iso": "2022-12-07",
+            "ongoing": false,
+            "src": 8
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "7 grants · €13.1M",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "group",
+            "name": "Tkms Gmbh",
+            "country": "DE",
+            "src": [
+              3,
+              8
+            ],
+            "sub": "Group entity · in NEREUS, in dTHOR",
+            "status": "verified"
+          },
+          {
+            "type": "research",
+            "name": "NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK TNO",
+            "country": "NL",
+            "sub": "6 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "NAVAL GROUP",
+            "country": "FR",
+            "sub": "5 joint EDF projects",
+            "status": "verified",
+            "src": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "SAAB KOCKUMS AKTIEBOLAG",
+            "country": "SE",
+            "sub": "5 joint EDF projects",
+            "status": "verified",
+            "src": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "THALES DMS FRANCE SAS",
+            "country": "FR",
+            "sub": "5 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              4,
+              5
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "KONGSBERG DISCOVERY AS",
+            "country": "NO",
+            "sub": "4 joint EDF projects",
+            "status": "verified",
+            "src": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "NAVANTIA SA",
+            "country": "ES",
+            "sub": "4 joint EDF projects",
+            "status": "verified",
+            "src": [
+              3,
+              5,
+              6
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "DOTOCEAN",
+            "country": "BE",
+            "sub": "3 joint EDF projects",
+            "status": "verified",
+            "src": [
+              3,
+              4,
+              6
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "FINCANTIERI SPA",
+            "country": "IT",
+            "sub": "3 joint EDF projects",
+            "status": "verified",
+            "src": [
+              3,
+              4,
+              5
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900W080ZUNJJI6P76",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900W080ZUNJJI6P76"
+          },
+          {
+            "title": "EU Funding & Tenders portal · SWORD",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101300787/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · NEREUS",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224749/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · ASTERION",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101223924/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · SEACURE",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168134/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · EequalMCM",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167894/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · SCUALE",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121213/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · dTHOR",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103257/EDF"
+          }
+        ]
+      },
+      "card_hash": "2edca7f28c0605c4"
     }
   }
 }
