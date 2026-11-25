@@ -102600,8 +102600,8 @@
         ]
       ],
       "about": {
-        "workspace": "ADVANCED ACOUSTIC CONCEPTS, LLC is a US company, with its seat in Great River. US federal spending records show US$31.2M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 15 contracts; the largest customer is the Department of the Navy.",
-        "overview": "ADVANCED ACOUSTIC CONCEPTS, LLC is a US company, with its seat in Great River. US federal spending records show US$31.2M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 15 contracts; the largest customer is the Department of the Navy."
+        "workspace": "ADVANCED ACOUSTIC CONCEPTS, LLC is a US company, with its seat in Great River. US federal spending records show US$8.0M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 6 contracts; the largest customer is the Department of the Navy.",
+        "overview": "ADVANCED ACOUSTIC CONCEPTS, LLC is a US company, with its seat in Great River. US federal spending records show US$8.0M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 6 contracts; the largest customer is the Department of the Navy."
       },
       "facts": {
         "workspace": [
@@ -102680,20 +102680,20 @@
       ],
       "page": {
         "v": 2,
-        "lead": "ADVANCED ACOUSTIC CONCEPTS, LLC is a US company, with its seat in Great River. US federal spending records show US$31.2M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 15 contracts; the largest customer is the Department of the Navy.",
+        "lead": "ADVANCED ACOUSTIC CONCEPTS, LLC is a US company, with its seat in Great River. US federal spending records show US$8.0M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 6 contracts; the largest customer is the Department of the Navy.",
         "lead_src": [
           1
         ],
         "figures": [
           {
-            "value": "US$31.2M",
-            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all Department of the Navy",
+            "value": "US$8.0M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026, almost all Department of the Navy",
             "src": [
               1
             ]
           },
           {
-            "value": "15",
+            "value": "6",
             "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
             "src": [
               1
@@ -102714,31 +102714,13 @@
         ],
         "activity": [
           {
-            "title": "Mission package COMPUTERS, software and trainer (MPCST)",
-            "sub": "Defense Contract Management Agency · US$89.5M · 2019–2025",
-            "status": "Contract",
-            "date": "27 Sep 2019",
-            "iso": "2019-09-27",
-            "ongoing": false,
-            "src": 2
-          },
-          {
             "title": "This award is for the engineering services in support of previously procured MPCE and CMPT SYSTEMS, with options OVER FO",
             "sub": "Defense Contract Management Agency · US$73.7M · 2012–2025",
             "status": "Contract",
             "date": "06 Aug 2012",
             "iso": "2012-08-06",
             "ongoing": false,
-            "src": 3
-          },
-          {
-            "title": "HARDWARE/SOFTWARE engineering services",
-            "sub": "Department of the Navy · US$36.0M · 2024–2029",
-            "status": "Contract",
-            "date": "27 Sep 2024",
-            "iso": "2024-09-27",
-            "ongoing": true,
-            "src": 4
+            "src": 2
           },
           {
             "title": "The MANUFACTURE, TEST, and delivery of MARK 48 sonar signal TRANSMITTERS, MARK 48 warhead electronic system ASSEMBLIES, ",
@@ -102747,16 +102729,7 @@
             "date": "28 Feb 2025",
             "iso": "2025-02-28",
             "ongoing": true,
-            "src": 5
-          },
-          {
-            "title": "CASE FI - common acoustic simulation environment (CASE FI)",
-            "sub": "Defense Contract Management Agency · US$15.0M · 2016–2022",
-            "status": "Contract",
-            "date": "01 Aug 2016",
-            "iso": "2016-08-01",
-            "ongoing": false,
-            "src": 6
+            "src": 3
           },
           {
             "title": "Common acoustic simulation environment fidelity improvement (CASE-FI) product enhancement",
@@ -102765,60 +102738,58 @@
             "date": "14 Jul 2026",
             "iso": "2026-07-14",
             "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "CASE C2P0 SW and HW update and integration",
+            "sub": "Department of the Navy · US$490K · 2025–2026",
+            "status": "Contract",
+            "date": "16 Jul 2025",
+            "iso": "2025-07-16",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Engineering and technical services required for design modifications and technical enhancements to an existing ROV syste",
+            "sub": "Department of the Navy · US$10K · 2026–2027",
+            "status": "Contract",
+            "date": "16 Jun 2026",
+            "iso": "2026-06-16",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "Remote minehunting (RMH) module",
+            "sub": "Department of the Navy · 2026–2029",
+            "status": "Contract",
+            "date": "05 Aug 2026",
+            "iso": "2026-08-05",
+            "ongoing": true,
             "src": 7
-          },
-          {
-            "title": "Supports previous SBIR efforts to initiate hardware upgrades for the common acoustic simulation environment fidelity imp",
-            "sub": "Department of the Navy · US$5.1M · 2026–2027",
-            "status": "Contract",
-            "date": "30 Jan 2026",
-            "iso": "2026-01-30",
-            "ongoing": true,
-            "src": 8
-          },
-          {
-            "title": "SBIR phase III research & development",
-            "sub": "Department of the Navy · US$1.6M · 2025–2027",
-            "status": "Contract",
-            "date": "02 Sep 2025",
-            "iso": "2025-09-02",
-            "ongoing": true,
-            "src": 9
           }
         ],
         "network": [
           {
             "type": "customer",
             "name": "Defense Contract Management Agency",
-            "sub": "Customer · US$178.2M · 3 contracts",
+            "sub": "Customer · US$73.7M · 1 contract",
             "status": "verified",
             "src": [
-              2,
-              3,
-              6
+              2
             ]
           },
           {
             "type": "customer",
             "name": "Department of the Navy",
-            "sub": "Customer · US$102.9M · 5 contracts",
+            "sub": "Customer · US$37.7M · 5 contracts",
             "status": "verified",
             "src": [
               1,
+              3,
               4,
-              5,
-              10
+              8
             ],
             "quote": "Advanced Acoustic Concepts (AAC), a U.S.-based provider of undersea warfare solutions, was awarded a $53.9 million U.S. Navy contract to produce and deliver two integrated Remote Mine Hunting (RMH) modules and accompanying engineering support."
-          },
-          {
-            "type": "customer",
-            "name": "Defense Logistics Agency",
-            "sub": "Customer · US$97K",
-            "status": "verified",
-            "src": [
-              1
-            ]
           }
         ],
         "products": [
@@ -102828,7 +102799,7 @@
             "status": "verified",
             "quote": "Advanced Acoustic Concepts (AAC), a U.S.-based provider of undersea warfare solutions, was awarded a $53.9 million U.S. Navy contract to produce and deliver two integrated Remote Mine Hunting (RMH) modules and accompanying engineering support.",
             "src": [
-              10
+              8
             ]
           }
         ],
@@ -102839,36 +102810,28 @@
             "url": "https://www.usaspending.gov/recipient/c66bbadf-e50d-cdee-f643-565e5a97c599-C/latest"
           },
           {
-            "title": "USAspending.gov · N0002419C6311",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_N0002419C6311_9700_-NONE-_-NONE-"
-          },
-          {
             "title": "USAspending.gov · N0002412C6311",
             "url": "https://www.usaspending.gov/award/CONT_AWD_N0002412C6311_9700_-NONE-_-NONE-"
-          },
-          {
-            "title": "USAspending.gov · N0002424C6311",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_N0002424C6311_9700_-NONE-_-NONE-"
           },
           {
             "title": "USAspending.gov · N6660425C0203",
             "url": "https://www.usaspending.gov/award/CONT_AWD_N6660425C0203_9700_-NONE-_-NONE-"
           },
           {
-            "title": "USAspending.gov · N6134016C0004",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_N6134016C0004_9700_-NONE-_-NONE-"
-          },
-          {
             "title": "USAspending.gov · N0001926C1008",
             "url": "https://www.usaspending.gov/award/CONT_AWD_N0001926C1008_9700_-NONE-_-NONE-"
           },
           {
-            "title": "USAspending.gov · N6134026C1008",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_N6134026C1008_9700_-NONE-_-NONE-"
+            "title": "USAspending.gov · N0001925C0099",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001925C0099_9700_-NONE-_-NONE-"
           },
           {
-            "title": "USAspending.gov · N6833525F0052",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_N6833525F0052_9700_N6833525G0001_9700"
+            "title": "USAspending.gov · N6660426FC432",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N6660426FC432_9700_N6660424DC401_9700"
+          },
+          {
+            "title": "USAspending.gov · N0002426C6304",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0002426C6304_9700_-NONE-_-NONE-"
           },
           {
             "title": "edrmagazine.eu",
@@ -102876,7 +102839,7 @@
           }
         ]
       },
-      "card_hash": "05b70eb664b658c4"
+      "card_hash": "0ccd77adf2add479"
     },
     "general-dynamics-land-systems": {
       "developments": [],
