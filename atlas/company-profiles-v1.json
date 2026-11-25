@@ -9681,8 +9681,8 @@
         ]
       ],
       "about": {
-        "workspace": "RAYTHEON COMPANY is a US company registered in 1953, with its seat in Wilmington. US federal spending records show US$22.0B obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 2,123 contracts; the largest customer is the Department of the Navy.",
-        "overview": "RAYTHEON COMPANY is a US company registered in 1953, with its seat in Wilmington. US federal spending records show US$22.0B obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 2,123 contracts; the largest customer is the Department of the Navy."
+        "workspace": "RAYTHEON COMPANY is a US company registered in 1953, with its seat in Wilmington. US federal spending records show US$19.5B obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 1,238 contracts; the largest customer is the Department of the Navy.",
+        "overview": "RAYTHEON COMPANY is a US company registered in 1953, with its seat in Wilmington. US federal spending records show US$19.5B obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 1,238 contracts; the largest customer is the Department of the Navy."
       },
       "facts": {
         "workspace": [
@@ -9815,27 +9815,27 @@
       ],
       "page": {
         "v": 2,
-        "lead": "RAYTHEON COMPANY is a US company registered in 1953, with its seat in Wilmington. US federal spending records show US$22.0B obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 2,123 contracts; the largest customer is the Department of the Navy.",
+        "lead": "RAYTHEON COMPANY is a US company registered in 1953, with its seat in Wilmington. US federal spending records show US$19.5B obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 1,238 contracts; the largest customer is the Department of the Navy.",
         "lead_src": [
           1
         ],
         "figures": [
           {
-            "value": "US$22.0B",
-            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "value": "US$19.5B",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026",
             "src": [
               11
             ]
           },
           {
-            "value": "2,123",
+            "value": "1,238",
             "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
             "src": [
               11
             ]
           },
           {
-            "value": "US$7.7B",
+            "value": "US$7.4B",
             "label": "largest customer: Department of the Navy",
             "src": [
               11
@@ -9946,7 +9946,7 @@
           {
             "type": "customer",
             "name": "Department of the Navy",
-            "sub": "Customer · US$15.9B · 2 contracts",
+            "sub": "Customer · US$15.7B · 2 contracts",
             "status": "verified",
             "src": [
               4,
@@ -9959,7 +9959,7 @@
           {
             "type": "customer",
             "name": "Department of the Army",
-            "sub": "Customer · US$15.0B · 2 contracts",
+            "sub": "Customer · US$14.4B · 2 contracts",
             "status": "verified",
             "src": [
               3,
@@ -9970,7 +9970,7 @@
           {
             "type": "customer",
             "name": "Department of the Air Force",
-            "sub": "Customer · US$10.9B · 2 contracts",
+            "sub": "Customer · US$10.4B · 2 contracts",
             "status": "verified",
             "src": [
               6,
@@ -9985,13 +9985,14 @@
             "status": "verified",
             "src": [
               7,
-              9
+              9,
+              11
             ]
           },
           {
             "type": "customer",
             "name": "Missile Defense Agency",
-            "sub": "Customer · US$2.6B",
+            "sub": "Customer · US$2.1B",
             "status": "verified",
             "src": [
               11
@@ -10000,7 +10001,7 @@
           {
             "type": "customer",
             "name": "Defense Logistics Agency",
-            "sub": "Customer · US$1.0B",
+            "sub": "Customer · US$309.0M",
             "status": "verified",
             "src": [
               11
@@ -10347,7 +10348,7 @@
           }
         ]
       },
-      "card_hash": "7f924b36750a0b16"
+      "card_hash": "d3c704895a70e11c"
     },
     "mbda-france": {
       "developments": [
@@ -65263,7 +65264,7 @@
       "developments": [
         {
           "date": "27 May 2025",
-          "title": "SWARM-C3 — Command, Control, and Communications for Multi-X Swarms",
+          "title": "European Defence Fund project 101167841",
           "tags": [
             "EDF"
           ],
@@ -65279,12 +65280,12 @@
       "meta": [
         [
           "shield",
-          "Defence participation L3 · verified · European Defence Fund projects"
+          "Defence participation L1 · supported · named military products"
         ]
       ],
       "about": {
-        "workspace": "Insta Advance Oy is a Finnish company registered in 2000, with its seat in Tampere. It takes part in 1 European Defence Fund project (2025). Of these, 1 ongoing, EU funding to the company €1.0M.",
-        "overview": "Insta Advance Oy is a Finnish company registered in 2000, with its seat in Tampere. It takes part in 1 European Defence Fund project (2025). Of these, 1 ongoing, EU funding to the company €1.0M."
+        "workspace": "Insta Advance Oy is a Finnish company registered in 2000, with its seat in Tampere. It takes part in 1 European Defence Fund project (2025). Its website presents military products including Domestically produced FPV drones.",
+        "overview": "Insta Advance Oy is a Finnish company registered in 2000, with its seat in Tampere. It takes part in 1 European Defence Fund project (2025). Its website presents military products including Domestically produced FPV drones."
       },
       "facts": {
         "workspace": [
@@ -65317,7 +65318,7 @@
         ]
       },
       "attributes": [
-        "Defence L3"
+        "Defence L1"
       ],
       "taxonomy": {
         "domains": [],
@@ -65329,31 +65330,92 @@
       "programmes": {
         "workspace": [
           {
-            "title": "SWARM-C3 — Command, Control, and Communications for Multi-X Swarms",
-            "sub": "Participant · EU funding €1.0M of €4.0M · 5 partners · 2025–2028",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101167841",
+            "sub": "EU defence research and development · call EDF-2023-LS-RA-DIS",
+            "status": "Grant",
             "icon": "coins",
             "date": "27 May 2025",
-            "desc": "EDF EDF-2023-LS-RA-DIS-NT",
+            "desc": "Call EDF-2023-LS-RA-DIS",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167841/EDF"
           }
         ],
         "overview": [
           {
-            "title": "SWARM-C3 — Command, Control, and Communications for Multi-X Swarms",
-            "sub": "Participant · EU funding €1.0M of €4.0M · 5 partners · 2025–2028",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101167841",
+            "sub": "EU defence research and development · call EDF-2023-LS-RA-DIS",
+            "status": "Grant",
             "icon": "coins",
             "date": "27 May 2025",
-            "desc": "EDF EDF-2023-LS-RA-DIS-NT",
+            "desc": "Call EDF-2023-LS-RA-DIS",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167841/EDF"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Customized automation cabinets",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Quantum-safe public key infrastructure (PKI) solutions",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Partial discharge measurements",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Domestically produced FPV drones",
+          "level": "L0",
+          "icon": "crosshair"
+        },
+        {
+          "label": "Insta Wahti® Support maintenance management system",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Customized automation cabinets",
+              "Insta’s high-quality, customized automation cabinets are a key component of Marioff’s HI-FOG® fire suppression systems.",
+              "grey"
+            ],
+            [
+              "Quantum-safe public key infrastructure (PKI) solutions",
+              "Insta's role is to develop quantum-safe public key infrastructure (PKI) solutions that enable the trusted authentication of devices, users a",
+              "grey"
+            ],
+            [
+              "Partial discharge measurements",
+              "Insta has expanded its electrical distribution lifecycle services with partial discharge measurements, enabling potential risks in electrica",
+              "grey"
+            ],
+            [
+              "Domestically produced FPV drones",
+              "Insta Strengthens Finland’s Drone Capabilities by Supplying Domestically Produced FPV Drones to the Finnish Defence Forces",
+              "green"
+            ],
+            [
+              "Insta Wahti® Support maintenance management system",
+              "The project includes the renewal of the monitoring and control system, the development of the radio communication network, and the deploymen",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -65395,6 +65457,14 @@
           "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167841/EDF"
         },
         {
+          "claim": "Domestically produced FPV drones: “Insta Strengthens Finland’s Drone Capabilities by Supplying Domestically Produced FPV Drones to the Finnish Defence Forces”",
+          "sources": 1,
+          "date": "22 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://www.insta.fi/en/"
+        },
+        {
           "claim": "Technologies, financials and relationships beyond these records",
           "sources": 0,
           "date": "22 Nov 2026",
@@ -65411,41 +65481,12 @@
       ],
       "page": {
         "v": 2,
-        "lead": "Insta Advance Oy is a Finnish company registered in 2000, with its seat in Tampere. It takes part in 1 European Defence Fund project (2025). Of these, 1 ongoing, EU funding to the company €1.0M.",
+        "lead": "Insta Advance Oy is a Finnish company registered in 2000, with its seat in Tampere. It takes part in 1 European Defence Fund project (2025). Its website presents military products including Domestically produced FPV drones.",
         "lead_src": [
           1,
           2
         ],
-        "figures": [
-          {
-            "value": "€1.0M",
-            "label": "EU defence funding to the company",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "European Defence Fund projects",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "ongoing now",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "4",
-            "label": "organisations it shares EDF projects with",
-            "src": [
-              2
-            ]
-          }
-        ],
+        "figures": [],
         "facts": [
           [
             "2000",
@@ -65465,12 +65506,12 @@
         ],
         "activity": [
           {
-            "title": "SWARM-C3 — Command, Control, and Communications for Multi-X Swarms",
-            "sub": "Participant · EU funding €1.0M of €4.0M · 5 partners · 2025–2028",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101167841",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "27 May 2025",
             "iso": "2025-05-27",
-            "ongoing": true,
+            "ongoing": false,
             "src": 2
           }
         ],
@@ -65478,66 +65519,41 @@
           {
             "type": "funder",
             "name": "European Commission · European Defence Fund",
-            "sub": "1 grant · €1.0M",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "DOTOCEAN",
-            "country": "BE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "OLEDCOMM SAS",
-            "country": "FR",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "TEKNOLOGIAN TUTKIMUSKESKUS VTT OY",
-            "country": "FI",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "WAYREN OU",
-            "country": "EE",
-            "sub": "1 joint EDF project",
+            "sub": "1 grant",
             "status": "verified",
             "src": [
               2
             ]
           }
         ],
-        "products": [],
+        "products": [
+          {
+            "name": "Domestically produced FPV drones",
+            "role": "makes",
+            "status": "supported",
+            "quote": "Insta Strengthens Finland’s Drone Capabilities by Supplying Domestically Produced FPV Drones to the Finnish Defence Forces",
+            "src": [
+              3
+            ]
+          }
+        ],
+        "news": [],
         "sources": [
           {
             "title": "Company register · Y-tunnus 1597850-3",
             "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=1597850-3"
           },
           {
-            "title": "EU Funding & Tenders portal · SWARM-C3",
+            "title": "EU Funding & Tenders portal · 101167841",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167841/EDF"
+          },
+          {
+            "title": "Company website",
+            "url": "https://www.insta.fi/en/"
           }
         ]
       },
-      "card_hash": "b6910c6a533f2073"
+      "card_hash": "cfd3abcf99dbb684"
     },
     "jykia-oy": {
       "developments": [
@@ -75671,8 +75687,8 @@
         ]
       ],
       "about": {
-        "workspace": "SIG SAUER INC. is a US company registered in 2000, with its seat in Dover. US federal spending records show US$614.5M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 288 contracts; the largest customer is the Department of the Army.",
-        "overview": "SIG SAUER INC. is a US company registered in 2000, with its seat in Dover. US federal spending records show US$614.5M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 288 contracts; the largest customer is the Department of the Army."
+        "workspace": "SIG SAUER INC. is a US company registered in 2000, with its seat in Dover. US federal spending records show US$607.6M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 209 contracts; the largest customer is the Department of the Army.",
+        "overview": "SIG SAUER INC. is a US company registered in 2000, with its seat in Dover. US federal spending records show US$607.6M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 209 contracts; the largest customer is the Department of the Army."
       },
       "facts": {
         "workspace": [
@@ -75805,20 +75821,20 @@
       ],
       "page": {
         "v": 2,
-        "lead": "SIG SAUER INC. is a US company registered in 2000, with its seat in Dover. US federal spending records show US$614.5M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 288 contracts; the largest customer is the Department of the Army.",
+        "lead": "SIG SAUER INC. is a US company registered in 2000, with its seat in Dover. US federal spending records show US$607.6M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 209 contracts; the largest customer is the Department of the Army.",
         "lead_src": [
           1
         ],
         "figures": [
           {
-            "value": "US$614.5M",
-            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all Department of the Army",
+            "value": "US$607.6M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026, almost all Department of the Army",
             "src": [
               2
             ]
           },
           {
-            "value": "288",
+            "value": "209",
             "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
             "src": [
               2
@@ -76010,7 +76026,7 @@
           }
         ]
       },
-      "card_hash": "76bf665ab385399b"
+      "card_hash": "ce9089343a437b23"
     },
     "urc-systems-spol-s-r-o": {
       "developments": [],
@@ -79140,8 +79156,8 @@
         ]
       ],
       "about": {
-        "workspace": "Global Military Products, Inc. is a US company registered in 2009, with its seat in Wilmington. US federal spending records show US$255K obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 13 contracts; the largest customer is the U.S. Special Operations Command.",
-        "overview": "Global Military Products, Inc. is a US company registered in 2009, with its seat in Wilmington. US federal spending records show US$255K obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 13 contracts; the largest customer is the U.S. Special Operations Command."
+        "workspace": "Global Military Products, Inc. is a US company registered in 2009, with its seat in Wilmington. US federal spending records show US$255K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 13 contracts; the largest customer is the U.S. Special Operations Command.",
+        "overview": "Global Military Products, Inc. is a US company registered in 2009, with its seat in Wilmington. US federal spending records show US$255K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 13 contracts; the largest customer is the U.S. Special Operations Command."
       },
       "facts": {
         "workspace": [
@@ -79274,14 +79290,14 @@
       ],
       "page": {
         "v": 2,
-        "lead": "Global Military Products, Inc. is a US company registered in 2009, with its seat in Wilmington. US federal spending records show US$255K obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 13 contracts; the largest customer is the U.S. Special Operations Command.",
+        "lead": "Global Military Products, Inc. is a US company registered in 2009, with its seat in Wilmington. US federal spending records show US$255K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 13 contracts; the largest customer is the U.S. Special Operations Command.",
         "lead_src": [
           1
         ],
         "figures": [
           {
             "value": "US$255K",
-            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all U.S. Special Operations Command",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026, almost all U.S. Special Operations Command",
             "src": [
               2
             ]
@@ -79470,7 +79486,7 @@
           }
         ]
       },
-      "card_hash": "1f8ca5c9521028c6"
+      "card_hash": "91c5883404e51bf8"
     },
     "u-s-ordnance": {
       "developments": [],
@@ -81733,8 +81749,8 @@
         ]
       ],
       "about": {
-        "workspace": "AEROVIRONMENT, INC is a US company, with its seat in Simi Valley. US federal spending records show US$843.1M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 77 contracts; the largest customer is the Department of the Army.",
-        "overview": "AEROVIRONMENT, INC is a US company, with its seat in Simi Valley. US federal spending records show US$843.1M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 77 contracts; the largest customer is the Department of the Army."
+        "workspace": "AEROVIRONMENT, INC is a US company, with its seat in Simi Valley. US federal spending records show US$811.6M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 67 contracts; the largest customer is the Department of the Army.",
+        "overview": "AEROVIRONMENT, INC is a US company, with its seat in Simi Valley. US federal spending records show US$811.6M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 67 contracts; the largest customer is the Department of the Army."
       },
       "facts": {
         "workspace": [
@@ -81813,20 +81829,20 @@
       ],
       "page": {
         "v": 2,
-        "lead": "AEROVIRONMENT, INC is a US company, with its seat in Simi Valley. US federal spending records show US$843.1M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 77 contracts; the largest customer is the Department of the Army.",
+        "lead": "AEROVIRONMENT, INC is a US company, with its seat in Simi Valley. US federal spending records show US$811.6M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 67 contracts; the largest customer is the Department of the Army.",
         "lead_src": [
           1
         ],
         "figures": [
           {
-            "value": "US$843.1M",
-            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "value": "US$811.6M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026",
             "src": [
               10
             ]
           },
           {
-            "value": "77",
+            "value": "67",
             "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
             "src": [
               10
@@ -81943,7 +81959,7 @@
           {
             "type": "customer",
             "name": "Department of the Air Force",
-            "sub": "Customer · US$169.0M",
+            "sub": "Customer · US$137.5M",
             "status": "verified",
             "src": [
               10
@@ -82073,7 +82089,7 @@
           }
         ]
       },
-      "card_hash": "385703322b0e41df"
+      "card_hash": "b107ba45ea91e40f"
     },
     "gm-defense": {
       "developments": [],
@@ -82089,8 +82105,8 @@
         ]
       ],
       "about": {
-        "workspace": "GM DEFENSE LLC is a US company, with its seat in Warren. US federal spending records show US$284.9M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 434 contracts; the largest customer is the Department of the Army.",
-        "overview": "GM DEFENSE LLC is a US company, with its seat in Warren. US federal spending records show US$284.9M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 434 contracts; the largest customer is the Department of the Army."
+        "workspace": "GM DEFENSE LLC is a US company, with its seat in Warren. US federal spending records show US$262.6M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 226 contracts; the largest customer is the Department of the Army.",
+        "overview": "GM DEFENSE LLC is a US company, with its seat in Warren. US federal spending records show US$262.6M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 226 contracts; the largest customer is the Department of the Army."
       },
       "facts": {
         "workspace": [
@@ -82169,20 +82185,20 @@
       ],
       "page": {
         "v": 2,
-        "lead": "GM DEFENSE LLC is a US company, with its seat in Warren. US federal spending records show US$284.9M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 434 contracts; the largest customer is the Department of the Army.",
+        "lead": "GM DEFENSE LLC is a US company, with its seat in Warren. US federal spending records show US$262.6M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 226 contracts; the largest customer is the Department of the Army.",
         "lead_src": [
           1
         ],
         "figures": [
           {
-            "value": "US$284.9M",
-            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all Department of the Army",
+            "value": "US$262.6M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026, almost all Department of the Army",
             "src": [
               1
             ]
           },
           {
-            "value": "434",
+            "value": "226",
             "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
             "src": [
               1
@@ -82248,29 +82264,29 @@
             "src": 6
           },
           {
-            "title": "This TASK order is for the integration and delivery of the 120MM mortar system ONTO the ISV.",
-            "sub": "Department of the Army · US$7.2M · 2025–2026",
+            "title": "Award utility TECH manuals for ISV-U",
+            "sub": "Department of the Army · US$2.4M · 2026–2027",
             "status": "Contract",
-            "date": "12 Aug 2025",
-            "iso": "2025-08-12",
-            "ongoing": false,
+            "date": "25 Feb 2026",
+            "iso": "2026-02-25",
+            "ongoing": true,
             "src": 7
           },
           {
-            "title": "This TASK order is for the DEVELOPMENT, DELIVERY, and testing of the infantry squad vehicle - utility",
-            "sub": "Department of the Army · US$5.6M · 2025–2026",
+            "title": "HD SUV",
+            "sub": "Department of the Army · US$1.4M · 2025–2026",
             "status": "Contract",
-            "date": "19 Sep 2025",
-            "iso": "2025-09-19",
+            "date": "29 Sep 2025",
+            "iso": "2025-09-29",
             "ongoing": false,
             "src": 8
           },
           {
-            "title": "To procure twelve (12) months of systems engineering / program management (SEPM) and integrated product support (IPS) se",
-            "sub": "Department of the Army · US$3.4M · 2026–2027",
+            "title": "TASK order W912CH-25-F-0070 for the refurbishment of TWENTY-SEVEN (27) ISVS as detailed in the attachment 15 and incorpo",
+            "sub": "Department of the Army · US$1.2M · 2025–2027",
             "status": "Contract",
-            "date": "25 Jun 2026",
-            "iso": "2026-06-25",
+            "date": "23 Jan 2025",
+            "iso": "2025-01-23",
             "ongoing": true,
             "src": 9
           }
@@ -82279,7 +82295,7 @@
           {
             "type": "customer",
             "name": "Department of the Army",
-            "sub": "Customer · US$566.9M · 8 contracts",
+            "sub": "Customer · US$533.8M · 8 contracts",
             "status": "verified",
             "src": [
               1,
@@ -82290,7 +82306,7 @@
           {
             "type": "customer",
             "name": "Defense Logistics Agency",
-            "sub": "Customer · US$2.9M",
+            "sub": "Customer · US$2.4M",
             "status": "verified",
             "src": [
               1
@@ -82335,16 +82351,16 @@
             "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV24F0108_9700_W56HZV20D0066_9700"
           },
           {
-            "title": "USAspending.gov · W912CH25F0339",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH25F0339_9700_W56HZV20D0066_9700"
+            "title": "USAspending.gov · W912CH26F0091",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH26F0091_9700_W56HZV20D0066_9700"
           },
           {
-            "title": "USAspending.gov · W912CH25F0256",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH25F0256_9700_W56HZV20D0066_9700"
+            "title": "USAspending.gov · W912CH25F0481",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH25F0481_9700_W912CH25D0018_9700"
           },
           {
-            "title": "USAspending.gov · W912CH26F0315",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH26F0315_9700_W56HZV20D0066_9700"
+            "title": "USAspending.gov · W912CH25F0070",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH25F0070_9700_W56HZV20D0066_9700"
           },
           {
             "title": "defensenews.com",
@@ -82352,7 +82368,7 @@
           }
         ]
       },
-      "card_hash": "a059704f3285c5d9"
+      "card_hash": "6a4d78cc33c89286"
     },
     "micro-systems-inc": {
       "developments": [],
@@ -84991,6 +85007,18 @@
               4,
               5
             ]
+          },
+          {
+            "type": "customer",
+            "name": "British troops",
+            "country": null,
+            "in_catalogue": false,
+            "sub": "Customer · reported, not confirmed",
+            "status": "candidate",
+            "quote": "A robot vehicle working with British troops in Kenya spotted targets and sent them straight into the British Army’s AI-enabled targeting network, cutting the time from detection to strike by a factor of 10, its maker said Tuesday. ARX Robotics said it is the first company to integrate an uncrewed gr",
+            "src": [
+              6
+            ]
           }
         ],
         "products": [
@@ -85010,6 +85038,15 @@
             "quote": "ARX has said it aims to produce 1,800 Gereons a year",
             "src": [
               3
+            ]
+          },
+          {
+            "name": "UGV",
+            "role": "makes",
+            "status": "candidate",
+            "quote": "ARX Robotics said it is the first company to integrate an uncrewed ground vehicle, or UGV, into […]",
+            "src": [
+              6
             ]
           }
         ],
@@ -85042,10 +85079,14 @@
           {
             "title": "ukdefencejournal.org.uk",
             "url": "https://ukdefencejournal.org.uk/nato-innovation-fund-backs-nine-unicorns-in-three-years/"
+          },
+          {
+            "title": "defence-blog.com",
+            "url": "https://defence-blog.com/robot-scout-spots-targets-for-british-troops-in-kenya/"
           }
         ]
       },
-      "card_hash": "b0cba6ea99d5a756"
+      "card_hash": "35948bf2737de4e2"
     },
     "saab-dynamics-aktiebolag": {
       "developments": [
@@ -109783,6 +109824,2328 @@
         ]
       },
       "card_hash": "5f8ff06b106b2d3b"
+    },
+    "irion": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Irion GmbH is a German company registered in 2000, with its seat in Bad Teinach-Zavelstein.",
+        "overview": "Irion GmbH is a German company registered in 2000, with its seat in Bad Teinach-Zavelstein."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2000",
+            "Registered"
+          ],
+          [
+            "Bad Teinach-Zavelstein, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 391200SOO5QAO818O531",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2000",
+            "Registered"
+          ],
+          [
+            "Bad Teinach-Zavelstein, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 391200SOO5QAO818O531",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Irion GmbH, LEI 391200SOO5QAO818O531",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/391200SOO5QAO818O531"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Bad Teinach-Zavelstein",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Irion GmbH is a German company registered in 2000, with its seat in Bad Teinach-Zavelstein.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2000",
+            "Registered",
+            null
+          ],
+          [
+            "Bad Teinach-Zavelstein, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 391200SOO5QAO818O531",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 391200SOO5QAO818O531",
+            "url": "https://api.gleif.org/api/v1/lei-records/391200SOO5QAO818O531"
+          }
+        ]
+      },
+      "card_hash": "2f4b465e7b16593d"
+    },
+    "jenoptik-ag": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "JENOPTIK Aktiengesellschaft is a German company registered in 1990, with its seat in Jena.",
+        "overview": "JENOPTIK Aktiengesellschaft is a German company registered in 1990, with its seat in Jena."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1990",
+            "Registered"
+          ],
+          [
+            "Jena, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900P34GDHGXK6VB37",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1990",
+            "Registered"
+          ],
+          [
+            "Jena, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900P34GDHGXK6VB37",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "ANPR cameras",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "traffic law enforcement solutions",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Polymer-based camera modules",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "F-theta objective lenses and beam expanders",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Laser range finders",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "3D laser cutting system",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Diffusor optics for Flash-LiDAR sensors",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "ANPR cameras",
+              "The contract includes the delivery and installation of more than 200 new ANPR cameras.",
+              "grey"
+            ],
+            [
+              "traffic law enforcement solutions",
+              "Discover our traffic law enforcement solutions that help keep work zones safe for all road users.",
+              "grey"
+            ],
+            [
+              "Polymer-based camera modules",
+              "Polymer-based camera modules with digital image sensors",
+              "grey"
+            ],
+            [
+              "F-theta objective lenses and beam expanders",
+              "Whether it be our high-power diode lasers , F-theta objective lenses and beam expanders , laser range finders , customized laser systems or ",
+              "grey"
+            ],
+            [
+              "Laser range finders",
+              "Whether it be our high-power diode lasers , F-theta objective lenses and beam expanders , laser range finders , customized laser systems or ",
+              "grey"
+            ],
+            [
+              "3D laser cutting system",
+              "With the 3D laser cutting system from Jenoptik, you can process plastics quickly, flexibly and precisely.",
+              "grey"
+            ],
+            [
+              "Diffusor optics for Flash-LiDAR sensors",
+              "Diffusor optics for Flash-LiDAR sensors",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity JENOPTIK Aktiengesellschaft, LEI 529900P34GDHGXK6VB37",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900P34GDHGXK6VB37"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Jena",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "JENOPTIK Aktiengesellschaft is a German company registered in 1990, with its seat in Jena.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1990",
+            "Registered",
+            null
+          ],
+          [
+            "Jena, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900P34GDHGXK6VB37",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900P34GDHGXK6VB37",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900P34GDHGXK6VB37"
+          }
+        ]
+      },
+      "card_hash": "841f3a052006930a"
+    },
+    "benntec-systemtechnik-gmbh": {
+      "developments": [],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "Benntec Systemtechnik GmbH is a German company, with its seat in Bremen.",
+        "overview": "Benntec Systemtechnik GmbH is a German company, with its seat in Bremen."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Bremen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900PNQFJI585U1F47",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Bremen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900PNQFJI585U1F47",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Simulation framework iSi-Frame",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Simulation framework iSi-Frame",
+              "Elevate your training on complex technical systems to an unprecedented level and revolutionize your entire team's training with our groundbr",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Benntec Systemtechnik GmbH, LEI 529900PNQFJI585U1F47",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900PNQFJI585U1F47"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Bremen",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Benntec Systemtechnik GmbH is a German company, with its seat in Bremen.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "Bremen, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900PNQFJI585U1F47",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900PNQFJI585U1F47",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900PNQFJI585U1F47"
+          }
+        ]
+      },
+      "card_hash": "56aec2d660918431"
+    },
+    "4d-concept": {
+      "developments": [],
+      "country": "FR",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "4D CONCEPT is a French company registered in 2024, with its seat in Pantin.",
+        "overview": "4D CONCEPT is a French company registered in 2024, with its seat in Pantin."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2024",
+            "Registered"
+          ],
+          [
+            "Pantin, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 931465306",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2024",
+            "Registered"
+          ],
+          [
+            "Pantin, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 931465306",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity 4D CONCEPT, SIREN 931465306",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=931465306"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Pantin",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "4D CONCEPT is a French company registered in 2024, with its seat in Pantin.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2024",
+            "Registered",
+            null
+          ],
+          [
+            "Pantin, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "SIREN 931465306",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · SIREN 931465306",
+            "url": "https://recherche-entreprises.api.gouv.fr/search?q=931465306"
+          }
+        ]
+      },
+      "card_hash": "a60c5ff49f3fa455"
+    },
+    "addev-materials-aerospace": {
+      "developments": [],
+      "country": "FR",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "ADDEV MATERIALS AEROSPACE SAS is a French company registered in 1995, with its seat in Portet-Sur-Garonne.",
+        "overview": "ADDEV MATERIALS AEROSPACE SAS is a French company registered in 1995, with its seat in Portet-Sur-Garonne."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1995",
+            "Registered"
+          ],
+          [
+            "Portet-Sur-Garonne, France",
+            "Headquarters"
+          ],
+          [
+            "LEI 969500GXC29EURMSVR46",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1995",
+            "Registered"
+          ],
+          [
+            "Portet-Sur-Garonne, France",
+            "Headquarters"
+          ],
+          [
+            "LEI 969500GXC29EURMSVR46",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ADDEV MATERIALS AEROSPACE SAS, LEI 969500GXC29EURMSVR46",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/969500GXC29EURMSVR46"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Portet-Sur-Garonne",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ADDEV MATERIALS AEROSPACE SAS is a French company registered in 1995, with its seat in Portet-Sur-Garonne.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1995",
+            "Registered",
+            null
+          ],
+          [
+            "Portet-Sur-Garonne, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 969500GXC29EURMSVR46",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 969500GXC29EURMSVR46",
+            "url": "https://api.gleif.org/api/v1/lei-records/969500GXC29EURMSVR46"
+          }
+        ]
+      },
+      "card_hash": "8775b44156b4cfe2"
+    },
+    "adiamix": {
+      "developments": [],
+      "country": "FR",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "ADIAMIX is a French company registered in 2002, with its seat in Alencon.",
+        "overview": "ADIAMIX is a French company registered in 2002, with its seat in Alencon."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2002",
+            "Registered"
+          ],
+          [
+            "Alencon, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 440841781",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2002",
+            "Registered"
+          ],
+          [
+            "Alencon, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 440841781",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Pièces d'usinage",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Sous-ensembles mécaniques",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Outils de presse sur-mesure",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Pièces d'usinage",
+              "ADIAMIX fournit des pièces métalliques de découpe & emboutissage ainsi que des pièces d’usinage en moyennes et grandes séries pour les secte",
+              "grey"
+            ],
+            [
+              "Sous-ensembles mécaniques",
+              "ADIAMIX accompagne les industriels dans l’ assemblage de pièces métalliques et la fabrication de sous-ensembles mécaniques prêts à intégrer ",
+              "grey"
+            ],
+            [
+              "Outils de presse sur-mesure",
+              "Bureau d’études intégré pour concevoir et fabriquer vos outils de presse sur-mesure, assurant une maîtrise industrielle totale .",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ADIAMIX, SIREN 440841781",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=440841781"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Alencon",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ADIAMIX is a French company registered in 2002, with its seat in Alencon.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2002",
+            "Registered",
+            null
+          ],
+          [
+            "Alencon, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "SIREN 440841781",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · SIREN 440841781",
+            "url": "https://recherche-entreprises.api.gouv.fr/search?q=440841781"
+          }
+        ]
+      },
+      "card_hash": "611921d958ce5e35"
+    },
+    "aerix-systems": {
+      "developments": [],
+      "country": "FR",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "AERIX SYSTEMS is a French company registered in 2020, with its seat in Merignac.",
+        "overview": "AERIX SYSTEMS is a French company registered in 2020, with its seat in Merignac."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2020",
+            "Registered"
+          ],
+          [
+            "Merignac, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 889844510",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2020",
+            "Registered"
+          ],
+          [
+            "Merignac, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 889844510",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "AXS-S1",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "AXS-F1",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "AXS-FC",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Jetson carrier board",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "AXS-S1",
+              "AXS-S1 drone omnidirectionnel",
+              "grey"
+            ],
+            [
+              "AXS-F1",
+              "AXS-F1 drone multidirectionnel",
+              "grey"
+            ],
+            [
+              "AXS-FC",
+              "L’AXS-FC constitue le cœur de pilotage de la plateforme. Développée en interne par AERIX SYSTEMS, l’unité centralise les interfaces système,",
+              "grey"
+            ],
+            [
+              "Jetson carrier board",
+              "La Jetson Carrier Board permet l’intégration de capacités avancées de traitement embarqué directement à bord des plateformes AERIX SYSTEMS.",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity AERIX SYSTEMS, SIREN 889844510",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=889844510"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Merignac",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "AERIX SYSTEMS is a French company registered in 2020, with its seat in Merignac.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2020",
+            "Registered",
+            null
+          ],
+          [
+            "Merignac, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "SIREN 889844510",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · SIREN 889844510",
+            "url": "https://recherche-entreprises.api.gouv.fr/search?q=889844510"
+          }
+        ]
+      },
+      "card_hash": "e7e0d51a6dcec599"
+    },
+    "aubert-duval": {
+      "developments": [],
+      "country": "FR",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "AUBERT & DUVAL is a French company registered in 1991, with its seat in Issy-Les-Moulineaux.",
+        "overview": "AUBERT & DUVAL is a French company registered in 1991, with its seat in Issy-Les-Moulineaux."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1991",
+            "Registered"
+          ],
+          [
+            "Issy-Les-Moulineaux, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 380342808",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1991",
+            "Registered"
+          ],
+          [
+            "Issy-Les-Moulineaux, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 380342808",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity AUBERT & DUVAL, SIREN 380342808",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=380342808"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Issy-Les-Moulineaux",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "AUBERT & DUVAL is a French company registered in 1991, with its seat in Issy-Les-Moulineaux.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1991",
+            "Registered",
+            null
+          ],
+          [
+            "Issy-Les-Moulineaux, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "SIREN 380342808",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · SIREN 380342808",
+            "url": "https://recherche-entreprises.api.gouv.fr/search?q=380342808"
+          }
+        ]
+      },
+      "card_hash": "358e2da294ccdf73"
+    },
+    "aeronefs-services": {
+      "developments": [],
+      "country": "FR",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "AERONEFS SERVICES is a French company registered in 2016, with its seat in Saint-Jean-D'Illac.",
+        "overview": "AERONEFS SERVICES is a French company registered in 2016, with its seat in Saint-Jean-D'Illac."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2016",
+            "Registered"
+          ],
+          [
+            "Saint-Jean-D'Illac, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 823171798",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2016",
+            "Registered"
+          ],
+          [
+            "Saint-Jean-D'Illac, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 823171798",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "assistance technique en assemblage, modifications et réparations de sous-ensembles aéronautiques",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "drones",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "drone LR2M",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "pièces élémentaires et de sous-ensembles usinés",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "pièces et assemblages d’aérostructures métalliques et composites",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "système de drone longue élongation et multi-missions, le LR2M",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "assistance technique en assemblage, modifications et réparations de sous-ensembles aéronautiques",
+              "l'assistance technique en assemblage, modifications et réparations de sous-ensembles aéronautiques",
+              "grey"
+            ],
+            [
+              "drones",
+              "la conception, le développement et la fabrication de drones ainsi que les tests et essais pour obtenir la certification de vol.",
+              "grey"
+            ],
+            [
+              "drone LR2M",
+              "Le drone LR2M est un drone de type MAME (moyenne élongation moyenne altitude) de nouvelle génération facilement déployable.",
+              "grey"
+            ],
+            [
+              "pièces élémentaires et de sous-ensembles usinés",
+              "AERONEFS SERVICES s’appuie sur un parc machine composé de centres d’usinage numériques pour la réalisation de pièces élémentaires et de sous",
+              "grey"
+            ],
+            [
+              "pièces et assemblages d’aérostructures métalliques et composites",
+              "AERONEFS SERVICES intervient dans la conception, l’industrialisation, la fabrication et l’intégration de pièces et assemblages d’aérostructu",
+              "grey"
+            ],
+            [
+              "système de drone longue élongation et multi-missions, le LR2M",
+              "Nous sommes fiers d'avoir choisi de créer notre propre système de drone longue élongation et multi-missions, le LR2M (Long Range & Multi-Mis",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity AERONEFS SERVICES, SIREN 823171798",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=823171798"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Saint-Jean-D'Illac",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "AERONEFS SERVICES is a French company registered in 2016, with its seat in Saint-Jean-D'Illac.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2016",
+            "Registered",
+            null
+          ],
+          [
+            "Saint-Jean-D'Illac, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "SIREN 823171798",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · SIREN 823171798",
+            "url": "https://recherche-entreprises.api.gouv.fr/search?q=823171798"
+          }
+        ]
+      },
+      "card_hash": "7ac496aa8a4ed970"
+    },
+    "alsim-simulateurs": {
+      "developments": [],
+      "country": "FR",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "ALSIM SIMULATEURS is a French company registered in 1994, with its seat in Le Loroux-Bottereau.",
+        "overview": "ALSIM SIMULATEURS is a French company registered in 1994, with its seat in Le Loroux-Bottereau."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1994",
+            "Registered"
+          ],
+          [
+            "Le Loroux-Bottereau, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 398177881",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1994",
+            "Registered"
+          ],
+          [
+            "Le Loroux-Bottereau, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 398177881",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "al3X",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "al250",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "alx",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "the airliner",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "al172",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "al100i",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "al2006",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "APS MCC Workbook",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "al3X",
+              "al3X Light Sport Aircraft (LSA) Simulator Professional Training made accessible Powered by GARMIN™ G3X™ Touch",
+              "grey"
+            ],
+            [
+              "al250",
+              "al250 Your reconfigurable piston aircraft in one simulator PPL / CPL / IR/ME",
+              "grey"
+            ],
+            [
+              "alx",
+              "alx Train your ab-initio students from zero up to MCC PPL / CPL / IR/ME APS MCC / MCC / MPL",
+              "grey"
+            ],
+            [
+              "the airliner",
+              "the airliner The first hybrid fly-by-wire and conventional control simulator MCC / APS MCC / MPL",
+              "grey"
+            ],
+            [
+              "al172",
+              "al172 Specific Simulator Cessna 172SP Skyhawk NAVIII PPL / CPL / IR",
+              "grey"
+            ],
+            [
+              "al100i",
+              "al100i Specific Piper Pilot P100i PPL / CPL / IR",
+              "grey"
+            ],
+            [
+              "al2006",
+              "al2006 Specific Tecnam P2006T NG Flight Simulator PPL / CPL / IR",
+              "grey"
+            ],
+            [
+              "APS MCC Workbook",
+              "The APC practical training, through its plug-and-play APS MCC Workbook, goes beyond the standard APS MCC content.",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ALSIM SIMULATEURS, SIREN 398177881",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=398177881"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Le Loroux-Bottereau",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ALSIM SIMULATEURS is a French company registered in 1994, with its seat in Le Loroux-Bottereau.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1994",
+            "Registered",
+            null
+          ],
+          [
+            "Le Loroux-Bottereau, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "SIREN 398177881",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · SIREN 398177881",
+            "url": "https://recherche-entreprises.api.gouv.fr/search?q=398177881"
+          }
+        ]
+      },
+      "card_hash": "b13679eaba08e066"
+    },
+    "bronzavia-industrie": {
+      "developments": [],
+      "country": "FR",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "BRONZAVIA INDUSTRIE is a French company registered in 1990, with its seat in Sartrouville.",
+        "overview": "BRONZAVIA INDUSTRIE is a French company registered in 1990, with its seat in Sartrouville."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1990",
+            "Registered"
+          ],
+          [
+            "Sartrouville, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 353186455",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1990",
+            "Registered"
+          ],
+          [
+            "Sartrouville, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 353186455",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Pièces, équipements et ensembles chaudronnés",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Conduit d'échappement",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Cadre",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Cône de Booster",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Tuyauteries d'air conditionné",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Pièces, équipements et ensembles chaudronnés",
+              "Industrialisation et fabrication de vos pièces, équipements et ensembles chaudronnés, du prototype à la série « Best Cost* »",
+              "grey"
+            ],
+            [
+              "Conduit d'échappement",
+              "Conduit d’échappement (ATR 42/72)",
+              "grey"
+            ],
+            [
+              "Cadre",
+              "Cadre : Airbus Helicopters",
+              "grey"
+            ],
+            [
+              "Cône de Booster",
+              "Cône de Booster (Ariane V)",
+              "grey"
+            ],
+            [
+              "Tuyauteries d'air conditionné",
+              "Tuyauteries d’air conditionné Beluga XL",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity BRONZAVIA INDUSTRIE, SIREN 353186455",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=353186455"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Sartrouville",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "BRONZAVIA INDUSTRIE is a French company registered in 1990, with its seat in Sartrouville.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1990",
+            "Registered",
+            null
+          ],
+          [
+            "Sartrouville, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "SIREN 353186455",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · SIREN 353186455",
+            "url": "https://recherche-entreprises.api.gouv.fr/search?q=353186455"
+          }
+        ]
+      },
+      "card_hash": "35fb437f5fe7a782"
+    },
+    "cailabs": {
+      "developments": [],
+      "country": "FR",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "CAILABS is a French company registered in 2013, with its seat in Rennes.",
+        "overview": "CAILABS is a French company registered in 2013, with its seat in Rennes."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2013",
+            "Registered"
+          ],
+          [
+            "Rennes, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 793861493",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2013",
+            "Registered"
+          ],
+          [
+            "Rennes, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 793861493",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Optical Ground Stations",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Line‑of‑Sight Optical Terminals",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "OGS as a Service",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "TILBA®‑LOS optical terminal",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Optical Ground Stations",
+              "Optical Ground Stations",
+              "grey"
+            ],
+            [
+              "Line‑of‑Sight Optical Terminals",
+              "Line‑Of‑Sight Optical Terminals",
+              "grey"
+            ],
+            [
+              "OGS as a Service",
+              "OGS as a Service",
+              "grey"
+            ],
+            [
+              "TILBA®‑LOS optical terminal",
+              "TILBA®-LOS optical terminal",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity CAILABS, SIREN 793861493",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=793861493"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Rennes",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "CAILABS is a French company registered in 2013, with its seat in Rennes.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2013",
+            "Registered",
+            null
+          ],
+          [
+            "Rennes, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "SIREN 793861493",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · SIREN 793861493",
+            "url": "https://recherche-entreprises.api.gouv.fr/search?q=793861493"
+          }
+        ]
+      },
+      "card_hash": "cee831abf0d89320"
+    },
+    "catoire-semi": {
+      "developments": [],
+      "country": "FR",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "CATOIRE-SEMI is a French company registered in 1970, with its seat in Martizay.",
+        "overview": "CATOIRE-SEMI is a French company registered in 1970, with its seat in Martizay."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1970",
+            "Registered"
+          ],
+          [
+            "Martizay, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 817020274",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1970",
+            "Registered"
+          ],
+          [
+            "Martizay, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 817020274",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity CATOIRE-SEMI, SIREN 817020274",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=817020274"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Martizay",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "CATOIRE-SEMI is a French company registered in 1970, with its seat in Martizay.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1970",
+            "Registered",
+            null
+          ],
+          [
+            "Martizay, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "SIREN 817020274",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · SIREN 817020274",
+            "url": "https://recherche-entreprises.api.gouv.fr/search?q=817020274"
+          }
+        ]
+      },
+      "card_hash": "13dd5a9674ff20c6"
+    },
+    "hynaero": {
+      "developments": [],
+      "country": "FR",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "HYNAERO is a French company registered in 2023, with its seat in Istres.",
+        "overview": "HYNAERO is a French company registered in 2023, with its seat in Istres."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2023",
+            "Registered"
+          ],
+          [
+            "Istres, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 980145049",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2023",
+            "Registered"
+          ],
+          [
+            "Istres, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 980145049",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Fregate-F100 – Bombardier d’eau amphibie de nouvelle génération",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Maintenance prédictive intégrée (Digital Twin)",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Commandes de vol électriques",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Viseur tête haute",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Programme Fregate-F100",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Fregate-F100 – Bombardier d’eau amphibie de nouvelle génération",
+              "Fregate-F100 – Bombardier d’eau amphibie de nouvelle génération",
+              "grey"
+            ],
+            [
+              "Maintenance prédictive intégrée (Digital Twin)",
+              "Maintenance prédictive intégrée (Digital Twin)",
+              "grey"
+            ],
+            [
+              "Commandes de vol électriques",
+              "Commandes de vol électriques",
+              "grey"
+            ],
+            [
+              "Viseur tête haute",
+              "Viseur tête haute",
+              "grey"
+            ],
+            [
+              "Programme Fregate-F100",
+              "HYNAERO porte le programme Fregate-F100",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity HYNAERO, SIREN 980145049",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=980145049"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Istres",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "HYNAERO is a French company registered in 2023, with its seat in Istres.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2023",
+            "Registered",
+            null
+          ],
+          [
+            "Istres, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "SIREN 980145049",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · SIREN 980145049",
+            "url": "https://recherche-entreprises.api.gouv.fr/search?q=980145049"
+          }
+        ]
+      },
+      "card_hash": "222a08a330e43d4c"
     }
   }
 }
