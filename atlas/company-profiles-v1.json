@@ -96256,6 +96256,1762 @@
         ]
       },
       "card_hash": "a8db8ea1ae98349c"
+    },
+    "knds-deutschland-tracks-gmbh": {
+      "developments": [
+        {
+          "date": "06 Dec 2024",
+          "title": "MARTE — Main ARmoured Tank of Europe",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+        },
+        {
+          "date": "02 Jul 2024",
+          "title": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/390973-2024"
+        },
+        {
+          "date": "19 Apr 2024",
+          "title": "Contract award by Ministerie van Defensie",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/234990-2024"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "KNDS Deutschland Tracks GmbH is a German company registered in 2014, with its seat in Remscheid. It takes part in 1 European Defence Fund project (2024). Of these, 1 ongoing, EU funding to the company €53K. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung (02 Jul 2024). EU procurement records (TED) list a contract award by Ministerie van Defensie (19 Apr 2024).",
+        "overview": "KNDS Deutschland Tracks GmbH is a German company registered in 2014, with its seat in Remscheid. It takes part in 1 European Defence Fund project (2024). Of these, 1 ongoing, EU funding to the company €53K. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung (02 Jul 2024). EU procurement records (TED) list a contract award by Ministerie van Defensie (19 Apr 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2014",
+            "Registered"
+          ],
+          [
+            "Remscheid, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900QGO8YTHMOEK465",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2014",
+            "Registered"
+          ],
+          [
+            "Remscheid, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900QGO8YTHMOEK465",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "MARTE — Main ARmoured Tank of Europe",
+            "sub": "Participant · EU funding €53K of €20.0M · 51 partners · 2024–2026",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "06 Dec 2024",
+            "desc": "EDF EDF-2023-DA-GROUND-MBT",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "sub": "TED notice 390973-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "02 Jul 2024",
+            "desc": "TED notice 390973-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Ministerie van Defensie",
+            "sub": "TED notice 234990-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "19 Apr 2024",
+            "desc": "TED notice 234990-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "MARTE — Main ARmoured Tank of Europe",
+            "sub": "Participant · EU funding €53K of €20.0M · 51 partners · 2024–2026",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "06 Dec 2024",
+            "desc": "EDF EDF-2023-DA-GROUND-MBT",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "sub": "TED notice 390973-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "02 Jul 2024",
+            "desc": "TED notice 390973-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · Ministerie van Defensie",
+            "sub": "TED notice 234990-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "19 Apr 2024",
+            "desc": "TED notice 234990-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "role": "Customer · TED award",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Ministerie van Defensie",
+            "role": "Customer · TED award",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          },
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "role": "Customer · TED award",
+            "x": 0.72,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          },
+          {
+            "name": "Ministerie van Defensie",
+            "role": "Customer · TED award",
+            "x": 0.1,
+            "y": 0.45,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity KNDS Deutschland Tracks GmbH, LEI 529900QGO8YTHMOEK465",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900QGO8YTHMOEK465"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167893",
+          "sources": 1,
+          "date": "06 Dec 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+        },
+        {
+          "claim": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung (TED 390973-2024)",
+          "sources": 1,
+          "date": "02 Jul 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/390973-2024"
+        },
+        {
+          "claim": "Contract award by Ministerie van Defensie (TED 234990-2024)",
+          "sources": 1,
+          "date": "19 Apr 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/234990-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Remscheid",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "KNDS Deutschland Tracks GmbH is a German company registered in 2014, with its seat in Remscheid. It takes part in 1 European Defence Fund project (2024). Of these, 1 ongoing, EU funding to the company €53K. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung (02 Jul 2024). EU procurement records (TED) list a contract award by Ministerie van Defensie (19 Apr 2024).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "€53K",
+            "label": "EU defence funding to the company",
+            "src": [
+              2
+            ]
+          },
+          {
+            "value": "1",
+            "label": "European Defence Fund projects",
+            "src": [
+              2
+            ]
+          },
+          {
+            "value": "1",
+            "label": "ongoing now",
+            "src": [
+              2
+            ]
+          },
+          {
+            "value": "49",
+            "label": "organisations it shares EDF projects with",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "2014",
+            "Registered",
+            null
+          ],
+          [
+            "Remscheid, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900QGO8YTHMOEK465",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "MARTE — Main ARmoured Tank of Europe",
+            "sub": "Participant · EU funding €53K of €20.0M · 51 partners · 2024–2026",
+            "status": "Grant · Ongoing",
+            "date": "06 Dec 2024",
+            "iso": "2024-12-06",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "Contract award · Ministerie van Defensie",
+            "sub": "TED notice 234990-2024",
+            "status": "Contract award",
+            "date": "19 Apr 2024",
+            "iso": "2024-04-19",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung",
+            "sub": "TED notice 390973-2024",
+            "status": "Contract award",
+            "date": "02 Jul 2024",
+            "iso": "2024-07-02",
+            "ongoing": false,
+            "src": 3
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant · €53K",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "group",
+            "name": "Knds Deutschland Gmbh & Co Kg",
+            "country": "DE",
+            "src": [
+              2
+            ],
+            "sub": "Group entity · in MARTE",
+            "status": "verified"
+          },
+          {
+            "type": "partner",
+            "name": "AISENT SRL",
+            "country": "IT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "BAE SYSTEMS BOFORS AB",
+            "country": "SE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "research",
+            "name": "BALTIJOS PAZANGIU TECHNOLOGIJU INSTITUTAS",
+            "country": "LT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "CAFA TECH OU",
+            "country": "EE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "CENTRO DE EXCELENCIA PID RD SA",
+            "country": "ES",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "CIVITANAVI SYSTEMS SPA",
+            "country": "IT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "CLAVISTER SECURITY AB",
+            "country": "SE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "E.S.T.E. SRL",
+            "country": "IT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900QGO8YTHMOEK465",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900QGO8YTHMOEK465"
+          },
+          {
+            "title": "EU Funding & Tenders portal · MARTE",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+          },
+          {
+            "title": "TED notice 390973-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/390973-2024"
+          },
+          {
+            "title": "TED notice 234990-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/234990-2024"
+          }
+        ]
+      },
+      "card_hash": "5a64e65b284adc25"
+    },
+    "tkms-hagenuk-marinekommunikation-gmbh": {
+      "developments": [
+        {
+          "date": "28 Nov 2025",
+          "title": "NEREUS — Naval systEm of systems and integRatEd sUrvivability of future EU platformS",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224749/EDF"
+        },
+        {
+          "date": "13 Nov 2025",
+          "title": "ePERFECT — European High-Performance Processor for RF Defense Applications",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224231/EDF"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "TKMS Hagenuk Marinekommunikation GmbH is a German company registered in 1971, with its seat in Flintbek. It takes part in 2 European Defence Fund projects (2025). Of these, 2 ongoing, EU funding to the company €3.5M.",
+        "overview": "TKMS Hagenuk Marinekommunikation GmbH is a German company registered in 1971, with its seat in Flintbek. It takes part in 2 European Defence Fund projects (2025). Of these, 2 ongoing, EU funding to the company €3.5M."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1971",
+            "Registered"
+          ],
+          [
+            "Flintbek, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300V76HRJHHOS2U86",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1971",
+            "Registered"
+          ],
+          [
+            "Flintbek, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300V76HRJHHOS2U86",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "ePERFECT — European High-Performance Processor for RF Defense Applications",
+            "sub": "Participant · EU funding €2.3M of €22.4M · 15 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "13 Nov 2025",
+            "desc": "EDF EDF-2024-RA-SI-MATCOMP-EC-STEP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224231/EDF"
+          },
+          {
+            "title": "NEREUS — Naval systEm of systems and integRatEd sUrvivability of future EU platformS",
+            "sub": "Partner · EU funding €1.1M of €45.0M · 36 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "28 Nov 2025",
+            "desc": "EDF EDF-2024-DA-NAVAL-FNP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224749/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "ePERFECT — European High-Performance Processor for RF Defense Applications",
+            "sub": "Participant · EU funding €2.3M of €22.4M · 15 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "13 Nov 2025",
+            "desc": "EDF EDF-2024-RA-SI-MATCOMP-EC-STEP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224231/EDF"
+          },
+          {
+            "title": "NEREUS — Naval systEm of systems and integRatEd sUrvivability of future EU platformS",
+            "sub": "Partner · EU funding €1.1M of €45.0M · 36 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "28 Nov 2025",
+            "desc": "EDF EDF-2024-DA-NAVAL-FNP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224749/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity TKMS Hagenuk Marinekommunikation GmbH, LEI 549300V76HRJHHOS2U86",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/549300V76HRJHHOS2U86"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224749",
+          "sources": 1,
+          "date": "28 Nov 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224749/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224231",
+          "sources": 1,
+          "date": "13 Nov 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224231/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Flintbek",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "TKMS Hagenuk Marinekommunikation GmbH is a German company registered in 1971, with its seat in Flintbek. It takes part in 2 European Defence Fund projects (2025). Of these, 2 ongoing, EU funding to the company €3.5M.",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "€3.5M",
+            "label": "EU defence funding to the company",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "2",
+            "label": "European Defence Fund projects",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "2",
+            "label": "ongoing now",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "46",
+            "label": "organisations it shares EDF projects with",
+            "src": [
+              2,
+              3
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "1971",
+            "Registered",
+            null
+          ],
+          [
+            "Flintbek, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 549300V76HRJHHOS2U86",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "ePERFECT — European High-Performance Processor for RF Defense Applications",
+            "sub": "Participant · EU funding €2.3M of €22.4M · 15 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "date": "13 Nov 2025",
+            "iso": "2025-11-13",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "NEREUS — Naval systEm of systems and integRatEd sUrvivability of future EU platformS",
+            "sub": "Partner · EU funding €1.1M of €45.0M · 36 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "date": "28 Nov 2025",
+            "iso": "2025-11-28",
+            "ongoing": true,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "2 grants · €3.5M",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "group",
+            "name": "Tkms Gmbh",
+            "country": "DE",
+            "src": [
+              2
+            ],
+            "sub": "Group entity · in NEREUS",
+            "status": "verified"
+          },
+          {
+            "type": "partner",
+            "name": "ISD LYSEIS OLOKRIROMENON SYSTIMATONANONYMOS ETAIREIA",
+            "country": "EL",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "LEONARDO - SOCIETA PER AZIONI",
+            "country": "IT",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ASYGN",
+            "country": "FR",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "research",
+            "name": "BALTIJOS PAZANGIU TECHNOLOGIJU INSTITUTAS",
+            "country": "LT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "BLUE INSIGHT TECHNOLOGIES UNIPESSOAL LDA",
+            "country": "PT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "CAFA TECH OU",
+            "country": "EE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "CETENA SPA CENTRO PER GLI STUDI DI TECNICA NAVALE",
+            "country": "IT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "CY.R.I.C CYPRUS RESEARCH AND INNOVATION CENTER LTD",
+            "country": "CY",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 549300V76HRJHHOS2U86",
+            "url": "https://api.gleif.org/api/v1/lei-records/549300V76HRJHHOS2U86"
+          },
+          {
+            "title": "EU Funding & Tenders portal · NEREUS",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224749/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · ePERFECT",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224231/EDF"
+          }
+        ]
+      },
+      "card_hash": "93580eb6b6baa7f7"
+    },
+    "telefonica-moviles-espana-sa": {
+      "developments": [
+        {
+          "date": "19 Nov 2025",
+          "title": "CITADEL Range — Cyber Infrastructure for Training in Advanced Defence Exercises and Learning",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224382/EDF"
+        },
+        {
+          "date": "08 Dec 2022",
+          "title": "ACTING — Advanced European platform and network of Cybersecurity training and exercises centres",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103208/EDF"
+        }
+      ],
+      "country": "ES",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "TELEFONICA MOVILES ESPAÑA SA is a Spanish company, with its seat in Madrid. It takes part in 2 European Defence Fund projects (2022–2025). Of these, 2 ongoing, EU funding to the company €597K.",
+        "overview": "TELEFONICA MOVILES ESPAÑA SA is a Spanish company, with its seat in Madrid. It takes part in 2 European Defence Fund projects (2022–2025). Of these, 2 ongoing, EU funding to the company €597K."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Madrid, Spain",
+            "Headquarters"
+          ],
+          [
+            "LEI 5493007W2C0KXR7EHE04",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Madrid, Spain",
+            "Headquarters"
+          ],
+          [
+            "LEI 5493007W2C0KXR7EHE04",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "ACTING — Advanced European platform and network of Cybersecurity training and exercises centres",
+            "sub": "Participant · EU funding €597K of €16.3M · 30 partners · 2022–2026",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "08 Dec 2022",
+            "desc": "EDF EDF-2021-CYBER-D-IECTE-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103208/EDF"
+          },
+          {
+            "title": "CITADEL Range — Cyber Infrastructure for Training in Advanced Defence Exercises and Learning",
+            "sub": "Participant · project €48.0M · 40 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "19 Nov 2025",
+            "desc": "EDF EDF-2024-DA-CYBER-NGCR-STEP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224382/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "ACTING — Advanced European platform and network of Cybersecurity training and exercises centres",
+            "sub": "Participant · EU funding €597K of €16.3M · 30 partners · 2022–2026",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "08 Dec 2022",
+            "desc": "EDF EDF-2021-CYBER-D-IECTE-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103208/EDF"
+          },
+          {
+            "title": "CITADEL Range — Cyber Infrastructure for Training in Advanced Defence Exercises and Learning",
+            "sub": "Participant · project €48.0M · 40 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "19 Nov 2025",
+            "desc": "EDF EDF-2024-DA-CYBER-NGCR-STEP",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224382/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity TELEFONICA MOVILES ESPAÑA SA, LEI 5493007W2C0KXR7EHE04",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/5493007W2C0KXR7EHE04"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224382",
+          "sources": 1,
+          "date": "19 Nov 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224382/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103208",
+          "sources": 1,
+          "date": "08 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103208/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Madrid",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "TELEFONICA MOVILES ESPAÑA SA is a Spanish company, with its seat in Madrid. It takes part in 2 European Defence Fund projects (2022–2025). Of these, 2 ongoing, EU funding to the company €597K.",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "€597K",
+            "label": "EU defence funding to the company",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "2",
+            "label": "European Defence Fund projects",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "2",
+            "label": "ongoing now",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "56",
+            "label": "organisations it shares EDF projects with",
+            "src": [
+              2,
+              3
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Madrid, Spain",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 5493007W2C0KXR7EHE04",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "ACTING — Advanced European platform and network of Cybersecurity training and exercises centres",
+            "sub": "Participant · EU funding €597K of €16.3M · 30 partners · 2022–2026",
+            "status": "Grant · Ongoing",
+            "date": "08 Dec 2022",
+            "iso": "2022-12-08",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "CITADEL Range — Cyber Infrastructure for Training in Advanced Defence Exercises and Learning",
+            "sub": "Participant · project €48.0M · 40 partners · 2025–2029",
+            "status": "Grant · Ongoing",
+            "date": "19 Nov 2025",
+            "iso": "2025-11-19",
+            "ongoing": true,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "2 grants · €597K",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "research",
+            "name": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
+            "country": "EL",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "research",
+            "name": "FONDATSIYA EVROPREYSKI SOFTUEREN INSTITUT",
+            "country": "BG",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "GMVIS SKYSOFT SA",
+            "country": "PT",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "NAVAL GROUP BELGIUM",
+            "country": "BE",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "research",
+            "name": "PATRIMOINE DE L'ECOLE ROYALE MILITAIRE - VERMOGEN VAN DE KONINKLIJKE MILITAIRE SCHOOL",
+            "country": "BE",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "SPACE HELLAS ANONYMI ETAIREIA SYSTIMATA KAI YPIRESIES TILEPIKOINONIONPLIROFORIKIS ASFALEIAS - IDIOTIKI EPICHEIRISI PAROCHIS YPERISION ASFA",
+            "country": "EL",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "STAM SRL",
+            "country": "IT",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "STARION NEDERLAND BV",
+            "country": "NL",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 5493007W2C0KXR7EHE04",
+            "url": "https://api.gleif.org/api/v1/lei-records/5493007W2C0KXR7EHE04"
+          },
+          {
+            "title": "EU Funding & Tenders portal · CITADEL Range",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224382/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · ACTING",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103208/EDF"
+          }
+        ]
+      },
+      "card_hash": "d03fc0480f2d126f"
+    },
+    "alpha-consultants-s-r-l": {
+      "developments": [
+        {
+          "date": "26 Oct 2026",
+          "title": "TALON — Tactical Affordable Loitering Ordnance and Nodes",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304941/EDF"
+        },
+        {
+          "date": "31 Mar 2025",
+          "title": "DAEDALUS — Design of Airborne Efficient and Disruptive Advanced front-end for Long range Unlimited Secure systems",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168087/EDF"
+        }
+      ],
+      "country": "IT",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "ALPHA CONSULTANTS S.R.L. is a Italian company registered in 2009, with its seat in Milano. It takes part in 2 European Defence Fund projects (2025–2026). Of these, 1 ongoing, EU funding to the company €967K.",
+        "overview": "ALPHA CONSULTANTS S.R.L. is a Italian company registered in 2009, with its seat in Milano. It takes part in 2 European Defence Fund projects (2025–2026). Of these, 1 ongoing, EU funding to the company €967K."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2009",
+            "Registered"
+          ],
+          [
+            "Milano, Italy",
+            "Headquarters"
+          ],
+          [
+            "LEI 815600BD8A26708D9672",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2009",
+            "Registered"
+          ],
+          [
+            "Milano, Italy",
+            "Headquarters"
+          ],
+          [
+            "LEI 815600BD8A26708D9672",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "DAEDALUS — Design of Airborne Efficient and Disruptive Advanced front-end for Long range Unlimited Secure systems",
+            "sub": "Participant · EU funding €262K of €3.1M · 5 partners · 2025–2027",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "31 Mar 2025",
+            "desc": "EDF EDF-2023-LS-RA-SMERO-NT",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168087/EDF"
+          },
+          {
+            "title": "TALON — Tactical Affordable Loitering Ordnance and Nodes",
+            "sub": "Participant · EU funding €705K of €9.8M · 12 partners · 2026–2028",
+            "status": "Grant · Forthcoming",
+            "icon": "coins",
+            "date": "26 Oct 2026",
+            "desc": "EDF EDF-2025-DA-SI-GROUND-DAMM",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304941/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "DAEDALUS — Design of Airborne Efficient and Disruptive Advanced front-end for Long range Unlimited Secure systems",
+            "sub": "Participant · EU funding €262K of €3.1M · 5 partners · 2025–2027",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "31 Mar 2025",
+            "desc": "EDF EDF-2023-LS-RA-SMERO-NT",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168087/EDF"
+          },
+          {
+            "title": "TALON — Tactical Affordable Loitering Ordnance and Nodes",
+            "sub": "Participant · EU funding €705K of €9.8M · 12 partners · 2026–2028",
+            "status": "Grant · Forthcoming",
+            "icon": "coins",
+            "date": "26 Oct 2026",
+            "desc": "EDF EDF-2025-DA-SI-GROUND-DAMM",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304941/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ALPHA CONSULTANTS S.R.L., LEI 815600BD8A26708D9672",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/815600BD8A26708D9672"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101304941",
+          "sources": 1,
+          "date": "26 Oct 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304941/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101168087",
+          "sources": 1,
+          "date": "31 Mar 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168087/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Milano",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ALPHA CONSULTANTS S.R.L. is a Italian company registered in 2009, with its seat in Milano. It takes part in 2 European Defence Fund projects (2025–2026). Of these, 1 ongoing, EU funding to the company €967K.",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "€967K",
+            "label": "EU defence funding to the company",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "2",
+            "label": "European Defence Fund projects",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "1",
+            "label": "ongoing now",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "14",
+            "label": "organisations it shares EDF projects with",
+            "src": [
+              2,
+              3
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "2009",
+            "Registered",
+            null
+          ],
+          [
+            "Milano, Italy",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 815600BD8A26708D9672",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "DAEDALUS — Design of Airborne Efficient and Disruptive Advanced front-end for Long range Unlimited Secure systems",
+            "sub": "Participant · EU funding €262K of €3.1M · 5 partners · 2025–2027",
+            "status": "Grant · Ongoing",
+            "date": "31 Mar 2025",
+            "iso": "2025-03-31",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "TALON — Tactical Affordable Loitering Ordnance and Nodes",
+            "sub": "Participant · EU funding €705K of €9.8M · 12 partners · 2026–2028",
+            "status": "Grant · Forthcoming",
+            "date": "26 Oct 2026",
+            "iso": "2026-10-26",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "2 grants · €967K",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "INTEGRASYS SARL",
+            "country": "LU",
+            "sub": "2 joint EDF projects",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ACORDE TECHNOLOGIES SA",
+            "country": "ES",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "CELLOCK LTD",
+            "country": "CY",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ENGINEERING - INGEGNERIA INFORMATICA SPA",
+            "country": "IT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "HELLENIC AEROSPACE INDUSTRY SOCIETE ANONYME",
+            "country": "EL",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "MB Ai Drone",
+            "country": "LT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "MINRES TECHNOLOGIES GMBH",
+            "country": "DE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "Rebel Alliance S.r.l.",
+            "country": "IT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 815600BD8A26708D9672",
+            "url": "https://api.gleif.org/api/v1/lei-records/815600BD8A26708D9672"
+          },
+          {
+            "title": "EU Funding & Tenders portal · TALON",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304941/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · DAEDALUS",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168087/EDF"
+          }
+        ]
+      },
+      "card_hash": "b136ebb506ec4703"
+    },
+    "swarmbotics-ai": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "SWARMBOTICS AI, INC. is a US company, with its seat in Phoenix. US federal spending records show US$2.0M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 1 contracts; the largest customer is the Department of the Army.",
+        "overview": "SWARMBOTICS AI, INC. is a US company, with its seat in Phoenix. US federal spending records show US$2.0M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 1 contracts; the largest customer is the Department of the Army."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Phoenix, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI FX2TN3JT5RD1",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Phoenix, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI FX2TN3JT5RD1",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity SWARMBOTICS AI, INC., UEI FX2TN3JT5RD1",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/b405737d-86e7-b3e8-cf2d-557efda65ec3-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/b405737d-86e7-b3e8-cf2d-557efda65ec3-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Phoenix",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "SWARMBOTICS AI, INC. is a US company, with its seat in Phoenix. US federal spending records show US$2.0M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 1 contracts; the largest customer is the Department of the Army.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$2.0M",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all Department of the Army",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "1",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Phoenix, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI FX2TN3JT5RD1",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Small business innovation RESEARCH, direct to phase II topic A254-P030, xtechoverwatch OPEN topic",
+            "sub": "Department of the Army · US$2.0M · 2026–2027",
+            "status": "Contract",
+            "date": "19 Jan 2026",
+            "iso": "2026-01-19",
+            "ongoing": true,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$4.0M · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI FX2TN3JT5RD1",
+            "url": "https://www.usaspending.gov/recipient/b405737d-86e7-b3e8-cf2d-557efda65ec3-C/latest"
+          },
+          {
+            "title": "USAspending.gov · W5170126CA026",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W5170126CA026_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "59579f59808bdc61"
     }
   }
 }
