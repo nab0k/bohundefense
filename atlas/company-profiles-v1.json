@@ -83138,6 +83138,876 @@
         ]
       },
       "card_hash": "a059704f3285c5d9"
+    },
+    "epoch-concepts-llc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "EPOCH CONCEPTS LLC is a US company, with its seat in Littleton. US federal spending records show US$11.5M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 13 contracts; the largest customer is the Department of the Navy.",
+        "overview": "EPOCH CONCEPTS LLC is a US company, with its seat in Littleton. US federal spending records show US$11.5M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 13 contracts; the largest customer is the Department of the Navy."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Littleton, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI LQ48B9A9QJC8",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Littleton, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI LQ48B9A9QJC8",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity EPOCH CONCEPTS LLC, UEI LQ48B9A9QJC8",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/6ccfb9d5-dd4f-190c-ed55-a4be3fbef4e3-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/6ccfb9d5-dd4f-190c-ed55-a4be3fbef4e3-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Littleton",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "EPOCH CONCEPTS LLC is a US company, with its seat in Littleton. US federal spending records show US$11.5M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 13 contracts; the largest customer is the Department of the Navy.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$11.5M",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "13",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$9.8M",
+            "label": "largest customer: Department of the Navy",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Littleton, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI LQ48B9A9QJC8",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "DELL servers",
+            "sub": "Department of the Navy · US$5.5M · 2026",
+            "status": "Contract",
+            "date": "10 Jul 2026",
+            "iso": "2026-07-10",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "Federal enterprise resource UNIT - 64 GB - US based support ONLY. 1 year subscription",
+            "sub": "Department of the Navy · US$4.2M · 2026",
+            "status": "Contract",
+            "date": "26 May 2026",
+            "iso": "2026-05-26",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "PURE storage network in accordance with the attached parts LIST. brand NAME or EQUAL. QTY: 1 lot",
+            "sub": "Department of the Air Force · US$613K · 2026",
+            "status": "Contract",
+            "date": "03 Mar 2026",
+            "iso": "2026-03-03",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Server ROOM infrastructure LIFECYCLE.",
+            "sub": "Department of the Army · US$523K · 2026–2027",
+            "status": "Contract",
+            "date": "24 Jun 2026",
+            "iso": "2026-06-24",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "NASA SEWP BOM 11085 - (ELASTIC RENEWALS)",
+            "sub": "Missile Defense Agency · US$189K · 2026",
+            "status": "Contract",
+            "date": "03 Apr 2026",
+            "iso": "2026-04-03",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "DELL poweredge server",
+            "sub": "Department of the Air Force · US$152K · 2026",
+            "status": "Contract",
+            "date": "30 Jun 2026",
+            "iso": "2026-06-30",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Requirement is for the procurement of elastic brand computer LOG server software required to satisfy the DOD security an",
+            "sub": "Department of the Navy · US$108K · 2026–2027",
+            "status": "Contract",
+            "date": "10 Jul 2026",
+            "iso": "2026-07-10",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "Elastic federal software",
+            "sub": "Department of the Navy · US$91K · 2026",
+            "status": "Contract",
+            "date": "27 May 2026",
+            "iso": "2026-05-27",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$19.7M · 4 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$1.6M · 2 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              4,
+              7
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$1.0M · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              5
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Missile Defense Agency",
+            "sub": "Customer · US$404K · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              6
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI LQ48B9A9QJC8",
+            "url": "https://www.usaspending.gov/recipient/6ccfb9d5-dd4f-190c-ed55-a4be3fbef4e3-C/latest"
+          },
+          {
+            "title": "USAspending.gov · N0017826FS844",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0017826FS844_9700_NNG15SD30B_8000"
+          },
+          {
+            "title": "USAspending.gov · N6600126F8842",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N6600126F8842_9700_NNG15SD30B_8000"
+          },
+          {
+            "title": "USAspending.gov · FA441726F0022",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA441726F0022_9700_NNG15SD30B_8000"
+          },
+          {
+            "title": "USAspending.gov · W91RUS26FA090",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W91RUS26FA090_9700_W519TC25DA048_9700"
+          },
+          {
+            "title": "USAspending.gov · HQ085426FE040",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_HQ085426FE040_9700_NNG15SD30B_8000"
+          },
+          {
+            "title": "USAspending.gov · FA282326FE115",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA282326FE115_9700_NNG15SD30B_8000"
+          },
+          {
+            "title": "USAspending.gov · N0060426F4005",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0060426F4005_9700_NNG15SD30B_8000"
+          },
+          {
+            "title": "USAspending.gov · N6600126F8957",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N6600126F8957_9700_NNG15SD30B_8000"
+          }
+        ]
+      },
+      "card_hash": "637171cfc832252e"
+    },
+    "micro-systems-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "MICRO SYSTEMS, INC is a US company, with its seat in Fort Walton Beach. US federal spending records show US$7.8M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 17 contracts; the largest customer is the Department of the Army.",
+        "overview": "MICRO SYSTEMS, INC is a US company, with its seat in Fort Walton Beach. US federal spending records show US$7.8M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 17 contracts; the largest customer is the Department of the Army."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Fort Walton Beach, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI L2HKXLBRTL16",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Fort Walton Beach, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI L2HKXLBRTL16",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity MICRO SYSTEMS, INC, UEI L2HKXLBRTL16",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/0878ee32-4a7b-c86c-a94a-f7553e18f35e-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/0878ee32-4a7b-c86c-a94a-f7553e18f35e-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Fort Walton Beach",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "MICRO SYSTEMS, INC is a US company, with its seat in Fort Walton Beach. US federal spending records show US$7.8M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 17 contracts; the largest customer is the Department of the Army.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$7.8M",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "17",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$4.0M",
+            "label": "largest customer: Department of the Army",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Fort Walton Beach, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI L2HKXLBRTL16",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Scoring system suite first article units and modified TEST units",
+            "sub": "Department of the Navy · US$6.5M · 2023–2026",
+            "status": "Contract",
+            "date": "21 Nov 2023",
+            "iso": "2023-11-21",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "Aerial targets target control system datalink modernization to resolve system obsolesence issues impacting the COMMAND-A",
+            "sub": "Department of the Army · US$6.1M · 2025–2026",
+            "status": "Contract",
+            "date": "01 May 2025",
+            "iso": "2025-05-01",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "SSS production order for procurement of L-BAND, S-BANDS, DLP, and ground STATIONS.",
+            "sub": "Department of the Navy · US$3.3M · 2025–2026",
+            "status": "Contract",
+            "date": "25 Mar 2025",
+            "iso": "2025-03-25",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "SNTC-MSI PRODUCTION, spares",
+            "sub": "Department of the Navy · US$2.8M · 2026–2027",
+            "status": "Contract",
+            "date": "16 Apr 2026",
+            "iso": "2026-04-16",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "The ARMY ground aerial target control system (AGATCS) ground RAM obsolescence and training project is to resolve system ",
+            "sub": "Department of the Army · US$2.4M · 2025–2026",
+            "status": "Contract",
+            "date": "19 Aug 2025",
+            "iso": "2025-08-19",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "ARMY ground aerial target control system (AGATCS) SUPPORT, development and production (SDP) fiscal year 2025 support",
+            "sub": "Department of the Army · US$2.2M · 2025–2027",
+            "status": "Contract",
+            "date": "01 May 2025",
+            "iso": "2025-05-01",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "Agatcs - NAVY hybrid KIT integration for statement of WORK (SOW) SEE section J",
+            "sub": "Department of the Army · US$2.0M · 2026–2027",
+            "status": "Contract",
+            "date": "30 Jun 2026",
+            "iso": "2026-06-30",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "ARMY ground target control system (AGACTS) TASK order award",
+            "sub": "Department of the Army · US$1.6M · 2026–2027",
+            "status": "Contract",
+            "date": "07 May 2026",
+            "iso": "2026-05-07",
+            "ongoing": true,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$18.3M · 5 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              3,
+              6
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$16.3M · 3 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              4
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$50K",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Missile Defense Agency",
+            "sub": "Customer · US$0K",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI L2HKXLBRTL16",
+            "url": "https://www.usaspending.gov/recipient/0878ee32-4a7b-c86c-a94a-f7553e18f35e-C/latest"
+          },
+          {
+            "title": "USAspending.gov · N0001924F0038",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001924F0038_9700_N0001924D0006_9700"
+          },
+          {
+            "title": "USAspending.gov · W900KK25FA024",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK25FA024_9700_W900KK21D0001_9700"
+          },
+          {
+            "title": "USAspending.gov · N0001925F2037",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001925F2037_9700_N0001924D0006_9700"
+          },
+          {
+            "title": "USAspending.gov · N0001926F0276",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001926F0276_9700_N0001924D0004_9700"
+          },
+          {
+            "title": "USAspending.gov · W900KK25FA091",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK25FA091_9700_W900KK21D0001_9700"
+          },
+          {
+            "title": "USAspending.gov · W900KK25FA068",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK25FA068_9700_W900KK21D0001_9700"
+          },
+          {
+            "title": "USAspending.gov · W900KK26FA111",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK26FA111_9700_W900KK21D0001_9700"
+          },
+          {
+            "title": "USAspending.gov · W900KK26FA073",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK26FA073_9700_W900KK21D0001_9700"
+          }
+        ]
+      },
+      "card_hash": "7ba7f7d33c68b04f"
+    },
+    "mpc-products-corporation": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "MPC PRODUCTS CORPORATION is a US company, with its seat in Niles. US federal spending records show US$11.2M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 17 contracts; the largest customer is the Department of the Navy.",
+        "overview": "MPC PRODUCTS CORPORATION is a US company, with its seat in Niles. US federal spending records show US$11.2M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 17 contracts; the largest customer is the Department of the Navy."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Niles, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI N77BPJK25ZM4",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Niles, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI N77BPJK25ZM4",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity MPC PRODUCTS CORPORATION, UEI N77BPJK25ZM4",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/3bfc9fc8-ab22-f5c0-bf0e-391477131b41-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/3bfc9fc8-ab22-f5c0-bf0e-391477131b41-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Niles",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "MPC PRODUCTS CORPORATION is a US company, with its seat in Niles. US federal spending records show US$11.2M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 17 contracts; the largest customer is the Department of the Navy.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$11.2M",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "17",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$7.6M",
+            "label": "largest customer: Department of the Navy",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Niles, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI N77BPJK25ZM4",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Control ASSEMBLY,QU",
+            "sub": "Department of the Navy · US$8.2M · 2025–2027",
+            "status": "Contract",
+            "date": "07 Nov 2025",
+            "iso": "2025-11-07",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "Control ASSEMBLY,QU",
+            "sub": "Department of the Navy · US$3.8M · 2023–2026",
+            "status": "Contract",
+            "date": "09 Jan 2023",
+            "iso": "2023-01-09",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "NSN: 1420-01-244-5048 PART NUMBER: 11442185 NOUN: ACTUATOR,ELECTROMEC",
+            "sub": "Defense Logistics Agency · US$1.1M · 2025–2028",
+            "status": "Contract",
+            "date": "29 Oct 2025",
+            "iso": "2025-10-29",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "Contract SPE7M126P3198",
+            "sub": "Defense Logistics Agency · US$468K · 2026–2027",
+            "status": "Contract",
+            "date": "21 Jan 2026",
+            "iso": "2026-01-21",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "Contract SPE7M126P0477",
+            "sub": "Defense Logistics Agency · US$250K · 2025–2026",
+            "status": "Contract",
+            "date": "09 Oct 2025",
+            "iso": "2025-10-09",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "ACTUATOR,ELECTROMEC",
+            "sub": "Defense Logistics Agency · US$204K · 2025–2026",
+            "status": "Contract",
+            "date": "28 Aug 2025",
+            "iso": "2025-08-28",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Contract SPE7M526P2865",
+            "sub": "Defense Logistics Agency · US$148K · 2026–2027",
+            "status": "Contract",
+            "date": "23 Apr 2026",
+            "iso": "2026-04-23",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "Overhaul of ELECTRO-MECHANICAL actuator",
+            "sub": "Department of the Air Force · US$124K · 2026–2027",
+            "status": "Contract",
+            "date": "29 May 2026",
+            "iso": "2026-05-29",
+            "ongoing": true,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$19.6M · 2 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$5.6M · 5 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              4,
+              5
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$249K · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              9
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI N77BPJK25ZM4",
+            "url": "https://www.usaspending.gov/recipient/3bfc9fc8-ab22-f5c0-bf0e-391477131b41-C/latest"
+          },
+          {
+            "title": "USAspending.gov · N0038326FAA00",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0038326FAA00_9700_N0038325GAA01_9700"
+          },
+          {
+            "title": "USAspending.gov · N0038323FW600",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0038323FW600_9700_N0038320GW601_9700"
+          },
+          {
+            "title": "USAspending.gov · SPRRA226C0001",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRRA226C0001_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M126P3198",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M126P3198_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M126P0477",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M126P0477_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPRPA125PEK43",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRPA125PEK43_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M526P2865",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M526P2865_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · FA811826F0132",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA811826F0132_9700_FA811822D0005_9700"
+          }
+        ]
+      },
+      "card_hash": "0b7a9350659559f7"
     }
   }
 }
