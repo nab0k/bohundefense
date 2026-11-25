@@ -127566,6 +127566,849 @@
         ]
       },
       "card_hash": "dc9ccc3f4de7e1bc"
+    },
+    "lithoz-gmbh": {
+      "developments": [
+        {
+          "date": "07 Nov 2025",
+          "title": "European Defence Fund project 101224541",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224541/EDF"
+        }
+      ],
+      "country": "AT",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Lithoz GmbH is a Austrian company registered in 2012, with its seat in Wien. It takes part in 1 European Defence Fund project (2025).",
+        "overview": "Lithoz GmbH is a Austrian company registered in 2012, with its seat in Wien. It takes part in 1 European Defence Fund project (2025)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2012",
+            "Registered"
+          ],
+          [
+            "Wien, Austria",
+            "Headquarters"
+          ],
+          [
+            "LEI 5299008R1SVP4Y5S3S08",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2012",
+            "Registered"
+          ],
+          [
+            "Wien, Austria",
+            "Headquarters"
+          ],
+          [
+            "LEI 5299008R1SVP4Y5S3S08",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101224541",
+            "sub": "EU defence research and development · call EDF-2024-LS-RA-SMERO",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "07 Nov 2025",
+            "desc": "Call EDF-2024-LS-RA-SMERO",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224541/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101224541",
+            "sub": "EU defence research and development · call EDF-2024-LS-RA-SMERO",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "07 Nov 2025",
+            "desc": "Call EDF-2024-LS-RA-SMERO",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224541/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Lithoz GmbH, LEI 5299008R1SVP4Y5S3S08",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/5299008R1SVP4Y5S3S08"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224541",
+          "sources": 1,
+          "date": "07 Nov 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224541/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Wien",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Lithoz GmbH is a Austrian company registered in 2012, with its seat in Wien. It takes part in 1 European Defence Fund project (2025).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2012",
+            "Registered",
+            null
+          ],
+          [
+            "Wien, Austria",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 5299008R1SVP4Y5S3S08",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101224541",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "07 Nov 2025",
+            "iso": "2025-11-07",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 5299008R1SVP4Y5S3S08",
+            "url": "https://api.gleif.org/api/v1/lei-records/5299008R1SVP4Y5S3S08"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101224541",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224541/EDF"
+          }
+        ]
+      },
+      "card_hash": "1522720ffcf06042"
+    },
+    "liebherr-aerospace-lindenberg-gmbh": {
+      "developments": [
+        {
+          "date": "12 Dec 2025",
+          "title": "European Defence Fund project 101224375",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224375/EDF"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Liebherr-Aerospace Lindenberg GmbH is a German company registered in 1960, with its seat in Lindenberg. It takes part in 1 European Defence Fund project (2025).",
+        "overview": "Liebherr-Aerospace Lindenberg GmbH is a German company registered in 1960, with its seat in Lindenberg. It takes part in 1 European Defence Fund project (2025)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1960",
+            "Registered"
+          ],
+          [
+            "Lindenberg, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 5299001T2KFKKHGH0J15",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1960",
+            "Registered"
+          ],
+          [
+            "Lindenberg, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 5299001T2KFKKHGH0J15",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101224375",
+            "sub": "EU defence research and development · call EDF-2024-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224375/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101224375",
+            "sub": "EU defence research and development · call EDF-2024-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Dec 2025",
+            "desc": "Call EDF-2024-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224375/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Liebherr-Aerospace Lindenberg GmbH, LEI 5299001T2KFKKHGH0J15",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/5299001T2KFKKHGH0J15"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224375",
+          "sources": 1,
+          "date": "12 Dec 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224375/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Lindenberg",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Liebherr-Aerospace Lindenberg GmbH is a German company registered in 1960, with its seat in Lindenberg. It takes part in 1 European Defence Fund project (2025).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1960",
+            "Registered",
+            null
+          ],
+          [
+            "Lindenberg, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 5299001T2KFKKHGH0J15",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101224375",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "12 Dec 2025",
+            "iso": "2025-12-12",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 5299001T2KFKKHGH0J15",
+            "url": "https://api.gleif.org/api/v1/lei-records/5299001T2KFKKHGH0J15"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101224375",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224375/EDF"
+          }
+        ]
+      },
+      "card_hash": "a7091de84c4ab956"
+    },
+    "me-mobil-elektronik-gmbh": {
+      "developments": [
+        {
+          "date": "10 Oct 2025",
+          "title": "European Defence Fund project 101224060",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224060/EDF"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "ME MOBIL ELEKTRONIK GmbH is a German company registered in 1981, with its seat in Langenbrettach. It takes part in 1 European Defence Fund project (2025).",
+        "overview": "ME MOBIL ELEKTRONIK GmbH is a German company registered in 1981, with its seat in Langenbrettach. It takes part in 1 European Defence Fund project (2025)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1981",
+            "Registered"
+          ],
+          [
+            "Langenbrettach, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 3912001JT3IP1HEVZI78",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1981",
+            "Registered"
+          ],
+          [
+            "Langenbrettach, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 3912001JT3IP1HEVZI78",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101224060",
+            "sub": "EU defence research and development · call EDF-2024-LS-DA-SME-NT",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "10 Oct 2025",
+            "desc": "Call EDF-2024-LS-DA-SME-NT",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224060/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101224060",
+            "sub": "EU defence research and development · call EDF-2024-LS-DA-SME-NT",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "10 Oct 2025",
+            "desc": "Call EDF-2024-LS-DA-SME-NT",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224060/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ME MOBIL ELEKTRONIK GmbH, LEI 3912001JT3IP1HEVZI78",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/3912001JT3IP1HEVZI78"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224060",
+          "sources": 1,
+          "date": "10 Oct 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224060/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Langenbrettach",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ME MOBIL ELEKTRONIK GmbH is a German company registered in 1981, with its seat in Langenbrettach. It takes part in 1 European Defence Fund project (2025).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1981",
+            "Registered",
+            null
+          ],
+          [
+            "Langenbrettach, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 3912001JT3IP1HEVZI78",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101224060",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "10 Oct 2025",
+            "iso": "2025-10-10",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 3912001JT3IP1HEVZI78",
+            "url": "https://api.gleif.org/api/v1/lei-records/3912001JT3IP1HEVZI78"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101224060",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224060/EDF"
+          }
+        ]
+      },
+      "card_hash": "41a841d50d4862b2"
+    },
+    "macartney-germany-gmbh": {
+      "developments": [
+        {
+          "date": "26 Mar 2024",
+          "title": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/180510-2024"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "MacArtney Germany GmbH is a German company registered in 2001, with its seat in Kiel. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (26 Mar 2024).",
+        "overview": "MacArtney Germany GmbH is a German company registered in 2001, with its seat in Kiel. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (26 Mar 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2001",
+            "Registered"
+          ],
+          [
+            "Kiel, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900YHQ77KZOLWTG16",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2001",
+            "Registered"
+          ],
+          [
+            "Kiel, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900YHQ77KZOLWTG16",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 180510-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "26 Mar 2024",
+            "desc": "TED notice 180510-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 180510-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "26 Mar 2024",
+            "desc": "TED notice 180510-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity MacArtney Germany GmbH, LEI 529900YHQ77KZOLWTG16",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900YHQ77KZOLWTG16"
+        },
+        {
+          "claim": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (TED 180510-2024)",
+          "sources": 1,
+          "date": "26 Mar 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/180510-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Kiel",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "MacArtney Germany GmbH is a German company registered in 2001, with its seat in Kiel. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (26 Mar 2024).",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "1",
+            "label": "contract awards on record",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "2001",
+            "Registered",
+            null
+          ],
+          [
+            "Kiel, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900YHQ77KZOLWTG16",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 180510-2024",
+            "status": "Contract award",
+            "date": "26 Mar 2024",
+            "iso": "2024-03-26",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900YHQ77KZOLWTG16",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900YHQ77KZOLWTG16"
+          },
+          {
+            "title": "TED notice 180510-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/180510-2024"
+          }
+        ]
+      },
+      "card_hash": "925a3117280d5e3f"
     }
   }
 }
