@@ -227,6 +227,13 @@
       },
       "companies": [
         {
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "country": "US",
+          "text": [
+            "Lockheed Martin"
+          ]
+        },
+        {
           "name": "Lockheed Martin Aeronautics",
           "country": "",
           "text": [
@@ -565,10 +572,10 @@
           ]
         },
         {
-          "name": "L3Harris",
+          "name": "L3Harris Technologies",
           "country": "US",
           "text": [
-            "L3Harris"
+            "L3Harris Technologies"
           ]
         },
         {
@@ -590,6 +597,13 @@
           "country": "GB",
           "text": [
             "Plural"
+          ]
+        },
+        {
+          "name": "L3Harris",
+          "country": "US",
+          "text": [
+            "L3Harris"
           ]
         }
       ]
@@ -666,10 +680,10 @@
       },
       "companies": [
         {
-          "name": "L3Harris",
+          "name": "L3Harris Technologies",
           "country": "US",
           "text": [
-            "L3Harris"
+            "L3Harris Technologies"
           ]
         },
         {
@@ -691,6 +705,13 @@
           "country": "GB",
           "text": [
             "Plural"
+          ]
+        },
+        {
+          "name": "L3Harris",
+          "country": "US",
+          "text": [
+            "L3Harris"
           ]
         }
       ]
@@ -774,10 +795,10 @@
           ]
         },
         {
-          "name": "L3Harris",
+          "name": "L3Harris Technologies",
           "country": "US",
           "text": [
-            "L3Harris"
+            "L3Harris Technologies"
           ]
         },
         {
@@ -799,6 +820,13 @@
           "country": "GB",
           "text": [
             "Plural"
+          ]
+        },
+        {
+          "name": "L3Harris",
+          "country": "US",
+          "text": [
+            "L3Harris"
           ]
         },
         {
@@ -997,10 +1025,10 @@
           ]
         },
         {
-          "name": "L3Harris",
+          "name": "L3Harris Technologies",
           "country": "US",
           "text": [
-            "L3Harris"
+            "L3Harris Technologies"
           ]
         },
         {
@@ -1015,6 +1043,13 @@
           "country": "GB",
           "text": [
             "Plural"
+          ]
+        },
+        {
+          "name": "L3Harris",
+          "country": "US",
+          "text": [
+            "L3Harris"
           ]
         }
       ]
@@ -1355,10 +1390,10 @@
           ]
         },
         {
-          "name": "L3Harris",
+          "name": "L3Harris Technologies",
           "country": "US",
           "text": [
-            "L3Harris"
+            "L3Harris Technologies"
           ]
         },
         {
@@ -1380,6 +1415,13 @@
           "country": "GB",
           "text": [
             "Plural"
+          ]
+        },
+        {
+          "name": "L3Harris",
+          "country": "US",
+          "text": [
+            "L3Harris"
           ]
         }
       ]
@@ -1570,6 +1612,13 @@
         "lon": -77.0364
       },
       "companies": [
+        {
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "country": "US",
+          "text": [
+            "Lockheed Martin"
+          ]
+        },
         {
           "name": "L3Harris",
           "country": "US",
@@ -3960,6 +4009,13 @@
       },
       "companies": [
         {
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "country": "US",
+          "text": [
+            "Lockheed Martin"
+          ]
+        },
+        {
           "name": "Pratt & Whitney",
           "country": "US",
           "text": [
@@ -4122,10 +4178,10 @@
       },
       "companies": [
         {
-          "name": "L3Harris",
+          "name": "L3Harris Technologies",
           "country": "US",
           "text": [
-            "L3Harris"
+            "L3Harris Technologies"
           ]
         },
         {
@@ -4133,6 +4189,13 @@
           "country": "US",
           "text": [
             "Aerojet Rocketdyne"
+          ]
+        },
+        {
+          "name": "L3Harris",
+          "country": "US",
+          "text": [
+            "L3Harris"
           ]
         }
       ]
@@ -4629,10 +4692,10 @@
       },
       "companies": [
         {
-          "name": "L3Harris",
+          "name": "L3Harris Technologies",
           "country": "US",
           "text": [
-            "L3Harris"
+            "L3Harris Technologies"
           ]
         },
         {
@@ -4654,6 +4717,13 @@
           "country": "GB",
           "text": [
             "Plural"
+          ]
+        },
+        {
+          "name": "L3Harris",
+          "country": "US",
+          "text": [
+            "L3Harris"
           ]
         }
       ]
@@ -4727,7 +4797,16 @@
         "label": "Bratislava",
         "lat": 48.1486,
         "lon": 17.1077
-      }
+      },
+      "companies": [
+        {
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "country": "US",
+          "text": [
+            "Lockheed Martin"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-193",
@@ -4877,10 +4956,10 @@
       },
       "companies": [
         {
-          "name": "L3Harris",
+          "name": "L3Harris Technologies",
           "country": "US",
           "text": [
-            "L3Harris"
+            "L3Harris Technologies"
           ]
         },
         {
@@ -4902,6 +4981,13 @@
           "country": "GB",
           "text": [
             "Plural"
+          ]
+        },
+        {
+          "name": "L3Harris",
+          "country": "US",
+          "text": [
+            "L3Harris"
           ]
         }
       ]
@@ -5265,7 +5351,16 @@
         "label": "Bethesda",
         "lat": 38.9847,
         "lon": -77.0947
-      }
+      },
+      "companies": [
+        {
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "country": "US",
+          "text": [
+            "Lockheed Martin"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-287",
@@ -5509,10 +5604,10 @@
           ]
         },
         {
-          "name": "L3Harris",
+          "name": "L3Harris Technologies",
           "country": "US",
           "text": [
-            "L3Harris"
+            "L3Harris Technologies"
           ]
         },
         {
@@ -5534,6 +5629,13 @@
           "country": "GB",
           "text": [
             "Plural"
+          ]
+        },
+        {
+          "name": "L3Harris",
+          "country": "US",
+          "text": [
+            "L3Harris"
           ]
         }
       ]
@@ -5624,10 +5726,10 @@
           ]
         },
         {
-          "name": "L3Harris",
+          "name": "L3Harris Technologies",
           "country": "US",
           "text": [
-            "L3Harris"
+            "L3Harris Technologies"
           ]
         },
         {
@@ -5649,6 +5751,13 @@
           "country": "GB",
           "text": [
             "Plural"
+          ]
+        },
+        {
+          "name": "L3Harris",
+          "country": "US",
+          "text": [
+            "L3Harris"
           ]
         }
       ]
@@ -5725,10 +5834,10 @@
       },
       "companies": [
         {
-          "name": "L3Harris",
+          "name": "L3Harris Technologies",
           "country": "US",
           "text": [
-            "L3Harris"
+            "L3Harris Technologies"
           ]
         },
         {
@@ -5750,6 +5859,13 @@
           "country": "GB",
           "text": [
             "Plural"
+          ]
+        },
+        {
+          "name": "L3Harris",
+          "country": "US",
+          "text": [
+            "L3Harris"
           ]
         }
       ]
@@ -5848,10 +5964,10 @@
           ]
         },
         {
-          "name": "L3Harris",
+          "name": "L3Harris Technologies",
           "country": "US",
           "text": [
-            "L3Harris"
+            "L3Harris Technologies"
           ]
         },
         {
@@ -5873,6 +5989,13 @@
           "country": "GB",
           "text": [
             "Plural"
+          ]
+        },
+        {
+          "name": "L3Harris",
+          "country": "US",
+          "text": [
+            "L3Harris"
           ]
         }
       ]
@@ -5962,6 +6085,13 @@
           "country": "US",
           "text": [
             "L3Harris"
+          ]
+        },
+        {
+          "name": "L3Harris Technologies",
+          "country": "US",
+          "text": [
+            "L3Harris Technologies"
           ]
         },
         {
@@ -6064,10 +6194,10 @@
       },
       "companies": [
         {
-          "name": "L3Harris",
+          "name": "L3Harris Technologies",
           "country": "US",
           "text": [
-            "L3Harris"
+            "L3Harris Technologies"
           ]
         },
         {
@@ -6089,6 +6219,13 @@
           "country": "GB",
           "text": [
             "Plural"
+          ]
+        },
+        {
+          "name": "L3Harris",
+          "country": "US",
+          "text": [
+            "L3Harris"
           ]
         }
       ]
@@ -6165,10 +6302,10 @@
       },
       "companies": [
         {
-          "name": "L3Harris",
+          "name": "L3Harris Technologies",
           "country": "US",
           "text": [
-            "L3Harris"
+            "L3Harris Technologies"
           ]
         },
         {
@@ -6190,6 +6327,13 @@
           "country": "GB",
           "text": [
             "Plural"
+          ]
+        },
+        {
+          "name": "L3Harris",
+          "country": "US",
+          "text": [
+            "L3Harris"
           ]
         }
       ]
@@ -6266,10 +6410,10 @@
       },
       "companies": [
         {
-          "name": "L3Harris",
+          "name": "L3Harris Technologies",
           "country": "US",
           "text": [
-            "L3Harris"
+            "L3Harris Technologies"
           ]
         },
         {
@@ -6291,6 +6435,13 @@
           "country": "GB",
           "text": [
             "Plural"
+          ]
+        },
+        {
+          "name": "L3Harris",
+          "country": "US",
+          "text": [
+            "L3Harris"
           ]
         }
       ]
@@ -6473,10 +6624,10 @@
       },
       "companies": [
         {
-          "name": "L3Harris",
+          "name": "L3Harris Technologies",
           "country": "US",
           "text": [
-            "L3Harris"
+            "L3Harris Technologies"
           ]
         },
         {
@@ -6498,6 +6649,13 @@
           "country": "GB",
           "text": [
             "Plural"
+          ]
+        },
+        {
+          "name": "L3Harris",
+          "country": "US",
+          "text": [
+            "L3Harris"
           ]
         }
       ]
@@ -7231,7 +7389,16 @@
           "url": "https://defence-industry.eu/lockheed-martin-says-joint-training-test-linked-four-f-35-simulators-with-six-f-a-18s-in-flight-in-real-time/"
         }
       ],
-      "place": null
+      "place": null,
+      "companies": [
+        {
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "country": "US",
+          "text": [
+            "Lockheed Martin"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-1332",
@@ -7490,6 +7657,13 @@
         "lon": -76.28
       },
       "companies": [
+        {
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "country": "US",
+          "text": [
+            "Lockheed Martin"
+          ]
+        },
         {
           "name": "GE Aerospace",
           "country": "",
@@ -8099,6 +8273,13 @@
           "text": [
             "L3Harris"
           ]
+        },
+        {
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "country": "US",
+          "text": [
+            "Lockheed Martin"
+          ]
         }
       ]
     },
@@ -8188,6 +8369,20 @@
           "country": "US",
           "text": [
             "Raytheon"
+          ]
+        },
+        {
+          "name": "GM Defense",
+          "country": "US",
+          "text": [
+            "GM Defense"
+          ]
+        },
+        {
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "country": "US",
+          "text": [
+            "Lockheed Martin"
           ]
         }
       ]
@@ -8504,6 +8699,13 @@
       },
       "companies": [
         {
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "country": "US",
+          "text": [
+            "Lockheed Martin"
+          ]
+        },
+        {
           "name": "NAVANTIA SA",
           "country": "ES",
           "text": [
@@ -8703,6 +8905,20 @@
           "country": "US",
           "text": [
             "Raytheon"
+          ]
+        },
+        {
+          "name": "GM Defense",
+          "country": "US",
+          "text": [
+            "GM Defense"
+          ]
+        },
+        {
+          "name": "LOCKHEED MARTIN CORPORATION",
+          "country": "US",
+          "text": [
+            "Lockheed Martin"
           ]
         }
       ]
