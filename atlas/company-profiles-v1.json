@@ -104182,6 +104182,1423 @@
         ]
       },
       "card_hash": "9fa17a23c0c9c879"
+    },
+    "advanced-acoustic-concepts": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "ADVANCED ACOUSTIC CONCEPTS, LLC is a US company, with its seat in Great River. US federal spending records show US$31.2M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 15 contracts; the largest customer is the Department of the Navy.",
+        "overview": "ADVANCED ACOUSTIC CONCEPTS, LLC is a US company, with its seat in Great River. US federal spending records show US$31.2M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 15 contracts; the largest customer is the Department of the Navy."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Great River, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI CGL3BBHE4LD5",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Great River, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI CGL3BBHE4LD5",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ADVANCED ACOUSTIC CONCEPTS, LLC, UEI CGL3BBHE4LD5",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/c66bbadf-e50d-cdee-f643-565e5a97c599-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/c66bbadf-e50d-cdee-f643-565e5a97c599-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Great River",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ADVANCED ACOUSTIC CONCEPTS, LLC is a US company, with its seat in Great River. US federal spending records show US$31.2M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 15 contracts; the largest customer is the Department of the Navy.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$31.2M",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all Department of the Navy",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "15",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Great River, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI CGL3BBHE4LD5",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Mission package COMPUTERS, software and trainer (MPCST)",
+            "sub": "Defense Contract Management Agency · US$89.5M · 2019–2025",
+            "status": "Contract",
+            "date": "27 Sep 2019",
+            "iso": "2019-09-27",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "This award is for the engineering services in support of previously procured MPCE and CMPT SYSTEMS, with options OVER FO",
+            "sub": "Defense Contract Management Agency · US$73.7M · 2012–2025",
+            "status": "Contract",
+            "date": "06 Aug 2012",
+            "iso": "2012-08-06",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "HARDWARE/SOFTWARE engineering services",
+            "sub": "Department of the Navy · US$36.0M · 2024–2029",
+            "status": "Contract",
+            "date": "27 Sep 2024",
+            "iso": "2024-09-27",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "The MANUFACTURE, TEST, and delivery of MARK 48 sonar signal TRANSMITTERS, MARK 48 warhead electronic system ASSEMBLIES, ",
+            "sub": "Department of the Navy · US$21.2M · 2025–2027",
+            "status": "Contract",
+            "date": "28 Feb 2025",
+            "iso": "2025-02-28",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "CASE FI - common acoustic simulation environment (CASE FI)",
+            "sub": "Defense Contract Management Agency · US$15.0M · 2016–2022",
+            "status": "Contract",
+            "date": "01 Aug 2016",
+            "iso": "2016-08-01",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Common acoustic simulation environment fidelity improvement (CASE-FI) product enhancement",
+            "sub": "Department of the Navy · US$8.0M · 2026–2029",
+            "status": "Contract",
+            "date": "14 Jul 2026",
+            "iso": "2026-07-14",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "Supports previous SBIR efforts to initiate hardware upgrades for the common acoustic simulation environment fidelity imp",
+            "sub": "Department of the Navy · US$5.1M · 2026–2027",
+            "status": "Contract",
+            "date": "30 Jan 2026",
+            "iso": "2026-01-30",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "SBIR phase III research & development",
+            "sub": "Department of the Navy · US$1.6M · 2025–2027",
+            "status": "Contract",
+            "date": "02 Sep 2025",
+            "iso": "2025-09-02",
+            "ongoing": true,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Contract Management Agency",
+            "sub": "Customer · US$178.2M · 3 contracts",
+            "status": "verified",
+            "src": [
+              2,
+              3,
+              6
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$102.9M · 5 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              4,
+              5,
+              10
+            ],
+            "quote": "Advanced Acoustic Concepts (AAC), a U.S.-based provider of undersea warfare solutions, was awarded a $53.9 million U.S. Navy contract to produce and deliver two integrated Remote Mine Hunting (RMH) modules and accompanying engineering support."
+          },
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$97K",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "products": [
+          {
+            "name": "Remote Mine Hunting (RMH) modules",
+            "role": "makes",
+            "status": "verified",
+            "quote": "Advanced Acoustic Concepts (AAC), a U.S.-based provider of undersea warfare solutions, was awarded a $53.9 million U.S. Navy contract to produce and deliver two integrated Remote Mine Hunting (RMH) modules and accompanying engineering support.",
+            "src": [
+              10
+            ]
+          }
+        ],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI CGL3BBHE4LD5",
+            "url": "https://www.usaspending.gov/recipient/c66bbadf-e50d-cdee-f643-565e5a97c599-C/latest"
+          },
+          {
+            "title": "USAspending.gov · N0002419C6311",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0002419C6311_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0002412C6311",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0002412C6311_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0002424C6311",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0002424C6311_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N6660425C0203",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N6660425C0203_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N6134016C0004",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N6134016C0004_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001926C1008",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001926C1008_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N6134026C1008",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N6134026C1008_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N6833525F0052",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N6833525F0052_9700_N6833525G0001_9700"
+          },
+          {
+            "title": "edrmagazine.eu",
+            "url": "https://www.edrmagazine.eu/thales-selected-to-deliver-next-generation-mine-hunting-capability-for-the-u-s-navy"
+          }
+        ]
+      },
+      "card_hash": "05b70eb664b658c4"
+    },
+    "general-dynamics-land-systems": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "GENERAL DYNAMICS LAND SYSTEMS INC. is a US company, with its seat in Sterling Heights. US federal spending records show US$3.6B obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 389 contracts; the largest customer is the Department of the Army.",
+        "overview": "GENERAL DYNAMICS LAND SYSTEMS INC. is a US company, with its seat in Sterling Heights. US federal spending records show US$3.6B obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 389 contracts; the largest customer is the Department of the Army."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Sterling Heights, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI HAWKSQF848W7",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Sterling Heights, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI HAWKSQF848W7",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity GENERAL DYNAMICS LAND SYSTEMS INC., UEI HAWKSQF848W7",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/99938bc0-e262-06ff-9f94-386fd3da88dc-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/99938bc0-e262-06ff-9f94-386fd3da88dc-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Sterling Heights",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "GENERAL DYNAMICS LAND SYSTEMS INC. is a US company, with its seat in Sterling Heights. US federal spending records show US$3.6B obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 389 contracts; the largest customer is the Department of the Army.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$3.6B",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all Department of the Army",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "389",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Sterling Heights, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI HAWKSQF848W7",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Mobile protected firepower engineering manufacturing and development / middle TIER acquisition",
+            "sub": "Department of the Army · US$1.4B · 2018–2026",
+            "status": "Contract",
+            "date": "17 Dec 2018",
+            "iso": "2018-12-17",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "Base contract award",
+            "sub": "Department of the Army · US$1.2B · 2022–2029",
+            "status": "Contract",
+            "date": "28 Feb 2022",
+            "iso": "2022-02-28",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "M1 abrams family of VEHICLES.",
+            "sub": "Department of the Army · US$1.2B · 2022–2026",
+            "status": "Contract",
+            "date": "28 Jul 2022",
+            "iso": "2022-07-28",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "System technical support (STS)/ system sustainment technical support (SSTS) for abrams TANK program",
+            "sub": "Department of the Army · US$1.1B · 2006–2013",
+            "status": "Contract",
+            "date": "20 Dec 2006",
+            "iso": "2006-12-20",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Award delivery order W56HZV19F0358 (0006) against the abrams requirement contract (ARC) to procure additional ASL, STTE ",
+            "sub": "Department of the Army · US$775.1M · 2019–2023",
+            "status": "Contract",
+            "date": "27 Aug 2019",
+            "iso": "2019-08-27",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "IGF::OT::IGF. FMS related WORK directives for the countries of AUSTRALIA, KSA and kuwait WILL be awarded as PART of the ",
+            "sub": "Department of the Army · US$761.3M · 2017–2026",
+            "status": "Contract",
+            "date": "23 Feb 2017",
+            "iso": "2017-02-23",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Abrams engineering program is a modification to the existing abrams FLEET.",
+            "sub": "Department of the Army · US$757.1M · 2025–2031",
+            "status": "Contract",
+            "date": "30 Jun 2025",
+            "iso": "2025-06-30",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "300 stryker DVH new and exchange vehicles in support of stryker brigade combat TEAM (SBCT) 5TH brigade production contra",
+            "sub": "Department of the Army · US$713.4M · 2023–2025",
+            "status": "Contract",
+            "date": "21 Jun 2023",
+            "iso": "2023-06-21",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$11.4B · 8 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3,
+              11
+            ],
+            "quote": "General Dynamics Land Systems won a five-year, $332.5 million IDIQ contract to field, deprocess, train on, and maintain the US Army's Stryker fleet"
+          },
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$70.4M",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$5.2M",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "RYAN MANUFACTURING INC",
+            "country": "CA",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              10
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "RIVERSIDE MANUFACTURING LLC",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              10
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "CRESTWOOD TECHNOLOGY GROUP, LLC",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              10
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "B. R. WILLIAMS TRUCKING, LLC",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              10
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "JNC AIR, INC.",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              10
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI HAWKSQF848W7",
+            "url": "https://www.usaspending.gov/recipient/99938bc0-e262-06ff-9f94-386fd3da88dc-C/latest"
+          },
+          {
+            "title": "USAspending.gov · W56HZV19C0036",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV19C0036_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W56HZV22C0012",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV22C0012_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W56HZV22F0353",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV22F0353_9700_W56HZV21D0001_9700"
+          },
+          {
+            "title": "USAspending.gov · W56HZV07C0046",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV07C0046_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W56HZV19F0358",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV19F0358_9700_W56HZV18D0012_9700"
+          },
+          {
+            "title": "USAspending.gov · W56HZV17C0067",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV17C0067_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W912CH25C0055",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH25C0055_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W56HZV23F0159",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W56HZV23F0159_9700_W56HZV20D0005_9700"
+          },
+          {
+            "title": "USAspending.gov · sub-award",
+            "url": "https://www.usaspending.gov/search"
+          },
+          {
+            "title": "defensewarroom.com",
+            "url": "https://defensewarroom.com/2026/11/19/army-stryker-sustainment-contract-general-dynamics/"
+          }
+        ]
+      },
+      "card_hash": "d960fe3c12ff48b2"
+    },
+    "havocai": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "HAVOCAI INC. is a US company, with its seat in Rumford. US federal spending records show US$4.0M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 2 contracts; the largest customer is the Department of the Army.",
+        "overview": "HAVOCAI INC. is a US company, with its seat in Rumford. US federal spending records show US$4.0M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 2 contracts; the largest customer is the Department of the Army."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Rumford, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI F5T8FRPKTC34",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Rumford, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI F5T8FRPKTC34",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity HAVOCAI INC., UEI F5T8FRPKTC34",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/0e4b1150-f7aa-fd7d-3533-aa08218a24e2-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/0e4b1150-f7aa-fd7d-3533-aa08218a24e2-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Rumford",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "HAVOCAI INC. is a US company, with its seat in Rumford. US federal spending records show US$4.0M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 2 contracts; the largest customer is the Department of the Army.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$4.0M",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all Department of the Army",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "2",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Rumford, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI F5T8FRPKTC34",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Small business innovation RESEARCH, direct to phase II topic A254-P026, xtechpacific OPEN topic",
+            "sub": "Department of the Army · US$2.0M · 2026–2027",
+            "status": "Contract",
+            "date": "09 Mar 2026",
+            "iso": "2026-03-09",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "A254-P030 - havoc overwatch control - PLATFORM-AGNOSTIC collaborative autonomy and intuitive UI",
+            "sub": "Department of the Army · US$2.0M · 2026–2027",
+            "status": "Contract",
+            "date": "30 Jan 2026",
+            "iso": "2026-01-30",
+            "ongoing": true,
+            "src": 3
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$8.0M · 2 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "Teleo",
+            "country": "US",
+            "in_catalogue": true,
+            "sub": "Supplier · reported, not confirmed",
+            "status": "candidate",
+            "quote": "In March, HavocAI completed its acquisition of Palo Alto, California-based Teleo",
+            "src": [
+              4
+            ]
+          }
+        ],
+        "products": [],
+        "news": [
+          {
+            "iso": "2026-03-01",
+            "kind": "Supplier",
+            "title": "Supplier: Teleo",
+            "line": "In March, HavocAI completed its acquisition of Palo Alto, California-based Teleo",
+            "src": 4
+          }
+        ],
+        "sources": [
+          {
+            "title": "Register · UEI F5T8FRPKTC34",
+            "url": "https://www.usaspending.gov/recipient/0e4b1150-f7aa-fd7d-3533-aa08218a24e2-C/latest"
+          },
+          {
+            "title": "USAspending.gov · W5170126CA043",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W5170126CA043_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W5170126CA035",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W5170126CA035_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "news.crunchbase.com",
+            "url": "https://news.crunchbase.com/venture/sector-snapshot-2026-construction-robotics-funding-soars-bedrock/"
+          }
+        ]
+      },
+      "card_hash": "e439a9125a728c61"
+    },
+    "ptc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "PTC INC. is a US company, with its seat in Boston. US federal spending records show US$406K obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 3 contracts; the largest customer is the Department of the Air Force.",
+        "overview": "PTC INC. is a US company, with its seat in Boston. US federal spending records show US$406K obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 3 contracts; the largest customer is the Department of the Air Force."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Boston, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI T6HMTJ6CTRF5",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Boston, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI T6HMTJ6CTRF5",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity PTC INC., UEI T6HMTJ6CTRF5",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/47fa2b8a-476c-8d9d-0b75-34f9eb7f7c69-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/47fa2b8a-476c-8d9d-0b75-34f9eb7f7c69-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Boston",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "PTC INC. is a US company, with its seat in Boston. US federal spending records show US$406K obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 3 contracts; the largest customer is the Department of the Air Force.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$406K",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "3",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$234K",
+            "label": "largest customer: Department of the Air Force",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Boston, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI T6HMTJ6CTRF5",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Support for apexada enterprise V4.4 for SOLARIS/SPARC and support for apexada embedded base V4.2 for SOLARIS/SPARC targe",
+            "sub": "Department of the Air Force · US$681K · 2024–2026",
+            "status": "Contract",
+            "date": "01 Jan 2024",
+            "iso": "2024-01-01",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "SPN-DOWNH2000-F; objectada native V10.X for windows corepack with GOLD level support TIER for 3 years",
+            "sub": "Department of the Navy · US$148K · 2026–2029",
+            "status": "Contract",
+            "date": "14 May 2026",
+            "iso": "2026-05-14",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "Apexada V5.0 for frcsw",
+            "sub": "Department of the Navy · US$25K · 2026–2027",
+            "status": "Contract",
+            "date": "06 Apr 2026",
+            "iso": "2026-04-06",
+            "ongoing": true,
+            "src": 4
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$915K · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              2
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$345K · 2 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              3,
+              4
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI T6HMTJ6CTRF5",
+            "url": "https://www.usaspending.gov/recipient/47fa2b8a-476c-8d9d-0b75-34f9eb7f7c69-C/latest"
+          },
+          {
+            "title": "USAspending.gov · FA813924P0022",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA813924P0022_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N6449826P0018",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N6449826P0018_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N6852026P1014",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N6852026P1014_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "b52cfce0ec7b883a"
+    },
+    "sierra-space": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "SIERRA SPACE CORP is a US company, with its seat in Louisville. US federal spending records show US$100K obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 2 contracts; the largest customer is the Department of the Air Force.",
+        "overview": "SIERRA SPACE CORP is a US company, with its seat in Louisville. US federal spending records show US$100K obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 2 contracts; the largest customer is the Department of the Air Force."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Louisville, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI DPT6YML4HHK5",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Louisville, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI DPT6YML4HHK5",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity SIERRA SPACE CORP, UEI DPT6YML4HHK5",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/c7f04ad8-94b7-0e6f-e07d-253a5c8a12e6-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/c7f04ad8-94b7-0e6f-e07d-253a5c8a12e6-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Louisville",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "SIERRA SPACE CORP is a US company, with its seat in Louisville. US federal spending records show US$100K obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 2 contracts; the largest customer is the Department of the Air Force.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$100K",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all Department of the Air Force",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "2",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Louisville, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI DPT6YML4HHK5",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Concept development minimum guarantee",
+            "sub": "Department of the Air Force · US$100K · 2026–2027",
+            "status": "Contract",
+            "date": "28 Apr 2026",
+            "iso": "2026-04-28",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "Scalable homeland innovative enterprise layered defense (SHIELD) initial ORDER.",
+            "sub": "Missile Defense Agency · US$0K · 2025–2035",
+            "status": "Contract",
+            "date": "29 Dec 2025",
+            "iso": "2025-12-29",
+            "ongoing": true,
+            "src": 3
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$200K · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              2
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Missile Defense Agency",
+            "sub": "Customer · US$1K · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI DPT6YML4HHK5",
+            "url": "https://www.usaspending.gov/recipient/c7f04ad8-94b7-0e6f-e07d-253a5c8a12e6-C/latest"
+          },
+          {
+            "title": "USAspending.gov · FA881926FB018",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA881926FB018_9700_FA881926DB007_9700"
+          },
+          {
+            "title": "USAspending.gov · HQ085926FF311",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_HQ085926FF311_9700_HQ085926DE849_9700"
+          }
+        ]
+      },
+      "card_hash": "5f47957f80675d1f"
+    },
+    "synopsys": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "SYNOPSYS, INC. is a US company, with its seat in Sunnyvale. US federal spending records show US$113K obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 2 contracts; the largest customer is the Department of the Army.",
+        "overview": "SYNOPSYS, INC. is a US company, with its seat in Sunnyvale. US federal spending records show US$113K obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 2 contracts; the largest customer is the Department of the Army."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Sunnyvale, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI K8W2J2DS9FN1",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Sunnyvale, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI K8W2J2DS9FN1",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity SYNOPSYS, INC., UEI K8W2J2DS9FN1",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/5efd1069-d7f9-0bc5-33e7-ab8fcbbe9cf9-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/5efd1069-d7f9-0bc5-33e7-ab8fcbbe9cf9-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Sunnyvale",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "SYNOPSYS, INC. is a US company, with its seat in Sunnyvale. US federal spending records show US$113K obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 2 contracts; the largest customer is the Department of the Army.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$113K",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "2",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$86K",
+            "label": "largest customer: Department of the Army",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Sunnyvale, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI K8W2J2DS9FN1",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "One (1) 12-MONTH license for the semiconductor device simulation software package for the sentaurus device",
+            "sub": "Department of the Army · US$86K · 2026–2027",
+            "status": "Contract",
+            "date": "02 Jul 2026",
+            "iso": "2026-07-02",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "Synopsys quantum ATK TSL license renewal",
+            "sub": "Department of the Navy · US$27K · 2026–2029",
+            "status": "Contract",
+            "date": "06 Jan 2026",
+            "iso": "2026-01-06",
+            "ongoing": true,
+            "src": 3
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$173K · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              2
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$54K · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI K8W2J2DS9FN1",
+            "url": "https://www.usaspending.gov/recipient/5efd1069-d7f9-0bc5-33e7-ab8fcbbe9cf9-C/latest"
+          },
+          {
+            "title": "USAspending.gov · W911QX26PA066",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W911QX26PA066_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0017326P5213",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0017326P5213_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "14f0843796d77dfb"
     }
   }
 }
