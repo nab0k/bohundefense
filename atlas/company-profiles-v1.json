@@ -125050,6 +125050,1272 @@
         ]
       },
       "card_hash": "56f1b1dbfe5b9fdd"
+    },
+    "xenomatix": {
+      "developments": [
+        {
+          "date": "11 Nov 2025",
+          "title": "European Defence Fund project 101224145",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224145/EDF"
+        },
+        {
+          "date": "05 Dec 2024",
+          "title": "European Defence Fund project 101167814",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167814/EDF"
+        }
+      ],
+      "country": "BE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "XenomatiX is a Belgian company registered in 2013, with its seat in Leuven. It takes part in 2 European Defence Fund projects (2024–2025).",
+        "overview": "XenomatiX is a Belgian company registered in 2013, with its seat in Leuven. It takes part in 2 European Defence Fund projects (2024–2025)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2013",
+            "Registered"
+          ],
+          [
+            "Leuven, Belgium",
+            "Headquarters"
+          ],
+          [
+            "LEI 699400HHFC9OIWZTOM44",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2013",
+            "Registered"
+          ],
+          [
+            "Leuven, Belgium",
+            "Headquarters"
+          ],
+          [
+            "LEI 699400HHFC9OIWZTOM44",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101224145",
+            "sub": "EU defence research and development · call EDF-2024-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "11 Nov 2025",
+            "desc": "Call EDF-2024-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224145/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101167814",
+            "sub": "EU defence research and development · call EDF-2023-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "05 Dec 2024",
+            "desc": "Call EDF-2023-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167814/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101224145",
+            "sub": "EU defence research and development · call EDF-2024-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "11 Nov 2025",
+            "desc": "Call EDF-2024-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224145/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101167814",
+            "sub": "EU defence research and development · call EDF-2023-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "05 Dec 2024",
+            "desc": "Call EDF-2023-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167814/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity XenomatiX, LEI 699400HHFC9OIWZTOM44",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/699400HHFC9OIWZTOM44"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224145",
+          "sources": 1,
+          "date": "11 Nov 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224145/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167814",
+          "sources": 1,
+          "date": "05 Dec 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167814/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Leuven",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "XenomatiX is a Belgian company registered in 2013, with its seat in Leuven. It takes part in 2 European Defence Fund projects (2024–2025).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2013",
+            "Registered",
+            null
+          ],
+          [
+            "Leuven, Belgium",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 699400HHFC9OIWZTOM44",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101167814",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "05 Dec 2024",
+            "iso": "2024-12-05",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "European Defence Fund project 101224145",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "11 Nov 2025",
+            "iso": "2025-11-11",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "2 grants",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 699400HHFC9OIWZTOM44",
+            "url": "https://api.gleif.org/api/v1/lei-records/699400HHFC9OIWZTOM44"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101224145",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224145/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101167814",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167814/EDF"
+          }
+        ]
+      },
+      "card_hash": "f5f43ccb9acbe248"
+    },
+    "everllence-se": {
+      "developments": [
+        {
+          "date": "17 Aug 2026",
+          "title": "European Defence Fund project 101302020",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Everllence SE is a German company registered in 2006, with its seat in Augsburg. It takes part in 1 European Defence Fund project (2026).",
+        "overview": "Everllence SE is a German company registered in 2006, with its seat in Augsburg. It takes part in 1 European Defence Fund project (2026)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2006",
+            "Registered"
+          ],
+          [
+            "Augsburg, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 5299004CXTCZTR2LD739",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2006",
+            "Registered"
+          ],
+          [
+            "Augsburg, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 5299004CXTCZTR2LD739",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101302020",
+            "sub": "EU defence research and development · call EDF-2025-LS-RA-SI",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "17 Aug 2026",
+            "desc": "Call EDF-2025-LS-RA-SI",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101302020",
+            "sub": "EU defence research and development · call EDF-2025-LS-RA-SI",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "17 Aug 2026",
+            "desc": "Call EDF-2025-LS-RA-SI",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Everllence SE, LEI 5299004CXTCZTR2LD739",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/5299004CXTCZTR2LD739"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101302020",
+          "sources": 1,
+          "date": "17 Aug 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Augsburg",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Everllence SE is a German company registered in 2006, with its seat in Augsburg. It takes part in 1 European Defence Fund project (2026).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2006",
+            "Registered",
+            null
+          ],
+          [
+            "Augsburg, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 5299004CXTCZTR2LD739",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101302020",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "17 Aug 2026",
+            "iso": "2026-08-17",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 5299004CXTCZTR2LD739",
+            "url": "https://api.gleif.org/api/v1/lei-records/5299004CXTCZTR2LD739"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101302020",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+          }
+        ]
+      },
+      "card_hash": "a71777c17b47ca8e"
+    },
+    "evoelectronics-s-r-l": {
+      "developments": [
+        {
+          "date": "12 Feb 2026",
+          "title": "European Defence Fund project 101224064",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224064/EDF"
+        }
+      ],
+      "country": "IT",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "EVOELECTRONICS S.R.L. is a Italian company registered in 2012, with its seat in Pomezia. It takes part in 1 European Defence Fund project (2026).",
+        "overview": "EVOELECTRONICS S.R.L. is a Italian company registered in 2012, with its seat in Pomezia. It takes part in 1 European Defence Fund project (2026)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2012",
+            "Registered"
+          ],
+          [
+            "Pomezia, Italy",
+            "Headquarters"
+          ],
+          [
+            "LEI 8156004E11C726F7B222",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2012",
+            "Registered"
+          ],
+          [
+            "Pomezia, Italy",
+            "Headquarters"
+          ],
+          [
+            "LEI 8156004E11C726F7B222",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101224064",
+            "sub": "EU defence research and development · call EDF-2024-LS-RA-SMERO",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Feb 2026",
+            "desc": "Call EDF-2024-LS-RA-SMERO",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224064/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101224064",
+            "sub": "EU defence research and development · call EDF-2024-LS-RA-SMERO",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "12 Feb 2026",
+            "desc": "Call EDF-2024-LS-RA-SMERO",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224064/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity EVOELECTRONICS S.R.L., LEI 8156004E11C726F7B222",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/8156004E11C726F7B222"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224064",
+          "sources": 1,
+          "date": "12 Feb 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224064/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Pomezia",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "EVOELECTRONICS S.R.L. is a Italian company registered in 2012, with its seat in Pomezia. It takes part in 1 European Defence Fund project (2026).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2012",
+            "Registered",
+            null
+          ],
+          [
+            "Pomezia, Italy",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 8156004E11C726F7B222",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101224064",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "12 Feb 2026",
+            "iso": "2026-02-12",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 8156004E11C726F7B222",
+            "url": "https://api.gleif.org/api/v1/lei-records/8156004E11C726F7B222"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101224064",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224064/EDF"
+          }
+        ]
+      },
+      "card_hash": "ef56c5b4e2c22fa8"
+    },
+    "expert-ai-s-p-a": {
+      "developments": [
+        {
+          "date": "05 Dec 2024",
+          "title": "European Defence Fund project 101168201",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168201/EDF"
+        }
+      ],
+      "country": "IT",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "EXPERT.AI S.P.A. is a Italian company registered in 1999, with its seat in Rovereto. It takes part in 1 European Defence Fund project (2024).",
+        "overview": "EXPERT.AI S.P.A. is a Italian company registered in 1999, with its seat in Rovereto. It takes part in 1 European Defence Fund project (2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1999",
+            "Registered"
+          ],
+          [
+            "Rovereto, Italy",
+            "Headquarters"
+          ],
+          [
+            "LEI 815600FD1E3D444B2019",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1999",
+            "Registered"
+          ],
+          [
+            "Rovereto, Italy",
+            "Headquarters"
+          ],
+          [
+            "LEI 815600FD1E3D444B2019",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101168201",
+            "sub": "EU defence research and development · call EDF-2023-LS-RA-CHALLENGE",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "05 Dec 2024",
+            "desc": "Call EDF-2023-LS-RA-CHALLENGE",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168201/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101168201",
+            "sub": "EU defence research and development · call EDF-2023-LS-RA-CHALLENGE",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "05 Dec 2024",
+            "desc": "Call EDF-2023-LS-RA-CHALLENGE",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168201/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity EXPERT.AI S.P.A., LEI 815600FD1E3D444B2019",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/815600FD1E3D444B2019"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101168201",
+          "sources": 1,
+          "date": "05 Dec 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168201/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Rovereto",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "EXPERT.AI S.P.A. is a Italian company registered in 1999, with its seat in Rovereto. It takes part in 1 European Defence Fund project (2024).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1999",
+            "Registered",
+            null
+          ],
+          [
+            "Rovereto, Italy",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 815600FD1E3D444B2019",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101168201",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "05 Dec 2024",
+            "iso": "2024-12-05",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 815600FD1E3D444B2019",
+            "url": "https://api.gleif.org/api/v1/lei-records/815600FD1E3D444B2019"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101168201",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168201/EDF"
+          }
+        ]
+      },
+      "card_hash": "d5b53e2632fe8fb1"
+    },
+    "ensign-bickford-aerospace-defense-company": {
+      "developments": [
+        {
+          "date": "12 Jun 2024",
+          "title": "Contract award by MINISTRSTVO ZA OBRAMBO",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/345930-2024"
+        }
+      ],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · verified · relevant competence, no military sale on record"
+        ]
+      ],
+      "about": {
+        "workspace": "ENSIGN-BICKFORD AEROSPACE & DEFENSE COMPANY is a US company registered in 2000, with its seat in Manchester. EU procurement records (TED) list a contract award by MINISTRSTVO ZA OBRAMBO (12 Jun 2024). US federal spending records show US$18.9M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 31 contracts; the largest customer is the Department of the Army.",
+        "overview": "ENSIGN-BICKFORD AEROSPACE & DEFENSE COMPANY is a US company registered in 2000, with its seat in Manchester. EU procurement records (TED) list a contract award by MINISTRSTVO ZA OBRAMBO (12 Jun 2024). US federal spending records show US$18.9M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 31 contracts; the largest customer is the Department of the Army."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2000",
+            "Registered"
+          ],
+          [
+            "Manchester, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300K6FB6TNV0CO531",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2000",
+            "Registered"
+          ],
+          [
+            "Manchester, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300K6FB6TNV0CO531",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · MINISTRSTVO ZA OBRAMBO",
+            "sub": "TED notice 345930-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "12 Jun 2024",
+            "desc": "TED notice 345930-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · MINISTRSTVO ZA OBRAMBO",
+            "sub": "TED notice 345930-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "12 Jun 2024",
+            "desc": "TED notice 345930-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "MINISTRSTVO ZA OBRAMBO",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "MINISTRSTVO ZA OBRAMBO",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ENSIGN-BICKFORD AEROSPACE & DEFENSE COMPANY, LEI 549300K6FB6TNV0CO531",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/549300K6FB6TNV0CO531"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/fcdb5bed-3384-b90d-09ec-13439f38079e-C/latest"
+        },
+        {
+          "claim": "Contract award by MINISTRSTVO ZA OBRAMBO (TED 345930-2024)",
+          "sources": 1,
+          "date": "12 Jun 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/345930-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Manchester",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ENSIGN-BICKFORD AEROSPACE & DEFENSE COMPANY is a US company registered in 2000, with its seat in Manchester. EU procurement records (TED) list a contract award by MINISTRSTVO ZA OBRAMBO (12 Jun 2024). US federal spending records show US$18.9M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 31 contracts; the largest customer is the Department of the Army.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$18.9M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026",
+            "src": [
+              11
+            ]
+          },
+          {
+            "value": "31",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              11
+            ]
+          },
+          {
+            "value": "US$15.7M",
+            "label": "largest customer: Department of the Army",
+            "src": [
+              11
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "2000",
+            "Registered",
+            null
+          ],
+          [
+            "Manchester, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 549300K6FB6TNV0CO531",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "ANTI-PERSONNEL obstacle breaching system (APOBS) MK7 MOD 2, NSN 1375-01-508-4975, dodic MN79.",
+            "sub": "Department of the Army · US$15.3M · 2023–2027",
+            "status": "Contract",
+            "date": "10 Aug 2023",
+            "iso": "2023-08-10",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "Delivery order 6 for M19, M21, and M23S.",
+            "sub": "Department of the Army · US$7.8M · 2024–2027",
+            "status": "Contract",
+            "date": "30 Jul 2024",
+            "iso": "2024-07-30",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "DO4 for DET CORDS.",
+            "sub": "Department of the Army · US$5.8M · 2025–2027",
+            "status": "Contract",
+            "date": "21 Aug 2025",
+            "iso": "2025-08-21",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "M456 DET. CORD TYPE 1, class E",
+            "sub": "Department of the Army · US$5.2M · 2024–2026",
+            "status": "Contract",
+            "date": "22 Aug 2024",
+            "iso": "2024-08-22",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Multiple product purchase",
+            "sub": "Department of the Army · US$3.2M · 2026–2028",
+            "status": "Contract",
+            "date": "16 Jul 2026",
+            "iso": "2026-07-16",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "Delivery order #5 for DET CORD TYPE 1E (NSN: 1375-00-180-9356), DET CORD reinf TYPE (NSN: 1375-00-028-5168), & DET CORD ",
+            "sub": "Department of the Army · US$3.1M · 2026–2027",
+            "status": "Contract",
+            "date": "16 Jul 2026",
+            "iso": "2026-07-16",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "CHARGE, demolition - production",
+            "sub": "Department of the Navy · US$3.0M · 2024–2025",
+            "status": "Contract",
+            "date": "08 Mar 2024",
+            "iso": "2024-03-08",
+            "ongoing": false,
+            "src": 9
+          },
+          {
+            "title": "Family of sheet explosives second delivery order for the M980, M981 and M984.",
+            "sub": "Department of the Army · US$2.8M · 2024–2027",
+            "status": "Contract",
+            "date": "29 Apr 2024",
+            "iso": "2024-04-29",
+            "ongoing": true,
+            "src": 10
+          },
+          {
+            "title": "Contract award · MINISTRSTVO ZA OBRAMBO",
+            "sub": "TED notice 345930-2024",
+            "status": "Contract award",
+            "date": "12 Jun 2024",
+            "iso": "2024-06-12",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$59.0M · 7 contracts",
+            "status": "verified",
+            "src": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$6.0M · 1 contract",
+            "status": "verified",
+            "src": [
+              9,
+              11
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$189K",
+            "status": "verified",
+            "src": [
+              11
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 549300K6FB6TNV0CO531",
+            "url": "https://api.gleif.org/api/v1/lei-records/549300K6FB6TNV0CO531"
+          },
+          {
+            "title": "TED notice 345930-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/345930-2024"
+          },
+          {
+            "title": "USAspending.gov · W519TC23F0406",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC23F0406_9700_W52P1J19D0065_9700"
+          },
+          {
+            "title": "USAspending.gov · W15QKN24F0309",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN24F0309_9700_W15QKN21D0013_9700"
+          },
+          {
+            "title": "USAspending.gov · W519TC25F0283",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC25F0283_9700_W52P1J22D0038_9700"
+          },
+          {
+            "title": "USAspending.gov · W519TC24F0378",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC24F0378_9700_W52P1J22D0038_9700"
+          },
+          {
+            "title": "USAspending.gov · W519TC26F0083",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC26F0083_9700_W519TC23D0004_9700"
+          },
+          {
+            "title": "USAspending.gov · W519TC26F0121",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC26F0121_9700_W52P1J22D0038_9700"
+          },
+          {
+            "title": "USAspending.gov · N0016424FJ049",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0016424FJ049_9700_N0016420DJR75_9700"
+          },
+          {
+            "title": "USAspending.gov · W519TC24F0082",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC24F0082_9700_W519TC23D0004_9700"
+          },
+          {
+            "title": "USAspending.gov · US Department of Defense · FY2026–27, to 25 Nov 2026",
+            "url": "https://www.usaspending.gov/recipient/fcdb5bed-3384-b90d-09ec-13439f38079e-C/latest"
+          }
+        ]
+      },
+      "card_hash": "1f7b3a6badace9bc"
     }
   }
 }
