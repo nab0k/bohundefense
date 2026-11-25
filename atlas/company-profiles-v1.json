@@ -79999,6 +79999,1226 @@
         ]
       },
       "card_hash": "7cd0adae5605f569"
+    },
+    "aerojet-rocketdyne": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "AEROJET ROCKETDYNE, INC. is a US company, with its seat in Redmond. US federal spending records show US$0K obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 2 contracts; the largest customer is the Missile Defense Agency.",
+        "overview": "AEROJET ROCKETDYNE, INC. is a US company, with its seat in Redmond. US federal spending records show US$0K obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 2 contracts; the largest customer is the Missile Defense Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Redmond, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI XSEFW2JFVLW4",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Redmond, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI XSEFW2JFVLW4",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity AEROJET ROCKETDYNE, INC., UEI XSEFW2JFVLW4",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/dcc79470-09a7-95dd-2480-cabd01a3eab7-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/dcc79470-09a7-95dd-2480-cabd01a3eab7-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Redmond",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "AEROJET ROCKETDYNE, INC. is a US company, with its seat in Redmond. US federal spending records show US$0K obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 2 contracts; the largest customer is the Missile Defense Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$0K",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all Missile Defense Agency",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "2",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Redmond, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI XSEFW2JFVLW4",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "NEXT-GENERATION HALL thruster study (NGHTS)",
+            "sub": "Department of the Air Force · US$26.6M · 2021–2026",
+            "status": "Contract",
+            "date": "21 Apr 2021",
+            "iso": "2021-04-21",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "The contractor shall provide all necessary MATERIALS, LABOR, equipment and facilities incidental to the performance of t",
+            "sub": "Missile Defense Agency · US$0K · 2025–2035",
+            "status": "Contract",
+            "date": "29 Dec 2025",
+            "iso": "2025-12-29",
+            "ongoing": true,
+            "src": 3
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$26.6M · 1 contract",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Missile Defense Agency",
+            "sub": "Customer · US$1K · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI XSEFW2JFVLW4",
+            "url": "https://www.usaspending.gov/recipient/dcc79470-09a7-95dd-2480-cabd01a3eab7-C/latest"
+          },
+          {
+            "title": "USAspending.gov · FA930021C6002",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA930021C6002_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · HQ085926FF189",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_HQ085926FF189_9700_HQ085926DE019_9700"
+          }
+        ]
+      },
+      "card_hash": "f1f4513ff7c0ef92"
+    },
+    "cdw-government-llc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "CDW GOVERNMENT LLC is a US company, with its seat in Vernon Hills. US federal spending records show US$40.6M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 101 contracts; the largest customer is the Defense Health Agency.",
+        "overview": "CDW GOVERNMENT LLC is a US company, with its seat in Vernon Hills. US federal spending records show US$40.6M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 101 contracts; the largest customer is the Defense Health Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Vernon Hills, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI PHZDZ8SJ5CM1",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Vernon Hills, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI PHZDZ8SJ5CM1",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity CDW GOVERNMENT LLC, UEI PHZDZ8SJ5CM1",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/5f4e5d33-10ef-b0cc-1f33-8835b33808f1-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/5f4e5d33-10ef-b0cc-1f33-8835b33808f1-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Vernon Hills",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "CDW GOVERNMENT LLC is a US company, with its seat in Vernon Hills. US federal spending records show US$40.6M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 101 contracts; the largest customer is the Defense Health Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$40.6M",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "101",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$19.1M",
+            "label": "largest customer: Defense Health Agency",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Vernon Hills, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI PHZDZ8SJ5CM1",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Refresh MHS genesis WFE new hardware for DOD healthcare management system modernization (DHMSM)",
+            "sub": "Defense Health Agency · US$18.8M · 2026",
+            "status": "Contract",
+            "date": "18 Jun 2026",
+            "iso": "2026-06-18",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "Brant HALL network",
+            "sub": "Department of the Army · US$9.7M · 2025–2026",
+            "status": "Contract",
+            "date": "25 Sep 2025",
+            "iso": "2025-09-25",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "FORT stewart GARRISON/ 3RD infantry division (3RD ID) multifunctional devices lease",
+            "sub": "Department of the Army · US$6.8M · 2022–2027",
+            "status": "Contract",
+            "date": "23 Aug 2022",
+            "iso": "2022-08-23",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "This is brand NAME requirement for a variety of EDU/MIL hardware and software products to include DELL vxrail NODES, bac",
+            "sub": "Uniformed Services University of the Health Sciences · US$3.9M · 2025–2026",
+            "status": "Contract",
+            "date": "26 Sep 2025",
+            "iso": "2025-09-26",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Everfox SOFTWARE/HARDWARE upgrade",
+            "sub": "Department of the Army · US$3.7M · 2024–2026",
+            "status": "Contract",
+            "date": "19 Sep 2024",
+            "iso": "2024-09-19",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "ARMY TEST evaluation command (ATEC) headquarters (HQ) servicenow implementation services",
+            "sub": "Department of the Army · US$2.9M · 2025–2027",
+            "status": "Contract",
+            "date": "22 Sep 2025",
+            "iso": "2025-09-22",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "Licenses for arcyber",
+            "sub": "Department of the Army · US$2.6M · 2024–2026",
+            "status": "Contract",
+            "date": "23 Dec 2024",
+            "iso": "2024-12-23",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "Change OUT the display SYSTEM, video distribution SYSTEM, VTC SYSTEM, audio and intercom SYSTEM, control SYSTEM, and the",
+            "sub": "Department of the Army · US$2.4M · 2025–2026",
+            "status": "Contract",
+            "date": "03 Nov 2025",
+            "iso": "2025-11-03",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$46.0M · 6 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              3,
+              4
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Health Agency",
+            "sub": "Customer · US$37.9M · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              2
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Uniformed Services University of the Health Sciences",
+            "sub": "Customer · US$4.1M · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              5
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$2.6M",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$809K",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Finance and Accounting Service",
+            "sub": "Customer · US$28K",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI PHZDZ8SJ5CM1",
+            "url": "https://www.usaspending.gov/recipient/5f4e5d33-10ef-b0cc-1f33-8835b33808f1-C/latest"
+          },
+          {
+            "title": "USAspending.gov · HT001526FE048",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_HT001526FE048_9700_NNG15SC28B_8000"
+          },
+          {
+            "title": "USAspending.gov · W9124925FA119",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W9124925FA119_9700_W52P1J16D0013_9700"
+          },
+          {
+            "title": "USAspending.gov · W9124M22F0146",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W9124M22F0146_9700_W52P1J16D0013_9700"
+          },
+          {
+            "title": "USAspending.gov · HU000125FE033",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_HU000125FE033_9700_NNG15SC28B_8000"
+          },
+          {
+            "title": "USAspending.gov · W519TC24F0447",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC24F0447_9700_W52P1J16D0013_9700"
+          },
+          {
+            "title": "USAspending.gov · W91CRB25FA286",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W91CRB25FA286_9700_W52P1J20D0043_9700"
+          },
+          {
+            "title": "USAspending.gov · W519TC25F0066",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC25F0066_9700_W52P1J20D0043_9700"
+          },
+          {
+            "title": "USAspending.gov · W51H7226FA001",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W51H7226FA001_9700_W52P1J16D0013_9700"
+          }
+        ]
+      },
+      "card_hash": "1747be854c2928bf"
+    },
+    "lockheed-martin-corporation": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "LOCKHEED MARTIN CORPORATION is a US company, with its seat in Fort Worth. US federal spending records show US$47.2B obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 5,100 contracts; the largest customer is the Department of the Navy.",
+        "overview": "LOCKHEED MARTIN CORPORATION is a US company, with its seat in Fort Worth. US federal spending records show US$47.2B obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 5,100 contracts; the largest customer is the Department of the Navy."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Fort Worth, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI KDT2YLB34NT6",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Fort Worth, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI KDT2YLB34NT6",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity LOCKHEED MARTIN CORPORATION, UEI KDT2YLB34NT6",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/6cf5fb1b-4988-d087-5dc1-70939d8fc6c4-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/6cf5fb1b-4988-d087-5dc1-70939d8fc6c4-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Fort Worth",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "LOCKHEED MARTIN CORPORATION is a US company, with its seat in Fort Worth. US federal spending records show US$47.2B obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 5,100 contracts; the largest customer is the Department of the Navy.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$47.2B",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "5,100",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$17.8B",
+            "label": "largest customer: Department of the Navy",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Fort Worth, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI KDT2YLB34NT6",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "LRIP lot 12 advance acquisition contract",
+            "sub": "Department of the Navy · US$35.1B · 2017–2031",
+            "status": "Contract",
+            "date": "17 Nov 2017",
+            "iso": "2017-11-17",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "F-35A LRIP 15 USAF AIRCRAFT* long lead funding",
+            "sub": "Department of the Navy · US$30.2B · 2019–2028",
+            "status": "Contract",
+            "date": "26 Nov 2019",
+            "iso": "2019-11-26",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "Long lead funding for F-35A, F-35B, and F-35C aircraft for U.S. SERVICES, NON-DOD PARTNERS, and FMS customers",
+            "sub": "Department of the Navy · US$24.6B · 2022–2031",
+            "status": "Contract",
+            "date": "23 Dec 2022",
+            "iso": "2022-12-23",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "LRIP 11 AAC",
+            "sub": "Defense Contract Management Agency · US$12.3B · 2015–2031",
+            "status": "Contract",
+            "date": "21 Dec 2015",
+            "iso": "2015-12-21",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "The contract award is for the FY21/FY22/FY23 base and option pricing for phase array tracking radar to intercept on targ",
+            "sub": "Department of the Army · US$10.5B · 2020–2033",
+            "status": "Contract",
+            "date": "30 Apr 2020",
+            "iso": "2020-04-30",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "HQ0147-17-C-0032 undefinitized contract action (UCA) for thaad interceptor lot 9 production - QTY of 23",
+            "sub": "Missile Defense Agency · US$10.4B · 2017–2029",
+            "status": "Contract",
+            "date": "27 Mar 2017",
+            "iso": "2017-03-27",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "Execute phased array tracking radar to intercept on target (PATRIOT) advanced CAPABILITY-3 (PAC-3) missile production by",
+            "sub": "Department of the Army · US$10.3B · 2024–2036",
+            "status": "Contract",
+            "date": "28 Jun 2024",
+            "iso": "2024-06-28",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "FOLLOW-ON agile sustainment to the raptor (FASTER)",
+            "sub": "Defense Contract Management Agency · US$8.8B · 2008–2024",
+            "status": "Contract",
+            "date": "01 Jan 2008",
+            "iso": "2008-01-01",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$107.7B · 3 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3,
+              13
+            ],
+            "quote": "The US Navy has awarded Lockheed Martin a letter contract modification with a not-to-exceed amount of $1,533,124,563 for Trident II D5 missile production and deployed systems support, the Department of War announced on Nov. 20 ."
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$38.2B · 2 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              6,
+              8,
+              22
+            ],
+            "quote": "U.S. Army selects Lockheed Martin’s PAC-3 Edge for Future Interceptor development program"
+          },
+          {
+            "type": "customer",
+            "name": "Defense Contract Management Agency",
+            "sub": "Customer · US$21.1B · 2 contracts",
+            "status": "verified",
+            "src": [
+              5,
+              9
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Missile Defense Agency",
+            "sub": "Customer · US$15.3B · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              7
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$5.8B",
+            "status": "verified",
+            "src": [
+              1,
+              16
+            ],
+            "quote": "The U.S. Air Force awarded Lockheed Martin a $1.6 billion contract for more spare parts in July."
+          },
+          {
+            "type": "customer",
+            "name": "U.S. Special Operations Command",
+            "sub": "Customer · US$724.7M",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "FAYETTE ELECTRICAL SERVICE INC",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              10
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "BAE Systems",
+            "country": null,
+            "in_catalogue": false,
+            "sub": "Supplier",
+            "status": "verified",
+            "quote": "BAE Systems has completed the delivery of all Lot 8 radio-frequency (RF) sensors to Lockheed Martin for integration into the US military’s Long-Range Anti-Ship Missile (LRASM) programme.",
+            "src": [
+              11,
+              12
+            ]
+          },
+          {
+            "type": "competitor",
+            "name": "Anduril",
+            "country": "US",
+            "in_catalogue": true,
+            "sub": "Competitor",
+            "status": "verified",
+            "quote": "Lockheed Martin’s prototype will go against submissions from Anduril, Castelion, Mach Industries and RTX.",
+            "src": [
+              15
+            ]
+          },
+          {
+            "type": "competitor",
+            "name": "Castelion",
+            "country": "US",
+            "in_catalogue": true,
+            "sub": "Competitor",
+            "status": "verified",
+            "quote": "Lockheed Martin’s prototype will go against submissions from Anduril, Castelion, Mach Industries and RTX.",
+            "src": [
+              15
+            ]
+          },
+          {
+            "type": "competitor",
+            "name": "Mach Industries",
+            "country": null,
+            "in_catalogue": true,
+            "sub": "Competitor",
+            "status": "verified",
+            "quote": "Lockheed Martin’s prototype will go against submissions from Anduril, Castelion, Mach Industries and RTX.",
+            "src": [
+              15
+            ]
+          },
+          {
+            "type": "competitor",
+            "name": "RTX",
+            "country": null,
+            "in_catalogue": false,
+            "sub": "Competitor",
+            "status": "verified",
+            "quote": "Lockheed Martin’s prototype will go against submissions from Anduril, Castelion, Mach Industries and RTX.",
+            "src": [
+              15
+            ]
+          },
+          {
+            "type": "owner",
+            "name": "ABL Alliance",
+            "country": null,
+            "in_catalogue": true,
+            "sub": "Owner",
+            "status": "verified",
+            "quote": "Around 70 Unite members at the Royal Naval Armaments Depot, employed by AWE plc, Babcock Marine and Lockheed Martin",
+            "src": [
+              17
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "DSV A/S",
+            "country": null,
+            "in_catalogue": true,
+            "sub": "Supplier",
+            "status": "verified",
+            "quote": "la société de transport DSV A/S, mandatée par Lockheed Martin",
+            "src": [
+              18
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Space Systems Command",
+            "country": null,
+            "in_catalogue": false,
+            "sub": "Customer",
+            "status": "verified",
+            "quote": "SSC has since awarded contracts to Rocket Lab, York Space Systems, Northrop Grumman, Lockheed Martin, and Amazon LEO for Government.",
+            "src": [
+              19
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "Machina",
+            "country": "US",
+            "in_catalogue": true,
+            "sub": "Supplier",
+            "status": "verified",
+            "quote": "In July, Machina was issued a qualification contract by Lockheed Martin to produce fuel tanks for AGM-158 Joint Air-To-Surface Standoff Missiles (JASSM).",
+            "src": [
+              20
+            ]
+          },
+          {
+            "type": "funded",
+            "name": "PV Labs Ltd",
+            "country": null,
+            "in_catalogue": true,
+            "sub": "Funded by the company",
+            "status": "verified",
+            "quote": "Lockheed Martin to invest in Canada’s PV Labs to develop next-generation AH-64E Apache pilot night-vision sensor",
+            "src": [
+              21
+            ]
+          },
+          {
+            "type": "funded",
+            "name": "contextere",
+            "country": null,
+            "in_catalogue": true,
+            "sub": "Funded by the company · C$10.0M · reported, not confirmed",
+            "status": "candidate",
+            "quote": "Lockheed Martin invests C$10 million in Canadian AI to improve Hercules fleet maintenance",
+            "src": [
+              23
+            ]
+          }
+        ],
+        "products": [
+          {
+            "name": "F-16",
+            "role": "makes",
+            "status": "verified",
+            "quote": "Lockheed Martin opens 28,000-square-foot welcome center at its main F-16 production site in Greenville, South Carolina",
+            "src": [
+              25,
+              26
+            ]
+          },
+          {
+            "name": "GMLRS",
+            "role": "makes",
+            "status": "verified",
+            "quote": "Lockheed Martin has delivered its 100,000th GMLRS rocket and is now producing nearly 14,000 a year, a rate reached ahead of schedule, according to the company .",
+            "src": [
+              27,
+              28
+            ]
+          },
+          {
+            "name": "Javelin",
+            "role": "makes",
+            "status": "verified",
+            "quote": "Javelin, built by a joint venture of Lockheed Martin and RTX, is a fire-and-forget missile...",
+            "src": [
+              29
+            ]
+          },
+          {
+            "name": "Precision Strike Missile",
+            "role": "makes",
+            "status": "verified",
+            "quote": "Lockheed Martin says foreign requests for Precision Strike Missile are rising as it plans higher output",
+            "src": [
+              30
+            ]
+          },
+          {
+            "name": "F-35",
+            "role": "makes",
+            "status": "verified",
+            "quote": "Lockheed Martin for the airframe",
+            "src": [
+              16,
+              31
+            ]
+          },
+          {
+            "name": "PAC-3 MSE",
+            "role": "makes",
+            "status": "verified",
+            "quote": "This year, the U.S. government awarded Lockheed Martin $58.62 billion to continue accelerating PAC-3 MSE production, ensuring U.S. allies have the advanced air and missile defense capabilities they need to defend what matters most.",
+            "src": [
+              32
+            ]
+          },
+          {
+            "name": "Patriot Advanced Capability-3 (PAC-3)",
+            "role": "makes",
+            "status": "verified",
+            "quote": "Patriot Advanced Capability-3 (PAC-3) interceptors, produced by Lockheed Martin",
+            "src": [
+              33
+            ]
+          },
+          {
+            "name": "PAC-3 Edge",
+            "role": "makes",
+            "status": "candidate",
+            "quote": "Lockheed Martin said PAC-3 Edge would incorporate advanced capabilities alongside its PAC-3 MSE technology foundation.",
+            "src": [
+              22
+            ]
+          },
+          {
+            "name": "F-22",
+            "role": "makes",
+            "status": "candidate",
+            "quote": "One is modernizing the F-22, especially with sensors, distributed aperture system, data links, and beyond line of sight capabilities that the original F-22 did not have",
+            "src": [
+              34
+            ]
+          },
+          {
+            "name": "Vectis",
+            "role": "makes",
+            "status": "candidate",
+            "quote": "The other elements of the company’s air combat strategy are further F-35 development and Vectis, an autonomous aircraft being funded internally ahead of formal customer requirements.",
+            "src": [
+              34
+            ]
+          },
+          {
+            "name": "Air-Launched Rapid Response Weapon",
+            "role": "makes",
+            "status": "candidate",
+            "quote": "production of the hypersonic Air-Launched Rapid Response Weapon",
+            "src": [
+              35
+            ]
+          },
+          {
+            "name": "ARRW",
+            "role": "makes",
+            "status": "candidate",
+            "quote": "The factory will use advanced manufacturing, robotics and digital technologies to build ARRW.",
+            "src": [
+              36
+            ]
+          }
+        ],
+        "news": [
+          {
+            "iso": "2026-11-20",
+            "kind": "Customer",
+            "title": "Customer: US Navy",
+            "line": "The US Navy has awarded Lockheed Martin a letter contract modification with a not-to-exceed amount of $1,533,124,563 for Trident II D5 missile production and deployed systems support, the Department of War announced on Nov. 20 .",
+            "src": 13
+          },
+          {
+            "iso": "2026-10-29",
+            "kind": "Customer",
+            "title": "Customer: U.S. Army",
+            "line": "U.S. Army selects Lockheed Martin’s PAC-3 Edge for Future Interceptor development program",
+            "src": 22
+          },
+          {
+            "iso": "2026-10-27",
+            "kind": "Competitor",
+            "title": "Competitor: Anduril",
+            "line": "Lockheed Martin’s prototype will go against submissions from Anduril, Castelion, Mach Industries and RTX.",
+            "src": 15
+          },
+          {
+            "iso": "2026-10-27",
+            "kind": "Competitor",
+            "title": "Competitor: Castelion",
+            "line": "Lockheed Martin’s prototype will go against submissions from Anduril, Castelion, Mach Industries and RTX.",
+            "src": 15
+          },
+          {
+            "iso": "2026-10-27",
+            "kind": "Competitor",
+            "title": "Competitor: Mach Industries",
+            "line": "Lockheed Martin’s prototype will go against submissions from Anduril, Castelion, Mach Industries and RTX.",
+            "src": 15
+          },
+          {
+            "iso": "2026-10-27",
+            "kind": "Competitor",
+            "title": "Competitor: RTX",
+            "line": "Lockheed Martin’s prototype will go against submissions from Anduril, Castelion, Mach Industries and RTX.",
+            "src": 15
+          }
+        ],
+        "sources": [
+          {
+            "title": "Register · UEI KDT2YLB34NT6",
+            "url": "https://www.usaspending.gov/recipient/6cf5fb1b-4988-d087-5dc1-70939d8fc6c4-C/latest"
+          },
+          {
+            "title": "USAspending.gov · N0001917C0001",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001917C0001_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001920C0009",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001920C0009_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001923C0003",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001923C0003_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001916C0033",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001916C0033_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W31P4Q20C0023",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q20C0023_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · HQ014717C0032",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_HQ014717C0032_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W31P4Q24C0022",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q24C0022_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · FA861108C2897",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA861108C2897_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · sub-award",
+            "url": "https://www.usaspending.gov/search"
+          },
+          {
+            "title": "naval-technology.com",
+            "url": "https://www.naval-technology.com/news/bae-systems-lrasm-lockheed-martin/"
+          },
+          {
+            "title": "defence-industry.eu",
+            "url": "https://defence-industry.eu/bae-systems-accelerates-guidance-sensor-deliveries-for-lockheed-martins-long-range-anti-ship-missile/"
+          },
+          {
+            "title": "defensebook.com",
+            "url": "https://defensebook.com/lockheed-martin-gets-up-to-1-53b-from-us-navy-for-trident-ii-d5-missile-production/"
+          },
+          {
+            "title": "defensewarroom.com",
+            "url": "https://defensewarroom.com/2026/11/20/navy-sewip-contract-electronic-warfare/"
+          },
+          {
+            "title": "navalnews.com",
+            "url": "https://www.navalnews.com/naval-news/2026/10/lockheed-martin-showcases-1000-km-prsm-inc-4-prototype/"
+          },
+          {
+            "title": "defensenews.com",
+            "url": "https://www.defensenews.com/pentagon/2026/11/10/pentagon-cant-track-millions-of-f-35-spare-parts-watchdog-finds/"
+          },
+          {
+            "title": "ukdefencejournal.org.uk",
+            "url": "https://ukdefencejournal.org.uk/coulport-nuclear-base-strike-suspended-after-new-pay-offer/"
+          },
+          {
+            "title": "opex360.com",
+            "url": "https://www.opex360.com/2026/11/10/plus-de-17-000-pieces-detachees-de-f-35-dune-valeur-totale-de-13-milliard-de-dollars-manquent-a-lappel/"
+          },
+          {
+            "title": "airandspaceforces.com",
+            "url": "https://www.airandspaceforces.com/space-force-viasat-450m-ops-center-data-network/"
+          },
+          {
+            "title": "twz.com",
+            "url": "https://www.twz.com/news-features/lucas-drones-to-be-built-in-containerized-robotic-micro-factories-designed-to-be-forward-deployed"
+          },
+          {
+            "title": "defence-industry.eu",
+            "url": "https://defence-industry.eu/lockheed-martin-to-invest-in-canadas-pv-labs-to-develop-next-generation-ah-64e-apache-pilot-night-vision-sensor/"
+          },
+          {
+            "title": "defence-industry.eu",
+            "url": "https://defence-industry.eu/u-s-army-selects-lockheed-martin-to-develop-future-interceptor-for-air-and-missile-defense/"
+          },
+          {
+            "title": "defence-industry.eu",
+            "url": "https://defence-industry.eu/lockheed-martin-invests-c10-million-in-canadian-ai-to-improve-hercules-fleet-maintenance/"
+          },
+          {
+            "title": "defence-blog.com",
+            "url": "https://defence-blog.com/lockheed-gets-72-6m-to-speed-up-delayed-f-35-block-4-upgrade/"
+          },
+          {
+            "title": "defence-industry.eu",
+            "url": "https://defence-industry.eu/lockheed-martin-opens-28000-square-foot-welcome-center-at-its-main-f-16-production-site-in-greenville-south-carolina/"
+          },
+          {
+            "title": "airandspaceforces.com",
+            "url": "https://www.airandspaceforces.com/ukrainie-f-16-super-effective-downing-russia-drones/"
+          },
+          {
+            "title": "ukdefencejournal.org.uk",
+            "url": "https://ukdefencejournal.org.uk/lockheed-delivers-one-hundred-thousandth-gmlrs-rocket/"
+          },
+          {
+            "title": "asiapacificdefencereporter.com",
+            "url": "https://asiapacificdefencereporter.com/lockheed-martin-reaches-gmlrs-production-milestone/"
+          },
+          {
+            "title": "ukdefencejournal.org.uk",
+            "url": "https://ukdefencejournal.org.uk/british-troops-fire-off-javelin-missiles/"
+          },
+          {
+            "title": "defence-industry.eu",
+            "url": "https://defence-industry.eu/lockheed-martin-says-foreign-requests-for-precision-strike-missile-are-rising-as-it-plans-higher-output/"
+          },
+          {
+            "title": "airandspaceforces.com",
+            "url": "https://www.airandspaceforces.com/new-report-1-million-f-35-spare-parts-remain-missing/"
+          },
+          {
+            "title": "asiapacificdefencereporter.com",
+            "url": "https://asiapacificdefencereporter.com/lockheed-martin-to-create-new-pac-3-missile-maintenance-facility/"
+          },
+          {
+            "title": "defensenews.com",
+            "url": "https://www.defensenews.com/global/europe/2026/10/27/us-taps-poland-to-host-european-pac-3-missile-maintenance-facility/"
+          },
+          {
+            "title": "defence-industry.eu",
+            "url": "https://defence-industry.eu/lockheed-martin-ceo-says-f-22-upgrades-will-deliver-fifth-generation-plus-capability/"
+          },
+          {
+            "title": "airandspaceforces.com",
+            "url": "https://www.airandspaceforces.com/f-16-jets-castelion-hypersonic-blackbeard-missile/"
+          },
+          {
+            "title": "defence-industry.eu",
+            "url": "https://defence-industry.eu/lockheed-martin-expands-alabama-plant-to-produce-hypersonic-missiles-for-b-52-bombers/"
+          }
+        ]
+      },
+      "card_hash": "78cfa1c345372401"
     }
   }
 }
