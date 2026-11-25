@@ -68178,6 +68178,21 @@
           "level": "L0",
           "icon": "box",
           "selected": true
+        },
+        {
+          "label": "Radar signature management",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Multispectral camouflage systems",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Joint development projects",
+          "level": "L0",
+          "icon": "box"
         }
       ],
       "productAccordion": [
@@ -68190,6 +68205,21 @@
             [
               "Advanced material solutions",
               "Rather than manufacturing standalone products, we provide advanced material solutions that enable new performance characteristics for OEMs, ",
+              "grey"
+            ],
+            [
+              "Radar signature management",
+              "Our technology platform supports a broad range of applications across defence and other demanding industries. Representative applications in",
+              "grey"
+            ],
+            [
+              "Multispectral camouflage systems",
+              "Representative applications include: RADAR SIGNATURE MANAGEMENT MULTISPECTRAL CAMOUFLAGE SYSTEMS",
+              "grey"
+            ],
+            [
+              "Joint development projects",
+              "Typical collaboration models include: JOINT DEVELOPMENT PROJECTS",
               "grey"
             ]
           ]
@@ -68223,7 +68253,43 @@
           "Jyväskylä",
           "Registered office"
         ]
-      ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Oy Morphona Ltd. is a Finnish company registered in 2013, with its seat in Jyväskylä.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2013",
+            "Registered",
+            null
+          ],
+          [
+            "Jyväskylä, Finland",
+            "Headquarters",
+            null
+          ],
+          [
+            "Y-tunnus 2531317-7",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · Y-tunnus 2531317-7",
+            "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=2531317-7"
+          }
+        ]
+      },
+      "card_hash": "fe37548e43999ebb"
     },
     "oy-sisu-auto-ab": {
       "developments": [],
@@ -68324,6 +68390,11 @@
           "icon": "box"
         },
         {
+          "label": "SISU GTP 4x4",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
           "label": "Vehicle technology consulting services",
           "level": "L0",
           "icon": "box"
@@ -68372,8 +68443,13 @@
               "grey"
             ],
             [
+              "SISU GTP 4x4",
+              "Engineered for the toughest missions, SISU GTP 4x4 combines all-terrain mobility, modular protection, and superior crew comfort.",
+              "grey"
+            ],
+            [
               "Vehicle technology consulting services",
-              "In parallel, vehicle technology consulting services, as well as the related design and project management, are also key elements in Sisu Aut",
+              "vehicle technology consulting services, as well as the related design and project management, are also key elements in Sisu Auto's strategy ",
               "grey"
             ]
           ]
@@ -68407,7 +68483,43 @@
           "Karjaa",
           "Registered office"
         ]
-      ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Oy Sisu Auto Ab is a Finnish company registered in 2002, with its seat in Karjaa.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2002",
+            "Registered",
+            null
+          ],
+          [
+            "Karjaa, Finland",
+            "Headquarters",
+            null
+          ],
+          [
+            "Y-tunnus 1749559-9",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · Y-tunnus 1749559-9",
+            "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=1749559-9"
+          }
+        ]
+      },
+      "card_hash": "f8e205f8f6f04f67"
     },
     "oy-telva-ab": {
       "developments": [],
