@@ -85779,6 +85779,1367 @@
         ]
       },
       "card_hash": "0d19520bc4827bf2"
+    },
+    "lockheed-martin-canada": {
+      "developments": [],
+      "country": "CA",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "Lockheed Martin Canada is a Canadian company, with its seat in Kanata. Canada’s open contract records list 8 federal contracts with it (2006–2024), 8 of them with defence buyers.",
+        "overview": "Lockheed Martin Canada is a Canadian company, with its seat in Kanata. Canada’s open contract records list 8 federal contracts with it (2006–2024), 8 of them with defence buyers."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Kanata, Canada",
+            "Headquarters"
+          ],
+          [
+            "LEI 5493000IEGP1YVKCG248",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Kanata, Canada",
+            "Headquarters"
+          ],
+          [
+            "LEI 5493000IEGP1YVKCG248",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Lockheed Martin Canada, LEI 5493000IEGP1YVKCG248",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://search.gleif.org/#/record/5493000IEGP1YVKCG248"
+        },
+        {
+          "claim": "Contracts with the Government of Canada",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Open Government Canada",
+          "href": "https://open.canada.ca/data/en/dataset/d8f85d91-7dec-4fd1-8055-483b77225d8b"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Kanata",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Lockheed Martin Canada is a Canadian company, with its seat in Kanata. Canada’s open contract records list 8 federal contracts with it (2006–2024), 8 of them with defence buyers.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "8",
+            "label": "contracts on record (8 with defence buyers)",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "value": "C$538.9M",
+            "label": "largest: National Defence, 2008",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Kanata, Canada",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 5493000IEGP1YVKCG248",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Engineering services not elsewhere specified",
+            "sub": "National Defence · C$538.9M · 2008–2021",
+            "status": "Contract",
+            "date": "07 Nov 2008",
+            "iso": "2008-11-07",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "Engineering services not elsewhere specified",
+            "sub": "National Defence · C$495.0M · 2008–2021",
+            "status": "Contract",
+            "date": "07 Nov 2008",
+            "iso": "2008-11-07",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "Aircraft",
+            "sub": "National Defence · C$544K · 2018–2019",
+            "status": "Contract",
+            "date": "24 Dec 2018",
+            "iso": "2018-12-24",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Engineering consultants-Other",
+            "sub": "National Defence · C$229K · 2021",
+            "status": "Contract",
+            "date": "24 May 2021",
+            "iso": "2021-05-24",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "R019 - Professional Services",
+            "sub": "National Defence · C$76K · 2007",
+            "status": "Contract",
+            "date": "13 Aug 2007",
+            "iso": "2007-08-13",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "R019 - Professional Services",
+            "sub": "National Defence · C$65K · 2007",
+            "status": "Contract",
+            "date": "13 Aug 2007",
+            "iso": "2007-08-13",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Technical Engineering and Maintenance Services (TEMS)",
+            "sub": "National Defence · C$15K · 2006",
+            "status": "Contract",
+            "date": "03 Feb 2006",
+            "iso": "2006-02-03",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "Application software (including COTS) and application development and delivery software",
+            "sub": "National Defence · C$13K · 2024",
+            "status": "Contract",
+            "date": "16 Jan 2024",
+            "iso": "2024-01-16",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "National Defence",
+            "sub": "Customer · C$1.0B · 8 contracts",
+            "status": "verified",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 5493000IEGP1YVKCG248",
+            "url": "https://search.gleif.org/#/record/5493000IEGP1YVKCG248"
+          },
+          {
+            "title": "Open Government Canada · C-2021-2022-Q1-00005",
+            "url": "https://search.open.canada.ca/contracts/record/dnd-mdn,C-2021-2022-Q1-00005"
+          },
+          {
+            "title": "Open Government Canada · C-2018-2019-Q1-00002",
+            "url": "https://search.open.canada.ca/contracts/record/dnd-mdn,C-2018-2019-Q1-00002"
+          },
+          {
+            "title": "Open Government Canada · 2018-2019-Q4-02853",
+            "url": "https://search.open.canada.ca/contracts/record/dnd-mdn,2018-2019-Q4-02853"
+          },
+          {
+            "title": "Open Government Canada · C-2021-2022-Q1-03721",
+            "url": "https://search.open.canada.ca/contracts/record/dnd-mdn,C-2021-2022-Q1-03721"
+          },
+          {
+            "title": "Open Government Canada · C-2007-2008-Q2-00864",
+            "url": "https://search.open.canada.ca/contracts/record/dnd-mdn,C-2007-2008-Q2-00864"
+          },
+          {
+            "title": "Open Government Canada · C-2007-2008-Q2-00865",
+            "url": "https://search.open.canada.ca/contracts/record/dnd-mdn,C-2007-2008-Q2-00865"
+          },
+          {
+            "title": "Open Government Canada · C-2005-2006-Q4-00250",
+            "url": "https://search.open.canada.ca/contracts/record/dnd-mdn,C-2005-2006-Q4-00250"
+          },
+          {
+            "title": "Open Government Canada · C-2023-2024-Q4-004295",
+            "url": "https://search.open.canada.ca/contracts/record/dnd-mdn,C-2023-2024-Q4-004295"
+          },
+          {
+            "title": "Open Government Canada · contracts",
+            "url": "https://open.canada.ca/data/en/dataset/d8f85d91-7dec-4fd1-8055-483b77225d8b"
+          }
+        ]
+      },
+      "card_hash": "466473f0de0ed792"
+    },
+    "arx-robotics-gmbh": {
+      "developments": [
+        {
+          "date": "14 Nov 2025",
+          "title": "COP-GPT — GPT-Powered Common Operational Picture with Autonomous UxV Swarms",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224266/EDF"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "ARX Robotics GmbH is a German company registered in 2023, with its seat in Oberding. It takes part in 1 European Defence Fund project (2025). Of these, 1 ongoing, EU funding to the company €1.1M.",
+        "overview": "ARX Robotics GmbH is a German company registered in 2023, with its seat in Oberding. It takes part in 1 European Defence Fund project (2025). Of these, 1 ongoing, EU funding to the company €1.1M."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2023",
+            "Registered"
+          ],
+          [
+            "Oberding, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 9845009FAAF3E10V1E96",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2023",
+            "Registered"
+          ],
+          [
+            "Oberding, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 9845009FAAF3E10V1E96",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "COP-GPT — GPT-Powered Common Operational Picture with Autonomous UxV Swarms",
+            "sub": "Participant · EU funding €1.1M of €4.7M · 5 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "14 Nov 2025",
+            "desc": "EDF EDF-2024-LS-DA-SME-NT",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224266/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "COP-GPT — GPT-Powered Common Operational Picture with Autonomous UxV Swarms",
+            "sub": "Participant · EU funding €1.1M of €4.7M · 5 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "14 Nov 2025",
+            "desc": "EDF EDF-2024-LS-DA-SME-NT",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224266/EDF"
+          }
+        ]
+      },
+      "productTree": [
+        {
+          "label": "Gereon",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Hector",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Gereon",
+              "02 Gereon Tracked platform for rough terrain and heavy payloads.",
+              "grey"
+            ],
+            [
+              "Hector",
+              "HECTOR is ARX Robotics’ medium-sized mass-producible, connected unmanned ground vehicle (UGV)",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ARX Robotics GmbH, LEI 9845009FAAF3E10V1E96",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/9845009FAAF3E10V1E96"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101224266",
+          "sources": 1,
+          "date": "14 Nov 2025",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224266/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Oberding",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ARX Robotics GmbH is a German company registered in 2023, with its seat in Oberding. It takes part in 1 European Defence Fund project (2025). Of these, 1 ongoing, EU funding to the company €1.1M.",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "€1.1M",
+            "label": "EU defence funding to the company",
+            "src": [
+              2
+            ]
+          },
+          {
+            "value": "1",
+            "label": "European Defence Fund projects",
+            "src": [
+              2
+            ]
+          },
+          {
+            "value": "1",
+            "label": "ongoing now",
+            "src": [
+              2
+            ]
+          },
+          {
+            "value": "4",
+            "label": "organisations it shares EDF projects with",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "2023",
+            "Registered",
+            null
+          ],
+          [
+            "Oberding, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 9845009FAAF3E10V1E96",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "COP-GPT — GPT-Powered Common Operational Picture with Autonomous UxV Swarms",
+            "sub": "Participant · EU funding €1.1M of €4.7M · 5 partners · 2025–2028",
+            "status": "Grant · Ongoing",
+            "date": "14 Nov 2025",
+            "iso": "2025-11-14",
+            "ongoing": true,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant · €1.1M",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "AVALOR AI BV",
+            "country": "NL",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "SE3 Labs GmbH",
+            "country": "DE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "Tective B.V.",
+            "country": "NL",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "UAB GRANTA AUTONOMY",
+            "country": "LT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Ukraine",
+            "country": null,
+            "in_catalogue": false,
+            "sub": "Customer",
+            "status": "verified",
+            "quote": "ARX Robotics has delivered its 400th uncrewed ground vehicle to Ukraine",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "funder",
+            "name": "NATO Innovation Fund",
+            "country": null,
+            "in_catalogue": false,
+            "sub": "Funder · reported, not confirmed",
+            "status": "candidate",
+            "quote": "NIF was joined by six of its portfolio companies: Kelluu, SatVu, RevEng.AI, STARK, ARX Robotics and TYTAN Technologies.",
+            "src": [
+              4,
+              5
+            ]
+          }
+        ],
+        "products": [
+          {
+            "name": "Rys Pro",
+            "role": "makes",
+            "status": "verified",
+            "quote": "In June, ARX and Ukrainian manufacturer Roboneers agreed to form a joint venture, ARX Industries, to build Roboneers’ Rys Pro ground robot",
+            "src": [
+              3
+            ]
+          },
+          {
+            "name": "Gereon",
+            "role": "makes",
+            "status": "verified",
+            "quote": "ARX has said it aims to produce 1,800 Gereons a year",
+            "src": [
+              3
+            ]
+          }
+        ],
+        "news": [
+          {
+            "iso": "2026-11-18",
+            "kind": "Customer",
+            "title": "Customer: Ukraine",
+            "line": "ARX Robotics has delivered its 400th uncrewed ground vehicle to Ukraine",
+            "src": 3
+          }
+        ],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 9845009FAAF3E10V1E96",
+            "url": "https://api.gleif.org/api/v1/lei-records/9845009FAAF3E10V1E96"
+          },
+          {
+            "title": "EU Funding & Tenders portal · COP-GPT",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224266/EDF"
+          },
+          {
+            "title": "ukdefencejournal.org.uk",
+            "url": "https://ukdefencejournal.org.uk/arx-robotics-delivers-400th-ground-robot-to-ukraine/"
+          },
+          {
+            "title": "nif.fund",
+            "url": "https://www.nif.fund/news/six-nato-innvoation-fund-companies-join-nato-edge-2026-in-izmir/"
+          },
+          {
+            "title": "ukdefencejournal.org.uk",
+            "url": "https://ukdefencejournal.org.uk/nato-innovation-fund-backs-nine-unicorns-in-three-years/"
+          }
+        ]
+      },
+      "card_hash": "b0cba6ea99d5a756"
+    },
+    "saab-dynamics-aktiebolag": {
+      "developments": [
+        {
+          "date": "16 Dec 2022",
+          "title": "NAVGUARD — Advanced Galileo PRS resilience for EU Defence",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103596/EDF"
+        },
+        {
+          "date": "09 Dec 2022",
+          "title": "MARSEUS — Modular ARchitecture Solution for EU States",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103595/EDF"
+        }
+      ],
+      "country": "SE",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Saab Dynamics Aktiebolag is a Swedish company registered in 1985, with its seat in Karlskoga. It takes part in 2 European Defence Fund projects (2022). Of these, 1 ongoing, EU funding to the company €2.0M.",
+        "overview": "Saab Dynamics Aktiebolag is a Swedish company registered in 1985, with its seat in Karlskoga. It takes part in 2 European Defence Fund projects (2022). Of these, 1 ongoing, EU funding to the company €2.0M."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1985",
+            "Registered"
+          ],
+          [
+            "Karlskoga, Sweden",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300SML4A4ZX6G7W27",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1985",
+            "Registered"
+          ],
+          [
+            "Karlskoga, Sweden",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300SML4A4ZX6G7W27",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "NAVGUARD — Advanced Galileo PRS resilience for EU Defence",
+            "sub": "Participant · EU funding €125K of €24.4M · 28 partners · 2022–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "16 Dec 2022",
+            "desc": "EDF EDF-2021-SPACE-D-SGNS-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103596/EDF"
+          },
+          {
+            "title": "MARSEUS — Modular ARchitecture Solution for EU States",
+            "sub": "Participant · EU funding €1.8M of €25.0M · 15 partners · 2022–2026",
+            "status": "Grant · Ended",
+            "icon": "coins",
+            "date": "09 Dec 2022",
+            "desc": "EDF EDF-2021-GROUND-D-3CA-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103595/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "NAVGUARD — Advanced Galileo PRS resilience for EU Defence",
+            "sub": "Participant · EU funding €125K of €24.4M · 28 partners · 2022–2028",
+            "status": "Grant · Ongoing",
+            "icon": "coins",
+            "date": "16 Dec 2022",
+            "desc": "EDF EDF-2021-SPACE-D-SGNS-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103596/EDF"
+          },
+          {
+            "title": "MARSEUS — Modular ARchitecture Solution for EU States",
+            "sub": "Participant · EU funding €1.8M of €25.0M · 15 partners · 2022–2026",
+            "status": "Grant · Ended",
+            "icon": "coins",
+            "date": "09 Dec 2022",
+            "desc": "EDF EDF-2021-GROUND-D-3CA-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103595/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 2 projects",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Saab Dynamics Aktiebolag, LEI 549300SML4A4ZX6G7W27",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/549300SML4A4ZX6G7W27"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103596",
+          "sources": 1,
+          "date": "16 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103596/EDF"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103595",
+          "sources": 1,
+          "date": "09 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103595/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Karlskoga",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Saab Dynamics Aktiebolag is a Swedish company registered in 1985, with its seat in Karlskoga. It takes part in 2 European Defence Fund projects (2022). Of these, 1 ongoing, EU funding to the company €2.0M.",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [
+          {
+            "value": "€2.0M",
+            "label": "EU defence funding to the company",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "2",
+            "label": "European Defence Fund projects",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "1",
+            "label": "ongoing now",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "value": "41",
+            "label": "organisations it shares EDF projects with",
+            "src": [
+              2,
+              3
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "1985",
+            "Registered",
+            null
+          ],
+          [
+            "Karlskoga, Sweden",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 549300SML4A4ZX6G7W27",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "NAVGUARD — Advanced Galileo PRS resilience for EU Defence",
+            "sub": "Participant · EU funding €125K of €24.4M · 28 partners · 2022–2028",
+            "status": "Grant · Ongoing",
+            "date": "16 Dec 2022",
+            "iso": "2022-12-16",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "MARSEUS — Modular ARchitecture Solution for EU States",
+            "sub": "Participant · EU funding €1.8M of €25.0M · 15 partners · 2022–2026",
+            "status": "Grant · Ended",
+            "date": "09 Dec 2022",
+            "iso": "2022-12-09",
+            "ongoing": false,
+            "src": 3
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "2 grants · €2.0M",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ADDITESS ADVANCED INTEGRATED TECHNOLOGY SOLUTIONS & SERVICES LTD",
+            "country": "CY",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "AEROSPACELAB",
+            "country": "BE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ANTWERP SPACE N.V.",
+            "country": "BE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "ARQUUS",
+            "country": "FR",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "BAE SYSTEMS HAGGLUNDS",
+            "country": "SE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "BERTIN EXENSOR AB",
+            "country": "SE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "BEYOND GRAVITY AUSTRIA GMBH",
+            "country": "AT",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "partner",
+            "name": "BEYOND GRAVITY GERMANY GMBH",
+            "country": "DE",
+            "sub": "1 joint EDF project",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 549300SML4A4ZX6G7W27",
+            "url": "https://api.gleif.org/api/v1/lei-records/549300SML4A4ZX6G7W27"
+          },
+          {
+            "title": "EU Funding & Tenders portal · NAVGUARD",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103596/EDF"
+          },
+          {
+            "title": "EU Funding & Tenders portal · MARSEUS",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103595/EDF"
+          }
+        ]
+      },
+      "card_hash": "7b78da437e50177d"
+    },
+    "l3harris-technologies": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "L3HARRIS TECHNOLOGIES, INC. is a US company, with its seat in Colorado Springs. US federal spending records show US$979.4M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 807 contracts; the largest customer is the Department of the Navy.",
+        "overview": "L3HARRIS TECHNOLOGIES, INC. is a US company, with its seat in Colorado Springs. US federal spending records show US$979.4M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 807 contracts; the largest customer is the Department of the Navy."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Colorado Springs, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300UTE50ZMDBG8A20",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Colorado Springs, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300UTE50ZMDBG8A20",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity L3HARRIS TECHNOLOGIES, INC., LEI 549300UTE50ZMDBG8A20",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://search.gleif.org/#/record/549300UTE50ZMDBG8A20"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/43e64fda-dda9-b9c9-d190-9f4a13183e8b-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Colorado Springs",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "L3HARRIS TECHNOLOGIES, INC. is a US company, with its seat in Colorado Springs. US federal spending records show US$979.4M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 807 contracts; the largest customer is the Department of the Navy.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$979.4M",
+            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026",
+            "src": [
+              10
+            ]
+          },
+          {
+            "value": "807",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              10
+            ]
+          },
+          {
+            "value": "US$368.8M",
+            "label": "largest customer: Department of the Navy",
+            "src": [
+              10
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Colorado Springs, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 549300UTE50ZMDBG8A20",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Combat mission systems support",
+            "sub": "Department of the Air Force · US$677.3M · 2019–2027",
+            "status": "Contract",
+            "date": "24 Jan 2019",
+            "iso": "2019-01-24",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "AN/ALQ-214 A(V)4 system",
+            "sub": "Defense Contract Management Agency · US$542.2M · 2017–2026",
+            "status": "Contract",
+            "date": "27 Sep 2017",
+            "iso": "2017-09-27",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "Manpack FULL RATE production (FRP) 3 competitive procurement award of radio TRANSMITTERS, WARRANTIES, related ancillary ",
+            "sub": "Department of the Army · US$265.5M · 2023–2024",
+            "status": "Contract",
+            "date": "23 May 2023",
+            "iso": "2023-05-23",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "MET sustainment support UCA",
+            "sub": "Department of the Army · US$262.1M · 2020–2028",
+            "status": "Contract",
+            "date": "21 Apr 2020",
+            "iso": "2020-04-21",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "Manpack FULL RATE production (FRP)4 competitive procurement award of radio TRANSMITTERS, WARRANTIES, related ancillary E",
+            "sub": "Department of the Army · US$253.6M · 2024–2028",
+            "status": "Contract",
+            "date": "11 Sep 2024",
+            "iso": "2024-09-11",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "SDA tracking layer tranche 0, WIDE field of VIEW (WFOV) program",
+            "sub": "Department of the Air Force · US$221.1M · 2020–2026",
+            "status": "Contract",
+            "date": "02 Oct 2020",
+            "iso": "2020-10-02",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "Counter communications systems meadowland production",
+            "sub": "Department of the Air Force · US$206.1M · 2021–2028",
+            "status": "Contract",
+            "date": "22 Oct 2021",
+            "iso": "2021-10-22",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "This performance WORK statement (PWS) for wideband satellite communications (SATCOM) operations and technical support II",
+            "sub": "Department of the Air Force · US$185.7M · 2018–2027",
+            "status": "Contract",
+            "date": "01 Dec 2018",
+            "iso": "2018-12-01",
+            "ongoing": true,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$1.5B · 4 contracts",
+            "status": "verified",
+            "src": [
+              2,
+              7,
+              8
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$965.4M · 3 contracts",
+            "status": "verified",
+            "src": [
+              4,
+              5,
+              6,
+              12
+            ],
+            "quote": "L3Harris Technologies has received a $36 million order in support of the U.S. Army for the Hawkeye™ 4 Lite satellite communications terminal."
+          },
+          {
+            "type": "customer",
+            "name": "Defense Contract Management Agency",
+            "sub": "Customer · US$542.2M · 1 contract",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$368.8M",
+            "status": "verified",
+            "src": [
+              10
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "U.S. Special Operations Command",
+            "sub": "Customer · US$228.5M",
+            "status": "verified",
+            "src": [
+              10
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$12.7M",
+            "status": "verified",
+            "src": [
+              10
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "BEST-TRONICS MANUFACTURING INC",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              11
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "CAES SYSTEMS LLC",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              11
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 549300UTE50ZMDBG8A20",
+            "url": "https://search.gleif.org/#/record/549300UTE50ZMDBG8A20"
+          },
+          {
+            "title": "USAspending.gov · FA881919C0002",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA881919C0002_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001917C0090",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001917C0090_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W15P7T23F0040",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T23F0040_9700_W15P7T16D0002_9700"
+          },
+          {
+            "title": "USAspending.gov · W52P1J20C0014",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W52P1J20C0014_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W15P7T24F0061",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T24F0061_9700_W15P7T16D0002_9700"
+          },
+          {
+            "title": "USAspending.gov · HQ085021C0002",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_HQ085021C0002_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · FA881922C0001",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA881922C0001_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W9126019C0001",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W9126019C0001_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · US Department of Defense · FY2026–27, to 25 Nov 2026",
+            "url": "https://www.usaspending.gov/recipient/43e64fda-dda9-b9c9-d190-9f4a13183e8b-C/latest"
+          },
+          {
+            "title": "USAspending.gov · sub-award",
+            "url": "https://www.usaspending.gov/search"
+          },
+          {
+            "title": "l3harris.com",
+            "url": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-receives-satcom-order-us-army-support-key-command-and"
+          },
+          {
+            "title": "defence-industry.eu",
+            "url": "https://defence-industry.eu/l3harris-technologies-posts-record-53-2-billion-backlog/"
+          }
+        ]
+      },
+      "card_hash": "df9cf1c6fd957d48"
     }
   }
 }
