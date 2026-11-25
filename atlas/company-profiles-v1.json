@@ -101493,6 +101493,576 @@
         ]
       },
       "card_hash": "9da91512f58bf299"
+    },
+    "corse-composites-aeronautiques": {
+      "developments": [],
+      "country": "FR",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "CORSE COMPOSITES AERONAUTIQUES is a French company registered in 1982, with its seat in Ajaccio.",
+        "overview": "CORSE COMPOSITES AERONAUTIQUES is a French company registered in 1982, with its seat in Ajaccio."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1982",
+            "Registered"
+          ],
+          [
+            "Ajaccio, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 325396471",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1982",
+            "Registered"
+          ],
+          [
+            "Ajaccio, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 325396471",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Sous‑ensembles à fortes cadences",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Outil global adapté au marché aéronautique",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Sous‑ensembles à fortes cadences",
+              "Production de sous‑ensembles à fortes cadences.",
+              "grey"
+            ],
+            [
+              "Outil global adapté au marché aéronautique",
+              "Un outil global adapté au marché aéronautique",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity CORSE COMPOSITES AERONAUTIQUES, SIREN 325396471",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=325396471"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Ajaccio",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "CORSE COMPOSITES AERONAUTIQUES is a French company registered in 1982, with its seat in Ajaccio.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1982",
+            "Registered",
+            null
+          ],
+          [
+            "Ajaccio, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "SIREN 325396471",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · SIREN 325396471",
+            "url": "https://recherche-entreprises.api.gouv.fr/search?q=325396471"
+          }
+        ]
+      },
+      "card_hash": "175099fea6b1c9b0"
+    },
+    "crouzet": {
+      "developments": [],
+      "country": "FR",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "CROUZET is a French company registered in 1965, with its seat in Valence.",
+        "overview": "CROUZET is a French company registered in 1965, with its seat in Valence."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1965",
+            "Registered"
+          ],
+          [
+            "Valence, France",
+            "Headquarters"
+          ],
+          [
+            "LEI 969500TZ17KWEL7OMC37",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1965",
+            "Registered"
+          ],
+          [
+            "Valence, France",
+            "Headquarters"
+          ],
+          [
+            "LEI 969500TZ17KWEL7OMC37",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Circuits Breakers",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "28VDC Actuators",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Structural monitoring sensor",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Hermetically sealed relays",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Break microswitches",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Counters",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Circuits Breakers",
+              "Crouzet in 2024 has deserved Systems Applications producing 1 000 000+ Circuits Breakers",
+              "grey"
+            ],
+            [
+              "28VDC Actuators",
+              "And many other products such as 28VDC Actuators, …",
+              "grey"
+            ],
+            [
+              "Structural monitoring sensor",
+              "Presenting a new family of structural monitoring sensor",
+              "grey"
+            ],
+            [
+              "Hermetically sealed relays",
+              "Presenting a new family of hermetically sealed relays",
+              "grey"
+            ],
+            [
+              "Break microswitches",
+              "Presenting a new family of break microswitches",
+              "grey"
+            ],
+            [
+              "Counters",
+              "Presenting a new family of counters",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity CROUZET, LEI 969500TZ17KWEL7OMC37",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/969500TZ17KWEL7OMC37"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Valence",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "CROUZET is a French company registered in 1965, with its seat in Valence.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1965",
+            "Registered",
+            null
+          ],
+          [
+            "Valence, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 969500TZ17KWEL7OMC37",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 969500TZ17KWEL7OMC37",
+            "url": "https://api.gleif.org/api/v1/lei-records/969500TZ17KWEL7OMC37"
+          }
+        ]
+      },
+      "card_hash": "109c17d8518e2fd1"
+    },
+    "deshons-hydraulique": {
+      "developments": [],
+      "country": "FR",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L4 · candidate · relevance stated by the company only"
+        ]
+      ],
+      "about": {
+        "workspace": "DESHONS HYDRAULIQUE is a French company registered in 1972, with its seat in Saint Chamas.",
+        "overview": "DESHONS HYDRAULIQUE is a French company registered in 1972, with its seat in Saint Chamas."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1972",
+            "Registered"
+          ],
+          [
+            "Saint Chamas, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 637280041",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1972",
+            "Registered"
+          ],
+          [
+            "Saint Chamas, France",
+            "Headquarters"
+          ],
+          [
+            "SIREN 637280041",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L4"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [
+        {
+          "label": "Bancs de Tests Hydraulique",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Catalogue HGPU – Groupe Hydraulique Mobile",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Accessoires de maintenance",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Grues de Maintenance pour Aéronautique",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Maintenance",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Services",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Sur‑mesure Projets spécifiques",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Bancs de Tests Hydraulique",
+              "Bancs de Tests Hydraulique",
+              "grey"
+            ],
+            [
+              "Catalogue HGPU – Groupe Hydraulique Mobile",
+              "Catalogue HGPU – Groupe Hydraulique Mobile",
+              "grey"
+            ],
+            [
+              "Accessoires de maintenance",
+              "Accessoires de maintenance",
+              "grey"
+            ],
+            [
+              "Grues de Maintenance pour Aéronautique",
+              "Grues de Maintenance pour Aéronautique",
+              "grey"
+            ],
+            [
+              "Maintenance",
+              "Maintenance",
+              "grey"
+            ],
+            [
+              "Services",
+              "Services",
+              "grey"
+            ],
+            [
+              "Sur‑mesure Projets spécifiques",
+              "Sur‑mesure Projets spécifiques",
+              "grey"
+            ]
+          ]
+        }
+      ],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity DESHONS HYDRAULIQUE, SIREN 637280041",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Company register",
+          "href": "https://recherche-entreprises.api.gouv.fr/search?q=637280041"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Saint Chamas",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "DESHONS HYDRAULIQUE is a French company registered in 1972, with its seat in Saint Chamas.",
+        "lead_src": [
+          1
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1972",
+            "Registered",
+            null
+          ],
+          [
+            "Saint Chamas, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "SIREN 637280041",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · SIREN 637280041",
+            "url": "https://recherche-entreprises.api.gouv.fr/search?q=637280041"
+          }
+        ]
+      },
+      "card_hash": "5a04fea37fbf482f"
     }
   }
 }
