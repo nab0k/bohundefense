@@ -139900,6 +139900,782 @@
         ]
       },
       "card_hash": "c9e9fe25407eb3fa"
+    },
+    "crystal-group-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "CRYSTAL GROUP, INC is a US company, with its seat in Hiawatha. US federal spending records show US$3.1M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 10 contracts; the largest customer is the Department of the Air Force.",
+        "overview": "CRYSTAL GROUP, INC is a US company, with its seat in Hiawatha. US federal spending records show US$3.1M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 10 contracts; the largest customer is the Department of the Air Force."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Hiawatha, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI V73QNVKJWAJ9",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Hiawatha, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI V73QNVKJWAJ9",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity CRYSTAL GROUP, INC, UEI V73QNVKJWAJ9",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/cf9a5805-83e8-adc7-ffb5-21870e1be7b5-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/cf9a5805-83e8-adc7-ffb5-21870e1be7b5-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Hiawatha",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "CRYSTAL GROUP, INC is a US company, with its seat in Hiawatha. US federal spending records show US$3.1M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 10 contracts; the largest customer is the Department of the Air Force.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$3.1M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "10",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$2.8M",
+            "label": "largest customer: Department of the Air Force",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Hiawatha, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI V73QNVKJWAJ9",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "SUBJECT: delivery order award for ACS 4.0 production components for DO 3005 DO PRICE: $2,030,505.43 DO OBLIGATIONS: $2,0",
+            "sub": "Department of the Air Force · US$2.0M · 2026–2027",
+            "status": "Contract",
+            "date": "19 May 2026",
+            "iso": "2026-05-19",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "This effort shall be performed (IAW) (BOA), FA8616-24-G-B002 statement of WORK (SOW), section J, attachment 1 and the de",
+            "sub": "Department of the Air Force · US$695K · 2025–2026",
+            "status": "Contract",
+            "date": "30 Oct 2025",
+            "iso": "2025-10-30",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "Procurement of a computer server assembly (AND associated backup HARD DRIVES) designed and fabricated by crystal group (",
+            "sub": "Department of the Navy · US$374K · 2026",
+            "status": "Contract",
+            "date": "05 Jun 2026",
+            "iso": "2026-06-05",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Media CANISTER,MINI",
+            "sub": "Department of the Navy · US$184K · 2024–2026",
+            "status": "Contract",
+            "date": "13 Dec 2024",
+            "iso": "2024-12-13",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "The purpose of this delivery order between AFLCMC/WBZ and crystal GROUP, INC. is in support of B-2 adaptable communicati",
+            "sub": "Department of the Air Force · US$77K · 2025–2026",
+            "status": "Contract",
+            "date": "10 Nov 2025",
+            "iso": "2025-11-10",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Digital storage UNI",
+            "sub": "Department of the Navy · US$67K · 2024–2026",
+            "status": "Contract",
+            "date": "04 Oct 2024",
+            "iso": "2024-10-04",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "NRP,SERVER A017",
+            "sub": "Department of the Navy · US$62K · 2025–2026",
+            "status": "Contract",
+            "date": "01 Aug 2025",
+            "iso": "2025-08-01",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "PROCESSOR,DIGITAL,A",
+            "sub": "Department of the Navy · US$54K · 2023–2025",
+            "status": "Contract",
+            "date": "07 Jun 2023",
+            "iso": "2023-06-07",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$5.6M · 3 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$1.1M · 5 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              4,
+              5
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI V73QNVKJWAJ9",
+            "url": "https://www.usaspending.gov/recipient/cf9a5805-83e8-adc7-ffb5-21870e1be7b5-C/latest"
+          },
+          {
+            "title": "USAspending.gov · FA861626FB007",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA861626FB007_9700_FA861624GB002_9700"
+          },
+          {
+            "title": "USAspending.gov · FA861626FB002",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA861626FB002_9700_FA861624GB002_9700"
+          },
+          {
+            "title": "USAspending.gov · N6660426P0314",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N6660426P0314_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0038325FNB04",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0038325FNB04_9700_N0038325GNB01_9700"
+          },
+          {
+            "title": "USAspending.gov · FA861626FB004",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA861626FB004_9700_FA861624GB002_9700"
+          },
+          {
+            "title": "USAspending.gov · N0038325FWA00",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0038325FWA00_9700_N0038320GWA01_9700"
+          },
+          {
+            "title": "USAspending.gov · N0038325PT150",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0038325PT150_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0038323FWA06",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0038323FWA06_9700_N0038320GWA01_9700"
+          }
+        ]
+      },
+      "card_hash": "5be316f9a3d2a32d"
+    },
+    "mercury-systems-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "MERCURY SYSTEMS INC is a US company, with its seat in Andover. US federal spending records show US$57.1M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 71 contracts; the largest customer is the Department of the Navy.",
+        "overview": "MERCURY SYSTEMS INC is a US company, with its seat in Andover. US federal spending records show US$57.1M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 71 contracts; the largest customer is the Department of the Navy."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Andover, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300P3B84SGK7HH679",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Andover, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300P3B84SGK7HH679",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity MERCURY SYSTEMS INC, LEI 549300P3B84SGK7HH679",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://search.gleif.org/#/record/549300P3B84SGK7HH679"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/af09eaba-71de-97b6-660d-1adac9349c4d-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Andover",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "MERCURY SYSTEMS INC is a US company, with its seat in Andover. US federal spending records show US$57.1M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 71 contracts; the largest customer is the Department of the Navy.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$57.1M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026",
+            "src": [
+              3
+            ]
+          },
+          {
+            "value": "71",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              3
+            ]
+          },
+          {
+            "value": "US$35.5M",
+            "label": "largest customer: Department of the Navy",
+            "src": [
+              3
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Andover, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 549300P3B84SGK7HH679",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Create phase 1",
+            "sub": "Department of the Navy · US$16.4M · 2025–2026",
+            "status": "Contract",
+            "date": "28 Apr 2025",
+            "iso": "2025-04-28",
+            "ongoing": true,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$52.0M · 1 contract",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$12.6M",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$8.8M",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$250K",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Missile Defense Agency",
+            "sub": "Customer · US$0K",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 549300P3B84SGK7HH679",
+            "url": "https://search.gleif.org/#/record/549300P3B84SGK7HH679"
+          },
+          {
+            "title": "USAspending.gov · N0042125F0572",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0042125F0572_9700_N0042124G0003_9700"
+          },
+          {
+            "title": "USAspending.gov · US Department of Defense · FY2026–27, to 26 Nov 2026",
+            "url": "https://www.usaspending.gov/recipient/af09eaba-71de-97b6-660d-1adac9349c4d-C/latest"
+          }
+        ]
+      },
+      "card_hash": "b4e08bb878de7139"
+    },
+    "moog-military-aircraft-llc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "MOOG MILITARY AIRCRAFT LLC is a US company, with its seat in Elma. US federal spending records show US$85.8M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 195 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "MOOG MILITARY AIRCRAFT LLC is a US company, with its seat in Elma. US federal spending records show US$85.8M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 195 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Elma, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI CTCYFYLXVV76",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Elma, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI CTCYFYLXVV76",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity MOOG MILITARY AIRCRAFT LLC, UEI CTCYFYLXVV76",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/4170539e-60b6-2c85-8d5f-857bc05b3c37-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/4170539e-60b6-2c85-8d5f-857bc05b3c37-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Elma",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "MOOG MILITARY AIRCRAFT LLC is a US company, with its seat in Elma. US federal spending records show US$85.8M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 195 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$85.8M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "195",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$30.8M",
+            "label": "largest customer: Defense Logistics Agency",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Elma, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI CTCYFYLXVV76",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Procurement of ACTUATOR,ELECTRO-ME in support of V-22 PLATFORM.",
+            "sub": "Department of the Navy · US$43.3M · 2025–2027",
+            "status": "Contract",
+            "date": "26 Sep 2025",
+            "iso": "2025-09-26",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "ACTUATOR,ELECTRO-ME",
+            "sub": "Department of the Navy · US$38.4M · 2025–2028",
+            "status": "Contract",
+            "date": "22 Oct 2025",
+            "iso": "2025-10-22",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "ACTUATOR,ELECTRO-ME",
+            "sub": "Department of the Navy · US$29.9M · 2022–2024",
+            "status": "Contract",
+            "date": "31 Mar 2022",
+            "iso": "2022-03-31",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "V-22 acutuator repairs",
+            "sub": "Department of the Navy · US$24.2M · 2019–2021",
+            "status": "Contract",
+            "date": "24 Apr 2019",
+            "iso": "2019-04-24",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Hydraulic drive UNIT",
+            "sub": "Defense Logistics Agency · US$17.3M · 2026–2029",
+            "status": "Contract",
+            "date": "22 Jun 2026",
+            "iso": "2026-06-22",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "ACTUATOR,ELECTRO-ME",
+            "sub": "Department of the Navy · US$16.5M · 2021–2023",
+            "status": "Contract",
+            "date": "16 Aug 2021",
+            "iso": "2021-08-16",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "ACTUATOR,ELECTRO-ME",
+            "sub": "Department of the Navy · US$10.8M · 2024–2026",
+            "status": "Contract",
+            "date": "31 Dec 2024",
+            "iso": "2024-12-31",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "ACTUATOR,ELECTRO-ME",
+            "sub": "Department of the Navy · US$9.4M · 2025–2028",
+            "status": "Contract",
+            "date": "09 Sep 2025",
+            "iso": "2025-09-09",
+            "ongoing": true,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$203.0M · 7 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$48.1M · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              6
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$24.5M",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Missile Defense Agency",
+            "sub": "Customer · US$0K",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI CTCYFYLXVV76",
+            "url": "https://www.usaspending.gov/recipient/4170539e-60b6-2c85-8d5f-857bc05b3c37-C/latest"
+          },
+          {
+            "title": "USAspending.gov · N0038325CC001",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0038325CC001_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0038326FBL01",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0038326FBL01_9700_N0038324DBL01_9700"
+          },
+          {
+            "title": "USAspending.gov · N0038322FP901",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0038322FP901_9700_N0038319DP901_9700"
+          },
+          {
+            "title": "USAspending.gov · N0038319FP900",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0038319FP900_9700_N0038319DP901_9700"
+          },
+          {
+            "title": "USAspending.gov · SPRTA126F0215",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRTA126F0215_9700_SPE4A122G0008_9700"
+          },
+          {
+            "title": "USAspending.gov · N0038321FP902",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0038321FP902_9700_N0038319DP901_9700"
+          },
+          {
+            "title": "USAspending.gov · N0038325FBL01",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0038325FBL01_9700_N0038324DBL01_9700"
+          },
+          {
+            "title": "USAspending.gov · N0038325FBL07",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0038325FBL07_9700_N0038324DBL01_9700"
+          }
+        ]
+      },
+      "card_hash": "80713ba5b8b300fd"
     }
   }
 }
