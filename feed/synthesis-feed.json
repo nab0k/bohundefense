@@ -4037,123 +4037,6 @@
       ]
     },
     {
-      "id": "syn-289",
-      "status": "approved",
-      "kind": "Synthesis",
-      "date": "2026-11-01",
-      "title": "Indra Backlog Tops €22B on IRIS² Space Contracts",
-      "summary": "Indra's backlog exceeded €22 billion after third-quarter order intake rose 139% year-on-year, driven primarily by IRIS² contracts in its Space division. In August, the SpaceRISE consortium, in which Indra holds a majority stake through Hispasat, concluded negotiations with the European Commission and European Space Agency for IRIS² development.",
-      "sections": [
-        {
-          "label": "What happened",
-          "lines": [
-            "Indra's backlog exceeded €22 billion after third-quarter order intake rose 139% year-on-year, driven primarily by IRIS² contracts in its Space division. In August, the SpaceRISE consortium, in which Indra holds a majority stake through Hispasat, concluded negotiations with the European Commission and European Space Agency for IRIS² development."
-          ]
-        },
-        {
-          "label": "Context",
-          "lines": [
-            "5 Dec 2022: Council and European Parliament reach political agreement on boosting secure communications with a new satellite system (IRIS²) (Agreement).",
-            "26 Mar 2026: Norway and Iceland formally join the EU’s GOVSATCOM and IRIS² frameworks.",
-            "21 Jul 2026: Poland boosts its financial contribution to the IRIS² constellation to €656 million under a supplemental agreement (Agreement).",
-            "7 Aug 2026: Formal implementation agreement signed between the European Commission and SpaceRISE, accelerating rollout (Agreement).",
-            "31 Aug 2026: SES awards OHB a €1 billion contract to develop and produce 18 Medium Earth Orbit (MEO) satellites (Contract).",
-            "10 Sep 2026: Eutelsat awards major LEO component contracts totaling over €5.4 billion to Airbus Defence and Space, Aerospacelab, and Thales Alenia Space (Contract).",
-            "30 Oct 2026: MDA Space signs an authorization-to-proceed (ATP) agreement valued at over $100M CAD/USD with Thales Alenia Space to supply AURORA broadband digital phased array antennas for the first 66 Layer 1 IRIS² satellites (Agreement)."
-          ],
-          "list": true
-        },
-        {
-          "label": "Policy direction",
-          "lines": [
-            "EU — Preserving Peace – Defence Readiness Roadmap 2030 (2025-10-16): Milestones towards full EU defence readiness by 2030, with four flagships: European Drone Defence Initiative, Eastern Flank Watch, European Air Shield and European Space Shield.",
-            "FR — Actualisation de la loi de programmation militaire 2024-2030 (2026-08-16): €36 billion extra for the armed forces in 2026–2030 on top of the €413 billion LPM: nuclear deterrence, air defence, counter-drone, deep strike, munitions, drones, space and electromagnetic warfare."
-          ],
-          "list": false
-        },
-        {
-          "label": "The bigger picture",
-          "lines": [
-            "Following the 2022 political agreement on IRIS² and the 2025 concession award to SpaceRISE, the programme advanced through formal implementation in August 2026 and subsequent component contracts, signalling accelerated European secure connectivity rollout."
-          ],
-          "list": false
-        },
-        {
-          "label": "Down the supply chain",
-          "lines": [
-            "IRIS² satellites depends on MDA AURORA™ broadband digital phased array antennas and digital antenna controller — Subsystem."
-          ],
-          "list": true
-        },
-        {
-          "label": "Why it matters",
-          "lines": [
-            "Defence procurement and supply chain professionals should monitor SpaceRISE consortium contracts as the IRIS² constellation scales toward its 2030 service entry."
-          ],
-          "list": false
-        }
-      ],
-      "label": "Prepared by machine. Check the sources.",
-      "paragraphs": [
-        "Indra's backlog exceeded €22 billion after third-quarter order intake rose 139% year-on-year, driven primarily by IRIS² contracts in its Space division. In August, the SpaceRISE consortium, in which Indra holds a majority stake through Hispasat, concluded negotiations with the European Commission and European Space Agency for IRIS² development.",
-        "Context: 5 Dec 2022: Council and European Parliament reach political agreement on boosting secure communications with a new satellite system (IRIS²) (Agreement). 26 Mar 2026: Norway and Iceland formally join the EU’s GOVSATCOM and IRIS² frameworks. 21 Jul 2026: Poland boosts its financial contribution to the IRIS² constellation to €656 million under a supplemental agreement (Agreement). 7 Aug 2026: Formal implementation agreement signed between the European Commission and SpaceRISE, accelerating rollout (Agreement). 31 Aug 2026: SES awards OHB a €1 billion contract to develop and produce 18 Medium Earth Orbit (MEO) satellites (Contract). 10 Sep 2026: Eutelsat awards major LEO component contracts totaling over €5.4 billion to Airbus Defence and Space, Aerospacelab, and Thales Alenia Space (Contract). 30 Oct 2026: MDA Space signs an authorization-to-proceed (ATP) agreement valued at over $100M CAD/USD with Thales Alenia Space to supply AURORA broadband digital phased array antennas for the first 66 Layer 1 IRIS² satellites (Agreement).",
-        "Policy direction: EU — Preserving Peace – Defence Readiness Roadmap 2030 (2025-10-16): Milestones towards full EU defence readiness by 2030, with four flagships: European Drone Defence Initiative, Eastern Flank Watch, European Air Shield and European Space Shield. FR — Actualisation de la loi de programmation militaire 2024-2030 (2026-08-16): €36 billion extra for the armed forces in 2026–2030 on top of the €413 billion LPM: nuclear deterrence, air defence, counter-drone, deep strike, munitions, drones, space and electromagnetic warfare.",
-        "The bigger picture: Following the 2022 political agreement on IRIS² and the 2025 concession award to SpaceRISE, the programme advanced through formal implementation in August 2026 and subsequent component contracts, signalling accelerated European secure connectivity rollout.",
-        "Down the supply chain: IRIS² satellites depends on MDA AURORA™ broadband digital phased array antennas and digital antenna controller — Subsystem.",
-        "Why it matters: Defence procurement and supply chain professionals should monitor SpaceRISE consortium contracts as the IRIS² constellation scales toward its 2030 service entry.",
-        "Prepared by machine. Check the sources."
-      ],
-      "sources": [
-        {
-          "n": 1,
-          "title": "Defence Industry Europe",
-          "url": "https://defence-industry.eu/indra-backlog-tops-e22-billion-as-defence-revenues-double-and-iris%C2%B2-contracts-lift-orders/"
-        }
-      ],
-      "place": {
-        "label": "Madrid",
-        "lat": 40.4168,
-        "lon": -3.7038
-      },
-      "companies": [
-        {
-          "name": "EUTELSAT",
-          "country": "FR",
-          "text": [
-            "Eutelsat"
-          ]
-        },
-        {
-          "name": "Airbus Defence and Space GmbH",
-          "country": "DE",
-          "text": [
-            "Airbus Defence and Space"
-          ]
-        },
-        {
-          "name": "AEROSPACELAB",
-          "country": "BE",
-          "text": [
-            "Aerospacelab"
-          ]
-        },
-        {
-          "name": "Thales Alenia Space",
-          "country": "FR",
-          "text": [
-            "Thales Alenia Space"
-          ]
-        },
-        {
-          "name": "MDA Space Ltd.",
-          "country": "CA",
-          "text": [
-            "MDA Space"
-          ]
-        }
-      ]
-    },
-    {
       "id": "syn-288",
       "status": "approved",
       "kind": "Synthesis",
@@ -6854,6 +6737,118 @@
         }
       ],
       "place": null
+    },
+    {
+      "id": "syn-1327",
+      "status": "approved",
+      "kind": "Synthesis",
+      "date": "2026-11-24",
+      "title": "HMS Active Masts Installed at Rosyth",
+      "summary": "The forward and mid masts weighing 48 tonnes were installed on HMS Active using the Rosyth Goliath crane.",
+      "sections": [
+        {
+          "label": "What happened",
+          "lines": [
+            "The forward and mid masts weighing 48 tonnes were installed on HMS Active using the Rosyth Goliath crane."
+          ]
+        },
+        {
+          "label": "Context",
+          "lines": [
+            "15 Nov 2019: UK Ministry of Defence formally awards Babcock International Group a £1.25 billion contract to design and build five Type 31 general-purpose frigates (Contract).",
+            "23 Sep 2025: Babcock and BAE Systems Bofors sign a long-term in-service support agreement for the 40mm and 57mm naval gun systems (Agreement).",
+            "9 Dec 2025: Keel is laid for the third Type 31 frigate, HMS Formidable.",
+            "24 Feb 2026: HMS Active is rolled out of the Venturer Hall at Rosyth.",
+            "25 Mar 2026: HMS Active enters the water for the first time during a local float-off operation.",
+            "13 May 2026: Babcock announces a £140 million non-recurring contract charge/loss provision due to design changes and higher-than-expected rework during outfitting (Contract).",
+            "21 Nov 2026: Forward and mid masts (combined weight of 48 tonnes) are installed on HMS Active using the Rosyth Goliath crane."
+          ],
+          "list": true,
+          "links": [
+            "https://en.wikipedia.org/wiki/Type_31_frigate",
+            "https://www.themanufacturer.com/articles/babcock-and-bae-systems-bofors-partner-to-support-type-31-frigate-guns/",
+            "https://militarnyi.com/en/news/delivery-of-first-british-type-31-frigate-delayed-by-two-years-until-2028/",
+            "https://www.navaltoday.com/2026/11/20/construction-milestone-reached-for-uks-second-type-31-frigate",
+            "https://www.navaltoday.com/2026/11/20/construction-milestone-reached-for-uks-second-type-31-frigate",
+            "https://ukdefencejournal.org.uk/babcock-raises-type-31-frigate-cost-estimate-after-outfit/",
+            "https://www.navaltoday.com/2026/11/20/construction-milestone-reached-for-uks-second-type-31-frigate"
+          ]
+        },
+        {
+          "label": "The bigger picture",
+          "lines": [
+            "Since the £1.25 billion contract was awarded in November 2019, the Type 31 program has progressed through keel-laying, rollouts, and float-offs, culminating in recent mast installations despite earlier design rework costs."
+          ],
+          "list": false
+        },
+        {
+          "label": "Down the supply chain",
+          "lines": [
+            "Combat Management System & Radars depends on Thales Nederland (Netherlands/UK) — provides the TACTICOS combat management system and NS110 4D AESA radar.",
+            "Naval Gun Systems depends on BAE Systems Bofors (Sweden) — supplies the 57mm Mk3 and 40mm Mk4 main gun systems.",
+            "Gearboxes depends on Renk Group (Germany) — supplies the reduction gearboxes."
+          ],
+          "list": true
+        },
+        {
+          "label": "Why it matters",
+          "lines": [
+            "Defence procurement and supply chain professionals should monitor integration milestones and schedule adherence across the frigate build program."
+          ],
+          "list": false
+        }
+      ],
+      "label": "Prepared by machine. Check the sources.",
+      "paragraphs": [
+        "The forward and mid masts weighing 48 tonnes were installed on HMS Active using the Rosyth Goliath crane.",
+        "Context: 15 Nov 2019: UK Ministry of Defence formally awards Babcock International Group a £1.25 billion contract to design and build five Type 31 general-purpose frigates (Contract). 23 Sep 2025: Babcock and BAE Systems Bofors sign a long-term in-service support agreement for the 40mm and 57mm naval gun systems (Agreement). 9 Dec 2025: Keel is laid for the third Type 31 frigate, HMS Formidable. 24 Feb 2026: HMS Active is rolled out of the Venturer Hall at Rosyth. 25 Mar 2026: HMS Active enters the water for the first time during a local float-off operation. 13 May 2026: Babcock announces a £140 million non-recurring contract charge/loss provision due to design changes and higher-than-expected rework during outfitting (Contract). 21 Nov 2026: Forward and mid masts (combined weight of 48 tonnes) are installed on HMS Active using the Rosyth Goliath crane.",
+        "The bigger picture: Since the £1.25 billion contract was awarded in November 2019, the Type 31 program has progressed through keel-laying, rollouts, and float-offs, culminating in recent mast installations despite earlier design rework costs.",
+        "Down the supply chain: Combat Management System & Radars depends on Thales Nederland (Netherlands/UK) — provides the TACTICOS combat management system and NS110 4D AESA radar. Naval Gun Systems depends on BAE Systems Bofors (Sweden) — supplies the 57mm Mk3 and 40mm Mk4 main gun systems. Gearboxes depends on Renk Group (Germany) — supplies the reduction gearboxes.",
+        "Why it matters: Defence procurement and supply chain professionals should monitor integration milestones and schedule adherence across the frigate build program.",
+        "Prepared by machine. Check the sources."
+      ],
+      "sources": [
+        {
+          "n": 1,
+          "title": "Defense WarRoom",
+          "url": "https://defensewarroom.com/2026/11/24/royal-navy-frigates-cardiff-active-masts/"
+        }
+      ],
+      "place": {
+        "label": "Scotstoun",
+        "lat": 55.8789,
+        "lon": -4.3724
+      },
+      "companies": [
+        {
+          "name": "Babcock",
+          "country": "GB",
+          "text": [
+            "Babcock"
+          ]
+        },
+        {
+          "name": "BAE SYSTEMS BOFORS AB",
+          "country": "SE",
+          "text": [
+            "BAE Systems Bofors"
+          ]
+        },
+        {
+          "name": "Thales Nederland",
+          "country": "NL",
+          "text": [
+            "Thales Nederland"
+          ]
+        },
+        {
+          "name": "RENK Group AG",
+          "country": "DE",
+          "text": [
+            "Renk Group"
+          ]
+        }
+      ]
     },
     {
       "id": "syn-756",
