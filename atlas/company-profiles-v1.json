@@ -147989,6 +147989,536 @@
         ]
       },
       "card_hash": "258a85fbd400164f"
+    },
+    "carolina-power-systems-of-sumter-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "CAROLINA POWER SYSTEMS OF SUMTER INC is a US company, with its seat in Sumter. US federal spending records show US$1.6M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 25 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "CAROLINA POWER SYSTEMS OF SUMTER INC is a US company, with its seat in Sumter. US federal spending records show US$1.6M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 25 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Sumter, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI UK6NAHCH8459",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Sumter, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI UK6NAHCH8459",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity CAROLINA POWER SYSTEMS OF SUMTER INC, UEI UK6NAHCH8459",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/b6565876-6136-1dbf-f503-b7296a738afe-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/b6565876-6136-1dbf-f503-b7296a738afe-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Sumter",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "CAROLINA POWER SYSTEMS OF SUMTER INC is a US company, with its seat in Sumter. US federal spending records show US$1.6M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 25 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$1.6M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "25",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$1.1M",
+            "label": "largest customer: Defense Logistics Agency",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Sumter, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI UK6NAHCH8459",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "GEN protective RELA",
+            "sub": "Defense Logistics Agency · US$271K · 2026–2027",
+            "status": "Contract",
+            "date": "30 Apr 2026",
+            "iso": "2026-04-30",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "PCB module ASSY",
+            "sub": "Department of the Navy · US$214K · 2026–2027",
+            "status": "Contract",
+            "date": "19 Mar 2026",
+            "iso": "2026-03-19",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "PCB module ASSY",
+            "sub": "Department of the Navy · US$170K · 2025–2026",
+            "status": "Contract",
+            "date": "27 Oct 2025",
+            "iso": "2025-10-27",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "Contract SPE7M226V2347",
+            "sub": "Defense Logistics Agency · US$156K · 2026",
+            "status": "Contract",
+            "date": "16 Mar 2026",
+            "iso": "2026-03-16",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Contract SPE7M026V4436",
+            "sub": "Defense Logistics Agency · US$79K · 2026",
+            "status": "Contract",
+            "date": "25 Jun 2026",
+            "iso": "2026-06-25",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "Contract SPE7M526V0145",
+            "sub": "Defense Logistics Agency · US$79K · 2025–2026",
+            "status": "Contract",
+            "date": "06 Oct 2025",
+            "iso": "2025-10-06",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Contract SPE7M526P1824",
+            "sub": "Defense Logistics Agency · US$77K · 2026",
+            "status": "Contract",
+            "date": "13 Feb 2026",
+            "iso": "2026-02-13",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "Contract SPE7M826P1837",
+            "sub": "Defense Logistics Agency · US$65K · 2026–2027",
+            "status": "Contract",
+            "date": "11 Jun 2026",
+            "iso": "2026-06-11",
+            "ongoing": true,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$1.8M · 6 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              5
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$880K · 2 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              3,
+              4
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI UK6NAHCH8459",
+            "url": "https://www.usaspending.gov/recipient/b6565876-6136-1dbf-f503-b7296a738afe-C/latest"
+          },
+          {
+            "title": "USAspending.gov · SPRMM126PHA80",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRMM126PHA80_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0010426PJB42",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0010426PJB42_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0010426PJA36",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0010426PJA36_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M226V2347",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M226V2347_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M026V4436",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M026V4436_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M526V0145",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M526V0145_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M526P1824",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M526P1824_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M826P1837",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M826P1837_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "dc5688c2d9863751"
+    },
+    "precision-products-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "PRECISION PRODUCTS INC is a US company, with its seat in Moss Point. US federal spending records show US$94K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 8 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "PRECISION PRODUCTS INC is a US company, with its seat in Moss Point. US federal spending records show US$94K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 8 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Moss Point, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI D44RA79E3K57",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Moss Point, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI D44RA79E3K57",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity PRECISION PRODUCTS INC, UEI D44RA79E3K57",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/7e0de87a-101e-33e8-5687-006e23725898-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/7e0de87a-101e-33e8-5687-006e23725898-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Moss Point",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "PRECISION PRODUCTS INC is a US company, with its seat in Moss Point. US federal spending records show US$94K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 8 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$94K",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Defense Logistics Agency",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "8",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Moss Point, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI D44RA79E3K57",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract SPE7MX25F1712",
+            "sub": "Defense Logistics Agency · US$80K · 2024–2026",
+            "status": "Contract",
+            "date": "04 Nov 2024",
+            "iso": "2024-11-04",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "Contract SPE7M426P3735",
+            "sub": "Defense Logistics Agency · US$29K · 2026",
+            "status": "Contract",
+            "date": "17 Jun 2026",
+            "iso": "2026-06-17",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "Contract SPE7MX26F1787",
+            "sub": "Defense Logistics Agency · US$25K · 2026",
+            "status": "Contract",
+            "date": "08 Jan 2026",
+            "iso": "2026-01-08",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Contract SPE7MX26F2692",
+            "sub": "Defense Logistics Agency · US$19K · 2026",
+            "status": "Contract",
+            "date": "22 Jan 2026",
+            "iso": "2026-01-22",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Contract SPE7MX26F1022",
+            "sub": "Defense Logistics Agency · US$16K · 2025–2026",
+            "status": "Contract",
+            "date": "18 Nov 2025",
+            "iso": "2025-11-18",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Contract SPE7M426P3877",
+            "sub": "Defense Logistics Agency · US$15K · 2026",
+            "status": "Contract",
+            "date": "30 Jun 2026",
+            "iso": "2026-06-30",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "Contract SPE7MX26F6306",
+            "sub": "Defense Logistics Agency · US$14K · 2026",
+            "status": "Contract",
+            "date": "07 May 2026",
+            "iso": "2026-05-07",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "Contract SPE7MC24P2411",
+            "sub": "Defense Logistics Agency · 2024–2025",
+            "status": "Contract",
+            "date": "03 Sep 2024",
+            "iso": "2024-09-03",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$293K · 8 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI D44RA79E3K57",
+            "url": "https://www.usaspending.gov/recipient/7e0de87a-101e-33e8-5687-006e23725898-C/latest"
+          },
+          {
+            "title": "USAspending.gov · SPE7MX25F1712",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7MX25F1712_9700_SPE7MX23D0011_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE7M426P3735",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M426P3735_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7MX26F1787",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7MX26F1787_9700_SPE7MX23D0011_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE7MX26F2692",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7MX26F2692_9700_SPE7MX23D0011_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE7MX26F1022",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7MX26F1022_9700_SPE7MX23D0011_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE7M426P3877",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M426P3877_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7MX26F6306",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7MX26F6306_9700_SPE7MX23D0011_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE7MC24P2411",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7MC24P2411_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "4c4fef0804093cad"
     }
   }
 }
