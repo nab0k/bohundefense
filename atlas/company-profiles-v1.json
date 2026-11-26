@@ -147733,6 +147733,262 @@
         ]
       },
       "card_hash": "ec6bbbaa18f1554e"
+    },
+    "janco-corporation": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "JANCO CORPORATION is a US company, with its seat in Rancho Cascades. US federal spending records show US$310K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 18 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "JANCO CORPORATION is a US company, with its seat in Rancho Cascades. US federal spending records show US$310K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 18 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Rancho Cascades, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI CCW6DLVQ3JH4",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Rancho Cascades, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI CCW6DLVQ3JH4",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity JANCO CORPORATION, UEI CCW6DLVQ3JH4",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/f74d3db6-1783-f4c8-d9da-4d1e27dedb71-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/f74d3db6-1783-f4c8-d9da-4d1e27dedb71-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Rancho Cascades",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "JANCO CORPORATION is a US company, with its seat in Rancho Cascades. US federal spending records show US$310K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 18 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$310K",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Defense Logistics Agency",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "18",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Rancho Cascades, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI CCW6DLVQ3JH4",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract SPE4A626P1596",
+            "sub": "Defense Logistics Agency · US$94K · 2025–2026",
+            "status": "Contract",
+            "date": "08 Oct 2025",
+            "iso": "2025-10-08",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "Contract SPE7M426P0351",
+            "sub": "Defense Logistics Agency · US$46K · 2025–2026",
+            "status": "Contract",
+            "date": "14 Oct 2025",
+            "iso": "2025-10-14",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "Contract SPE7L126P5949",
+            "sub": "Defense Logistics Agency · US$41K · 2026",
+            "status": "Contract",
+            "date": "09 Apr 2026",
+            "iso": "2026-04-09",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Contract SPE4A626V0346",
+            "sub": "Defense Logistics Agency · US$23K · 2025–2026",
+            "status": "Contract",
+            "date": "03 Oct 2025",
+            "iso": "2025-10-03",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Contract SPE7M826P1475",
+            "sub": "Defense Logistics Agency · US$17K · 2026",
+            "status": "Contract",
+            "date": "30 Apr 2026",
+            "iso": "2026-04-30",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Contract SPE7M826P0533",
+            "sub": "Defense Logistics Agency · US$14K · 2025–2026",
+            "status": "Contract",
+            "date": "23 Dec 2025",
+            "iso": "2025-12-23",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Contract SPE7M526P1230",
+            "sub": "Defense Logistics Agency · US$14K · 2025–2027",
+            "status": "Contract",
+            "date": "19 Dec 2025",
+            "iso": "2025-12-19",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "Contract SPE4A526P2303",
+            "sub": "Defense Logistics Agency · US$12K · 2026",
+            "status": "Contract",
+            "date": "09 Jan 2026",
+            "iso": "2026-01-09",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$572K · 8 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI CCW6DLVQ3JH4",
+            "url": "https://www.usaspending.gov/recipient/f74d3db6-1783-f4c8-d9da-4d1e27dedb71-C/latest"
+          },
+          {
+            "title": "USAspending.gov · SPE4A626P1596",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A626P1596_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M426P0351",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M426P0351_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7L126P5949",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7L126P5949_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A626V0346",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A626V0346_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M826P1475",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M826P1475_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M826P0533",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M826P0533_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M526P1230",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M526P1230_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A526P2303",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A526P2303_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "258a85fbd400164f"
     }
   }
 }
