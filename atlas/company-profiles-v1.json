@@ -77014,8 +77014,139 @@
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "MP5",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "G36",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "HK416",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "MG5",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "GLM",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "GMG",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "USP",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "MR223",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "MR308",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "HK45",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "SP5",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "HK243",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "MP5",
+              "MP5",
+              "grey"
+            ],
+            [
+              "G36",
+              "G36",
+              "grey"
+            ],
+            [
+              "HK416",
+              "HK416",
+              "grey"
+            ],
+            [
+              "MG5",
+              "MG5",
+              "grey"
+            ],
+            [
+              "GLM",
+              "GLM",
+              "grey"
+            ],
+            [
+              "GMG",
+              "GMG",
+              "grey"
+            ],
+            [
+              "USP",
+              "USP",
+              "grey"
+            ],
+            [
+              "MR223",
+              "MR223",
+              "grey"
+            ],
+            [
+              "MR308",
+              "MR308",
+              "grey"
+            ],
+            [
+              "HK45",
+              "HK45",
+              "grey"
+            ],
+            [
+              "SP5",
+              "SP5",
+              "grey"
+            ],
+            [
+              "HK243",
+              "HK243",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -77116,6 +77247,7 @@
         ],
         "network": [],
         "products": [],
+        "news": [],
         "sources": [
           {
             "title": "GLEIF · LEI 529900755OZXM37H4975",
@@ -77127,7 +77259,7 @@
           }
         ]
       },
-      "card_hash": "0c790157b6162ddd"
+      "card_hash": "a98890b920661c1f"
     },
     "aresia": {
       "developments": [],
@@ -78898,8 +79030,49 @@
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Electronic components and complete installation kits",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "EASA approved Part-147 type training",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Electronic Flight Bag systems",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Electronic components and complete installation kits",
+              "With our EASA Part-21G Production Organization Approval (POA) , we manufacture electronic components and complete installation kits, includi",
+              "grey"
+            ],
+            [
+              "EASA approved Part-147 type training",
+              "In addition to our specialised training portfolio within Part-145, Part-21G, and Part-21J, we offer EASA approved Part-147 type training for",
+              "grey"
+            ],
+            [
+              "Electronic Flight Bag systems",
+              "SA Technologies (SAT) is The SA Group’s Swedish based expert within Electronic Flight Bag systems and dedicated to support the aviation mark",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -79000,6 +79173,7 @@
         ],
         "network": [],
         "products": [],
+        "news": [],
         "sources": [
           {
             "title": "GLEIF · LEI 213800JPSXLBWHDI3A73",
@@ -79011,7 +79185,7 @@
           }
         ]
       },
-      "card_hash": "903d17b833713416"
+      "card_hash": "a25012bad5961961"
     },
     "bae-systems-gcs-international-limited": {
       "developments": [],
