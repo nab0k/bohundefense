@@ -142921,6 +142921,262 @@
         ]
       },
       "card_hash": "3137a436c1d5cf77"
+    },
+    "design-ol-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "DESIGN/OL, INC. is a US company, with its seat in Port Jefferson Station. US federal spending records show US$1.1M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 47 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "DESIGN/OL, INC. is a US company, with its seat in Port Jefferson Station. US federal spending records show US$1.1M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 47 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Port Jefferson Station, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI YDMQMHPLCBW4",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Port Jefferson Station, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI YDMQMHPLCBW4",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity DESIGN/OL, INC., UEI YDMQMHPLCBW4",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/99a7bc3a-8e92-244e-c486-bd807817421d-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/99a7bc3a-8e92-244e-c486-bd807817421d-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Port Jefferson Station",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "DESIGN/OL, INC. is a US company, with its seat in Port Jefferson Station. US federal spending records show US$1.1M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 47 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$1.1M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Defense Logistics Agency",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "47",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Port Jefferson Station, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI YDMQMHPLCBW4",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract SPE4A726P0083",
+            "sub": "Defense Logistics Agency · US$678K · 2025–2031",
+            "status": "Contract",
+            "date": "23 Oct 2025",
+            "iso": "2025-10-23",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "Contract SPE4A722F113D",
+            "sub": "Defense Logistics Agency · US$239K · 2022–2024",
+            "status": "Contract",
+            "date": "30 Aug 2022",
+            "iso": "2022-08-30",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "Contract SPE4A718C0386",
+            "sub": "Defense Logistics Agency · US$172K · 2018–2028",
+            "status": "Contract",
+            "date": "05 Jun 2018",
+            "iso": "2018-06-05",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "Contract SPE4A724PE631",
+            "sub": "Defense Logistics Agency · US$63K · 2024–2026",
+            "status": "Contract",
+            "date": "28 Jul 2024",
+            "iso": "2024-07-28",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Contract SPE4A725F2562",
+            "sub": "Defense Logistics Agency · US$62K · 2024–2026",
+            "status": "Contract",
+            "date": "23 Dec 2024",
+            "iso": "2024-12-23",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Contract SPE4A722F075B",
+            "sub": "Defense Logistics Agency · US$57K · 2022–2026",
+            "status": "Contract",
+            "date": "27 Jul 2022",
+            "iso": "2022-07-27",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Contract SPE4A726F8641",
+            "sub": "Defense Logistics Agency · US$48K · 2026–2027",
+            "status": "Contract",
+            "date": "08 Jul 2026",
+            "iso": "2026-07-08",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "Contract SPEFA126P0237",
+            "sub": "Defense Logistics Agency · US$46K · 2026–2027",
+            "status": "Contract",
+            "date": "15 Jul 2026",
+            "iso": "2026-07-15",
+            "ongoing": true,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$2.4M · 8 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI YDMQMHPLCBW4",
+            "url": "https://www.usaspending.gov/recipient/99a7bc3a-8e92-244e-c486-bd807817421d-C/latest"
+          },
+          {
+            "title": "USAspending.gov · SPE4A726P0083",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A726P0083_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A722F113D",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A722F113D_9700_SPE4A722D5316_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE4A718C0386",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A718C0386_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A724PE631",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A724PE631_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A725F2562",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A725F2562_9700_SPE4A724D5425_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE4A722F075B",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A722F075B_9700_SPE4A722D0085_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE4A726F8641",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A726F8641_9700_SPE4A724D0067_9700"
+          },
+          {
+            "title": "USAspending.gov · SPEFA126P0237",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPEFA126P0237_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "a20114330482fa53"
     }
   }
 }
