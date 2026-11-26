@@ -149180,6 +149180,469 @@
         ]
       },
       "card_hash": "020dbb893e563c0c"
+    },
+    "rockmart-fuel-containment-llc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "ROCKMART FUEL CONTAINMENT, LLC is a US company, with its seat in Rockmart. US federal spending records show US$26.3M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 68 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "ROCKMART FUEL CONTAINMENT, LLC is a US company, with its seat in Rockmart. US federal spending records show US$26.3M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 68 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Rockmart, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI E86UEFDHJWK6",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Rockmart, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI E86UEFDHJWK6",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ROCKMART FUEL CONTAINMENT, LLC, UEI E86UEFDHJWK6",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/07991bea-8500-04c2-1407-f9d6f7922de0-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/07991bea-8500-04c2-1407-f9d6f7922de0-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Rockmart",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ROCKMART FUEL CONTAINMENT, LLC is a US company, with its seat in Rockmart. US federal spending records show US$26.3M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 68 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$26.3M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Defense Logistics Agency",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "68",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Rockmart, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI E86UEFDHJWK6",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "FUEL cells",
+            "sub": "Defense Logistics Agency · US$14.2M · 2025–2029",
+            "status": "Contract",
+            "date": "26 Sep 2025",
+            "iso": "2025-09-26",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "TANK,FUEL,AIRCRAFT",
+            "sub": "Department of the Navy · US$7.2M · 2025–2028",
+            "status": "Contract",
+            "date": "22 Apr 2025",
+            "iso": "2025-04-22",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "TANK,FUEL,AIRCRAFT,",
+            "sub": "Department of the Navy · US$7.0M · 2025–2028",
+            "status": "Contract",
+            "date": "30 Jun 2025",
+            "iso": "2025-06-30",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "FUEL cells for the F-16 aircraft",
+            "sub": "Department of the Air Force · US$6.8M · 2025–2027",
+            "status": "Contract",
+            "date": "10 Mar 2025",
+            "iso": "2025-03-10",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "FUEL CELL",
+            "sub": "Defense Logistics Agency · US$4.1M · 2026–2028",
+            "status": "Contract",
+            "date": "16 Apr 2026",
+            "iso": "2026-04-16",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "FUEL CELL",
+            "sub": "Defense Logistics Agency · US$4.0M · 2026–2028",
+            "status": "Contract",
+            "date": "16 Apr 2026",
+            "iso": "2026-04-16",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "FUEL CELL",
+            "sub": "Defense Logistics Agency · US$3.8M · 2025–2027",
+            "status": "Contract",
+            "date": "18 Apr 2025",
+            "iso": "2025-04-18",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "Contract SPE4A725C0137",
+            "sub": "Defense Logistics Agency · US$3.7M · 2025–2028",
+            "status": "Contract",
+            "date": "15 Aug 2025",
+            "iso": "2025-08-15",
+            "ongoing": true,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$55.5M · 5 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              6
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$14.8M · 2 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              3,
+              4
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$6.8M · 1 contract",
+            "status": "verified",
+            "src": [
+              5
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI E86UEFDHJWK6",
+            "url": "https://www.usaspending.gov/recipient/07991bea-8500-04c2-1407-f9d6f7922de0-C/latest"
+          },
+          {
+            "title": "USAspending.gov · SPRTA125C0107",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRTA125C0107_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0038325FNS07",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0038325FNS07_9700_N0038325GNS01_9700"
+          },
+          {
+            "title": "USAspending.gov · N0038325FNS0C",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0038325FNS0C_9700_N0038325GNS01_9700"
+          },
+          {
+            "title": "USAspending.gov · FA821225C0002",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA821225C0002_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPRTA126F0108",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRTA126F0108_9700_SPRTA125D0016_9700"
+          },
+          {
+            "title": "USAspending.gov · SPRTA126F0162",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRTA126F0162_9700_SPRTA125D0015_9700"
+          },
+          {
+            "title": "USAspending.gov · SPRTA125F0079",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRTA125F0079_9700_SPRTA125D0002_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE4A725C0137",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A725C0137_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "592373f2b4e3d3b0"
+    },
+    "tyto-government-solutions-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "TYTO GOVERNMENT SOLUTIONS INC is a US company, with its seat in Reston. US federal spending records show US$14.8M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 2 contracts; the largest customer is the Department of the Air Force.",
+        "overview": "TYTO GOVERNMENT SOLUTIONS INC is a US company, with its seat in Reston. US federal spending records show US$14.8M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 2 contracts; the largest customer is the Department of the Air Force."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Reston, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI XJ4CPJNZGG97",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Reston, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI XJ4CPJNZGG97",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity TYTO GOVERNMENT SOLUTIONS INC, UEI XJ4CPJNZGG97",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/45d4f555-bc25-eef5-e6e1-18cadcc7ac0b-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/45d4f555-bc25-eef5-e6e1-18cadcc7ac0b-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Reston",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "TYTO GOVERNMENT SOLUTIONS INC is a US company, with its seat in Reston. US federal spending records show US$14.8M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 2 contracts; the largest customer is the Department of the Air Force.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$14.8M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Department of the Air Force",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "2",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Reston, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI XJ4CPJNZGG97",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Services for program MANAGEMENT, systems ENGINEERING, LOGISTICS, product support functions and software PROTOTYPING.",
+            "sub": "Department of the Air Force · US$21.4M · 2025–2026",
+            "status": "Contract",
+            "date": "08 Jul 2025",
+            "iso": "2025-07-08",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "Scalable homeland innovative enterprise layered defense (SHIELD) initial ORDER.",
+            "sub": "Missile Defense Agency · US$0K · 2025–2035",
+            "status": "Contract",
+            "date": "29 Dec 2025",
+            "iso": "2025-12-29",
+            "ongoing": true,
+            "src": 3
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$36.2M · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              2
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Missile Defense Agency",
+            "sub": "Customer · US$1K · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI XJ4CPJNZGG97",
+            "url": "https://www.usaspending.gov/recipient/45d4f555-bc25-eef5-e6e1-18cadcc7ac0b-C/latest"
+          },
+          {
+            "title": "USAspending.gov · FA881925CB010",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA881925CB010_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · HQ085926FE763",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_HQ085926FE763_9700_HQ085926DF877_9700"
+          }
+        ]
+      },
+      "card_hash": "6902acac515b21cf"
     }
   }
 }
