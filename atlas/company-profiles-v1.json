@@ -143433,6 +143433,207 @@
         ]
       },
       "card_hash": "8c511391d129a705"
+    },
+    "unified-business-technologies-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "UNIFIED BUSINESS TECHNOLOGIES, INC. is a US company, with its seat in Troy. US federal spending records show US$631K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 3 contracts; the largest customer is the Defense Microelectronics Activity.",
+        "overview": "UNIFIED BUSINESS TECHNOLOGIES, INC. is a US company, with its seat in Troy. US federal spending records show US$631K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 3 contracts; the largest customer is the Defense Microelectronics Activity."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Troy, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI G5LHK66N7M25",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Troy, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI G5LHK66N7M25",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity UNIFIED BUSINESS TECHNOLOGIES, INC., UEI G5LHK66N7M25",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/7b75824b-d2f6-acbc-0f10-781f1c02d6d2-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/7b75824b-d2f6-acbc-0f10-781f1c02d6d2-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Troy",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "UNIFIED BUSINESS TECHNOLOGIES, INC. is a US company, with its seat in Troy. US federal spending records show US$631K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 3 contracts; the largest customer is the Defense Microelectronics Activity.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$631K",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Defense Microelectronics Activity",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "3",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Troy, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI G5LHK66N7M25",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "PCB fabrication and assembly of microelectronic components to provide FLEXIBLE, FULL-SPECTRUM microelectronics solutions",
+            "sub": "Defense Microelectronics Activity · US$570K · 2026",
+            "status": "Contract",
+            "date": "04 Jun 2026",
+            "iso": "2026-06-04",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "Cacmd conference ROOM A/V / IT TECH refresh",
+            "sub": "Department of the Army · US$258K · 2025–2026",
+            "status": "Contract",
+            "date": "30 Sep 2025",
+            "iso": "2025-09-30",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "PCB fabrication and assembly of microelectronic components to provide FLEXIBLE, FULL-SPECTRUM microelectronics solutions",
+            "sub": "Defense Microelectronics Activity · US$21K · 2026",
+            "status": "Contract",
+            "date": "09 Mar 2026",
+            "iso": "2026-03-09",
+            "ongoing": false,
+            "src": 4
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Microelectronics Activity",
+            "sub": "Customer · US$1.2M · 2 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              4
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$298K · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI G5LHK66N7M25",
+            "url": "https://www.usaspending.gov/recipient/7b75824b-d2f6-acbc-0f10-781f1c02d6d2-C/latest"
+          },
+          {
+            "title": "USAspending.gov · HQ072726FE075",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_HQ072726FE075_9700_HQ072726AE007_9700"
+          },
+          {
+            "title": "USAspending.gov · W91QF425FA195",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W91QF425FA195_9700_W52P1J18DA010_9700"
+          },
+          {
+            "title": "USAspending.gov · HQ072726FE045",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_HQ072726FE045_9700_HQ072726AE007_9700"
+          }
+        ]
+      },
+      "card_hash": "a6a1c0165c4ac60d"
     }
   }
 }
