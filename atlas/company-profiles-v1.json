@@ -104387,8 +104387,8 @@
         ]
       ],
       "about": {
-        "workspace": "AUSTAL USA, LLC is a US company, with its seat in Mobile. US federal spending records show US$178.4M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 67 contracts; the largest customer is the Department of the Navy.",
-        "overview": "AUSTAL USA, LLC is a US company, with its seat in Mobile. US federal spending records show US$178.4M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 67 contracts; the largest customer is the Department of the Navy."
+        "workspace": "AUSTAL USA, LLC is a US company, with its seat in Mobile. US federal spending records show US$157.7M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 16 contracts; the largest customer is the Department of the Navy.",
+        "overview": "AUSTAL USA, LLC is a US company, with its seat in Mobile. US federal spending records show US$157.7M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 16 contracts; the largest customer is the Department of the Navy."
       },
       "facts": {
         "workspace": [
@@ -104467,20 +104467,20 @@
       ],
       "page": {
         "v": 2,
-        "lead": "AUSTAL USA, LLC is a US company, with its seat in Mobile. US federal spending records show US$178.4M obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 67 contracts; the largest customer is the Department of the Navy.",
+        "lead": "AUSTAL USA, LLC is a US company, with its seat in Mobile. US federal spending records show US$157.7M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 16 contracts; the largest customer is the Department of the Navy.",
         "lead_src": [
           1
         ],
         "figures": [
           {
-            "value": "US$178.4M",
-            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all Department of the Navy",
+            "value": "US$157.7M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026, almost all Department of the Navy",
             "src": [
               1
             ]
           },
           {
-            "value": "67",
+            "value": "16",
             "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
             "src": [
               1
@@ -104564,11 +104564,11 @@
             "src": 8
           },
           {
-            "title": "CODE 420A, USS omaha (LCS-12) fiscal year 2025, selected restricted AVAILABILITY, SSP: TPPC-LCS12-SWRMC25-CN01, delivery",
-            "sub": "Department of the Navy · US$18.7M · 2025–2026",
+            "title": "LUSV conceptual studies",
+            "sub": "Department of the Navy · US$14.4M · 2020–2025",
             "status": "Contract",
-            "date": "01 Aug 2025",
-            "iso": "2025-08-01",
+            "date": "04 Sep 2020",
+            "iso": "2020-09-04",
             "ongoing": false,
             "src": 9
           }
@@ -104577,7 +104577,7 @@
           {
             "type": "customer",
             "name": "Department of the Navy",
-            "sub": "Customer · US$5.9B · 8 contracts",
+            "sub": "Customer · US$5.8B · 8 contracts",
             "status": "verified",
             "src": [
               1,
@@ -104588,7 +104588,7 @@
           {
             "type": "customer",
             "name": "Defense Logistics Agency",
-            "sub": "Customer · US$215K",
+            "sub": "Customer · US$105K",
             "status": "verified",
             "src": [
               1
@@ -104631,12 +104631,12 @@
             "url": "https://www.usaspending.gov/award/CONT_AWD_N0002422C2243_9700_-NONE-_-NONE-"
           },
           {
-            "title": "USAspending.gov · N5523625F8464",
-            "url": "https://www.usaspending.gov/award/CONT_AWD_N5523625F8464_9700_N0002421D4443_9700"
+            "title": "USAspending.gov · N0002420C6315",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0002420C6315_9700_-NONE-_-NONE-"
           }
         ]
       },
-      "card_hash": "1b7ed7357ada5d2e"
+      "card_hash": "6196332fd0034270"
     },
     "gkn-aerospace-sweden-ab": {
       "developments": [
@@ -135575,6 +135575,671 @@
         ]
       },
       "card_hash": "713751683c4ae5b8"
+    },
+    "bell-textron": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "BELL TEXTRON INC is a US company, with its seat in Fort Worth. US federal spending records show US$3.5B obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 680 contracts; the largest customer is the Department of the Army.",
+        "overview": "BELL TEXTRON INC is a US company, with its seat in Fort Worth. US federal spending records show US$3.5B obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 680 contracts; the largest customer is the Department of the Army."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Fort Worth, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI N5QUZAYGPKM3",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Fort Worth, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI N5QUZAYGPKM3",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity BELL TEXTRON INC, UEI N5QUZAYGPKM3",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/9f062daf-f500-7d41-53d7-5248be76b69f-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/9f062daf-f500-7d41-53d7-5248be76b69f-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Fort Worth",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "BELL TEXTRON INC is a US company, with its seat in Fort Worth. US federal spending records show US$3.5B obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 680 contracts; the largest customer is the Department of the Army.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$3.5B",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "680",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$2.9B",
+            "label": "largest customer: Department of the Army",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Fort Worth, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI N5QUZAYGPKM3",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "The future vertical LIFT (FVL) flraa capability SET three is a PRE-MAJOR defense acquisition program (ACAT 1C) commissio",
+            "sub": "Department of the Army · US$4.0B · 2022–2031",
+            "status": "Contract",
+            "date": "05 Dec 2022",
+            "iso": "2022-12-05",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "Lot 15 AAC",
+            "sub": "Defense Contract Management Agency · US$1.2B · 2017–2026",
+            "status": "Contract",
+            "date": "07 Feb 2017",
+            "iso": "2017-02-07",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "UCA for 12 nigerian FMS AH-1ZS and associated SEPM",
+            "sub": "Department of the Navy · US$456.3M · 2024–2029",
+            "status": "Contract",
+            "date": "12 Mar 2024",
+            "iso": "2024-03-12",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "Lot 17- procurement of 8 UH-1Y and 4 AH-1Z aircraft for czech REPUBLIC.",
+            "sub": "Department of the Navy · US$331.5M · 2020–2026",
+            "status": "Contract",
+            "date": "04 Sep 2020",
+            "iso": "2020-09-04",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "H-1 PBL year 1 delivery order",
+            "sub": "Department of the Navy · US$172.5M · 2025–2026",
+            "status": "Contract",
+            "date": "01 Jan 2025",
+            "iso": "2025-01-01",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "Performance based logistics (PBL) support POP 2 FROM: 01 january 2026 - 31 december 2026",
+            "sub": "Department of the Navy · US$146.1M · 2026",
+            "status": "Contract",
+            "date": "01 Jan 2026",
+            "iso": "2026-01-01",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "Support for IRAQ - IGF::CT::IGF",
+            "sub": "Department of the Army · US$141.7M · 2015–2023",
+            "status": "Contract",
+            "date": "08 Aug 2015",
+            "iso": "2015-08-08",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "This requirement is being contracted in support of the iraqi ministry of defense (MOD) CLS requirements for their BELL h",
+            "sub": "Department of the Army · US$129.3M · 2022–2030",
+            "status": "Contract",
+            "date": "23 Feb 2022",
+            "iso": "2022-02-23",
+            "ongoing": true,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$7.2B · 3 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              8
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$1.6B · 4 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              4,
+              5
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Contract Management Agency",
+            "sub": "Customer · US$1.2B · 1 contract",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$80.2M",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "INDUSTRIAL ELECTRONIC ENGINEERS, INC.",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              10
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "TURBINE ENGINE COMPONENTS TECHNOLOGIES CORPORATION",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              10
+            ]
+          }
+        ],
+        "products": [
+          {
+            "name": "MV-75 Cheyenne",
+            "role": "makes",
+            "status": "verified",
+            "quote": "Bell Textron has completed the first fuselage for the US Army’s MV-75 Cheyenne tiltrotor aircraft, marking a manufacturing milestone in a programme intended to transform the speed and range of American military aviation.",
+            "src": [
+              11
+            ]
+          }
+        ],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI N5QUZAYGPKM3",
+            "url": "https://www.usaspending.gov/recipient/9f062daf-f500-7d41-53d7-5248be76b69f-C/latest"
+          },
+          {
+            "title": "USAspending.gov · W58RGZ23C0001",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ23C0001_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001917C0030",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001917C0030_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001924C0030",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001924C0030_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001920C0061",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001920C0061_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0038325F0NA0",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0038325F0NA0_9700_N0038325DNA01_9700"
+          },
+          {
+            "title": "USAspending.gov · N0038326FNA00",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0038326FNA00_9700_N0038325DNA01_9700"
+          },
+          {
+            "title": "USAspending.gov · W58RGZ15C0070",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ15C0070_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W58RGZ22C0012",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ22C0012_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · sub-award",
+            "url": "https://www.usaspending.gov/search"
+          },
+          {
+            "title": "defencematters.eu",
+            "url": "https://defencematters.eu/bell-mv75-cheyenne-first-fuselage-2026/"
+          }
+        ]
+      },
+      "card_hash": "668309296fcf667d"
+    },
+    "general-electric": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "GENERAL ELECTRIC COMPANY is a US company, with its seat in Cincinnati. US federal spending records show US$2.2B obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 790 contracts; the largest customer is the Department of the Navy.",
+        "overview": "GENERAL ELECTRIC COMPANY is a US company, with its seat in Cincinnati. US federal spending records show US$2.2B obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 790 contracts; the largest customer is the Department of the Navy."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Cincinnati, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI E3HYKKLT5ZT1",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Cincinnati, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI E3HYKKLT5ZT1",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity GENERAL ELECTRIC COMPANY, UEI E3HYKKLT5ZT1",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/61dfb4da-ba2f-398f-13e9-5792607bf051-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/61dfb4da-ba2f-398f-13e9-5792607bf051-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Cincinnati",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "GENERAL ELECTRIC COMPANY is a US company, with its seat in Cincinnati. US federal spending records show US$2.2B obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 790 contracts; the largest customer is the Department of the Navy.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$2.2B",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "790",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$1.0B",
+            "label": "largest customer: Department of the Navy",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Cincinnati, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI E3HYKKLT5ZT1",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Adaptive engine transition program (AETP)",
+            "sub": "Department of the Air Force · US$2.1B · 2016–2024",
+            "status": "Contract",
+            "date": "30 Jun 2016",
+            "iso": "2016-06-30",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "F-15EX LOTS 2+ propulsion system procurement",
+            "sub": "Defense Contract Management Agency · US$1.2B · 2021–2030",
+            "status": "Contract",
+            "date": "29 Oct 2021",
+            "iso": "2021-10-29",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "Requirement is to DESIGN, DEVELOP, qualify and integrate an improved turbine engine (ITE) for the EMD PHASE.",
+            "sub": "Department of the Army · US$963.8M · 2019–2029",
+            "status": "Contract",
+            "date": "01 Feb 2019",
+            "iso": "2019-02-01",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "IGF:OT:IGF advance acquisition CONTRACT- long lead material for lot 23 (FY2019) F414-GE-400 engine",
+            "sub": "Department of the Navy · US$833.8M · 2018–2026",
+            "status": "Contract",
+            "date": "30 Jul 2018",
+            "iso": "2018-07-30",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "T408 IAF engines and COST reduction initiatives",
+            "sub": "Department of the Navy · US$673.1M · 2023–2027",
+            "status": "Contract",
+            "date": "26 Apr 2023",
+            "iso": "2023-04-26",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "T408 lot 9 long lead items",
+            "sub": "Department of the Navy · US$649.5M · 2023–2032",
+            "status": "Contract",
+            "date": "18 Dec 2023",
+            "iso": "2023-12-18",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "LRIP lot 1&2 integrated logistics support",
+            "sub": "Department of the Navy · US$646.7M · 2017–2026",
+            "status": "Contract",
+            "date": "16 Nov 2017",
+            "iso": "2017-11-16",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "F110 taiwan engine COVID-19 DIB",
+            "sub": "Department of the Air Force · US$421.0M · 2020–2026",
+            "status": "Contract",
+            "date": "28 Apr 2020",
+            "iso": "2020-04-28",
+            "ongoing": true,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$3.8B · 4 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              5,
+              6
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$3.0B · 2 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              9
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$1.3B · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              4
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Contract Management Agency",
+            "sub": "Customer · US$1.2B · 1 contract",
+            "status": "verified",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$397.4M",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Advanced Research Projects Agency",
+            "sub": "Customer · US$3.0M",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "SMITH BROTHERS TOOL COMPANY",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              10
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "RHINESTAHL CORPORATION",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              10
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI E3HYKKLT5ZT1",
+            "url": "https://www.usaspending.gov/recipient/61dfb4da-ba2f-398f-13e9-5792607bf051-C/latest"
+          },
+          {
+            "title": "USAspending.gov · FA862616C2138",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA862616C2138_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · FA862622C0002",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA862622C0002_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W58RGZ19C0003",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ19C0003_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001918C1061",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001918C1061_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001923C0013",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001923C0013_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001924C0019",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001924C0019_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001918C1007",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001918C1007_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · FA862620F0029",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA862620F0029_9700_FA862618D0029_9700"
+          },
+          {
+            "title": "USAspending.gov · sub-award",
+            "url": "https://www.usaspending.gov/search"
+          }
+        ]
+      },
+      "card_hash": "110f78fb40425716"
     }
   }
 }
