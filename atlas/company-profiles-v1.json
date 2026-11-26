@@ -146810,6 +146810,653 @@
         ]
       },
       "card_hash": "a8a1bf222f03c690"
+    },
+    "m-tron-components-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "M-TRON COMPONENTS, INC. is a US company, with its seat in Ronkonkoma. US federal spending records show US$526K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 139 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "M-TRON COMPONENTS, INC. is a US company, with its seat in Ronkonkoma. US federal spending records show US$526K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 139 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Ronkonkoma, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI K4FJR3LGP563",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Ronkonkoma, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI K4FJR3LGP563",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity M-TRON COMPONENTS, INC., UEI K4FJR3LGP563",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/227b4c6b-83f5-8a6a-1bec-f5290c66bc36-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/227b4c6b-83f5-8a6a-1bec-f5290c66bc36-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Ronkonkoma",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "M-TRON COMPONENTS, INC. is a US company, with its seat in Ronkonkoma. US federal spending records show US$526K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 139 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$526K",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Defense Logistics Agency",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "139",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Ronkonkoma, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI K4FJR3LGP563",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract SPE7M826P0501",
+            "sub": "Defense Logistics Agency · US$55K · 2025–2026",
+            "status": "Contract",
+            "date": "18 Dec 2025",
+            "iso": "2025-12-18",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "Contract SPE7M526P0609",
+            "sub": "Defense Logistics Agency · US$34K · 2025–2026",
+            "status": "Contract",
+            "date": "04 Nov 2025",
+            "iso": "2025-11-04",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "Contract SPE7M126P5003",
+            "sub": "Defense Logistics Agency · US$32K · 2026",
+            "status": "Contract",
+            "date": "19 Mar 2026",
+            "iso": "2026-03-19",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Contract SPE7M126V030C",
+            "sub": "Defense Logistics Agency · US$22K · 2026",
+            "status": "Contract",
+            "date": "02 Jul 2026",
+            "iso": "2026-07-02",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Contract SPE7M826V0600",
+            "sub": "Defense Logistics Agency · US$18K · 2026",
+            "status": "Contract",
+            "date": "17 Feb 2026",
+            "iso": "2026-02-17",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Contract SPE7M526P1972",
+            "sub": "Defense Logistics Agency · US$17K · 2026",
+            "status": "Contract",
+            "date": "26 Feb 2026",
+            "iso": "2026-02-26",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Contract SPE7M526P3357",
+            "sub": "Defense Logistics Agency · US$17K · 2026",
+            "status": "Contract",
+            "date": "21 May 2026",
+            "iso": "2026-05-21",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "Contract SPE7M426V1382",
+            "sub": "Defense Logistics Agency · US$17K · 2025–2026",
+            "status": "Contract",
+            "date": "15 Dec 2025",
+            "iso": "2025-12-15",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$739K · 8 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI K4FJR3LGP563",
+            "url": "https://www.usaspending.gov/recipient/227b4c6b-83f5-8a6a-1bec-f5290c66bc36-C/latest"
+          },
+          {
+            "title": "USAspending.gov · SPE7M826P0501",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M826P0501_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M526P0609",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M526P0609_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M126P5003",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M126P5003_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M126V030C",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M126V030C_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M826V0600",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M826V0600_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M526P1972",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M526P1972_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M526P3357",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M526P3357_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M426V1382",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M426V1382_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "1c0753443bd832e2"
+    },
+    "sherburn-electronics-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "SHERBURN ELECTRONICS INC. is a US company, with its seat in Hauppauge. US federal spending records show US$114K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 4 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "SHERBURN ELECTRONICS INC. is a US company, with its seat in Hauppauge. US federal spending records show US$114K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 4 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Hauppauge, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI HQYTCMF5RGE4",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Hauppauge, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI HQYTCMF5RGE4",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity SHERBURN ELECTRONICS INC., UEI HQYTCMF5RGE4",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/a959a736-512c-bb02-af50-c0accff802af-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/a959a736-512c-bb02-af50-c0accff802af-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Hauppauge",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "SHERBURN ELECTRONICS INC. is a US company, with its seat in Hauppauge. US federal spending records show US$114K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 4 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$114K",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Defense Logistics Agency",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "4",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Hauppauge, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI HQYTCMF5RGE4",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract SPE7MC24V7392",
+            "sub": "Defense Logistics Agency · US$55K · 2024–2026",
+            "status": "Contract",
+            "date": "12 Jul 2024",
+            "iso": "2024-07-12",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "Contract SPE7M126V007H",
+            "sub": "Defense Logistics Agency · US$54K · 2026–2027",
+            "status": "Contract",
+            "date": "16 Jun 2026",
+            "iso": "2026-06-16",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "Contract SPE7M126V2175",
+            "sub": "Defense Logistics Agency · US$45K · 2025",
+            "status": "Contract",
+            "date": "17 Nov 2025",
+            "iso": "2025-11-17",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Contract SPE7M126P6202",
+            "sub": "Defense Logistics Agency · US$15K · 2026",
+            "status": "Contract",
+            "date": "18 May 2026",
+            "iso": "2026-05-18",
+            "ongoing": false,
+            "src": 5
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$283K · 4 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI HQYTCMF5RGE4",
+            "url": "https://www.usaspending.gov/recipient/a959a736-512c-bb02-af50-c0accff802af-C/latest"
+          },
+          {
+            "title": "USAspending.gov · SPE7MC24V7392",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7MC24V7392_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M126V007H",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M126V007H_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M126V2175",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M126V2175_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M126P6202",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M126P6202_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "f63fca4485711bf5"
+    },
+    "tec-solutions-llc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "TEC SOLUTIONS LLC is a US company, with its seat in Arlington. US federal spending records show US$1.7M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 2 contracts; the largest customer is the Department of the Air Force.",
+        "overview": "TEC SOLUTIONS LLC is a US company, with its seat in Arlington. US federal spending records show US$1.7M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 2 contracts; the largest customer is the Department of the Air Force."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Arlington, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI QLZ9LM9VLE73",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Arlington, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI QLZ9LM9VLE73",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity TEC SOLUTIONS LLC, UEI QLZ9LM9VLE73",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/60485053-6f0f-3709-3d5f-244d4dd9efb6-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/60485053-6f0f-3709-3d5f-244d4dd9efb6-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Arlington",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "TEC SOLUTIONS LLC is a US company, with its seat in Arlington. US federal spending records show US$1.7M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 2 contracts; the largest customer is the Department of the Air Force.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$1.7M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Department of the Air Force",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "2",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Arlington, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI QLZ9LM9VLE73",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "AC11-NATIONAL defense R and D services department of defense - military basic research",
+            "sub": "Department of the Air Force · US$6.6M · 2025–2026",
+            "status": "Contract",
+            "date": "01 Apr 2025",
+            "iso": "2025-04-01",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "Scalable homeland innovative enterprise layered defense (SHIELD) initial ORDER.",
+            "sub": "Missile Defense Agency · US$0K · 2025–2035",
+            "status": "Contract",
+            "date": "29 Dec 2025",
+            "iso": "2025-12-29",
+            "ongoing": true,
+            "src": 3
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$8.2M · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              2
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Missile Defense Agency",
+            "sub": "Customer · US$1K · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI QLZ9LM9VLE73",
+            "url": "https://www.usaspending.gov/recipient/60485053-6f0f-3709-3d5f-244d4dd9efb6-C/latest"
+          },
+          {
+            "title": "USAspending.gov · FA860425CB015",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA860425CB015_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · HQ085926FE689",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_HQ085926FE689_9700_HQ085926DE638_9700"
+          }
+        ]
+      },
+      "card_hash": "80064078a5bad636"
     }
   }
 }
