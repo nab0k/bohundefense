@@ -144369,6 +144369,527 @@
         ]
       },
       "card_hash": "776c6fded688fd76"
+    },
+    "atk-launch-systems-llc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "ATK LAUNCH SYSTEMS LLC is a US company, with its seat in Magna. US federal spending records show US$4.9M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 11 contracts; the largest customer is the Department of the Air Force.",
+        "overview": "ATK LAUNCH SYSTEMS LLC is a US company, with its seat in Magna. US federal spending records show US$4.9M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 11 contracts; the largest customer is the Department of the Air Force."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Magna, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI GRJJTMCRKJD1",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Magna, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI GRJJTMCRKJD1",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ATK LAUNCH SYSTEMS LLC, UEI GRJJTMCRKJD1",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/1d31c76b-458a-fdc1-0bd4-afb6735e457b-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/1d31c76b-458a-fdc1-0bd4-afb6735e457b-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Magna",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ATK LAUNCH SYSTEMS LLC is a US company, with its seat in Magna. US federal spending records show US$4.9M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 11 contracts; the largest customer is the Department of the Air Force.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$4.9M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Department of the Air Force",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "11",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Magna, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI GRJJTMCRKJD1",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Rocket motor technical SERVICES. IGF::CT::IGF",
+            "sub": "Missile Defense Agency · US$28.9M · 2017–2022",
+            "status": "Contract",
+            "date": "29 Mar 2017",
+            "iso": "2017-03-29",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "Advanced rocket technology CALL 2 MULTI-PULSE tactical propulsion development with HIGH MASS fraction and advanced ignit",
+            "sub": "Department of the Air Force · US$5.2M · 2018–2026",
+            "status": "Contract",
+            "date": "19 Nov 2018",
+            "iso": "2018-11-19",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "The contractor shall furnish all supplies and services necessary to accomplish WORK in accordance with attachment 1, per",
+            "sub": "Department of the Air Force · US$4.3M · 2024–2026",
+            "status": "Contract",
+            "date": "07 Sep 2024",
+            "iso": "2024-09-07",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "This TASK order procures a variety of tests for minuteman (MM) and peacekeeper (PK) rocket motor SUSTAINMENT.",
+            "sub": "Department of the Air Force · US$2.9M · 2026",
+            "status": "Contract",
+            "date": "01 Apr 2026",
+            "iso": "2026-04-01",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "This TASK order procures a study for the design and development of three (3) hydraulic TEST carts to be USED for aging s",
+            "sub": "Department of the Air Force · US$1.9M · 2025–2026",
+            "status": "Contract",
+            "date": "17 Sep 2025",
+            "iso": "2025-09-17",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "The contractor shall furnish all supplies and services necessary to accomplish WORK in accordance with attachment 1, per",
+            "sub": "Department of the Air Force · US$1.4M · 2024–2026",
+            "status": "Contract",
+            "date": "30 Sep 2024",
+            "iso": "2024-09-30",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "SR19 PLUG motor",
+            "sub": "Department of the Air Force · US$1.3M · 2022–2026",
+            "status": "Contract",
+            "date": "07 Jun 2022",
+            "iso": "2022-06-07",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "ETS support",
+            "sub": "Department of the Air Force · US$958K · 2023–2026",
+            "status": "Contract",
+            "date": "15 Feb 2023",
+            "iso": "2023-02-15",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Missile Defense Agency",
+            "sub": "Customer · US$28.9M · 1 contract",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$22.9M · 7 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              3,
+              4
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI GRJJTMCRKJD1",
+            "url": "https://www.usaspending.gov/recipient/1d31c76b-458a-fdc1-0bd4-afb6735e457b-C/latest"
+          },
+          {
+            "title": "USAspending.gov · HQ014717C0031",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_HQ014717C0031_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · FA930019F1303",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA930019F1303_9700_FA930018D0001_9700"
+          },
+          {
+            "title": "USAspending.gov · FA881824FB030",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA881824FB030_9700_FA881818D0001_9700"
+          },
+          {
+            "title": "USAspending.gov · FA881826FB004",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA881826FB004_9700_FA881818D0001_9700"
+          },
+          {
+            "title": "USAspending.gov · FA881825FB010",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA881825FB010_9700_FA881818D0001_9700"
+          },
+          {
+            "title": "USAspending.gov · FA881824FB032",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA881824FB032_9700_FA881818D0001_9700"
+          },
+          {
+            "title": "USAspending.gov · FA881823F0010",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA881823F0010_9700_FA881818D0001_9700"
+          },
+          {
+            "title": "USAspending.gov · FA881823F0033",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA881823F0033_9700_FA881818D0001_9700"
+          }
+        ]
+      },
+      "card_hash": "4f4214973b8689a0"
+    },
+    "celltron-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "CELLTRON, INC. is a US company, with its seat in Galena. US federal spending records show US$247K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 10 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "CELLTRON, INC. is a US company, with its seat in Galena. US federal spending records show US$247K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 10 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Galena, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI G8LMKLVVNSS4",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Galena, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI G8LMKLVVNSS4",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity CELLTRON, INC., UEI G8LMKLVVNSS4",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/b80f4dc3-eb3e-7f8d-bbb7-05c69f2116b2-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/b80f4dc3-eb3e-7f8d-bbb7-05c69f2116b2-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Galena",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "CELLTRON, INC. is a US company, with its seat in Galena. US federal spending records show US$247K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 10 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$247K",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Defense Logistics Agency",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "10",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Galena, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI G8LMKLVVNSS4",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract SPE4A626F119X",
+            "sub": "Defense Logistics Agency · US$114K · 2026",
+            "status": "Contract",
+            "date": "27 May 2026",
+            "iso": "2026-05-27",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "Contract SPE4A626F119W",
+            "sub": "Defense Logistics Agency · US$57K · 2026",
+            "status": "Contract",
+            "date": "27 May 2026",
+            "iso": "2026-05-27",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "Contract SPE4A626F1886",
+            "sub": "Defense Logistics Agency · US$41K · 2025–2026",
+            "status": "Contract",
+            "date": "04 Nov 2025",
+            "iso": "2025-11-04",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Contract SPE4A625P0R77",
+            "sub": "Defense Logistics Agency · US$37K · 2025–2027",
+            "status": "Contract",
+            "date": "11 Sep 2025",
+            "iso": "2025-09-11",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "Contract SPE4A625P1AK5",
+            "sub": "Defense Logistics Agency · US$29K · 2025–2026",
+            "status": "Contract",
+            "date": "26 Sep 2025",
+            "iso": "2025-09-26",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Contract SPE4A626V6290",
+            "sub": "Defense Logistics Agency · US$16K · 2026",
+            "status": "Contract",
+            "date": "08 Jan 2026",
+            "iso": "2026-01-08",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Contract SPE4A626P0628",
+            "sub": "Defense Logistics Agency · US$13K · 2025–2026",
+            "status": "Contract",
+            "date": "02 Oct 2025",
+            "iso": "2025-10-02",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "Contract SPE4A726PB874",
+            "sub": "Defense Logistics Agency · US$4K · 2026",
+            "status": "Contract",
+            "date": "23 Jun 2026",
+            "iso": "2026-06-23",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$558K · 8 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI G8LMKLVVNSS4",
+            "url": "https://www.usaspending.gov/recipient/b80f4dc3-eb3e-7f8d-bbb7-05c69f2116b2-C/latest"
+          },
+          {
+            "title": "USAspending.gov · SPE4A626F119X",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A626F119X_9700_SPE4A626D5508_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE4A626F119W",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A626F119W_9700_SPE4A626D5508_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE4A626F1886",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A626F1886_9700_SPE4A624D5774_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE4A625P0R77",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A625P0R77_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A625P1AK5",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A625P1AK5_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A626V6290",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A626V6290_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A626P0628",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A626P0628_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A726PB874",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A726PB874_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "6a73d68d606cd830"
     }
   }
 }
