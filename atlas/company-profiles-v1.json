@@ -132516,6 +132516,814 @@
         ]
       },
       "card_hash": "ceee0cb1032a12bc"
+    },
+    "drager-nederland-b-v": {
+      "developments": [
+        {
+          "date": "06 Sep 2024",
+          "title": "Contract award by Ministerie van Defensie",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/534826-2024"
+        }
+      ],
+      "country": "NL",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "Dräger Nederland B.V. is a Dutch company registered in 1981, with its seat in Zoetermeer. EU procurement records (TED) list a contract award by Ministerie van Defensie (06 Sep 2024).",
+        "overview": "Dräger Nederland B.V. is a Dutch company registered in 1981, with its seat in Zoetermeer. EU procurement records (TED) list a contract award by Ministerie van Defensie (06 Sep 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1981",
+            "Registered"
+          ],
+          [
+            "Zoetermeer, Netherlands",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900SZ46ARWZBB5T55",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1981",
+            "Registered"
+          ],
+          [
+            "Zoetermeer, Netherlands",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900SZ46ARWZBB5T55",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Ministerie van Defensie",
+            "sub": "TED notice 534826-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "06 Sep 2024",
+            "desc": "TED notice 534826-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Ministerie van Defensie",
+            "sub": "TED notice 534826-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "06 Sep 2024",
+            "desc": "TED notice 534826-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Ministerie van Defensie",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Ministerie van Defensie",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Dräger Nederland B.V., LEI 529900SZ46ARWZBB5T55",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900SZ46ARWZBB5T55"
+        },
+        {
+          "claim": "Contract award by Ministerie van Defensie (TED 534826-2024)",
+          "sources": 1,
+          "date": "06 Sep 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/534826-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Zoetermeer",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Dräger Nederland B.V. is a Dutch company registered in 1981, with its seat in Zoetermeer. EU procurement records (TED) list a contract award by Ministerie van Defensie (06 Sep 2024).",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "1",
+            "label": "contract awards on record",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "1981",
+            "Registered",
+            null
+          ],
+          [
+            "Zoetermeer, Netherlands",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900SZ46ARWZBB5T55",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract award · Ministerie van Defensie",
+            "sub": "TED notice 534826-2024",
+            "status": "Contract award",
+            "date": "06 Sep 2024",
+            "iso": "2024-09-06",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900SZ46ARWZBB5T55",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900SZ46ARWZBB5T55"
+          },
+          {
+            "title": "TED notice 534826-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/534826-2024"
+          }
+        ]
+      },
+      "card_hash": "9567ecd539fbce6e"
+    },
+    "northrop-grumman-systems-corporation": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "NORTHROP GRUMMAN SYSTEMS CORPORATION is a US company, with its seat in Melbourne. US federal spending records show US$4.1B obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 1,330 contracts; the largest customer is the Department of the Navy.",
+        "overview": "NORTHROP GRUMMAN SYSTEMS CORPORATION is a US company, with its seat in Melbourne. US federal spending records show US$4.1B obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 1,330 contracts; the largest customer is the Department of the Navy."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Melbourne, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300KYOZYCZII5OX23",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Melbourne, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300KYOZYCZII5OX23",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity NORTHROP GRUMMAN SYSTEMS CORPORATION, LEI 549300KYOZYCZII5OX23",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://search.gleif.org/#/record/549300KYOZYCZII5OX23"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/a398e5f8-3381-5983-2fb6-c60a3f701eb4-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Melbourne",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "NORTHROP GRUMMAN SYSTEMS CORPORATION is a US company, with its seat in Melbourne. US federal spending records show US$4.1B obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 1,330 contracts; the largest customer is the Department of the Navy.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$4.1B",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026",
+            "src": [
+              10
+            ]
+          },
+          {
+            "value": "1,330",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              10
+            ]
+          },
+          {
+            "value": "US$2.0B",
+            "label": "largest customer: Department of the Navy",
+            "src": [
+              10
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Melbourne, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 549300KYOZYCZII5OX23",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "E-2D advanced hawkeye aircraft (FRP-7)",
+            "sub": "Department of the Navy · US$8.5B · 2018–2030",
+            "status": "Contract",
+            "date": "15 Feb 2018",
+            "iso": "2018-02-15",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "E-2D advanced hawkeye aircraft (FRP-2)",
+            "sub": "Department of the Navy · US$5.4B · 2013–2026",
+            "status": "Contract",
+            "date": "13 May 2013",
+            "iso": "2013-05-13",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "To award production effort for the precision guidance KIT (PGK)TO include ARMY, MARINES, FMS QUANTITIES, FFP, base with ",
+            "sub": "Defense Contract Management Agency · US$1.5B · 2013–2025",
+            "status": "Contract",
+            "date": "30 Aug 2013",
+            "iso": "2013-08-30",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "E130J engineering and manufacturing development (EMD)",
+            "sub": "Department of the Navy · US$1.2B · 2024–2027",
+            "status": "Contract",
+            "date": "18 Dec 2024",
+            "iso": "2024-12-18",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "COMPUTER,RADAR DATA",
+            "sub": "Defense Logistics Agency · US$876.6M · 2019–2029",
+            "status": "Contract",
+            "date": "23 Sep 2019",
+            "iso": "2019-09-23",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "The procurement of three (3) E-2D advanced hawkeye (AHE) AIRCRAFT.",
+            "sub": "Department of the Navy · US$583.4M · 2026–2031",
+            "status": "Contract",
+            "date": "22 Jul 2026",
+            "iso": "2026-07-22",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "DON laircm FY22 production WRA, associated SEPM, and technical STUDIES. this contract ALSO establishes option year 1 cli",
+            "sub": "Department of the Navy · US$509.7M · 2022–2028",
+            "status": "Contract",
+            "date": "01 Apr 2022",
+            "iso": "2022-04-01",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "D6 TCID hardware development",
+            "sub": "Department of the Navy · US$475.0M · 2023–2030",
+            "status": "Contract",
+            "date": "12 Sep 2023",
+            "iso": "2023-09-12",
+            "ongoing": true,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$18.6B · 6 contracts",
+            "status": "verified",
+            "src": [
+              2,
+              3,
+              5
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$1.8B · 1 contract",
+            "status": "verified",
+            "src": [
+              6,
+              10
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Contract Management Agency",
+            "sub": "Customer · US$1.5B · 1 contract",
+            "status": "verified",
+            "src": [
+              4
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$817.8M",
+            "status": "verified",
+            "src": [
+              10
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Microelectronics Activity",
+            "sub": "Customer · US$192.9M",
+            "status": "verified",
+            "src": [
+              10
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$186.0M",
+            "status": "verified",
+            "src": [
+              10
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "AIR INDUSTRIES MACHINING, CORP.",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              11
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "ALLIANCE SPACESYSTEMS, LLC",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              11
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "EMF ENGINEERED COMPONENTS LLC",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              11
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "RENMARK PACIFIC CORP",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              11
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "LOCKHEED MARTIN CORPORATION",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              11
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "TAVIS CORP",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              11
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "MODELS & TOOLS INC.",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              11
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "ACTION ELECTRONICS INC",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              11
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "NORTECH SYSTEMS INC",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              11
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "VETERANS TRADING COMPANY, INC.",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              11
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "STERLING COMPUTERS CORPORATION",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              11
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "DESIGN/OL, INC.",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              11
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 549300KYOZYCZII5OX23",
+            "url": "https://search.gleif.org/#/record/549300KYOZYCZII5OX23"
+          },
+          {
+            "title": "USAspending.gov · N0001918C1037",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001918C1037_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001913C9999",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001913C9999_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W15QKN13C0074",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN13C0074_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001925C0130",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001925C0130_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPRPA119FE31N",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRPA119FE31N_9700_N0001915G0026_9700"
+          },
+          {
+            "title": "USAspending.gov · N0001926C1017",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001926C1017_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001922C0042",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001922C0042_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001923F2625",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001923F2625_9700_N0001920G0005_9700"
+          },
+          {
+            "title": "USAspending.gov · US Department of Defense · FY2026–27, to 25 Nov 2026",
+            "url": "https://www.usaspending.gov/recipient/a398e5f8-3381-5983-2fb6-c60a3f701eb4-C/latest"
+          },
+          {
+            "title": "USAspending.gov · sub-award",
+            "url": "https://www.usaspending.gov/search"
+          }
+        ]
+      },
+      "card_hash": "74d3fc7a02d5c4dd"
+    },
+    "sitime": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "SITIME CORPORATION is a US company, with its seat in Santa Clara. US federal spending records show US$700K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 1 contracts; the largest customer is the Defense Microelectronics Activity.",
+        "overview": "SITIME CORPORATION is a US company, with its seat in Santa Clara. US federal spending records show US$700K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 1 contracts; the largest customer is the Defense Microelectronics Activity."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Santa Clara, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI GR1NK3ML1EF1",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Santa Clara, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI GR1NK3ML1EF1",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity SITIME CORPORATION, UEI GR1NK3ML1EF1",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/75fc9ce4-85a1-cadc-6320-b1f27d7798b1-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/75fc9ce4-85a1-cadc-6320-b1f27d7798b1-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Santa Clara",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "SITIME CORPORATION is a US company, with its seat in Santa Clara. US federal spending records show US$700K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 1 contracts; the largest customer is the Defense Microelectronics Activity.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$700K",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026, almost all Defense Microelectronics Activity",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "1",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Santa Clara, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI GR1NK3ML1EF1",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "SBIR direct to phase II (24-4C9): HIGH performance clock OSCILLATOR: research and development efforts to DESIGN, FABRICA",
+            "sub": "Defense Microelectronics Activity · US$2.7M · 2024–2027",
+            "status": "Contract",
+            "date": "09 May 2024",
+            "iso": "2024-05-09",
+            "ongoing": true,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Microelectronics Activity",
+            "sub": "Customer · US$3.4M · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI GR1NK3ML1EF1",
+            "url": "https://www.usaspending.gov/recipient/75fc9ce4-85a1-cadc-6320-b1f27d7798b1-C/latest"
+          },
+          {
+            "title": "USAspending.gov · HQ072724C1002",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_HQ072724C1002_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "d5b880366ddd8aa5"
     }
   }
 }
