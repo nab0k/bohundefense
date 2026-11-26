@@ -116595,12 +116595,12 @@
       "meta": [
         [
           "shield",
-          "Defence participation L3 · verified · contracts with defence customers"
+          "Defence participation L1 · supported · named military products"
         ]
       ],
       "about": {
-        "workspace": "SYSTEMATIC A/S is a Danish company registered in 1985, with its seat in Aarhus C. EU procurement records (TED) list a contract award by Gynybos resursų agentūra prie Krašto apsaugos ministerijos (29 Mar 2024).",
-        "overview": "SYSTEMATIC A/S is a Danish company registered in 1985, with its seat in Aarhus C. EU procurement records (TED) list a contract award by Gynybos resursų agentūra prie Krašto apsaugos ministerijos (29 Mar 2024)."
+        "workspace": "SYSTEMATIC A/S is a Danish company registered in 1985, with its seat in Aarhus C. EU procurement records (TED) list a contract award by Gynybos resursų agentūra prie Krašto apsaugos ministerijos (29 Mar 2024). Its website presents military products including SitaWare Headquarters, SitaWare Frontline, IRIS Forms, IRIS Military Mail.",
+        "overview": "SYSTEMATIC A/S is a Danish company registered in 1985, with its seat in Aarhus C. EU procurement records (TED) list a contract award by Gynybos resursų agentūra prie Krašto apsaugos ministerijos (29 Mar 2024). Its website presents military products including SitaWare Headquarters, SitaWare Frontline, IRIS Forms, IRIS Military Mail."
       },
       "facts": {
         "workspace": [
@@ -116633,7 +116633,7 @@
         ]
       },
       "attributes": [
-        "Defence L3"
+        "Defence L1"
       ],
       "taxonomy": {
         "domains": [],
@@ -116666,8 +116666,99 @@
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "SitaWare Headquarters",
+          "level": "L0",
+          "icon": "crosshair",
+          "selected": true
+        },
+        {
+          "label": "SitaWare Insight",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "SitaWare Frontline",
+          "level": "L0",
+          "icon": "crosshair"
+        },
+        {
+          "label": "SitaWare Edge",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "SitaWare Aspire",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "IRIS Forms",
+          "level": "L0",
+          "icon": "crosshair"
+        },
+        {
+          "label": "IRIS Military Mail",
+          "level": "L0",
+          "icon": "crosshair"
+        },
+        {
+          "label": "IRIS Standards Management",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "SitaWare Headquarters",
+              "SitaWare Headquarters Operationally proven C4ISR system that offers situational awareness and interoperability across domains.",
+              "green"
+            ],
+            [
+              "SitaWare Insight",
+              "SitaWare Insight Information superiority with Agentic AI - through automation of intelligence collection, processing, and dissemination.",
+              "grey"
+            ],
+            [
+              "SitaWare Frontline",
+              "SitaWare Frontline Battle management and unmatched tactical communications for the mounted commander.",
+              "green"
+            ],
+            [
+              "SitaWare Edge",
+              "SitaWare Edge Comprehensive situational awareness and command-and-control for the dismounted commander.",
+              "grey"
+            ],
+            [
+              "SitaWare Aspire",
+              "SitaWare Aspire Digital training platform that provides users with hands‑on experience in the SitaWare suite.",
+              "grey"
+            ],
+            [
+              "IRIS Forms",
+              "IRIS Forms Simplify the exchange of mission‑critical information with formatted military messaging.",
+              "green"
+            ],
+            [
+              "IRIS Military Mail",
+              "IRIS Military Mail Optimize military mailing procedures with a complete message handling infrastructure.",
+              "green"
+            ],
+            [
+              "IRIS Standards Management",
+              "IRIS Standards Management Manage and maintain structured information standards with a web‑based, centralized repository.",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -116709,6 +116800,38 @@
           "href": "https://ted.europa.eu/en/notice/-/detail/190112-2024"
         },
         {
+          "claim": "SitaWare Headquarters: “SitaWare Headquarters Operationally proven C4ISR system that offers situational awareness and interoperability across domains.”",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://systematic.com/us/industries/defense/products/"
+        },
+        {
+          "claim": "SitaWare Frontline: “SitaWare Frontline Battle management and unmatched tactical communications for the mounted commander.”",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://systematic.com/us/industries/defense/products/"
+        },
+        {
+          "claim": "IRIS Forms: “IRIS Forms Simplify the exchange of mission‑critical information with formatted military messaging.”",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://systematic.com/us/industries/defense/products/"
+        },
+        {
+          "claim": "IRIS Military Mail: “IRIS Military Mail Optimize military mailing procedures with a complete message handling infrastructure.”",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://systematic.com/us/industries/defense/products/"
+        },
+        {
           "claim": "Technologies, financials and relationships beyond these records",
           "sources": 0,
           "date": "25 Nov 2026",
@@ -116725,7 +116848,7 @@
       ],
       "page": {
         "v": 2,
-        "lead": "SYSTEMATIC A/S is a Danish company registered in 1985, with its seat in Aarhus C. EU procurement records (TED) list a contract award by Gynybos resursų agentūra prie Krašto apsaugos ministerijos (29 Mar 2024).",
+        "lead": "SYSTEMATIC A/S is a Danish company registered in 1985, with its seat in Aarhus C. EU procurement records (TED) list a contract award by Gynybos resursų agentūra prie Krašto apsaugos ministerijos (29 Mar 2024). Its website presents military products including SitaWare Headquarters, SitaWare Frontline, IRIS Forms, IRIS Military Mail.",
         "lead_src": [
           1
         ],
@@ -116784,8 +116907,35 @@
           {
             "name": "SitaWare Headquarters",
             "role": "makes",
-            "status": "verified",
-            "quote": "The new office is directly tied to the LAND 4140 programme, under which Systematic will supply SitaWare Headquarters as the first tranche of the Australian Army’s next-generation Battle Management System.",
+            "status": "supported",
+            "quote": "SitaWare Headquarters Operationally proven C4ISR system that offers situational awareness and interoperability across domains.",
+            "src": [
+              4
+            ]
+          },
+          {
+            "name": "SitaWare Frontline",
+            "role": "makes",
+            "status": "supported",
+            "quote": "SitaWare Frontline Battle management and unmatched tactical communications for the mounted commander.",
+            "src": [
+              4
+            ]
+          },
+          {
+            "name": "IRIS Forms",
+            "role": "makes",
+            "status": "supported",
+            "quote": "IRIS Forms Simplify the exchange of mission‑critical information with formatted military messaging.",
+            "src": [
+              4
+            ]
+          },
+          {
+            "name": "IRIS Military Mail",
+            "role": "makes",
+            "status": "supported",
+            "quote": "IRIS Military Mail Optimize military mailing procedures with a complete message handling infrastructure.",
             "src": [
               4
             ]
@@ -116814,7 +116964,7 @@
             "status": "verified",
             "quote": "The new office is directly tied to the LAND 4140 programme, under which Systematic will supply SitaWare Headquarters as the first tranche of the Australian Army’s next-generation Battle Management System.",
             "src": [
-              4
+              6
             ]
           }
         ],
@@ -116841,16 +116991,20 @@
             "url": "https://www.hartpunkt.de/bundeswehr-sanitaetsdienst-erhaelt-sitaware-battlefield-health-von-systematic/"
           },
           {
-            "title": "balticnews.com",
-            "url": "https://balticnews.com/denmarks-systematic-opens-canberra-office-to-deliver-a98m-australian-army-battle-management-system/"
+            "title": "Company website",
+            "url": "https://systematic.com/us/industries/defense/products/"
           },
           {
             "title": "defensenews.com",
             "url": "https://www.defensenews.com/news/2026/11/16/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/"
+          },
+          {
+            "title": "balticnews.com",
+            "url": "https://balticnews.com/denmarks-systematic-opens-canberra-office-to-deliver-a98m-australian-army-battle-management-system/"
           }
         ]
       },
-      "card_hash": "d89a5d117409cda2"
+      "card_hash": "91f3caedf394bba5"
     },
     "abeking-rasmussen-schiffs-und-yachtwerft-se": {
       "developments": [],
@@ -119014,8 +119168,39 @@
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "WiSENT 1",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "WiSENT 2",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "WiSENT 1",
+              "Die Mehrzweckplattform WiSENT 1 wurde von FFG entwickelt, um flexibel, kostengünstig, effizient und wirtschaftlich den Leopard 2 Kampfpanzer",
+              "grey"
+            ],
+            [
+              "WiSENT 2",
+              "So bietet die FFG mit dem WiSENT 2 ein Unterstützungsfahrzeug, das speziell für aktuelle Anforderungen und Einsatzszenarien entwickelt wurde",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -119180,7 +119365,7 @@
           }
         ]
       },
-      "card_hash": "045ce7de01d48b56"
+      "card_hash": "a8f34e80fda630c3"
     },
     "mtu-aero-engines": {
       "developments": [
@@ -131830,6 +132015,507 @@
         ]
       },
       "card_hash": "737e9e6fac409607"
+    },
+    "philips-gmbh": {
+      "developments": [
+        {
+          "date": "01 Dec 2023",
+          "title": "European Defence Fund project 101121421",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121421/EDF"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "PHILIPS GMBH is a German company registered in 1985, with its seat in Hamburg. It takes part in 1 European Defence Fund project (2023).",
+        "overview": "PHILIPS GMBH is a German company registered in 1985, with its seat in Hamburg. It takes part in 1 European Defence Fund project (2023)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1985",
+            "Registered"
+          ],
+          [
+            "Hamburg, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300248MLTYR8U3N92",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1985",
+            "Registered"
+          ],
+          [
+            "Hamburg, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300248MLTYR8U3N92",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101121421",
+            "sub": "EU defence research and development · call EDF-2022-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "01 Dec 2023",
+            "desc": "Call EDF-2022-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121421/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101121421",
+            "sub": "EU defence research and development · call EDF-2022-RA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "01 Dec 2023",
+            "desc": "Call EDF-2022-RA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121421/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity PHILIPS GMBH, LEI 549300248MLTYR8U3N92",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/549300248MLTYR8U3N92"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121421",
+          "sources": 1,
+          "date": "01 Dec 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121421/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Hamburg",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "PHILIPS GMBH is a German company registered in 1985, with its seat in Hamburg. It takes part in 1 European Defence Fund project (2023).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1985",
+            "Registered",
+            null
+          ],
+          [
+            "Hamburg, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 549300248MLTYR8U3N92",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101121421",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "01 Dec 2023",
+            "iso": "2023-12-01",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 549300248MLTYR8U3N92",
+            "url": "https://api.gleif.org/api/v1/lei-records/549300248MLTYR8U3N92"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101121421",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121421/EDF"
+          }
+        ]
+      },
+      "card_hash": "0703f12d6112dfc8"
+    },
+    "griffon-aerospace": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "GRIFFON AEROSPACE, INC. is a US company, with its seat in Madison. US federal spending records show US$409.5M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 17 contracts; the largest customer is the Department of the Army.",
+        "overview": "GRIFFON AEROSPACE, INC. is a US company, with its seat in Madison. US federal spending records show US$409.5M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 17 contracts; the largest customer is the Department of the Army."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Madison, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI GVAZBHN26HL8",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Madison, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI GVAZBHN26HL8",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity GRIFFON AEROSPACE, INC., UEI GVAZBHN26HL8",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/41bb56d5-8574-efa3-71e7-93998f65487f-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/41bb56d5-8574-efa3-71e7-93998f65487f-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Madison",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "GRIFFON AEROSPACE, INC. is a US company, with its seat in Madison. US federal spending records show US$409.5M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 17 contracts; the largest customer is the Department of the Army.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$409.5M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Department of the Army",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "17",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Madison, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI GVAZBHN26HL8",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "In support of executive ORDER- unleashing america drone DOMINANCE, the ARMY contracting COMMAND-REDSTONE arsenal establi",
+            "sub": "Department of the Army · US$77.7M · 2026",
+            "status": "Contract",
+            "date": "16 Mar 2026",
+            "iso": "2026-03-16",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "In accordance with the directives established in the department of WAR memorandum dated 10 JULY 2025, in support of exec",
+            "sub": "Department of the Army · US$67.9M · 2026–2027",
+            "status": "Contract",
+            "date": "03 Jun 2026",
+            "iso": "2026-06-03",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "In support of executive ORDER- unleashing drone DOMINANCE, the ARMY contracting COMMAND-REDSTONE arsenal established the",
+            "sub": "Department of the Army · US$37.0M · 2026–2027",
+            "status": "Contract",
+            "date": "09 Jul 2026",
+            "iso": "2026-07-09",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "Griffon arrowhead order",
+            "sub": "Department of the Army · US$19.0M · 2026–2027",
+            "status": "Contract",
+            "date": "05 Mar 2026",
+            "iso": "2026-03-05",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "Order for pilot SERVICES, field SUPPORT/OPERATION for small unmanned aerial SYSTEMS.",
+            "sub": "Department of the Army · US$6.7M · 2021–2025",
+            "status": "Contract",
+            "date": "19 Jan 2021",
+            "iso": "2021-01-19",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Basic contract award for engineering services with various option slins for hardware and services OVER a 5-YEAR PERIOD.",
+            "sub": "Department of the Army · US$4.0M · 2014–2017",
+            "status": "Contract",
+            "date": "18 Aug 2014",
+            "iso": "2014-08-18",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Delivery order 58 under the AIR defense artillery targets II (ADA-T II) indefinite DELIVERY/INDEFINITE quantity (IDIQ) c",
+            "sub": "Department of the Army · US$3.1M · 2025–2027",
+            "status": "Contract",
+            "date": "03 Jun 2025",
+            "iso": "2025-06-03",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "Delivery order (DO) #69 under the AIR defense artillery targets (ADA-T) contract W900KK-22-D-0010, USED to provide aeria",
+            "sub": "Department of the Army · US$2.5M · 2025–2026",
+            "status": "Contract",
+            "date": "02 Sep 2025",
+            "iso": "2025-09-02",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$626.2M · 8 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3,
+              10
+            ],
+            "quote": "On August 25, Griffon received an additional contract from the Army, valued at just under $133 million, “to procure Griffon Outlaw systems, support equipment and field service representatives for system use and employment.”"
+          },
+          {
+            "type": "customer",
+            "name": "Immediate Office of the Secretary of Defense",
+            "sub": "Customer · US$1.1M",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "products": [
+          {
+            "name": "MQM-170C Outlaw G2",
+            "role": "makes",
+            "status": "candidate",
+            "quote": "MQM-170C’s manufacturer, Griffon Aerospace , which refers to this design internally as the Outlaw Gen 2 (G2)",
+            "src": [
+              10
+            ]
+          }
+        ],
+        "news": [
+          {
+            "iso": "2026-08-25",
+            "kind": "Customer",
+            "title": "Customer: U.S. Army",
+            "line": "On August 25, Griffon received an additional contract from the Army, valued at just under $133 million, “to procure Griffon Outlaw systems, support equipment and field service representatives for system use and employment.”",
+            "src": 10
+          }
+        ],
+        "sources": [
+          {
+            "title": "Register · UEI GVAZBHN26HL8",
+            "url": "https://www.usaspending.gov/recipient/41bb56d5-8574-efa3-71e7-93998f65487f-C/latest"
+          },
+          {
+            "title": "USAspending.gov · W58RGZ26F0211",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0211_9700_W58RGZ26G0061_9700"
+          },
+          {
+            "title": "USAspending.gov · W58RGZ26F0332",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0332_9700_W58RGZ26G0061_9700"
+          },
+          {
+            "title": "USAspending.gov · W58RGZ26F0363",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0363_9700_W58RGZ26G0061_9700"
+          },
+          {
+            "title": "USAspending.gov · W58RGZ26F0205",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ26F0205_9700_W58RGZ26G0061_9700"
+          },
+          {
+            "title": "USAspending.gov · W900KK21F0033",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK21F0033_9700_W31P4Q18D0029_9700"
+          },
+          {
+            "title": "USAspending.gov · W31P4Q14C0158",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q14C0158_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W900KK25FA087",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK25FA087_9700_W900KK22D0010_9700"
+          },
+          {
+            "title": "USAspending.gov · W900KK25FA134",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W900KK25FA134_9700_W900KK22D0010_9700"
+          },
+          {
+            "title": "twz.com",
+            "url": "https://www.twz.com/news-features/lets-talk-about-the-u-s-target-drone-iran-claims-to-have-recovered-intact"
+          }
+        ]
+      },
+      "card_hash": "ceee0cb1032a12bc"
     }
   }
 }
