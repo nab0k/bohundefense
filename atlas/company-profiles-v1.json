@@ -103828,8 +103828,8 @@
         ]
       ],
       "about": {
-        "workspace": "SIERRA SPACE CORP is a US company, with its seat in Louisville. US federal spending records show US$100K obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 2 contracts; the largest customer is the Department of the Air Force.",
-        "overview": "SIERRA SPACE CORP is a US company, with its seat in Louisville. US federal spending records show US$100K obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 2 contracts; the largest customer is the Department of the Air Force."
+        "workspace": "SIERRA SPACE CORP is a US company, with its seat in Louisville. US federal spending records show US$100K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 2 contracts; the largest customer is the Department of the Air Force.",
+        "overview": "SIERRA SPACE CORP is a US company, with its seat in Louisville. US federal spending records show US$100K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 2 contracts; the largest customer is the Department of the Air Force."
       },
       "facts": {
         "workspace": [
@@ -103908,14 +103908,14 @@
       ],
       "page": {
         "v": 2,
-        "lead": "SIERRA SPACE CORP is a US company, with its seat in Louisville. US federal spending records show US$100K obligated to it by the Department of Defense in FY2026–27, to 25 Nov 2026 across 2 contracts; the largest customer is the Department of the Air Force.",
+        "lead": "SIERRA SPACE CORP is a US company, with its seat in Louisville. US federal spending records show US$100K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 2 contracts; the largest customer is the Department of the Air Force.",
         "lead_src": [
           1
         ],
         "figures": [
           {
             "value": "US$100K",
-            "label": "US Department of Defense obligations, FY2026–27, to 25 Nov 2026, almost all Department of the Air Force",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026, almost all Department of the Air Force",
             "src": [
               1
             ]
@@ -103999,7 +103999,7 @@
           }
         ]
       },
-      "card_hash": "5f47957f80675d1f"
+      "card_hash": "d37ff1220499e6e7"
     },
     "rheinmetall-landsysteme-gmbh": {
       "developments": [
