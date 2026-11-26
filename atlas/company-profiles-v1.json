@@ -136240,6 +136240,579 @@
         ]
       },
       "card_hash": "110f78fb40425716"
+    },
+    "danville-metal-stamping-co-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "DANVILLE METAL STAMPING CO INC is a US company, with its seat in Danville. US federal spending records show US$26K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 8 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "DANVILLE METAL STAMPING CO INC is a US company, with its seat in Danville. US federal spending records show US$26K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 8 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Danville, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI X82AS93C28H7",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Danville, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI X82AS93C28H7",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity DANVILLE METAL STAMPING CO INC, UEI X82AS93C28H7",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/d13fe5f7-15d7-6402-cd21-d984dde11ff8-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/d13fe5f7-15d7-6402-cd21-d984dde11ff8-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Danville",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "DANVILLE METAL STAMPING CO INC is a US company, with its seat in Danville. US federal spending records show US$26K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 8 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$26K",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Defense Logistics Agency",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "8",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Danville, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI X82AS93C28H7",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract SPE4A723F6993",
+            "sub": "Defense Logistics Agency · US$124K · 2023–2027",
+            "status": "Contract",
+            "date": "11 Apr 2023",
+            "iso": "2023-04-11",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "Contract SPE4A723F8225",
+            "sub": "Defense Logistics Agency · US$59K · 2023–2027",
+            "status": "Contract",
+            "date": "16 May 2023",
+            "iso": "2023-05-16",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "Contract SPE4A724F4517",
+            "sub": "Defense Logistics Agency · US$59K · 2024–2027",
+            "status": "Contract",
+            "date": "23 Jan 2024",
+            "iso": "2024-01-23",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "Contract SPE4A725F3082",
+            "sub": "Defense Logistics Agency · US$37K · 2025–2027",
+            "status": "Contract",
+            "date": "22 Jan 2025",
+            "iso": "2025-01-22",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "Contract SPE4A725F8831",
+            "sub": "Defense Logistics Agency · US$34K · 2025–2027",
+            "status": "Contract",
+            "date": "03 Sep 2025",
+            "iso": "2025-09-03",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "Contract SPE4A723F5415",
+            "sub": "Defense Logistics Agency · US$31K · 2023–2027",
+            "status": "Contract",
+            "date": "06 Mar 2023",
+            "iso": "2023-03-06",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "Contract SPE4A726F2775",
+            "sub": "Defense Logistics Agency · US$26K · 2026",
+            "status": "Contract",
+            "date": "21 Jan 2026",
+            "iso": "2026-01-21",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "Contract SPE4A726F1786",
+            "sub": "Defense Logistics Agency · 2025–2026",
+            "status": "Contract",
+            "date": "12 Dec 2025",
+            "iso": "2025-12-12",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$396K · 8 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI X82AS93C28H7",
+            "url": "https://www.usaspending.gov/recipient/d13fe5f7-15d7-6402-cd21-d984dde11ff8-C/latest"
+          },
+          {
+            "title": "USAspending.gov · SPE4A723F6993",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A723F6993_9700_SPE4A723D0161_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE4A724F4517",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A724F4517_9700_SPE4A723D0161_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE4A723F8225",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A723F8225_9700_SPE4A723D0161_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE4A725F3082",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A725F3082_9700_SPE4A723D0161_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE4A725F8831",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A725F8831_9700_SPE4A723D0161_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE4A723F5415",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A723F5415_9700_SPE4A723D0161_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE4A726F2775",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A726F2775_9700_SPE4A722D5621_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE4A726F1786",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A726F1786_9700_SPE4A722D5621_9700"
+          }
+        ]
+      },
+      "card_hash": "17aab95b12c5967c"
+    },
+    "rockwell-collins-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "ROCKWELL COLLINS, INC. is a US company, with its seat in Cedar Rapids. US federal spending records show US$407.3M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 648 contracts; the largest customer is the Department of the Army.",
+        "overview": "ROCKWELL COLLINS, INC. is a US company, with its seat in Cedar Rapids. US federal spending records show US$407.3M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 648 contracts; the largest customer is the Department of the Army."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Cedar Rapids, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI XO75O7GICH1NPWLBRL05",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Cedar Rapids, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI XO75O7GICH1NPWLBRL05",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ROCKWELL COLLINS, INC., LEI XO75O7GICH1NPWLBRL05",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://search.gleif.org/#/record/XO75O7GICH1NPWLBRL05"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/fbaf2f7a-d2a8-a4b8-2388-3abc483658a7-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Cedar Rapids",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ROCKWELL COLLINS, INC. is a US company, with its seat in Cedar Rapids. US federal spending records show US$407.3M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 648 contracts; the largest customer is the Department of the Army.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$407.3M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026",
+            "src": [
+              10
+            ]
+          },
+          {
+            "value": "648",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              10
+            ]
+          },
+          {
+            "value": "US$178.5M",
+            "label": "largest customer: Department of the Army",
+            "src": [
+              10
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Cedar Rapids, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI XO75O7GICH1NPWLBRL05",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "IGF::OT::IGF TCTS increment II (TCTS INC II)",
+            "sub": "Department of the Navy · US$401.2M · 2017–2027",
+            "status": "Contract",
+            "date": "28 Mar 2017",
+            "iso": "2017-03-28",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "Manpack FULL RATE production (FRP)4 competitive procurement award of radio TRANSMITTERS, WARRANTIES, related ancillary E",
+            "sub": "Department of the Army · US$142.5M · 2024–2028",
+            "status": "Contract",
+            "date": "11 Sep 2024",
+            "iso": "2024-09-11",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "Manpack GEN 2 program LOW RATE initial procurement for manpack radios and ancillary EQUIPMENT, delivery order 08.",
+            "sub": "Department of the Army · US$108.1M · 2020–2024",
+            "status": "Contract",
+            "date": "22 Apr 2020",
+            "iso": "2020-04-22",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Procurement of UP to 1,641 MAPS GEN II systems for the US ARMY and USMC",
+            "sub": "Department of the Army · US$104.2M · 2024–2026",
+            "status": "Contract",
+            "date": "31 Jul 2024",
+            "iso": "2024-07-31",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "NRE and travel for MCM",
+            "sub": "Department of the Navy · US$101.7M · 2021–2027",
+            "status": "Contract",
+            "date": "15 Mar 2021",
+            "iso": "2021-03-15",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "HPTS-M phase II production KITS, INSTALLS, trainers and spares",
+            "sub": "Defense Contract Management Agency · US$67.3M · 2025–2027",
+            "status": "Contract",
+            "date": "25 Sep 2025",
+            "iso": "2025-09-25",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "Procurement of manpack radios and related ANCILLARIES.",
+            "sub": "Defense Contract Management Agency · US$63.7M · 2019–2021",
+            "status": "Contract",
+            "date": "06 Jun 2019",
+            "iso": "2019-06-06",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "NEXT generation ejection SEAT program reviews and F15 production readiness",
+            "sub": "Department of the Air Force · US$61.7M · 2020–2026",
+            "status": "Contract",
+            "date": "23 Oct 2020",
+            "iso": "2020-10-23",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$650.7M · 2 contracts",
+            "status": "verified",
+            "src": [
+              2,
+              6,
+              10
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$533.2M · 3 contracts",
+            "status": "verified",
+            "src": [
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Contract Management Agency",
+            "sub": "Customer · US$134.4M · 2 contracts",
+            "status": "verified",
+            "src": [
+              7,
+              8,
+              10
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$102.5M · 1 contract",
+            "status": "verified",
+            "src": [
+              9,
+              10
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$36.0M",
+            "status": "verified",
+            "src": [
+              10
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "U.S. Special Operations Command",
+            "sub": "Customer · US$624K",
+            "status": "verified",
+            "src": [
+              10
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI XO75O7GICH1NPWLBRL05",
+            "url": "https://search.gleif.org/#/record/XO75O7GICH1NPWLBRL05"
+          },
+          {
+            "title": "USAspending.gov · N6134017C0007",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N6134017C0007_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W15P7T24F0062",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T24F0062_9700_W15P7T16D0003_9700"
+          },
+          {
+            "title": "USAspending.gov · W15P7T20F0133",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T20F0133_9700_W15P7T16D0003_9700"
+          },
+          {
+            "title": "USAspending.gov · W56KGY24F0033",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W56KGY24F0033_9700_W56KGY22D0004_9700"
+          },
+          {
+            "title": "USAspending.gov · N0001921F0005",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001921F0005_9700_N0001919G0031_9700"
+          },
+          {
+            "title": "USAspending.gov · N0001925F0025",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001925F0025_9700_N0001924G0017_9700"
+          },
+          {
+            "title": "USAspending.gov · W15P7T19F0152",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W15P7T19F0152_9700_W15P7T16D0003_9700"
+          },
+          {
+            "title": "USAspending.gov · FA860621F0014",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA860621F0014_9700_FA860621D0001_9700"
+          },
+          {
+            "title": "USAspending.gov · US Department of Defense · FY2026–27, to 26 Nov 2026",
+            "url": "https://www.usaspending.gov/recipient/fbaf2f7a-d2a8-a4b8-2388-3abc483658a7-C/latest"
+          }
+        ]
+      },
+      "card_hash": "7563debf72450e78"
     }
   }
 }
