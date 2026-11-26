@@ -140937,6 +140937,519 @@
         ]
       },
       "card_hash": "bdf8d872432808b9"
+    },
+    "u-s-pioneer-l-l-c": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "U.S. PIONEER, L.L.C. is a US company, with its seat in Tulsa. US federal spending records show US$4.3M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 96 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "U.S. PIONEER, L.L.C. is a US company, with its seat in Tulsa. US federal spending records show US$4.3M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 96 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Tulsa, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI QEP4TKLKQDV3",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Tulsa, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI QEP4TKLKQDV3",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity U.S. PIONEER, L.L.C., UEI QEP4TKLKQDV3",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/7dcf75ee-cde7-3081-dc1e-f1b38524949a-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/7dcf75ee-cde7-3081-dc1e-f1b38524949a-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Tulsa",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "U.S. PIONEER, L.L.C. is a US company, with its seat in Tulsa. US federal spending records show US$4.3M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 96 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$4.3M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Defense Logistics Agency",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "96",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Tulsa, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI QEP4TKLKQDV3",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract SPE7M226P1703",
+            "sub": "Defense Logistics Agency · US$464K · 2026",
+            "status": "Contract",
+            "date": "19 Feb 2026",
+            "iso": "2026-02-19",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "Contract SPE7M826V0256",
+            "sub": "Defense Logistics Agency · US$277K · 2025–2026",
+            "status": "Contract",
+            "date": "24 Nov 2025",
+            "iso": "2025-11-24",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "Contract SPE7M126F3696",
+            "sub": "Defense Logistics Agency · US$262K · 2026",
+            "status": "Contract",
+            "date": "26 May 2026",
+            "iso": "2026-05-26",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Contract SPE7M826V0254",
+            "sub": "Defense Logistics Agency · US$151K · 2025–2026",
+            "status": "Contract",
+            "date": "24 Nov 2025",
+            "iso": "2025-11-24",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Contract SPE7M826V0391",
+            "sub": "Defense Logistics Agency · US$117K · 2025–2026",
+            "status": "Contract",
+            "date": "22 Dec 2025",
+            "iso": "2025-12-22",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Contract SPE7M826V0396",
+            "sub": "Defense Logistics Agency · US$114K · 2025–2026",
+            "status": "Contract",
+            "date": "22 Dec 2025",
+            "iso": "2025-12-22",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Contract SPE7M526P1107",
+            "sub": "Defense Logistics Agency · US$111K · 2025–2026",
+            "status": "Contract",
+            "date": "23 Dec 2025",
+            "iso": "2025-12-23",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "Contract SPE7M826P1149",
+            "sub": "Defense Logistics Agency · US$91K · 2026",
+            "status": "Contract",
+            "date": "26 May 2026",
+            "iso": "2026-05-26",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$5.9M · 8 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI QEP4TKLKQDV3",
+            "url": "https://www.usaspending.gov/recipient/7dcf75ee-cde7-3081-dc1e-f1b38524949a-C/latest"
+          },
+          {
+            "title": "USAspending.gov · SPE7M226P1703",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M226P1703_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M826V0256",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M826V0256_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M126F3696",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M126F3696_9700_SPE7M826D60DY_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE7M826V0254",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M826V0254_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M826V0391",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M826V0391_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M826V0396",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M826V0396_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M526P1107",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M526P1107_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M826P1149",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M826P1149_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "081042b7018678c3"
+    },
+    "virginia-polytechnic-institute-state-university": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY is a US company, with its seat in Blacksburg. US federal spending records show US$4.8M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 6 contracts; the largest customer is the Department of the Navy.",
+        "overview": "VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY is a US company, with its seat in Blacksburg. US federal spending records show US$4.8M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 6 contracts; the largest customer is the Department of the Navy."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Blacksburg, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI QDE5UHE5XD16",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Blacksburg, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI QDE5UHE5XD16",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY, UEI QDE5UHE5XD16",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/54713b78-258c-a4e1-ef18-1fbbb11ee4b7-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/54713b78-258c-a4e1-ef18-1fbbb11ee4b7-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Blacksburg",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "VIRGINIA POLYTECHNIC INSTITUTE & STATE UNIVERSITY is a US company, with its seat in Blacksburg. US federal spending records show US$4.8M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 6 contracts; the largest customer is the Department of the Navy.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$4.8M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "6",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$3.3M",
+            "label": "largest customer: Department of the Navy",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Blacksburg, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI QDE5UHE5XD16",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "RFML for anomalous signal characterization",
+            "sub": "Department of the Navy · US$7.2M · 2023–2028",
+            "status": "Contract",
+            "date": "20 Sep 2023",
+            "iso": "2023-09-20",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "SOFTWARE-DEFINED radio system architecture DESIGN, DEVELOPMENT, and integration for C2, ISR, EW, and cyber EFFECTS. RF s",
+            "sub": "Department of the Navy · US$2.9M · 2021–2027",
+            "status": "Contract",
+            "date": "27 Sep 2021",
+            "iso": "2021-09-27",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "Enhanced SBOM for optimized software sustainment (E-BOSS) program",
+            "sub": "Defense Advanced Research Projects Agency · US$2.5M · 2024–2026",
+            "status": "Contract",
+            "date": "07 Oct 2024",
+            "iso": "2024-10-07",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Advanced algorithm development for space situation awareness CHARACTERIZATION, ASSESSMENT, and DATA generation",
+            "sub": "Department of the Air Force · US$1.8M · 2023–2027",
+            "status": "Contract",
+            "date": "28 Sep 2023",
+            "iso": "2023-09-28",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "Develop NEXT generation of design tools for 100 to 200 FOOT length USVS focusing on slamming FLUID-STRUCTURE interaction",
+            "sub": "Department of the Navy · US$500K · 2025–2030",
+            "status": "Contract",
+            "date": "27 Jun 2025",
+            "iso": "2025-06-27",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "Unmanned undersea PLATFORMS: advanced systems and capabilities",
+            "sub": "Department of the Navy · US$350K · 2026–2031",
+            "status": "Contract",
+            "date": "17 Jun 2026",
+            "iso": "2026-06-17",
+            "ongoing": true,
+            "src": 7
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$14.2M · 4 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Advanced Research Projects Agency",
+            "sub": "Customer · US$3.1M · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              4
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$2.8M · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              5
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI QDE5UHE5XD16",
+            "url": "https://www.usaspending.gov/recipient/54713b78-258c-a4e1-ef18-1fbbb11ee4b7-C/latest"
+          },
+          {
+            "title": "USAspending.gov · N0001423C1061",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001423C1061_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001421C1082",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001421C1082_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · HR001124C0492",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_HR001124C0492_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · FA875023C0270",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA875023C0270_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001425C1321",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001425C1321_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0001426C2210",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001426C2210_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "2e0a8b6897bebe65"
     }
   }
 }
