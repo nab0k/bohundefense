@@ -140676,6 +140676,267 @@
         ]
       },
       "card_hash": "80713ba5b8b300fd"
+    },
+    "nortech-systems-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "NORTECH SYSTEMS INC is a US company, with its seat in Bemidji. US federal spending records show US$231K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 7 contracts; the largest customer is the Department of the Navy.",
+        "overview": "NORTECH SYSTEMS INC is a US company, with its seat in Bemidji. US federal spending records show US$231K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 7 contracts; the largest customer is the Department of the Navy."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Bemidji, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI XRRLMYU9JZG5",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Bemidji, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI XRRLMYU9JZG5",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity NORTECH SYSTEMS INC, UEI XRRLMYU9JZG5",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/ef61ba9d-eac9-3efb-a9a1-d95a231f1df7-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/ef61ba9d-eac9-3efb-a9a1-d95a231f1df7-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Bemidji",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "NORTECH SYSTEMS INC is a US company, with its seat in Bemidji. US federal spending records show US$231K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 7 contracts; the largest customer is the Department of the Navy.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$231K",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "7",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$188K",
+            "label": "largest customer: Department of the Navy",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Bemidji, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI XRRLMYU9JZG5",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "CONNECTOR,DUMMY,INS",
+            "sub": "Department of the Navy · US$104K · 2026–2027",
+            "status": "Contract",
+            "date": "21 Jul 2026",
+            "iso": "2026-07-21",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "CONNECTOR,DUMMY,DEL",
+            "sub": "Department of the Navy · US$83K · 2026–2027",
+            "status": "Contract",
+            "date": "21 Jul 2026",
+            "iso": "2026-07-21",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "Contract SPE7M125P9683",
+            "sub": "Defense Logistics Agency · US$43K · 2025–2026",
+            "status": "Contract",
+            "date": "07 Aug 2025",
+            "iso": "2025-08-07",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Contract SPE4A726F1869",
+            "sub": "Defense Logistics Agency · US$36K · 2025–2026",
+            "status": "Contract",
+            "date": "17 Dec 2025",
+            "iso": "2025-12-17",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Contract SPE7M826P0222",
+            "sub": "Defense Logistics Agency · US$11K · 2025–2026",
+            "status": "Contract",
+            "date": "30 Oct 2025",
+            "iso": "2025-10-30",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Contract SPE4A726F2503",
+            "sub": "Defense Logistics Agency · US$7K · 2026",
+            "status": "Contract",
+            "date": "02 Jan 2026",
+            "iso": "2026-01-02",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Contract SPE4A625PC572",
+            "sub": "Defense Logistics Agency · 2025",
+            "status": "Contract",
+            "date": "22 Jan 2025",
+            "iso": "2025-01-22",
+            "ongoing": false,
+            "src": 8
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$375K · 2 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$139K · 5 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              4,
+              5
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI XRRLMYU9JZG5",
+            "url": "https://www.usaspending.gov/recipient/ef61ba9d-eac9-3efb-a9a1-d95a231f1df7-C/latest"
+          },
+          {
+            "title": "USAspending.gov · N0010426PAC06",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0010426PAC06_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0010426PAB95",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0010426PAB95_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M125P9683",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M125P9683_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A726F1869",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A726F1869_9700_SPE4A722D5092_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE7M826P0222",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M826P0222_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A726F2503",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A726F2503_9700_SPE4A722D5092_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE4A625PC572",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A625PC572_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "bdf8d872432808b9"
     }
   }
 }
