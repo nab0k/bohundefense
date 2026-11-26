@@ -147457,6 +147457,282 @@
         ]
       },
       "card_hash": "80064078a5bad636"
+    },
+    "jo-kell-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "JO-KELL INC. is a US company, with its seat in Chesapeake. US federal spending records show US$48.0M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 1,065 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "JO-KELL INC. is a US company, with its seat in Chesapeake. US federal spending records show US$48.0M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 1,065 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Chesapeake, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI KNEFNMWXBK39",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Chesapeake, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI KNEFNMWXBK39",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity JO-KELL INC., UEI KNEFNMWXBK39",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/ab3249bd-2af9-f474-905d-1e83474fadb9-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/ab3249bd-2af9-f474-905d-1e83474fadb9-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Chesapeake",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "JO-KELL INC. is a US company, with its seat in Chesapeake. US federal spending records show US$48.0M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 1,065 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$48.0M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Defense Logistics Agency",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "1,065",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Chesapeake, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI KNEFNMWXBK39",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract SPE7M126F0567",
+            "sub": "Defense Logistics Agency · US$2.1M · 2025–2026",
+            "status": "Contract",
+            "date": "04 Nov 2025",
+            "iso": "2025-11-04",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "Contract SPE4A726C0034",
+            "sub": "Defense Logistics Agency · US$1.7M · 2025–2028",
+            "status": "Contract",
+            "date": "08 Dec 2025",
+            "iso": "2025-12-08",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "Contract SPE7M126F3168",
+            "sub": "Defense Logistics Agency · US$1.6M · 2026",
+            "status": "Contract",
+            "date": "30 Apr 2026",
+            "iso": "2026-04-30",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "NQB-A-1600 CKT BRKR",
+            "sub": "Department of the Navy · US$1.1M · 2024–2027",
+            "status": "Contract",
+            "date": "23 Sep 2024",
+            "iso": "2024-09-23",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "VFD frame SUB-ASSY",
+            "sub": "Department of the Navy · US$1.0M · 2025–2027",
+            "status": "Contract",
+            "date": "03 Sep 2025",
+            "iso": "2025-09-03",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "Contract SPE7M226P3491",
+            "sub": "Defense Logistics Agency · US$997K · 2026–2027",
+            "status": "Contract",
+            "date": "30 Jul 2026",
+            "iso": "2026-07-30",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "Contract SPE7M126F2795",
+            "sub": "Defense Logistics Agency · US$892K · 2026",
+            "status": "Contract",
+            "date": "13 Apr 2026",
+            "iso": "2026-04-13",
+            "ongoing": false,
+            "src": 9
+          },
+          {
+            "title": "Contract SPE7M126F3377",
+            "sub": "Defense Logistics Agency · US$892K · 2026",
+            "status": "Contract",
+            "date": "13 May 2026",
+            "iso": "2026-05-13",
+            "ongoing": true,
+            "src": 8
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$52.5M · 6 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$5.1M · 2 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              5,
+              6
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$682K",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI KNEFNMWXBK39",
+            "url": "https://www.usaspending.gov/recipient/ab3249bd-2af9-f474-905d-1e83474fadb9-C/latest"
+          },
+          {
+            "title": "USAspending.gov · SPE7M126F0567",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M126F0567_9700_SPE7MX25D0029_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE4A726C0034",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A726C0034_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M126F3168",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M126F3168_9700_SPE7MX25D0005_9700"
+          },
+          {
+            "title": "USAspending.gov · N0010424CBA46",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0010424CBA46_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0010425CBA42",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0010425CBA42_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M226P3491",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M226P3491_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M126F3377",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M126F3377_9700_SPE7MX25D0005_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE7M126F2795",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M126F2795_9700_SPE7MX25D0005_9700"
+          }
+        ]
+      },
+      "card_hash": "ec6bbbaa18f1554e"
     }
   }
 }
