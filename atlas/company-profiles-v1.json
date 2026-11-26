@@ -46177,15 +46177,6 @@
             "TED"
           ],
           "color": "blue",
-          "href": "https://ted.europa.eu/en/notice/-/detail/452018-2024"
-        },
-        {
-          "date": "26 Jul 2024",
-          "title": "Contract award by MARINE/DCSSF/DSSF/Brest",
-          "tags": [
-            "TED"
-          ],
-          "color": "blue",
           "href": "https://ted.europa.eu/en/notice/-/detail/450658-2024"
         },
         {
@@ -46196,6 +46187,15 @@
           ],
           "color": "blue",
           "href": "https://ted.europa.eu/en/notice/-/detail/450540-2024"
+        },
+        {
+          "date": "26 Jul 2024",
+          "title": "Contract award by MARINE/DCSSF/DSSF/Brest",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/452018-2024"
         },
         {
           "date": "25 Jul 2024",
@@ -46215,12 +46215,12 @@
       "meta": [
         [
           "shield",
-          "Defence participation L4 · verified · relevant competence, no military sale on record"
+          "Defence participation L1 · supported · named military products"
         ]
       ],
       "about": {
-        "workspace": "LOGNAV-CM is a French company registered in 2009, with its seat in Chateaulin. EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (24 Sep 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (23 Sep 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (26 Jul 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (26 Jul 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (26 Jul 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (25 Jul 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (25 Jul 2024).",
-        "overview": "LOGNAV-CM is a French company registered in 2009, with its seat in Chateaulin. EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (24 Sep 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (23 Sep 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (26 Jul 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (26 Jul 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (26 Jul 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (25 Jul 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (25 Jul 2024)."
+        "workspace": "LOGNAV-CM is a French company registered in 2009, with its seat in Chateaulin. EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (24 Sep 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (23 Sep 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (26 Jul 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (26 Jul 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (26 Jul 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (25 Jul 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (25 Jul 2024). Its website presents military products including Supply chain logistics solutions for the Defence Industry.",
+        "overview": "LOGNAV-CM is a French company registered in 2009, with its seat in Chateaulin. EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (24 Sep 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (23 Sep 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (26 Jul 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (26 Jul 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (26 Jul 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (25 Jul 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (25 Jul 2024). Its website presents military products including Supply chain logistics solutions for the Defence Industry."
       },
       "facts": {
         "workspace": [
@@ -46253,7 +46253,7 @@
         ]
       },
       "attributes": [
-        "Defence L4"
+        "Defence L1"
       ],
       "taxonomy": {
         "domains": [],
@@ -46284,15 +46284,6 @@
           },
           {
             "title": "Contract award · MARINE/DCSSF/DSSF/Brest",
-            "sub": "TED notice 452018-2024",
-            "status": "Contract award",
-            "icon": "landmark",
-            "date": "26 Jul 2024",
-            "desc": "TED notice 452018-2024",
-            "color": "orange"
-          },
-          {
-            "title": "Contract award · MARINE/DCSSF/DSSF/Brest",
             "sub": "TED notice 450658-2024",
             "status": "Contract award",
             "icon": "landmark",
@@ -46307,6 +46298,15 @@
             "icon": "landmark",
             "date": "26 Jul 2024",
             "desc": "TED notice 450540-2024",
+            "color": "orange"
+          },
+          {
+            "title": "Contract award · MARINE/DCSSF/DSSF/Brest",
+            "sub": "TED notice 452018-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "26 Jul 2024",
+            "desc": "TED notice 452018-2024",
             "color": "orange"
           },
           {
@@ -46349,26 +46349,47 @@
           },
           {
             "title": "Contract award · MARINE/DCSSF/DSSF/Brest",
-            "sub": "TED notice 452018-2024",
-            "status": "Contract award",
-            "icon": "landmark",
-            "date": "26 Jul 2024",
-            "desc": "TED notice 452018-2024",
-            "color": "orange"
-          },
-          {
-            "title": "Contract award · MARINE/DCSSF/DSSF/Brest",
             "sub": "TED notice 450658-2024",
             "status": "Contract award",
             "icon": "landmark",
             "date": "26 Jul 2024",
             "desc": "TED notice 450658-2024",
             "color": "orange"
+          },
+          {
+            "title": "Contract award · MARINE/DCSSF/DSSF/Brest",
+            "sub": "TED notice 450540-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "26 Jul 2024",
+            "desc": "TED notice 450540-2024",
+            "color": "orange"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Supply chain logistics solutions for the Defence Industry",
+          "level": "L0",
+          "icon": "crosshair",
+          "selected": true
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Supply chain logistics solutions for the Defence Industry",
+              "At LOGNAV CM, we deliver supply chain logistics solutions for the Defence Industry.",
+              "green"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -46490,14 +46511,6 @@
           "href": "https://ted.europa.eu/en/notice/-/detail/570291-2024"
         },
         {
-          "claim": "Contract award by MARINE/DCSSF/DSSF/Brest (TED 452018-2024)",
-          "sources": 1,
-          "date": "26 Jul 2024",
-          "status": "Verified",
-          "source": "TED (EU procurement journal)",
-          "href": "https://ted.europa.eu/en/notice/-/detail/452018-2024"
-        },
-        {
           "claim": "Contract award by MARINE/DCSSF/DSSF/Brest (TED 450658-2024)",
           "sources": 1,
           "date": "26 Jul 2024",
@@ -46512,6 +46525,14 @@
           "status": "Verified",
           "source": "TED (EU procurement journal)",
           "href": "https://ted.europa.eu/en/notice/-/detail/450540-2024"
+        },
+        {
+          "claim": "Contract award by MARINE/DCSSF/DSSF/Brest (TED 452018-2024)",
+          "sources": 1,
+          "date": "26 Jul 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/452018-2024"
         },
         {
           "claim": "Contract award by MARINE/DCSSF/DSSF/Brest (TED 445921-2024)",
@@ -46530,6 +46551,14 @@
           "href": "https://ted.europa.eu/en/notice/-/detail/448266-2024"
         },
         {
+          "claim": "Supply chain logistics solutions for the Defence Industry: “At LOGNAV CM, we deliver supply chain logistics solutions for the Defence Industry.”",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://en.lognavcm.com/"
+        },
+        {
           "claim": "Technologies, financials and relationships beyond these records",
           "sources": 0,
           "date": "21 Nov 2026",
@@ -46543,7 +46572,163 @@
           "Chateaulin",
           "Registered office"
         ]
-      ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "LOGNAV-CM is a French company registered in 2009, with its seat in Chateaulin. EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (24 Sep 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (23 Sep 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (26 Jul 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (26 Jul 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (26 Jul 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (25 Jul 2024). EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (25 Jul 2024). Its website presents military products including Supply chain logistics solutions for the Defence Industry.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "7",
+            "label": "contract awards on record",
+            "src": [
+              7,
+              8,
+              4,
+              5,
+              6,
+              3,
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "2009",
+            "Registered",
+            null
+          ],
+          [
+            "Chateaulin, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "SIREN 518212758",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract award · MARINE/DCSSF/DSSF/Brest",
+            "sub": "TED notice 445921-2024",
+            "status": "Contract award",
+            "date": "25 Jul 2024",
+            "iso": "2024-07-25",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Contract award · MARINE/DCSSF/DSSF/Brest",
+            "sub": "TED notice 448266-2024",
+            "status": "Contract award",
+            "date": "25 Jul 2024",
+            "iso": "2024-07-25",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "Contract award · MARINE/DCSSF/DSSF/Brest",
+            "sub": "TED notice 450658-2024",
+            "status": "Contract award",
+            "date": "26 Jul 2024",
+            "iso": "2024-07-26",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Contract award · MARINE/DCSSF/DSSF/Brest",
+            "sub": "TED notice 450540-2024",
+            "status": "Contract award",
+            "date": "26 Jul 2024",
+            "iso": "2024-07-26",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Contract award · MARINE/DCSSF/DSSF/Brest",
+            "sub": "TED notice 452018-2024",
+            "status": "Contract award",
+            "date": "26 Jul 2024",
+            "iso": "2024-07-26",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Contract award · MARINE/DCSSF/DSSF/Brest",
+            "sub": "TED notice 570291-2024",
+            "status": "Contract award",
+            "date": "23 Sep 2024",
+            "iso": "2024-09-23",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "Contract award · MARINE/DCSSF/DSSF/Brest",
+            "sub": "TED notice 574316-2024",
+            "status": "Contract award",
+            "date": "24 Sep 2024",
+            "iso": "2024-09-24",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [],
+        "products": [
+          {
+            "name": "Supply chain logistics solutions for the Defence Industry",
+            "role": "makes",
+            "status": "supported",
+            "quote": "At LOGNAV CM, we deliver supply chain logistics solutions for the Defence Industry.",
+            "src": [
+              9
+            ]
+          }
+        ],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · SIREN 518212758",
+            "url": "https://recherche-entreprises.api.gouv.fr/search?q=518212758"
+          },
+          {
+            "title": "TED notice 574316-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/574316-2024"
+          },
+          {
+            "title": "TED notice 570291-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/570291-2024"
+          },
+          {
+            "title": "TED notice 450658-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/450658-2024"
+          },
+          {
+            "title": "TED notice 450540-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/450540-2024"
+          },
+          {
+            "title": "TED notice 452018-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/452018-2024"
+          },
+          {
+            "title": "TED notice 445921-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/445921-2024"
+          },
+          {
+            "title": "TED notice 448266-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/448266-2024"
+          },
+          {
+            "title": "Company website",
+            "url": "https://en.lognavcm.com/"
+          }
+        ]
+      },
+      "card_hash": "a8e748d5d56175bd"
     },
     "m3-systems-sas": {
       "developments": [
@@ -92937,8 +93122,129 @@
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Weichkern / Unterschall DM161",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Green IR-Tracer / Infrarot-Leuchtspur",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "AP / Hartkern",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "QD 2.0",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Blank / Manöver DM18 A1",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "AP / Hartkern DM31A1",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "9 mm x 19 QD1",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "PTP 2.0",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "PEP 2.0",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Übung DM38 A1",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "AP / Hartkern DM131",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Weichkern / Unterschall DM161",
+              "Weichkern / Unterschall DM161 Katalognummer: 231098 Unterschallpatrone mit schwerem Vollmantelgeschoss für maximale Energie",
+              "grey"
+            ],
+            [
+              "Green IR-Tracer / Infrarot-Leuchtspur",
+              "Green IR-Tracer / Infrarot-Leuchtspur Katalognummer: 231060 Infrarot-Lichtspur > 600 m",
+              "grey"
+            ],
+            [
+              "AP / Hartkern",
+              "AP / Hartkern Katalognummer: S 230330 Überlegene Hartkernpatrone Durchschlägt Schutzwesten der Klasse SK 4",
+              "grey"
+            ],
+            [
+              "QD 2.0",
+              "QD 2.0 Katalognummer: S 231075 Wirkungsvolle Einsatzpatrone für den präzisen Schuss durch Glas",
+              "grey"
+            ],
+            [
+              "Blank / Manöver DM18 A1",
+              "Blank / Manöver DM18 A1 Katalognummer: 231064 Funktionssichere Manöverpatrone Eingeführt bei der Bundeswehr",
+              "grey"
+            ],
+            [
+              "AP / Hartkern DM31A1",
+              "AP / Hartkern DM31A1 Katalognummer: 231115 Überlegene Hartkernpatrone Durchschlägt Schutzwesten der Klasse SK 4",
+              "grey"
+            ],
+            [
+              "9 mm x 19 QD1",
+              "9 mm x 19 QD1 Katalognummer: 230192 Wirkungsvolle Polizei-Einsatzpatrone Erhöhte Energieabgabe im Ziel",
+              "grey"
+            ],
+            [
+              "PTP 2.0",
+              "PTP 2.0 Katalognummer: 230295 Umweltfreundliche Trainingspatrone Zertifiziert nach TR 2009",
+              "grey"
+            ],
+            [
+              "PEP 2.0",
+              "PEP 2.0 Katalognummer: 230285 Polizei-Einsatzpatrone mit erhöhter Energieabgabe im Ziel Zertifiziert nach TR 2009",
+              "grey"
+            ],
+            [
+              "Übung DM38 A1",
+              "Übung DM38 A1 Katalognummer: 231105 Trainingspatrone mit Kunststoffgeschoss Geringste Querschnittsbelastung",
+              "grey"
+            ],
+            [
+              "AP / Hartkern DM131",
+              "AP / Hartkern DM131 Katalognummer: 230253 Scharfschützenpatrone mit überlegenem Hartkerngeschoss Höchste Durchschlagskraft",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -93165,7 +93471,7 @@
           }
         ]
       },
-      "card_hash": "806e6e68dcbe407f"
+      "card_hash": "84cee7c5d069a379"
     },
     "multiverse-computing-sl": {
       "developments": [
@@ -138963,6 +139269,170 @@
         ]
       },
       "card_hash": "fa3973eb9114c5bd"
+    },
+    "raventek-solution-partners-llc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "RAVENTEK SOLUTION PARTNERS, LLC is a US company, with its seat in Ashburn. US federal spending records show US$59K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 1 contracts; the largest customer is the Department of the Army.",
+        "overview": "RAVENTEK SOLUTION PARTNERS, LLC is a US company, with its seat in Ashburn. US federal spending records show US$59K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 1 contracts; the largest customer is the Department of the Army."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Ashburn, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI RCKJZ5KGE3H6",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Ashburn, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI RCKJZ5KGE3H6",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity RAVENTEK SOLUTION PARTNERS, LLC, UEI RCKJZ5KGE3H6",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/0acefb7f-f468-141e-69b4-b835d921e7ed-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/0acefb7f-f468-141e-69b4-b835d921e7ed-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Ashburn",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "RAVENTEK SOLUTION PARTNERS, LLC is a US company, with its seat in Ashburn. US federal spending records show US$59K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 1 contracts; the largest customer is the Department of the Army.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$59K",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Department of the Army",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "1",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Ashburn, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI RCKJZ5KGE3H6",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Procurement of preventative maintenance support for audio visual equipment",
+            "sub": "Department of the Army · US$59K · 2026–2027",
+            "status": "Contract",
+            "date": "30 Jul 2026",
+            "iso": "2026-07-30",
+            "ongoing": true,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$119K · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI RCKJZ5KGE3H6",
+            "url": "https://www.usaspending.gov/recipient/0acefb7f-f468-141e-69b4-b835d921e7ed-C/latest"
+          },
+          {
+            "title": "USAspending.gov · W91RUS26PA031",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W91RUS26PA031_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "073e174ca908b4d0"
     }
   }
 }
