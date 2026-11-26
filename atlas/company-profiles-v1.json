@@ -143634,6 +143634,467 @@
         ]
       },
       "card_hash": "a6a1c0165c4ac60d"
+    },
+    "ansys-government-initiatives-llc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "ANSYS GOVERNMENT INITIATIVES, LLC is a US company, with its seat in Exton. US federal spending records show US$18.3M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 2 contracts; the largest customer is the Department of the Air Force.",
+        "overview": "ANSYS GOVERNMENT INITIATIVES, LLC is a US company, with its seat in Exton. US federal spending records show US$18.3M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 2 contracts; the largest customer is the Department of the Air Force."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Exton, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI XQLLG2X727C4",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Exton, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI XQLLG2X727C4",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ANSYS GOVERNMENT INITIATIVES, LLC, UEI XQLLG2X727C4",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/0bf2a653-9732-cacd-ac5c-8bf4f2b9d607-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/0bf2a653-9732-cacd-ac5c-8bf4f2b9d607-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Exton",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ANSYS GOVERNMENT INITIATIVES, LLC is a US company, with its seat in Exton. US federal spending records show US$18.3M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 2 contracts; the largest customer is the Department of the Air Force.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$18.3M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Department of the Air Force",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "2",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Exton, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI XQLLG2X727C4",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "United states space FORCE, operational TEST and training infrastructure AREA of interest 03: distributed synthetic train",
+            "sub": "Department of the Air Force · US$18.3M · 2025–2027",
+            "status": "Contract",
+            "date": "23 Dec 2025",
+            "iso": "2025-12-23",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "Scalable homeland innovative enterprise layered defense (SHIELD) initial ORDER.",
+            "sub": "Missile Defense Agency · US$0K · 2025–2035",
+            "status": "Contract",
+            "date": "29 Dec 2025",
+            "iso": "2025-12-29",
+            "ongoing": true,
+            "src": 3
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$36.7M · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              2
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Missile Defense Agency",
+            "sub": "Customer · US$1K · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI XQLLG2X727C4",
+            "url": "https://www.usaspending.gov/recipient/0bf2a653-9732-cacd-ac5c-8bf4f2b9d607-C/latest"
+          },
+          {
+            "title": "USAspending.gov · FA255326CB001",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA255326CB001_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · HQ085926FF693",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_HQ085926FF693_9700_HQ085926DE915_9700"
+          }
+        ]
+      },
+      "card_hash": "7383e38a6a743ce6"
+    },
+    "westland-technologies-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "WESTLAND TECHNOLOGIES, INC. is a US company, with its seat in Modesto. US federal spending records show US$4.5M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 14 contracts; the largest customer is the Department of the Navy.",
+        "overview": "WESTLAND TECHNOLOGIES, INC. is a US company, with its seat in Modesto. US federal spending records show US$4.5M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 14 contracts; the largest customer is the Department of the Navy."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Modesto, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI HMBSX7Z72UK4",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Modesto, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI HMBSX7Z72UK4",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity WESTLAND TECHNOLOGIES, INC., UEI HMBSX7Z72UK4",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/a4be401a-b0ff-8426-b703-366b003d4a02-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/a4be401a-b0ff-8426-b703-366b003d4a02-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Modesto",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "WESTLAND TECHNOLOGIES, INC. is a US company, with its seat in Modesto. US federal spending records show US$4.5M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 14 contracts; the largest customer is the Department of the Navy.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$4.5M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "14",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$2.9M",
+            "label": "largest customer: Department of the Navy",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Modesto, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI HMBSX7Z72UK4",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract N0010426CYA26",
+            "sub": "Department of the Navy · US$2.5M · 2026–2028",
+            "status": "Contract",
+            "date": "22 Jul 2026",
+            "iso": "2026-07-22",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "Fairing strip",
+            "sub": "Department of the Navy · US$1.1M · 2025–2026",
+            "status": "Contract",
+            "date": "11 Jul 2025",
+            "iso": "2025-07-11",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "Contract N0010425PYB85",
+            "sub": "Department of the Navy · US$688K · 2025–2026",
+            "status": "Contract",
+            "date": "02 Apr 2025",
+            "iso": "2025-04-02",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Contract SPE7M425P5776",
+            "sub": "Defense Logistics Agency · US$640K · 2025–2026",
+            "status": "Contract",
+            "date": "19 Aug 2025",
+            "iso": "2025-08-19",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Contract SPE4A726P0771",
+            "sub": "Defense Logistics Agency · US$400K · 2025",
+            "status": "Contract",
+            "date": "15 Oct 2025",
+            "iso": "2025-10-15",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Fairing strip",
+            "sub": "Department of the Navy · US$399K · 2026",
+            "status": "Contract",
+            "date": "30 Apr 2026",
+            "iso": "2026-04-30",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Contract SPE4A726P4993",
+            "sub": "Defense Logistics Agency · US$285K · 2026",
+            "status": "Contract",
+            "date": "20 Jan 2026",
+            "iso": "2026-01-20",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "Contract SPE7M426V4248",
+            "sub": "Defense Logistics Agency · US$172K · 2026",
+            "status": "Contract",
+            "date": "22 Jun 2026",
+            "iso": "2026-06-22",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$7.6M · 4 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$3.1M · 4 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              5,
+              6
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI HMBSX7Z72UK4",
+            "url": "https://www.usaspending.gov/recipient/a4be401a-b0ff-8426-b703-366b003d4a02-C/latest"
+          },
+          {
+            "title": "USAspending.gov · N0010426CYA26",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0010426CYA26_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0010425CYB15",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0010425CYB15_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0010425PYB85",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0010425PYB85_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M425P5776",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M425P5776_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A726P0771",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A726P0771_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0010426PYB41",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0010426PYB41_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A726P4993",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A726P4993_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M426V4248",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M426V4248_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "ccb9761aebe8aabd"
     }
   }
 }
