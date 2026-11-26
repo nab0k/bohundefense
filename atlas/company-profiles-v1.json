@@ -130084,6 +130084,266 @@
         ]
       },
       "card_hash": "90d5c07a24c24a9b"
+    },
+    "senior-operations-llc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "SENIOR OPERATIONS LLC is a US company, with its seat in Burbank. US federal spending records show US$221K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 8 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "SENIOR OPERATIONS LLC is a US company, with its seat in Burbank. US federal spending records show US$221K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 8 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Burbank, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 54930015F85I7QWUJU55",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Burbank, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 54930015F85I7QWUJU55",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity SENIOR OPERATIONS LLC, LEI 54930015F85I7QWUJU55",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://search.gleif.org/#/record/54930015F85I7QWUJU55"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/6706fd21-de2e-05eb-02f5-47998546fc2b-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Burbank",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "SENIOR OPERATIONS LLC is a US company, with its seat in Burbank. US federal spending records show US$221K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 8 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$221K",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026, almost all Defense Logistics Agency",
+            "src": [
+              10
+            ]
+          },
+          {
+            "value": "8",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              10
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Burbank, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 54930015F85I7QWUJU55",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract SPE4A719C0286",
+            "sub": "Defense Logistics Agency · US$2.0M · 2019–2026",
+            "status": "Contract",
+            "date": "12 Jun 2019",
+            "iso": "2019-06-12",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "Contract SPE4A725F6248",
+            "sub": "Defense Logistics Agency · US$195K · 2025–2026",
+            "status": "Contract",
+            "date": "22 May 2025",
+            "iso": "2025-05-22",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Contract SPE4A726F2460",
+            "sub": "Defense Logistics Agency · US$195K · 2025–2026",
+            "status": "Contract",
+            "date": "30 Dec 2025",
+            "iso": "2025-12-30",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "Contract SPE4A725F8319",
+            "sub": "Defense Logistics Agency · US$57K · 2025–2026",
+            "status": "Contract",
+            "date": "14 Aug 2025",
+            "iso": "2025-08-14",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Contract SPE4A724F026A",
+            "sub": "Defense Logistics Agency · US$43K · 2024–2026",
+            "status": "Contract",
+            "date": "16 Aug 2024",
+            "iso": "2024-08-16",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Contract SPE4A725F9024",
+            "sub": "Defense Logistics Agency · US$26K · 2025–2026",
+            "status": "Contract",
+            "date": "11 Sep 2025",
+            "iso": "2025-09-11",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "Contract SPE4A726F1656",
+            "sub": "Defense Logistics Agency · US$26K · 2025–2026",
+            "status": "Contract",
+            "date": "04 Dec 2025",
+            "iso": "2025-12-04",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Contract SPE4A725F1440",
+            "sub": "Defense Logistics Agency · US$26K · 2024–2026",
+            "status": "Contract",
+            "date": "14 Nov 2024",
+            "iso": "2024-11-14",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$2.8M · 8 contracts",
+            "status": "verified",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 54930015F85I7QWUJU55",
+            "url": "https://search.gleif.org/#/record/54930015F85I7QWUJU55"
+          },
+          {
+            "title": "USAspending.gov · SPE4A719C0286",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A719C0286_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A726F2460",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A726F2460_9700_SPE4A721D0030_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE4A725F6248",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A725F6248_9700_SPE4A721D0030_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE4A725F8319",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A725F8319_9700_SPE4A720D0381_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE4A724F026A",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A724F026A_9700_SPE4A721D0060_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE4A726F1656",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A726F1656_9700_SPE4A721D0060_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE4A725F9024",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A725F9024_9700_SPE4A721D0060_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE4A725F1440",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A725F1440_9700_SPE4A721D0060_9700"
+          },
+          {
+            "title": "USAspending.gov · US Department of Defense · FY2026–27, to 25 Nov 2026",
+            "url": "https://www.usaspending.gov/recipient/6706fd21-de2e-05eb-02f5-47998546fc2b-C/latest"
+          }
+        ]
+      },
+      "card_hash": "fc593c93ec3c35c2"
     }
   }
 }
