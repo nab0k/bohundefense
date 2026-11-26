@@ -144095,6 +144095,280 @@
         ]
       },
       "card_hash": "ccb9761aebe8aabd"
+    },
+    "crestwood-technology-group-llc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "CRESTWOOD TECHNOLOGY GROUP, LLC is a US company, with its seat in Yonkers. US federal spending records show US$2.1M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 76 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "CRESTWOOD TECHNOLOGY GROUP, LLC is a US company, with its seat in Yonkers. US federal spending records show US$2.1M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 76 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Yonkers, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI XMLNYKT139G8",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Yonkers, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI XMLNYKT139G8",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity CRESTWOOD TECHNOLOGY GROUP, LLC, UEI XMLNYKT139G8",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/7935dfce-c959-cd66-4c99-b23d2e17c74b-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/7935dfce-c959-cd66-4c99-b23d2e17c74b-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Yonkers",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "CRESTWOOD TECHNOLOGY GROUP, LLC is a US company, with its seat in Yonkers. US federal spending records show US$2.1M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 76 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$2.1M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Defense Logistics Agency",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "76",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Yonkers, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI XMLNYKT139G8",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract SPE7M126P0916",
+            "sub": "Defense Logistics Agency · US$740K · 2025",
+            "status": "Contract",
+            "date": "23 Oct 2025",
+            "iso": "2025-10-23",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "Contract SPE4A626PJ549",
+            "sub": "Defense Logistics Agency · US$318K · 2026",
+            "status": "Contract",
+            "date": "17 Mar 2026",
+            "iso": "2026-03-17",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "Contract SPE4A026P1440",
+            "sub": "Defense Logistics Agency · US$130K · 2026",
+            "status": "Contract",
+            "date": "27 Apr 2026",
+            "iso": "2026-04-27",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Contract SPE4A725PF658",
+            "sub": "Defense Logistics Agency · US$127K · 2025–2026",
+            "status": "Contract",
+            "date": "12 Sep 2025",
+            "iso": "2025-09-12",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Contract SPETA626P0080",
+            "sub": "Defense Logistics Agency · US$110K · 2025",
+            "status": "Contract",
+            "date": "08 Dec 2025",
+            "iso": "2025-12-08",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Contract SPEHA626P0044",
+            "sub": "Defense Logistics Agency · US$98K · 2025",
+            "status": "Contract",
+            "date": "18 Nov 2025",
+            "iso": "2025-11-18",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Contract SPEWA626P0112",
+            "sub": "Defense Logistics Agency · US$91K · 2026",
+            "status": "Contract",
+            "date": "26 Feb 2026",
+            "iso": "2026-02-26",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "Contract SPE4A726PD856",
+            "sub": "Defense Logistics Agency · US$86K · 2026",
+            "status": "Contract",
+            "date": "15 Jul 2026",
+            "iso": "2026-07-15",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$3.7M · 8 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$47K",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$23K",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI XMLNYKT139G8",
+            "url": "https://www.usaspending.gov/recipient/7935dfce-c959-cd66-4c99-b23d2e17c74b-C/latest"
+          },
+          {
+            "title": "USAspending.gov · SPE7M126P0916",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M126P0916_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A626PJ549",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A626PJ549_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A026P1440",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A026P1440_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A725PF658",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A725PF658_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPETA626P0080",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPETA626P0080_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPEHA626P0044",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPEHA626P0044_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPEWA626P0112",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPEWA626P0112_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A726PD856",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A726PD856_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "776c6fded688fd76"
     }
   }
 }
