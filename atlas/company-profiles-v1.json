@@ -79945,12 +79945,12 @@
       "meta": [
         [
           "shield",
-          "Defence participation L3 · verified · contracts with defence customers"
+          "Defence participation L1 · supported · named military products"
         ]
       ],
       "about": {
-        "workspace": "U.S. ORDNANCE is a US company registered in 1997, with its seat in Mccarran. US federal spending records show US$18.1M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 6 contracts; the largest customer is the Department of the Army.",
-        "overview": "U.S. ORDNANCE is a US company registered in 1997, with its seat in Mccarran. US federal spending records show US$18.1M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 6 contracts; the largest customer is the Department of the Army."
+        "workspace": "U.S. ORDNANCE is a US company registered in 1997, with its seat in Mccarran. US federal spending records show US$18.1M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 6 contracts; the largest customer is the Department of the Army. Its website presents military products including M2A2 (QCB system), M2HB, MK19 MOD 3, M60E6.",
+        "overview": "U.S. ORDNANCE is a US company registered in 1997, with its seat in Mccarran. US federal spending records show US$18.1M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 6 contracts; the largest customer is the Department of the Army. Its website presents military products including M2A2 (QCB system), M2HB, MK19 MOD 3, M60E6."
       },
       "facts": {
         "workspace": [
@@ -79983,7 +79983,7 @@
         ]
       },
       "attributes": [
-        "Defence L3"
+        "Defence L1"
       ],
       "taxonomy": {
         "domains": [],
@@ -80016,8 +80016,129 @@
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "M2A2 (QCB system)",
+          "level": "L0",
+          "icon": "crosshair",
+          "selected": true
+        },
+        {
+          "label": "M2HB",
+          "level": "L0",
+          "icon": "crosshair"
+        },
+        {
+          "label": "MK19 MOD 3",
+          "level": "L0",
+          "icon": "crosshair"
+        },
+        {
+          "label": "M60E6",
+          "level": "L0",
+          "icon": "crosshair"
+        },
+        {
+          "label": "M240 GPMG",
+          "level": "L0",
+          "icon": "crosshair"
+        },
+        {
+          "label": "M4 Gas Piston",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "M2A2 Conversion Kit",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "M60E6/E4 Conversion Kit",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Chromium Cobalt Alloy Lined Barrels",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Operator's Course",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Armorer's Course",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "M2A2 (QCB system)",
+              "We sell NATO-sanctioned weapon systems, such as the M2A2 (QCB system), M2HB, M3, M48, MK19 MOD 3, M60E6, M60D, M240 GPMG, M240C, and M240D t",
+              "green"
+            ],
+            [
+              "M2HB",
+              "We sell NATO-sanctioned weapon systems, such as the M2A2 (QCB system), M2HB, M3, M48, MK19 MOD 3, M60E6, M60D, M240 GPMG, M240C, and M240D t",
+              "green"
+            ],
+            [
+              "MK19 MOD 3",
+              "We sell NATO-sanctioned weapon systems, such as the M2A2 (QCB system), M2HB, M3, M48, MK19 MOD 3, M60E6, M60D, M240 GPMG, M240C, and M240D t",
+              "green"
+            ],
+            [
+              "M60E6",
+              "We sell NATO-sanctioned weapon systems, such as the M2A2 (QCB system), M2HB, M3, M48, MK19 MOD 3, M60E6, M60D, M240 GPMG, M240C, and M240D t",
+              "green"
+            ],
+            [
+              "M240 GPMG",
+              "We sell NATO-sanctioned weapon systems, such as the M2A2 (QCB system), M2HB, M3, M48, MK19 MOD 3, M60E6, M60D, M240 GPMG, M240C, and M240D t",
+              "green"
+            ],
+            [
+              "M4 Gas Piston",
+              "M4 GAS PISTON",
+              "grey"
+            ],
+            [
+              "M2A2 Conversion Kit",
+              "M2A2 CONVERSION KIT",
+              "grey"
+            ],
+            [
+              "M60E6/E4 Conversion Kit",
+              "M60E6/E4 CONVERSION KIT",
+              "grey"
+            ],
+            [
+              "Chromium Cobalt Alloy Lined Barrels",
+              "U.S. Ordnance Chromium Cobalt Alloy Lined Barrels",
+              "grey"
+            ],
+            [
+              "Operator's Course",
+              "OPERATOR'S COURSE",
+              "grey"
+            ],
+            [
+              "Armorer's Course",
+              "ARMORER'S COURSE",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -80067,6 +80188,46 @@
           "href": "https://www.usaspending.gov/recipient/4981a525-8bf4-deb3-39fb-d794076e75c8-C/latest"
         },
         {
+          "claim": "M2A2 (QCB system): “We sell NATO-sanctioned weapon systems, such as the M2A2 (QCB system), M2HB, M3, M48, MK19 MOD 3, M60E6, M60D, M240 GPMG, M240C, and M240D to U.S. governmental agencies and federally approved foreign leaderships and militaries.”",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://www.usord.com/"
+        },
+        {
+          "claim": "M2HB: “We sell NATO-sanctioned weapon systems, such as the M2A2 (QCB system), M2HB, M3, M48, MK19 MOD 3, M60E6, M60D, M240 GPMG, M240C, and M240D to U.S. governmental agencies and federally approved foreign leaderships and militaries.”",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://www.usord.com/"
+        },
+        {
+          "claim": "MK19 MOD 3: “We sell NATO-sanctioned weapon systems, such as the M2A2 (QCB system), M2HB, M3, M48, MK19 MOD 3, M60E6, M60D, M240 GPMG, M240C, and M240D to U.S. governmental agencies and federally approved foreign leaderships and militaries.”",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://www.usord.com/"
+        },
+        {
+          "claim": "M60E6: “We sell NATO-sanctioned weapon systems, such as the M2A2 (QCB system), M2HB, M3, M48, MK19 MOD 3, M60E6, M60D, M240 GPMG, M240C, and M240D to U.S. governmental agencies and federally approved foreign leaderships and militaries.”",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://www.usord.com/"
+        },
+        {
+          "claim": "M240 GPMG: “We sell NATO-sanctioned weapon systems, such as the M2A2 (QCB system), M2HB, M3, M48, MK19 MOD 3, M60E6, M60D, M240 GPMG, M240C, and M240D to U.S. governmental agencies and federally approved foreign leaderships and militaries.”",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://www.usord.com/"
+        },
+        {
           "claim": "Technologies, financials and relationships beyond these records",
           "sources": 0,
           "date": "23 Nov 2026",
@@ -80083,7 +80244,7 @@
       ],
       "page": {
         "v": 2,
-        "lead": "U.S. ORDNANCE is a US company registered in 1997, with its seat in Mccarran. US federal spending records show US$18.1M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 6 contracts; the largest customer is the Department of the Army.",
+        "lead": "U.S. ORDNANCE is a US company registered in 1997, with its seat in Mccarran. US federal spending records show US$18.1M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 6 contracts; the largest customer is the Department of the Army. Its website presents military products including M2A2 (QCB system), M2HB, MK19 MOD 3, M60E6.",
         "lead_src": [
           1
         ],
@@ -80198,7 +80359,53 @@
             ]
           }
         ],
-        "products": [],
+        "products": [
+          {
+            "name": "M2A2 (QCB system)",
+            "role": "makes",
+            "status": "supported",
+            "quote": "We sell NATO-sanctioned weapon systems, such as the M2A2 (QCB system), M2HB, M3, M48, MK19 MOD 3, M60E6, M60D, M240 GPMG, M240C, and M240D to U.S. governmental agencies and federally approved foreign ",
+            "src": [
+              9
+            ]
+          },
+          {
+            "name": "M2HB",
+            "role": "makes",
+            "status": "supported",
+            "quote": "We sell NATO-sanctioned weapon systems, such as the M2A2 (QCB system), M2HB, M3, M48, MK19 MOD 3, M60E6, M60D, M240 GPMG, M240C, and M240D to U.S. governmental agencies and federally approved foreign ",
+            "src": [
+              9
+            ]
+          },
+          {
+            "name": "MK19 MOD 3",
+            "role": "makes",
+            "status": "supported",
+            "quote": "We sell NATO-sanctioned weapon systems, such as the M2A2 (QCB system), M2HB, M3, M48, MK19 MOD 3, M60E6, M60D, M240 GPMG, M240C, and M240D to U.S. governmental agencies and federally approved foreign ",
+            "src": [
+              9
+            ]
+          },
+          {
+            "name": "M60E6",
+            "role": "makes",
+            "status": "supported",
+            "quote": "We sell NATO-sanctioned weapon systems, such as the M2A2 (QCB system), M2HB, M3, M48, MK19 MOD 3, M60E6, M60D, M240 GPMG, M240C, and M240D to U.S. governmental agencies and federally approved foreign ",
+            "src": [
+              9
+            ]
+          },
+          {
+            "name": "M240 GPMG",
+            "role": "makes",
+            "status": "supported",
+            "quote": "We sell NATO-sanctioned weapon systems, such as the M2A2 (QCB system), M2HB, M3, M48, MK19 MOD 3, M60E6, M60D, M240 GPMG, M240C, and M240D to U.S. governmental agencies and federally approved foreign ",
+            "src": [
+              9
+            ]
+          }
+        ],
         "news": [],
         "sources": [
           {
@@ -80232,10 +80439,14 @@
           {
             "title": "USAspending.gov · W15QKN24C0053",
             "url": "https://www.usaspending.gov/award/CONT_AWD_W15QKN24C0053_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "Company website",
+            "url": "https://www.usord.com/"
           }
         ]
       },
-      "card_hash": "5c4beeb4291e89fc"
+      "card_hash": "f65a7d11ef069182"
     },
     "def-spec-sp-z-o-o": {
       "developments": [
@@ -136813,6 +137024,1230 @@
         ]
       },
       "card_hash": "7563debf72450e78"
+    },
+    "rockwell-collins-deutschland-gmbh": {
+      "developments": [
+        {
+          "date": "16 Dec 2022",
+          "title": "European Defence Fund project 101103592",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103592/EDF"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Rockwell Collins Deutschland GmbH is a German company registered in 1996, with its seat in Heidelberg. It takes part in 1 European Defence Fund project (2022).",
+        "overview": "Rockwell Collins Deutschland GmbH is a German company registered in 1996, with its seat in Heidelberg. It takes part in 1 European Defence Fund project (2022)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1996",
+            "Registered"
+          ],
+          [
+            "Heidelberg, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 5493000C2VL32PVJ7J78",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1996",
+            "Registered"
+          ],
+          [
+            "Heidelberg, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 5493000C2VL32PVJ7J78",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101103592",
+            "sub": "EU defence research and development · call EDF-2021-AIR-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "16 Dec 2022",
+            "desc": "Call EDF-2021-AIR-D-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103592/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101103592",
+            "sub": "EU defence research and development · call EDF-2021-AIR-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "16 Dec 2022",
+            "desc": "Call EDF-2021-AIR-D-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103592/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Rockwell Collins Deutschland GmbH, LEI 5493000C2VL32PVJ7J78",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/5493000C2VL32PVJ7J78"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103592",
+          "sources": 1,
+          "date": "16 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103592/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Heidelberg",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Rockwell Collins Deutschland GmbH is a German company registered in 1996, with its seat in Heidelberg. It takes part in 1 European Defence Fund project (2022).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1996",
+            "Registered",
+            null
+          ],
+          [
+            "Heidelberg, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 5493000C2VL32PVJ7J78",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101103592",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "16 Dec 2022",
+            "iso": "2022-12-16",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 5493000C2VL32PVJ7J78",
+            "url": "https://api.gleif.org/api/v1/lei-records/5493000C2VL32PVJ7J78"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101103592",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103592/EDF"
+          }
+        ]
+      },
+      "card_hash": "a2479ddf8aca2588"
+    },
+    "roke-manor-research-limited": {
+      "developments": [
+        {
+          "date": "21 Aug 2024",
+          "title": "Contract award by Gynybos resursų agentūra prie Krašto apsaugos ministerijos",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/500679-2024"
+        }
+      ],
+      "country": "GB",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "ROKE MANOR RESEARCH LIMITED is a British company, with its seat in Romsey. EU procurement records (TED) list a contract award by Gynybos resursų agentūra prie Krašto apsaugos ministerijos (21 Aug 2024).",
+        "overview": "ROKE MANOR RESEARCH LIMITED is a British company, with its seat in Romsey. EU procurement records (TED) list a contract award by Gynybos resursų agentūra prie Krašto apsaugos ministerijos (21 Aug 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Romsey, United Kingdom",
+            "Headquarters"
+          ],
+          [
+            "LEI 213800E1YYPSOTAIWC10",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Romsey, United Kingdom",
+            "Headquarters"
+          ],
+          [
+            "LEI 213800E1YYPSOTAIWC10",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Gynybos resursų agentūra prie Krašto apsaugos ministerijos",
+            "sub": "TED notice 500679-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "21 Aug 2024",
+            "desc": "TED notice 500679-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Gynybos resursų agentūra prie Krašto apsaugos ministerijos",
+            "sub": "TED notice 500679-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "21 Aug 2024",
+            "desc": "TED notice 500679-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Gynybos resursų agentūra prie Krašto apsaugos ministerijos",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Gynybos resursų agentūra prie Krašto apsaugos ministerijos",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ROKE MANOR RESEARCH LIMITED, LEI 213800E1YYPSOTAIWC10",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/213800E1YYPSOTAIWC10"
+        },
+        {
+          "claim": "Contract award by Gynybos resursų agentūra prie Krašto apsaugos ministerijos (TED 500679-2024)",
+          "sources": 1,
+          "date": "21 Aug 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/500679-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Romsey",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ROKE MANOR RESEARCH LIMITED is a British company, with its seat in Romsey. EU procurement records (TED) list a contract award by Gynybos resursų agentūra prie Krašto apsaugos ministerijos (21 Aug 2024).",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "1",
+            "label": "contract awards on record",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Romsey, United Kingdom",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 213800E1YYPSOTAIWC10",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract award · Gynybos resursų agentūra prie Krašto apsaugos ministerijos",
+            "sub": "TED notice 500679-2024",
+            "status": "Contract award",
+            "date": "21 Aug 2024",
+            "iso": "2024-08-21",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 213800E1YYPSOTAIWC10",
+            "url": "https://api.gleif.org/api/v1/lei-records/213800E1YYPSOTAIWC10"
+          },
+          {
+            "title": "TED notice 500679-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/500679-2024"
+          }
+        ]
+      },
+      "card_hash": "fca21a072b662310"
+    },
+    "rohde-schwarz-benelux-bv": {
+      "developments": [
+        {
+          "date": "11 Jan 2024",
+          "title": "Contract award by Ministère de la Défense",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/17674-2024"
+        }
+      ],
+      "country": "NL",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "Rohde & Schwarz Benelux B.V. is a Dutch company registered in 1979, with its seat in Utrecht. EU procurement records (TED) list a contract award by Ministère de la Défense (11 Jan 2024).",
+        "overview": "Rohde & Schwarz Benelux B.V. is a Dutch company registered in 1979, with its seat in Utrecht. EU procurement records (TED) list a contract award by Ministère de la Défense (11 Jan 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1979",
+            "Registered"
+          ],
+          [
+            "Utrecht, Netherlands",
+            "Headquarters"
+          ],
+          [
+            "LEI 52990093PYM86XQC1L27",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1979",
+            "Registered"
+          ],
+          [
+            "Utrecht, Netherlands",
+            "Headquarters"
+          ],
+          [
+            "LEI 52990093PYM86XQC1L27",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Ministère de la Défense",
+            "sub": "TED notice 17674-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "11 Jan 2024",
+            "desc": "TED notice 17674-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Ministère de la Défense",
+            "sub": "TED notice 17674-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "11 Jan 2024",
+            "desc": "TED notice 17674-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Ministère de la Défense",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Ministère de la Défense",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Rohde & Schwarz Benelux B.V., LEI 52990093PYM86XQC1L27",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/52990093PYM86XQC1L27"
+        },
+        {
+          "claim": "Contract award by Ministère de la Défense (TED 17674-2024)",
+          "sources": 1,
+          "date": "11 Jan 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/17674-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Utrecht",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Rohde & Schwarz Benelux B.V. is a Dutch company registered in 1979, with its seat in Utrecht. EU procurement records (TED) list a contract award by Ministère de la Défense (11 Jan 2024).",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "1",
+            "label": "contract awards on record",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "1979",
+            "Registered",
+            null
+          ],
+          [
+            "Utrecht, Netherlands",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 52990093PYM86XQC1L27",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract award · Ministère de la Défense",
+            "sub": "TED notice 17674-2024",
+            "status": "Contract award",
+            "date": "11 Jan 2024",
+            "iso": "2024-01-11",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 52990093PYM86XQC1L27",
+            "url": "https://api.gleif.org/api/v1/lei-records/52990093PYM86XQC1L27"
+          },
+          {
+            "title": "TED notice 17674-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/17674-2024"
+          }
+        ]
+      },
+      "card_hash": "1218ce1d4aaab43c"
+    },
+    "rolls-royce-solutions-benelux-b-v": {
+      "developments": [
+        {
+          "date": "19 Apr 2024",
+          "title": "Contract award by Ministerie van Defensie",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/232398-2024"
+        }
+      ],
+      "country": "NL",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "Rolls-Royce Solutions Benelux B.V. is a Dutch company registered in 1969, with its seat in Dordrecht. EU procurement records (TED) list a contract award by Ministerie van Defensie (19 Apr 2024).",
+        "overview": "Rolls-Royce Solutions Benelux B.V. is a Dutch company registered in 1969, with its seat in Dordrecht. EU procurement records (TED) list a contract award by Ministerie van Defensie (19 Apr 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1969",
+            "Registered"
+          ],
+          [
+            "Dordrecht, Netherlands",
+            "Headquarters"
+          ],
+          [
+            "LEI 5299007H7YRCJJDRSI33",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1969",
+            "Registered"
+          ],
+          [
+            "Dordrecht, Netherlands",
+            "Headquarters"
+          ],
+          [
+            "LEI 5299007H7YRCJJDRSI33",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Ministerie van Defensie",
+            "sub": "TED notice 232398-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "19 Apr 2024",
+            "desc": "TED notice 232398-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Ministerie van Defensie",
+            "sub": "TED notice 232398-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "19 Apr 2024",
+            "desc": "TED notice 232398-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Ministerie van Defensie",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Ministerie van Defensie",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Rolls-Royce Solutions Benelux B.V., LEI 5299007H7YRCJJDRSI33",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/5299007H7YRCJJDRSI33"
+        },
+        {
+          "claim": "Contract award by Ministerie van Defensie (TED 232398-2024)",
+          "sources": 1,
+          "date": "19 Apr 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/232398-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Dordrecht",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Rolls-Royce Solutions Benelux B.V. is a Dutch company registered in 1969, with its seat in Dordrecht. EU procurement records (TED) list a contract award by Ministerie van Defensie (19 Apr 2024).",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "1",
+            "label": "contract awards on record",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "1969",
+            "Registered",
+            null
+          ],
+          [
+            "Dordrecht, Netherlands",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 5299007H7YRCJJDRSI33",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract award · Ministerie van Defensie",
+            "sub": "TED notice 232398-2024",
+            "status": "Contract award",
+            "date": "19 Apr 2024",
+            "iso": "2024-04-19",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 5299007H7YRCJJDRSI33",
+            "url": "https://api.gleif.org/api/v1/lei-records/5299007H7YRCJJDRSI33"
+          },
+          {
+            "title": "TED notice 232398-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/232398-2024"
+          }
+        ]
+      },
+      "card_hash": "70bfdb6774e6fa0f"
+    },
+    "electrical-equipment-co": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "ELECTRICAL EQUIPMENT CO is a US company, with its seat in Norfolk. US federal spending records show US$32K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 2 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "ELECTRICAL EQUIPMENT CO is a US company, with its seat in Norfolk. US federal spending records show US$32K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 2 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Norfolk, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI LRHVF9NJWX55",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Norfolk, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI LRHVF9NJWX55",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ELECTRICAL EQUIPMENT CO, UEI LRHVF9NJWX55",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/6a9dc31a-87d4-8a01-4f14-ed7ccc6d1a4e-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/6a9dc31a-87d4-8a01-4f14-ed7ccc6d1a4e-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Norfolk",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ELECTRICAL EQUIPMENT CO is a US company, with its seat in Norfolk. US federal spending records show US$32K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 2 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$32K",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Defense Logistics Agency",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "2",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Norfolk, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI LRHVF9NJWX55",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "DO 0012",
+            "sub": "Department of the Navy · US$783K · 2025",
+            "status": "Contract",
+            "date": "04 Mar 2025",
+            "iso": "2025-03-04",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "Contract SPE4A626P2069",
+            "sub": "Defense Logistics Agency · US$32K · 2025",
+            "status": "Contract",
+            "date": "14 Oct 2025",
+            "iso": "2025-10-14",
+            "ongoing": false,
+            "src": 3
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$783K · 1 contract",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$63K · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI LRHVF9NJWX55",
+            "url": "https://www.usaspending.gov/recipient/6a9dc31a-87d4-8a01-4f14-ed7ccc6d1a4e-C/latest"
+          },
+          {
+            "title": "USAspending.gov · N6833525F0178",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N6833525F0178_9700_N6833521D0047_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE4A626P2069",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A626P2069_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "d9b9d007cf744b08"
+    },
+    "zone-5-technologies": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "ZONE 5 TECHNOLOGIES, LLC is a US company, with its seat in San Luis Obispo. US federal spending records show US$13.0M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 4 contracts; the largest customer is the Department of the Air Force.",
+        "overview": "ZONE 5 TECHNOLOGIES, LLC is a US company, with its seat in San Luis Obispo. US federal spending records show US$13.0M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 4 contracts; the largest customer is the Department of the Air Force."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "San Luis Obispo, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI FKA7P3EC8GV3",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "San Luis Obispo, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI FKA7P3EC8GV3",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ZONE 5 TECHNOLOGIES, LLC, UEI FKA7P3EC8GV3",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/e10c2534-dd2d-698d-7801-fa0cf2900ee7-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/e10c2534-dd2d-698d-7801-fa0cf2900ee7-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "San Luis Obispo",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ZONE 5 TECHNOLOGIES, LLC is a US company, with its seat in San Luis Obispo. US federal spending records show US$13.0M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 4 contracts; the largest customer is the Department of the Air Force.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$13.0M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Department of the Air Force",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "4",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "San Luis Obispo, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI FKA7P3EC8GV3",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "SBIR phase III rusty dagger NOTE: PSC CODE WAS changed from AC15 to AC33 in P00003 and DUE to system LIMITATIONS, the ba",
+            "sub": "Department of the Air Force · US$7.5M · 2026–2027",
+            "status": "Contract",
+            "date": "18 Jun 2026",
+            "iso": "2026-06-18",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "Vehicle and payload design and TEST",
+            "sub": "Department of the Air Force · US$5.3M · 2026–2027",
+            "status": "Contract",
+            "date": "21 Jan 2026",
+            "iso": "2026-01-21",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "Avionics and S/W integration INTO CMID HWIL/SWIL ecosystem",
+            "sub": "Department of the Air Force · US$750K · 2024–2026",
+            "status": "Contract",
+            "date": "18 Sep 2024",
+            "iso": "2024-09-18",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Airframe trade studies for design supporting CMID operational capability demonstration",
+            "sub": "Department of the Air Force · US$200K · 2025–2026",
+            "status": "Contract",
+            "date": "24 Mar 2025",
+            "iso": "2025-03-24",
+            "ongoing": false,
+            "src": 5
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$26.7M · 4 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          }
+        ],
+        "products": [
+          {
+            "name": "air-launched cruise missiles",
+            "role": "makes",
+            "status": "verified",
+            "quote": "air-launched cruise missiles worth $825 million made by Zone 5 Technologies and CoAspire.",
+            "src": [
+              6
+            ]
+          }
+        ],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI FKA7P3EC8GV3",
+            "url": "https://www.usaspending.gov/recipient/e10c2534-dd2d-698d-7801-fa0cf2900ee7-C/latest"
+          },
+          {
+            "title": "USAspending.gov · FA238526CB019",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA238526CB019_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · FA865126FB003",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA865126FB003_9700_FA865124DB016_9700"
+          },
+          {
+            "title": "USAspending.gov · FA865124FB062",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA865124FB062_9700_FA865124DB016_9700"
+          },
+          {
+            "title": "USAspending.gov · FA865125FB038",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA865125FB038_9700_FA865124DB016_9700"
+          },
+          {
+            "title": "defensenews.com",
+            "url": "https://www.defensenews.com/global/europe/2026/11/02/us-approves-2-1-billion-patriot-missile-sale-to-ukraine/"
+          }
+        ]
+      },
+      "card_hash": "b15b012c3f9ae9a9"
     }
   }
 }
