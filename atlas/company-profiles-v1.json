@@ -144890,6 +144890,746 @@
         ]
       },
       "card_hash": "6a73d68d606cd830"
+    },
+    "master-international-corporation": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "MASTER INTERNATIONAL CORPORATION is a US company, with its seat in Santa Monica. US federal spending records show US$15K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 18 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "MASTER INTERNATIONAL CORPORATION is a US company, with its seat in Santa Monica. US federal spending records show US$15K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 18 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Santa Monica, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI CASZKA1CMGH3",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Santa Monica, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI CASZKA1CMGH3",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity MASTER INTERNATIONAL CORPORATION, UEI CASZKA1CMGH3",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/958660c2-d9a1-a671-2f7f-6a738088e272-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/958660c2-d9a1-a671-2f7f-6a738088e272-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Santa Monica",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "MASTER INTERNATIONAL CORPORATION is a US company, with its seat in Santa Monica. US federal spending records show US$15K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 18 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$15K",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Defense Logistics Agency",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "18",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Santa Monica, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI CASZKA1CMGH3",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Internal components for cables",
+            "sub": "Department of the Navy · US$58K · 2025",
+            "status": "Contract",
+            "date": "26 Sep 2025",
+            "iso": "2025-09-26",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "Contract SPE7M525P5361",
+            "sub": "Defense Logistics Agency · US$49K · 2025–2026",
+            "status": "Contract",
+            "date": "04 Aug 2025",
+            "iso": "2025-08-04",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "Contract SPE4A726P3642",
+            "sub": "Defense Logistics Agency · US$8K · 2025–2026",
+            "status": "Contract",
+            "date": "07 Dec 2025",
+            "iso": "2025-12-07",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Contract SPE7M826V0145",
+            "sub": "Defense Logistics Agency · US$6K · 2025–2026",
+            "status": "Contract",
+            "date": "27 Oct 2025",
+            "iso": "2025-10-27",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Contract SPE7M526V2200",
+            "sub": "Defense Logistics Agency · US$5K · 2026",
+            "status": "Contract",
+            "date": "07 Jan 2026",
+            "iso": "2026-01-07",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Contract SPE7M126P2143",
+            "sub": "Defense Logistics Agency · US$3K · 2025–2027",
+            "status": "Contract",
+            "date": "04 Dec 2025",
+            "iso": "2025-12-04",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "Contract SPE7M225V1757",
+            "sub": "Defense Logistics Agency · US$2K · 2025–2026",
+            "status": "Contract",
+            "date": "24 Feb 2025",
+            "iso": "2025-02-24",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "Contract SPE7M826P2171",
+            "sub": "Defense Logistics Agency · US$1K · 2026",
+            "status": "Contract",
+            "date": "23 Jul 2026",
+            "iso": "2026-07-23",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$89K · 7 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              3,
+              4
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$58K · 1 contract",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI CASZKA1CMGH3",
+            "url": "https://www.usaspending.gov/recipient/958660c2-d9a1-a671-2f7f-6a738088e272-C/latest"
+          },
+          {
+            "title": "USAspending.gov · N0016425PJ703",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0016425PJ703_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M525P5361",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M525P5361_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A726P3642",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A726P3642_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M826V0145",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M826V0145_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M526V2200",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M526V2200_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M126P2143",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M126P2143_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M225V1757",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M225V1757_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M826P2171",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M826P2171_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "11db8f012ae4c2fe"
+    },
+    "midcon-cables-co-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "MIDCON CABLES CO, INC. is a US company, with its seat in North Myrtle Beach. US federal spending records show US$128K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 2 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "MIDCON CABLES CO, INC. is a US company, with its seat in North Myrtle Beach. US federal spending records show US$128K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 2 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "North Myrtle Beach, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI S6KEGRLJSRZ4",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "North Myrtle Beach, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI S6KEGRLJSRZ4",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity MIDCON CABLES CO, INC., UEI S6KEGRLJSRZ4",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/0bac8ff0-202f-f85b-1919-fbfb068d186e-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/0bac8ff0-202f-f85b-1919-fbfb068d186e-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "North Myrtle Beach",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "MIDCON CABLES CO, INC. is a US company, with its seat in North Myrtle Beach. US federal spending records show US$128K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 2 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$128K",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Defense Logistics Agency",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "2",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "North Myrtle Beach, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI S6KEGRLJSRZ4",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "DO to ADD 20 EA",
+            "sub": "Defense Logistics Agency · US$64K · 2026–2027",
+            "status": "Contract",
+            "date": "04 Mar 2026",
+            "iso": "2026-03-04",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "NOUN: wiring harness branched NSN: 5995-01-619-3339 PN: 12474000-2 QTY: 16 EA DESC: procurement of spares in support of ",
+            "sub": "Defense Logistics Agency · US$51K · 2025–2026",
+            "status": "Contract",
+            "date": "07 May 2025",
+            "iso": "2025-05-07",
+            "ongoing": false,
+            "src": 3
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$243K · 2 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI S6KEGRLJSRZ4",
+            "url": "https://www.usaspending.gov/recipient/0bac8ff0-202f-f85b-1919-fbfb068d186e-C/latest"
+          },
+          {
+            "title": "USAspending.gov · SPRDL126F0077",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRDL126F0077_9700_SPRDL125D0031_9700"
+          },
+          {
+            "title": "USAspending.gov · SPRDL125F0122",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRDL125F0122_9700_SPRDL125D0031_9700"
+          }
+        ]
+      },
+      "card_hash": "590f572ba5a48a76"
+    },
+    "parker-hannifin-corporation": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "PARKER-HANNIFIN CORPORATION is a US company, with its seat in Irvine. US federal spending records show US$153.9M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 510 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "PARKER-HANNIFIN CORPORATION is a US company, with its seat in Irvine. US federal spending records show US$153.9M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 510 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Irvine, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 5493002CONDB4N2HKI23",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Irvine, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 5493002CONDB4N2HKI23",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity PARKER-HANNIFIN CORPORATION, LEI 5493002CONDB4N2HKI23",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://search.gleif.org/#/record/5493002CONDB4N2HKI23"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/137b38c4-bf6f-f07e-ff51-388f7c2748b9-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Irvine",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "PARKER-HANNIFIN CORPORATION is a US company, with its seat in Irvine. US federal spending records show US$153.9M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 510 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$153.9M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026",
+            "src": [
+              10
+            ]
+          },
+          {
+            "value": "510",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              10
+            ]
+          },
+          {
+            "value": "US$97.5M",
+            "label": "largest customer: Defense Logistics Agency",
+            "src": [
+              10
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Irvine, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 5493002CONDB4N2HKI23",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Parker actuators",
+            "sub": "Defense Logistics Agency · US$74.3M · 2023–2027",
+            "status": "Contract",
+            "date": "01 Jul 2023",
+            "iso": "2023-07-01",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "Parker actuator PBL",
+            "sub": "Defense Logistics Agency · US$46.9M · 2025–2026",
+            "status": "Contract",
+            "date": "26 Jun 2025",
+            "iso": "2025-06-26",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "Parker actuator PBL POP5",
+            "sub": "Defense Logistics Agency · US$27.7M · 2026–2027",
+            "status": "Contract",
+            "date": "01 Jul 2026",
+            "iso": "2026-07-01",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "Parker actuator PBL",
+            "sub": "Defense Logistics Agency · US$27.7M · 2026–2027",
+            "status": "Contract",
+            "date": "01 Jul 2026",
+            "iso": "2026-07-01",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "Actuators PBL",
+            "sub": "Defense Logistics Agency · US$26.0M · 2025–2026",
+            "status": "Contract",
+            "date": "01 Jul 2025",
+            "iso": "2025-07-01",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Servocylinder",
+            "sub": "Department of the Navy · US$17.8M · 2025–2028",
+            "status": "Contract",
+            "date": "07 May 2025",
+            "iso": "2025-05-07",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "OVERHAUL/UPGRADE of the primary servo in support of the UH-60 black HAWK.",
+            "sub": "Department of the Army · US$16.7M · 2023–2026",
+            "status": "Contract",
+            "date": "03 Jul 2023",
+            "iso": "2023-07-03",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "Maintenance and overhaul of the PUMP, hydraulic in support of the UH-60 black HAWK.",
+            "sub": "Department of the Army · US$15.1M · 2023–2026",
+            "status": "Contract",
+            "date": "03 Jul 2023",
+            "iso": "2023-07-03",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$300.1M · 5 contracts",
+            "status": "verified",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$52.3M · 1 contract",
+            "status": "verified",
+            "src": [
+              7,
+              10
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$49.6M · 2 contracts",
+            "status": "verified",
+            "src": [
+              8,
+              9,
+              10
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$4.2M",
+            "status": "verified",
+            "src": [
+              10
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 5493002CONDB4N2HKI23",
+            "url": "https://search.gleif.org/#/record/5493002CONDB4N2HKI23"
+          },
+          {
+            "title": "USAspending.gov · SPRHA123F0100",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRHA123F0100_9700_SPRHA122D0001_9700"
+          },
+          {
+            "title": "USAspending.gov · SPRHA125F0079",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRHA125F0079_9700_SPRHA122D0001_9700"
+          },
+          {
+            "title": "USAspending.gov · SPRHA126F0090",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRHA126F0090_9700_SPRHA122D0001_9700"
+          },
+          {
+            "title": "USAspending.gov · SPRHA126F0100",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRHA126F0100_9700_SPRHA122D0001_9700"
+          },
+          {
+            "title": "USAspending.gov · SPRHA125F0075",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRHA125F0075_9700_SPRHA122D0001_9700"
+          },
+          {
+            "title": "USAspending.gov · N0038326FBN0C",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0038326FBN0C_9700_N0038324GBN01_9700"
+          },
+          {
+            "title": "USAspending.gov · W58RGZ23F0381",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ23F0381_9700_W58RGZ23D0033_9700"
+          },
+          {
+            "title": "USAspending.gov · W58RGZ23F0377",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W58RGZ23F0377_9700_W58RGZ23D0033_9700"
+          },
+          {
+            "title": "USAspending.gov · US Department of Defense · FY2026–27, to 26 Nov 2026",
+            "url": "https://www.usaspending.gov/recipient/137b38c4-bf6f-f07e-ff51-388f7c2748b9-C/latest"
+          }
+        ]
+      },
+      "card_hash": "6bfc395375624703"
     }
   }
 }
