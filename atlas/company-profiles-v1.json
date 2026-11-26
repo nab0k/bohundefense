@@ -143177,6 +143177,262 @@
         ]
       },
       "card_hash": "a20114330482fa53"
+    },
+    "survival-systems-international-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "SURVIVAL SYSTEMS INTERNATIONAL, INC is a US company, with its seat in Valley Center. US federal spending records show US$1.5M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 8 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "SURVIVAL SYSTEMS INTERNATIONAL, INC is a US company, with its seat in Valley Center. US federal spending records show US$1.5M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 8 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Valley Center, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI UEHNG392B8J5",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Valley Center, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI UEHNG392B8J5",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity SURVIVAL SYSTEMS INTERNATIONAL, INC, UEI UEHNG392B8J5",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/c12b0829-1c57-58f5-8cae-cc5897fd8d20-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/c12b0829-1c57-58f5-8cae-cc5897fd8d20-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Valley Center",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "SURVIVAL SYSTEMS INTERNATIONAL, INC is a US company, with its seat in Valley Center. US federal spending records show US$1.5M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 8 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$1.5M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Defense Logistics Agency",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "8",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Valley Center, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI UEHNG392B8J5",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract SPE4A726PD735",
+            "sub": "Defense Logistics Agency · US$566K · 2026",
+            "status": "Contract",
+            "date": "15 Jul 2026",
+            "iso": "2026-07-15",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "Contract SPE4A726PC118",
+            "sub": "Defense Logistics Agency · US$565K · 2026–2027",
+            "status": "Contract",
+            "date": "14 Jul 2026",
+            "iso": "2026-07-14",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "Contract SPE4A726PB929",
+            "sub": "Defense Logistics Agency · US$283K · 2026–2027",
+            "status": "Contract",
+            "date": "15 Jul 2026",
+            "iso": "2026-07-15",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "Contract SPE4A726P6115",
+            "sub": "Defense Logistics Agency · US$31K · 2026",
+            "status": "Contract",
+            "date": "28 Jan 2026",
+            "iso": "2026-01-28",
+            "ongoing": false,
+            "src": 5
+          },
+          {
+            "title": "Contract SPE4A726P4740",
+            "sub": "Defense Logistics Agency · US$20K · 2025–2026",
+            "status": "Contract",
+            "date": "31 Dec 2025",
+            "iso": "2025-12-31",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Contract SPE4A726PA021",
+            "sub": "Defense Logistics Agency · US$3K · 2026",
+            "status": "Contract",
+            "date": "16 Jun 2026",
+            "iso": "2026-06-16",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Contract SPE4A726P9984",
+            "sub": "Defense Logistics Agency · US$3K · 2026",
+            "status": "Contract",
+            "date": "16 Jun 2026",
+            "iso": "2026-06-16",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "Contract SPE4A726P9983",
+            "sub": "Defense Logistics Agency · US$3K · 2026",
+            "status": "Contract",
+            "date": "16 Jun 2026",
+            "iso": "2026-06-16",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$2.9M · 8 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI UEHNG392B8J5",
+            "url": "https://www.usaspending.gov/recipient/c12b0829-1c57-58f5-8cae-cc5897fd8d20-C/latest"
+          },
+          {
+            "title": "USAspending.gov · SPE4A726PD735",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A726PD735_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A726PC118",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A726PC118_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A726PB929",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A726PB929_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A726P6115",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A726P6115_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A726P4740",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A726P4740_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A726PA021",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A726PA021_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A726P9984",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A726P9984_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A726P9983",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A726P9983_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "8c511391d129a705"
     }
   }
 }
