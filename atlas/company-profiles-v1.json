@@ -141945,6 +141945,982 @@
         ]
       },
       "card_hash": "6db6ac21f37fa570"
+    },
+    "chemring-energetic-devices-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "CHEMRING ENERGETIC DEVICES INC is a US company, with its seat in Downers Grove. US federal spending records show US$5.9M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 33 contracts; the largest customer is the Department of the Navy.",
+        "overview": "CHEMRING ENERGETIC DEVICES INC is a US company, with its seat in Downers Grove. US federal spending records show US$5.9M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 33 contracts; the largest customer is the Department of the Navy."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Downers Grove, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI C3NRYDF1K755",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Downers Grove, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI C3NRYDF1K755",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity CHEMRING ENERGETIC DEVICES INC, UEI C3NRYDF1K755",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/04445689-94c1-a7d7-f34b-5f20f106e013-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/04445689-94c1-a7d7-f34b-5f20f106e013-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Downers Grove",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "CHEMRING ENERGETIC DEVICES INC is a US company, with its seat in Downers Grove. US federal spending records show US$5.9M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 33 contracts; the largest customer is the Department of the Navy.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$5.9M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "33",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$2.8M",
+            "label": "largest customer: Department of the Navy",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Downers Grove, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI C3NRYDF1K755",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "National stock number 1377016495552ES harness release cartridge 1377016522801ES drogue GUN cartridge 1377013193847ES GAS",
+            "sub": "Department of the Air Force · US$3.3M · 2024–2027",
+            "status": "Contract",
+            "date": "23 May 2024",
+            "iso": "2024-05-23",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "Drogue severance ASSEMBLY, delay initiators for F-15, cartridge actuated devices",
+            "sub": "Department of the Air Force · US$2.3M · 2023–2026",
+            "status": "Contract",
+            "date": "14 Nov 2023",
+            "iso": "2023-11-14",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "SQ03, SQ04, SR94",
+            "sub": "Department of the Navy · US$2.3M · 2025–2027",
+            "status": "Contract",
+            "date": "24 Feb 2025",
+            "iso": "2025-02-24",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "NSNS 1377010849358, 1377010907557, 1377011661350, 1377011664266, 1377011682559, 1377011684419, 1377011682559, 1377012164",
+            "sub": "Department of the Air Force · US$2.2M · 2026–2028",
+            "status": "Contract",
+            "date": "18 Feb 2026",
+            "iso": "2026-02-18",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "The following CAD/PAD remanufacture parts are being PURCHASED: 1377012374417 - MODE selector 1377012715483 - andgate TYP",
+            "sub": "Department of the Air Force · US$1.6M · 2025–2027",
+            "status": "Contract",
+            "date": "30 Sep 2025",
+            "iso": "2025-09-30",
+            "ongoing": true,
+            "src": 6
+          },
+          {
+            "title": "Contract N0010425CK022",
+            "sub": "Department of the Navy · US$1.1M · 2025–2027",
+            "status": "Contract",
+            "date": "13 Mar 2025",
+            "iso": "2025-03-13",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "NSN 1377015602165ES C-17 ARM FIRE INITIATOR, ELECTIRCAL. NSN 1377015601521ES C-17 ARM FIRE INITIATOR, INTERNAL.",
+            "sub": "Department of the Air Force · US$994K · 2025–2028",
+            "status": "Contract",
+            "date": "29 Sep 2025",
+            "iso": "2025-09-29",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "DODIC: XW52",
+            "sub": "Department of the Navy · US$932K · 2025–2027",
+            "status": "Contract",
+            "date": "29 Jul 2025",
+            "iso": "2025-07-29",
+            "ongoing": true,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$12.9M · 5 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$7.1M · 3 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              4,
+              7
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$665K",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI C3NRYDF1K755",
+            "url": "https://www.usaspending.gov/recipient/04445689-94c1-a7d7-f34b-5f20f106e013-C/latest"
+          },
+          {
+            "title": "USAspending.gov · FA821324C0016",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA821324C0016_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · FA821324C0002",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA821324C0002_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0010425CK021",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0010425CK021_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · FA821326F2525",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA821326F2525_9700_FA821320D0002_9700"
+          },
+          {
+            "title": "USAspending.gov · FA821325C0022",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA821325C0022_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0010425CK022",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0010425CK022_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · FA821325C0021",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA821325C0021_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0010425FB101",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0010425FB101_9700_N0010425DB101_9700"
+          }
+        ]
+      },
+      "card_hash": "d5ef19d8ca000440"
+    },
+    "electro-enterprises-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "ELECTRO ENTERPRISES INC is a US company, with its seat in Oklahoma City. US federal spending records show US$1.3M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 156 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "ELECTRO ENTERPRISES INC is a US company, with its seat in Oklahoma City. US federal spending records show US$1.3M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 156 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Oklahoma City, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI V6MCMV4KM841",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Oklahoma City, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI V6MCMV4KM841",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ELECTRO ENTERPRISES INC, UEI V6MCMV4KM841",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/88560a38-80fd-371a-aeef-453865522e4f-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/88560a38-80fd-371a-aeef-453865522e4f-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Oklahoma City",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ELECTRO ENTERPRISES INC is a US company, with its seat in Oklahoma City. US federal spending records show US$1.3M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 156 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$1.3M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Defense Logistics Agency",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "156",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Oklahoma City, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI V6MCMV4KM841",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract SPE4A626P0729",
+            "sub": "Defense Logistics Agency · US$219K · 2025–2026",
+            "status": "Contract",
+            "date": "03 Oct 2025",
+            "iso": "2025-10-03",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "Contract SPE7M824P1252",
+            "sub": "Defense Logistics Agency · US$206K · 2024–2026",
+            "status": "Contract",
+            "date": "17 Apr 2024",
+            "iso": "2024-04-17",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "Contract SPE4A619PF095",
+            "sub": "Defense Logistics Agency · US$98K · 2019–2021",
+            "status": "Contract",
+            "date": "13 May 2019",
+            "iso": "2019-05-13",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Contract SPE7M526P3538",
+            "sub": "Defense Logistics Agency · US$92K · 2026–2027",
+            "status": "Contract",
+            "date": "03 Jun 2026",
+            "iso": "2026-06-03",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "Contract SPE7M526P3179",
+            "sub": "Defense Logistics Agency · US$60K · 2026",
+            "status": "Contract",
+            "date": "11 May 2026",
+            "iso": "2026-05-11",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Contract SPE7M122F524C",
+            "sub": "Defense Logistics Agency · US$55K · 2022–2026",
+            "status": "Contract",
+            "date": "16 Jun 2022",
+            "iso": "2022-06-16",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Contract SPE7M326V0235",
+            "sub": "Defense Logistics Agency · US$41K · 2025–2026",
+            "status": "Contract",
+            "date": "20 Oct 2025",
+            "iso": "2025-10-20",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "Contract SPE7M124F3893",
+            "sub": "Defense Logistics Agency · US$39K · 2024–2026",
+            "status": "Contract",
+            "date": "12 Sep 2024",
+            "iso": "2024-09-12",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$2.2M · 8 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI V6MCMV4KM841",
+            "url": "https://www.usaspending.gov/recipient/88560a38-80fd-371a-aeef-453865522e4f-C/latest"
+          },
+          {
+            "title": "USAspending.gov · SPE4A626P0729",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A626P0729_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M824P1252",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M824P1252_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A619PF095",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A619PF095_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M526P3538",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M526P3538_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M526P3179",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M526P3179_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M122F524C",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M122F524C_9700_SPE7M522D61CQ_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE7M326V0235",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M326V0235_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7M124F3893",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7M124F3893_9700_SPE7MX21D5016_9700"
+          }
+        ]
+      },
+      "card_hash": "82842aeca267080e"
+    },
+    "golden-star-technology-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "GOLDEN STAR TECHNOLOGY INC is a US company, with its seat in Cerritos. US federal spending records show US$465K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 1 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "GOLDEN STAR TECHNOLOGY INC is a US company, with its seat in Cerritos. US federal spending records show US$465K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 1 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Cerritos, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI MC1GL7GNUC18",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Cerritos, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI MC1GL7GNUC18",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity GOLDEN STAR TECHNOLOGY INC, UEI MC1GL7GNUC18",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/841dd797-15eb-1a00-024a-a7fb3805eee5-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/841dd797-15eb-1a00-024a-a7fb3805eee5-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Cerritos",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "GOLDEN STAR TECHNOLOGY INC is a US company, with its seat in Cerritos. US federal spending records show US$465K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 1 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$465K",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Defense Logistics Agency",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "1",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Cerritos, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI MC1GL7GNUC18",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "SW MODULE,GP750 4X1",
+            "sub": "Defense Logistics Agency · US$465K · 2026",
+            "status": "Contract",
+            "date": "09 Jan 2026",
+            "iso": "2026-01-09",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$930K · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI MC1GL7GNUC18",
+            "url": "https://www.usaspending.gov/recipient/841dd797-15eb-1a00-024a-a7fb3805eee5-C/latest"
+          },
+          {
+            "title": "USAspending.gov · SPRMM126PHA19",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRMM126PHA19_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "41917545a25cddb3"
+    },
+    "greene-metal-products-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "GREENE METAL PRODUCTS, INC. is a US company, with its seat in Clinton Township. US federal spending records show US$1.1M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 97 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "GREENE METAL PRODUCTS, INC. is a US company, with its seat in Clinton Township. US federal spending records show US$1.1M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 97 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Clinton Township, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI F8AXG8LJZQL3",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Clinton Township, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI F8AXG8LJZQL3",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity GREENE METAL PRODUCTS, INC., UEI F8AXG8LJZQL3",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/6f8c4804-17c3-11bb-1bdc-d6216386dd75-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/6f8c4804-17c3-11bb-1bdc-d6216386dd75-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Clinton Township",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "GREENE METAL PRODUCTS, INC. is a US company, with its seat in Clinton Township. US federal spending records show US$1.1M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 97 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$1.1M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "97",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$996K",
+            "label": "largest customer: Defense Logistics Agency",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Clinton Township, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI F8AXG8LJZQL3",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract SPE7L125P4645",
+            "sub": "Defense Logistics Agency · US$125K · 2025",
+            "status": "Contract",
+            "date": "21 Mar 2025",
+            "iso": "2025-03-21",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "SEAT, vehicular",
+            "sub": "Department of the Army · US$74K · 2026–2027",
+            "status": "Contract",
+            "date": "11 Jun 2026",
+            "iso": "2026-06-11",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "Contract SPE7L126V8050",
+            "sub": "Defense Logistics Agency · US$51K · 2026",
+            "status": "Contract",
+            "date": "15 Apr 2026",
+            "iso": "2026-04-15",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Contract SPE7L326P5010",
+            "sub": "Defense Logistics Agency · US$50K · 2026–2027",
+            "status": "Contract",
+            "date": "21 Jul 2026",
+            "iso": "2026-07-21",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "Contract SPE7L326V0619",
+            "sub": "Defense Logistics Agency · US$43K · 2025–2026",
+            "status": "Contract",
+            "date": "29 Oct 2025",
+            "iso": "2025-10-29",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Contract SPE7L026F0464",
+            "sub": "Defense Logistics Agency · US$42K · 2025–2026",
+            "status": "Contract",
+            "date": "23 Oct 2025",
+            "iso": "2025-10-23",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Contract SPE7L126V1540",
+            "sub": "Defense Logistics Agency · US$40K · 2025–2026",
+            "status": "Contract",
+            "date": "31 Oct 2025",
+            "iso": "2025-10-31",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "Contract SPE7L326P4564",
+            "sub": "Defense Logistics Agency · US$37K · 2026–2027",
+            "status": "Contract",
+            "date": "01 Jul 2026",
+            "iso": "2026-07-01",
+            "ongoing": true,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$1.4M · 7 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              4
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$222K · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI F8AXG8LJZQL3",
+            "url": "https://www.usaspending.gov/recipient/6f8c4804-17c3-11bb-1bdc-d6216386dd75-C/latest"
+          },
+          {
+            "title": "USAspending.gov · SPE7L125P4645",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7L125P4645_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W912CH26P0048",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W912CH26P0048_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7L126V8050",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7L126V8050_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7L326P5010",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7L326P5010_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7L326V0619",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7L326V0619_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7L026F0464",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7L026F0464_9700_SPE7L425D60LU_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE7L126V1540",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7L126V1540_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7L326P4564",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7L326P4564_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "3137a436c1d5cf77"
     }
   }
 }
