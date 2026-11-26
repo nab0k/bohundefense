@@ -130344,6 +130344,1492 @@
         ]
       },
       "card_hash": "fc593c93ec3c35c2"
+    },
+    "parity-quantum-computing-gmbh": {
+      "developments": [
+        {
+          "date": "05 Aug 2026",
+          "title": "European Defence Fund project 101304930",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304930/EDF"
+        }
+      ],
+      "country": "AT",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Parity Quantum Computing GmbH is a Austrian company registered in 2019, with its seat in Innsbruck. It takes part in 1 European Defence Fund project (2026).",
+        "overview": "Parity Quantum Computing GmbH is a Austrian company registered in 2019, with its seat in Innsbruck. It takes part in 1 European Defence Fund project (2026)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2019",
+            "Registered"
+          ],
+          [
+            "Innsbruck, Austria",
+            "Headquarters"
+          ],
+          [
+            "LEI 894500YB638Z1YMQGO17",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2019",
+            "Registered"
+          ],
+          [
+            "Innsbruck, Austria",
+            "Headquarters"
+          ],
+          [
+            "LEI 894500YB638Z1YMQGO17",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101304930",
+            "sub": "EU defence research and development · call EDF-2025-LS-RA-DIS",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "05 Aug 2026",
+            "desc": "Call EDF-2025-LS-RA-DIS",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304930/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101304930",
+            "sub": "EU defence research and development · call EDF-2025-LS-RA-DIS",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "05 Aug 2026",
+            "desc": "Call EDF-2025-LS-RA-DIS",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304930/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Parity Quantum Computing GmbH, LEI 894500YB638Z1YMQGO17",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/894500YB638Z1YMQGO17"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101304930",
+          "sources": 1,
+          "date": "05 Aug 2026",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304930/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Innsbruck",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Parity Quantum Computing GmbH is a Austrian company registered in 2019, with its seat in Innsbruck. It takes part in 1 European Defence Fund project (2026).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2019",
+            "Registered",
+            null
+          ],
+          [
+            "Innsbruck, Austria",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 894500YB638Z1YMQGO17",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101304930",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "05 Aug 2026",
+            "iso": "2026-08-05",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 894500YB638Z1YMQGO17",
+            "url": "https://api.gleif.org/api/v1/lei-records/894500YB638Z1YMQGO17"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101304930",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304930/EDF"
+          }
+        ]
+      },
+      "card_hash": "25308518b4b1eef4"
+    },
+    "nitrochemie-aschau-gmbh": {
+      "developments": [
+        {
+          "date": "16 Jul 2024",
+          "title": "European Defence Fund project 101172097",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101172097/EDF"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "NITROCHEMIE ASCHAU GMBH is a German company, with its seat in Aschau A. Inn. It takes part in 1 European Defence Fund project (2024).",
+        "overview": "NITROCHEMIE ASCHAU GMBH is a German company, with its seat in Aschau A. Inn. It takes part in 1 European Defence Fund project (2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Aschau A. Inn, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900QUH1OXK35G6U24",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Aschau A. Inn, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900QUH1OXK35G6U24",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101172097",
+            "sub": "EU defence research and development · call EDF-ASAP-2023-LS-POW",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "16 Jul 2024",
+            "desc": "Call EDF-ASAP-2023-LS-POW",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101172097/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101172097",
+            "sub": "EU defence research and development · call EDF-ASAP-2023-LS-POW",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "16 Jul 2024",
+            "desc": "Call EDF-ASAP-2023-LS-POW",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101172097/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity NITROCHEMIE ASCHAU GMBH, LEI 529900QUH1OXK35G6U24",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900QUH1OXK35G6U24"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101172097",
+          "sources": 1,
+          "date": "16 Jul 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101172097/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Aschau A. Inn",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "NITROCHEMIE ASCHAU GMBH is a German company, with its seat in Aschau A. Inn. It takes part in 1 European Defence Fund project (2024).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "Aschau A. Inn, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900QUH1OXK35G6U24",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101172097",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "16 Jul 2024",
+            "iso": "2024-07-16",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900QUH1OXK35G6U24",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900QUH1OXK35G6U24"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101172097",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101172097/EDF"
+          }
+        ]
+      },
+      "card_hash": "4176d5c958109421"
+    },
+    "newco-safety-technologies-gmbh": {
+      "developments": [
+        {
+          "date": "08 Jul 2024",
+          "title": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/403794-2024"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "Newco Safety Technologies GmbH is a German company registered in 2013, with its seat in Trittau. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (08 Jul 2024).",
+        "overview": "Newco Safety Technologies GmbH is a German company registered in 2013, with its seat in Trittau. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (08 Jul 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2013",
+            "Registered"
+          ],
+          [
+            "Trittau, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 391200HKT92BAPIKRS17",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2013",
+            "Registered"
+          ],
+          [
+            "Trittau, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 391200HKT92BAPIKRS17",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 403794-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "08 Jul 2024",
+            "desc": "TED notice 403794-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 403794-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "08 Jul 2024",
+            "desc": "TED notice 403794-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Newco Safety Technologies GmbH, LEI 391200HKT92BAPIKRS17",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/391200HKT92BAPIKRS17"
+        },
+        {
+          "claim": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (TED 403794-2024)",
+          "sources": 1,
+          "date": "08 Jul 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/403794-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Trittau",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Newco Safety Technologies GmbH is a German company registered in 2013, with its seat in Trittau. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (08 Jul 2024).",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "1",
+            "label": "contract awards on record",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "2013",
+            "Registered",
+            null
+          ],
+          [
+            "Trittau, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 391200HKT92BAPIKRS17",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 403794-2024",
+            "status": "Contract award",
+            "date": "08 Jul 2024",
+            "iso": "2024-07-08",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 391200HKT92BAPIKRS17",
+            "url": "https://api.gleif.org/api/v1/lei-records/391200HKT92BAPIKRS17"
+          },
+          {
+            "title": "TED notice 403794-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/403794-2024"
+          }
+        ]
+      },
+      "card_hash": "b3b2e631871ff241"
+    },
+    "odense-maritime-technology-a-s": {
+      "developments": [
+        {
+          "date": "23 Nov 2023",
+          "title": "European Defence Fund project 101121408",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121408/EDF"
+        }
+      ],
+      "country": "DK",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "ODENSE MARITIME TECHNOLOGY A/S is a Danish company registered in 2010, with its seat in Odense C. It takes part in 1 European Defence Fund project (2023).",
+        "overview": "ODENSE MARITIME TECHNOLOGY A/S is a Danish company registered in 2010, with its seat in Odense C. It takes part in 1 European Defence Fund project (2023)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2010",
+            "Registered"
+          ],
+          [
+            "Odense C, Denmark",
+            "Headquarters"
+          ],
+          [
+            "LEI 25490027H8DFI576LN60",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2010",
+            "Registered"
+          ],
+          [
+            "Odense C, Denmark",
+            "Headquarters"
+          ],
+          [
+            "LEI 25490027H8DFI576LN60",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101121408",
+            "sub": "EU defence research and development · call EDF-2022-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "23 Nov 2023",
+            "desc": "Call EDF-2022-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121408/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101121408",
+            "sub": "EU defence research and development · call EDF-2022-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "23 Nov 2023",
+            "desc": "Call EDF-2022-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121408/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ODENSE MARITIME TECHNOLOGY A/S, LEI 25490027H8DFI576LN60",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/25490027H8DFI576LN60"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101121408",
+          "sources": 1,
+          "date": "23 Nov 2023",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121408/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Odense C",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ODENSE MARITIME TECHNOLOGY A/S is a Danish company registered in 2010, with its seat in Odense C. It takes part in 1 European Defence Fund project (2023).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2010",
+            "Registered",
+            null
+          ],
+          [
+            "Odense C, Denmark",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 25490027H8DFI576LN60",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101121408",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "23 Nov 2023",
+            "iso": "2023-11-23",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 25490027H8DFI576LN60",
+            "url": "https://api.gleif.org/api/v1/lei-records/25490027H8DFI576LN60"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101121408",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121408/EDF"
+          }
+        ]
+      },
+      "card_hash": "f1589119aa7758f8"
+    },
+    "nammo-sweden-aktiebolag": {
+      "developments": [
+        {
+          "date": "06 Sep 2024",
+          "title": "European Defence Fund project 101171613",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101171613/EDF"
+        }
+      ],
+      "country": "SE",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Nammo Sweden Aktiebolag is a Swedish company registered in 1984, with its seat in Karlsborg. It takes part in 1 European Defence Fund project (2024).",
+        "overview": "Nammo Sweden Aktiebolag is a Swedish company registered in 1984, with its seat in Karlsborg. It takes part in 1 European Defence Fund project (2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1984",
+            "Registered"
+          ],
+          [
+            "Karlsborg, Sweden",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300BASALBAE6XLS73",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1984",
+            "Registered"
+          ],
+          [
+            "Karlsborg, Sweden",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300BASALBAE6XLS73",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101171613",
+            "sub": "EU defence research and development · call EDF-ASAP-2023-LS-SHL",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "06 Sep 2024",
+            "desc": "Call EDF-ASAP-2023-LS-SHL",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101171613/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101171613",
+            "sub": "EU defence research and development · call EDF-ASAP-2023-LS-SHL",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "06 Sep 2024",
+            "desc": "Call EDF-ASAP-2023-LS-SHL",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101171613/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Nammo Sweden Aktiebolag, LEI 549300BASALBAE6XLS73",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/549300BASALBAE6XLS73"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101171613",
+          "sources": 1,
+          "date": "06 Sep 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101171613/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Karlsborg",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Nammo Sweden Aktiebolag is a Swedish company registered in 1984, with its seat in Karlsborg. It takes part in 1 European Defence Fund project (2024).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1984",
+            "Registered",
+            null
+          ],
+          [
+            "Karlsborg, Sweden",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 549300BASALBAE6XLS73",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101171613",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "06 Sep 2024",
+            "iso": "2024-09-06",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 549300BASALBAE6XLS73",
+            "url": "https://api.gleif.org/api/v1/lei-records/549300BASALBAE6XLS73"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101171613",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101171613/EDF"
+          }
+        ]
+      },
+      "card_hash": "bf373669703a5df5"
+    },
+    "anixter-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "ANIXTER INC. is a US company, with its seat in Glenview. US federal spending records show US$21K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 1 contracts; the largest customer is the Department of the Navy.",
+        "overview": "ANIXTER INC. is a US company, with its seat in Glenview. US federal spending records show US$21K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 1 contracts; the largest customer is the Department of the Navy."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Glenview, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 5493000SM561KPBZQ714",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Glenview, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 5493000SM561KPBZQ714",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ANIXTER INC., LEI 5493000SM561KPBZQ714",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://search.gleif.org/#/record/5493000SM561KPBZQ714"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/395921b5-7819-9d9a-ff67-89d06e07afa0-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Glenview",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ANIXTER INC. is a US company, with its seat in Glenview. US federal spending records show US$21K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 1 contracts; the largest customer is the Department of the Navy.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$21K",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Department of the Navy",
+            "src": [
+              3
+            ]
+          },
+          {
+            "value": "1",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              3
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Glenview, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 5493000SM561KPBZQ714",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "ANIXTER/WESCO CABLES: P/N: 2XSAOW-14, M24640/15-04UO 22-14P, watertight IND+OA SHD **QPL/CRT**, 1200FT. P/N: 2XSAOW-3, M",
+            "sub": "Department of the Navy · US$21K · 2025–2026",
+            "status": "Contract",
+            "date": "11 Dec 2025",
+            "iso": "2025-12-11",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$42K · 1 contract",
+            "status": "verified",
+            "src": [
+              2,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 5493000SM561KPBZQ714",
+            "url": "https://search.gleif.org/#/record/5493000SM561KPBZQ714"
+          },
+          {
+            "title": "USAspending.gov · N0042126P0006",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0042126P0006_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · US Department of Defense · FY2026–27, to 26 Nov 2026",
+            "url": "https://www.usaspending.gov/recipient/395921b5-7819-9d9a-ff67-89d06e07afa0-C/latest"
+          }
+        ]
+      },
+      "card_hash": "25ffa87ad8f2747e"
+    },
+    "defense-maritime-solutions-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "DEFENSE MARITIME SOLUTIONS, INC. is a US company, with its seat in Chesapeake. US federal spending records show US$6.2M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 41 contracts; the largest customer is the Department of the Navy.",
+        "overview": "DEFENSE MARITIME SOLUTIONS, INC. is a US company, with its seat in Chesapeake. US federal spending records show US$6.2M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 41 contracts; the largest customer is the Department of the Navy."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Chesapeake, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI JA2KCX21NL48",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Chesapeake, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI JA2KCX21NL48",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity DEFENSE MARITIME SOLUTIONS, INC., UEI JA2KCX21NL48",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/0c67f76e-26ab-afff-6f22-c835173b70be-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/0c67f76e-26ab-afff-6f22-c835173b70be-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Chesapeake",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "DEFENSE MARITIME SOLUTIONS, INC. is a US company, with its seat in Chesapeake. US federal spending records show US$6.2M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 41 contracts; the largest customer is the Department of the Navy.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$6.2M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Department of the Navy",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "41",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Chesapeake, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI JA2KCX21NL48",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "SEAL ASSEMBLY,MAIN",
+            "sub": "Department of the Navy · US$14.7M · 2024–2026",
+            "status": "Contract",
+            "date": "31 May 2024",
+            "iso": "2024-05-31",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "This delivery order is for SIX (6) total shaft ASSEMBLIES; three (3) WLD 1500 shaft assemblies and three (3) WLD 1720 sh",
+            "sub": "Defense Contract Management Agency · US$5.3M · 2025–2027",
+            "status": "Contract",
+            "date": "26 Sep 2025",
+            "iso": "2025-09-26",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "BSS phase III - manufacturing and assembly of a BSS inseparable assembly prototype",
+            "sub": "Department of the Navy · US$4.2M · 2019–2026",
+            "status": "Contract",
+            "date": "01 May 2019",
+            "iso": "2019-05-01",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "DESIGN/FABRICATION/TESTING for vertical balance meeting",
+            "sub": "Department of the Navy · US$4.0M · 2020–2026",
+            "status": "Contract",
+            "date": "10 Dec 2020",
+            "iso": "2020-12-10",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "N102/N7 ouarda allbee USNS CODY waterjet assembly",
+            "sub": "Department of the Navy · US$3.3M · 2024–2026",
+            "status": "Contract",
+            "date": "16 Sep 2024",
+            "iso": "2024-09-16",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "To under BOA N6449823G4000 for 2 1500 shaft assemblies and 2 1720 shaft assemblies",
+            "sub": "Defense Contract Management Agency · US$3.2M · 2024–2025",
+            "status": "Contract",
+            "date": "20 Sep 2024",
+            "iso": "2024-09-20",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "1500 impeller shaft assembly",
+            "sub": "Defense Contract Management Agency · US$3.1M · 2024–2025",
+            "status": "Contract",
+            "date": "22 Feb 2024",
+            "iso": "2024-02-22",
+            "ongoing": false,
+            "src": 8
+          },
+          {
+            "title": "To under BOA N6449823G4000 FOR: 1 1500 shaft assembly 1 1720 shaft assembly",
+            "sub": "Defense Contract Management Agency · US$1.7M · 2025–2027",
+            "status": "Contract",
+            "date": "10 Apr 2025",
+            "iso": "2025-04-10",
+            "ongoing": true,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$32.3M · 4 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              4
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Contract Management Agency",
+            "sub": "Customer · US$13.3M · 4 contracts",
+            "status": "verified",
+            "src": [
+              3,
+              7,
+              8
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$61K",
+            "status": "verified",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI JA2KCX21NL48",
+            "url": "https://www.usaspending.gov/recipient/0c67f76e-26ab-afff-6f22-c835173b70be-C/latest"
+          },
+          {
+            "title": "USAspending.gov · N0010424FZL02",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0010424FZL02_9700_N0010423GZL01_9700"
+          },
+          {
+            "title": "USAspending.gov · N6449825FX103",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N6449825FX103_9700_N6449823G4000_9700"
+          },
+          {
+            "title": "USAspending.gov · N0016719F0090",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0016719F0090_9700_N0016717D0003_9700"
+          },
+          {
+            "title": "USAspending.gov · N0016721F0011",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0016721F0011_9700_N0016717D0003_9700"
+          },
+          {
+            "title": "USAspending.gov · N3220524F1813",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N3220524F1813_9700_N3220521D4126_9700"
+          },
+          {
+            "title": "USAspending.gov · N6449824F4303",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N6449824F4303_9700_N6449823G4000_9700"
+          },
+          {
+            "title": "USAspending.gov · N6449824F4073",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N6449824F4073_9700_N6449823G4000_9700"
+          },
+          {
+            "title": "USAspending.gov · N6449825F4032",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N6449825F4032_9700_N6449823G4000_9700"
+          }
+        ]
+      },
+      "card_hash": "737e9e6fac409607"
     }
   }
 }
