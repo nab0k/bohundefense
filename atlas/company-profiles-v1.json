@@ -79417,12 +79417,12 @@
       "meta": [
         [
           "shield",
-          "Defence participation L3 · verified · contracts with defence customers"
+          "Defence participation L1 · supported · named military products"
         ]
       ],
       "about": {
-        "workspace": "Global Military Products, Inc. is a US company registered in 2009, with its seat in Wilmington. US federal spending records show US$255K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 13 contracts; the largest customer is the U.S. Special Operations Command.",
-        "overview": "Global Military Products, Inc. is a US company registered in 2009, with its seat in Wilmington. US federal spending records show US$255K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 13 contracts; the largest customer is the U.S. Special Operations Command."
+        "workspace": "Global Military Products, Inc. is a US company registered in 2009, with its seat in Wilmington. US federal spending records show US$255K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 13 contracts; the largest customer is the U.S. Special Operations Command. Its website presents military products including Defense sourcing, program management, systems integration, and global logistics, Access to mission‑critical defense systems, technologies, and products, Energetic base compounds, Propellants.",
+        "overview": "Global Military Products, Inc. is a US company registered in 2009, with its seat in Wilmington. US federal spending records show US$255K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 13 contracts; the largest customer is the U.S. Special Operations Command. Its website presents military products including Defense sourcing, program management, systems integration, and global logistics, Access to mission‑critical defense systems, technologies, and products, Energetic base compounds, Propellants."
       },
       "facts": {
         "workspace": [
@@ -79455,7 +79455,7 @@
         ]
       },
       "attributes": [
-        "Defence L3"
+        "Defence L1"
       ],
       "taxonomy": {
         "domains": [],
@@ -79488,8 +79488,79 @@
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Defense sourcing, program management, systems integration, and global logistics",
+          "level": "L0",
+          "icon": "crosshair",
+          "selected": true
+        },
+        {
+          "label": "Access to mission‑critical defense systems, technologies, and products",
+          "level": "L0",
+          "icon": "crosshair"
+        },
+        {
+          "label": "Energetic base compounds",
+          "level": "L0",
+          "icon": "crosshair"
+        },
+        {
+          "label": "Propellants",
+          "level": "L0",
+          "icon": "crosshair"
+        },
+        {
+          "label": "Energetic compositions",
+          "level": "L0",
+          "icon": "crosshair"
+        },
+        {
+          "label": "Utility Ground Vehicles (UGV)",
+          "level": "L0",
+          "icon": "crosshair"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Defense sourcing, program management, systems integration, and global logistics",
+              "Global Military Products provides defense sourcing, program management, systems integration, and global logistics to support complex require",
+              "green"
+            ],
+            [
+              "Access to mission‑critical defense systems, technologies, and products",
+              "Access to mission-critical defense systems, technologies, and products across U.S. and international markets.",
+              "green"
+            ],
+            [
+              "Energetic base compounds",
+              "Explore energetic base compounds for defense applications and how Global Military Products...",
+              "green"
+            ],
+            [
+              "Propellants",
+              "Explore defense propellants and how Global Military Products supports propellant requirements through...",
+              "green"
+            ],
+            [
+              "Energetic compositions",
+              "Explore energetic compositions for defense applications and how Global Military Products connects...",
+              "green"
+            ],
+            [
+              "Utility Ground Vehicles (UGV)",
+              "Global Military Products Utility Ground Vehicles (UGV) Autonomous and unmanned ground systems...",
+              "green"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -79539,6 +79610,54 @@
           "href": "https://www.usaspending.gov/recipient/8df2d6bc-e363-72b0-b415-bb999441a393-C/latest"
         },
         {
+          "claim": "Defense sourcing, program management, systems integration, and global logistics: “Global Military Products provides defense sourcing, program management, systems integration, and global logistics to support complex requirements for the U.S. Department of War, NATO Allies, and U.S. Partner Forces.”",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://globalmilitaryproducts.com/"
+        },
+        {
+          "claim": "Access to mission‑critical defense systems, technologies, and products: “Access to mission-critical defense systems, technologies, and products across U.S. and international markets.”",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://globalmilitaryproducts.com/defense-supply-solutions/"
+        },
+        {
+          "claim": "Energetic base compounds: “Explore energetic base compounds for defense applications and how Global Military Products...”",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://globalmilitaryproducts.com/defense-supply-solutions/"
+        },
+        {
+          "claim": "Propellants: “Explore defense propellants and how Global Military Products supports propellant requirements through...”",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://globalmilitaryproducts.com/defense-supply-solutions/"
+        },
+        {
+          "claim": "Energetic compositions: “Explore energetic compositions for defense applications and how Global Military Products connects...”",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://globalmilitaryproducts.com/defense-supply-solutions/"
+        },
+        {
+          "claim": "Utility Ground Vehicles (UGV): “Global Military Products Utility Ground Vehicles (UGV) Autonomous and unmanned ground systems...”",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://globalmilitaryproducts.com/defense-supply-solutions/"
+        },
+        {
           "claim": "Technologies, financials and relationships beyond these records",
           "sources": 0,
           "date": "23 Nov 2026",
@@ -79555,7 +79674,7 @@
       ],
       "page": {
         "v": 2,
-        "lead": "Global Military Products, Inc. is a US company registered in 2009, with its seat in Wilmington. US federal spending records show US$255K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 13 contracts; the largest customer is the U.S. Special Operations Command.",
+        "lead": "Global Military Products, Inc. is a US company registered in 2009, with its seat in Wilmington. US federal spending records show US$255K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 13 contracts; the largest customer is the U.S. Special Operations Command. Its website presents military products including Defense sourcing, program management, systems integration, and global logistics, Access to mission‑critical defense systems, technologies, and products, Energetic base compounds, Propellants.",
         "lead_src": [
           1
         ],
@@ -79706,7 +79825,62 @@
             ]
           }
         ],
-        "products": [],
+        "products": [
+          {
+            "name": "Defense sourcing, program management, systems integration, and global logistics",
+            "role": "makes",
+            "status": "supported",
+            "quote": "Global Military Products provides defense sourcing, program management, systems integration, and global logistics to support complex requirements for the U.S. Department of War, NATO Allies, and U.S. ",
+            "src": [
+              11
+            ]
+          },
+          {
+            "name": "Access to mission‑critical defense systems, technologies, and products",
+            "role": "makes",
+            "status": "supported",
+            "quote": "Access to mission-critical defense systems, technologies, and products across U.S. and international markets.",
+            "src": [
+              12
+            ]
+          },
+          {
+            "name": "Energetic base compounds",
+            "role": "makes",
+            "status": "supported",
+            "quote": "Explore energetic base compounds for defense applications and how Global Military Products...",
+            "src": [
+              12
+            ]
+          },
+          {
+            "name": "Propellants",
+            "role": "makes",
+            "status": "supported",
+            "quote": "Explore defense propellants and how Global Military Products supports propellant requirements through...",
+            "src": [
+              12
+            ]
+          },
+          {
+            "name": "Energetic compositions",
+            "role": "makes",
+            "status": "supported",
+            "quote": "Explore energetic compositions for defense applications and how Global Military Products connects...",
+            "src": [
+              12
+            ]
+          },
+          {
+            "name": "Utility Ground Vehicles (UGV)",
+            "role": "makes",
+            "status": "supported",
+            "quote": "Global Military Products Utility Ground Vehicles (UGV) Autonomous and unmanned ground systems...",
+            "src": [
+              12
+            ]
+          }
+        ],
         "news": [],
         "sources": [
           {
@@ -79748,10 +79922,18 @@
           {
             "title": "USAspending.gov · W519TC25F0407",
             "url": "https://www.usaspending.gov/award/CONT_AWD_W519TC25F0407_9700_W52P1J22D0007_9700"
+          },
+          {
+            "title": "Company website",
+            "url": "https://globalmilitaryproducts.com/"
+          },
+          {
+            "title": "Company website",
+            "url": "https://globalmilitaryproducts.com/defense-supply-solutions/"
           }
         ]
       },
-      "card_hash": "91c5883404e51bf8"
+      "card_hash": "b592cd2474ddbb2d"
     },
     "u-s-ordnance": {
       "developments": [],
@@ -133324,6 +133506,2075 @@
         ]
       },
       "card_hash": "d5b880366ddd8aa5"
+    },
+    "read-coop-sce-mit-beschrankter-haftung": {
+      "developments": [
+        {
+          "date": "18 Nov 2024",
+          "title": "European Defence Fund project 101167770",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167770/EDF"
+        }
+      ],
+      "country": "AT",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "READ-COOP SCE mit beschränkter Haftung is a Austrian company registered in 2019, with its seat in Innsbruck. It takes part in 1 European Defence Fund project (2024).",
+        "overview": "READ-COOP SCE mit beschränkter Haftung is a Austrian company registered in 2019, with its seat in Innsbruck. It takes part in 1 European Defence Fund project (2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2019",
+            "Registered"
+          ],
+          [
+            "Innsbruck, Austria",
+            "Headquarters"
+          ],
+          [
+            "LEI 984500CD8D1C7C9EFF20",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2019",
+            "Registered"
+          ],
+          [
+            "Innsbruck, Austria",
+            "Headquarters"
+          ],
+          [
+            "LEI 984500CD8D1C7C9EFF20",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101167770",
+            "sub": "EU defence research and development · call EDF-2023-LS-RA-CHALLENGE",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "18 Nov 2024",
+            "desc": "Call EDF-2023-LS-RA-CHALLENGE",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167770/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101167770",
+            "sub": "EU defence research and development · call EDF-2023-LS-RA-CHALLENGE",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "18 Nov 2024",
+            "desc": "Call EDF-2023-LS-RA-CHALLENGE",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167770/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity READ-COOP SCE mit beschränkter Haftung, LEI 984500CD8D1C7C9EFF20",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/984500CD8D1C7C9EFF20"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167770",
+          "sources": 1,
+          "date": "18 Nov 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167770/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Innsbruck",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "READ-COOP SCE mit beschränkter Haftung is a Austrian company registered in 2019, with its seat in Innsbruck. It takes part in 1 European Defence Fund project (2024).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2019",
+            "Registered",
+            null
+          ],
+          [
+            "Innsbruck, Austria",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 984500CD8D1C7C9EFF20",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101167770",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "18 Nov 2024",
+            "iso": "2024-11-18",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 984500CD8D1C7C9EFF20",
+            "url": "https://api.gleif.org/api/v1/lei-records/984500CD8D1C7C9EFF20"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101167770",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167770/EDF"
+          }
+        ]
+      },
+      "card_hash": "05e611d7c21b51b9"
+    },
+    "qrelation-management-team-gmbh": {
+      "developments": [
+        {
+          "date": "07 Dec 2022",
+          "title": "European Defence Fund project 101103257",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103257/EDF"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "QRelation Management Team GmbH is a German company registered in 2007, with its seat in Jesteburg. It takes part in 1 European Defence Fund project (2022).",
+        "overview": "QRelation Management Team GmbH is a German company registered in 2007, with its seat in Jesteburg. It takes part in 1 European Defence Fund project (2022)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2007",
+            "Registered"
+          ],
+          [
+            "Jesteburg, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 875500FA2PQ02O3B3Y73",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2007",
+            "Registered"
+          ],
+          [
+            "Jesteburg, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 875500FA2PQ02O3B3Y73",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101103257",
+            "sub": "EU defence research and development · call EDF-2021-NAVAL-R-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "07 Dec 2022",
+            "desc": "Call EDF-2021-NAVAL-R-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103257/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101103257",
+            "sub": "EU defence research and development · call EDF-2021-NAVAL-R-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "07 Dec 2022",
+            "desc": "Call EDF-2021-NAVAL-R-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103257/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity QRelation Management Team GmbH, LEI 875500FA2PQ02O3B3Y73",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/875500FA2PQ02O3B3Y73"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103257",
+          "sources": 1,
+          "date": "07 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103257/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Jesteburg",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "QRelation Management Team GmbH is a German company registered in 2007, with its seat in Jesteburg. It takes part in 1 European Defence Fund project (2022).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2007",
+            "Registered",
+            null
+          ],
+          [
+            "Jesteburg, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 875500FA2PQ02O3B3Y73",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101103257",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "07 Dec 2022",
+            "iso": "2022-12-07",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 875500FA2PQ02O3B3Y73",
+            "url": "https://api.gleif.org/api/v1/lei-records/875500FA2PQ02O3B3Y73"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101103257",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103257/EDF"
+          }
+        ]
+      },
+      "card_hash": "10d6144d83cf5fb7"
+    },
+    "reflex-aerospace-gmbh": {
+      "developments": [
+        {
+          "date": "10 Dec 2024",
+          "title": "European Defence Fund project 101168065",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168065/EDF"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "REFLEX aerospace GmbH is a German company registered in 2021, with its seat in Berlin. It takes part in 1 European Defence Fund project (2024).",
+        "overview": "REFLEX aerospace GmbH is a German company registered in 2021, with its seat in Berlin. It takes part in 1 European Defence Fund project (2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2021",
+            "Registered"
+          ],
+          [
+            "Berlin, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 3912001NN2TPK29BPZ88",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2021",
+            "Registered"
+          ],
+          [
+            "Berlin, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 3912001NN2TPK29BPZ88",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101168065",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "10 Dec 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168065/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101168065",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "10 Dec 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168065/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity REFLEX aerospace GmbH, LEI 3912001NN2TPK29BPZ88",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/3912001NN2TPK29BPZ88"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101168065",
+          "sources": 1,
+          "date": "10 Dec 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168065/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Berlin",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "REFLEX aerospace GmbH is a German company registered in 2021, with its seat in Berlin. It takes part in 1 European Defence Fund project (2024).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2021",
+            "Registered",
+            null
+          ],
+          [
+            "Berlin, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 3912001NN2TPK29BPZ88",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101168065",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "10 Dec 2024",
+            "iso": "2024-12-10",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 3912001NN2TPK29BPZ88",
+            "url": "https://api.gleif.org/api/v1/lei-records/3912001NN2TPK29BPZ88"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101168065",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168065/EDF"
+          }
+        ]
+      },
+      "card_hash": "cb49301659ea8306"
+    },
+    "renk-magnet-motor-gmbh": {
+      "developments": [
+        {
+          "date": "06 Dec 2024",
+          "title": "European Defence Fund project 101167893",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "RENK Magnet-Motor GmbH is a German company registered in 1977, with its seat in Starnberg. It takes part in 1 European Defence Fund project (2024).",
+        "overview": "RENK Magnet-Motor GmbH is a German company registered in 1977, with its seat in Starnberg. It takes part in 1 European Defence Fund project (2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "1977",
+            "Registered"
+          ],
+          [
+            "Starnberg, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900P1D47WEG4JUK63",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "1977",
+            "Registered"
+          ],
+          [
+            "Starnberg, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900P1D47WEG4JUK63",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101167893",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "06 Dec 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101167893",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "06 Dec 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity RENK Magnet-Motor GmbH, LEI 529900P1D47WEG4JUK63",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900P1D47WEG4JUK63"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167893",
+          "sources": 1,
+          "date": "06 Dec 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Starnberg",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "RENK Magnet-Motor GmbH is a German company registered in 1977, with its seat in Starnberg. It takes part in 1 European Defence Fund project (2024).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "1977",
+            "Registered",
+            null
+          ],
+          [
+            "Starnberg, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900P1D47WEG4JUK63",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101167893",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "06 Dec 2024",
+            "iso": "2024-12-06",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900P1D47WEG4JUK63",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900P1D47WEG4JUK63"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101167893",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+          }
+        ]
+      },
+      "card_hash": "52066da10f747615"
+    },
+    "rheinmetall-protection-systems-gmbh": {
+      "developments": [
+        {
+          "date": "06 Dec 2024",
+          "title": "European Defence Fund project 101167893",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "Rheinmetall Protection Systems GmbH is a German company, with its seat in Bonn. It takes part in 1 European Defence Fund project (2024).",
+        "overview": "Rheinmetall Protection Systems GmbH is a German company, with its seat in Bonn. It takes part in 1 European Defence Fund project (2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Bonn, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900C3WGMN0KA7IR03",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Bonn, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900C3WGMN0KA7IR03",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101167893",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "06 Dec 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101167893",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "06 Dec 2024",
+            "desc": "Call EDF-2023-DA",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Rheinmetall Protection Systems GmbH, LEI 529900C3WGMN0KA7IR03",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900C3WGMN0KA7IR03"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101167893",
+          "sources": 1,
+          "date": "06 Dec 2024",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Bonn",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Rheinmetall Protection Systems GmbH is a German company, with its seat in Bonn. It takes part in 1 European Defence Fund project (2024).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "Bonn, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900C3WGMN0KA7IR03",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101167893",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "06 Dec 2024",
+            "iso": "2024-12-06",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900C3WGMN0KA7IR03",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900C3WGMN0KA7IR03"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101167893",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167893/EDF"
+          }
+        ]
+      },
+      "card_hash": "1f9045312d0f5000"
+    },
+    "rheinmetall-technical-publications": {
+      "developments": [
+        {
+          "date": "26 Aug 2024",
+          "title": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+          "tags": [
+            "TED"
+          ],
+          "color": "blue",
+          "href": "https://ted.europa.eu/en/notice/-/detail/510792-2024"
+        }
+      ],
+      "country": "DE",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "Rheinmetall Technical Publications GmbH is a German company, with its seat in Bremen. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (26 Aug 2024).",
+        "overview": "Rheinmetall Technical Publications GmbH is a German company, with its seat in Bremen. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (26 Aug 2024)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Bremen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900CMCAYC7V026241",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Bremen, Germany",
+            "Headquarters"
+          ],
+          [
+            "LEI 529900CMCAYC7V026241",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 510792-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "26 Aug 2024",
+            "desc": "TED notice 510792-2024",
+            "color": "orange"
+          }
+        ],
+        "overview": [
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 510792-2024",
+            "status": "Contract award",
+            "icon": "landmark",
+            "date": "26 Aug 2024",
+            "desc": "TED notice 510792-2024",
+            "color": "orange"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "role": "Customer · TED award",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "landmark",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity Rheinmetall Technical Publications GmbH, LEI 529900CMCAYC7V026241",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/529900CMCAYC7V026241"
+        },
+        {
+          "claim": "Contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (TED 510792-2024)",
+          "sources": 1,
+          "date": "26 Aug 2024",
+          "status": "Verified",
+          "source": "TED (EU procurement journal)",
+          "href": "https://ted.europa.eu/en/notice/-/detail/510792-2024"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Bremen",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "Rheinmetall Technical Publications GmbH is a German company, with its seat in Bremen. EU procurement records (TED) list a contract award by Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr (26 Aug 2024).",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "1",
+            "label": "contract awards on record",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Bremen, Germany",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 529900CMCAYC7V026241",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract award · Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+            "sub": "TED notice 510792-2024",
+            "status": "Contract award",
+            "date": "26 Aug 2024",
+            "iso": "2024-08-26",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 529900CMCAYC7V026241",
+            "url": "https://api.gleif.org/api/v1/lei-records/529900CMCAYC7V026241"
+          },
+          {
+            "title": "TED notice 510792-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/510792-2024"
+          }
+        ]
+      },
+      "card_hash": "bce4eb22e33969a0"
+    },
+    "reevo-spa": {
+      "developments": [
+        {
+          "date": "08 Dec 2022",
+          "title": "European Defence Fund project 101103651",
+          "tags": [
+            "EDF"
+          ],
+          "color": "blue",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103651/EDF"
+        }
+      ],
+      "country": "IT",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · European Defence Fund projects"
+        ]
+      ],
+      "about": {
+        "workspace": "REEVO SPA is a Italian company registered in 2003, with its seat in Milano. It takes part in 1 European Defence Fund project (2022).",
+        "overview": "REEVO SPA is a Italian company registered in 2003, with its seat in Milano. It takes part in 1 European Defence Fund project (2022)."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "2003",
+            "Registered"
+          ],
+          [
+            "Milano, Italy",
+            "Headquarters"
+          ],
+          [
+            "LEI 8156007D7BF272876338",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "2003",
+            "Registered"
+          ],
+          [
+            "Milano, Italy",
+            "Headquarters"
+          ],
+          [
+            "LEI 8156007D7BF272876338",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [
+          {
+            "title": "European Defence Fund project 101103651",
+            "sub": "EU defence research and development · call EDF-2021-DIGIT-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "08 Dec 2022",
+            "desc": "Call EDF-2021-DIGIT-D-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103651/EDF"
+          }
+        ],
+        "overview": [
+          {
+            "title": "European Defence Fund project 101103651",
+            "sub": "EU defence research and development · call EDF-2021-DIGIT-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "08 Dec 2022",
+            "desc": "Call EDF-2021-DIGIT-D-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103651/EDF"
+          }
+        ]
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ],
+        "overview": [
+          {
+            "name": "European Commission (EDF)",
+            "role": "Funder · 1 project",
+            "x": 0.28,
+            "y": 0.12,
+            "icon": "coins",
+            "edge": "verified"
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity REEVO SPA, LEI 8156007D7BF272876338",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://api.gleif.org/api/v1/lei-records/8156007D7BF272876338"
+        },
+        {
+          "claim": "Participant in European Defence Fund project 101103651",
+          "sources": 1,
+          "date": "08 Dec 2022",
+          "status": "Verified",
+          "source": "European Commission funding portal",
+          "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103651/EDF"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Milano",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "REEVO SPA is a Italian company registered in 2003, with its seat in Milano. It takes part in 1 European Defence Fund project (2022).",
+        "lead_src": [
+          1,
+          2
+        ],
+        "figures": [],
+        "facts": [
+          [
+            "2003",
+            "Registered",
+            null
+          ],
+          [
+            "Milano, Italy",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 8156007D7BF272876338",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "European Defence Fund project 101103651",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "08 Dec 2022",
+            "iso": "2022-12-08",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "funder",
+            "name": "European Commission · European Defence Fund",
+            "sub": "1 grant",
+            "status": "verified",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 8156007D7BF272876338",
+            "url": "https://api.gleif.org/api/v1/lei-records/8156007D7BF272876338"
+          },
+          {
+            "title": "EU Funding & Tenders portal · 101103651",
+            "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103651/EDF"
+          }
+        ]
+      },
+      "card_hash": "f8e349ea6c2e45a3"
+    },
+    "exodus-advanced-communications-corp": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "EXODUS ADVANCED COMMUNICATIONS CORP is a US company, with its seat in Las Vegas. US federal spending records show US$1.3M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 2 contracts; the largest customer is the Department of the Navy.",
+        "overview": "EXODUS ADVANCED COMMUNICATIONS CORP is a US company, with its seat in Las Vegas. US federal spending records show US$1.3M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 2 contracts; the largest customer is the Department of the Navy."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Las Vegas, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI CLP8L3ZN23H2",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Las Vegas, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI CLP8L3ZN23H2",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity EXODUS ADVANCED COMMUNICATIONS CORP, UEI CLP8L3ZN23H2",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/369bd268-8381-735f-effc-78060c27de06-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/369bd268-8381-735f-effc-78060c27de06-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Las Vegas",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "EXODUS ADVANCED COMMUNICATIONS CORP is a US company, with its seat in Las Vegas. US federal spending records show US$1.3M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 2 contracts; the largest customer is the Department of the Navy.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$1.3M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Department of the Navy",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "2",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Las Vegas, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI CLP8L3ZN23H2",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Pulse transmitters - ordering year 1",
+            "sub": "Department of the Navy · US$652K · 2025–2026",
+            "status": "Contract",
+            "date": "19 Dec 2025",
+            "iso": "2025-12-19",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "TW16 request for FY26 IDIQ delivery order for solid state transmitters",
+            "sub": "Department of the Navy · US$624K · 2026–2027",
+            "status": "Contract",
+            "date": "06 May 2026",
+            "iso": "2026-05-06",
+            "ongoing": true,
+            "src": 3
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$2.6M · 2 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI CLP8L3ZN23H2",
+            "url": "https://www.usaspending.gov/recipient/369bd268-8381-735f-effc-78060c27de06-C/latest"
+          },
+          {
+            "title": "USAspending.gov · N6833526F0448",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N6833526F0448_9700_N6833525D0010_9700"
+          },
+          {
+            "title": "USAspending.gov · N6833526F1112",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N6833526F1112_9700_N6833525D0010_9700"
+          }
+        ]
+      },
+      "card_hash": "0d4ee390945b906f"
+    },
+    "ontime-networks-llc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "ONTIME NETWORKS, LLC is a US company, with its seat in Latham. US federal spending records show US$996K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 1 contracts; the largest customer is the Department of the Navy.",
+        "overview": "ONTIME NETWORKS, LLC is a US company, with its seat in Latham. US federal spending records show US$996K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 1 contracts; the largest customer is the Department of the Navy."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Latham, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI JKK1WR18SYA4",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Latham, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI JKK1WR18SYA4",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity ONTIME NETWORKS, LLC, UEI JKK1WR18SYA4",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/67762d71-49c2-fbde-0406-56ec4f8ab07f-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/67762d71-49c2-fbde-0406-56ec4f8ab07f-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Latham",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "ONTIME NETWORKS, LLC is a US company, with its seat in Latham. US federal spending records show US$996K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 1 contracts; the largest customer is the Department of the Navy.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$996K",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026, almost all Department of the Navy",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "1",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Latham, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI JKK1WR18SYA4",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Ethernet expansion devices (EEDS) DO #2",
+            "sub": "Department of the Navy · US$996K · 2026–2027",
+            "status": "Contract",
+            "date": "10 Jun 2026",
+            "iso": "2026-06-10",
+            "ongoing": true,
+            "src": 2
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$2.0M · 1 contract",
+            "status": "verified",
+            "src": [
+              1,
+              2
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI JKK1WR18SYA4",
+            "url": "https://www.usaspending.gov/recipient/67762d71-49c2-fbde-0406-56ec4f8ab07f-C/latest"
+          },
+          {
+            "title": "USAspending.gov · N0001926F2184",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0001926F2184_9700_N0001924D0118_9700"
+          }
+        ]
+      },
+      "card_hash": "0491a2efa2d89970"
+    },
+    "tactair-fluid-controls-inc": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-26",
+      "status_label": "Reviewed card · 26 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "TACTAIR FLUID CONTROLS INC is a US company, with its seat in Liverpool. US federal spending records show US$7.4M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 147 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "TACTAIR FLUID CONTROLS INC is a US company, with its seat in Liverpool. US federal spending records show US$7.4M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 147 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Liverpool, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI D8LDZVAZU3H9",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Liverpool, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI D8LDZVAZU3H9",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity TACTAIR FLUID CONTROLS INC, UEI D8LDZVAZU3H9",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/23ec4537-173c-e383-8eda-cbe191f0d54f-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 26 Nov 2026",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/23ec4537-173c-e383-8eda-cbe191f0d54f-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "26 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Liverpool",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "TACTAIR FLUID CONTROLS INC is a US company, with its seat in Liverpool. US federal spending records show US$7.4M obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 26 Nov 2026 across 147 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$7.4M",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "147",
+            "label": "contracts with activity, FY2026–27, to 26 Nov 2026",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "US$6.6M",
+            "label": "largest customer: Defense Logistics Agency",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Liverpool, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI D8LDZVAZU3H9",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "VALVE, LINEAR, direct",
+            "sub": "Defense Logistics Agency · US$897K · 2025–2027",
+            "status": "Contract",
+            "date": "23 Sep 2025",
+            "iso": "2025-09-23",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "Contract SPE4A626PA487",
+            "sub": "Defense Logistics Agency · US$882K · 2025–2027",
+            "status": "Contract",
+            "date": "22 Dec 2025",
+            "iso": "2025-12-22",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "Servo MECHANISM, hydraulic supporting the C-130.",
+            "sub": "Defense Logistics Agency · US$759K · 2025–2027",
+            "status": "Contract",
+            "date": "08 Dec 2025",
+            "iso": "2025-12-08",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "Hydraulic module as",
+            "sub": "Department of the Navy · US$663K · 2025–2026",
+            "status": "Contract",
+            "date": "16 Oct 2025",
+            "iso": "2025-10-16",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "SERVOMECHANISM,HYDR",
+            "sub": "Department of the Navy · US$557K · 2025–2026",
+            "status": "Contract",
+            "date": "08 Sep 2025",
+            "iso": "2025-09-08",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "Contract SPE4A726P9511",
+            "sub": "Defense Logistics Agency · US$526K · 2026–2027",
+            "status": "Contract",
+            "date": "28 May 2026",
+            "iso": "2026-05-28",
+            "ongoing": true,
+            "src": 7
+          },
+          {
+            "title": "Cylinder ASSEMBLY,A in suppport of the B-52 C-130",
+            "sub": "Defense Logistics Agency · US$392K · 2026–2027",
+            "status": "Contract",
+            "date": "23 Mar 2026",
+            "iso": "2026-03-23",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "Contract SPRPA125P0533",
+            "sub": "Defense Logistics Agency · US$366K · 2024–2026",
+            "status": "Contract",
+            "date": "27 Dec 2024",
+            "iso": "2024-12-27",
+            "ongoing": false,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$10.4M · 6 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Navy",
+            "sub": "Customer · US$2.0M · 2 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              5,
+              6
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI D8LDZVAZU3H9",
+            "url": "https://www.usaspending.gov/recipient/23ec4537-173c-e383-8eda-cbe191f0d54f-C/latest"
+          },
+          {
+            "title": "USAspending.gov · SPRTA125C0112",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRTA125C0112_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A626PA487",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A626PA487_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPRTA126C0020",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRTA126C0020_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · N0038326FN600",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0038326FN600_9700_N0038325DN601_9700"
+          },
+          {
+            "title": "USAspending.gov · N0038325CN049",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_N0038325CN049_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE4A726P9511",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE4A726P9511_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPRTA126C0118",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRTA126C0118_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPRPA125P0533",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPRPA125P0533_9700_-NONE-_-NONE-"
+          }
+        ]
+      },
+      "card_hash": "713751683c4ae5b8"
     }
   }
 }
