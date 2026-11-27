@@ -122592,8 +122592,139 @@
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Consultoría y Gestión de Operaciones",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Planificación Aeroportuaria",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Diseño de Infraestructuras Aeroportuarias",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Tecnología para el Aeropuerto",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Sistemas de Aeronaves",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Electrificación",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Sistemas de Control de Vuelo",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Aviónica / Sistemas de Misión y Control",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Cabina Conectada",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Soluciones para Ensayos en Tierra",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Sistemas de Misiles",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "FOX",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Consultoría y Gestión de Operaciones",
+              "Consultoría y Gestión de Operaciones",
+              "grey"
+            ],
+            [
+              "Planificación Aeroportuaria",
+              "Planificación Aeroportuaria",
+              "grey"
+            ],
+            [
+              "Diseño de Infraestructuras Aeroportuarias",
+              "Diseño de Infraestructuras Aeroportuarias",
+              "grey"
+            ],
+            [
+              "Tecnología para el Aeropuerto",
+              "Tecnología para el Aeropuerto",
+              "grey"
+            ],
+            [
+              "Sistemas de Aeronaves",
+              "Sistemas de Aeronaves",
+              "grey"
+            ],
+            [
+              "Electrificación",
+              "Electrificación",
+              "grey"
+            ],
+            [
+              "Sistemas de Control de Vuelo",
+              "Sistemas de Control de Vuelo",
+              "grey"
+            ],
+            [
+              "Aviónica / Sistemas de Misión y Control",
+              "Aviónica / Sistemas de Misión y Control",
+              "grey"
+            ],
+            [
+              "Cabina Conectada",
+              "Cabina Conectada",
+              "grey"
+            ],
+            [
+              "Soluciones para Ensayos en Tierra",
+              "Soluciones para Ensayos en Tierra",
+              "grey"
+            ],
+            [
+              "Sistemas de Misiles",
+              "Sistemas de Misiles",
+              "grey"
+            ],
+            [
+              "FOX",
+              "FOX",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -122709,7 +122840,7 @@
           }
         ]
       },
-      "card_hash": "859928eedd775dfb"
+      "card_hash": "d14c19f2c90ce4fa"
     },
     "astilleros-armon": {
       "developments": [
