@@ -25343,7 +25343,7 @@
       "developments": [
         {
           "date": "12 Dec 2025",
-          "title": "5G COMPAD 2.0 — 5G Communications for Peacekeeping and Defence 2.0",
+          "title": "European Defence Fund project 101218568",
           "tags": [
             "EDF"
           ],
@@ -25352,7 +25352,7 @@
         },
         {
           "date": "16 Dec 2022",
-          "title": "5G COMPAD — 5G COMmunications for Peacekeeping And Defence",
+          "title": "European Defence Fund project 101103519",
           "tags": [
             "EDF"
           ],
@@ -25372,8 +25372,8 @@
         ]
       ],
       "about": {
-        "workspace": "TELENOR ASA is a Norwegian company registered in 2000, with its seat in Fornebu. It takes part in 2 European Defence Fund projects (2022–2025). Of these, 1 ongoing, EU funding to the company €465K.",
-        "overview": "TELENOR ASA is a Norwegian company registered in 2000, with its seat in Fornebu. It takes part in 2 European Defence Fund projects (2022–2025). Of these, 1 ongoing, EU funding to the company €465K."
+        "workspace": "TELENOR ASA is a Norwegian company registered in 2000, with its seat in Fornebu. It takes part in 2 European Defence Fund projects (2022–2025).",
+        "overview": "TELENOR ASA is a Norwegian company registered in 2000, with its seat in Fornebu. It takes part in 2 European Defence Fund projects (2022–2025)."
       },
       "facts": {
         "workspace": [
@@ -25418,51 +25418,122 @@
       "programmes": {
         "workspace": [
           {
-            "title": "5G COMPAD 2.0 — 5G Communications for Peacekeeping and Defence 2.0",
-            "sub": "Participant · EU funding €241K of €25.0M · 28 partners · 2025–2028",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101218568",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
             "icon": "coins",
             "date": "12 Dec 2025",
-            "desc": "EDF EDF-2024-DA-C4ISR-COMS-STEP",
+            "desc": "Call EDF-2024-DA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101218568/EDF"
           },
           {
-            "title": "5G COMPAD — 5G COMmunications for Peacekeeping And Defence",
-            "sub": "Participant · EU funding €224K of €26.9M · 26 partners · 2022–2025",
-            "status": "Grant · Ended",
+            "title": "European Defence Fund project 101103519",
+            "sub": "EU defence research and development · call EDF-2021-C4ISR-D-2",
+            "status": "Grant",
             "icon": "coins",
             "date": "16 Dec 2022",
-            "desc": "EDF EDF-2021-C4ISR-D-COMS-2",
+            "desc": "Call EDF-2021-C4ISR-D-2",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103519/EDF"
           }
         ],
         "overview": [
           {
-            "title": "5G COMPAD 2.0 — 5G Communications for Peacekeeping and Defence 2.0",
-            "sub": "Participant · EU funding €241K of €25.0M · 28 partners · 2025–2028",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101218568",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
             "icon": "coins",
             "date": "12 Dec 2025",
-            "desc": "EDF EDF-2024-DA-C4ISR-COMS-STEP",
+            "desc": "Call EDF-2024-DA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101218568/EDF"
           },
           {
-            "title": "5G COMPAD — 5G COMmunications for Peacekeeping And Defence",
-            "sub": "Participant · EU funding €224K of €26.9M · 26 partners · 2022–2025",
-            "status": "Grant · Ended",
+            "title": "European Defence Fund project 101103519",
+            "sub": "EU defence research and development · call EDF-2021-C4ISR-D-2",
+            "status": "Grant",
             "icon": "coins",
             "date": "16 Dec 2022",
-            "desc": "EDF EDF-2021-C4ISR-D-COMS-2",
+            "desc": "Call EDF-2021-C4ISR-D-2",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103519/EDF"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "WiFi Ruter II",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Svindelforsikring i Sikre",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Smart Feilsøk",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Fiberbredbånd",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "TV- og strømmetjenester",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Mobilabonnement",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "WiFi Ruter II",
+              "Med WiFi Ruter II fra oss garanterer vi at du blir fornøyd med den trådløse dekningen i hjemmet ditt!",
+              "grey"
+            ],
+            [
+              "Svindelforsikring i Sikre",
+              "Med svindelforsikring i Sikre får du hjelp hvis du blir utsatt for svindel på nett.",
+              "grey"
+            ],
+            [
+              "Smart Feilsøk",
+              "Smart Feilsøk Problemer med internett eller tv? Nå kan du prøve ut en ny måte å feilsøke på, eller se status på en allerede meldt feil.",
+              "grey"
+            ],
+            [
+              "Fiberbredbånd",
+              "Kombiner fiberbredbånd, TV- og strømmetjenester i én pakke og få kampanjepris!",
+              "grey"
+            ],
+            [
+              "TV- og strømmetjenester",
+              "Kombiner fiberbredbånd, TV- og strømmetjenester i én pakke og få kampanjepris!",
+              "grey"
+            ],
+            [
+              "Mobilabonnement",
+              "Nå får du 100,- rabatt på vårt tryggeste mobilabonnement.",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -25528,45 +25599,12 @@
       ],
       "page": {
         "v": 2,
-        "lead": "TELENOR ASA is a Norwegian company registered in 2000, with its seat in Fornebu. It takes part in 2 European Defence Fund projects (2022–2025). Of these, 1 ongoing, EU funding to the company €465K.",
+        "lead": "TELENOR ASA is a Norwegian company registered in 2000, with its seat in Fornebu. It takes part in 2 European Defence Fund projects (2022–2025).",
         "lead_src": [
           1,
           2
         ],
-        "figures": [
-          {
-            "value": "€465K",
-            "label": "EU defence funding to the company",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "value": "2",
-            "label": "European Defence Fund projects",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "value": "1",
-            "label": "ongoing now",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "value": "32",
-            "label": "organisations it shares EDF projects with",
-            "src": [
-              2,
-              3
-            ]
-          }
-        ],
+        "figures": [],
         "facts": [
           [
             "2000",
@@ -25586,140 +25624,53 @@
         ],
         "activity": [
           {
-            "title": "5G COMPAD 2.0 — 5G Communications for Peacekeeping and Defence 2.0",
-            "sub": "Participant · EU funding €241K of €25.0M · 28 partners · 2025–2028",
-            "status": "Grant · Ongoing",
-            "date": "12 Dec 2025",
-            "iso": "2025-12-12",
-            "ongoing": true,
-            "src": 2
-          },
-          {
-            "title": "5G COMPAD — 5G COMmunications for Peacekeeping And Defence",
-            "sub": "Participant · EU funding €224K of €26.9M · 26 partners · 2022–2025",
-            "status": "Grant · Ended",
+            "title": "European Defence Fund project 101103519",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "16 Dec 2022",
             "iso": "2022-12-16",
             "ongoing": false,
             "src": 3
+          },
+          {
+            "title": "European Defence Fund project 101218568",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "12 Dec 2025",
+            "iso": "2025-12-12",
+            "ongoing": false,
+            "src": 2
           }
         ],
         "network": [
           {
             "type": "funder",
             "name": "European Commission · European Defence Fund",
-            "sub": "2 grants · €465K",
+            "sub": "2 grants",
             "status": "verified",
             "src": [
               2
             ]
-          },
-          {
-            "type": "partner",
-            "name": "NOKIA NETWORKS FRANCE",
-            "country": "FR",
-            "sub": "3 joint EDF projects",
-            "status": "verified",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "type": "research",
-            "name": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
-            "country": "AT",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "BITTIUM SAFEMOVE OY",
-            "country": "FI",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "BITTIUM WIRELESS OY",
-            "country": "FI",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "CAFA TECH OU",
-            "country": "EE",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "EIGHT BELLS HELLAS I.K.E.",
-            "country": "EL",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "ERICSSON AB",
-            "country": "SE",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "ERICSSON FRANCE",
-            "country": "FR",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              2,
-              3
-            ]
           }
         ],
         "products": [],
+        "news": [],
         "sources": [
           {
             "title": "Company register · Org.nr 982463718",
             "url": "https://data.brreg.no/enhetsregisteret/api/enheter/982463718"
           },
           {
-            "title": "EU Funding & Tenders portal · 5G COMPAD 2.0",
+            "title": "EU Funding & Tenders portal · 101218568",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101218568/EDF"
           },
           {
-            "title": "EU Funding & Tenders portal · 5G COMPAD",
+            "title": "EU Funding & Tenders portal · 101103519",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103519/EDF"
           }
         ]
       },
-      "card_hash": "e2dbdbfbc69f28f6"
+      "card_hash": "6503e0a5d315a30f"
     },
     "teleplan-globe-as": {
       "developments": [
@@ -29536,7 +29487,7 @@
       "developments": [
         {
           "date": "03 Aug 2026",
-          "title": "DEEP-TECH — Disruptive Underwater Technology Capability Enabler for EU Next-Generation Deep-Sea Operations and Autonomous Subsea Technologies",
+          "title": "European Defence Fund project 101303940",
           "tags": [
             "EDF"
           ],
@@ -29556,8 +29507,8 @@
         ]
       ],
       "about": {
-        "workspace": "ALCATEL SUBMARINE NETWORKS is a French company registered in 1992, with its seat in Les Ulis. It takes part in 1 European Defence Fund project (2026). Of these, 1 ongoing, EU funding to the company €897K.",
-        "overview": "ALCATEL SUBMARINE NETWORKS is a French company registered in 1992, with its seat in Les Ulis. It takes part in 1 European Defence Fund project (2026). Of these, 1 ongoing, EU funding to the company €897K."
+        "workspace": "ALCATEL SUBMARINE NETWORKS is a French company registered in 1992, with its seat in Les Ulis. It takes part in 1 European Defence Fund project (2026).",
+        "overview": "ALCATEL SUBMARINE NETWORKS is a French company registered in 1992, with its seat in Les Ulis. It takes part in 1 European Defence Fund project (2026)."
       },
       "facts": {
         "workspace": [
@@ -29602,31 +29553,72 @@
       "programmes": {
         "workspace": [
           {
-            "title": "DEEP-TECH — Disruptive Underwater Technology Capability Enabler for EU Next-Generation Deep-Sea Operations and Autonomous Subsea Technologies",
-            "sub": "Participant · EU funding €897K of €11.6M · 18 partners · 2026–2029",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101303940",
+            "sub": "EU defence research and development · call EDF-2025-LS-RA-DIS",
+            "status": "Grant",
             "icon": "coins",
             "date": "03 Aug 2026",
-            "desc": "EDF EDF-2025-LS-RA-DIS-GDET",
+            "desc": "Call EDF-2025-LS-RA-DIS",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101303940/EDF"
           }
         ],
         "overview": [
           {
-            "title": "DEEP-TECH — Disruptive Underwater Technology Capability Enabler for EU Next-Generation Deep-Sea Operations and Autonomous Subsea Technologies",
-            "sub": "Participant · EU funding €897K of €11.6M · 18 partners · 2026–2029",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101303940",
+            "sub": "EU defence research and development · call EDF-2025-LS-RA-DIS",
+            "status": "Grant",
             "icon": "coins",
             "date": "03 Aug 2026",
-            "desc": "EDF EDF-2025-LS-RA-DIS-GDET",
+            "desc": "Call EDF-2025-LS-RA-DIS",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101303940/EDF"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "OptoDAS",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Subsea optical fibre cable systems",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "SUBSEA CONTROL INFRASTRUCTURE (DC/FO)",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "OptoDAS",
+              "OptoDAS is a highly advanced DAS interrogator recording distributed strain along optical cables induced by acoustic waves and vibrations.",
+              "grey"
+            ],
+            [
+              "Subsea optical fibre cable systems",
+              "designing and installing subsea optical fibre cable systems for long distance powering and high‑speed communications, and for fibre sensing ",
+              "grey"
+            ],
+            [
+              "SUBSEA CONTROL INFRASTRUCTURE (DC/FO)",
+              "SUBSEA CONTROL INFRASTRUCTURE (DC/FO) Delivering large power and communication to subsea production systems (SPS) from onshore or offshore h",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -29684,41 +29676,12 @@
       ],
       "page": {
         "v": 2,
-        "lead": "ALCATEL SUBMARINE NETWORKS is a French company registered in 1992, with its seat in Les Ulis. It takes part in 1 European Defence Fund project (2026). Of these, 1 ongoing, EU funding to the company €897K.",
+        "lead": "ALCATEL SUBMARINE NETWORKS is a French company registered in 1992, with its seat in Les Ulis. It takes part in 1 European Defence Fund project (2026).",
         "lead_src": [
           1,
           2
         ],
-        "figures": [
-          {
-            "value": "€897K",
-            "label": "EU defence funding to the company",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "European Defence Fund projects",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "ongoing now",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "17",
-            "label": "organisations it shares EDF projects with",
-            "src": [
-              2
-            ]
-          }
-        ],
+        "figures": [],
         "facts": [
           [
             "1992",
@@ -29738,12 +29701,12 @@
         ],
         "activity": [
           {
-            "title": "DEEP-TECH — Disruptive Underwater Technology Capability Enabler for EU Next-Generation Deep-Sea Operations and Autonomous Subsea Technologies",
-            "sub": "Participant · EU funding €897K of €11.6M · 18 partners · 2026–2029",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101303940",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "03 Aug 2026",
             "iso": "2026-08-03",
-            "ongoing": true,
+            "ongoing": false,
             "src": 2
           }
         ],
@@ -29751,87 +29714,7 @@
           {
             "type": "funder",
             "name": "European Commission · European Defence Fund",
-            "sub": "1 grant · €897K",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "A. SILVA MATOS - METALOMECANICA S.A.",
-            "country": "PT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS",
-            "country": "ES",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "AKMON VIOMICHANIKI KAI EMPORIKI ANONYMI ETAIREIA",
-            "country": "EL",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
-            "country": "EL",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "EXAIL ROBOTICS",
-            "country": "FR",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "INESC TEC - INSTITUTO DE ENGENHARIADE SISTEMAS E COMPUTADORES, TECNOLOGIA E CIENCIA",
-            "country": "PT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "KOBENHAVNS UNIVERSITET",
-            "country": "DK",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "MINISTERIO DA DEFESA NACIONAL MARINHA",
-            "country": "PT",
-            "sub": "1 joint EDF project",
+            "sub": "1 grant",
             "status": "verified",
             "src": [
               2
@@ -29839,18 +29722,19 @@
           }
         ],
         "products": [],
+        "news": [],
         "sources": [
           {
             "title": "Company register · SIREN 389534256",
             "url": "https://recherche-entreprises.api.gouv.fr/search?q=389534256"
           },
           {
-            "title": "EU Funding & Tenders portal · DEEP-TECH",
+            "title": "EU Funding & Tenders portal · 101303940",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101303940/EDF"
           }
         ]
       },
-      "card_hash": "aad98426842398a7"
+      "card_hash": "0202f3413965ee85"
     },
     "alseamar": {
       "developments": [
