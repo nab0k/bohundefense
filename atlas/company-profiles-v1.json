@@ -149787,6 +149787,214 @@
         ]
       },
       "card_hash": "6902acac515b21cf"
+    },
+    "general-motors": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-27",
+      "status_label": "Reviewed card · 27 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "GENERAL MOTORS LLC is a US company, with its seat in Warren. US federal spending records show US$457K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 27 Nov 2026 across 4 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "GENERAL MOTORS LLC is a US company, with its seat in Warren. US federal spending records show US$457K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 27 Nov 2026 across 4 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Warren, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 54930070NSV60J38I987",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Warren, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 54930070NSV60J38I987",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity GENERAL MOTORS LLC, LEI 54930070NSV60J38I987",
+          "sources": 1,
+          "date": "27 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://search.gleif.org/#/record/54930070NSV60J38I987"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 27 Nov 2026",
+          "sources": 1,
+          "date": "27 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/38304d45-32f6-65ed-c9ce-4c29809b0a5a-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "27 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Warren",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "GENERAL MOTORS LLC is a US company, with its seat in Warren. US federal spending records show US$457K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 27 Nov 2026 across 4 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$457K",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 27 Nov 2026, almost all Defense Logistics Agency",
+            "src": [
+              6
+            ]
+          },
+          {
+            "value": "4",
+            "label": "contracts with activity, FY2026–27, to 27 Nov 2026",
+            "src": [
+              6
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Warren, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 54930070NSV60J38I987",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract SPE7LX26F3101",
+            "sub": "Defense Logistics Agency · US$289K · 2025–2026",
+            "status": "Contract",
+            "date": "23 Oct 2025",
+            "iso": "2025-10-23",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "Contract SPE7LX26F3027",
+            "sub": "Defense Logistics Agency · US$67K · 2025–2026",
+            "status": "Contract",
+            "date": "23 Oct 2025",
+            "iso": "2025-10-23",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "Contract SPE7LX26F569K",
+            "sub": "Defense Logistics Agency · US$52K · 2026",
+            "status": "Contract",
+            "date": "26 Feb 2026",
+            "iso": "2026-02-26",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "Contract SPE7LX26F278V",
+            "sub": "Defense Logistics Agency · US$50K · 2026",
+            "status": "Contract",
+            "date": "22 Jan 2026",
+            "iso": "2026-01-22",
+            "ongoing": false,
+            "src": 5
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$914K · 4 contracts",
+            "status": "verified",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 54930070NSV60J38I987",
+            "url": "https://search.gleif.org/#/record/54930070NSV60J38I987"
+          },
+          {
+            "title": "USAspending.gov · SPE7LX26F3101",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7LX26F3101_9700_SPE7LX22D5006_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE7LX26F3027",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7LX26F3027_9700_SPE7LX24D0036_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE7LX26F569K",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7LX26F569K_9700_SPE7LX24D0036_9700"
+          },
+          {
+            "title": "USAspending.gov · SPE7LX26F278V",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7LX26F278V_9700_SPE7LX24D0036_9700"
+          },
+          {
+            "title": "USAspending.gov · US Department of Defense · FY2026–27, to 27 Nov 2026",
+            "url": "https://www.usaspending.gov/recipient/38304d45-32f6-65ed-c9ce-4c29809b0a5a-C/latest"
+          }
+        ]
+      },
+      "card_hash": "2678eb680534ec81"
     }
   }
 }
