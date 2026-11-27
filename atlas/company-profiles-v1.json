@@ -17683,7 +17683,7 @@
       "developments": [
         {
           "date": "12 Dec 2025",
-          "title": "HYROGLIVE — Hypersonic Radar and Optical signature collecting GLIde VEhicle",
+          "title": "European Defence Fund project 101307740",
           "tags": [
             "EDF"
           ],
@@ -17703,8 +17703,8 @@
         ]
       ],
       "about": {
-        "workspace": "ANDØYA SPACE DEFENCE AS is a Norwegian company registered in 1997, with its seat in Andenes. It takes part in 1 European Defence Fund project (2025). Of these, 1 ongoing, EU funding to the company €3.2M.",
-        "overview": "ANDØYA SPACE DEFENCE AS is a Norwegian company registered in 1997, with its seat in Andenes. It takes part in 1 European Defence Fund project (2025). Of these, 1 ongoing, EU funding to the company €3.2M."
+        "workspace": "ANDØYA SPACE DEFENCE AS is a Norwegian company registered in 1997, with its seat in Andenes. It takes part in 1 European Defence Fund project (2025).",
+        "overview": "ANDØYA SPACE DEFENCE AS is a Norwegian company registered in 1997, with its seat in Andenes. It takes part in 1 European Defence Fund project (2025)."
       },
       "facts": {
         "workspace": [
@@ -17749,31 +17749,82 @@
       "programmes": {
         "workspace": [
           {
-            "title": "HYROGLIVE — Hypersonic Radar and Optical signature collecting GLIde VEhicle",
-            "sub": "Participant · EU funding €3.2M of €78.0M · 23 partners · 2025–2029",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101307740",
+            "sub": "EU defence research and development · call EDF-2024-DA-EUCI-2",
+            "status": "Grant",
             "icon": "coins",
             "date": "12 Dec 2025",
-            "desc": "EDF EDF-2024-DA-EUCI-2-AIRDEF-CHGV",
+            "desc": "Call EDF-2024-DA-EUCI-2",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101307740/EDF"
           }
         ],
         "overview": [
           {
-            "title": "HYROGLIVE — Hypersonic Radar and Optical signature collecting GLIde VEhicle",
-            "sub": "Participant · EU funding €3.2M of €78.0M · 23 partners · 2025–2029",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101307740",
+            "sub": "EU defence research and development · call EDF-2024-DA-EUCI-2",
+            "status": "Grant",
             "icon": "coins",
             "date": "12 Dec 2025",
-            "desc": "EDF EDF-2024-DA-EUCI-2-AIRDEF-CHGV",
+            "desc": "Call EDF-2024-DA-EUCI-2",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101307740/EDF"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Sub‑orbital and science services",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Space education services",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Defence‑related services",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Test range",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Sub‑orbital and science services",
+              "Sub‑orbital and science services",
+              "grey"
+            ],
+            [
+              "Space education services",
+              "Space education services",
+              "grey"
+            ],
+            [
+              "Defence‑related services",
+              "Defence‑related services",
+              "grey"
+            ],
+            [
+              "Test range",
+              "Our test range can perform missions not possible to conduct anywhere else.",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -17831,41 +17882,12 @@
       ],
       "page": {
         "v": 2,
-        "lead": "ANDØYA SPACE DEFENCE AS is a Norwegian company registered in 1997, with its seat in Andenes. It takes part in 1 European Defence Fund project (2025). Of these, 1 ongoing, EU funding to the company €3.2M.",
+        "lead": "ANDØYA SPACE DEFENCE AS is a Norwegian company registered in 1997, with its seat in Andenes. It takes part in 1 European Defence Fund project (2025).",
         "lead_src": [
           1,
           2
         ],
-        "figures": [
-          {
-            "value": "€3.2M",
-            "label": "EU defence funding to the company",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "European Defence Fund projects",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "ongoing now",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "22",
-            "label": "organisations it shares EDF projects with",
-            "src": [
-              2
-            ]
-          }
-        ],
+        "figures": [],
         "facts": [
           [
             "1997",
@@ -17885,12 +17907,12 @@
         ],
         "activity": [
           {
-            "title": "HYROGLIVE — Hypersonic Radar and Optical signature collecting GLIde VEhicle",
-            "sub": "Participant · EU funding €3.2M of €78.0M · 23 partners · 2025–2029",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101307740",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "12 Dec 2025",
             "iso": "2025-12-12",
-            "ongoing": true,
+            "ongoing": false,
             "src": 2
           }
         ],
@@ -17898,87 +17920,7 @@
           {
             "type": "funder",
             "name": "European Commission · European Defence Fund",
-            "sub": "1 grant · €3.2M",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "AALBORG UNIVERSITET",
-            "country": "DK",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "AIRBUS DEFENCE AND SPACE SA",
-            "country": "ES",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "AVIO SPA",
-            "country": "IT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "C.I.R.A. CENTRO ITALIANO RICERCHE AEROSPAZIALI SCPA",
-            "country": "IT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "DIEHL DEFENCE GMBH & CO. KG",
-            "country": "DE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "FRAUNHOFER GESELLSCHAFT ZUR FORDERUNG DER ANGEWANDTEN FORSCHUNG EV",
-            "country": "DE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "HENSOLDT SENSORS GMBH",
-            "country": "DE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "INDRA ESPACIO SLU",
-            "country": "ES",
-            "sub": "1 joint EDF project",
+            "sub": "1 grant",
             "status": "verified",
             "src": [
               2
@@ -17986,18 +17928,19 @@
           }
         ],
         "products": [],
+        "news": [],
         "sources": [
           {
             "title": "Company register · Org.nr 879122392",
             "url": "https://data.brreg.no/enhetsregisteret/api/enheter/879122392"
           },
           {
-            "title": "EU Funding & Tenders portal · HYROGLIVE",
+            "title": "EU Funding & Tenders portal · 101307740",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101307740/EDF"
           }
         ]
       },
-      "card_hash": "dd0dba8bb3fce00b"
+      "card_hash": "857ee4f8c2083462"
     },
     "and-ya-spaceport-as": {
       "developments": [
@@ -73716,12 +73659,12 @@
       "meta": [
         [
           "shield",
-          "Defence participation L3 · verified · contracts with defence customers"
+          "Defence participation L1 · supported · named military products"
         ]
       ],
       "about": {
-        "workspace": "CB SERVIS CENTRUM s.r.o. is a Czech company registered in 1993, with its seat in Borek. EU procurement records (TED) list a contract award by Ministerstvo obrany (17 Sep 2024).",
-        "overview": "CB SERVIS CENTRUM s.r.o. is a Czech company registered in 1993, with its seat in Borek. EU procurement records (TED) list a contract award by Ministerstvo obrany (17 Sep 2024)."
+        "workspace": "CB SERVIS CENTRUM s.r.o. is a Czech company registered in 1993, with its seat in Borek. EU procurement records (TED) list a contract award by Ministerstvo obrany (17 Sep 2024). Its website presents military products including Import a distribuce zbraní, munice a vojenského materiálu.",
+        "overview": "CB SERVIS CENTRUM s.r.o. is a Czech company registered in 1993, with its seat in Borek. EU procurement records (TED) list a contract award by Ministerstvo obrany (17 Sep 2024). Its website presents military products including Import a distribuce zbraní, munice a vojenského materiálu."
       },
       "facts": {
         "workspace": [
@@ -73754,7 +73697,7 @@
         ]
       },
       "attributes": [
-        "Defence L3"
+        "Defence L1"
       ],
       "taxonomy": {
         "domains": [],
@@ -73787,8 +73730,49 @@
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Záruční servis",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Pozáruční servis",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Import a distribuce zbraní, munice a vojenského materiálu",
+          "level": "L0",
+          "icon": "crosshair"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Záruční servis",
+              "Záruční servis – pro veškerý dovážený sortiment",
+              "grey"
+            ],
+            [
+              "Pozáruční servis",
+              "Pozáruční servis – údržba a opravy certifikovanými partnery",
+              "grey"
+            ],
+            [
+              "Import a distribuce zbraní, munice a vojenského materiálu",
+              "Import a distribuce zbraní, munice a vojenského materiálu od roku 1993.",
+              "green"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -73830,6 +73814,14 @@
           "href": "https://ted.europa.eu/en/notice/-/detail/556984-2024"
         },
         {
+          "claim": "Import a distribuce zbraní, munice a vojenského materiálu: “Import a distribuce zbraní, munice a vojenského materiálu od roku 1993.”",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://www.cbservis.com/"
+        },
+        {
           "claim": "Technologies, financials and relationships beyond these records",
           "sources": 0,
           "date": "23 Nov 2026",
@@ -73846,7 +73838,7 @@
       ],
       "page": {
         "v": 2,
-        "lead": "CB SERVIS CENTRUM s.r.o. is a Czech company registered in 1993, with its seat in Borek. EU procurement records (TED) list a contract award by Ministerstvo obrany (17 Sep 2024).",
+        "lead": "CB SERVIS CENTRUM s.r.o. is a Czech company registered in 1993, with its seat in Borek. EU procurement records (TED) list a contract award by Ministerstvo obrany (17 Sep 2024). Its website presents military products including Import a distribuce zbraní, munice a vojenského materiálu.",
         "lead_src": [
           1
         ],
@@ -73888,7 +73880,18 @@
           }
         ],
         "network": [],
-        "products": [],
+        "products": [
+          {
+            "name": "Import a distribuce zbraní, munice a vojenského materiálu",
+            "role": "makes",
+            "status": "supported",
+            "quote": "Import a distribuce zbraní, munice a vojenského materiálu od roku 1993.",
+            "src": [
+              3
+            ]
+          }
+        ],
+        "news": [],
         "sources": [
           {
             "title": "Company register · IČO 48201464",
@@ -73897,10 +73900,14 @@
           {
             "title": "TED notice 556984-2024",
             "url": "https://ted.europa.eu/en/notice/-/detail/556984-2024"
+          },
+          {
+            "title": "Company website",
+            "url": "https://www.cbservis.com/"
           }
         ]
       },
-      "card_hash": "6026091e9a89f0d5"
+      "card_hash": "f5e3cb8f6904b8e3"
     },
     "croy-s-r-o": {
       "developments": [
@@ -97569,8 +97576,89 @@
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "VAMTAC",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Camión TT URO",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "VAMTAC ST5",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "VAMTAC LTV",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "VAMTAC SK",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "TT URO 4WD",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "TT URO URB",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "VAMTAC",
+              "El VAMTAC es una plataforma multipropósito concebida para operar en todo tipo de terrenos y condiciones climáticas, diseñada y fabricada por",
+              "grey"
+            ],
+            [
+              "Camión TT URO",
+              "Desde sus orígenes en 1983, el camión TT URO ha sido una plataforma capaz de afrontar con total garantía y seguridad todos los requerimiento",
+              "grey"
+            ],
+            [
+              "VAMTAC ST5",
+              "VAMTAC ST5 Defensa y seguridad Industria y otros sectores",
+              "grey"
+            ],
+            [
+              "VAMTAC LTV",
+              "VAMTAC LTV Defensa y seguridad Industria y otros sectores",
+              "grey"
+            ],
+            [
+              "VAMTAC SK",
+              "VAMTAC SK Defensa y seguridad Industria y otros sectores",
+              "grey"
+            ],
+            [
+              "TT URO 4WD",
+              "TT URO 4WD Defensa y seguridad Industria y otros sectores",
+              "grey"
+            ],
+            [
+              "TT URO URB",
+              "TT URO URB Industria y otros sectores",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -97759,7 +97847,7 @@
           }
         ]
       },
-      "card_hash": "4314abf5f29620d1"
+      "card_hash": "d05a392443f0efba"
     },
     "aditerna-gmbh": {
       "developments": [
