@@ -66387,7 +66387,7 @@
       "developments": [
         {
           "date": "18 Nov 2024",
-          "title": "NEMO — NEMO (laNguagE Modules develOpment) will develop a demonstrator of a variety of Human Language Technologies (HLTs) tailored on the needs of Defence, especially user-driven adaptation.",
+          "title": "European Defence Fund project 101167770",
           "tags": [
             "EDF"
           ],
@@ -66407,8 +66407,8 @@
         ]
       ],
       "about": {
-        "workspace": "Lingsoft Language Services Oy is a Finnish company registered in 1994, with its seat in Turku. It takes part in 1 European Defence Fund project (2024). Of these, 1 ongoing, EU funding to the company €162K.",
-        "overview": "Lingsoft Language Services Oy is a Finnish company registered in 1994, with its seat in Turku. It takes part in 1 European Defence Fund project (2024). Of these, 1 ongoing, EU funding to the company €162K."
+        "workspace": "Lingsoft Language Services Oy is a Finnish company registered in 1994, with its seat in Turku. It takes part in 1 European Defence Fund project (2024).",
+        "overview": "Lingsoft Language Services Oy is a Finnish company registered in 1994, with its seat in Turku. It takes part in 1 European Defence Fund project (2024)."
       },
       "facts": {
         "workspace": [
@@ -66453,31 +66453,52 @@
       "programmes": {
         "workspace": [
           {
-            "title": "NEMO — NEMO (laNguagE Modules develOpment) will develop a demonstrator of a variety of Human Language Technologies (HLTs) tailored on the needs of Defence, especially user-driven adaptation.",
-            "sub": "Partner · EU funding €162K of €6.0M · 15 partners · 2024–2029",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101167770",
+            "sub": "EU defence research and development · call EDF-2023-LS-RA-CHALLENGE",
+            "status": "Grant",
             "icon": "coins",
             "date": "18 Nov 2024",
-            "desc": "EDF EDF-2023-LS-RA-CHALLENGE-DIGIT-HLTP",
+            "desc": "Call EDF-2023-LS-RA-CHALLENGE",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167770/EDF"
           }
         ],
         "overview": [
           {
-            "title": "NEMO — NEMO (laNguagE Modules develOpment) will develop a demonstrator of a variety of Human Language Technologies (HLTs) tailored on the needs of Defence, especially user-driven adaptation.",
-            "sub": "Partner · EU funding €162K of €6.0M · 15 partners · 2024–2029",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101167770",
+            "sub": "EU defence research and development · call EDF-2023-LS-RA-CHALLENGE",
+            "status": "Grant",
             "icon": "coins",
             "date": "18 Nov 2024",
-            "desc": "EDF EDF-2023-LS-RA-CHALLENGE-DIGIT-HLTP",
+            "desc": "Call EDF-2023-LS-RA-CHALLENGE",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167770/EDF"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Lingsoft Quality Checker",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Lingsoft Quality Checker",
+              "Focus on the message and let the Lingsoft quality checker take care of the details.",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -66535,41 +66556,12 @@
       ],
       "page": {
         "v": 2,
-        "lead": "Lingsoft Language Services Oy is a Finnish company registered in 1994, with its seat in Turku. It takes part in 1 European Defence Fund project (2024). Of these, 1 ongoing, EU funding to the company €162K.",
+        "lead": "Lingsoft Language Services Oy is a Finnish company registered in 1994, with its seat in Turku. It takes part in 1 European Defence Fund project (2024).",
         "lead_src": [
           1,
           2
         ],
-        "figures": [
-          {
-            "value": "€162K",
-            "label": "EU defence funding to the company",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "European Defence Fund projects",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "ongoing now",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "13",
-            "label": "organisations it shares EDF projects with",
-            "src": [
-              2
-            ]
-          }
-        ],
+        "figures": [],
         "facts": [
           [
             "1994",
@@ -66589,12 +66581,12 @@
         ],
         "activity": [
           {
-            "title": "NEMO — NEMO (laNguagE Modules develOpment) will develop a demonstrator of a variety of Human Language Technologies (HLTs) tailored on the needs of Defence, especially user-driven adaptation.",
-            "sub": "Partner · EU funding €162K of €6.0M · 15 partners · 2024–2029",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101167770",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "18 Nov 2024",
             "iso": "2024-11-18",
-            "ongoing": true,
+            "ongoing": false,
             "src": 2
           }
         ],
@@ -66602,97 +66594,7 @@
           {
             "type": "funder",
             "name": "European Commission · European Defence Fund",
-            "sub": "1 grant · €162K",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "group",
-            "name": "Lingsoft Oy",
-            "country": "FI",
-            "src": [
-              2
-            ],
-            "sub": "Group entity · in NEMO",
-            "status": "verified"
-          },
-          {
-            "type": "partner",
-            "name": "AFSEA SEKTSIA SOFIA",
-            "country": "BG",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "DEFENCE RESEARCH INSTITUTE",
-            "country": "FR",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "ETRA INVESTIGACION Y DESARROLLO SA",
-            "country": "ES",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "INTELLIGENCE CULTURE AND STRATEGICANALYSIS",
-            "country": "IT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "KAIRNTECH",
-            "country": "FR",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "READ COOP SCE MIT BESCHRANKTER HAFTUNG",
-            "country": "AT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "SINTEF AS",
-            "country": "NO",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "TECOMS SRL",
-            "country": "IT",
-            "sub": "1 joint EDF project",
+            "sub": "1 grant",
             "status": "verified",
             "src": [
               2
@@ -66700,18 +66602,19 @@
           }
         ],
         "products": [],
+        "news": [],
         "sources": [
           {
             "title": "Company register · Y-tunnus 0961030-7",
             "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=0961030-7"
           },
           {
-            "title": "EU Funding & Tenders portal · NEMO",
+            "title": "EU Funding & Tenders portal · 101167770",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167770/EDF"
           }
         ]
       },
-      "card_hash": "3e7a1cddc5b4aee9"
+      "card_hash": "a2808cac1ef59606"
     },
     "lingsoft-oy": {
       "developments": [
