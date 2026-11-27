@@ -21474,7 +21474,7 @@
       "developments": [
         {
           "date": "07 Dec 2022",
-          "title": "dTHOR — Digital Ship Structural Health Monitoring",
+          "title": "European Defence Fund project 101103257",
           "tags": [
             "EDF"
           ],
@@ -21490,12 +21490,12 @@
       "meta": [
         [
           "shield",
-          "Defence participation L3 · verified · European Defence Fund projects"
+          "Defence participation L1 · supported · named military products"
         ]
       ],
       "about": {
-        "workspace": "LIGHT STRUCTURES AS is a Norwegian company registered in 2001, with its seat in Oslo. It takes part in 1 European Defence Fund project (2022). Of these, EU funding to the company €431K.",
-        "overview": "LIGHT STRUCTURES AS is a Norwegian company registered in 2001, with its seat in Oslo. It takes part in 1 European Defence Fund project (2022). Of these, EU funding to the company €431K."
+        "workspace": "LIGHT STRUCTURES AS is a Norwegian company registered in 2001, with its seat in Oslo. It takes part in 1 European Defence Fund project (2022). Its website presents military products including Hull Stress Monitoring system.",
+        "overview": "LIGHT STRUCTURES AS is a Norwegian company registered in 2001, with its seat in Oslo. It takes part in 1 European Defence Fund project (2022). Its website presents military products including Hull Stress Monitoring system."
       },
       "facts": {
         "workspace": [
@@ -21528,7 +21528,7 @@
         ]
       },
       "attributes": [
-        "Defence L3"
+        "Defence L1"
       ],
       "taxonomy": {
         "domains": [],
@@ -21540,31 +21540,72 @@
       "programmes": {
         "workspace": [
           {
-            "title": "dTHOR — Digital Ship Structural Health Monitoring",
-            "sub": "Participant · EU funding €431K of €14.5M · 37 partners · 2022–2025",
-            "status": "Grant · Ended",
+            "title": "European Defence Fund project 101103257",
+            "sub": "EU defence research and development · call EDF-2021-NAVAL-R-2",
+            "status": "Grant",
             "icon": "coins",
             "date": "07 Dec 2022",
-            "desc": "EDF EDF-2021-NAVAL-R-SSHM-2",
+            "desc": "Call EDF-2021-NAVAL-R-2",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103257/EDF"
           }
         ],
         "overview": [
           {
-            "title": "dTHOR — Digital Ship Structural Health Monitoring",
-            "sub": "Participant · EU funding €431K of €14.5M · 37 partners · 2022–2025",
-            "status": "Grant · Ended",
+            "title": "European Defence Fund project 101103257",
+            "sub": "EU defence research and development · call EDF-2021-NAVAL-R-2",
+            "status": "Grant",
             "icon": "coins",
             "date": "07 Dec 2022",
-            "desc": "EDF EDF-2021-NAVAL-R-SSHM-2",
+            "desc": "Call EDF-2021-NAVAL-R-2",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103257/EDF"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Hull Stress Monitoring system",
+          "level": "L0",
+          "icon": "crosshair",
+          "selected": true
+        },
+        {
+          "label": "SENSFIB Fatigue Monitoring™",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "SENSFIB Design Evaluation™",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Hull Stress Monitoring system",
+              "Our Hull Stress Monitoring system can help you combat this.",
+              "green"
+            ],
+            [
+              "SENSFIB Fatigue Monitoring™",
+              "SENSFIB Fatigue Monitoring™ based on rain flow counting from actual stress histories.",
+              "grey"
+            ],
+            [
+              "SENSFIB Design Evaluation™",
+              "SENSFIB Design Evaluation™ is an advisory function for tracking the actual fatigue damage accumulation compared to the fatigue design and hu",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -21606,6 +21647,14 @@
           "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103257/EDF"
         },
         {
+          "claim": "Hull Stress Monitoring system: “Our Hull Stress Monitoring system can help you combat this.”",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://www.lightstructures.com/solutions-and-systems/"
+        },
+        {
           "claim": "Technologies, financials and relationships beyond these records",
           "sources": 0,
           "date": "21 Nov 2026",
@@ -21622,34 +21671,12 @@
       ],
       "page": {
         "v": 2,
-        "lead": "LIGHT STRUCTURES AS is a Norwegian company registered in 2001, with its seat in Oslo. It takes part in 1 European Defence Fund project (2022). Of these, EU funding to the company €431K.",
+        "lead": "LIGHT STRUCTURES AS is a Norwegian company registered in 2001, with its seat in Oslo. It takes part in 1 European Defence Fund project (2022). Its website presents military products including Hull Stress Monitoring system.",
         "lead_src": [
           1,
           2
         ],
-        "figures": [
-          {
-            "value": "€431K",
-            "label": "EU defence funding to the company",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "European Defence Fund projects",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "36",
-            "label": "organisations it shares EDF projects with",
-            "src": [
-              2
-            ]
-          }
-        ],
+        "figures": [],
         "facts": [
           [
             "2001",
@@ -21669,9 +21696,9 @@
         ],
         "activity": [
           {
-            "title": "dTHOR — Digital Ship Structural Health Monitoring",
-            "sub": "Participant · EU funding €431K of €14.5M · 37 partners · 2022–2025",
-            "status": "Grant · Ended",
+            "title": "European Defence Fund project 101103257",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "07 Dec 2022",
             "iso": "2022-12-07",
             "ongoing": false,
@@ -21682,106 +21709,41 @@
           {
             "type": "funder",
             "name": "European Commission · European Defence Fund",
-            "sub": "1 grant · €431K",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "CAFA TECH OU",
-            "country": "EE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "CETENA SPA CENTRO PER GLI STUDI DI TECNICA NAVALE",
-            "country": "IT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
-            "country": "FR",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "CONSIGLIO NAZIONALE DELLE RICERCHE",
-            "country": "IT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "DAMEN NAVAL BV",
-            "country": "NL",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "DAMEN SCHELDE NAVAL SHIPBUILDING BV",
-            "country": "NL",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "ECOLE NATIONALE SUPERIEURE D'ARTS ET METIERS",
-            "country": "FR",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "ETHNICON METSOVION POLYTECHNION",
-            "country": "EL",
-            "sub": "1 joint EDF project",
+            "sub": "1 grant",
             "status": "verified",
             "src": [
               2
             ]
           }
         ],
-        "products": [],
+        "products": [
+          {
+            "name": "Hull Stress Monitoring system",
+            "role": "makes",
+            "status": "supported",
+            "quote": "Our Hull Stress Monitoring system can help you combat this.",
+            "src": [
+              3
+            ]
+          }
+        ],
+        "news": [],
         "sources": [
           {
             "title": "Company register · Org.nr 984060084",
             "url": "https://data.brreg.no/enhetsregisteret/api/enheter/984060084"
           },
           {
-            "title": "EU Funding & Tenders portal · dTHOR",
+            "title": "EU Funding & Tenders portal · 101103257",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103257/EDF"
+          },
+          {
+            "title": "Company website",
+            "url": "https://www.lightstructures.com/solutions-and-systems/"
           }
         ]
       },
-      "card_hash": "169e60d9027d0777"
+      "card_hash": "5f3cb707d091d70a"
     },
     "maritime-robotics-as": {
       "developments": [
