@@ -133678,8 +133678,139 @@
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Dräger Foam Extinguisher PFAS free",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Dräger ConHub",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Dräger life jacket 275N SOLAS Offshore",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Dräger x-am 8000",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Immersion suits",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "EEBDs",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Safety showers",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Hydrants",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Firewater monitors",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Deluge systems",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Gaseous extinguishing systems",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Hose reels",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Dräger Foam Extinguisher PFAS free",
+              "Dräger Foam Extinguisher PFAS free 9 liter AB (stored pressure) - frost resistant - MED SG00111",
+              "grey"
+            ],
+            [
+              "Dräger ConHub",
+              "Dräger ConHub, including 1 rechargeable battery without charger 3729600",
+              "grey"
+            ],
+            [
+              "Dräger life jacket 275N SOLAS Offshore",
+              "Dräger life jacket 275N SOLAS Offshore with light, crotch strap and sprayhood SG05496",
+              "grey"
+            ],
+            [
+              "Dräger x-am 8000",
+              "Dräger x-am 8000 basic instrument 8325800",
+              "grey"
+            ],
+            [
+              "Immersion suits",
+              "Immersion suits",
+              "grey"
+            ],
+            [
+              "EEBDs",
+              "EEBDs",
+              "grey"
+            ],
+            [
+              "Safety showers",
+              "Safety showers",
+              "grey"
+            ],
+            [
+              "Hydrants",
+              "Hydrants",
+              "grey"
+            ],
+            [
+              "Firewater monitors",
+              "Firewater monitors",
+              "grey"
+            ],
+            [
+              "Deluge systems",
+              "Deluge systems",
+              "grey"
+            ],
+            [
+              "Gaseous extinguishing systems",
+              "Gaseous extinguishing systems",
+              "grey"
+            ],
+            [
+              "Hose reels",
+              "Hose reels",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -133792,7 +133923,7 @@
           }
         ]
       },
-      "card_hash": "9567ecd539fbce6e"
+      "card_hash": "6f9ac40b4429e7a1"
     },
     "northrop-grumman-systems-corporation": {
       "developments": [],
