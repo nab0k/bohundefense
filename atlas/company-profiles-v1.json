@@ -43192,7 +43192,7 @@
       "developments": [
         {
           "date": "18 Nov 2024",
-          "title": "NEMO — NEMO (laNguagE Modules develOpment) will develop a demonstrator of a variety of Human Language Technologies (HLTs) tailored on the needs of Defence, especially user-driven adaptation.",
+          "title": "European Defence Fund project 101167770",
           "tags": [
             "EDF"
           ],
@@ -43212,8 +43212,8 @@
         ]
       ],
       "about": {
-        "workspace": "KAIRNTECH is a French company registered in 2018, with its seat in Meylan. It takes part in 1 European Defence Fund project (2024). Of these, 1 ongoing, EU funding to the company €720K.",
-        "overview": "KAIRNTECH is a French company registered in 2018, with its seat in Meylan. It takes part in 1 European Defence Fund project (2024). Of these, 1 ongoing, EU funding to the company €720K."
+        "workspace": "KAIRNTECH is a French company registered in 2018, with its seat in Meylan. It takes part in 1 European Defence Fund project (2024).",
+        "overview": "KAIRNTECH is a French company registered in 2018, with its seat in Meylan. It takes part in 1 European Defence Fund project (2024)."
       },
       "facts": {
         "workspace": [
@@ -43258,31 +43258,162 @@
       "programmes": {
         "workspace": [
           {
-            "title": "NEMO — NEMO (laNguagE Modules develOpment) will develop a demonstrator of a variety of Human Language Technologies (HLTs) tailored on the needs of Defence, especially user-driven adaptation.",
-            "sub": "Participant · EU funding €720K of €6.0M · 15 partners · 2024–2029",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101167770",
+            "sub": "EU defence research and development · call EDF-2023-LS-RA-CHALLENGE",
+            "status": "Grant",
             "icon": "coins",
             "date": "18 Nov 2024",
-            "desc": "EDF EDF-2023-LS-RA-CHALLENGE-DIGIT-HLTP",
+            "desc": "Call EDF-2023-LS-RA-CHALLENGE",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167770/EDF"
           }
         ],
         "overview": [
           {
-            "title": "NEMO — NEMO (laNguagE Modules develOpment) will develop a demonstrator of a variety of Human Language Technologies (HLTs) tailored on the needs of Defence, especially user-driven adaptation.",
-            "sub": "Participant · EU funding €720K of €6.0M · 15 partners · 2024–2029",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101167770",
+            "sub": "EU defence research and development · call EDF-2023-LS-RA-CHALLENGE",
+            "status": "Grant",
             "icon": "coins",
             "date": "18 Nov 2024",
-            "desc": "EDF EDF-2023-LS-RA-CHALLENGE-DIGIT-HLTP",
+            "desc": "Call EDF-2023-LS-RA-CHALLENGE",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167770/EDF"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Kairntech Chatbot",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Kairntech Studio",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Kairntech software",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Kairntech consulting",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Document Q&A",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Agentic RAG Chatbots",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Semantic Enrichment",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Compliance with EmpCo",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "REST API",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Procurement chatbot",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Sales chatbot",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Custom workflow",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Kairntech Chatbot",
+              "Kairntech Chatbot Query an AI assistant in real conditions",
+              "grey"
+            ],
+            [
+              "Kairntech Studio",
+              "Kairntech Studio Explore the full low-code platform",
+              "grey"
+            ],
+            [
+              "Kairntech software",
+              "Kairntech software",
+              "grey"
+            ],
+            [
+              "Kairntech consulting",
+              "Kairntech consulting",
+              "grey"
+            ],
+            [
+              "Document Q&A",
+              "Document Q&A",
+              "grey"
+            ],
+            [
+              "Agentic RAG Chatbots",
+              "Agentic RAG Chatbots",
+              "grey"
+            ],
+            [
+              "Semantic Enrichment",
+              "Semantic Enrichment",
+              "grey"
+            ],
+            [
+              "Compliance with EmpCo",
+              "Compliance with EmpCo",
+              "grey"
+            ],
+            [
+              "REST API",
+              "REST API",
+              "grey"
+            ],
+            [
+              "Procurement chatbot",
+              "Procurement chatbot",
+              "grey"
+            ],
+            [
+              "Sales chatbot",
+              "Sales chatbot",
+              "grey"
+            ],
+            [
+              "Custom workflow",
+              "Custom workflow Build your own team",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -43340,41 +43471,12 @@
       ],
       "page": {
         "v": 2,
-        "lead": "KAIRNTECH is a French company registered in 2018, with its seat in Meylan. It takes part in 1 European Defence Fund project (2024). Of these, 1 ongoing, EU funding to the company €720K.",
+        "lead": "KAIRNTECH is a French company registered in 2018, with its seat in Meylan. It takes part in 1 European Defence Fund project (2024).",
         "lead_src": [
           1,
           2
         ],
-        "figures": [
-          {
-            "value": "€720K",
-            "label": "EU defence funding to the company",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "European Defence Fund projects",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "ongoing now",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "14",
-            "label": "organisations it shares EDF projects with",
-            "src": [
-              2
-            ]
-          }
-        ],
+        "figures": [],
         "facts": [
           [
             "2018",
@@ -43394,12 +43496,12 @@
         ],
         "activity": [
           {
-            "title": "NEMO — NEMO (laNguagE Modules develOpment) will develop a demonstrator of a variety of Human Language Technologies (HLTs) tailored on the needs of Defence, especially user-driven adaptation.",
-            "sub": "Participant · EU funding €720K of €6.0M · 15 partners · 2024–2029",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101167770",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "18 Nov 2024",
             "iso": "2024-11-18",
-            "ongoing": true,
+            "ongoing": false,
             "src": 2
           }
         ],
@@ -43407,87 +43509,7 @@
           {
             "type": "funder",
             "name": "European Commission · European Defence Fund",
-            "sub": "1 grant · €720K",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "AFSEA SEKTSIA SOFIA",
-            "country": "BG",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "DEFENCE RESEARCH INSTITUTE",
-            "country": "FR",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "ETRA INVESTIGACION Y DESARROLLO SA",
-            "country": "ES",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "INTELLIGENCE CULTURE AND STRATEGICANALYSIS",
-            "country": "IT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "LINGSOFT OY",
-            "country": "FI",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "LINGSOFT LANGUAGE SERVICES OY",
-            "country": "FI",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "READ COOP SCE MIT BESCHRANKTER HAFTUNG",
-            "country": "AT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "SINTEF AS",
-            "country": "NO",
-            "sub": "1 joint EDF project",
+            "sub": "1 grant",
             "status": "verified",
             "src": [
               2
@@ -43495,18 +43517,19 @@
           }
         ],
         "products": [],
+        "news": [],
         "sources": [
           {
             "title": "Company register · SIREN 844751636",
             "url": "https://recherche-entreprises.api.gouv.fr/search?q=844751636"
           },
           {
-            "title": "EU Funding & Tenders portal · NEMO",
+            "title": "EU Funding & Tenders portal · 101167770",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167770/EDF"
           }
         ]
       },
-      "card_hash": "340e79e3781bcc52"
+      "card_hash": "722a30def53ef799"
     },
     "knds-ammo-france": {
       "developments": [
@@ -47822,7 +47845,7 @@
       "developments": [
         {
           "date": "16 Dec 2022",
-          "title": "AGAMI_EURIGAMI — European Innovative GaN Advanced Microwave Integration",
+          "title": "European Defence Fund project 101102983",
           "tags": [
             "EDF"
           ],
@@ -47831,7 +47854,7 @@
         },
         {
           "date": "08 Dec 2022",
-          "title": "POWERPACK — Novel 3D heterogeneous integration for future miniaturized power RF Transceiver front ends",
+          "title": "European Defence Fund project 101102564",
           "tags": [
             "EDF"
           ],
@@ -47851,8 +47874,8 @@
         ]
       ],
       "about": {
-        "workspace": "MICROWAVE CHARACTERIZATION CENTER is a French company registered in 2004, with its seat in Villeneuve-D'Ascq. It takes part in 2 European Defence Fund projects (2022). Of these, 1 ongoing, EU funding to the company €560K.",
-        "overview": "MICROWAVE CHARACTERIZATION CENTER is a French company registered in 2004, with its seat in Villeneuve-D'Ascq. It takes part in 2 European Defence Fund projects (2022). Of these, 1 ongoing, EU funding to the company €560K."
+        "workspace": "MICROWAVE CHARACTERIZATION CENTER is a French company registered in 2004, with its seat in Villeneuve-D'Ascq. It takes part in 2 European Defence Fund projects (2022).",
+        "overview": "MICROWAVE CHARACTERIZATION CENTER is a French company registered in 2004, with its seat in Villeneuve-D'Ascq. It takes part in 2 European Defence Fund projects (2022)."
       },
       "facts": {
         "workspace": [
@@ -47897,51 +47920,122 @@
       "programmes": {
         "workspace": [
           {
-            "title": "AGAMI_EURIGAMI — European Innovative GaN Advanced Microwave Integration",
-            "sub": "Participant · EU funding €326K of €24.6M · 35 partners · 2022–2026",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101102983",
+            "sub": "EU defence research and development · call EDF-2021-MATCOMP-R-2",
+            "status": "Grant",
             "icon": "coins",
             "date": "16 Dec 2022",
-            "desc": "EDF EDF-2021-MATCOMP-R-RF-2",
+            "desc": "Call EDF-2021-MATCOMP-R-2",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102983/EDF"
           },
           {
-            "title": "POWERPACK — Novel 3D heterogeneous integration for future miniaturized power RF Transceiver front ends",
-            "sub": "Participant · EU funding €234K of €3.5M · 10 partners · 2022–2026",
-            "status": "Grant · Ended",
+            "title": "European Defence Fund project 101102564",
+            "sub": "EU defence research and development · call EDF-2021-OPEN-RDIS-2",
+            "status": "Grant",
             "icon": "coins",
             "date": "08 Dec 2022",
-            "desc": "EDF EDF-2021-OPEN-RDIS-Open-2",
+            "desc": "Call EDF-2021-OPEN-RDIS-2",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102564/EDF"
           }
         ],
         "overview": [
           {
-            "title": "AGAMI_EURIGAMI — European Innovative GaN Advanced Microwave Integration",
-            "sub": "Participant · EU funding €326K of €24.6M · 35 partners · 2022–2026",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101102983",
+            "sub": "EU defence research and development · call EDF-2021-MATCOMP-R-2",
+            "status": "Grant",
             "icon": "coins",
             "date": "16 Dec 2022",
-            "desc": "EDF EDF-2021-MATCOMP-R-RF-2",
+            "desc": "Call EDF-2021-MATCOMP-R-2",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102983/EDF"
           },
           {
-            "title": "POWERPACK — Novel 3D heterogeneous integration for future miniaturized power RF Transceiver front ends",
-            "sub": "Participant · EU funding €234K of €3.5M · 10 partners · 2022–2026",
-            "status": "Grant · Ended",
+            "title": "European Defence Fund project 101102564",
+            "sub": "EU defence research and development · call EDF-2021-OPEN-RDIS-2",
+            "status": "Grant",
             "icon": "coins",
             "date": "08 Dec 2022",
-            "desc": "EDF EDF-2021-OPEN-RDIS-Open-2",
+            "desc": "Call EDF-2021-OPEN-RDIS-2",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102564/EDF"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "MAJES DFB6",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "SPART",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "MERCAT",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "HADDES",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "R&D",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Services",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "MAJES DFB6",
+              "le système de neutralisation MAJES DFB6, récemment labellisé UAF (Utilisé par les Armées Françaises).",
+              "grey"
+            ],
+            [
+              "SPART",
+              "le brouilleur intelligent portatif anti RC-IED nouvelle génération SPART",
+              "grey"
+            ],
+            [
+              "MERCAT",
+              "le senseur radiofréquences de détection de drones MERCAT",
+              "grey"
+            ],
+            [
+              "HADDES",
+              "le senseur radiofréquences de détection de drones HADDES",
+              "grey"
+            ],
+            [
+              "R&D",
+              "R&D",
+              "grey"
+            ],
+            [
+              "Services",
+              "Services",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -48007,45 +48101,12 @@
       ],
       "page": {
         "v": 2,
-        "lead": "MICROWAVE CHARACTERIZATION CENTER is a French company registered in 2004, with its seat in Villeneuve-D'Ascq. It takes part in 2 European Defence Fund projects (2022). Of these, 1 ongoing, EU funding to the company €560K.",
+        "lead": "MICROWAVE CHARACTERIZATION CENTER is a French company registered in 2004, with its seat in Villeneuve-D'Ascq. It takes part in 2 European Defence Fund projects (2022).",
         "lead_src": [
           1,
           2
         ],
-        "figures": [
-          {
-            "value": "€560K",
-            "label": "EU defence funding to the company",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "value": "2",
-            "label": "European Defence Fund projects",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "value": "1",
-            "label": "ongoing now",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "value": "38",
-            "label": "organisations it shares EDF projects with",
-            "src": [
-              2,
-              3
-            ]
-          }
-        ],
+        "figures": [],
         "facts": [
           [
             "2004",
@@ -48065,113 +48126,29 @@
         ],
         "activity": [
           {
-            "title": "AGAMI_EURIGAMI — European Innovative GaN Advanced Microwave Integration",
-            "sub": "Participant · EU funding €326K of €24.6M · 35 partners · 2022–2026",
-            "status": "Grant · Ongoing",
-            "date": "16 Dec 2022",
-            "iso": "2022-12-16",
-            "ongoing": true,
-            "src": 2
-          },
-          {
-            "title": "POWERPACK — Novel 3D heterogeneous integration for future miniaturized power RF Transceiver front ends",
-            "sub": "Participant · EU funding €234K of €3.5M · 10 partners · 2022–2026",
-            "status": "Grant · Ended",
+            "title": "European Defence Fund project 101102564",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "08 Dec 2022",
             "iso": "2022-12-08",
             "ongoing": false,
             "src": 3
+          },
+          {
+            "title": "European Defence Fund project 101102983",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "16 Dec 2022",
+            "iso": "2022-12-16",
+            "ongoing": false,
+            "src": 2
           }
         ],
         "network": [
           {
             "type": "funder",
             "name": "European Commission · European Defence Fund",
-            "sub": "2 grants · €560K",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "CIRCUITS INTEGRATED HELLAS AE",
-            "country": "EL",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "type": "research",
-            "name": "FRAUNHOFER GESELLSCHAFT ZUR FORDERUNG DER ANGEWANDTEN FORSCHUNG EV",
-            "country": "DE",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "type": "research",
-            "name": "IDRYMA TECHNOLOGIAS KAI EREVNAS",
-            "country": "EL",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "type": "research",
-            "name": "INSTITUTUL NATIONAL DE CERCETAREDEZVOLTARE PENTRU MICROTEHNOLOGIE",
-            "country": "RO",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "UNITED MONOLITHIC SEMICONDUCTORS GMBH",
-            "country": "DE",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "AIRBUS DEFENCE AND SPACE SA",
-            "country": "ES",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "ARISTOTELIO PANEPISTIMIO THESSALONIKIS",
-            "country": "EL",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              3
-            ]
-          },
-          {
-            "type": "research",
-            "name": "BALTIJOS PAZANGIU TECHNOLOGIJU INSTITUTAS",
-            "country": "LT",
-            "sub": "1 joint EDF project",
+            "sub": "2 grants",
             "status": "verified",
             "src": [
               2
@@ -48179,22 +48156,23 @@
           }
         ],
         "products": [],
+        "news": [],
         "sources": [
           {
             "title": "Company register · SIREN 452386121",
             "url": "https://recherche-entreprises.api.gouv.fr/search?q=452386121"
           },
           {
-            "title": "EU Funding & Tenders portal · AGAMI_EURIGAMI",
+            "title": "EU Funding & Tenders portal · 101102983",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102983/EDF"
           },
           {
-            "title": "EU Funding & Tenders portal · POWERPACK",
+            "title": "EU Funding & Tenders portal · 101102564",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102564/EDF"
           }
         ]
       },
-      "card_hash": "3d9288ad90dba323"
+      "card_hash": "ba17d42e83947976"
     },
     "nex-vision": {
       "developments": [
@@ -96301,7 +96279,7 @@
       "developments": [
         {
           "date": "28 Nov 2025",
-          "title": "NEREUS — Naval systEm of systems and integRatEd sUrvivability of future EU platformS",
+          "title": "European Defence Fund project 101224749",
           "tags": [
             "EDF"
           ],
@@ -96310,7 +96288,7 @@
         },
         {
           "date": "13 Nov 2025",
-          "title": "ePERFECT — European High-Performance Processor for RF Defense Applications",
+          "title": "European Defence Fund project 101224231",
           "tags": [
             "EDF"
           ],
@@ -96326,12 +96304,12 @@
       "meta": [
         [
           "shield",
-          "Defence participation L3 · verified · European Defence Fund projects"
+          "Defence participation L1 · supported · named military products"
         ]
       ],
       "about": {
-        "workspace": "TKMS Hagenuk Marinekommunikation GmbH is a German company registered in 1971, with its seat in Flintbek. It takes part in 2 European Defence Fund projects (2025). Of these, 2 ongoing, EU funding to the company €3.5M.",
-        "overview": "TKMS Hagenuk Marinekommunikation GmbH is a German company registered in 1971, with its seat in Flintbek. It takes part in 2 European Defence Fund projects (2025). Of these, 2 ongoing, EU funding to the company €3.5M."
+        "workspace": "TKMS Hagenuk Marinekommunikation GmbH is a German company registered in 1971, with its seat in Flintbek. It takes part in 2 European Defence Fund projects (2025). Its website presents military products including HDW Class 212CD, Trainer System.",
+        "overview": "TKMS Hagenuk Marinekommunikation GmbH is a German company registered in 1971, with its seat in Flintbek. It takes part in 2 European Defence Fund projects (2025). Its website presents military products including HDW Class 212CD, Trainer System."
       },
       "facts": {
         "workspace": [
@@ -96364,7 +96342,7 @@
         ]
       },
       "attributes": [
-        "Defence L3"
+        "Defence L1"
       ],
       "taxonomy": {
         "domains": [],
@@ -96376,51 +96354,82 @@
       "programmes": {
         "workspace": [
           {
-            "title": "ePERFECT — European High-Performance Processor for RF Defense Applications",
-            "sub": "Participant · EU funding €2.3M of €22.4M · 15 partners · 2025–2029",
-            "status": "Grant · Ongoing",
-            "icon": "coins",
-            "date": "13 Nov 2025",
-            "desc": "EDF EDF-2024-RA-SI-MATCOMP-EC-STEP",
-            "color": "orange",
-            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224231/EDF"
-          },
-          {
-            "title": "NEREUS — Naval systEm of systems and integRatEd sUrvivability of future EU platformS",
-            "sub": "Partner · EU funding €1.1M of €45.0M · 36 partners · 2025–2029",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101224749",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
             "icon": "coins",
             "date": "28 Nov 2025",
-            "desc": "EDF EDF-2024-DA-NAVAL-FNP",
+            "desc": "Call EDF-2024-DA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224749/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101224231",
+            "sub": "EU defence research and development · call EDF-2024-RA-SI",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "13 Nov 2025",
+            "desc": "Call EDF-2024-RA-SI",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224231/EDF"
           }
         ],
         "overview": [
           {
-            "title": "ePERFECT — European High-Performance Processor for RF Defense Applications",
-            "sub": "Participant · EU funding €2.3M of €22.4M · 15 partners · 2025–2029",
-            "status": "Grant · Ongoing",
-            "icon": "coins",
-            "date": "13 Nov 2025",
-            "desc": "EDF EDF-2024-RA-SI-MATCOMP-EC-STEP",
-            "color": "orange",
-            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224231/EDF"
-          },
-          {
-            "title": "NEREUS — Naval systEm of systems and integRatEd sUrvivability of future EU platformS",
-            "sub": "Partner · EU funding €1.1M of €45.0M · 36 partners · 2025–2029",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101224749",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
             "icon": "coins",
             "date": "28 Nov 2025",
-            "desc": "EDF EDF-2024-DA-NAVAL-FNP",
+            "desc": "Call EDF-2024-DA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224749/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101224231",
+            "sub": "EU defence research and development · call EDF-2024-RA-SI",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "13 Nov 2025",
+            "desc": "Call EDF-2024-RA-SI",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224231/EDF"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "HDW Class 212CD",
+          "level": "L0",
+          "icon": "crosshair",
+          "selected": true
+        },
+        {
+          "label": "Trainer System",
+          "level": "L0",
+          "icon": "crosshair"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "HDW Class 212CD",
+              "Developed jointly by Germany and Norway, the HDW Class 212CD (Common Design) submarine is a milestone in non-nuclear submarine technology.",
+              "green"
+            ],
+            [
+              "Trainer System",
+              "The trainer system for submarines was developed specifically for crew training and mission preparation.",
+              "green"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -96470,6 +96479,22 @@
           "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224231/EDF"
         },
         {
+          "claim": "HDW Class 212CD: “Developed jointly by Germany and Norway, the HDW Class 212CD (Common Design) submarine is a milestone in non-nuclear submarine technology.”",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://www.tkmsgroup.com/"
+        },
+        {
+          "claim": "Trainer System: “The trainer system for submarines was developed specifically for crew training and mission preparation.”",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://www.tkmsgroup.com/submarines/services/trainer-system"
+        },
+        {
           "claim": "Technologies, financials and relationships beyond these records",
           "sources": 0,
           "date": "25 Nov 2026",
@@ -96486,45 +96511,12 @@
       ],
       "page": {
         "v": 2,
-        "lead": "TKMS Hagenuk Marinekommunikation GmbH is a German company registered in 1971, with its seat in Flintbek. It takes part in 2 European Defence Fund projects (2025). Of these, 2 ongoing, EU funding to the company €3.5M.",
+        "lead": "TKMS Hagenuk Marinekommunikation GmbH is a German company registered in 1971, with its seat in Flintbek. It takes part in 2 European Defence Fund projects (2025). Its website presents military products including HDW Class 212CD, Trainer System.",
         "lead_src": [
           1,
           2
         ],
-        "figures": [
-          {
-            "value": "€3.5M",
-            "label": "EU defence funding to the company",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "value": "2",
-            "label": "European Defence Fund projects",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "value": "2",
-            "label": "ongoing now",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "value": "46",
-            "label": "organisations it shares EDF projects with",
-            "src": [
-              2,
-              3
-            ]
-          }
-        ],
+        "figures": [],
         "facts": [
           [
             "1971",
@@ -96544,21 +96536,21 @@
         ],
         "activity": [
           {
-            "title": "ePERFECT — European High-Performance Processor for RF Defense Applications",
-            "sub": "Participant · EU funding €2.3M of €22.4M · 15 partners · 2025–2029",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101224231",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "13 Nov 2025",
             "iso": "2025-11-13",
-            "ongoing": true,
+            "ongoing": false,
             "src": 3
           },
           {
-            "title": "NEREUS — Naval systEm of systems and integRatEd sUrvivability of future EU platformS",
-            "sub": "Partner · EU funding €1.1M of €45.0M · 36 partners · 2025–2029",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101224749",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "28 Nov 2025",
             "iso": "2025-11-28",
-            "ongoing": true,
+            "ongoing": false,
             "src": 2
           }
         ],
@@ -96566,106 +96558,33 @@
           {
             "type": "funder",
             "name": "European Commission · European Defence Fund",
-            "sub": "2 grants · €3.5M",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "group",
-            "name": "Tkms Gmbh",
-            "country": "DE",
-            "src": [
-              2
-            ],
-            "sub": "Group entity · in NEREUS",
-            "status": "verified"
-          },
-          {
-            "type": "partner",
-            "name": "ISD LYSEIS OLOKRIROMENON SYSTIMATONANONYMOS ETAIREIA",
-            "country": "EL",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "LEONARDO - SOCIETA PER AZIONI",
-            "country": "IT",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "ASYGN",
-            "country": "FR",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              3
-            ]
-          },
-          {
-            "type": "research",
-            "name": "BALTIJOS PAZANGIU TECHNOLOGIJU INSTITUTAS",
-            "country": "LT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "BLUE INSIGHT TECHNOLOGIES UNIPESSOAL LDA",
-            "country": "PT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "CAFA TECH OU",
-            "country": "EE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "CETENA SPA CENTRO PER GLI STUDI DI TECNICA NAVALE",
-            "country": "IT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "CY.R.I.C CYPRUS RESEARCH AND INNOVATION CENTER LTD",
-            "country": "CY",
-            "sub": "1 joint EDF project",
+            "sub": "2 grants",
             "status": "verified",
             "src": [
               2
             ]
           }
         ],
-        "products": [],
+        "products": [
+          {
+            "name": "HDW Class 212CD",
+            "role": "makes",
+            "status": "supported",
+            "quote": "Developed jointly by Germany and Norway, the HDW Class 212CD (Common Design) submarine is a milestone in non-nuclear submarine technology.",
+            "src": [
+              4
+            ]
+          },
+          {
+            "name": "Trainer System",
+            "role": "makes",
+            "status": "supported",
+            "quote": "The trainer system for submarines was developed specifically for crew training and mission preparation.",
+            "src": [
+              5
+            ]
+          }
+        ],
         "news": [],
         "sources": [
           {
@@ -96673,16 +96592,24 @@
             "url": "https://api.gleif.org/api/v1/lei-records/549300V76HRJHHOS2U86"
           },
           {
-            "title": "EU Funding & Tenders portal · NEREUS",
+            "title": "EU Funding & Tenders portal · 101224749",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224749/EDF"
           },
           {
-            "title": "EU Funding & Tenders portal · ePERFECT",
+            "title": "EU Funding & Tenders portal · 101224231",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224231/EDF"
+          },
+          {
+            "title": "Company website",
+            "url": "https://www.tkmsgroup.com/"
+          },
+          {
+            "title": "Company website",
+            "url": "https://www.tkmsgroup.com/submarines/services/trainer-system"
           }
         ]
       },
-      "card_hash": "93580eb6b6baa7f7"
+      "card_hash": "57681a29e30e4706"
     },
     "telefonica-moviles-espana-sa": {
       "developments": [
