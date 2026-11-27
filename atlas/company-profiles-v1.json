@@ -81336,7 +81336,7 @@
             "in_catalogue": false,
             "sub": "Supplier",
             "status": "verified",
-            "quote": "BAE Systems has completed the delivery of all Lot 8 radio-frequency (RF) sensors to Lockheed Martin for integration into the US military’s Long-Range Anti-Ship Missile (LRASM) programme.",
+            "quote": "BAE works with Lockheed Martin and the F-35 Joint Program Office.",
             "src": [
               11,
               12
@@ -81405,7 +81405,7 @@
           {
             "type": "supplier",
             "name": "DSV A/S",
-            "country": null,
+            "country": "DK",
             "in_catalogue": true,
             "sub": "Supplier",
             "status": "verified",
@@ -81662,12 +81662,12 @@
             "url": "https://www.usaspending.gov/search"
           },
           {
-            "title": "naval-technology.com",
-            "url": "https://www.naval-technology.com/news/bae-systems-lrasm-lockheed-martin/"
+            "title": "defence-industry.eu",
+            "url": "https://defence-industry.eu/bae-systems-says-f-35-electronic-warfare-deliveries-top-1500-with-block-4-deliveries-underway/"
           },
           {
-            "title": "defence-industry.eu",
-            "url": "https://defence-industry.eu/bae-systems-accelerates-guidance-sensor-deliveries-for-lockheed-martins-long-range-anti-ship-missile/"
+            "title": "naval-technology.com",
+            "url": "https://www.naval-technology.com/news/bae-systems-lrasm-lockheed-martin/"
           },
           {
             "title": "defensebook.com",
@@ -81771,7 +81771,7 @@
           }
         ]
       },
-      "card_hash": "1072b03cf2112e18"
+      "card_hash": "9a4da43c554dc870"
     },
     "echodyne-corp": {
       "developments": [],
