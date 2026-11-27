@@ -124066,8 +124066,119 @@
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Doppelseitige Leiterplatten",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Flexible und starrflexible Leiterplatten",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "HDI-Leiterplatten",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "IC-Substrate",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Module",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Multilayer Leiterplatten",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Optical Transceiver",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Substratähnliche Leiterplatten",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Test- & Reference Boards",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Thermally Enhanced Leiterplatten",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Doppelseitige Leiterplatten",
+              "Produkte Doppelseitige Leiterplatten",
+              "grey"
+            ],
+            [
+              "Flexible und starrflexible Leiterplatten",
+              "Flexible und starrflexible Leiterplatten",
+              "grey"
+            ],
+            [
+              "HDI-Leiterplatten",
+              "HDI-Leiterplatten",
+              "grey"
+            ],
+            [
+              "IC-Substrate",
+              "IC-Substrate",
+              "grey"
+            ],
+            [
+              "Module",
+              "Module",
+              "grey"
+            ],
+            [
+              "Multilayer Leiterplatten",
+              "Multilayer Leiterplatten",
+              "grey"
+            ],
+            [
+              "Optical Transceiver",
+              "Optical Transceiver",
+              "grey"
+            ],
+            [
+              "Substratähnliche Leiterplatten",
+              "Substratähnliche Leiterplatten",
+              "grey"
+            ],
+            [
+              "Test- & Reference Boards",
+              "Test- & Reference Boards",
+              "grey"
+            ],
+            [
+              "Thermally Enhanced Leiterplatten",
+              "Thermally Enhanced Leiterplatten",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -124183,7 +124294,7 @@
           }
         ]
       },
-      "card_hash": "9265a4f39514e12c"
+      "card_hash": "4628dc6a8dc26581"
     },
     "atos-secure-digital-gmbh": {
       "developments": [
