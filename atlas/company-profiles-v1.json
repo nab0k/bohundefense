@@ -39231,8 +39231,139 @@
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "KIMIGEL-E",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "R-600A",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "BSE 85 K – BITZER",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Gazeclean +",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Acétylène",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Transfert & Récupération",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Analyses",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Support technique",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Retrofit",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "OEM",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Formation",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "SmartFroid",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "KIMIGEL-E",
+              "KIMIGEL-E",
+              "grey"
+            ],
+            [
+              "R-600A",
+              "R-600A",
+              "grey"
+            ],
+            [
+              "BSE 85 K – BITZER",
+              "BSE 85 K – BITZER",
+              "grey"
+            ],
+            [
+              "Gazeclean +",
+              "Gazeclean +",
+              "grey"
+            ],
+            [
+              "Acétylène",
+              "Acétylène",
+              "grey"
+            ],
+            [
+              "Transfert & Récupération",
+              "Transfert & Récupération",
+              "grey"
+            ],
+            [
+              "Analyses",
+              "Analyses",
+              "grey"
+            ],
+            [
+              "Support technique",
+              "Support technique",
+              "grey"
+            ],
+            [
+              "Retrofit",
+              "Retrofit",
+              "grey"
+            ],
+            [
+              "OEM",
+              "OEM",
+              "grey"
+            ],
+            [
+              "Formation",
+              "Formation",
+              "grey"
+            ],
+            [
+              "SmartFroid",
+              "SmartFroid . L’ Application développée par Gazechim Froid pour vous !",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -39287,7 +39418,65 @@
           "Beziers",
           "Registered office"
         ]
-      ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "GAZECHIM FROID is a French company registered in 1997, with its seat in Beziers. EU procurement records (TED) list a contract award by MARINE/DCSSF/DSSF/Brest (24 Sep 2024).",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "1",
+            "label": "contract awards on record",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "1997",
+            "Registered",
+            null
+          ],
+          [
+            "Beziers, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "SIREN 414750562",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract award · MARINE/DCSSF/DSSF/Brest",
+            "sub": "TED notice 573995-2024",
+            "status": "Contract award",
+            "date": "24 Sep 2024",
+            "iso": "2024-09-24",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · SIREN 414750562",
+            "url": "https://recherche-entreprises.api.gouv.fr/search?q=414750562"
+          },
+          {
+            "title": "TED notice 573995-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/573995-2024"
+          }
+        ]
+      },
+      "card_hash": "c69a4decd4b2a400"
     },
     "green-communications-sas": {
       "developments": [
@@ -97796,7 +97985,7 @@
       "developments": [
         {
           "date": "29 Oct 2025",
-          "title": "READYMED EUROPE — Technology-Enhanced Military Medical Training for Increased Readiness and Survivability in the Battlefield",
+          "title": "European Defence Fund project 101224363",
           "tags": [
             "EDF"
           ],
@@ -97805,7 +97994,7 @@
         },
         {
           "date": "06 Dec 2023",
-          "title": "FEDERATES — FEDerated Ecosystem of euRopean simulation Assets for Training and decision Support",
+          "title": "European Defence Fund project 101121330",
           "tags": [
             "EDF"
           ],
@@ -97821,12 +98010,12 @@
       "meta": [
         [
           "shield",
-          "Defence participation L3 · verified · European Defence Fund projects"
+          "Defence participation L1 · supported · named military products"
         ]
       ],
       "about": {
-        "workspace": "aditerna GmbH is a German company registered in 2010, with its seat in Riemerling/Hohenbrunn. It takes part in 2 European Defence Fund projects (2023–2025). Of these, 2 ongoing, EU funding to the company €2.9M.",
-        "overview": "aditerna GmbH is a German company registered in 2010, with its seat in Riemerling/Hohenbrunn. It takes part in 2 European Defence Fund projects (2023–2025). Of these, 2 ongoing, EU funding to the company €2.9M."
+        "workspace": "aditerna GmbH is a German company registered in 2010, with its seat in Riemerling/Hohenbrunn. It takes part in 2 European Defence Fund projects (2023–2025). Its website presents military products including consulting services, intelligent software solutions.",
+        "overview": "aditerna GmbH is a German company registered in 2010, with its seat in Riemerling/Hohenbrunn. It takes part in 2 European Defence Fund projects (2023–2025). Its website presents military products including consulting services, intelligent software solutions."
       },
       "facts": {
         "workspace": [
@@ -97859,7 +98048,7 @@
         ]
       },
       "attributes": [
-        "Defence L3"
+        "Defence L1"
       ],
       "taxonomy": {
         "domains": [],
@@ -97871,51 +98060,112 @@
       "programmes": {
         "workspace": [
           {
-            "title": "READYMED EUROPE — Technology-Enhanced Military Medical Training for Increased Readiness and Survivability in the Battlefield",
-            "sub": "Participant · EU funding €1.8M of €10.0M · 12 partners · 2025–2028",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101224363",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
             "icon": "coins",
             "date": "29 Oct 2025",
-            "desc": "EDF EDF-2024-DA-SIMTRAIN-STME-STEP",
+            "desc": "Call EDF-2024-DA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224363/EDF"
           },
           {
-            "title": "FEDERATES — FEDerated Ecosystem of euRopean simulation Assets for Training and decision Support",
-            "sub": "Participant · EU funding €1.0M of €29.6M · 32 partners · 2023–2026",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101121330",
+            "sub": "EU defence research and development · call EDF-2022-DA",
+            "status": "Grant",
             "icon": "coins",
             "date": "06 Dec 2023",
-            "desc": "EDF EDF-2022-DA-SIMTRAIN-MSSI",
+            "desc": "Call EDF-2022-DA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121330/EDF"
           }
         ],
         "overview": [
           {
-            "title": "READYMED EUROPE — Technology-Enhanced Military Medical Training for Increased Readiness and Survivability in the Battlefield",
-            "sub": "Participant · EU funding €1.8M of €10.0M · 12 partners · 2025–2028",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101224363",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
             "icon": "coins",
             "date": "29 Oct 2025",
-            "desc": "EDF EDF-2024-DA-SIMTRAIN-STME-STEP",
+            "desc": "Call EDF-2024-DA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224363/EDF"
           },
           {
-            "title": "FEDERATES — FEDerated Ecosystem of euRopean simulation Assets for Training and decision Support",
-            "sub": "Participant · EU funding €1.0M of €29.6M · 32 partners · 2023–2026",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101121330",
+            "sub": "EU defence research and development · call EDF-2022-DA",
+            "status": "Grant",
             "icon": "coins",
             "date": "06 Dec 2023",
-            "desc": "EDF EDF-2022-DA-SIMTRAIN-MSSI",
+            "desc": "Call EDF-2022-DA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121330/EDF"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "consulting services",
+          "level": "L0",
+          "icon": "crosshair",
+          "selected": true
+        },
+        {
+          "label": "intelligent software solutions",
+          "level": "L0",
+          "icon": "crosshair"
+        },
+        {
+          "label": "FUSION",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "RAPTOR",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "SRP",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "consulting services",
+              "Since 2010, we provide government and military customers with consulting services and intelligent software solutions for securely managing c",
+              "green"
+            ],
+            [
+              "intelligent software solutions",
+              "Since 2010, we provide government and military customers with consulting services and intelligent software solutions for securely managing c",
+              "green"
+            ],
+            [
+              "FUSION",
+              "FUSION | Secure & Resilient Data Sharing",
+              "grey"
+            ],
+            [
+              "RAPTOR",
+              "RAPTOR | Human Performance Assessment",
+              "grey"
+            ],
+            [
+              "SRP",
+              "SRP | Evaluation & Individual Training",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -97965,6 +98215,22 @@
           "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121330/EDF"
         },
         {
+          "claim": "consulting services: “Since 2010, we provide government and military customers with consulting services and intelligent software solutions for securely managing critical data and generating insight into complex data sets.”",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://www.aditerna.de/"
+        },
+        {
+          "claim": "intelligent software solutions: “Since 2010, we provide government and military customers with consulting services and intelligent software solutions for securely managing critical data and generating insight into complex data sets.”",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://www.aditerna.de/"
+        },
+        {
           "claim": "Technologies, financials and relationships beyond these records",
           "sources": 0,
           "date": "25 Nov 2026",
@@ -97981,45 +98247,12 @@
       ],
       "page": {
         "v": 2,
-        "lead": "aditerna GmbH is a German company registered in 2010, with its seat in Riemerling/Hohenbrunn. It takes part in 2 European Defence Fund projects (2023–2025). Of these, 2 ongoing, EU funding to the company €2.9M.",
+        "lead": "aditerna GmbH is a German company registered in 2010, with its seat in Riemerling/Hohenbrunn. It takes part in 2 European Defence Fund projects (2023–2025). Its website presents military products including consulting services, intelligent software solutions.",
         "lead_src": [
           1,
           2
         ],
-        "figures": [
-          {
-            "value": "€2.9M",
-            "label": "EU defence funding to the company",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "value": "2",
-            "label": "European Defence Fund projects",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "value": "2",
-            "label": "ongoing now",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "value": "39",
-            "label": "organisations it shares EDF projects with",
-            "src": [
-              2,
-              3
-            ]
-          }
-        ],
+        "figures": [],
         "facts": [
           [
             "2010",
@@ -98039,118 +98272,55 @@
         ],
         "activity": [
           {
-            "title": "READYMED EUROPE — Technology-Enhanced Military Medical Training for Increased Readiness and Survivability in the Battlefield",
-            "sub": "Participant · EU funding €1.8M of €10.0M · 12 partners · 2025–2028",
-            "status": "Grant · Ongoing",
-            "date": "29 Oct 2025",
-            "iso": "2025-10-29",
-            "ongoing": true,
-            "src": 2
-          },
-          {
-            "title": "FEDERATES — FEDerated Ecosystem of euRopean simulation Assets for Training and decision Support",
-            "sub": "Participant · EU funding €1.0M of €29.6M · 32 partners · 2023–2026",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101121330",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "06 Dec 2023",
             "iso": "2023-12-06",
-            "ongoing": true,
+            "ongoing": false,
             "src": 3
+          },
+          {
+            "title": "European Defence Fund project 101224363",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "29 Oct 2025",
+            "iso": "2025-10-29",
+            "ongoing": false,
+            "src": 2
           }
         ],
         "network": [
           {
             "type": "funder",
             "name": "European Commission · European Defence Fund",
-            "sub": "2 grants · €2.9M",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "AIRBUS DEFENCE AND SPACE GMBH",
-            "country": "DE",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              3
-            ]
-          },
-          {
-            "type": "research",
-            "name": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
-            "country": "AT",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "SIA EXONICUS R&D",
-            "country": "LV",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "4C GROUP AB",
-            "country": "SE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              3
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "BAE SYSTEMS ONEARC SWEDEN AB",
-            "country": "SE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              3
-            ]
-          },
-          {
-            "type": "research",
-            "name": "BALTIJOS PAZANGIU TECHNOLOGIJU INSTITUTAS",
-            "country": "LT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              3
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "BLOODOUT OU",
-            "country": "EE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "C&V DEFENCE",
-            "country": "BE",
-            "sub": "1 joint EDF project",
+            "sub": "2 grants",
             "status": "verified",
             "src": [
               2
             ]
           }
         ],
-        "products": [],
+        "products": [
+          {
+            "name": "consulting services",
+            "role": "makes",
+            "status": "supported",
+            "quote": "Since 2010, we provide government and military customers with consulting services and intelligent software solutions for securely managing critical data and generating insight into complex data sets.",
+            "src": [
+              4
+            ]
+          },
+          {
+            "name": "intelligent software solutions",
+            "role": "makes",
+            "status": "supported",
+            "quote": "Since 2010, we provide government and military customers with consulting services and intelligent software solutions for securely managing critical data and generating insight into complex data sets.",
+            "src": [
+              4
+            ]
+          }
+        ],
         "news": [],
         "sources": [
           {
@@ -98158,16 +98328,20 @@
             "url": "https://api.gleif.org/api/v1/lei-records/98450075677639G63934"
           },
           {
-            "title": "EU Funding & Tenders portal · READYMED EUROPE",
+            "title": "EU Funding & Tenders portal · 101224363",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224363/EDF"
           },
           {
-            "title": "EU Funding & Tenders portal · FEDERATES",
+            "title": "EU Funding & Tenders portal · 101121330",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121330/EDF"
+          },
+          {
+            "title": "Company website",
+            "url": "https://www.aditerna.de/"
           }
         ]
       },
-      "card_hash": "9c9fd0ca4981963a"
+      "card_hash": "3a35a59321f0d722"
     },
     "neros": {
       "developments": [],
