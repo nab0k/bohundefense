@@ -69603,7 +69603,7 @@
       "developments": [
         {
           "date": "12 Dec 2025",
-          "title": "SABER — Strategic Autonomous vehicles for BattlEfield Reconnaissance and logistics.",
+          "title": "European Defence Fund project 101224105",
           "tags": [
             "EDF"
           ],
@@ -69623,8 +69623,8 @@
         ]
       ],
       "about": {
-        "workspace": "SKYA Oy is a Finnish company registered in 2023, with its seat in Turku. It takes part in 1 European Defence Fund project (2025). Of these, 1 ongoing, EU funding to the company €762K.",
-        "overview": "SKYA Oy is a Finnish company registered in 2023, with its seat in Turku. It takes part in 1 European Defence Fund project (2025). Of these, 1 ongoing, EU funding to the company €762K."
+        "workspace": "SKYA Oy is a Finnish company registered in 2023, with its seat in Turku. It takes part in 1 European Defence Fund project (2025).",
+        "overview": "SKYA Oy is a Finnish company registered in 2023, with its seat in Turku. It takes part in 1 European Defence Fund project (2025)."
       },
       "facts": {
         "workspace": [
@@ -69669,31 +69669,72 @@
       "programmes": {
         "workspace": [
           {
-            "title": "SABER — Strategic Autonomous vehicles for BattlEfield Reconnaissance and logistics.",
-            "sub": "Participant · EU funding €762K of €4.0M · 6 partners · 2026–2028",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101224105",
+            "sub": "EU defence research and development · call EDF-2024-LS-RA-SMERO",
+            "status": "Grant",
             "icon": "coins",
             "date": "12 Dec 2025",
-            "desc": "EDF EDF-2024-LS-RA-SMERO-NT",
+            "desc": "Call EDF-2024-LS-RA-SMERO",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224105/EDF"
           }
         ],
         "overview": [
           {
-            "title": "SABER — Strategic Autonomous vehicles for BattlEfield Reconnaissance and logistics.",
-            "sub": "Participant · EU funding €762K of €4.0M · 6 partners · 2026–2028",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101224105",
+            "sub": "EU defence research and development · call EDF-2024-LS-RA-SMERO",
+            "status": "Grant",
             "icon": "coins",
             "date": "12 Dec 2025",
-            "desc": "EDF EDF-2024-LS-RA-SMERO-NT",
+            "desc": "Call EDF-2024-LS-RA-SMERO",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224105/EDF"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Agentic AI for Autonomous Machines",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Agentic Physical AI",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Physical AI agents",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Agentic AI for Autonomous Machines",
+              "Skya x Binabik — Agentic AI for Autonomous Machines",
+              "grey"
+            ],
+            [
+              "Agentic Physical AI",
+              "Agentic Physical AI | Reconfigurable autonomy from ground to air.",
+              "grey"
+            ],
+            [
+              "Physical AI agents",
+              "EU-funded project \"Physical AI agents as a source of growth and competitiveness in next-generation general-purpose robotics\" aims to develop",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -69751,41 +69792,12 @@
       ],
       "page": {
         "v": 2,
-        "lead": "SKYA Oy is a Finnish company registered in 2023, with its seat in Turku. It takes part in 1 European Defence Fund project (2025). Of these, 1 ongoing, EU funding to the company €762K.",
+        "lead": "SKYA Oy is a Finnish company registered in 2023, with its seat in Turku. It takes part in 1 European Defence Fund project (2025).",
         "lead_src": [
           1,
           2
         ],
-        "figures": [
-          {
-            "value": "€762K",
-            "label": "EU defence funding to the company",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "European Defence Fund projects",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "ongoing now",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "5",
-            "label": "organisations it shares EDF projects with",
-            "src": [
-              2
-            ]
-          }
-        ],
+        "figures": [],
         "facts": [
           [
             "2023",
@@ -69805,12 +69817,12 @@
         ],
         "activity": [
           {
-            "title": "SABER — Strategic Autonomous vehicles for BattlEfield Reconnaissance and logistics.",
-            "sub": "Participant · EU funding €762K of €4.0M · 6 partners · 2026–2028",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101224105",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "12 Dec 2025",
             "iso": "2025-12-12",
-            "ongoing": true,
+            "ongoing": false,
             "src": 2
           }
         ],
@@ -69818,57 +69830,7 @@
           {
             "type": "funder",
             "name": "European Commission · European Defence Fund",
-            "sub": "1 grant · €762K",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "AGENIUM IT & SYSTEMS",
-            "country": "FR",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "FUNDACION CATEC CENTRO AVANZADO DE TECNOLOGIAS AEROESPACIALES",
-            "country": "ES",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "I&S PARTNERS",
-            "country": "FR",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "IDRYMA TECHNOLOGIAS KAI EREVNAS",
-            "country": "EL",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "UNMANNED TEKNOLOGIES APPLICATIONS SL",
-            "country": "ES",
-            "sub": "1 joint EDF project",
+            "sub": "1 grant",
             "status": "verified",
             "src": [
               2
@@ -69876,18 +69838,19 @@
           }
         ],
         "products": [],
+        "news": [],
         "sources": [
           {
             "title": "Company register · Y-tunnus 3337308-1",
             "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=3337308-1"
           },
           {
-            "title": "EU Funding & Tenders portal · SABER",
+            "title": "EU Funding & Tenders portal · 101224105",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224105/EDF"
           }
         ]
       },
-      "card_hash": "67315ca83c0b1c04"
+      "card_hash": "0246bc62b9990c09"
     },
     "spinverse-oy": {
       "developments": [
