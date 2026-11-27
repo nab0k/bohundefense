@@ -149995,6 +149995,505 @@
         ]
       },
       "card_hash": "2678eb680534ec81"
+    },
+    "dynetics": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-27",
+      "status_label": "Reviewed card · 27 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "DYNETICS, INC. is a US company, with its seat in Huntsville. US federal spending records show US$2.2B obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 27 Nov 2026 across 20 contracts; the largest customer is the Department of the Army.",
+        "overview": "DYNETICS, INC. is a US company, with its seat in Huntsville. US federal spending records show US$2.2B obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 27 Nov 2026 across 20 contracts; the largest customer is the Department of the Army."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Huntsville, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300WT6L4NDBV3EL50",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Huntsville, United States",
+            "Headquarters"
+          ],
+          [
+            "LEI 549300WT6L4NDBV3EL50",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity DYNETICS, INC., LEI 549300WT6L4NDBV3EL50",
+          "sources": 1,
+          "date": "27 Nov 2026",
+          "status": "Verified",
+          "source": "GLEIF",
+          "href": "https://search.gleif.org/#/record/549300WT6L4NDBV3EL50"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 27 Nov 2026",
+          "sources": 1,
+          "date": "27 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/83f39725-68ce-aaf2-164d-475e790e2b8e-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "27 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Huntsville",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "DYNETICS, INC. is a US company, with its seat in Huntsville. US federal spending records show US$2.2B obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 27 Nov 2026 across 20 contracts; the largest customer is the Department of the Army.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$2.2B",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 27 Nov 2026, almost all Department of the Army",
+            "src": [
+              10
+            ]
+          },
+          {
+            "value": "20",
+            "label": "contracts with activity, FY2026–27, to 27 Nov 2026",
+            "src": [
+              10
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Huntsville, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "LEI 549300WT6L4NDBV3EL50",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "DO for the FY26 production BUY.",
+            "sub": "Department of the Army · US$617.2M · 2026–2029",
+            "status": "Contract",
+            "date": "14 Apr 2026",
+            "iso": "2026-04-14",
+            "ongoing": true,
+            "src": 2
+          },
+          {
+            "title": "CHGB TPS NTE award",
+            "sub": "Department of the Army · US$412.9M · 2024–2032",
+            "status": "Contract",
+            "date": "21 Nov 2024",
+            "iso": "2024-11-21",
+            "ongoing": true,
+            "src": 3
+          },
+          {
+            "title": "FY25 BUY",
+            "sub": "Department of the Army · US$356.7M · 2025–2028",
+            "status": "Contract",
+            "date": "30 Jul 2025",
+            "iso": "2025-07-30",
+            "ongoing": true,
+            "src": 4
+          },
+          {
+            "title": "UCO - GUAM defense systems",
+            "sub": "Department of the Army · US$204.0M · 2024–2026",
+            "status": "Contract",
+            "date": "14 Nov 2024",
+            "iso": "2024-11-14",
+            "ongoing": true,
+            "src": 5
+          },
+          {
+            "title": "TEST&EVALUATION technologies for RANGES, armaments and spectrum (TETRAS) MID-PRESSURE ARC heater (MPAH) power supply",
+            "sub": "Department of the Air Force · US$113.1M · 2019–2026",
+            "status": "Contract",
+            "date": "31 Dec 2019",
+            "iso": "2019-12-31",
+            "ongoing": false,
+            "src": 6
+          },
+          {
+            "title": "USFK DO",
+            "sub": "Department of the Army · US$74.3M · 2025–2026",
+            "status": "Contract",
+            "date": "25 Apr 2025",
+            "iso": "2025-04-25",
+            "ongoing": false,
+            "src": 7
+          },
+          {
+            "title": "Guided weapons evaluation facility radio frequency modernization",
+            "sub": "Department of the Air Force · US$53.4M · 2020–2028",
+            "status": "Contract",
+            "date": "31 Jan 2020",
+            "iso": "2020-01-31",
+            "ongoing": true,
+            "src": 8
+          },
+          {
+            "title": "Delivery order under the eglin WIDE agile acquisition contract (EWAAC) indefinite DELIVERY/INDEFINITE quantity (IDIQ) to",
+            "sub": "Department of the Air Force · US$52.7M · 2024–2027",
+            "status": "Contract",
+            "date": "03 Jul 2024",
+            "iso": "2024-07-03",
+            "ongoing": true,
+            "src": 9
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Department of the Army",
+            "sub": "Customer · US$3.8B · 5 contracts",
+            "status": "verified",
+            "src": [
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Department of the Air Force",
+            "sub": "Customer · US$231.3M · 3 contracts",
+            "status": "verified",
+            "src": [
+              6,
+              8,
+              9
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Missile Defense Agency",
+            "sub": "Customer · US$0K",
+            "status": "verified",
+            "src": [
+              10
+            ]
+          },
+          {
+            "type": "supplier",
+            "name": "ONTIME NETWORKS, LLC",
+            "country": "US",
+            "status": "verified",
+            "sub": "Sub-contractor · 2025",
+            "src": [
+              11
+            ]
+          }
+        ],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "GLEIF · LEI 549300WT6L4NDBV3EL50",
+            "url": "https://search.gleif.org/#/record/549300WT6L4NDBV3EL50"
+          },
+          {
+            "title": "USAspending.gov · W31P4Q26F0067",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q26F0067_9700_W31P4Q25D0003_9700"
+          },
+          {
+            "title": "USAspending.gov · W31P4Q25C0003",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q25C0003_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · W31P4Q25F0222",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q25F0222_9700_W31P4Q25D0003_9700"
+          },
+          {
+            "title": "USAspending.gov · W31P4Q25F0021",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q25F0021_9700_W31P4Q25D0003_9700"
+          },
+          {
+            "title": "USAspending.gov · FA248720F4913",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA248720F4913_9700_FA248718D4900_9700"
+          },
+          {
+            "title": "USAspending.gov · W31P4Q25F0074",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_W31P4Q25F0074_9700_W31P4Q25D0003_9700"
+          },
+          {
+            "title": "USAspending.gov · FA248720F0072",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA248720F0072_9700_FA248720D0071_9700"
+          },
+          {
+            "title": "USAspending.gov · FA865624FB013",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_FA865624FB013_9700_FA865621DA015_9700"
+          },
+          {
+            "title": "USAspending.gov · US Department of Defense · FY2026–27, to 27 Nov 2026",
+            "url": "https://www.usaspending.gov/recipient/83f39725-68ce-aaf2-164d-475e790e2b8e-C/latest"
+          },
+          {
+            "title": "USAspending.gov · sub-award",
+            "url": "https://www.usaspending.gov/search"
+          }
+        ]
+      },
+      "card_hash": "fff3651c88d65fe3"
+    },
+    "williams-international": {
+      "developments": [],
+      "country": "US",
+      "reviewed": "2026-11-25",
+      "status_label": "Reviewed card · 25 Nov 2026",
+      "method": "BOHUN slice 3 card (register, EU Defence Fund, TED, USAspending, company website; level by rule)",
+      "sectors": [],
+      "meta": [
+        [
+          "shield",
+          "Defence participation L3 · verified · contracts with defence customers"
+        ]
+      ],
+      "about": {
+        "workspace": "WILLIAMS INTERNATIONAL LLC is a US company, with its seat in Calumet Park. US federal spending records show US$0K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 2 contracts; the largest customer is the Defense Logistics Agency.",
+        "overview": "WILLIAMS INTERNATIONAL LLC is a US company, with its seat in Calumet Park. US federal spending records show US$0K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 2 contracts; the largest customer is the Defense Logistics Agency."
+      },
+      "facts": {
+        "workspace": [
+          [
+            "Calumet Park, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI YNE4ECKH8A67",
+            "Register"
+          ]
+        ],
+        "overview": [
+          [
+            "Calumet Park, United States",
+            "Headquarters"
+          ],
+          [
+            "UEI YNE4ECKH8A67",
+            "Register"
+          ]
+        ]
+      },
+      "attributes": [
+        "Defence L3"
+      ],
+      "taxonomy": {
+        "domains": [],
+        "capabilities": [],
+        "roles": [],
+        "levels": [],
+        "defence": []
+      },
+      "programmes": {
+        "workspace": [],
+        "overview": []
+      },
+      "productTree": [],
+      "productAccordion": [],
+      "technologies": [],
+      "relationships": {
+        "workspace": [],
+        "overview": []
+      },
+      "evidence": [
+        {
+          "claim": "Legal entity WILLIAMS INTERNATIONAL LLC, UEI YNE4ECKH8A67",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "Contract register",
+          "href": "https://www.usaspending.gov/recipient/3aaf57ed-bb04-7b6e-49dd-2ba181548321-C/latest"
+        },
+        {
+          "claim": "Contracts with the US Department of Defense, FY2026–27, to 25 Nov 2026",
+          "sources": 1,
+          "date": "25 Nov 2026",
+          "status": "Verified",
+          "source": "USAspending.gov",
+          "href": "https://www.usaspending.gov/recipient/3aaf57ed-bb04-7b6e-49dd-2ba181548321-C/latest"
+        },
+        {
+          "claim": "Technologies, financials and relationships beyond these records",
+          "sources": 0,
+          "date": "25 Nov 2026",
+          "status": "Not assessed yet",
+          "source": "BOHUN",
+          "href": ""
+        }
+      ],
+      "footprint": [
+        [
+          "Calumet Park",
+          "Registered office"
+        ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "WILLIAMS INTERNATIONAL LLC is a US company, with its seat in Calumet Park. US federal spending records show US$0K obligated to it by the Department of Defense for defence goods and defence R&D in FY2026–27, to 25 Nov 2026 across 2 contracts; the largest customer is the Defense Logistics Agency.",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "US$0K",
+            "label": "US Department of Defense obligations for defence goods and R&D, FY2026–27, to 25 Nov 2026, almost all Defense Logistics Agency",
+            "src": [
+              1
+            ]
+          },
+          {
+            "value": "2",
+            "label": "contracts with activity, FY2026–27, to 25 Nov 2026",
+            "src": [
+              1
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "Calumet Park, United States",
+            "Headquarters",
+            null
+          ],
+          [
+            "UEI YNE4ECKH8A67",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract SPE7L426V2198",
+            "sub": "Defense Logistics Agency · US$0K · 2026",
+            "status": "Contract",
+            "date": "21 Jul 2026",
+            "iso": "2026-07-21",
+            "ongoing": false,
+            "src": 2
+          },
+          {
+            "title": "Contract SPE7L126V070U",
+            "sub": "Defense Logistics Agency · 2026",
+            "status": "Contract",
+            "date": "18 Jun 2026",
+            "iso": "2026-06-18",
+            "ongoing": false,
+            "src": 3
+          }
+        ],
+        "network": [
+          {
+            "type": "customer",
+            "name": "Defense Logistics Agency",
+            "sub": "Customer · US$1K · 2 contracts",
+            "status": "verified",
+            "src": [
+              1,
+              2,
+              3
+            ]
+          }
+        ],
+        "products": [
+          {
+            "name": "P8300-15",
+            "role": "makes",
+            "status": "verified",
+            "quote": "El motor de la versión actual del Taurus, el P8300-15, está fabricado por la compañía estadounidense Williams International.",
+            "src": [
+              4
+            ]
+          },
+          {
+            "name": "SLCM-N (Nuclear-Armed Sea-Launched Cruise Missile)",
+            "role": "supplies to",
+            "status": "candidate",
+            "quote": "El proyecto contará, además, con la participación de otras tres empresas: Anduril Rocket Motor Systems, Divergent y Williams International.",
+            "src": [
+              5
+            ]
+          }
+        ],
+        "news": [],
+        "sources": [
+          {
+            "title": "Register · UEI YNE4ECKH8A67",
+            "url": "https://www.usaspending.gov/recipient/3aaf57ed-bb04-7b6e-49dd-2ba181548321-C/latest"
+          },
+          {
+            "title": "USAspending.gov · SPE7L426V2198",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7L426V2198_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "USAspending.gov · SPE7L126V070U",
+            "url": "https://www.usaspending.gov/award/CONT_AWD_SPE7L126V070U_9700_-NONE-_-NONE-"
+          },
+          {
+            "title": "infodefensa.com",
+            "url": "https://www.infodefensa.com/texto-diario/mostrar/6107675/misil-crucero-taurus-neo-participara-espana-busca-motor-europeo-reducir-dependencia-tecnologica-eeuu"
+          },
+          {
+            "title": "libertaddigital.com",
+            "url": "https://www.libertaddigital.com/defensa/2026-11-26/la-marina-de-eeuu-encomienda-a-raytheon-el-desarrollo-del-nuevo-misil-nuclear-para-submarinos-7496929/"
+          }
+        ]
+      },
+      "card_hash": "741a3e7951d79a17"
     }
   }
 }
