@@ -75216,7 +75216,7 @@
       "developments": [
         {
           "date": "01 Dec 2023",
-          "title": "iMEDCAP — Development of intelligent military capabilities for monitoring, medical care and evacuation for contagious, injured and contaminated personnel",
+          "title": "European Defence Fund project 101121421",
           "tags": [
             "EDF"
           ],
@@ -75236,8 +75236,8 @@
         ]
       ],
       "about": {
-        "workspace": "MGM COMPRO s.r.o. is a Czech company registered in 2014, with its seat in Zlín. It takes part in 1 European Defence Fund project (2023). Of these, 1 ongoing, EU funding to the company €915K.",
-        "overview": "MGM COMPRO s.r.o. is a Czech company registered in 2014, with its seat in Zlín. It takes part in 1 European Defence Fund project (2023). Of these, 1 ongoing, EU funding to the company €915K."
+        "workspace": "MGM COMPRO s.r.o. is a Czech company registered in 2014, with its seat in Zlín. It takes part in 1 European Defence Fund project (2023).",
+        "overview": "MGM COMPRO s.r.o. is a Czech company registered in 2014, with its seat in Zlín. It takes part in 1 European Defence Fund project (2023)."
       },
       "facts": {
         "workspace": [
@@ -75282,31 +75282,62 @@
       "programmes": {
         "workspace": [
           {
-            "title": "iMEDCAP — Development of intelligent military capabilities for monitoring, medical care and evacuation for contagious, injured and contaminated personnel",
-            "sub": "Participant · EU funding €915K of €24.9M · 24 partners · 2023–2026",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101121421",
+            "sub": "EU defence research and development · call EDF-2022-RA",
+            "status": "Grant",
             "icon": "coins",
             "date": "01 Dec 2023",
-            "desc": "EDF EDF-2022-RA-MCBRN-HICP",
+            "desc": "Call EDF-2022-RA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121421/EDF"
           }
         ],
         "overview": [
           {
-            "title": "iMEDCAP — Development of intelligent military capabilities for monitoring, medical care and evacuation for contagious, injured and contaminated personnel",
-            "sub": "Participant · EU funding €915K of €24.9M · 24 partners · 2023–2026",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101121421",
+            "sub": "EU defence research and development · call EDF-2022-RA",
+            "status": "Grant",
             "icon": "coins",
             "date": "01 Dec 2023",
-            "desc": "EDF EDF-2022-RA-MCBRN-HICP",
+            "desc": "Call EDF-2022-RA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121421/EDF"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Electric Motors (BLDC / PMSM)",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Battery Management Systems (BMS)",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Electric Motors (BLDC / PMSM)",
+              "The all new generation of MGM COMPRO electric motors (BLDC / PMSM) brings enhanced potential to electric applications. Based on the innovati",
+              "grey"
+            ],
+            [
+              "Battery Management Systems (BMS)",
+              "MGM COMPRO’s modular Battery Management Systems (BMS) bring a new dimension to technic and economic effectiveness of applications using LiPo",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -75364,41 +75395,12 @@
       ],
       "page": {
         "v": 2,
-        "lead": "MGM COMPRO s.r.o. is a Czech company registered in 2014, with its seat in Zlín. It takes part in 1 European Defence Fund project (2023). Of these, 1 ongoing, EU funding to the company €915K.",
+        "lead": "MGM COMPRO s.r.o. is a Czech company registered in 2014, with its seat in Zlín. It takes part in 1 European Defence Fund project (2023).",
         "lead_src": [
           1,
           2
         ],
-        "figures": [
-          {
-            "value": "€915K",
-            "label": "EU defence funding to the company",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "European Defence Fund projects",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "ongoing now",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "23",
-            "label": "organisations it shares EDF projects with",
-            "src": [
-              2
-            ]
-          }
-        ],
+        "figures": [],
         "facts": [
           [
             "2014",
@@ -75418,12 +75420,12 @@
         ],
         "activity": [
           {
-            "title": "iMEDCAP — Development of intelligent military capabilities for monitoring, medical care and evacuation for contagious, injured and contaminated personnel",
-            "sub": "Participant · EU funding €915K of €24.9M · 24 partners · 2023–2026",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101121421",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "01 Dec 2023",
             "iso": "2023-12-01",
-            "ongoing": true,
+            "ongoing": false,
             "src": 2
           }
         ],
@@ -75431,87 +75433,7 @@
           {
             "type": "funder",
             "name": "European Commission · European Defence Fund",
-            "sub": "1 grant · €915K",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "AUTOFLUG GMBH",
-            "country": "DE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "AVILUS GmbH",
-            "country": "DE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "BUNDESMINISTERIUM DER VERTEIDIGUNG",
-            "country": "DE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "BUNDESMINISTERIUM FUR LANDESVERTEIDIGUNG",
-            "country": "AT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "COMPOSITE PROJECT KFT",
-            "country": "HU",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "EMBENTION SISTEMAS INTELIGENTES SA",
-            "country": "ES",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "GRABHER GROUP GMBH",
-            "country": "AT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "INSTITUT FUR PHARMAKOLOGIE UND TOXIKOLOGIE DER BUNDESWEHR",
-            "country": "DE",
-            "sub": "1 joint EDF project",
+            "sub": "1 grant",
             "status": "verified",
             "src": [
               2
@@ -75519,18 +75441,19 @@
           }
         ],
         "products": [],
+        "news": [],
         "sources": [
           {
             "title": "Company register · IČO 03093212",
             "url": "https://ares.gov.cz/ekonomicke-subjekty-v-be/rest/ekonomicke-subjekty/03093212"
           },
           {
-            "title": "EU Funding & Tenders portal · iMEDCAP",
+            "title": "EU Funding & Tenders portal · 101121421",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121421/EDF"
           }
         ]
       },
-      "card_hash": "c2cd687e7c9875c0"
+      "card_hash": "6438b7cf79f952c0"
     },
     "respilon-membranes-s-r-o": {
       "developments": [
