@@ -56015,7 +56015,7 @@
       "developments": [
         {
           "date": "28 Nov 2025",
-          "title": "AktarEUs — Advanced Knowledge for indirect Trajectory Attack at long Range for EU states",
+          "title": "European Defence Fund project 101224170",
           "tags": [
             "EDF"
           ],
@@ -56024,7 +56024,7 @@
         },
         {
           "date": "19 Jun 2025",
-          "title": "ARROW — Autonomous Rapid Recognition Operation Warship",
+          "title": "European Defence Fund project 101168211",
           "tags": [
             "EDF"
           ],
@@ -56040,12 +56040,12 @@
       "meta": [
         [
           "shield",
-          "Defence participation L3 · verified · European Defence Fund projects"
+          "Defence participation L1 · supported · named military products"
         ]
       ],
       "about": {
-        "workspace": "SEAIR SOLUTIONS is a French company registered in 2016, with its seat in Lorient. It takes part in 2 European Defence Fund projects (2025). Of these, coordinates 1, 2 ongoing, EU funding to the company €4.8M.",
-        "overview": "SEAIR SOLUTIONS is a French company registered in 2016, with its seat in Lorient. It takes part in 2 European Defence Fund projects (2025). Of these, coordinates 1, 2 ongoing, EU funding to the company €4.8M."
+        "workspace": "SEAIR SOLUTIONS is a French company registered in 2016, with its seat in Lorient. It takes part in 2 European Defence Fund projects (2025). Its website presents military products including SP120, SP200.",
+        "overview": "SEAIR SOLUTIONS is a French company registered in 2016, with its seat in Lorient. It takes part in 2 European Defence Fund projects (2025). Its website presents military products including SP120, SP200."
       },
       "facts": {
         "workspace": [
@@ -56078,7 +56078,7 @@
         ]
       },
       "attributes": [
-        "Defence L3"
+        "Defence L1"
       ],
       "taxonomy": {
         "domains": [],
@@ -56090,51 +56090,82 @@
       "programmes": {
         "workspace": [
           {
-            "title": "ARROW — Autonomous Rapid Recognition Operation Warship",
-            "sub": "Coordinator · EU funding €3.8M of €7.5M · 5 partners · 2025–2028",
-            "status": "Grant · Ongoing",
-            "icon": "coins",
-            "date": "19 Jun 2025",
-            "desc": "EDF EDF-2023-LS-DA-SME-NT",
-            "color": "orange",
-            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168211/EDF"
-          },
-          {
-            "title": "AktarEUs — Advanced Knowledge for indirect Trajectory Attack at long Range for EU states",
-            "sub": "Participant · EU funding €984K of €24.1M · 10 partners · 2025–2028",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101224170",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
             "icon": "coins",
             "date": "28 Nov 2025",
-            "desc": "EDF EDF-2024-DA-GROUND-BLOS",
+            "desc": "Call EDF-2024-DA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224170/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101168211",
+            "sub": "EU defence research and development · call EDF-2023-LS-DA-SME",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "19 Jun 2025",
+            "desc": "Call EDF-2023-LS-DA-SME",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168211/EDF"
           }
         ],
         "overview": [
           {
-            "title": "ARROW — Autonomous Rapid Recognition Operation Warship",
-            "sub": "Coordinator · EU funding €3.8M of €7.5M · 5 partners · 2025–2028",
-            "status": "Grant · Ongoing",
-            "icon": "coins",
-            "date": "19 Jun 2025",
-            "desc": "EDF EDF-2023-LS-DA-SME-NT",
-            "color": "orange",
-            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168211/EDF"
-          },
-          {
-            "title": "AktarEUs — Advanced Knowledge for indirect Trajectory Attack at long Range for EU states",
-            "sub": "Participant · EU funding €984K of €24.1M · 10 partners · 2025–2028",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101224170",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
             "icon": "coins",
             "date": "28 Nov 2025",
-            "desc": "EDF EDF-2024-DA-GROUND-BLOS",
+            "desc": "Call EDF-2024-DA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224170/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101168211",
+            "sub": "EU defence research and development · call EDF-2023-LS-DA-SME",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "19 Jun 2025",
+            "desc": "Call EDF-2023-LS-DA-SME",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168211/EDF"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "SP120",
+          "level": "L0",
+          "icon": "crosshair",
+          "selected": true
+        },
+        {
+          "label": "SP200",
+          "level": "L0",
+          "icon": "crosshair"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "SP120",
+              "SP120 Basé sur le projet ARROW (12m) Missions : ISR, guerre électronique, combat naval, opérations spéciales.",
+              "green"
+            ],
+            [
+              "SP200",
+              "SP200 Basé sur le projet TRANSFLYTOR (20m) Missions : opérations spéciales, ISR, guerre électronique, combat naval.",
+              "green"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -56184,6 +56215,22 @@
           "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168211/EDF"
         },
         {
+          "claim": "SP120: “SP120 Basé sur le projet ARROW (12m) Missions : ISR, guerre électronique, combat naval, opérations spéciales.”",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://seair-platforms.com/"
+        },
+        {
+          "claim": "SP200: “SP200 Basé sur le projet TRANSFLYTOR (20m) Missions : opérations spéciales, ISR, guerre électronique, combat naval.”",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://seair-platforms.com/"
+        },
+        {
           "claim": "Technologies, financials and relationships beyond these records",
           "sources": 0,
           "date": "21 Nov 2026",
@@ -56200,45 +56247,12 @@
       ],
       "page": {
         "v": 2,
-        "lead": "SEAIR SOLUTIONS is a French company registered in 2016, with its seat in Lorient. It takes part in 2 European Defence Fund projects (2025). Of these, coordinates 1, 2 ongoing, EU funding to the company €4.8M.",
+        "lead": "SEAIR SOLUTIONS is a French company registered in 2016, with its seat in Lorient. It takes part in 2 European Defence Fund projects (2025). Its website presents military products including SP120, SP200.",
         "lead_src": [
           1,
           2
         ],
-        "figures": [
-          {
-            "value": "€4.8M",
-            "label": "EU defence funding to the company",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "value": "2",
-            "label": "European Defence Fund projects",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "value": "2",
-            "label": "ongoing now",
-            "src": [
-              2,
-              3
-            ]
-          },
-          {
-            "value": "1",
-            "label": "projects it coordinates",
-            "src": [
-              2,
-              3
-            ]
-          }
-        ],
+        "figures": [],
         "facts": [
           [
             "2016",
@@ -56258,21 +56272,21 @@
         ],
         "activity": [
           {
-            "title": "ARROW — Autonomous Rapid Recognition Operation Warship",
-            "sub": "Coordinator · EU funding €3.8M of €7.5M · 5 partners · 2025–2028",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101168211",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "19 Jun 2025",
             "iso": "2025-06-19",
-            "ongoing": true,
+            "ongoing": false,
             "src": 3
           },
           {
-            "title": "AktarEUs — Advanced Knowledge for indirect Trajectory Attack at long Range for EU states",
-            "sub": "Participant · EU funding €984K of €24.1M · 10 partners · 2025–2028",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101224170",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "28 Nov 2025",
             "iso": "2025-11-28",
-            "ongoing": true,
+            "ongoing": false,
             "src": 2
           }
         ],
@@ -56280,110 +56294,54 @@
           {
             "type": "funder",
             "name": "European Commission · European Defence Fund",
-            "sub": "2 grants · €4.8M",
+            "sub": "2 grants",
             "status": "verified",
             "src": [
               2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "ADDITESS ADVANCED INTEGRATED TECHNOLOGY SOLUTIONS & SERVICES LTD",
-            "country": "CY",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "ARQUUS",
-            "country": "FR",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "BERTIN EXENSOR AB",
-            "country": "SE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "C&V DEFENCE",
-            "country": "BE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              3
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "D3 APPLIED TECH SL",
-            "country": "ES",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              3
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "FN HERSTAL SA",
-            "country": "BE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "JOHN COCKERILL DEFENSE",
-            "country": "BE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "KNIERIM YACHTBAU GMBH",
-            "country": "DE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              3
             ]
           }
         ],
-        "products": [],
+        "products": [
+          {
+            "name": "SP120",
+            "role": "makes",
+            "status": "supported",
+            "quote": "SP120 Basé sur le projet ARROW (12m) Missions : ISR, guerre électronique, combat naval, opérations spéciales.",
+            "src": [
+              4
+            ]
+          },
+          {
+            "name": "SP200",
+            "role": "makes",
+            "status": "supported",
+            "quote": "SP200 Basé sur le projet TRANSFLYTOR (20m) Missions : opérations spéciales, ISR, guerre électronique, combat naval.",
+            "src": [
+              4
+            ]
+          }
+        ],
+        "news": [],
         "sources": [
           {
             "title": "Company register · SIREN 819778838",
             "url": "https://recherche-entreprises.api.gouv.fr/search?q=819778838"
           },
           {
-            "title": "EU Funding & Tenders portal · AktarEUs",
+            "title": "EU Funding & Tenders portal · 101224170",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224170/EDF"
           },
           {
-            "title": "EU Funding & Tenders portal · ARROW",
+            "title": "EU Funding & Tenders portal · 101168211",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168211/EDF"
+          },
+          {
+            "title": "Company website",
+            "url": "https://seair-platforms.com/"
           }
         ]
       },
-      "card_hash": "231bf15c8b444d25"
+      "card_hash": "46c598a1f8be1239"
     },
     "segula-engineering": {
       "developments": [
