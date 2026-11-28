@@ -15924,7 +15924,7 @@
       "developments": [
         {
           "date": "23 Sep 2026",
-          "title": "SPIRIT — Small Pitch Improved Resolution for Infrared Technology",
+          "title": "European Defence Fund project 101304763",
           "tags": [
             "EDF"
           ],
@@ -15944,8 +15944,8 @@
         ]
       ],
       "about": {
-        "workspace": "INTEGRATED DETECTOR ELECTRONICS AS is a Norwegian company registered in 1992, with its seat in Oslo. It takes part in 1 European Defence Fund project (2026). Of these, EU funding to the company €2.3M.",
-        "overview": "INTEGRATED DETECTOR ELECTRONICS AS is a Norwegian company registered in 1992, with its seat in Oslo. It takes part in 1 European Defence Fund project (2026). Of these, EU funding to the company €2.3M."
+        "workspace": "INTEGRATED DETECTOR ELECTRONICS AS is a Norwegian company registered in 1992, with its seat in Oslo. It takes part in 1 European Defence Fund project (2026).",
+        "overview": "INTEGRATED DETECTOR ELECTRONICS AS is a Norwegian company registered in 1992, with its seat in Oslo. It takes part in 1 European Defence Fund project (2026)."
       },
       "facts": {
         "workspace": [
@@ -15990,31 +15990,92 @@
       "programmes": {
         "workspace": [
           {
-            "title": "SPIRIT — Small Pitch Improved Resolution for Infrared Technology",
-            "sub": "Participant · EU funding €2.3M of €29.0M · 15 partners · 2026–2030",
-            "status": "Grant · Forthcoming",
+            "title": "European Defence Fund project 101304763",
+            "sub": "EU defence research and development · call EDF-2025-DA",
+            "status": "Grant",
             "icon": "coins",
             "date": "23 Sep 2026",
-            "desc": "EDF EDF-2025-DA-SENS-IRD-STEP",
+            "desc": "Call EDF-2025-DA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304763/EDF"
           }
         ],
         "overview": [
           {
-            "title": "SPIRIT — Small Pitch Improved Resolution for Infrared Technology",
-            "sub": "Participant · EU funding €2.3M of €29.0M · 15 partners · 2026–2030",
-            "status": "Grant · Forthcoming",
+            "title": "European Defence Fund project 101304763",
+            "sub": "EU defence research and development · call EDF-2025-DA",
+            "status": "Grant",
             "icon": "coins",
             "date": "23 Sep 2026",
-            "desc": "EDF EDF-2025-DA-SENS-IRD-STEP",
+            "desc": "Call EDF-2025-DA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304763/EDF"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Custom ASICs for radiation detection",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "PRODUCTION SUPPORT",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "IDE‑XCS‑1000 series",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "SRE4001 and SRE4002 microIDM modules",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "ROSSPAD Line Scanner",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Custom ASICs for radiation detection",
+              "Custom ASICs for radiation detection — precision, low-noise signal readout for scientific, industrial, medical, defense, and space applicati",
+              "grey"
+            ],
+            [
+              "PRODUCTION SUPPORT",
+              "Integrated production support with packaging, testing, LAT, and radiation validation in-house—ensuring reliable, consistent ASIC and detecto",
+              "grey"
+            ],
+            [
+              "IDE‑XCS‑1000 series",
+              "The IDE‑XCS‑1000 series is a family of energy‑resolved photon counting systems for x‑ray and gamma photons.",
+              "grey"
+            ],
+            [
+              "SRE4001 and SRE4002 microIDM modules",
+              "Introducing the SRE4001 and SRE4002 microIDM modules, advanced CZT‑based electronics for precise gamma ray image sensor readout.",
+              "grey"
+            ],
+            [
+              "ROSSPAD Line Scanner",
+              "The ROSSPAD Line Scanner is an x‑ray and gamma‑ray detector for industrial tomography.",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -16072,34 +16133,12 @@
       ],
       "page": {
         "v": 2,
-        "lead": "INTEGRATED DETECTOR ELECTRONICS AS is a Norwegian company registered in 1992, with its seat in Oslo. It takes part in 1 European Defence Fund project (2026). Of these, EU funding to the company €2.3M.",
+        "lead": "INTEGRATED DETECTOR ELECTRONICS AS is a Norwegian company registered in 1992, with its seat in Oslo. It takes part in 1 European Defence Fund project (2026).",
         "lead_src": [
           1,
           2
         ],
-        "figures": [
-          {
-            "value": "€2.3M",
-            "label": "EU defence funding to the company",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "European Defence Fund projects",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "14",
-            "label": "organisations it shares EDF projects with",
-            "src": [
-              2
-            ]
-          }
-        ],
+        "figures": [],
         "facts": [
           [
             "1992",
@@ -16119,9 +16158,9 @@
         ],
         "activity": [
           {
-            "title": "SPIRIT — Small Pitch Improved Resolution for Infrared Technology",
-            "sub": "Participant · EU funding €2.3M of €29.0M · 15 partners · 2026–2030",
-            "status": "Grant · Forthcoming",
+            "title": "European Defence Fund project 101304763",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "23 Sep 2026",
             "iso": "2026-09-23",
             "ongoing": false,
@@ -16132,87 +16171,7 @@
           {
             "type": "funder",
             "name": "European Commission · European Defence Fund",
-            "sub": "1 grant · €2.3M",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "AIM INFRAROT-MODULE GMBH",
-            "country": "DE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
-            "country": "FR",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "E4 DEFENSE SYSTEMS SL",
-            "country": "ES",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "ESCRIBANO MECHANICAL AND ENGINEERING S.L.U.",
-            "country": "ES",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "EXOSENS ADVANCED IMAGING BELGIUM",
-            "country": "BE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "FALCONERS OU",
-            "country": "EE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "INDRA ESPACIO SLU",
-            "country": "ES",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "INDRA SISTEMAS SA",
-            "country": "ES",
-            "sub": "1 joint EDF project",
+            "sub": "1 grant",
             "status": "verified",
             "src": [
               2
@@ -16220,18 +16179,19 @@
           }
         ],
         "products": [],
+        "news": [],
         "sources": [
           {
             "title": "Company register · Org.nr 965650776",
             "url": "https://data.brreg.no/enhetsregisteret/api/enheter/965650776"
           },
           {
-            "title": "EU Funding & Tenders portal · SPIRIT",
+            "title": "EU Funding & Tenders portal · 101304763",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304763/EDF"
           }
         ]
       },
-      "card_hash": "7faaa5b59747d1b3"
+      "card_hash": "26860ae3b0918aff"
     },
     "orange-sa": {
       "developments": [
