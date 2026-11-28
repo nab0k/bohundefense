@@ -69803,7 +69803,7 @@
       "developments": [
         {
           "date": "17 Aug 2026",
-          "title": "MINERVA — Modular Integration of Naval Energy Systems for Resilient Vessels Application",
+          "title": "European Defence Fund project 101302020",
           "tags": [
             "EDF"
           ],
@@ -69812,7 +69812,7 @@
         },
         {
           "date": "12 Dec 2025",
-          "title": "AI-WASP — Artificial Intelligence Warfare Adaptive Swarm Platform",
+          "title": "European Defence Fund project 101224193",
           "tags": [
             "EDF"
           ],
@@ -69821,7 +69821,7 @@
         },
         {
           "date": "13 Nov 2025",
-          "title": "ePERFECT — European High-Performance Processor for RF Defense Applications",
+          "title": "European Defence Fund project 101224231",
           "tags": [
             "EDF"
           ],
@@ -69841,8 +69841,8 @@
         ]
       ],
       "about": {
-        "workspace": "Spinverse Oy is a Finnish company registered in 2004, with its seat in Espoo. It takes part in 3 European Defence Fund projects (2025–2026). Of these, 3 ongoing, EU funding to the company €960K.",
-        "overview": "Spinverse Oy is a Finnish company registered in 2004, with its seat in Espoo. It takes part in 3 European Defence Fund projects (2025–2026). Of these, 3 ongoing, EU funding to the company €960K."
+        "workspace": "Spinverse Oy is a Finnish company registered in 2004, with its seat in Espoo. It takes part in 3 European Defence Fund projects (2025–2026).",
+        "overview": "Spinverse Oy is a Finnish company registered in 2004, with its seat in Espoo. It takes part in 3 European Defence Fund projects (2025–2026)."
       },
       "facts": {
         "workspace": [
@@ -69887,71 +69887,202 @@
       "programmes": {
         "workspace": [
           {
-            "title": "AI-WASP — Artificial Intelligence Warfare Adaptive Swarm Platform",
-            "sub": "Participant · EU funding €360K of €44.9M · 19 partners · 2025–2029",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101302020",
+            "sub": "EU defence research and development · call EDF-2025-LS-RA-SI",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "17 Aug 2026",
+            "desc": "Call EDF-2025-LS-RA-SI",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101224193",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
             "icon": "coins",
             "date": "12 Dec 2025",
-            "desc": "EDF EDF-2024-DA-C4ISR-AIMA-STEP",
+            "desc": "Call EDF-2024-DA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224193/EDF"
           },
           {
-            "title": "ePERFECT — European High-Performance Processor for RF Defense Applications",
-            "sub": "Participant · EU funding €350K of €22.4M · 15 partners · 2025–2029",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101224231",
+            "sub": "EU defence research and development · call EDF-2024-RA-SI",
+            "status": "Grant",
             "icon": "coins",
             "date": "13 Nov 2025",
-            "desc": "EDF EDF-2024-RA-SI-MATCOMP-EC-STEP",
+            "desc": "Call EDF-2024-RA-SI",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224231/EDF"
-          },
-          {
-            "title": "MINERVA — Modular Integration of Naval Energy Systems for Resilient Vessels Application",
-            "sub": "Participant · EU funding €250K of €19.7M · 25 partners · 2026–2029",
-            "status": "Grant · Ongoing",
-            "icon": "coins",
-            "date": "17 Aug 2026",
-            "desc": "EDF EDF-2025-LS-RA-SI-ENERENV-NH2PS-STEP",
-            "color": "orange",
-            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
           }
         ],
         "overview": [
           {
-            "title": "AI-WASP — Artificial Intelligence Warfare Adaptive Swarm Platform",
-            "sub": "Participant · EU funding €360K of €44.9M · 19 partners · 2025–2029",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101302020",
+            "sub": "EU defence research and development · call EDF-2025-LS-RA-SI",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "17 Aug 2026",
+            "desc": "Call EDF-2025-LS-RA-SI",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101224193",
+            "sub": "EU defence research and development · call EDF-2024-DA",
+            "status": "Grant",
             "icon": "coins",
             "date": "12 Dec 2025",
-            "desc": "EDF EDF-2024-DA-C4ISR-AIMA-STEP",
+            "desc": "Call EDF-2024-DA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224193/EDF"
           },
           {
-            "title": "ePERFECT — European High-Performance Processor for RF Defense Applications",
-            "sub": "Participant · EU funding €350K of €22.4M · 15 partners · 2025–2029",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101224231",
+            "sub": "EU defence research and development · call EDF-2024-RA-SI",
+            "status": "Grant",
             "icon": "coins",
             "date": "13 Nov 2025",
-            "desc": "EDF EDF-2024-RA-SI-MATCOMP-EC-STEP",
+            "desc": "Call EDF-2024-RA-SI",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224231/EDF"
-          },
-          {
-            "title": "MINERVA — Modular Integration of Naval Energy Systems for Resilient Vessels Application",
-            "sub": "Participant · EU funding €250K of €19.7M · 25 partners · 2026–2029",
-            "status": "Grant · Ongoing",
-            "icon": "coins",
-            "date": "17 Aug 2026",
-            "desc": "EDF EDF-2025-LS-RA-SI-ENERENV-NH2PS-STEP",
-            "color": "orange",
-            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Funding proposal preparation",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "EU project management",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Workshops and trainings",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Funding strategy and roadmap",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Debt and equity financing",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Partner search",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Market studies and opportunity assessments",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Sustainability performance and compliance",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Organisational development and alignment",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Innovation ecosystem leadership",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Large programme coordination",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Grant Agreement Preparation (GAP)",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Funding proposal preparation",
+              "Funding proposal preparation",
+              "grey"
+            ],
+            [
+              "EU project management",
+              "EU project management",
+              "grey"
+            ],
+            [
+              "Workshops and trainings",
+              "Workshops and trainings",
+              "grey"
+            ],
+            [
+              "Funding strategy and roadmap",
+              "Funding strategy and roadmap",
+              "grey"
+            ],
+            [
+              "Debt and equity financing",
+              "Debt and equity financing",
+              "grey"
+            ],
+            [
+              "Partner search",
+              "Partner search",
+              "grey"
+            ],
+            [
+              "Market studies and opportunity assessments",
+              "Market studies and opportunity assessments",
+              "grey"
+            ],
+            [
+              "Sustainability performance and compliance",
+              "Sustainability performance and compliance",
+              "grey"
+            ],
+            [
+              "Organisational development and alignment",
+              "Organisational development and alignment",
+              "grey"
+            ],
+            [
+              "Innovation ecosystem leadership",
+              "Innovation ecosystem leadership",
+              "grey"
+            ],
+            [
+              "Large programme coordination",
+              "Large programme coordination",
+              "grey"
+            ],
+            [
+              "Grant Agreement Preparation (GAP)",
+              "Grant Agreement Preparation (GAP)",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -70025,49 +70156,12 @@
       ],
       "page": {
         "v": 2,
-        "lead": "Spinverse Oy is a Finnish company registered in 2004, with its seat in Espoo. It takes part in 3 European Defence Fund projects (2025–2026). Of these, 3 ongoing, EU funding to the company €960K.",
+        "lead": "Spinverse Oy is a Finnish company registered in 2004, with its seat in Espoo. It takes part in 3 European Defence Fund projects (2025–2026).",
         "lead_src": [
           1,
           2
         ],
-        "figures": [
-          {
-            "value": "€960K",
-            "label": "EU defence funding to the company",
-            "src": [
-              2,
-              3,
-              4
-            ]
-          },
-          {
-            "value": "3",
-            "label": "European Defence Fund projects",
-            "src": [
-              2,
-              3,
-              4
-            ]
-          },
-          {
-            "value": "3",
-            "label": "ongoing now",
-            "src": [
-              2,
-              3,
-              4
-            ]
-          },
-          {
-            "value": "51",
-            "label": "organisations it shares EDF projects with",
-            "src": [
-              2,
-              3,
-              4
-            ]
-          }
-        ],
+        "figures": [],
         "facts": [
           [
             "2004",
@@ -70087,30 +70181,30 @@
         ],
         "activity": [
           {
-            "title": "AI-WASP — Artificial Intelligence Warfare Adaptive Swarm Platform",
-            "sub": "Participant · EU funding €360K of €44.9M · 19 partners · 2025–2029",
-            "status": "Grant · Ongoing",
-            "date": "12 Dec 2025",
-            "iso": "2025-12-12",
-            "ongoing": true,
-            "src": 3
-          },
-          {
-            "title": "ePERFECT — European High-Performance Processor for RF Defense Applications",
-            "sub": "Participant · EU funding €350K of €22.4M · 15 partners · 2025–2029",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101224231",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "13 Nov 2025",
             "iso": "2025-11-13",
-            "ongoing": true,
+            "ongoing": false,
             "src": 4
           },
           {
-            "title": "MINERVA — Modular Integration of Naval Energy Systems for Resilient Vessels Application",
-            "sub": "Participant · EU funding €250K of €19.7M · 25 partners · 2026–2029",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101224193",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "12 Dec 2025",
+            "iso": "2025-12-12",
+            "ongoing": false,
+            "src": 3
+          },
+          {
+            "title": "European Defence Fund project 101302020",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "17 Aug 2026",
             "iso": "2026-08-17",
-            "ongoing": true,
+            "ongoing": false,
             "src": 2
           }
         ],
@@ -70118,118 +70212,35 @@
           {
             "type": "funder",
             "name": "European Commission · European Defence Fund",
-            "sub": "3 grants · €960K",
+            "sub": "3 grants",
             "status": "verified",
             "src": [
               2
             ]
-          },
-          {
-            "type": "partner",
-            "name": "AIRBUS DEFENCE AND SPACE GMBH",
-            "country": "DE",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              3
-            ]
-          },
-          {
-            "type": "research",
-            "name": "FRAUNHOFER GESELLSCHAFT ZUR FORDERUNG DER ANGEWANDTEN FORSCHUNG EV",
-            "country": "DE",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              2,
-              4
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "ISD LYSEIS OLOKRIROMENON SYSTIMATONANONYMOS ETAIREIA",
-            "country": "EL",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              3,
-              4
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "LEONARDO - SOCIETA PER AZIONI",
-            "country": "IT",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              3,
-              4
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "SENER AEROESPACIAL SOCIEDAD ANONIMA",
-            "country": "ES",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              3,
-              4
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "ASYGN",
-            "country": "FR",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              4
-            ]
-          },
-          {
-            "type": "research",
-            "name": "BALTIJOS PAZANGIU TECHNOLOGIJU INSTITUTAS",
-            "country": "LT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              3
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "BITTIUM WIRELESS OY",
-            "country": "FI",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              3
-            ]
           }
         ],
         "products": [],
+        "news": [],
         "sources": [
           {
             "title": "Company register · Y-tunnus 1877769-4",
             "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=1877769-4"
           },
           {
-            "title": "EU Funding & Tenders portal · MINERVA",
+            "title": "EU Funding & Tenders portal · 101302020",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101302020/EDF"
           },
           {
-            "title": "EU Funding & Tenders portal · AI-WASP",
+            "title": "EU Funding & Tenders portal · 101224193",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224193/EDF"
           },
           {
-            "title": "EU Funding & Tenders portal · ePERFECT",
+            "title": "EU Funding & Tenders portal · 101224231",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224231/EDF"
           }
         ]
       },
-      "card_hash": "6f9c734639db57ef"
+      "card_hash": "f97909597d54dfc7"
     },
     "suomen-terastekniikka-oy": {
       "developments": [],
