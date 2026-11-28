@@ -74989,12 +74989,12 @@
       "meta": [
         [
           "shield",
-          "Defence participation L3 · verified · contracts with defence customers"
+          "Defence participation L1 · supported · named military products"
         ]
       ],
       "about": {
-        "workspace": "INTRIPLE, a.s. is a Czech company registered in 2006, with its seat in Praha. EU procurement records (TED) list a contract award by Ministère de la Défense (22 Apr 2024).",
-        "overview": "INTRIPLE, a.s. is a Czech company registered in 2006, with its seat in Praha. EU procurement records (TED) list a contract award by Ministère de la Défense (22 Apr 2024)."
+        "workspace": "INTRIPLE, a.s. is a Czech company registered in 2006, with its seat in Praha. EU procurement records (TED) list a contract award by Ministère de la Défense (22 Apr 2024). Its website presents military products including TEMPEST measurement systems.",
+        "overview": "INTRIPLE, a.s. is a Czech company registered in 2006, with its seat in Praha. EU procurement records (TED) list a contract award by Ministère de la Défense (22 Apr 2024). Its website presents military products including TEMPEST measurement systems."
       },
       "facts": {
         "workspace": [
@@ -75027,7 +75027,7 @@
         ]
       },
       "attributes": [
-        "Defence L3"
+        "Defence L1"
       ],
       "taxonomy": {
         "domains": [],
@@ -75060,8 +75060,109 @@
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "TEMPEST measurement systems",
+          "level": "L0",
+          "icon": "crosshair",
+          "selected": true
+        },
+        {
+          "label": "Training courses",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Measurement System of Compromising Emanation SDIP-27/2",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Facility Zoning Measurement System SDIP-28/2",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Shielding Effectiveness Measurement System SDIP-29/2",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Software for analysis of compromising emanation",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "IZ225 Digital Receiver",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "IP982 QSCAN",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "IZ245 Monitoring Receiver",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "TEMPEST measurement systems",
+              "TEMPEST measurement systems according to NATO and EU IASG standards.",
+              "green"
+            ],
+            [
+              "Training courses",
+              "Training courses regarding the NATO and EU standards.",
+              "grey"
+            ],
+            [
+              "Measurement System of Compromising Emanation SDIP-27/2",
+              "Measurement System of Compromising Emanation SDIP-27/2",
+              "grey"
+            ],
+            [
+              "Facility Zoning Measurement System SDIP-28/2",
+              "Facility Zoning Measurement System SDIP-28/2",
+              "grey"
+            ],
+            [
+              "Shielding Effectiveness Measurement System SDIP-29/2",
+              "Shielding Effectiveness Measurement System SDIP-29/2",
+              "grey"
+            ],
+            [
+              "Software for analysis of compromising emanation",
+              "Software for analysis of compromising emanation of electronic devices.",
+              "grey"
+            ],
+            [
+              "IZ225 Digital Receiver",
+              "IZ225 Digital Receiver",
+              "grey"
+            ],
+            [
+              "IP982 QSCAN",
+              "IP982 QSCAN",
+              "grey"
+            ],
+            [
+              "IZ245 Monitoring Receiver",
+              "IZ245 Monitoring Receiver",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -75103,6 +75204,14 @@
           "href": "https://ted.europa.eu/en/notice/-/detail/236610-2024"
         },
         {
+          "claim": "TEMPEST measurement systems: “TEMPEST measurement systems according to NATO and EU IASG standards.”",
+          "sources": 1,
+          "date": "23 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://www.intriple.eu/"
+        },
+        {
           "claim": "Technologies, financials and relationships beyond these records",
           "sources": 0,
           "date": "23 Nov 2026",
@@ -75119,7 +75228,7 @@
       ],
       "page": {
         "v": 2,
-        "lead": "INTRIPLE, a.s. is a Czech company registered in 2006, with its seat in Praha. EU procurement records (TED) list a contract award by Ministère de la Défense (22 Apr 2024).",
+        "lead": "INTRIPLE, a.s. is a Czech company registered in 2006, with its seat in Praha. EU procurement records (TED) list a contract award by Ministère de la Défense (22 Apr 2024). Its website presents military products including TEMPEST measurement systems.",
         "lead_src": [
           1
         ],
@@ -75161,7 +75270,18 @@
           }
         ],
         "network": [],
-        "products": [],
+        "products": [
+          {
+            "name": "TEMPEST measurement systems",
+            "role": "makes",
+            "status": "supported",
+            "quote": "TEMPEST measurement systems according to NATO and EU IASG standards.",
+            "src": [
+              3
+            ]
+          }
+        ],
+        "news": [],
         "sources": [
           {
             "title": "Company register · IČO 27448827",
@@ -75170,10 +75290,14 @@
           {
             "title": "TED notice 236610-2024",
             "url": "https://ted.europa.eu/en/notice/-/detail/236610-2024"
+          },
+          {
+            "title": "Company website",
+            "url": "https://www.intriple.eu/"
           }
         ]
       },
-      "card_hash": "d08584797018e781"
+      "card_hash": "d7479695a22787d3"
     },
     "mgm-compro-s-r-o": {
       "developments": [
@@ -129950,8 +130074,79 @@
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Metallic fibers",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Electromagnetic Absorbent materials",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "RAM coatings for large platforms",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Structural fiberglass and resin composites (GRE/GRP)",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Flexible or structural foams and filling materials",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Flexible multiband RAM Holsters",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Metallic fibers",
+              "Manufacture of metallic fibers.",
+              "grey"
+            ],
+            [
+              "Electromagnetic Absorbent materials",
+              "Design, Development, Manufacture and Supply of Electromagnetic Absorbent materials.",
+              "grey"
+            ],
+            [
+              "RAM coatings for large platforms",
+              "Micromag designs and manufactures RAM coatings for large platforms, such as Navy ships, capable of withstanding extreme weather conditions.",
+              "grey"
+            ],
+            [
+              "Structural fiberglass and resin composites (GRE/GRP)",
+              "Micromag leads the integration of additives in structural fiberglass and resin composites (GRE/GRP) for the manufacture of ships and aircraf",
+              "grey"
+            ],
+            [
+              "Flexible or structural foams and filling materials",
+              "Micromag is pioneer in the manufacture of flexible or structural foams and filling materials with large absorption bandwidth.",
+              "grey"
+            ],
+            [
+              "Flexible multiband RAM Holsters",
+              "Provides flexible multiband RAM Holsters tunable to the frequencies of interest. Made to resist aggressive environmental conditions, UV prot",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -130062,7 +130257,7 @@
           }
         ]
       },
-      "card_hash": "e04474248b69e230"
+      "card_hash": "5a35b168c2fad074"
     },
     "multi-informatica-principado-sl": {
       "developments": [
