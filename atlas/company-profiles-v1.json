@@ -17183,7 +17183,7 @@
       "developments": [
         {
           "date": "09 Sep 2026",
-          "title": "ASIMOV — Autonomous System for Inspection, Maintenance, defence Operations and manoeuVres",
+          "title": "European Defence Fund project 101304654",
           "tags": [
             "EDF"
           ],
@@ -17192,7 +17192,7 @@
         },
         {
           "date": "15 Dec 2022",
-          "title": "SDMMS — Secure Digital Military Mobility System",
+          "title": "European Defence Fund project 101103172",
           "tags": [
             "EDF"
           ],
@@ -17201,7 +17201,7 @@
         },
         {
           "date": "07 Dec 2022",
-          "title": "dTHOR — Digital Ship Structural Health Monitoring",
+          "title": "European Defence Fund project 101103257",
           "tags": [
             "EDF"
           ],
@@ -17221,8 +17221,8 @@
         ]
       ],
       "about": {
-        "workspace": "JOTNE CONNECT AS is a Norwegian company registered in 1988, with its seat in Fornebu. It takes part in 3 European Defence Fund projects (2022–2026). Of these, EU funding to the company €2.6M.",
-        "overview": "JOTNE CONNECT AS is a Norwegian company registered in 1988, with its seat in Fornebu. It takes part in 3 European Defence Fund projects (2022–2026). Of these, EU funding to the company €2.6M."
+        "workspace": "JOTNE CONNECT AS is a Norwegian company registered in 1988, with its seat in Fornebu. It takes part in 3 European Defence Fund projects (2022–2026).",
+        "overview": "JOTNE CONNECT AS is a Norwegian company registered in 1988, with its seat in Fornebu. It takes part in 3 European Defence Fund projects (2022–2026)."
       },
       "facts": {
         "workspace": [
@@ -17267,71 +17267,142 @@
       "programmes": {
         "workspace": [
           {
-            "title": "SDMMS — Secure Digital Military Mobility System",
-            "sub": "Participant · EU funding €1.5M of €9.1M · 11 partners · 2022–2025",
-            "status": "Grant · Ended",
-            "icon": "coins",
-            "date": "15 Dec 2022",
-            "desc": "EDF EDF-2021-PROTMOB-D-DMM-2",
-            "color": "orange",
-            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103172/EDF"
-          },
-          {
-            "title": "ASIMOV — Autonomous System for Inspection, Maintenance, defence Operations and manoeuVres",
-            "sub": "Participant · EU funding €636K of €48.8M · 34 partners · 2026–2029",
-            "status": "Grant · Forthcoming",
+            "title": "European Defence Fund project 101304654",
+            "sub": "EU defence research and development · call EDF-2025-DA-SI",
+            "status": "Grant",
             "icon": "coins",
             "date": "09 Sep 2026",
-            "desc": "EDF EDF-2025-DA-SI-SPACE-3OS",
+            "desc": "Call EDF-2025-DA-SI",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304654/EDF"
           },
           {
-            "title": "dTHOR — Digital Ship Structural Health Monitoring",
-            "sub": "Participant · EU funding €549K of €14.5M · 37 partners · 2022–2025",
-            "status": "Grant · Ended",
+            "title": "European Defence Fund project 101103172",
+            "sub": "EU defence research and development · call EDF-2021-PROTMOB-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "15 Dec 2022",
+            "desc": "Call EDF-2021-PROTMOB-D-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103172/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101103257",
+            "sub": "EU defence research and development · call EDF-2021-NAVAL-R-2",
+            "status": "Grant",
             "icon": "coins",
             "date": "07 Dec 2022",
-            "desc": "EDF EDF-2021-NAVAL-R-SSHM-2",
+            "desc": "Call EDF-2021-NAVAL-R-2",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103257/EDF"
           }
         ],
         "overview": [
           {
-            "title": "SDMMS — Secure Digital Military Mobility System",
-            "sub": "Participant · EU funding €1.5M of €9.1M · 11 partners · 2022–2025",
-            "status": "Grant · Ended",
-            "icon": "coins",
-            "date": "15 Dec 2022",
-            "desc": "EDF EDF-2021-PROTMOB-D-DMM-2",
-            "color": "orange",
-            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103172/EDF"
-          },
-          {
-            "title": "ASIMOV — Autonomous System for Inspection, Maintenance, defence Operations and manoeuVres",
-            "sub": "Participant · EU funding €636K of €48.8M · 34 partners · 2026–2029",
-            "status": "Grant · Forthcoming",
+            "title": "European Defence Fund project 101304654",
+            "sub": "EU defence research and development · call EDF-2025-DA-SI",
+            "status": "Grant",
             "icon": "coins",
             "date": "09 Sep 2026",
-            "desc": "EDF EDF-2025-DA-SI-SPACE-3OS",
+            "desc": "Call EDF-2025-DA-SI",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304654/EDF"
           },
           {
-            "title": "dTHOR — Digital Ship Structural Health Monitoring",
-            "sub": "Participant · EU funding €549K of €14.5M · 37 partners · 2022–2025",
-            "status": "Grant · Ended",
+            "title": "European Defence Fund project 101103172",
+            "sub": "EU defence research and development · call EDF-2021-PROTMOB-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "15 Dec 2022",
+            "desc": "Call EDF-2021-PROTMOB-D-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103172/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101103257",
+            "sub": "EU defence research and development · call EDF-2021-NAVAL-R-2",
+            "status": "Grant",
             "icon": "coins",
             "date": "07 Dec 2022",
-            "desc": "EDF EDF-2021-NAVAL-R-SSHM-2",
+            "desc": "Call EDF-2021-NAVAL-R-2",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103257/EDF"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Stairs",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Railings",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Balconies",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Offshore solutions",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Wastewater treatment",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Industrial services",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Stairs",
+              "supplier of stairs, railings, balconies, offshore solutions, wastewater treatment, and industrial services",
+              "grey"
+            ],
+            [
+              "Railings",
+              "supplier of stairs, railings, balconies, offshore solutions, wastewater treatment, and industrial services",
+              "grey"
+            ],
+            [
+              "Balconies",
+              "supplier of stairs, railings, balconies, offshore solutions, wastewater treatment, and industrial services",
+              "grey"
+            ],
+            [
+              "Offshore solutions",
+              "supplier of stairs, railings, balconies, offshore solutions, wastewater treatment, and industrial services",
+              "grey"
+            ],
+            [
+              "Wastewater treatment",
+              "supplier of stairs, railings, balconies, offshore solutions, wastewater treatment, and industrial services",
+              "grey"
+            ],
+            [
+              "Industrial services",
+              "supplier of stairs, railings, balconies, offshore solutions, wastewater treatment, and industrial services",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -17405,40 +17476,12 @@
       ],
       "page": {
         "v": 2,
-        "lead": "JOTNE CONNECT AS is a Norwegian company registered in 1988, with its seat in Fornebu. It takes part in 3 European Defence Fund projects (2022–2026). Of these, EU funding to the company €2.6M.",
+        "lead": "JOTNE CONNECT AS is a Norwegian company registered in 1988, with its seat in Fornebu. It takes part in 3 European Defence Fund projects (2022–2026).",
         "lead_src": [
           1,
           2
         ],
-        "figures": [
-          {
-            "value": "€2.6M",
-            "label": "EU defence funding to the company",
-            "src": [
-              2,
-              3,
-              4
-            ]
-          },
-          {
-            "value": "3",
-            "label": "European Defence Fund projects",
-            "src": [
-              2,
-              3,
-              4
-            ]
-          },
-          {
-            "value": "77",
-            "label": "organisations it shares EDF projects with",
-            "src": [
-              2,
-              3,
-              4
-            ]
-          }
-        ],
+        "figures": [],
         "facts": [
           [
             "1988",
@@ -17458,146 +17501,66 @@
         ],
         "activity": [
           {
-            "title": "SDMMS — Secure Digital Military Mobility System",
-            "sub": "Participant · EU funding €1.5M of €9.1M · 11 partners · 2022–2025",
-            "status": "Grant · Ended",
+            "title": "European Defence Fund project 101103257",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "07 Dec 2022",
+            "iso": "2022-12-07",
+            "ongoing": false,
+            "src": 4
+          },
+          {
+            "title": "European Defence Fund project 101103172",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "15 Dec 2022",
             "iso": "2022-12-15",
             "ongoing": false,
             "src": 3
           },
           {
-            "title": "ASIMOV — Autonomous System for Inspection, Maintenance, defence Operations and manoeuVres",
-            "sub": "Participant · EU funding €636K of €48.8M · 34 partners · 2026–2029",
-            "status": "Grant · Forthcoming",
+            "title": "European Defence Fund project 101304654",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "09 Sep 2026",
             "iso": "2026-09-09",
             "ongoing": false,
             "src": 2
-          },
-          {
-            "title": "dTHOR — Digital Ship Structural Health Monitoring",
-            "sub": "Participant · EU funding €549K of €14.5M · 37 partners · 2022–2025",
-            "status": "Grant · Ended",
-            "date": "07 Dec 2022",
-            "iso": "2022-12-07",
-            "ongoing": false,
-            "src": 4
           }
         ],
         "network": [
           {
             "type": "funder",
             "name": "European Commission · European Defence Fund",
-            "sub": "3 grants · €2.6M",
+            "sub": "3 grants",
             "status": "verified",
             "src": [
               2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "AIRBUS DEFENCE AND SPACE GMBH",
-            "country": "DE",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "ETHNIKO KENTRO EREVNAS KAI TECHNOLOGIKIS ANAPTYXIS",
-            "country": "EL",
-            "sub": "2 joint EDF projects",
-            "status": "verified",
-            "src": [
-              2,
-              4
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "AGENIUM SPACE",
-            "country": "FR",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
-            "country": "AT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "ALGORYX SIMULATION",
-            "country": "SE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "AVS ADDED VALUE INDUSTRIAL ENGINEERING SOLUTIONS SLU",
-            "country": "ES",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "BALTIJOS PAZANGIU TECHNOLOGIJU INSTITUTAS",
-            "country": "LT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              3
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "CAFA TECH OU",
-            "country": "EE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              4
             ]
           }
         ],
         "products": [],
+        "news": [],
         "sources": [
           {
             "title": "Company register · Org.nr 948979357",
             "url": "https://data.brreg.no/enhetsregisteret/api/enheter/948979357"
           },
           {
-            "title": "EU Funding & Tenders portal · ASIMOV",
+            "title": "EU Funding & Tenders portal · 101304654",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304654/EDF"
           },
           {
-            "title": "EU Funding & Tenders portal · SDMMS",
+            "title": "EU Funding & Tenders portal · 101103172",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103172/EDF"
           },
           {
-            "title": "EU Funding & Tenders portal · dTHOR",
+            "title": "EU Funding & Tenders portal · 101103257",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103257/EDF"
           }
         ]
       },
-      "card_hash": "da38fc7ea908db7f"
+      "card_hash": "5956a2d94434e8fa"
     },
     "andoya-space-defence-as": {
       "developments": [
@@ -89946,6 +89909,42 @@
             "src": [
               2
             ]
+          },
+          {
+            "type": "customer",
+            "name": "Denmark",
+            "country": null,
+            "in_catalogue": false,
+            "sub": "Customer",
+            "status": "verified",
+            "quote": "Denmark has ordered 123 crew simulators from BAE Systems Hägglunds to train soldiers for its 159 new CV9035 MkIIIC infantry fighting vehicles",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "DALO",
+            "country": null,
+            "in_catalogue": false,
+            "sub": "Customer",
+            "status": "verified",
+            "quote": "The Danish Defence Acquisition and Logistics Organization (DALO) has signed a contract with BAE Systems Hägglunds for 123 crew simulators.",
+            "src": [
+              3
+            ]
+          },
+          {
+            "type": "customer",
+            "name": "Forze di Difesa finlandesi",
+            "country": null,
+            "in_catalogue": false,
+            "sub": "Customer · reported, not confirmed",
+            "status": "candidate",
+            "quote": "Il Ministro della Difesa Antti Häkkänen ha annunciato di aver autorizzato le Forze di Difesa finlandesi ad acquistare 160 veicoli da combattimento CV9035 Mk IV Nordic Edition per l’Esercito dalla società svedese BAE Systems Hägglunds AB.",
+            "src": [
+              4
+            ]
           }
         ],
         "products": [
@@ -89955,7 +89954,16 @@
             "status": "verified",
             "quote": "First Czech Army BAE Systems Hägglunds CV90 MkIV on show",
             "src": [
-              3,
+              5,
+              6
+            ]
+          },
+          {
+            "name": "CV9035 Mk IV Nordic Edition",
+            "role": "makes",
+            "status": "candidate",
+            "quote": "Il Ministro della Difesa Antti Häkkänen ha annunciato di aver autorizzato le Forze di Difesa finlandesi ad acquistare 160 veicoli da combattimento CV9035 Mk IV Nordic Edition per l’Esercito dalla società svedese BAE Systems Hägglunds AB.",
+            "src": [
               4
             ]
           }
@@ -89971,6 +89979,14 @@
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103595/EDF"
           },
           {
+            "title": "nordicdefencesector.com",
+            "url": "https://nordicdefencesector.com/en/article/denmark-orders-123-cv90-simulators-from-bae-systems-hagglunds"
+          },
+          {
+            "title": "aresdifesa.it",
+            "url": "https://aresdifesa.it/la-finlandia-ordina-160-ifv-cv9035-mk-iv/"
+          },
+          {
             "title": "edrmagazine.eu",
             "url": "https://www.edrmagazine.eu/future-forces-exhibition-and-forum-2026"
           },
@@ -89980,7 +89996,7 @@
           }
         ]
       },
-      "card_hash": "1917a5e8b609e06c"
+      "card_hash": "748e6ca1672e2ca9"
     },
     "eurenco-bofors-aktiebolag": {
       "developments": [
