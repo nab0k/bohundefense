@@ -30743,8 +30743,139 @@
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Démarreurs électrolytiques pour moteur à bagues",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Démarreur électronique ou électrolytique pour moteurs à cage",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "CALYS 50 / 75 / 100 / 150",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "FD 5 / 10 / 15",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "CMF 656",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "LOG OM",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "OM 16",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "OM 22",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "P200 pro",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "TM 6602 / 6630",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "TC 6621",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "DATALOG 20 / 90 / 140",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Démarreurs électrolytiques pour moteur à bagues",
+              "Démarreurs électrolytiques pour moteur à bagues",
+              "grey"
+            ],
+            [
+              "Démarreur électronique ou électrolytique pour moteurs à cage",
+              "Démarreur électronique ou électrolytique pour moteurs à cage",
+              "grey"
+            ],
+            [
+              "CALYS 50 / 75 / 100 / 150",
+              "CALYS 50 / 75 / 100 / 150",
+              "grey"
+            ],
+            [
+              "FD 5 / 10 / 15",
+              "FD 5 / 10 / 15",
+              "grey"
+            ],
+            [
+              "CMF 656",
+              "CMF 656",
+              "grey"
+            ],
+            [
+              "LOG OM",
+              "LOG OM",
+              "grey"
+            ],
+            [
+              "OM 16",
+              "OM 16",
+              "grey"
+            ],
+            [
+              "OM 22",
+              "OM 22",
+              "grey"
+            ],
+            [
+              "P200 pro",
+              "P200 pro",
+              "grey"
+            ],
+            [
+              "TM 6602 / 6630",
+              "TM 6602 / 6630",
+              "grey"
+            ],
+            [
+              "TC 6621",
+              "TC 6621",
+              "grey"
+            ],
+            [
+              "DATALOG 20 / 90 / 140",
+              "DATALOG 20 / 90 / 140",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -30799,7 +30930,65 @@
           "Ris-Orangis",
           "Registered office"
         ]
-      ]
+      ],
+      "page": {
+        "v": 2,
+        "lead": "AOIP is a French company registered in 2003, with its seat in Ris-Orangis. EU procurement records (TED) list a contract award by Direction Générale de l’Armement / DOMN / Service des achats d'armement (11 Jul 2024).",
+        "lead_src": [
+          1
+        ],
+        "figures": [
+          {
+            "value": "1",
+            "label": "contract awards on record",
+            "src": [
+              2
+            ]
+          }
+        ],
+        "facts": [
+          [
+            "2003",
+            "Registered",
+            null
+          ],
+          [
+            "Ris-Orangis, France",
+            "Headquarters",
+            null
+          ],
+          [
+            "SIREN 447524794",
+            "Register",
+            1
+          ]
+        ],
+        "activity": [
+          {
+            "title": "Contract award · Direction Générale de l’Armement / DOMN / Service des achats d'armement",
+            "sub": "TED notice 416916-2024",
+            "status": "Contract award",
+            "date": "11 Jul 2024",
+            "iso": "2024-07-11",
+            "ongoing": false,
+            "src": 2
+          }
+        ],
+        "network": [],
+        "products": [],
+        "news": [],
+        "sources": [
+          {
+            "title": "Company register · SIREN 447524794",
+            "url": "https://recherche-entreprises.api.gouv.fr/search?q=447524794"
+          },
+          {
+            "title": "TED notice 416916-2024",
+            "url": "https://ted.europa.eu/en/notice/-/detail/416916-2024"
+          }
+        ]
+      },
+      "card_hash": "05467ee197b60f77"
     },
     "arcspace-sas": {
       "developments": [
@@ -134765,8 +134954,59 @@
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Business-Management",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Engineering-Management",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Personal-Management",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Digitales Innovationsmanagement",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Business-Management",
+              "Business-Management , Engineering-Management , Personal-Management oder Digitales Innovationsmanagement !",
+              "grey"
+            ],
+            [
+              "Engineering-Management",
+              "Business-Management , Engineering-Management , Personal-Management oder Digitales Innovationsmanagement !",
+              "grey"
+            ],
+            [
+              "Personal-Management",
+              "Business-Management , Engineering-Management , Personal-Management oder Digitales Innovationsmanagement !",
+              "grey"
+            ],
+            [
+              "Digitales Innovationsmanagement",
+              "Business-Management , Engineering-Management , Personal-Management oder Digitales Innovationsmanagement !",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -134882,7 +135122,7 @@
           }
         ]
       },
-      "card_hash": "10d6144d83cf5fb7"
+      "card_hash": "d3d54b3c68a3fd78"
     },
     "reflex-aerospace-gmbh": {
       "developments": [
