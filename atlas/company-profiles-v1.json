@@ -61439,7 +61439,7 @@
       "developments": [
         {
           "date": "06 Dec 2023",
-          "title": "LATACC — LAnd TActical Collaborative Combat",
+          "title": "European Defence Fund project 101121414",
           "tags": [
             "EDF"
           ],
@@ -61455,12 +61455,12 @@
       "meta": [
         [
           "shield",
-          "Defence participation L3 · verified · European Defence Fund projects"
+          "Defence participation L1 · supported · named military products"
         ]
       ],
       "about": {
-        "workspace": "TNS-MARS SAS is a French company registered in 2007, with its seat in Versailles. It takes part in 1 European Defence Fund project (2023). Of these, 1 ongoing, EU funding to the company €225K.",
-        "overview": "TNS-MARS SAS is a French company registered in 2007, with its seat in Versailles. It takes part in 1 European Defence Fund project (2023). Of these, 1 ongoing, EU funding to the company €225K."
+        "workspace": "TNS-MARS SAS is a French company registered in 2007, with its seat in Versailles. It takes part in 1 European Defence Fund project (2023). Its website presents military products including BIGBOSS, modules logiciels du combat collaboratif.",
+        "overview": "TNS-MARS SAS is a French company registered in 2007, with its seat in Versailles. It takes part in 1 European Defence Fund project (2023). Its website presents military products including BIGBOSS, modules logiciels du combat collaboratif."
       },
       "facts": {
         "workspace": [
@@ -61493,7 +61493,7 @@
         ]
       },
       "attributes": [
-        "Defence L3"
+        "Defence L1"
       ],
       "taxonomy": {
         "domains": [],
@@ -61505,31 +61505,82 @@
       "programmes": {
         "workspace": [
           {
-            "title": "LATACC — LAnd TActical Collaborative Combat",
-            "sub": "Partner · EU funding €225K of €48.5M · 33 partners · 2023–2026",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101121414",
+            "sub": "EU defence research and development · call EDF-2022-DA",
+            "status": "Grant",
             "icon": "coins",
             "date": "06 Dec 2023",
-            "desc": "EDF EDF-2022-DA-GROUND-CGC",
+            "desc": "Call EDF-2022-DA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121414/EDF"
           }
         ],
         "overview": [
           {
-            "title": "LATACC — LAnd TActical Collaborative Combat",
-            "sub": "Partner · EU funding €225K of €48.5M · 33 partners · 2023–2026",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101121414",
+            "sub": "EU defence research and development · call EDF-2022-DA",
+            "status": "Grant",
             "icon": "coins",
             "date": "06 Dec 2023",
-            "desc": "EDF EDF-2022-DA-GROUND-CGC",
+            "desc": "Call EDF-2022-DA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121414/EDF"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "SYCOA",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "METRICS",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "BIGBOSS",
+          "level": "L0",
+          "icon": "crosshair"
+        },
+        {
+          "label": "modules logiciels du combat collaboratif",
+          "level": "L0",
+          "icon": "crosshair"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "SYCOA",
+              "Conception, réalisation et mise en oeuvre de moyens d'évaluation dédiés : - SYCOA (Système de systèmes)",
+              "grey"
+            ],
+            [
+              "METRICS",
+              "- METRICS (Briques algorithmiques, IA)",
+              "grey"
+            ],
+            [
+              "BIGBOSS",
+              "- BIGBOSS Outil de simulation constructive dédié au combat collaboratif",
+              "green"
+            ],
+            [
+              "modules logiciels du combat collaboratif",
+              "Développement des modules logiciels du combat collaboratif pour en faire une réalité opérationnelle",
+              "green"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -61571,6 +61622,22 @@
           "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121414/EDF"
         },
         {
+          "claim": "BIGBOSS: “- BIGBOSS Outil de simulation constructive dédié au combat collaboratif”",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://www.tns-mars.com/"
+        },
+        {
+          "claim": "modules logiciels du combat collaboratif: “Développement des modules logiciels du combat collaboratif pour en faire une réalité opérationnelle”",
+          "sources": 1,
+          "date": "21 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://www.tns-mars.com/"
+        },
+        {
           "claim": "Technologies, financials and relationships beyond these records",
           "sources": 0,
           "date": "21 Nov 2026",
@@ -61587,41 +61654,12 @@
       ],
       "page": {
         "v": 2,
-        "lead": "TNS-MARS SAS is a French company registered in 2007, with its seat in Versailles. It takes part in 1 European Defence Fund project (2023). Of these, 1 ongoing, EU funding to the company €225K.",
+        "lead": "TNS-MARS SAS is a French company registered in 2007, with its seat in Versailles. It takes part in 1 European Defence Fund project (2023). Its website presents military products including BIGBOSS, modules logiciels du combat collaboratif.",
         "lead_src": [
           1,
           2
         ],
-        "figures": [
-          {
-            "value": "€225K",
-            "label": "EU defence funding to the company",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "European Defence Fund projects",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "ongoing now",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "32",
-            "label": "organisations it shares EDF projects with",
-            "src": [
-              2
-            ]
-          }
-        ],
+        "figures": [],
         "facts": [
           [
             "2007",
@@ -61641,12 +61679,12 @@
         ],
         "activity": [
           {
-            "title": "LATACC — LAnd TActical Collaborative Combat",
-            "sub": "Partner · EU funding €225K of €48.5M · 33 partners · 2023–2026",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101121414",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "06 Dec 2023",
             "iso": "2023-12-06",
-            "ongoing": true,
+            "ongoing": false,
             "src": 2
           }
         ],
@@ -61654,106 +61692,50 @@
           {
             "type": "funder",
             "name": "European Commission · European Defence Fund",
-            "sub": "1 grant · €225K",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
-            "country": "AT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "BALTIJOS PAZANGIU TECHNOLOGIJU INSTITUTAS",
-            "country": "LT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "BLACKNED GMBH",
-            "country": "DE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "BULL SAS",
-            "country": "FR",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "CLAVISTER SECURITY AB",
-            "country": "SE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "ELETTRONICA SPA",
-            "country": "IT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "GREEN COMMUNICATIONS SAS",
-            "country": "FR",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "HELSING GMBH",
-            "country": "DE",
-            "sub": "1 joint EDF project",
+            "sub": "1 grant",
             "status": "verified",
             "src": [
               2
             ]
           }
         ],
-        "products": [],
+        "products": [
+          {
+            "name": "BIGBOSS",
+            "role": "makes",
+            "status": "supported",
+            "quote": "- BIGBOSS Outil de simulation constructive dédié au combat collaboratif",
+            "src": [
+              3
+            ]
+          },
+          {
+            "name": "modules logiciels du combat collaboratif",
+            "role": "makes",
+            "status": "supported",
+            "quote": "Développement des modules logiciels du combat collaboratif pour en faire une réalité opérationnelle",
+            "src": [
+              3
+            ]
+          }
+        ],
+        "news": [],
         "sources": [
           {
             "title": "Company register · SIREN 501657985",
             "url": "https://recherche-entreprises.api.gouv.fr/search?q=501657985"
           },
           {
-            "title": "EU Funding & Tenders portal · LATACC",
+            "title": "EU Funding & Tenders portal · 101121414",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101121414/EDF"
+          },
+          {
+            "title": "Company website",
+            "url": "https://www.tns-mars.com/"
           }
         ]
       },
-      "card_hash": "7ecabd007666abc6"
+      "card_hash": "f06f945e8aa6fe4c"
     },
     "united-monolithic-semiconductors-sas": {
       "developments": [
@@ -135251,12 +135233,12 @@
       "meta": [
         [
           "shield",
-          "Defence participation L3 · verified · European Defence Fund projects"
+          "Defence participation L1 · supported · named military products"
         ]
       ],
       "about": {
-        "workspace": "REFLEX aerospace GmbH is a German company registered in 2021, with its seat in Berlin. It takes part in 1 European Defence Fund project (2024).",
-        "overview": "REFLEX aerospace GmbH is a German company registered in 2021, with its seat in Berlin. It takes part in 1 European Defence Fund project (2024)."
+        "workspace": "REFLEX aerospace GmbH is a German company registered in 2021, with its seat in Berlin. It takes part in 1 European Defence Fund project (2024). Its website presents military products including SIGINT satellite.",
+        "overview": "REFLEX aerospace GmbH is a German company registered in 2021, with its seat in Berlin. It takes part in 1 European Defence Fund project (2024). Its website presents military products including SIGINT satellite."
       },
       "facts": {
         "workspace": [
@@ -135289,7 +135271,7 @@
         ]
       },
       "attributes": [
-        "Defence L3"
+        "Defence L1"
       ],
       "taxonomy": {
         "domains": [],
@@ -135324,8 +135306,39 @@
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Optical Earth Observation satellite",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "SIGINT satellite",
+          "level": "L0",
+          "icon": "crosshair"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Optical Earth Observation satellite",
+              "high-resolution optical Earth observation satellites built to monitor change, assess critical areas, and turn imagery into actionable intell",
+              "grey"
+            ],
+            [
+              "SIGINT satellite",
+              "SIGINT satellites designed to detect, characterize, and geolocate radio-frequency emissions across areas of interest.",
+              "green"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -135367,6 +135380,14 @@
           "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168065/EDF"
         },
         {
+          "claim": "SIGINT satellite: “SIGINT satellites designed to detect, characterize, and geolocate radio-frequency emissions across areas of interest.”",
+          "sources": 1,
+          "date": "26 Nov 2026",
+          "status": "Supported",
+          "source": "Company website",
+          "href": "https://www.reflexaerospace.com/solutions-overview"
+        },
+        {
           "claim": "Technologies, financials and relationships beyond these records",
           "sources": 0,
           "date": "26 Nov 2026",
@@ -135383,7 +135404,7 @@
       ],
       "page": {
         "v": 2,
-        "lead": "REFLEX aerospace GmbH is a German company registered in 2021, with its seat in Berlin. It takes part in 1 European Defence Fund project (2024).",
+        "lead": "REFLEX aerospace GmbH is a German company registered in 2021, with its seat in Berlin. It takes part in 1 European Defence Fund project (2024). Its website presents military products including SIGINT satellite.",
         "lead_src": [
           1,
           2
@@ -135428,7 +135449,17 @@
             ]
           }
         ],
-        "products": [],
+        "products": [
+          {
+            "name": "SIGINT satellite",
+            "role": "makes",
+            "status": "supported",
+            "quote": "SIGINT satellites designed to detect, characterize, and geolocate radio-frequency emissions across areas of interest.",
+            "src": [
+              3
+            ]
+          }
+        ],
         "news": [],
         "sources": [
           {
@@ -135438,10 +135469,14 @@
           {
             "title": "EU Funding & Tenders portal · 101168065",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168065/EDF"
+          },
+          {
+            "title": "Company website",
+            "url": "https://www.reflexaerospace.com/solutions-overview"
           }
         ]
       },
-      "card_hash": "cb49301659ea8306"
+      "card_hash": "87eab6d82c17b9cb"
     },
     "renk-magnet-motor-gmbh": {
       "developments": [
