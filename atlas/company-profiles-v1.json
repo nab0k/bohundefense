@@ -65866,7 +65866,7 @@
       "developments": [
         {
           "date": "13 Aug 2024",
-          "title": "NAMMO_155 — NAMMO Lapua – Increasing the production of 155 mm shell bodies",
+          "title": "European Defence Fund project 101172037",
           "tags": [
             "EDF"
           ],
@@ -65886,8 +65886,8 @@
         ]
       ],
       "about": {
-        "workspace": "Jykia Oy is a Finnish company registered in 1983, with its seat in Jyväskylä. It takes part in 1 European Defence Fund project (2024). Of these, EU funding to the company €6.6M.",
-        "overview": "Jykia Oy is a Finnish company registered in 1983, with its seat in Jyväskylä. It takes part in 1 European Defence Fund project (2024). Of these, EU funding to the company €6.6M."
+        "workspace": "Jykia Oy is a Finnish company registered in 1983, with its seat in Jyväskylä. It takes part in 1 European Defence Fund project (2024).",
+        "overview": "Jykia Oy is a Finnish company registered in 1983, with its seat in Jyväskylä. It takes part in 1 European Defence Fund project (2024)."
       },
       "facts": {
         "workspace": [
@@ -65932,31 +65932,82 @@
       "programmes": {
         "workspace": [
           {
-            "title": "NAMMO_155 — NAMMO Lapua – Increasing the production of 155 mm shell bodies",
-            "sub": "Participant · EU funding €6.6M of €22.5M · 2 partners · 2023–2026",
-            "status": "Grant · Ended",
+            "title": "European Defence Fund project 101172037",
+            "sub": "EU defence research and development · call EDF-ASAP-2023-LS-SHL",
+            "status": "Grant",
             "icon": "coins",
             "date": "13 Aug 2024",
-            "desc": "EDF EDF-ASAP-2023-LS-SHL-IPC",
+            "desc": "Call EDF-ASAP-2023-LS-SHL",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101172037/EDF"
           }
         ],
         "overview": [
           {
-            "title": "NAMMO_155 — NAMMO Lapua – Increasing the production of 155 mm shell bodies",
-            "sub": "Participant · EU funding €6.6M of €22.5M · 2 partners · 2023–2026",
-            "status": "Grant · Ended",
+            "title": "European Defence Fund project 101172037",
+            "sub": "EU defence research and development · call EDF-ASAP-2023-LS-SHL",
+            "status": "Grant",
             "icon": "coins",
             "date": "13 Aug 2024",
-            "desc": "EDF EDF-ASAP-2023-LS-SHL-IPC",
+            "desc": "Call EDF-ASAP-2023-LS-SHL",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101172037/EDF"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Toimitilojen kehittäminen",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Aluekehitys",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Rahoittaminen",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Sijoittumispalvelut",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Toimitilojen kehittäminen",
+              "Toimitilojen kehittäminen – apua yritystilojen toimivuuteen",
+              "grey"
+            ],
+            [
+              "Aluekehitys",
+              "Aluekehitys – laaja kumppaniverkosto",
+              "grey"
+            ],
+            [
+              "Rahoittaminen",
+              "Rahoittaminen – yhteisomistajuus, vuokraus tai omistajuus",
+              "grey"
+            ],
+            [
+              "Sijoittumispalvelut",
+              "Sijoittumispalvelut – yhteistyössä elinkeinoyksiköiden kanssa",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -66014,34 +66065,12 @@
       ],
       "page": {
         "v": 2,
-        "lead": "Jykia Oy is a Finnish company registered in 1983, with its seat in Jyväskylä. It takes part in 1 European Defence Fund project (2024). Of these, EU funding to the company €6.6M.",
+        "lead": "Jykia Oy is a Finnish company registered in 1983, with its seat in Jyväskylä. It takes part in 1 European Defence Fund project (2024).",
         "lead_src": [
           1,
           2
         ],
-        "figures": [
-          {
-            "value": "€6.6M",
-            "label": "EU defence funding to the company",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "European Defence Fund projects",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "organisations it shares EDF projects with",
-            "src": [
-              2
-            ]
-          }
-        ],
+        "figures": [],
         "facts": [
           [
             "1983",
@@ -66061,9 +66090,9 @@
         ],
         "activity": [
           {
-            "title": "NAMMO_155 — NAMMO Lapua – Increasing the production of 155 mm shell bodies",
-            "sub": "Participant · EU funding €6.6M of €22.5M · 2 partners · 2023–2026",
-            "status": "Grant · Ended",
+            "title": "European Defence Fund project 101172037",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "13 Aug 2024",
             "iso": "2024-08-13",
             "ongoing": false,
@@ -66074,17 +66103,7 @@
           {
             "type": "funder",
             "name": "European Commission · European Defence Fund",
-            "sub": "1 grant · €6.6M",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "NAMMO LAPUA OY",
-            "country": "FI",
-            "sub": "1 joint EDF project",
+            "sub": "1 grant",
             "status": "verified",
             "src": [
               2
@@ -66092,18 +66111,19 @@
           }
         ],
         "products": [],
+        "news": [],
         "sources": [
           {
             "title": "Company register · Y-tunnus 0506036-0",
             "url": "https://avoindata.prh.fi/opendata-ytj-api/v3/companies?businessId=0506036-0"
           },
           {
-            "title": "EU Funding & Tenders portal · NAMMO_155",
+            "title": "EU Funding & Tenders portal · 101172037",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101172037/EDF"
           }
         ]
       },
-      "card_hash": "4a85a7cfaf979b9f"
+      "card_hash": "a7da7ed7986477e2"
     },
     "kradient-intelligence-oy": {
       "developments": [
