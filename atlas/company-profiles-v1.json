@@ -29645,7 +29645,7 @@
       "developments": [
         {
           "date": "10 Dec 2024",
-          "title": "SEACURE — SEabed and Anti-submarine warfare Capability through Unmanned featuRe for Europe",
+          "title": "European Defence Fund project 101168134",
           "tags": [
             "EDF"
           ],
@@ -29665,8 +29665,8 @@
         ]
       ],
       "about": {
-        "workspace": "ALSEAMAR is a French company registered in 1987, with its seat in Paris. It takes part in 1 European Defence Fund project (2024). Of these, 1 ongoing, EU funding to the company €633K.",
-        "overview": "ALSEAMAR is a French company registered in 1987, with its seat in Paris. It takes part in 1 European Defence Fund project (2024). Of these, 1 ongoing, EU funding to the company €633K."
+        "workspace": "ALSEAMAR is a French company registered in 1987, with its seat in Paris. It takes part in 1 European Defence Fund project (2024).",
+        "overview": "ALSEAMAR is a French company registered in 1987, with its seat in Paris. It takes part in 1 European Defence Fund project (2024)."
       },
       "facts": {
         "workspace": [
@@ -29711,31 +29711,112 @@
       "programmes": {
         "workspace": [
           {
-            "title": "SEACURE — SEabed and Anti-submarine warfare Capability through Unmanned featuRe for Europe",
-            "sub": "Participant · EU funding €633K of €44.4M · 36 partners · 2024–2028",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101168134",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
             "icon": "coins",
             "date": "10 Dec 2024",
-            "desc": "EDF EDF-2023-DA-UWW-ASW",
+            "desc": "Call EDF-2023-DA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168134/EDF"
           }
         ],
         "overview": [
           {
-            "title": "SEACURE — SEabed and Anti-submarine warfare Capability through Unmanned featuRe for Europe",
-            "sub": "Participant · EU funding €633K of €44.4M · 36 partners · 2024–2028",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101168134",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
             "icon": "coins",
             "date": "10 Dec 2024",
-            "desc": "EDF EDF-2023-DA-UWW-ASW",
+            "desc": "Call EDF-2023-DA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168134/EDF"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Shallow Water Foams",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Deepwater Pure Syntactic Foam",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Custom Buoyancy Products",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "SEAMONITOR Surface Buoy",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "SEANODE Seabed Station",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "SEAEXPLORER Underwater Glider",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "GLIMPSE C2 System",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Shallow Water Foams",
+              "Shallow Water Foams 0 to 1,000 msw",
+              "grey"
+            ],
+            [
+              "Deepwater Pure Syntactic Foam",
+              "Deepwater Pure Syntactic Foam 1,000 to 12,000 msw",
+              "grey"
+            ],
+            [
+              "Custom Buoyancy Products",
+              "Custom Buoyancy Products In-house engineering and manufacturing from raw materials to finished products",
+              "grey"
+            ],
+            [
+              "SEAMONITOR Surface Buoy",
+              "SEAMONITOR Surface Buoy From 20m to 200m deep",
+              "grey"
+            ],
+            [
+              "SEANODE Seabed Station",
+              "SEANODE Seabed Station From 50m to 3,500m deep",
+              "grey"
+            ],
+            [
+              "SEAEXPLORER Underwater Glider",
+              "SEAEXPLORER Underwater Glider From 5m to 1,250m deep",
+              "grey"
+            ],
+            [
+              "GLIMPSE C2 System",
+              "Real-time data transmission is provided by the ALSEAMAR GLIMPSE C2 system, which enables the fusion and visualization of data collected and ",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -29793,41 +29874,12 @@
       ],
       "page": {
         "v": 2,
-        "lead": "ALSEAMAR is a French company registered in 1987, with its seat in Paris. It takes part in 1 European Defence Fund project (2024). Of these, 1 ongoing, EU funding to the company €633K.",
+        "lead": "ALSEAMAR is a French company registered in 1987, with its seat in Paris. It takes part in 1 European Defence Fund project (2024).",
         "lead_src": [
           1,
           2
         ],
-        "figures": [
-          {
-            "value": "€633K",
-            "label": "EU defence funding to the company",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "European Defence Fund projects",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "ongoing now",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "35",
-            "label": "organisations it shares EDF projects with",
-            "src": [
-              2
-            ]
-          }
-        ],
+        "figures": [],
         "facts": [
           [
             "1987",
@@ -29847,12 +29899,12 @@
         ],
         "activity": [
           {
-            "title": "SEACURE — SEabed and Anti-submarine warfare Capability through Unmanned featuRe for Europe",
-            "sub": "Participant · EU funding €633K of €44.4M · 36 partners · 2024–2028",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101168134",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "10 Dec 2024",
             "iso": "2024-12-10",
-            "ongoing": true,
+            "ongoing": false,
             "src": 2
           }
         ],
@@ -29860,87 +29912,7 @@
           {
             "type": "funder",
             "name": "European Commission · European Defence Fund",
-            "sub": "1 grant · €633K",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "CEIIA - CENTRO DE ENGENHARIA E DESENVOLVIMENTO (ASSOCIACAO)",
-            "country": "PT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "DRASS GALEAZZI SRL",
-            "country": "IT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "ESG Elektroniksystem- und Logistik-Gesellschaft mit beschrankter Haftung",
-            "country": "DE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "ETME PEPPAS & ASSOCIATES SOCIETE ANONYME",
-            "country": "EL",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "EXAIL ROBOTICS",
-            "country": "FR",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "FEAC ENGINEERING PRIVATE COMPANY",
-            "country": "EL",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "FINCANTIERI SPA",
-            "country": "IT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "FINCANTIERI NEXTECH SPA",
-            "country": "IT",
-            "sub": "1 joint EDF project",
+            "sub": "1 grant",
             "status": "verified",
             "src": [
               2
@@ -29948,18 +29920,19 @@
           }
         ],
         "products": [],
+        "news": [],
         "sources": [
           {
             "title": "Company register · SIREN 340161595",
             "url": "https://recherche-entreprises.api.gouv.fr/search?q=340161595"
           },
           {
-            "title": "EU Funding & Tenders portal · SEACURE",
+            "title": "EU Funding & Tenders portal · 101168134",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168134/EDF"
           }
         ]
       },
-      "card_hash": "6aecea5f0da248d6"
+      "card_hash": "1b431a893eec0b26"
     },
     "ameris-france": {
       "developments": [
@@ -98855,7 +98828,7 @@
       "developments": [
         {
           "date": "30 Oct 2025",
-          "title": "NINJA2 — Non Interferable Non Jammable Accurate Ammunition",
+          "title": "European Defence Fund project 101224095",
           "tags": [
             "EDF"
           ],
@@ -98864,7 +98837,7 @@
         },
         {
           "date": "20 Nov 2024",
-          "title": "STAALION — Space Threats Analysis based on Automated reaL-time In-situ capabilities and Onboard processing decentralized Network",
+          "title": "European Defence Fund project 101168170",
           "tags": [
             "EDF"
           ],
@@ -98873,7 +98846,7 @@
         },
         {
           "date": "05 Dec 2022",
-          "title": "P2P-FSO — Platform to Platform Free Space Optical link",
+          "title": "European Defence Fund project 101102758",
           "tags": [
             "EDF"
           ],
@@ -98893,8 +98866,8 @@
         ]
       ],
       "about": {
-        "workspace": "Lambda-X High Tech is a Belgian company registered in 2023, with its seat in Nivelles. It takes part in 3 European Defence Fund projects (2022–2025). Of these, 3 ongoing, EU funding to the company €1.2M.",
-        "overview": "Lambda-X High Tech is a Belgian company registered in 2023, with its seat in Nivelles. It takes part in 3 European Defence Fund projects (2022–2025). Of these, 3 ongoing, EU funding to the company €1.2M."
+        "workspace": "Lambda-X High Tech is a Belgian company registered in 2023, with its seat in Nivelles. It takes part in 3 European Defence Fund projects (2022–2025).",
+        "overview": "Lambda-X High Tech is a Belgian company registered in 2023, with its seat in Nivelles. It takes part in 3 European Defence Fund projects (2022–2025)."
       },
       "facts": {
         "workspace": [
@@ -98939,71 +98912,132 @@
       "programmes": {
         "workspace": [
           {
-            "title": "P2P-FSO — Platform to Platform Free Space Optical link",
-            "sub": "Participant · EU funding €522K of €3.4M · 6 partners · 2022–2028",
-            "status": "Grant · Ongoing",
-            "icon": "coins",
-            "date": "05 Dec 2022",
-            "desc": "EDF EDF-2021-OPEN-D-SME-2",
-            "color": "orange",
-            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102758/EDF"
-          },
-          {
-            "title": "NINJA2 — Non Interferable Non Jammable Accurate Ammunition",
-            "sub": "Participant · EU funding €431K of €29.6M · 17 partners · 2025–2028",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101224095",
+            "sub": "EU defence research and development · call EDF-2024-RA",
+            "status": "Grant",
             "icon": "coins",
             "date": "30 Oct 2025",
-            "desc": "EDF EDF-2024-RA-GROUND-IWAS",
+            "desc": "Call EDF-2024-RA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224095/EDF"
           },
           {
-            "title": "STAALION — Space Threats Analysis based on Automated reaL-time In-situ capabilities and Onboard processing decentralized Network",
-            "sub": "Participant · EU funding €280K of €6.0M · 7 partners · 2024–2026",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101168170",
+            "sub": "EU defence research and development · call EDF-2023-LS-DA-SME",
+            "status": "Grant",
             "icon": "coins",
             "date": "20 Nov 2024",
-            "desc": "EDF EDF-2023-LS-DA-SME-NT",
+            "desc": "Call EDF-2023-LS-DA-SME",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168170/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101102758",
+            "sub": "EU defence research and development · call EDF-2021-OPEN-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "05 Dec 2022",
+            "desc": "Call EDF-2021-OPEN-D-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102758/EDF"
           }
         ],
         "overview": [
           {
-            "title": "P2P-FSO — Platform to Platform Free Space Optical link",
-            "sub": "Participant · EU funding €522K of €3.4M · 6 partners · 2022–2028",
-            "status": "Grant · Ongoing",
-            "icon": "coins",
-            "date": "05 Dec 2022",
-            "desc": "EDF EDF-2021-OPEN-D-SME-2",
-            "color": "orange",
-            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102758/EDF"
-          },
-          {
-            "title": "NINJA2 — Non Interferable Non Jammable Accurate Ammunition",
-            "sub": "Participant · EU funding €431K of €29.6M · 17 partners · 2025–2028",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101224095",
+            "sub": "EU defence research and development · call EDF-2024-RA",
+            "status": "Grant",
             "icon": "coins",
             "date": "30 Oct 2025",
-            "desc": "EDF EDF-2024-RA-GROUND-IWAS",
+            "desc": "Call EDF-2024-RA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224095/EDF"
           },
           {
-            "title": "STAALION — Space Threats Analysis based on Automated reaL-time In-situ capabilities and Onboard processing decentralized Network",
-            "sub": "Participant · EU funding €280K of €6.0M · 7 partners · 2024–2026",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101168170",
+            "sub": "EU defence research and development · call EDF-2023-LS-DA-SME",
+            "status": "Grant",
             "icon": "coins",
             "date": "20 Nov 2024",
-            "desc": "EDF EDF-2023-LS-DA-SME-NT",
+            "desc": "Call EDF-2023-LS-DA-SME",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168170/EDF"
+          },
+          {
+            "title": "European Defence Fund project 101102758",
+            "sub": "EU defence research and development · call EDF-2021-OPEN-D-2",
+            "status": "Grant",
+            "icon": "coins",
+            "date": "05 Dec 2022",
+            "desc": "Call EDF-2021-OPEN-D-2",
+            "color": "orange",
+            "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102758/EDF"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Custom optical systems and payloads",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Optical subsystems",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Feasibility studies",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Fast prototyping",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Technology blocks",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Custom optical systems and payloads",
+              "We co-develop custom optical systems and payloads, lightweight, precise and integration-ready, for applications ranging from thermal detecti",
+              "grey"
+            ],
+            [
+              "Optical subsystems",
+              "When you need sharper insights, faster data or higher precision, optical subsystems become the critical enabler. We co-develop solutions tha",
+              "grey"
+            ],
+            [
+              "Feasibility studies",
+              "Feasibility studies: Through science-based research, we investigate the physics or biotech behind your application.",
+              "grey"
+            ],
+            [
+              "Fast prototyping",
+              "Fast prototyping Reduced time-to-market, early stage concepts validation and resources optimization.",
+              "grey"
+            ],
+            [
+              "Technology blocks",
+              "Technology blocks Pre-developed optical sub-systems, lenses, electronic boards and mechatronic modules.",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -99077,49 +99111,12 @@
       ],
       "page": {
         "v": 2,
-        "lead": "Lambda-X High Tech is a Belgian company registered in 2023, with its seat in Nivelles. It takes part in 3 European Defence Fund projects (2022–2025). Of these, 3 ongoing, EU funding to the company €1.2M.",
+        "lead": "Lambda-X High Tech is a Belgian company registered in 2023, with its seat in Nivelles. It takes part in 3 European Defence Fund projects (2022–2025).",
         "lead_src": [
           1,
           2
         ],
-        "figures": [
-          {
-            "value": "€1.2M",
-            "label": "EU defence funding to the company",
-            "src": [
-              2,
-              3,
-              4
-            ]
-          },
-          {
-            "value": "3",
-            "label": "European Defence Fund projects",
-            "src": [
-              2,
-              3,
-              4
-            ]
-          },
-          {
-            "value": "3",
-            "label": "ongoing now",
-            "src": [
-              2,
-              3,
-              4
-            ]
-          },
-          {
-            "value": "26",
-            "label": "organisations it shares EDF projects with",
-            "src": [
-              2,
-              3,
-              4
-            ]
-          }
-        ],
+        "figures": [],
         "facts": [
           [
             "2023",
@@ -99139,128 +99136,38 @@
         ],
         "activity": [
           {
-            "title": "P2P-FSO — Platform to Platform Free Space Optical link",
-            "sub": "Participant · EU funding €522K of €3.4M · 6 partners · 2022–2028",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101102758",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "05 Dec 2022",
             "iso": "2022-12-05",
-            "ongoing": true,
+            "ongoing": false,
             "src": 4
           },
           {
-            "title": "NINJA2 — Non Interferable Non Jammable Accurate Ammunition",
-            "sub": "Participant · EU funding €431K of €29.6M · 17 partners · 2025–2028",
-            "status": "Grant · Ongoing",
-            "date": "30 Oct 2025",
-            "iso": "2025-10-30",
-            "ongoing": true,
-            "src": 2
-          },
-          {
-            "title": "STAALION — Space Threats Analysis based on Automated reaL-time In-situ capabilities and Onboard processing decentralized Network",
-            "sub": "Participant · EU funding €280K of €6.0M · 7 partners · 2024–2026",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101168170",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "20 Nov 2024",
             "iso": "2024-11-20",
-            "ongoing": true,
+            "ongoing": false,
             "src": 3
+          },
+          {
+            "title": "European Defence Fund project 101224095",
+            "sub": "EU defence research and development",
+            "status": "Grant",
+            "date": "30 Oct 2025",
+            "iso": "2025-10-30",
+            "ongoing": false,
+            "src": 2
           }
         ],
         "network": [
           {
             "type": "funder",
             "name": "European Commission · European Defence Fund",
-            "sub": "3 grants · €1.2M",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "group",
-            "name": "Lambda-X Sa",
-            "country": "BE",
-            "src": [
-              4
-            ],
-            "sub": "Group entity · in P2P-FSO",
-            "status": "verified"
-          },
-          {
-            "type": "research",
-            "name": "AALBORG UNIVERSITET",
-            "country": "DK",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "AMPHINICY LUXEMBOURG SARL",
-            "country": "LU",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              4
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "ASENSE NOVA SL",
-            "country": "ES",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              4
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "COMPANIA NATIONALA ROMARM SA",
-            "country": "RO",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "FRAUNHOFER GESELLSCHAFT ZUR FORDERUNG DER ANGEWANDTEN FORSCHUNG EV",
-            "country": "DE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "GMV AEROSPACE AND DEFENCE SA",
-            "country": "ES",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "HELLENIC INSTRUMENTS IKE",
-            "country": "EL",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              4
-            ]
-          },
-          {
-            "type": "research",
-            "name": "IMMS INSTITUT FUER MIKROELEKTRONIK- UND MECHATRONIK-SYSTEME GMBH",
-            "country": "DE",
-            "sub": "1 joint EDF project",
+            "sub": "3 grants",
             "status": "verified",
             "src": [
               2
@@ -99275,20 +99182,20 @@
             "url": "https://api.gleif.org/api/v1/lei-records/699400JGE1SFGJSG6258"
           },
           {
-            "title": "EU Funding & Tenders portal · NINJA2",
+            "title": "EU Funding & Tenders portal · 101224095",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101224095/EDF"
           },
           {
-            "title": "EU Funding & Tenders portal · STAALION",
+            "title": "EU Funding & Tenders portal · 101168170",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101168170/EDF"
           },
           {
-            "title": "EU Funding & Tenders portal · P2P-FSO",
+            "title": "EU Funding & Tenders portal · 101102758",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101102758/EDF"
           }
         ]
       },
-      "card_hash": "ac87d286a6151bd1"
+      "card_hash": "4df8582f9f7348ab"
     },
     "hensoldt-sensors-gmbh": {
       "developments": [
