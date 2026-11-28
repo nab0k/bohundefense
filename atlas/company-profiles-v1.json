@@ -13368,7 +13368,7 @@
       "developments": [
         {
           "date": "14 Oct 2026",
-          "title": "ACHILE 2 — Augmented Capability for HIgh end soLdiErs 2",
+          "title": "European Defence Fund project 101304808",
           "tags": [
             "EDF"
           ],
@@ -13388,8 +13388,8 @@
         ]
       ],
       "about": {
-        "workspace": "EYELIGHTS is a French company registered in 2016, with its seat in Labege. It takes part in 1 European Defence Fund project (2026). Of these, EU funding to the company €981K.",
-        "overview": "EYELIGHTS is a French company registered in 2016, with its seat in Labege. It takes part in 1 European Defence Fund project (2026). Of these, EU funding to the company €981K."
+        "workspace": "EYELIGHTS is a French company registered in 2016, with its seat in Labege. It takes part in 1 European Defence Fund project (2026).",
+        "overview": "EYELIGHTS is a French company registered in 2016, with its seat in Labege. It takes part in 1 European Defence Fund project (2026)."
       },
       "facts": {
         "workspace": [
@@ -13434,31 +13434,52 @@
       "programmes": {
         "workspace": [
           {
-            "title": "ACHILE 2 — Augmented Capability for HIgh end soLdiErs 2",
-            "sub": "Participant · EU funding €981K of €35.0M · 27 partners · 2027–2031",
-            "status": "Grant · Forthcoming",
+            "title": "European Defence Fund project 101304808",
+            "sub": "EU defence research and development · call EDF-2025-DA",
+            "status": "Grant",
             "icon": "coins",
             "date": "14 Oct 2026",
-            "desc": "EDF EDF-2025-DA-PROTMOB-SS",
+            "desc": "Call EDF-2025-DA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304808/EDF"
           }
         ],
         "overview": [
           {
-            "title": "ACHILE 2 — Augmented Capability for HIgh end soLdiErs 2",
-            "sub": "Participant · EU funding €981K of €35.0M · 27 partners · 2027–2031",
-            "status": "Grant · Forthcoming",
+            "title": "European Defence Fund project 101304808",
+            "sub": "EU defence research and development · call EDF-2025-DA",
+            "status": "Grant",
             "icon": "coins",
             "date": "14 Oct 2026",
-            "desc": "EDF EDF-2025-DA-PROTMOB-SS",
+            "desc": "Call EDF-2025-DA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304808/EDF"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Pulse Ultra",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Pulse Ultra",
+              "Le Pulse Ultra est un intercom universel développé par EyeLights : portée illimitée, nombre de motards connectés illimité et compatibilité a",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -13516,34 +13537,12 @@
       ],
       "page": {
         "v": 2,
-        "lead": "EYELIGHTS is a French company registered in 2016, with its seat in Labege. It takes part in 1 European Defence Fund project (2026). Of these, EU funding to the company €981K.",
+        "lead": "EYELIGHTS is a French company registered in 2016, with its seat in Labege. It takes part in 1 European Defence Fund project (2026).",
         "lead_src": [
           1,
           2
         ],
-        "figures": [
-          {
-            "value": "€981K",
-            "label": "EU defence funding to the company",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "European Defence Fund projects",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "26",
-            "label": "organisations it shares EDF projects with",
-            "src": [
-              2
-            ]
-          }
-        ],
+        "figures": [],
         "facts": [
           [
             "2016",
@@ -13563,9 +13562,9 @@
         ],
         "activity": [
           {
-            "title": "ACHILE 2 — Augmented Capability for HIgh end soLdiErs 2",
-            "sub": "Participant · EU funding €981K of €35.0M · 27 partners · 2027–2031",
-            "status": "Grant · Forthcoming",
+            "title": "European Defence Fund project 101304808",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "14 Oct 2026",
             "iso": "2026-10-14",
             "ongoing": false,
@@ -13576,87 +13575,7 @@
           {
             "type": "funder",
             "name": "European Commission · European Defence Fund",
-            "sub": "1 grant · €981K",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "AMOPACK SL",
-            "country": "ES",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "BSS APS",
-            "country": "DK",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "CAFA TECH OU",
-            "country": "EE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "ELNO",
-            "country": "FR",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "EPIC BLUE",
-            "country": "BE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "EXOFRAME SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
-            "country": "PL",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "FABBRICA D'ARMI PIETRO BERETTA - SPA",
-            "country": "IT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "FN HERSTAL SA",
-            "country": "BE",
-            "sub": "1 joint EDF project",
+            "sub": "1 grant",
             "status": "verified",
             "src": [
               2
@@ -13664,18 +13583,19 @@
           }
         ],
         "products": [],
+        "news": [],
         "sources": [
           {
             "title": "Company register · SIREN 819514118",
             "url": "https://recherche-entreprises.api.gouv.fr/search?q=819514118"
           },
           {
-            "title": "EU Funding & Tenders portal · ACHILE 2",
+            "title": "EU Funding & Tenders portal · 101304808",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101304808/EDF"
           }
         ]
       },
-      "card_hash": "0abc5ca625f0098a"
+      "card_hash": "e09e4cf53442c7e3"
     },
     "gdtech-france-sas": {
       "developments": [
@@ -36424,7 +36344,7 @@
       "developments": [
         {
           "date": "18 Nov 2024",
-          "title": "EequalMCM — European Extended Mine Countermeasures (E=MCM)",
+          "title": "European Defence Fund project 101167894",
           "tags": [
             "EDF"
           ],
@@ -36444,8 +36364,8 @@
         ]
       ],
       "about": {
-        "workspace": "ELWAVE is a French company registered in 2018, with its seat in Carquefou. It takes part in 1 European Defence Fund project (2024). Of these, 1 ongoing, EU funding to the company €520K.",
-        "overview": "ELWAVE is a French company registered in 2018, with its seat in Carquefou. It takes part in 1 European Defence Fund project (2024). Of these, 1 ongoing, EU funding to the company €520K."
+        "workspace": "ELWAVE is a French company registered in 2018, with its seat in Carquefou. It takes part in 1 European Defence Fund project (2024).",
+        "overview": "ELWAVE is a French company registered in 2018, with its seat in Carquefou. It takes part in 1 European Defence Fund project (2024)."
       },
       "facts": {
         "workspace": [
@@ -36490,31 +36410,82 @@
       "programmes": {
         "workspace": [
           {
-            "title": "EequalMCM — European Extended Mine Countermeasures (E=MCM)",
-            "sub": "Participant · EU funding €520K of €45.0M · 22 partners · 2024–2027",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101167894",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
             "icon": "coins",
             "date": "18 Nov 2024",
-            "desc": "EDF EDF-2023-DA-UWW-MCMC",
+            "desc": "Call EDF-2023-DA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167894/EDF"
           }
         ],
         "overview": [
           {
-            "title": "EequalMCM — European Extended Mine Countermeasures (E=MCM)",
-            "sub": "Participant · EU funding €520K of €45.0M · 22 partners · 2024–2027",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101167894",
+            "sub": "EU defence research and development · call EDF-2023-DA",
+            "status": "Grant",
             "icon": "coins",
             "date": "18 Nov 2024",
-            "desc": "EDF EDF-2023-DA-UWW-MCMC",
+            "desc": "Call EDF-2023-DA",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167894/EDF"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "EPULSE",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "OCTOPULSE",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Tetrapulse",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "ESENSE",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "EPULSE",
+              "EPULSE product range offers the world’s first compact active electric field sensors based on the ‘active electrolocation’ patented. Technolo",
+              "grey"
+            ],
+            [
+              "OCTOPULSE",
+              "OCTOPULSE sensor (E-PULSE product range) integration on an ROV deployed from a USV during the SeaSEC Challenge 2025.",
+              "grey"
+            ],
+            [
+              "Tetrapulse",
+              "Tetrapulse integrated on the Defender ROV during the NATO event SHINE at the Centre for Maritime Research and Experimentation (CMRE).",
+              "grey"
+            ],
+            [
+              "ESENSE",
+              "ESENSE product range sets a new standard for the detection of underwater electric field. These Wideband Underwater Electrometer sensors comm",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -36572,41 +36543,12 @@
       ],
       "page": {
         "v": 2,
-        "lead": "ELWAVE is a French company registered in 2018, with its seat in Carquefou. It takes part in 1 European Defence Fund project (2024). Of these, 1 ongoing, EU funding to the company €520K.",
+        "lead": "ELWAVE is a French company registered in 2018, with its seat in Carquefou. It takes part in 1 European Defence Fund project (2024).",
         "lead_src": [
           1,
           2
         ],
-        "figures": [
-          {
-            "value": "€520K",
-            "label": "EU defence funding to the company",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "European Defence Fund projects",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "ongoing now",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "21",
-            "label": "organisations it shares EDF projects with",
-            "src": [
-              2
-            ]
-          }
-        ],
+        "figures": [],
         "facts": [
           [
             "2018",
@@ -36626,12 +36568,12 @@
         ],
         "activity": [
           {
-            "title": "EequalMCM — European Extended Mine Countermeasures (E=MCM)",
-            "sub": "Participant · EU funding €520K of €45.0M · 22 partners · 2024–2027",
-            "status": "Grant · Ongoing",
+            "title": "European Defence Fund project 101167894",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "18 Nov 2024",
             "iso": "2024-11-18",
-            "ongoing": true,
+            "ongoing": false,
             "src": 2
           }
         ],
@@ -36639,87 +36581,7 @@
           {
             "type": "funder",
             "name": "European Commission · European Defence Fund",
-            "sub": "1 grant · €520K",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "BALTIJOS PAZANGIU TECHNOLOGIJU INSTITUTAS",
-            "country": "LT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "BELSS SIA",
-            "country": "LV",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "DOTOCEAN",
-            "country": "BE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "EXAIL ROBOTICS",
-            "country": "FR",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "EXAIL ROBOTICS BELGIUM",
-            "country": "BE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "IHC DEFENCE BV",
-            "country": "NL",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "MINISTERUL APARARII NATIONALE",
-            "country": "RO",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "NAVAL GROUP",
-            "country": "FR",
-            "sub": "1 joint EDF project",
+            "sub": "1 grant",
             "status": "verified",
             "src": [
               2
@@ -36727,18 +36589,19 @@
           }
         ],
         "products": [],
+        "news": [],
         "sources": [
           {
             "title": "Company register · SIREN 837540210",
             "url": "https://recherche-entreprises.api.gouv.fr/search?q=837540210"
           },
           {
-            "title": "EU Funding & Tenders portal · EequalMCM",
+            "title": "EU Funding & Tenders portal · 101167894",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101167894/EDF"
           }
         ]
       },
-      "card_hash": "6bb63ebfd4391d79"
+      "card_hash": "ec18dbc4c67d3c5f"
     },
     "ericsson-france": {
       "developments": [
@@ -59184,7 +59047,7 @@
       "developments": [
         {
           "date": "07 Dec 2022",
-          "title": "dTHOR — Digital Ship Structural Health Monitoring",
+          "title": "European Defence Fund project 101103257",
           "tags": [
             "EDF"
           ],
@@ -59204,8 +59067,8 @@
         ]
       ],
       "about": {
-        "workspace": "TESTIA is a French company registered in 1991, with its seat in Toulouse. It takes part in 1 European Defence Fund project (2022). Of these, EU funding to the company €221K.",
-        "overview": "TESTIA is a French company registered in 1991, with its seat in Toulouse. It takes part in 1 European Defence Fund project (2022). Of these, EU funding to the company €221K."
+        "workspace": "TESTIA is a French company registered in 1991, with its seat in Toulouse. It takes part in 1 European Defence Fund project (2022).",
+        "overview": "TESTIA is a French company registered in 1991, with its seat in Toulouse. It takes part in 1 European Defence Fund project (2022)."
       },
       "facts": {
         "workspace": [
@@ -59250,31 +59113,152 @@
       "programmes": {
         "workspace": [
           {
-            "title": "dTHOR — Digital Ship Structural Health Monitoring",
-            "sub": "Participant · EU funding €221K of €14.5M · 37 partners · 2022–2025",
-            "status": "Grant · Ended",
+            "title": "European Defence Fund project 101103257",
+            "sub": "EU defence research and development · call EDF-2021-NAVAL-R-2",
+            "status": "Grant",
             "icon": "coins",
             "date": "07 Dec 2022",
-            "desc": "EDF EDF-2021-NAVAL-R-SSHM-2",
+            "desc": "Call EDF-2021-NAVAL-R-2",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103257/EDF"
           }
         ],
         "overview": [
           {
-            "title": "dTHOR — Digital Ship Structural Health Monitoring",
-            "sub": "Participant · EU funding €221K of €14.5M · 37 partners · 2022–2025",
-            "status": "Grant · Ended",
+            "title": "European Defence Fund project 101103257",
+            "sub": "EU defence research and development · call EDF-2021-NAVAL-R-2",
+            "status": "Grant",
             "icon": "coins",
             "date": "07 Dec 2022",
-            "desc": "EDF EDF-2021-NAVAL-R-SSHM-2",
+            "desc": "Call EDF-2021-NAVAL-R-2",
             "color": "orange",
             "href": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103257/EDF"
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Smart UE1",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Smart U32",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Clad Tool",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Thickness Tool",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Gecko",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Elasticity Tool",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Locate Tool",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Easy Wheel",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "D‑Lam Size Tool",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "D‑Lam Tool",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Reference Blocks",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Smart UE1",
+              "Smart UE1 Now updated with enhanced ergonomics – tougher than ever!",
+              "grey"
+            ],
+            [
+              "Smart U32",
+              "Smart U32 One modular instrument for quick and accurate aerospace PAUT inspections – for every level of expertise",
+              "grey"
+            ],
+            [
+              "Clad Tool",
+              "Clad Tool Fast and cost-effective go/no-go clad diagnosis for any technician available on-site",
+              "grey"
+            ],
+            [
+              "Thickness Tool",
+              "Thickness Tool 20 times faster and accurate thickness mapping of blended-outs overall aircraft skin",
+              "grey"
+            ],
+            [
+              "Gecko",
+              "Gecko Direct, quick and reliable characterization of defects on vertical honeycomb repaired structures for assuring structural safety",
+              "grey"
+            ],
+            [
+              "Elasticity Tool",
+              "Elasticity Tool Easy and quick honeycomb panels integrity checker for assuring structural safety of AC (former ELCH tool)",
+              "grey"
+            ],
+            [
+              "Locate Tool",
+              "Locate Tool Locate Tool is a solution to facilitate the localization of damages on large assets relatively to their origins.",
+              "grey"
+            ],
+            [
+              "Easy Wheel",
+              "Easy Wheel is a multi-task Phased Array scanning device for effortless heavy duty inspections",
+              "grey"
+            ],
+            [
+              "D‑Lam Size Tool",
+              "D‑Lam Size Tool Dedicated solution for rapid and reliable delamination and disbond characterisation of large structures",
+              "grey"
+            ],
+            [
+              "D‑Lam Tool",
+              "D‑Lam Tool Ultra-fast and easy Go/No‑Go layered panel delamination assessment by any member of your team",
+              "grey"
+            ],
+            [
+              "Reference Blocks",
+              "Assure precise inspection measurements for any aerospace NDT device – thanks to our comprehensive catalog of reference blocks",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -59332,34 +59316,12 @@
       ],
       "page": {
         "v": 2,
-        "lead": "TESTIA is a French company registered in 1991, with its seat in Toulouse. It takes part in 1 European Defence Fund project (2022). Of these, EU funding to the company €221K.",
+        "lead": "TESTIA is a French company registered in 1991, with its seat in Toulouse. It takes part in 1 European Defence Fund project (2022).",
         "lead_src": [
           1,
           2
         ],
-        "figures": [
-          {
-            "value": "€221K",
-            "label": "EU defence funding to the company",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "1",
-            "label": "European Defence Fund projects",
-            "src": [
-              2
-            ]
-          },
-          {
-            "value": "36",
-            "label": "organisations it shares EDF projects with",
-            "src": [
-              2
-            ]
-          }
-        ],
+        "figures": [],
         "facts": [
           [
             "1991",
@@ -59379,9 +59341,9 @@
         ],
         "activity": [
           {
-            "title": "dTHOR — Digital Ship Structural Health Monitoring",
-            "sub": "Participant · EU funding €221K of €14.5M · 37 partners · 2022–2025",
-            "status": "Grant · Ended",
+            "title": "European Defence Fund project 101103257",
+            "sub": "EU defence research and development",
+            "status": "Grant",
             "date": "07 Dec 2022",
             "iso": "2022-12-07",
             "ongoing": false,
@@ -59392,87 +59354,7 @@
           {
             "type": "funder",
             "name": "European Commission · European Defence Fund",
-            "sub": "1 grant · €221K",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "CAFA TECH OU",
-            "country": "EE",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "CETENA SPA CENTRO PER GLI STUDI DI TECNICA NAVALE",
-            "country": "IT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
-            "country": "FR",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "CONSIGLIO NAZIONALE DELLE RICERCHE",
-            "country": "IT",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "DAMEN NAVAL BV",
-            "country": "NL",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "partner",
-            "name": "DAMEN SCHELDE NAVAL SHIPBUILDING BV",
-            "country": "NL",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "ECOLE NATIONALE SUPERIEURE D'ARTS ET METIERS",
-            "country": "FR",
-            "sub": "1 joint EDF project",
-            "status": "verified",
-            "src": [
-              2
-            ]
-          },
-          {
-            "type": "research",
-            "name": "ETHNICON METSOVION POLYTECHNION",
-            "country": "EL",
-            "sub": "1 joint EDF project",
+            "sub": "1 grant",
             "status": "verified",
             "src": [
               2
@@ -59480,18 +59362,19 @@
           }
         ],
         "products": [],
+        "news": [],
         "sources": [
           {
             "title": "Company register · SIREN 383475605",
             "url": "https://recherche-entreprises.api.gouv.fr/search?q=383475605"
           },
           {
-            "title": "EU Funding & Tenders portal · dTHOR",
+            "title": "EU Funding & Tenders portal · 101103257",
             "url": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/projects-details/44181033/101103257/EDF"
           }
         ]
       },
-      "card_hash": "0fa379148f53fbd6"
+      "card_hash": "47d98f88f5f39469"
     },
     "thales-alenia-space-france-sas": {
       "developments": [
