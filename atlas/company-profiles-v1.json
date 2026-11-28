@@ -126668,8 +126668,129 @@
           }
         ]
       },
-      "productTree": [],
-      "productAccordion": [],
+      "productTree": [
+        {
+          "label": "Everllence B&W ME-C",
+          "level": "L0",
+          "icon": "box",
+          "selected": true
+        },
+        {
+          "label": "Everllence B&W ME-GI",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Everllence B&W ME-LGIA",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Everllence B&W ME-LGIM",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Everllence B&W ME-LGIP",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "175DF-Methanol",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Common Rail 2.2 injection system",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Cryogenic Equipment",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Steam turbines",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "Compressors",
+          "level": "L0",
+          "icon": "box"
+        },
+        {
+          "label": "PrimeServ Assist",
+          "level": "L0",
+          "icon": "box"
+        }
+      ],
+      "productAccordion": [
+        {
+          "level": "L0",
+          "title": "Systems",
+          "dot": "blue",
+          "open": true,
+          "items": [
+            [
+              "Everllence B&W ME-C",
+              "Two-stroke engines Everllence B&W ME-C",
+              "grey"
+            ],
+            [
+              "Everllence B&W ME-GI",
+              "Everllence B&W ME-GI",
+              "grey"
+            ],
+            [
+              "Everllence B&W ME-LGIA",
+              "Everllence B&W ME-LGIA",
+              "grey"
+            ],
+            [
+              "Everllence B&W ME-LGIM",
+              "Everllence B&W ME-LGIM",
+              "grey"
+            ],
+            [
+              "Everllence B&W ME-LGIP",
+              "Everllence B&W ME-LGIP",
+              "grey"
+            ],
+            [
+              "175DF-Methanol",
+              "Four-stroke engines 175DF-Methanol",
+              "grey"
+            ],
+            [
+              "Common Rail 2.2 injection system",
+              "Engineering Excellence Common Rail 2.2 injection system",
+              "grey"
+            ],
+            [
+              "Cryogenic Equipment",
+              "Cryogenic Equipment",
+              "grey"
+            ],
+            [
+              "Steam turbines",
+              "Steam turbines",
+              "grey"
+            ],
+            [
+              "Compressors",
+              "Compressors",
+              "grey"
+            ],
+            [
+              "PrimeServ Assist",
+              "By introducing our digital key products CEON and PrimeServ Assist, we created a comprehensive digital ecosystem that allows us to collect, c",
+              "grey"
+            ]
+          ]
+        }
+      ],
       "technologies": [],
       "relationships": {
         "workspace": [
@@ -126785,7 +126906,7 @@
           }
         ]
       },
-      "card_hash": "a71777c17b47ca8e"
+      "card_hash": "cdaea7022113f0fb"
     },
     "evoelectronics-s-r-l": {
       "developments": [
